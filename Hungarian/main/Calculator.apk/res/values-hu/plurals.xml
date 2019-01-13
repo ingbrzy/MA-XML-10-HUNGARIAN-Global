@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="entries">
+        <item quantity="other">%d elem</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="mortgage_summary_years">
+        <item quantity="other">%1$d év (%2$d hónap)</item>
+        <item quantity="one">%1$d év (%2$d hónap)</item>
+    </plurals>
+</resources>

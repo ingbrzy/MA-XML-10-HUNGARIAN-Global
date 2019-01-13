@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>Jan</item>
+        <item>Febr</item>
+        <item>Márc</item>
+        <item>Ápr</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>Aug</item>
+        <item>Szept</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Ma este</item>
+        <item>Holnap</item>
+        <item>Hétvégén</item>
+        <item>Jövő héten</item>
+        <item>Jövő hónapban</item>
+        <item>Válassza ki a dátumot</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Válasz</item>
+        <item>Válasz mindenkinek</item>
+        <item>Továbbítás</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Apró</item>
+        <item>Kicsi</item>
+        <item>Normális</item>
+        <item>Nagy</item>
+        <item>Óriási</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Legutóbb megtekintett</item>
+        <item>Formátum</item>
+        <item>Név</item>
+        <item>Küldő</item>
+        <item>Beérkezés dátuma</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Rendszer</item>
+        <item>Gyakran használt</item>
+        <item>Összes mappa</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Újabb üzenet</item>
+        <item>Régebbi üzenet</item>
+        <item>Bejövő üzenetek</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Cím:</item>
+        <item>Tel:</item>
+        <item>Név:</item>
+        <item>E-mail:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Irányítószám:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Köszönöm,</item>
+        <item>Üdvözlettel</item>
+        <item>Küldve az én</item>
+        <item>Eredeti e-mail</item>
+        <item>Küldve az én</item>
+        <item>Küldve</item>
+        <item>Feladó</item>
+        <item>Ez az e-mail</item>
+        <item>Felelősséget kizáró nyilatkozat</item>
+        <item>E-mail nyilatkozat</item>
+    </string-array>
+</resources>
