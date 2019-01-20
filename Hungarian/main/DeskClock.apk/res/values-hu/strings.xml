@@ -148,7 +148,6 @@
     <string name="shutdown_alarm_enable_summary">Az ébresztő megszólal, ha legalább 5 perccel a készülék kikapcsolása utánra állítja be</string>
     <string name="shutdown_alarm_title">Ébresztés kikapcsolt állapotban</string>
     <string name="silent_alarm_summary">Némítás</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Egyszeri kikapcsolás %s</string>
     <string name="slider_text">Húzza fel a kikapcsoláshoz</string>
     <string name="snooze_confirm_cancel">Riasztás elutasítása</string>
@@ -166,7 +165,6 @@
     <string name="start_up">Indít</string>
     <string name="stopwatch_lap_empty_text">Nincs részidő</string>
     <string name="stopwatch_title">Stopper</string>
-    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Beállítások</string>
     <string name="system_time_settings_category_title">Időbeállítások</string>
     <string name="temperature_unit">℃</string>
