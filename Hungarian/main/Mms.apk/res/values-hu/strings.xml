@@ -220,6 +220,7 @@
     <string name="file_size">Méret:</string>
     <string name="file_title">Név:</string>
     <string name="file_width_height">Méret:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Új üzenet</string>
     <string name="forward_from">Továbbítás:</string>
     <string name="forward_message_select_title">Üzenet továbbítása</string>
@@ -661,6 +662,7 @@
     <string name="send_signature_confirm_dialog_title">Megerősítés</string>
     <string name="send_sms">Üzenet küldése</string>
     <string name="send_to">Címzett</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">%1s elküldve</string>
     <string name="sent_label">"Elküldve: "</string>
     <string name="service_message_not_found">Az üzenet lejárt vagy nem érhető el.</string>

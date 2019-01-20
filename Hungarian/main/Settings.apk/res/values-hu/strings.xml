@@ -33,7 +33,7 @@
     <string name="accelerometer_title">Automatikus képernyőforgatás</string>
     <string name="access_control_app_entry_multiple">%s indítása</string>
     <string name="access_control_app_entry_single">Alkalmazás indítása</string>
-    <string name="access_control_need_password">"A(z) %s védett
+    <string name="access_control_need_password">"%s védett
 "</string>
     <string name="access_control_need_to_unlock">Jelszó szükséges:</string>
     <string name="access_control_no_back_footer">[icon] érintése a kilépéshez</string>
@@ -154,7 +154,7 @@ A billentyűzetre és a navigációs sávra nem lehet ránagyítani."</string>
     <string name="add_a_language">Nyelv hozzáadása</string>
     <string name="add_account_label">Fiók hozzáadása</string>
     <string name="add_auto_startup_application">Automatikusan induló alkalmazás hozzáadása</string>
-    <string name="add_back_fingerprint_instruction_msg">Helyezze az ujját az ujjlenyomat-olvasóra</string>
+    <string name="add_back_fingerprint_instruction_msg">Helyezze az ujját az érzékelőre</string>
     <string name="add_device_admin">Az eszközrendszergazdai alkalmazás aktiválása</string>
     <string name="add_device_admin_msg">Aktiválja az eszközrendszergazdai alkalmazást?</string>
     <string name="add_facerecoginition_text">Arcadatok hozzáadása</string>
@@ -168,12 +168,12 @@ A billentyűzetre és a navigációs sávra nem lehet ránagyítani."</string>
     <string name="add_fingerprint_finished_button_text">Kész</string>
     <string name="add_fingerprint_instruction_msg">Az ujjlenyomat-olvasó a készüléke előlapján, a Home gombba beépítve található.</string>
     <string name="add_fingerprint_instruction_title">Adja hozzá az ujjlenyomatát</string>
-    <string name="add_fingerprint_move_fast">Tartsa az ujját a képernyőn egy kicsit hosszabb ideig</string>
+    <string name="add_fingerprint_move_fast">Tartsa az ujját a képernyőn egy kicsit tovább</string>
     <string name="add_fingerprint_name_suggest_text">Az ujjlenyomat neve</string>
     <string name="add_fingerprint_put_finger_edge_msg">Óvatosan mozgassa arrébb az ujját, majd rakja vissza a szenzorra, hogy ujjlenyomatának minden apró részlete hozzáadódjon.</string>
     <string name="add_fingerprint_put_finger_msg">Tegye az ujját az érzékelőre, majd emelje fel, ha rezgést érzett.</string>
     <string name="add_fingerprint_put_finger_title">Ujjlenyomat hozzáadása</string>
-    <string name="add_fingerprint_similar_fingerprint_input_error_msg">Kissé mozgassa az ujját</string>
+    <string name="add_fingerprint_similar_fingerprint_input_error_msg">Enyhén mozgassa az ujját</string>
     <string name="add_fingerprint_success_msg">Sikeresen hozzáadva</string>
     <string name="add_fingerprint_text">Ujjlenyomat hozzáadása</string>
     <string name="add_fingerprint_toast_text">Helyezze az ujját az ujjlenyomat-olvasóra</string>
@@ -372,7 +372,7 @@ A rendszergazda képes a beállítások, hozzáférések, alkalmazások és a fe
     <string name="applications_settings">Alkalmazáskezelő</string>
     <string name="applications_settings_header">Alkalmazásbeállítások</string>
     <string name="applications_settings_summary">Alkalmazások kezelése, gyorsindító parancsikonok létrehozása</string>
-    <string name="apply_fingerprint_to_category_title">Ujjlenyomat-használat itt…</string>
+    <string name="apply_fingerprint_to_category_title">Ujjlenyomat használata itt…</string>
     <string name="apply_now_button_text">Frissítés</string>
     <string name="apply_password_to_category_title">Feloldás szükséges</string>
     <string name="apply_update_fail">Frissítés sikertelen</string>
@@ -630,8 +630,8 @@ Utolsó futás időpontja: %2$s"</string>
     <string name="bind_xiaomi_account_confirm">Hozzáadás</string>
     <string name="bind_xiaomi_account_dialog_summery">Éppen a(z) %s Mi Fiókot készül hozzáadni. Ha elfelejti a jelszavát, ezt a fiókot használhatja a visszaállításhoz.</string>
     <string name="bind_xiaomi_account_success">Mi Fiók sikeresen hozzáadva</string>
-    <string name="biometric_weak_improve_matching_title">Az arcfelismerés javítása</string>
-    <string name="biometric_weak_liveliness_summary">Egy pislantás is szükséges lesz a feloldáshoz</string>
+    <string name="biometric_weak_improve_matching_title">Arcfelismerés javítása</string>
+    <string name="biometric_weak_liveliness_summary">Legyen szükséges egy pislantás a feloldáshoz</string>
     <string name="biometric_weak_liveliness_title">A személy valódiságának ellenőrzése</string>
     <string name="ble_scan_notify_text">A pontosabb helyadatok érdekében a rendszeralkalmazások és -szolgáltatások továbbra is kereshetnek Bluetooth-eszközöket. Ezt a LINK_BEGINkeresési beállításoknálLINK_END módosíthatja.</string>
     <string name="block_list_connected_devices">Csatlakoztatott készülékek</string>
@@ -924,8 +924,9 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="bootloader_status_unlocked">Nyitott</string>
     <string name="bootloader_status_unlocked_info">Ennek a készüléknek nyitott a bootloadere</string>
     <string name="bootloader_summary">Készülék flashelése USB-n keresztül</string>
-    <string name="bootloader_tips">A Mi fiók hozzáadását követően ne jelentkezzen ki, ne végezzen gyári visszaállítást, illetve ne törölje a rendszeralkalmazások adatait. Ha a fentiek bármelyikét elvégzi, újra hozzá kell adnia a fiókját, ellenkező esetben nem lesz képes feloldani a készülék bootloaderét.</string>
+    <string name="bootloader_tips">A Mi Fiók hozzáadását követően ne jelentkezzen ki, ne végezzen gyári visszaállítást, illetve ne törölje a rendszeralkalmazások adatait. Ha a fentiek bármelyikét elvégzi, újra hozzá kell adnia a fiókját, ellenkező esetben nem lesz képes feloldani a készülék bootloaderét.</string>
     <string name="bootloader_tips_ok">Rendben</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">A fényjelzés színe</string>
     <string name="breathing_light_color_summary">Új értesítés érkezését jelző fény színe</string>
     <string name="breathing_light_freq_summary">Villogás új értesítés érkezésekor</string>
@@ -1433,7 +1434,7 @@ Mivel az adatforgalmat a telefon méri, és szolgáltató mérései ettől elté
     <string name="default_usb_mode">USB-kapcsolat módja</string>
     <string name="delete">Törlés</string>
     <string name="delete_fingerprint_confirm_msg">Eltávolítja az ujjlenyomatot?</string>
-    <string name="delete_fingerprint_text">Az ujjlenyomat eltávolítása</string>
+    <string name="delete_fingerprint_text">Ujjlenyomat eltávolítása</string>
     <string name="delete_legacy_fingerprint">Etávolítás</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Eltávolítja ezt az ujjlenyomatot?</string>
     <string name="delete_rule">Szabályok törlése</string>
@@ -1525,6 +1526,7 @@ Mivel az adatforgalmat a telefon méri, és szolgáltató mérései ettől elté
     <string name="dialog_title_hdmi_color_calibration">Színkorrekció előbeállítás</string>
     <string name="dialog_title_login">Jelentkezzen be a Mi Fiókjába</string>
     <string name="dialog_yes">Igen</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Megjegyzés: újraindítás után ez az alkalmazás csak akkor fog elindulni, ha feloldotta a készüléket</string>
     <string name="disable_overlays">HW fedvények letiltása</string>
     <string name="disable_overlays_summary">Képernyő leképezéshez mindig a GPU-t használja</string>
@@ -1585,6 +1587,7 @@ Mivel az adatforgalmat a telefon méri, és szolgáltató mérései ettől elté
     <string name="dndm_auto_button_title">Ne zavarjanak mód idejének ismétlése</string>
     <string name="dndm_auto_setting_group">Ütemezett</string>
     <string name="dndm_auto_time_setting">Időbeállítás</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Befejezés</string>
     <string name="dndm_auto_time_turn_off_title">Automatikusan kikapcsolja a Ne zavarjanak módot</string>
     <string name="dndm_auto_time_turn_on">Kezdés</string>
@@ -1890,8 +1893,8 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a szervezet r
     <string name="fingerprint_first_open_screen_password_face_tittle">Arc (előbb állítson be Képernyőzárjelszót)</string>
     <string name="fingerprint_first_open_screen_password_tittle">Ujjlenyomat (előbb állítson be Képernyőzárjelszót)</string>
     <string name="fingerprint_for_keyguard_disabled">Ujjlenyomat kikapcsolva a biztonsági beállítások által.</string>
-    <string name="fingerprint_identify_input_password_msg">Adja meg a jelszót</string>
-    <string name="fingerprint_identify_msg">Ujjlenyomat-beolvasás…</string>
+    <string name="fingerprint_identify_input_password_msg">Írja be a jelszót</string>
+    <string name="fingerprint_identify_msg">Ujjlenyomat beolvasása…</string>
     <string name="fingerprint_identify_try_again_msg">Az ujjlenyomat beolvasása sikertelen, próbálja újra</string>
     <string name="fingerprint_intro_error_max">Elérte a hozzáadható ujjlenyomatok maximális számát</string>
     <string name="fingerprint_intro_error_unknown">Nem lehet több ujjlenyomatot hozzáadni</string>
@@ -1907,7 +1910,7 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a szervezet r
     <string name="fingerprint_manage_tittle">Ujjlenyomat</string>
     <string name="fingerprint_not_identified_msg">Az ujjlenyomat nem leolvasható. Adja meg a jelszavát</string>
     <string name="fingerprint_not_recognized">Nem sikerült felismerni</string>
-    <string name="fingerprint_others_title">Egyebek</string>
+    <string name="fingerprint_others_title">Egyéb</string>
     <string name="fingerprint_payment">Fizetés ujjlenyomattal</string>
     <string name="fingerprint_removal_failed">Az ujjlenyomat eltávolítása sikertelen, próbálja meg később</string>
     <string name="fingerprint_swipe_for_notifications_summary">Megtekintheti értesítéseit, ha ujját lefelé húzza a telefonja hátulján található ujjlenyomat-érzékelőn.</string>
@@ -2053,6 +2056,7 @@ Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos 
     <string name="gadget_picker_title">Modul kiválasztása</string>
     <string name="gadget_state_off">ki</string>
     <string name="gadget_state_on">be</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">kikapcsolás</string>
     <string name="gadget_state_turning_on">bekapcsolás</string>
     <string name="gadget_sync">Szinkronizálás</string>
@@ -2103,6 +2107,7 @@ Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos 
     <string name="gxzw_dialog_not_show_again">Ne mutassa újra</string>
     <string name="gxzw_dialog_ok">Rendben</string>
     <string name="gxzw_dialog_title">A képernyőbe épített ujjlenyomat-olvasóról</string>
+    <string name="gxzw_quick_open_title" />
     <string name="handy_mode">Egykezes használat</string>
     <string name="handy_mode_enable">Egykezes használat</string>
     <string name="handy_mode_size">Képernyőméret</string>
@@ -2376,6 +2381,7 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="lift_to_wake_title">Felébresztéshez emelje meg</string>
     <string name="line_breaking_summary">Bekezdés sortörés optimalizálása</string>
     <string name="line_breaking_title">Sortörés optimalizálása</string>
+    <string name="link_speed">%1$d Mb/s</string>
     <string name="list_bg_header_text">Ha korlátozza a háttérkapcsolatokat, az új alkalmazások telepítésük után nem tudnak majd a háttérben az internetre kapcsolódni. Lehet, hogy ezek az alkalmazások nem tudnak majd üzeneteket fogadni vagy letölteni ezután.</string>
     <string name="list_empty_text">Üres</string>
     <string name="loading_notification_apps">Alkalmazások betöltése…</string>
@@ -2732,6 +2738,7 @@ Más felhasználók is vannak ezen az eszközön.
     <string name="memory_title">Elérhető: %1$s\u0009\u0009Összesen: %2$s</string>
     <string name="memory_usage">Memóriahasználat</string>
     <string name="memory_usage_apps">Alkalmazások által használt memória</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s átlagos memóriahasználat az elmúlt 3 órában</string>
     <string name="menu_cancel">Elvetés</string>
     <string name="menu_check">Tapasztalat</string>
@@ -3040,6 +3047,7 @@ USB háttértárként fog megjelenni a számítógépén."</string>
     <string name="nfc_how_it_works_got_it">Értem</string>
     <string name="nfc_how_it_works_title">Fizetés a terminálnál</string>
     <string name="nfc_more_title">Egyebek…</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Fizetéskor alapértelmezett</string>
     <string name="nfc_payment_default_not_set">Nincs megadva</string>
     <string name="nfc_payment_favor_default">Mindig használja az alapértelmezett alkalmazást</string>
@@ -3252,6 +3260,7 @@ Ezzel az alkalmazás egyúttal képes lesz a „Ne zavarjanak” jelzés be- vag
     <string name="overlay_display_devices_title">Másodlagos kijelzők szimulálása</string>
     <string name="overlay_settings">A többi alkalmazás fölött</string>
     <string name="owner_info_settings_edit_text_hint">pl. Péter Androidja.</string>
+    <string name="owner_info_settings_status">%2$d / %1$d</string>
     <string name="owner_info_settings_summary">Nincs</string>
     <string name="owner_info_settings_title">Képernyőzár aláírás</string>
     <string name="owner_space">Első asztal</string>
@@ -3435,7 +3444,7 @@ Ezzel az alkalmazás egyúttal képes lesz a „Ne zavarjanak” jelzés be- vag
     <string name="pref_manage_bg_network">Alkalmazások háttérbeli hálózati kapcsolatának kezelése</string>
     <string name="pref_new_installed_preconfig_title">Új alkalmazások alapértelmezett beállításai</string>
     <string name="pref_operational_key">Navigációs gombok</string>
-    <string name="pref_show_lunar_calendar_title">A hagyományos kínai naptár megjelenítése a képernyőzáron</string>
+    <string name="pref_show_lunar_calendar_title">Hagyományos kínai naptár megjelenítése a képernyőzáron</string>
     <string name="pref_title_lang_selection">Nyelvi beállítások</string>
     <string name="pref_title_update_notification">Adatforgalmi értesítés</string>
     <string name="pref_volume_launch_camera_summary">Kamera eléréséhez nyomja meg kétszer a hangerő le gombot</string>
@@ -3579,6 +3588,8 @@ Ezzel az alkalmazás egyúttal képes lesz a „Ne zavarjanak” jelzés be- vag
     <string name="private_sms_recording_intro_header">Rajzoljon egy feloldómintát:</string>
     <string name="private_sms_reset_by_account">Jelszava visszaállításához jelentkezzen be Mi Fiókjába</string>
     <string name="process_dex2oat_label">Alkalmazásoptimalizálás</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Médiaszerver</string>
     <string name="process_provider_in_use_description">%1$s szolgáltató használatban van.</string>
     <string name="process_service_in_use_description">%1$s szolgáltatás használatban van.</string>
@@ -4192,8 +4203,8 @@ A használathoz:
     <string name="secondspace_category">Második asztal</string>
     <string name="secondspace_delete_space_title">Második asztal törlése</string>
     <string name="secspace_fod_finger_tips">Az ellenőrzés sikertelen. Próbálja újra.</string>
-    <string name="secspace_fod_finger_title">Ujjlenyomatának megerősítése</string>
-    <string name="secspace_fod_use_password">Adja meg a jelszót</string>
+    <string name="secspace_fod_finger_title">Ellenőrizze ujjlenyomatát</string>
+    <string name="secspace_fod_use_password">Írja be a jelszót</string>
     <string name="secure_keyguard_business_title">A képernyőzár beállítása</string>
     <string name="secure_lock_encryption_warning">Mivel engedélyezett egy kisegítő szolgáltatást, az eszköz nem fogja használni a képernyőzárat az adattitkosítás növelése érdekében.</string>
     <string name="security_dashboard_summary">Képernyőzár, ujjlenyomat</string>
@@ -4207,6 +4218,7 @@ A használathoz:
     <string name="security_encryption_attention_3">Új képernyőzárjelszót kell beállítania.</string>
     <string name="security_encryption_attention_4">Ne felejtse el képernyőzár jelszavát, különben teljes gyári visszaállítást kell végrehajtania a készüléken, minden adat törlésével.</string>
     <string name="security_encryption_attention_info">Titkosíthatja a fiókjait, beállításait, letöltött alkalmazásait és azok adatait, média- és egyéb fájljait.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Fontos</string>
     <string name="security_encryption_close_dialog_info">Ha azt választja, hogy képernyőzárjelszó nélkül titkosítja a készüléket, akkor előfordulhat, hogy bizonyos Google szolgáltatások nem lesznek elérhetőek.</string>
     <string name="security_encryption_close_dialog_title">Vissza az alapértelmezett jelszavas védelemhez</string>
@@ -4333,12 +4345,12 @@ Megjegyzés: Az ujjlenyomat az eszköz feloldására nem használható. Ha tová
     <string name="setup_choose_unlock_fingerprint_msg">Ujjlenyomat hozzáadása előtt állítson be képernyőzárat.</string>
     <string name="setup_choose_unlock_mixed_password">Jelszó</string>
     <string name="setup_choose_unlock_mixpassword_title">Jelszó beállítása</string>
-    <string name="setup_choose_unlock_password">PIN-kód</string>
+    <string name="setup_choose_unlock_password">PIN</string>
     <string name="setup_choose_unlock_password_msg">4 számjegyet írjon be</string>
     <string name="setup_choose_unlock_password_title">PIN beállítása</string>
-    <string name="setup_choose_unlock_pattern">Feloldóminta</string>
+    <string name="setup_choose_unlock_pattern">Minta</string>
     <string name="setup_choose_unlock_pattern_title">Rajzolja le a feloldómintát</string>
-    <string name="setup_choose_unlock_type_title">Jelszó beállítása</string>
+    <string name="setup_choose_unlock_type_title">Állítson be jelszót</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message">Kiválasztotta, hogy ujjlenyomattal is feloldhassa telefonját. Ha most kihagyja a lépéseket, később kell majd beállítania a funkciót. Ez hozzávetőlegesen 1 percet vesz igénybe.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Átugorja az ujjllenyomat-beállítást?</string>
     <string name="setup_fingerprint_enroll_finish_message">Csak érintse meg az ujjlenyomat-érzékelőt az eszköz felébresztéséhez és feloldásához.</string>
@@ -4461,6 +4473,7 @@ Lehet, hogy hibás a PIN-kód."</string>
     <string name="sim_reenter_new">Írja be ismét az új PIN-kódot</string>
     <string name="sim_select_card">Válasszon egy SIM kártyát</string>
     <string name="sim_selection_required_pref">Ki kell választani</string>
+    <string name="sim_settings_summary">%1$s – %2$s</string>
     <string name="sim_settings_title">SIM kártyák</string>
     <string name="sim_setup_wizard_title">SIM kártyák</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4474,6 +4487,7 @@ Lehet, hogy hibás a PIN-kód."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Kihagyás</string>
     <string name="skip_label">Kihagyás</string>
@@ -4558,6 +4572,7 @@ Ezt az Ön eszközére telepített megbízható hitelesítési adatok teszik leh
     <string name="status_bar_settings_all_app_display_loading">Egy pillanat…</string>
     <string name="status_bar_settings_app_notification_preferences">Alkalmazásbeállítások</string>
     <string name="status_bar_settings_basic_settings">Alap beállítások</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">A szolgáltató nevének szerkesztése</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fi nevének szerkesztése</string>
     <string name="status_bar_settings_customer_feedback">Visszajelzés</string>
@@ -4786,8 +4801,8 @@ Gyorsabb ^1 használatával javulhat a teljesítmény."</string>
     <string name="strict_mode">Szigorú mód engedélyezve</string>
     <string name="strict_mode_summary">Villogjon a képernyő, amikor az alkalmazások hosszú műveleteket végeznek a fő szálon</string>
     <string name="structure_add_facerecoginition_text">3D-s arcadatok hozzáadása</string>
-    <string name="structure_face_enroll_not_able_low_electric_itle">Alacsony akkumulátorszint miatt nem használhatja ezt a funkciót</string>
-    <string name="structure_face_enroll_not_able_low_electric_msg">Az akkumulátornak legalább 5%-os töltöttségűnek kell lennie a rögzítés elkezdéséhez.</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">Nem lehet ezt a funkciót használni alacsony akkumulátorszint miatt</string>
+    <string name="structure_face_enroll_not_able_low_electric_msg">Az akkumulátornak legalább 5%-ra kell lennie töltve a rögzítés elkezdéséhez.</string>
     <string name="structure_manage_facerecoginition_text">3D-s arcadatok kezelése</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Ezek az alkalmazások működnek legjobban teljes képernyős módban</string>
     <string name="suggested_fingerprint_lock_settings_summary">Feloldás ujjlenyomattal</string>
@@ -4803,6 +4818,7 @@ Gyorsabb ^1 használatával javulhat a teljesítmény."</string>
     <string name="sum_carrier_select">Válassza ki a hálózat üzemeltetőjét</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_font_size_v2">Szövegek, képek és ikonok méretének beállítása</string>
+    <string name="summary_range_symbol_combination">%1$s–%2$s</string>
     <string name="summary_range_verbal_combination">%1$s–%2$s</string>
     <string name="super_resolution_access_title">Elérhető alkalmazások</string>
     <string name="super_resolution_desc">Állítsa a képeket élesebbé az AI algoritmus használatával</string>
@@ -5110,7 +5126,7 @@ Mentett ujjlenyomatait a rendszer szintén eltávolítja ebből a profilból, Ö
     <string name="unlock_set_do_later_title">Most nem</string>
     <string name="unlock_set_enter_system">Képernyőzár kihagyása</string>
     <string name="unlock_set_enter_system_summary">Képernyő feloldásakor rögtön a kezdőképernyő nyílik meg</string>
-    <string name="unlock_set_unlock_biometric_weak_summary">Fejlesztés alatt álló funkció, kevesebb biztonsággal</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Fejlesztés alatt álló funkció, kevésbé biztonságos</string>
     <string name="unlock_set_unlock_biometric_weak_title">Arcalapú feloldás</string>
     <string name="unlock_set_unlock_disabled_summary">Rendszergazda, szabályzat vagy adattár letiltotta</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">PIN-kód, feloldóminta és jelszavas védelem módosítása vagy kikapcsolása</string>
@@ -5805,9 +5821,11 @@ Engedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Nincs</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -5998,7 +6016,7 @@ Engedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni
     <string name="work_sound_permission_dialog_message">Vállalati módban nem használhatja a Témák alkalmazást. A rendszergazdája adhat jogot hozzá.</string>
     <string name="work_sound_permission_dialog_title">A vállalati módra vonatkozó korlátozások</string>
     <string name="work_sound_same_as_personal">Ugyanaz, mint a személyes profilban</string>
-    <string name="work_space_delete">A Munkatér törlése</string>
+    <string name="work_space_delete">Munkatér törlése</string>
     <string name="work_space_delete_confirm">Törlés most</string>
     <string name="work_space_delete_description">Nem tud majd belépni a Munkatérbe, ha törölte. Minden adat áthelyezésre vagy törlésre kerül.</string>
     <string name="work_sync_dialog_message">A személyes profilban használt hangokat használja majd a munkahelyi profil is</string>

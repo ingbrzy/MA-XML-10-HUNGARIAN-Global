@@ -97,6 +97,7 @@
     <string name="card_title_change">Továbbiak</string>
     <string name="change_response_title">Válasz módosítása</string>
     <string name="click_to_share">Koppintson a megosztáshoz</string>
+    <string name="close_alarm">Kikapcsol</string>
     <string name="countdown_event_title">Visszaszámlálás: %1$s-ig</string>
     <string name="countdown_notify_before_3_day_title">Visszaszámlálás: %1$s 3 nap múlva</string>
     <string name="countdown_notify_title">Visszaszámlálás: %1$s-ig</string>
@@ -292,6 +293,8 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="no_visiable_calendar_select_account">Fiók hozzáadása</string>
     <string name="no_visiable_calendar_title">Fiók hozzáadása</string>
     <string name="not_synced">nincs szinkronizálva</string>
+    <string name="notification_channel_description" />
+    <string name="notification_channel_name">Naptáremlékeztetők</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Amanta hónap:</string>
     <string name="panchang_ayana">Ayana</string>

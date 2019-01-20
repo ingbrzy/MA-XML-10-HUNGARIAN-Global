@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Amint a MIUI rendszer érzékeli, hogy Ön elaludt, bezárja a háttérben futó alkalmazásokat, korlátozza a Bluetooth, a GPS, a Wi-Fi és a mobiladat-használatot, illetve nem engedi, hogy az értesítések felébresszék a képernyőt.</string>
     <string name="nonui_mode_config_title">Nem interaktív mód</string>
     <string name="nonui_mode_config_description">Ne kapcsolja be a képernyőt értesítések érkezésekor, kapcsolja ki a LED fényt, ujjlenyomat-olvasót és érintésvezérlőket az akkumulátor kímélése érdekében, ha a MIUI érzékeli, hogy nem használja a telefont.</string>
-    <string name="power_center">Akkumulátorhasználat</string>
+    <string name="power_center">Akkumulátorkímélő</string>
     <string name="power_usage">Fogyasztás</string>
     <string name="power_mode">Teljesítménybeállítások</string>
     <string name="performance_category">Teljesítmény mód</string>
@@ -110,4 +110,8 @@ Az akkumulátorkímélő szelektíven kezeli a fontos alkalmazásokat."</string>
     <string name="extreme_add_white_list_summary">Legfeljebb 4 alkalmazást adhat hozzá</string>
     <string name="adaptive_battery_title">Alkalmazkodó akkumulátor</string>
     <string name="adaptive_battery_summary">Korlátozza az akkumulátorhasználatot az olyan alkalmazásokhoz, amelyeket ritkán használ</string>
+    <string name="dark_mode">Sötét mód</string>
+    <string name="dark_mode_summary">Sötét tónusokra váltás az akkumulátorkímélés érdekében</string>
+    <string name="open_dark_mode">Átkapcsolás Sötét módba</string>
+    <string name="open_dark_mode_tip">Néhány funkció megjelenítési minősége rosszabb lehet Sötét módban. Ez azonban a mód kikapcsolásával megoldható. Sötét módra vált most?</string>
 </resources>

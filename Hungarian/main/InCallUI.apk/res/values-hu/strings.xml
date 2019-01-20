@@ -51,6 +51,7 @@
     <string name="onscreen_note_calls_text">Feljegyzés</string>
     <string name="call_record_wait_label">Várakozás</string>
     <string name="contacts_icon_label">Névjegyek</string>
+    <string name="call_not_support_high_frequency_click">Ne túl gyakran érintse meg ezt a gombot</string>
     <string name="conference_call_description" formatted="false">%s,%s egyéb összesen %s</string>
     <string name="conference_call_single_description" formatted="false">%s egyéb összesen %s</string>
     <string name="separate_from_conference">Különálló hívás</string>

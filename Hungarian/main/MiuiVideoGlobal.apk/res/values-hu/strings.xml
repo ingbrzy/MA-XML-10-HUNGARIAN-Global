@@ -35,6 +35,7 @@
     <string name="cast_forward">Előretekerés</string>
     <string name="cast_forward_10">Előretekerés tíz másodperccel</string>
     <string name="cast_forward_30">Előretekerés harminc másodperccel</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Némítás</string>
     <string name="cast_notification_connected_message">Csatlakozva a következőhöz: %1$s</string>
     <string name="cast_notification_connecting_message">Csatlakozás a következőhöz: %1$s</string>
@@ -112,6 +113,7 @@
     <string name="s6">Engedélyezi a hirdetés számára naptáresemény létrehozását?</string>
     <string name="s7">Teszthirdetés</string>
     <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="agree">Elfogadás</string>
     <string name="ai_animation_music_text">AI soundtrack</string>
     <string name="ai_music_save_cancel">Mégse</string>

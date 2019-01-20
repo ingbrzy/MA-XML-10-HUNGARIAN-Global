@@ -35,6 +35,8 @@
     <string name="mx_sub_dspt_provision_with_voip">Internetes (VoIP) hívás</string>
     <string name="phone_number_required_dspt_provision">"A szolgáltatás igényli a telefonszámát. "</string>
     <string name="sync_dspt_provision">"Szinkronizálja fényképeit, névjegyeit, jegyzeteit és sok mást az összes Mi készülékére, vagy érje el őket itt "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". A szolgáltatás bármikor be- és kikapcsolható a Beállítások menüpontban.
 "</string>
     <string name="sync_dspt_entrance_provision">"Szinkronizálja a fényképeket, névjegyeket, üzeneteket, hívásnaplót az összes készülékén. A szinkronizált adatok eléréshez keresse fel a %s weboldalt. "</string>
@@ -45,6 +47,8 @@
     <string name="sync_dspt_entrance_provision_skip">Lépés kihagyása</string>
     <string name="sync_dspt_entrance_provision_network">Az alkalmazás megfelelő működéséhez internetkapcsolat szükséges. Az adatok szinkronizálása mobiladat-kapcsolatot vagy Wi-Fi kapcsolatot igényel.</string>
     <string name="find_device_dspt_provision">Elveszett készüléke helyének meghatározásához, zárolásához, illetve az adatok törléséhez látogasson el a(z) %s weboldalra. Ez a funkció bármikor ki- vagy bekapcsolható a Beállítások menüpontban.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">SIM-kártya cseréje esetén a szolgáltatás újraaktiválásához szükséges SMS automatikusan küldésre kerül.</string>
     <string name="mx_dspt_provision">"A Mi Üzenet szolgáltatás ingyenes üzenetküldést tesz lehetővé a MIUI készülékek között Wi-Fi használata mellett.
 
@@ -286,6 +290,7 @@ a Mi Fiókjába a Mi Cloud újraaktiválásához."</string>
     <string name="micloud_find_device_opened">Készülékkeresés bekapcsolva</string>
     <string name="micloud_find_device_open_fail">Nem sikerült bekapcsolni a Készülékkeresést</string>
     <string name="micloud_find_device_opened_content">Készülékkeresés itt: %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">Készülékkeresés újraaktiválása sikertelen</string>
     <string name="micloud_find_device_close_fail">Készülékkeresés kikapcsolása sikertelen</string>
     <string name="micloud_find_device_finish">Kész</string>
@@ -352,6 +357,8 @@ a Mi Fiókjába a Mi Cloud újraaktiválásához."</string>
     <string name="micloud_main_head_menu_state_close">Kikapcsolva</string>
     <string name="micloud_main_head_menu_state_unavailable">Nem támogatott</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">A Második asztalon nem elérhető a Készülékkeresés, az Első asztalon tudja használni.</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">Fizetés ujjlenyomattal</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>

@@ -217,6 +217,7 @@
     <string name="accessibility_shutter_button">Zárgomb</string>
     <string name="accessibility_intent_done_apply">Kész</string>
     <string name="accessibility_intent_done_retry">Újrapróbálkozás</string>
+    <string name="accessibility_video_btn_play">Videólejátszás</string>
     <string name="accessibility_review_thumbnail">Legutolsó fénykép</string>
     <string name="accessibility_camera_picker">Váltás előlapi és hátlapi kamera között</string>
     <string name="accessibility_stereo_button">Fókuszbeállítás</string>
@@ -250,6 +251,7 @@
     <string name="accessibility_beauty_panel_open">Szépítés menüje elérhető</string>
     <string name="accessibility_back_preview_status">Hátlapi kamera előnézete</string>
     <string name="accessibility_front_preview_status">Előlapi kamera előnézete</string>
+    <string name="accessibility_pull_down_to_open_camera">Húzza lefelé a kamera megnyitásához</string>
     <string name="accessibility_focus_status">%1$sX nagyítás</string>
     <string name="accessibility_filter_pad_close">Szűrőmenü elrejtve</string>
     <string name="accessibility_camera_picker_finish">A kamerák közötti váltás sikeresen megtörtént</string>
@@ -455,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Mélységhatás</string>
     <string name="portrait_mode_use_hint">"A Portrémód elmossa a hátteret
 és középpontba állítja az embereket."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Próbálja ki a Portrémódot.
 A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_square_mode_title">Négyzet</string>
@@ -471,6 +474,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_beautify_entry_low">Alacsony</string>
     <string name="pref_camera_beautify_entry_normal">Közepes</string>
     <string name="pref_camera_beautify_entry_high">Magas</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Módok</string>
     <string name="button_front_camera_title">Szelfi készítése</string>
     <string name="button_normal_video_title">Videófelvétel</string>
@@ -587,7 +591,7 @@ Portrémódban"</string>
     <string name="lighting_pattern_dot">Pontok</string>
     <string name="lighting_pattern_shutter">Függöny</string>
     <string name="view_privacy_policy">Adatvédelmi irányelvek megtekintése</string>
-    <string name="fps960_toast">Slow-motion capture will start at the last quarter of the recording</string>
+    <string name="fps960_toast">A szuperlassított felvétel a rögzítés utolsó negyedétől kezdődik majd</string>
     <string name="portrait_bokeh_text">Portrémód</string>
     <string name="portrait_bokeh_first_tips">"Használja a Portrémódot
 a fényképek hátterének elmosásához"</string>
@@ -612,7 +616,7 @@ a fényképek hátterének elmosásához"</string>
     <string name="beauty_body_body">Vékony</string>
     <string name="beauty_body_shoulder">Vállak</string>
     <string name="beauty_body_legged">Lábak</string>
-    <string name="beauty_body_reset_tip">Az alakeffektek sikeresen eltávolításra kerültek</string>
+    <string name="beauty_body_reset_tip">Az alakeffektek sikeresen visszaállításra kerültek</string>
     <string name="ultra_wide_open_tip">Nagylátószögű mód</string>
     <string name="ultra_wide_close_tip">A nagylátószögű mód kikapcsolva</string>
     <string name="pref_camera_zoom_mode_entry_ultra">Nagylátószögű</string>
@@ -670,4 +674,5 @@ A nagylátószögű mód segít abban az esetben, ha nem tud elmozdulni a helysz
     <string name="ultra_pixel_photography_32mp_close_tip">A 32MP kikapcsolva</string>
     <string name="accessibility_ultra_pixel_photography_32mp_on">A 32MP bekapcsolva</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">A 32MP kikapcsolva</string>
+    <string name="zoom_no_support_tip_48M">A nagyítás nem működik a 48MP-es módban</string>
 </resources>
