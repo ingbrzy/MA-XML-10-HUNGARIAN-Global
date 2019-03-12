@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_calllog_detail">Hívásnapló részletei</string>
     <string name="accessibility_contact_detail">Névjegy adatai</string>
     <string name="account_container_title">Importálva a következőből</string>
     <string name="account_default">Helyi</string>
+    <string name="account_dual_sdn">SDN %s</string>
+    <string name="account_dual_sim">SIM-kártya %s</string>
     <string name="account_phone">Csak a készüléken, nem szinkronizált</string>
     <string name="account_sdn">SDN</string>
-    <string name="account_sdn2">%d SDN</string>
     <string name="account_sim">SIM-kártya</string>
-    <string name="account_sim2">SIM%d-kártya</string>
     <string name="account_type_format">%1$s névjegy</string>
     <string name="actionIncomingCall">Bejövő hívások</string>
     <string name="action_menu_overflow_description">További lehetőségek</string>
@@ -98,6 +99,7 @@
     <string name="call_sim_menu_title_suffix">(Elsődleges)</string>
     <string name="call_telex">Telex hívása</string>
     <string name="call_tty_tdd">TTY/TDD-szám hívása</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Munkahelyi telefon hívása</string>
     <string name="call_work_mobile">Munkahelyi mobil hívása</string>
@@ -264,6 +266,7 @@ Névjegykártyák kikapcsolva\""</string>
     <string name="contactsGroupsLabel">Csoportok</string>
     <string name="contactsJoinedMessage">Névjegyek összekapcsolva</string>
     <string name="contactsList">Névjegyek</string>
+    <string name="contacts_default_notification_channel">Értesítések</string>
     <string name="contacts_hybrid_activity_label">Névjegyek visszaállítása</string>
     <string name="contacts_setting_title">Névjegybeállítások</string>
     <string name="contacts_unavailable_add_account">Jelentkezzen be fiókjába</string>
@@ -487,6 +490,7 @@ Oka: \"%s\""</string>
     <string name="force_touch_miprofile">Névjegykártya</string>
     <string name="force_touch_new_contact">Új névjegy</string>
     <string name="frequentList">Gyakori</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Név</string>
     <string name="gallery">Galéria</string>
     <string name="generic_no_account_prompt">Tartsa névjegyeit biztonságban akkor is, ha elveszíti a telefonját: szinkronizálja egy online szolgáltatással.</string>
@@ -667,6 +671,7 @@ Oka: \"%s\""</string>
     <string name="miprofile_contact_header">Névjegyek névjegykártyákkal</string>
     <string name="miprofile_contact_meaasge">Helyi névjegyek</string>
     <string name="miprofile_contact_verifying">Ellenőrzés</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profil szerkesztése</string>
     <string name="miprofile_error_accept_self">Nem tud saját magával névjegykártyát cserélni</string>
     <string name="miprofile_error_no_miaccount">Jelentkezzen be a Mi Fiókjába</string>
@@ -811,7 +816,10 @@ Oka: \"%s\""</string>
     <string name="path_wipe_data">Rendszeralkalmazások/Névjegyek/Névjegyek rendszerezése/Adatok törlése</string>
     <string name="payphone">Nyilvános telefon</string>
     <string name="people">Névjegyek</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Túl hosszú a telefonszám</string>
     <string name="phone_primary">Elsődleges</string>
     <string name="photoPickerNotFoundText">Nincsenek elérhető képek a készüléken.</string>
@@ -867,8 +875,8 @@ Oka: \"%s\""</string>
     <string name="preference_dial_pad_touch_tone_default">Alapértelmezett</string>
     <string name="preference_dial_pad_touch_tone_human">Hang</string>
     <string name="preference_dial_pad_touch_tone_piano">Zongorabillentyűk</string>
-    <string name="preference_dial_pad_touch_tone_switch">Tárcsázó hangja</string>
-    <string name="preference_dial_pad_touch_tone_title">Tárcsázó hangja</string>
+    <string name="preference_dial_pad_touch_tone_switch">A tárcsázó érintési hangjai</string>
+    <string name="preference_dial_pad_touch_tone_title">A tárcsázó érintési hangjai</string>
     <string name="preference_display">Megjelenítés</string>
     <string name="preference_displayOptions">Megjelenítési beállítások</string>
     <string name="preference_display_contact">Megjelenítési beállítások</string>
@@ -1059,6 +1067,7 @@ Oka: \"%s\""</string>
     <string name="sim_unloaded">Nincs SIM-kártya a készülékbe helyezve</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nincs tag a csoportban</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Cégek</string>
     <string name="smart_group_company_unavailable">Nincs céginformáció</string>
     <string name="smart_group_frequency_1">Az elmúlt hónapban</string>
@@ -1193,6 +1202,7 @@ Válasszon az alábbi lehetőségek közül:"</string>
     <string name="voip_audio_description">VoIP hívás</string>
     <string name="voip_video_description">VoIP videóhívás</string>
     <string name="websiteLabelsGroup">Honlap</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Adatok törlése</string>
     <string name="yellowPageNavigationIconLabel">Yellow pages</string>
     <string name="yellowPageNavigationLabel">Yellow pages</string>

@@ -418,7 +418,7 @@ Legyen biztos benne, hogy a vállalatának neve hibátlanul van beírva. Olvassa
     <string name="ent_licence_code_hint">Adja meg a licenckódot</string>
     <string name="ent_next_step">Tovább</string>
     <string name="ent_get_code_hint">Megkaphatja a szervezeti és licenckódokat a vezetőjétől</string>
-    <string name="ent_agree_privacy_policy">Elolvastam és elfogadom az Adatvédelmi irányelveket</string>
+    <string name="ent_agree_privacy_policy">Elolvastam és elfogadom az Adatvédelmi Irányelveket</string>
     <string name="ent_activation">Aktiválás</string>
     <string name="ent_activating">Aktiválás…</string>
     <string name="ent_installing">Telepítés…</string>
@@ -461,4 +461,5 @@ Legyen biztos benne, hogy a vállalatának neve hibátlanul van beírva. Olvassa
     <string name="dialog_verify_fingerprint_retry">Az ujjlenyomat azonosítása sikertelen. Próbálja újra.</string>
     <string name="button_touch">Helyezze az ujját az ujjlenyomat-olvasóra</string>
     <string name="button_input_password">Írja be a jelszót</string>
+    <string name="master_clear_not_available">Munkáltatója letiltotta a Gyári adatok visszaállítását.</string>
 </resources>

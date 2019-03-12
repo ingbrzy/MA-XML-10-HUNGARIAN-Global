@@ -17,10 +17,11 @@
     <string name="provider_label">Naptár</string>
     <string name="debug_tool_delete_button">Törlés</string>
     <string name="debug_tool_start_button">Indít</string>
-    <string name="debug_tool_message">Arra készül, hogy a naptár adatbázisát SD-kártyára/USB háttértárra másolja, amit bármelyik alkalmazás olvasni és emailben továbbítani tud. Ne feledje törölni a másolatot, amint azt sikeresen lementette vagy mikor az e-mailt, amit küldeni készül, megkapták.</string>
+    <string name="debug_tool_message">Arra készül, hogy a naptár adatbázisát SD-kártyára/USB háttértárra másolja, amit bármelyik alkalmazás olvasni és e-mailben továbbítani tud. Ne feledje törölni a másolatot, amint azt sikeresen lementette vagy mikor az e-mailt, amit küldeni készül, megkapták.</string>
     <string name="debug_tool_email_sender_picker">Válasszon alkalmazást a file küldéséhez</string>
     <string name="debug_tool_email_subject">Naptár hibakereső eszköz csatolva</string>
     <string name="debug_tool_email_body">Csatolva a Naptár adatbázisom minden bejegyzésemmel és személyen információmmal. Kezelje bizalmasan!</string>
     <string name="channel_name">Naptáremlékeztetők</string>
     <string name="channel_description" />
+    <string name="cta_notice">Indítsa el a Naptárat, majd először engedélyezze, hogy az csatlakozzon az internetre.</string>
 </resources>

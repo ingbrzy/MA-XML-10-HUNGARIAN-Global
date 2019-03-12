@@ -56,12 +56,16 @@
         <item quantity="other">%d rejtett fénykép nincs szinkronizálva. Megőrzésük érdekében, szinkronizálásuk után jelentkezzen ki, ellenkező esetben az elemek törlésre kerülnek.</item>
         <item quantity="one">%d rejtett fénykép nincs szinkronizálva. Megőrzésük érdekében, szinkronizálásuk után jelentkezzen ki, ellenkező esetben az elemek törlésre kerülnek.</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">Szinkronizálás folytatása %d óra múlva</item>
-        <item quantity="one">Szinkronizálás folytatása %d óra múlva</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">A szinkronizálás szüneteltetve. %d perc múlva folytatódik…</item>
+        <item quantity="one">A szinkronizálás szüneteltetve. %d perc múlva folytatódik…</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">Szinkronizálás folytatása %d perc múlva</item>
-        <item quantity="one">Szinkronizálás folytatása %d perc múlva</item>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">%s perce</item>
+        <item quantity="one">%s perce</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">%s órája</item>
+        <item quantity="one">%s órája</item>
     </plurals>
 </resources>

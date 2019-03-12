@@ -164,7 +164,7 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="configure_input_methods">Billentyűzet kiválasztása</string>
     <string name="miui_upgrading_notification_title">Rendszerbetöltés, néhány funkció nem elérhető.</string>
     <string name="miui_screen_ratio_hint">Képernyőarány-problémák</string>
-    <string name="miui_screen_ratio_hint_message">Ez az alkalmazás teljes képernyős módban is futhat, amely hibás megjelenést okozhat. Ezt bármikor megváltoztathatja a Beállítások > Teljes képernyős megjelenítés menüben.</string>
+    <string name="miui_screen_ratio_hint_message">Ez az alkalmazás teljes képernyős módban is futhat, amely hibás megjelenést okozhat. Ezt bármikor megváltoztathatja a Beállítások > Képernyővezérlési mód menüben.</string>
     <string name="miui_screen_ratio_hint_dont_show_again">Ne mutassa újra</string>
     <string name="miui_screen_ratio_hint_ok">OK</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Beállítások megnyitása</string>
@@ -176,6 +176,12 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="wifi_assistant_wifi_no_internet">Ez a Wi-Fi-hálózat nem ad internet-hozzáférést</string>
     <string name="wifi_assistant_wifi_no_internet_detail">A részletek megtekintéséhez érintse meg</string>
     <string name="resolver_app_recommend_flag">Ajánlás</string>
+    <string name="resolver_checkbox_once">Egyszer</string>
+    <string name="resolver_checkbox_always">Mindig</string>
+    <string name="resolver_mi_browser">Mi Böngésző</string>
+    <string name="resolver_recommend_options_tag">Ajánlott lehetőségek</string>
+    <string name="resolver_offical_recommend">Hivatalos</string>
+    <string name="resolver_other_method">Egyéb lehetőségek</string>
     <string name="voice_button_action_up">Tartsa nyomva, amíg beszél</string>
     <string name="voice_button_action_down">Engedje el a kereséshez</string>
     <string name="voice_begin">Mit szeretne keresni?</string>

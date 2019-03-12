@@ -105,6 +105,7 @@
     <string name="accessibility_wifi_signal_full">Wi-Fi-jel: teljes.</string>
     <string name="accessibility_wifi_security_type_none">Nyílt hálózat</string>
     <string name="accessibility_wifi_security_type_secured">Biztonságos hálózat</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="data_usage_uninstalled_apps">Eltávolított alkalmazások</string>
     <string name="data_usage_uninstalled_apps_users">Eltávolított alkalmazások és felhasználók</string>
     <string name="tether_settings_title_usb">USB-megosztás</string>
@@ -451,5 +452,5 @@ lejátszási minőség"</string>
     <string name="close">Kikapcsolás</string>
     <string name="callFailed_simError">SIM-kártya hiba</string>
     <string name="incall_error_supp_service_unknown">Ez a szolgáltatás nem támogatott.</string>
-    <string name="incall_error_power_off">Ha telefonálni akar, kapcsolja ki a repülőgépmódot.</string>
+    <string name="incall_error_power_off">Ha telefonálni szeretne, kapcsolja ki a repülőgépmódot.</string>
 </resources>

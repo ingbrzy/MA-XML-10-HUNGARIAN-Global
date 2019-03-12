@@ -9,7 +9,7 @@
     <string name="app_search">Alkalmazások keresése</string>
     <string name="btn_send">Küldés</string>
     <string name="bugreport_dialog_not_show_again">Ne mutassa újra</string>
-    <string name="bugreport_dialog_submit_content"><Data>Ezen a készüléken Ön szoftver-hibanaplókat is ment. A naplók tartalmazhatnak személyes adatokat és az Ön helyadatait. Senkivel se ossza meg a hibanaplókat, ha nem szeretné hogy ezek az információk szabadon elérhetővé váljanak. Az Elfogadás kiválasztása azt jelenti, Ön elolvasta és egyetért a mi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Adatvédelmi Irányelveinkkel&lt;/a> és &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Felhasználói Szerződésünkkel&lt;/a>.</Data></string>
+    <string name="bugreport_dialog_submit_content">&lt;Data>Ezen a készüléken Ön szoftver-hibanaplókat is ment. A naplók tartalmazhatnak személyes adatokat és az Ön helyadatait. Senkivel se ossza meg a hibanaplókat, ha nem szeretné hogy ezek az információk szabadon elérhetővé váljanak. Az Elfogadás kiválasztása azt jelenti, Ön elolvasta és egyetért a mi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Adatvédelmi Irányelveinkkel&lt;/a> és &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Felhasználói Szerződésünkkel&lt;/a>.&lt;/Data></string>
     <string name="bugreport_dump_complete_notification_summary">Érintse meg a megtekintéshez.</string>
     <string name="bugreport_dump_complete_notification_title">A hibanapló elkészült</string>
     <string name="bugreport_dump_start_notification_summary">Ez néhány percet igénybe vehet.</string>
@@ -91,10 +91,10 @@
     <string name="feedback_continue">Visszajelzés folytatása</string>
     <string name="feedback_delete_images">Képek törlése</string>
     <string name="feedback_description">Leírás</string>
-    <string name="feedback_description_bugreport_hint">In some cases (…) my phone misbehaves (…).</string>
+    <string name="feedback_description_bugreport_hint">Bizonyos esetekben (…) a telefonom nem megfelelően működik (…).</string>
     <string name="feedback_description_hint">Írja le (angolul), milyen problémával találkozott</string>
     <string name="feedback_description_label">Leírás</string>
-    <string name="feedback_description_suggest_hint">"I'd like you to add a new feature () because I need ()."</string>
+    <string name="feedback_description_suggest_hint">Szeretném, ha hozzáadnák ezt az új funkciót (...), mert szükségem van erre (...).</string>
     <string name="feedback_detail_tile">Folyamatban</string>
     <string name="feedback_empty_report_list">Nincsenek jelentések</string>
     <string name="feedback_guess">A mi feltevésünk</string>
@@ -107,6 +107,10 @@
     <string name="feedback_remind_login_btn">Belépés</string>
     <string name="feedback_report_remind_login_desc">Jelentkezzen be a saját Mi Fiókjába, hogy a fejlesztőink felvehessék Önnel a kapcsolatot.</string>
     <string name="feedback_report_remind_login_desc2">Megtekintheti a jelentéseinek állapotát az \"Saját jelentések\" menüpontban is.</string>
+    <string name="feedback_reproductivity_everytime">Minden alkalommal</string>
+    <string name="feedback_reproductivity_occasionally">Néhányszor</string>
+    <string name="feedback_reproductivity_often">Gyakran</string>
+    <string name="feedback_reproductivity_once">Egyszer</string>
     <string name="feedback_retest_label">Az újbóli előidézéshez szükséges lépések</string>
     <string name="feedback_select_images">Kép vagy rövid videó hozzáadása</string>
     <string name="feedback_select_modem_log">Modemnaplók hozzáadása</string>
@@ -167,6 +171,20 @@
     <string name="goon_feedback_main">Tovább</string>
     <string name="hint_feedback_main">Jellemezze a problémát angolul</string>
     <string name="issue_search">Keresés</string>
+    <string name="kr_authorization_agree">Accept</string>
+    <string name="kr_authorization_contact">Accounts</string>
+    <string name="kr_authorization_contact_desc">For getting Mi Account info and verifying your account</string>
+    <string name="kr_authorization_exit">Exit</string>
+    <string name="kr_authorization_log_protocol">Log Protocol (optional)</string>
+    <string name="kr_authorization_log_protocol_desc">"In order to improve the services provided to you, we'll upload usage stats and system logs to our servers. These items may include your personal information, as well as the information about your device and networks. We'll use uploaded items to locate and analyze the problems in the system."</string>
+    <string name="kr_authorization_phone">Phone</string>
+    <string name="kr_authorization_phone_desc">For identifying device using IMEI and model number, as well as locating and analyzing issues</string>
+    <string name="kr_authorization_privacy_policy">Privacy Policy (mandatory)</string>
+    <string name="kr_authorization_select_all">Select all</string>
+    <string name="kr_authorization_storage">Storage</string>
+    <string name="kr_authorization_storage_desc">For accessing storage and saving items including logs, images, and videos</string>
+    <string name="kr_authorization_summary">Legal documents</string>
+    <string name="kr_authorization_user_protocol">User Agreement (mandatory)</string>
     <string name="loading_apps">Lista betöltése…</string>
     <string name="login_system_failed">A bejelentkezés sikertelen, próbálja újra</string>
     <string name="logo_title">Visszajelzés</string>
@@ -438,6 +456,7 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="passport_wrong_phone_number_format">A beírt telefonszám formátuma nem megfelelő</string>
     <string name="passport_wrong_vcode">Hibás ellenőrzőkód</string>
     <string name="pic_not_exist">A kép nem létezik</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Visszajelzése a hibanaplókkal együtt el lesz küldve a Mi szerverére.</string>
     <string name="plus_one_submit_dialog_not_show_again">Ne jelenjen meg újra</string>
     <string name="post_miui_bbs_failed">Nem sikerült a MIUI Fórumra küldeni</string>
@@ -466,8 +485,8 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="select_system_app_tag">Válasszon egy problémát</string>
     <string name="submit_dialog_cancel">Elutasítás</string>
     <string name="submit_dialog_confirm">Elfogadás</string>
-    <string name="submit_dialog_content"><Data>Hogy használhassa a Visszajelzést, előbb el kell fogadnia az &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Adatvédelmi Irányelveket&lt;/a> és a &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Felhasználói Szerződést&lt;/a>. Azokat a jelenségeket, amelyeket a mellékletekkel együtt beküldött, és amelyek személyes, valamint a készülékéről és a hálózatból származó adatokat tartalmaznak, a MIUI szervereire fogjuk feltölteni. Ez segít nekünk megtalálni és megoldani a bejelentett hibákat.</Data></string>
-    <string name="submit_dialog_content_global"><Data>Az Ön visszajelzése, valamint a mellékletek (ha vannak) és a hibanaplók (a dobozok megjelölésével kijelölheti, amelyeket nem szeretné feltölteni) a MIUI szervereire és a MIUI Fórum korlátozott fejlesztői részére kerülnek. A hozzászólásairól és a fórumaktivitásáról szóló információk elemzéshez és a további kommunikációhoz szintén gyűjtésre kerülnek. A naplók tartalmazhatnak személyes adatokat és az Ön helyadatait. Az Elfogadás kiválasztása azt jelenti, Ön elolvasta és egyetért a mi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Adatvédelmi Irányelveinkkel&lt;/a> és &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Felhasználói Szerződésünkkel&lt;/a>.</Data></string>
+    <string name="submit_dialog_content">&lt;Data>Hogy használhassa a Visszajelzést, előbb el kell fogadnia az &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Adatvédelmi Irányelveket&lt;/a> és a &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Felhasználói Szerződést&lt;/a>. Azokat a jelenségeket, amelyeket a mellékletekkel együtt beküldött, és amelyek személyes, valamint a készülékéről és a hálózatból származó adatokat tartalmaznak, a MIUI szervereire fogjuk feltölteni. Ez segít nekünk megtalálni és megoldani a bejelentett hibákat.&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>Az Ön visszajelzése, valamint a mellékletek (ha vannak) és a hibanaplók (a dobozok megjelölésével kijelölheti, amelyeket nem szeretné feltölteni) a MIUI szervereire és a MIUI Fórum korlátozott fejlesztői részére kerülnek. A hozzászólásairól és a fórumaktivitásáról szóló információk elemzéshez és a további kommunikációhoz szintén gyűjtésre kerülnek. A naplók tartalmazhatnak személyes adatokat és az Ön helyadatait. Az Elfogadás kiválasztása azt jelenti, Ön elolvasta és egyetért a mi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Adatvédelmi Irányelveinkkel&lt;/a> és &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Felhasználói Szerződésünkkel&lt;/a>.&lt;/Data></string>
     <string name="submit_dialog_title">Jelentés küldése</string>
     <string name="submit_feedback_info_failed">A jelentést nem sikerült elküldeni</string>
     <string name="suggestion_description">Írja ide a javaslatát</string>

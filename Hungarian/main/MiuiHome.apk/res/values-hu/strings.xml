@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Hozzáadás a munkatérhez</string>
     <string name="activity_not_found">Ez az alkalmazás nincs telepítve a készülékén</string>
     <string name="add_screen">Képernyő hozzáadása</string>
@@ -98,7 +99,7 @@
     <string name="default_folder_title_services">Szolgáltatások</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Eszközök</string>
-    <string name="default_screen_preview_title">Érintse meg az alapértelmezett beállításához</string>
+    <string name="default_screen_preview_title">Alapértelmezett képernyő beállítása</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Törlés</string>
     <string name="delete_screen">Képernyő törlése</string>
@@ -108,6 +109,7 @@
     <string name="download_action">Letöltés</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
+    <string name="dual_app">Kettős alkalmazások</string>
     <string name="edit_folder_title">Mappa átnevezése</string>
     <string name="edit_mode_group">Csoport</string>
     <string name="edit_mode_group_error_full">Nincs elég tárhely</string>
@@ -351,5 +353,15 @@
     <string name="widget_gadget_player">Music_4x</string>
     <string name="widget_global_search">Keresés</string>
     <string name="widget_quick_function">Gyorsfunkciók</string>
-    <string name="dual_app">Kettős alkalmazások</string>
+    <string name="home_gesture_content_center">Tartalomközpont</string>
+    <string name="home_gesture_global_search">Keresés</string>
+    <string name="home_gesture_no_action">Egyik sem</string>
+    <string name="home_gesture_notification_bar">Értesítések</string>
+    <string name="home_pull_down_action">Húzza lefelé az ujját a Kezdőképernyőn</string>
+    <string name="home_slide_up_action">Húzza felfelé az ujját a Kezdőképernyőn</string>
+    <string name="launcher_pull_down_title">Húzza felfelé az ujját a Kezdőképernyőn</string>
+    <string name="launcher_slide_up_title">Húzza lefelé az ujját a Kezdőképernyőn</string>
+    <string name="menu_finish">Kész</string>
+    <string name="minus_one_screen">minus one screen</string>
+    <string name="widgets_preview_title">Minialkalmazás hozzáadása</string>
 </resources>

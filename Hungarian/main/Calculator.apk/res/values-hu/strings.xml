@@ -43,7 +43,7 @@
     <string name="description_content">A Számológép alapfunkciói mellett többfunkciós mértékegységváltóként, pénznemváltóként, hitel- és adókalkulátorként is működik. Mielőtt eltávolítaná az alkalmazást, gondolja végig, boldogul-e ezek nélkül.</string>
     <string name="description_title">A Számológépről</string>
     <string name="devided_by_zero_reminder_message">Nem lehet 0-val osztani</string>
-    <string name="dialog_privacy_content">Egy hagyományos számológép alapvető funkcióinak biztosítása mellett alkalmazásunk tartalmaz egy tudományos számológépet, valamint egy többfunkciós konvertálót is. Néhány funkció működéséhez internetkapcsolatra van szükség. A Kalkulátor használata előtt el kell olvasnod és el kell fogadnod a(z) %1$s és a(z) %2$s című dokumentumokban foglaltakat.</string>
+    <string name="dialog_privacy_content">Egy hagyományos számológép alapvető funkciói mellett, alkalmazásunk magába foglal egy tudományos számológépet és egy többfunkciós átváltó-alkalmazást is. Néhány funkció pontos működéséhez internetkapcsolat szükséges. A Számológép használata előtt el kell olvasnia és el kell fogadnia a következő két dokumentumot: %1$s és %2$s.</string>
     <string name="dialog_privacy_title">Felhasználási feltételek</string>
     <string name="dialog_rating_desc_ask">Mi a véleményed a Kalkulátorról?</string>
     <string name="dialog_rating_desc_less">Adnál nekünk visszajelzést is?</string>
@@ -249,6 +249,11 @@
     <string name="tax_credit_mortgage">Jelzálog</string>
     <string name="tax_credit_personal_income_tax">Személyi jövedelemadó</string>
     <string name="tax_credit_pretax_income">Adózás előtti jövedelem (CNY)</string>
+    <string name="tax_detail">Adózási adatok</string>
+    <string name="tax_detail_amount">Adó összege</string>
+    <string name="tax_detail_rate">Adó mértéke</string>
+    <string name="tax_detail_take_off">Levonás</string>
+    <string name="tax_detail_tax_payed">Kifizetett összeg</string>
     <string name="tax_edittext_hint" />
     <string name="tax_endowment">Nyugdíjalap</string>
     <string name="tax_fixed_salary_hint">Adja meg adózás előtti jövedelmét</string>
@@ -263,11 +268,13 @@
     <string name="tax_individual_income_tax_result">Eredmények</string>
     <string name="tax_injury">Sérülés</string>
     <string name="tax_insurance_and_fund">Biztosítás</string>
+    <string name="tax_insurance_and_fund_detail">Biztosítás adatai</string>
     <string name="tax_last_salary_hint">Adja meg jövedelmét</string>
     <string name="tax_last_salary_number">Jövedelem</string>
     <string name="tax_location">Helyszín</string>
     <string name="tax_medical">Orvosi</string>
     <string name="tax_param_error">Adja meg a pontos biztosítási díjakat</string>
+    <string name="tax_payment_period">Fizetéske száma</string>
     <string name="tax_rate_provider">Az új adózási rendelkezések szerint lett kalkulálva. Az adatokat a hexun.com és az East Money szolgáltatja.</string>
     <string name="tax_result_real_get">Adózás után</string>
     <string name="tax_social_insurance">Társadalombiztosítás</string>
@@ -587,8 +594,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_connect_download_manager_fail">Nem tudott csatlakozni a letöltésekhez. Ellenőrizze, hogy ez app a megfelelő engedélyekkel rendelkezik-e a Beállítások > Telepített alkalmazásokban.</string>
     <string name="xiaomi_external_storage_unavailable">Nincs elérhető tárhely. Ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Bemutatjuk a következő verziót: %1$s
 Méret:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatjuk a következő verziót: %1$s

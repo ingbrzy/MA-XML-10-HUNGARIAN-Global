@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>A szinkronizált elemek felismeréséhez</item>
+        <item>Az üzenetek szinkronizálásához</item>
+        <item>A névjegyek szinkronizálásához</item>
+        <item>A naptáresemények szinkronizáláshoz</item>
+        <item>A tárhelyet használó szolgáltatásokkal összefüggő elemek szinkronizálásához</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Telefon</item>
+        <item>SMS</item>
+        <item>Névjegyek</item>
+        <item>Naptár</item>
+        <item>Tárhely</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Alkalmazásadatok szinkronizálása</item>
         <item>Kezdőképernyő elrendezésének mentése</item>

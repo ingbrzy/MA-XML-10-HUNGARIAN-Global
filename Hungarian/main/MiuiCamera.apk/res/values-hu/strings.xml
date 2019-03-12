@@ -457,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Mélységhatás</string>
     <string name="portrait_mode_use_hint">"A Portrémód elmossa a hátteret
 és középpontba állítja az embereket."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Próbálja ki a Portrémódot.
 A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_square_mode_title">Négyzet</string>
@@ -473,6 +474,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_beautify_entry_low">Alacsony</string>
     <string name="pref_camera_beautify_entry_normal">Közepes</string>
     <string name="pref_camera_beautify_entry_high">Magas</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Módok</string>
     <string name="button_front_camera_title">Szelfi készítése</string>
     <string name="button_normal_video_title">Videófelvétel</string>
@@ -588,6 +590,7 @@ Portrémódban"</string>
     <string name="lighting_pattern_leaf">Levelek</string>
     <string name="lighting_pattern_dot">Pontok</string>
     <string name="lighting_pattern_shutter">Függöny</string>
+    <string name="lighting_pattern_holi">Holi</string>
     <string name="view_privacy_policy">Adatvédelmi irányelvek megtekintése</string>
     <string name="fps960_toast">A szuperlassított felvétel a rögzítés utolsó negyedétől kezdődik majd</string>
     <string name="portrait_bokeh_text">Portrémód</string>
@@ -608,27 +611,27 @@ a fényképek hátterének elmosásához"</string>
     <string name="live_speed_extreme_fast">Szuper gyors</string>
     <string name="live_sticker_updating">Frissítés…</string>
     <string name="live_sticker_network_error_hint">Hálózati hiba</string>
-    <string name="ultra_wide_mode">Nagylátószögű</string>
+    <string name="ultra_wide_mode">Ultraszéles látószög</string>
     <string name="beauty_body">Alak</string>
     <string name="beauty_body_head">Fej</string>
     <string name="beauty_body_body">Vékony</string>
     <string name="beauty_body_shoulder">Vállak</string>
     <string name="beauty_body_legged">Lábak</string>
     <string name="beauty_body_reset_tip">Az alakeffektek sikeresen visszaállításra kerültek</string>
-    <string name="ultra_wide_open_tip">Nagylátószögű mód</string>
-    <string name="ultra_wide_close_tip">A nagylátószögű mód kikapcsolva</string>
-    <string name="pref_camera_zoom_mode_entry_ultra">Nagylátószögű</string>
-    <string name="ultra_wide_recommend_tip_hint">Próbálja ki a nagylátószögű módot</string>
+    <string name="ultra_wide_open_tip">Ultraszéles látószögű mód</string>
+    <string name="ultra_wide_close_tip">Az ultraszéles látószögű mód kikapcsolva</string>
+    <string name="pref_camera_zoom_mode_entry_ultra">ULTRASZÉLES</string>
+    <string name="ultra_wide_recommend_tip_hint">Próbálja ki az ultraszéles látószögű módot</string>
     <string name="camera_liveshot_on_tip">Dinamikus felvételek</string>
     <string name="camera_liveshot_off_tip">A dinamikus felvételek kikapcsolása</string>
     <string name="accessibility_camera_liveshot_on">A dinamikus felvételek bekapcsolása</string>
     <string name="accessibility_camera_liveshot_off">A dinamikus felvételek kikapcsolása</string>
     <string name="beauty_tab_name_live_filter">Szűrők</string>
     <string name="beauty_tab_name_live_beauty">Szépítés</string>
-    <string name="accessibility_ultra_wide_on">A nagylátószögű mód bekapcsolása</string>
-    <string name="accessibility_ultra_wide_off">A nagylátószögű mód kikapcsolása</string>
+    <string name="accessibility_ultra_wide_on">Az ultraszéles látószögű mód bekapcsolása</string>
+    <string name="accessibility_ultra_wide_off">Az ultraszéles látószögű mód kikapcsolása</string>
     <string name="ai_scene_top_tip">Hold-mód</string>
-    <string name="pref_camera_ultra_wide_ldc_title">Torzítások javítása nagylátószögű felvételeken</string>
+    <string name="pref_camera_ultra_wide_ldc_title">Torzításjavítás az ultraszéles látószögű felvételeken</string>
     <string name="pref_camera_ultra_wide_ldc_description">Torzult objektumok automatikus javítása</string>
     <string name="pref_camera_normal_wide_ldc_title">Torzult arcok javítása csoportfelvételeken</string>
     <string name="pref_camera_normal_wide_ldc_description">A keret széleinél lévő emberek arctorzulásainak kijavítása</string>
@@ -646,9 +649,9 @@ a fényképek hátterének elmosásához"</string>
     <string name="live_edit_exit_confirm">Megszakítás</string>
     <string name="live_edit_share_title">Megosztás</string>
     <string name="beauty_reset_toast">A szépítőeffektek sikeresen eltávolításra kerültek</string>
-    <string name="pref_camera_ultra_wide_mode_title">Nagylátószögű mód</string>
+    <string name="pref_camera_ultra_wide_mode_title">Ultraszéles látószögű mód</string>
     <string name="ultra_wide_mode_use_hint_text">"Használja ezt az üzemmódot, ha a fényképe több helyszínt fog át.
-A nagylátószögű mód segít abban az esetben, ha nem tud elmozdulni a helyszínről."</string>
+Az ultraszéles látószögű mód segít abban az esetben, ha nem tud eltávolodni a fényképezni kívánt eseménytől."</string>
     <string name="live_reverse_message">Törli a legutóbb beolvasott elemet?</string>
     <string name="live_reverse_confirm">Törlés</string>
     <string name="live_error_title">Hibás a rendszeridő</string>
@@ -673,4 +676,10 @@ A nagylátószögű mód segít abban az esetben, ha nem tud elmozdulni a helysz
     <string name="accessibility_ultra_pixel_photography_32mp_on">A 32MP bekapcsolva</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">A 32MP kikapcsolva</string>
     <string name="zoom_no_support_tip_48M">A nagyítás nem működik a 48MP-es módban</string>
+    <string name="hand_gesture_open_tip">Az időzítő indításához mutassa a tenyerét a fényképezőgép felé</string>
+    <string name="hand_gesture_tip">Indítás tenyérrel</string>
+    <string name="autozoom_landscape_hint">A legjobb hatás elérése érdekében fényképezéskor fordítsa a készüléket fekvő módba</string>
+    <string name="super_night_toast">Fényképezés közben tartsa a telefont stabilan</string>
+    <string name="capture_back_pressed_hint">Érintse meg újra a kilépéshez</string>
+    <string name="video_ultra_clear_tip">4K UHD</string>
 </resources>

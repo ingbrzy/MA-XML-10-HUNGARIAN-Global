@@ -4,16 +4,16 @@
     <string name="error_filename_too_long">A megadott fájlnév túl hosszú.</string>
     <string name="power_config_select_apps_title">Alkalmazások</string>
     <string name="power_config_event_delete">Törlés</string>
-    <string name="hide_mode_desc"><font color="#000000">Ha egy alkalmazás a háttérben fut, az akkkumulátorhasználat csökkentése érdekében tevékenységei ellenőrzésre kerülnek. Ez a funkció a következő felhasználói adatokat kapja meg és használja %s</font></string>
+    <string name="hide_mode_desc">Ha egy alkalmazás a háttérben fut, az akkumulátorhasználat csökkentése érdekében tevékenységei ellenőrzésre kerülnek. Ez a funkció megkapja és felhasználja a felhasználó adatait a következő alapján: %s</string>
     <string name="privacy">Adatvédelmi Irányelvek</string>
     <string name="power_hide_mode_title">Akkumulátor és teljesítmény</string>
-    <string name="power_config_apps">Akkumulátorkímélő</string>
+    <string name="power_config_apps">Alkalmazásonkénti akkumulátorkímélő</string>
     <string name="app_list_title">Alkalmazások korlátozása</string>
     <string name="power_hide_mode_app_list_summary">Energiamegtakarítás a háttérben</string>
-    <string name="about_hide_mode">Az akkumulátorkímélőről</string>
+    <string name="about_hide_mode">Az alkalmazásonkénti akkumulátorkímélőről</string>
     <string name="show_system_app">Rendszeralkalmazások mutatása</string>
     <string name="hide_system_app">Rendszeralkalmazások elrejtése</string>
-    <string name="about_extreme_mode">Extrém mód</string>
+    <string name="about_extreme_mode">Rendkívül erős akkumulátorkímélő</string>
     <string name="scenario_policies_title">Speciális okos módok</string>
     <string name="config_scenario_policies_title">Speciális módok</string>
     <string name="scenario_policies_summary">Különböző speciális módokban különböző akkumulátorkímélő-stratégiák alkalmazása.</string>
@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Amint a MIUI rendszer érzékeli, hogy Ön elaludt, bezárja a háttérben futó alkalmazásokat, korlátozza a Bluetooth, a GPS, a Wi-Fi és a mobiladat-használatot, illetve nem engedi, hogy az értesítések felébresszék a képernyőt.</string>
     <string name="nonui_mode_config_title">Nem interaktív mód</string>
     <string name="nonui_mode_config_description">Ne kapcsolja be a képernyőt értesítések érkezésekor, kapcsolja ki a LED fényt, ujjlenyomat-olvasót és érintésvezérlőket az akkumulátor kímélése érdekében, ha a MIUI érzékeli, hogy nem használja a telefont.</string>
-    <string name="power_center">Akkumulátorkímélő</string>
+    <string name="power_center">Akkumulátoroptimalizálás</string>
     <string name="power_usage">Fogyasztás</string>
     <string name="power_mode">Teljesítménybeállítások</string>
     <string name="performance_category">Teljesítmény mód</string>
@@ -36,8 +36,8 @@
     <string name="warm_performance_tip">Készüléke egyre melegebb lehet, minél több folyamatot futtat.</string>
     <string name="vip_feedback">VIP visszajelzés</string>
     <string name="vip_feedback_enable">VIP visszajelzés bekapcsolása</string>
-    <string name="extreme_power_config_mode_category">Extrém mód</string>
-    <string name="extreme_power_config_mode_title">Extrém mód</string>
+    <string name="extreme_power_config_mode_category">Rendkívül erős akkumulátorkímélő</string>
+    <string name="extreme_power_config_mode_title">Rendkívül erős akkumulátorkímélő</string>
     <string name="extreme_power_config_mode_desc"><li>A Rendkívül erős akkumulátorkímélő leállít minden háttérben futó alkalmazást miután kilépett belőle és visszatért a Kezdőképernyőre. Az alkalmazásokból nem érkezik többé értesítés és az alkalmazás frissítéseket sem kap.</li>"
 "<li>Ha szeretné, hogy egy alkalmazás futhasson a háttérben, lakatolja le azt az Előzményekben, vagy adja hozzá a Háttérfolyamat-tiltás kivételeihez. Ha a Rendkívül erős akkumulátorkímélő be van kapcsolva maximálisan 4 alkalmazás futhat a háttérben.</li>"
 "<li>Ez az akkumulátorkímélő mód alapértelmezetten kikapcsolja az NFC-t. Ezt módosíthatja a Beállításokban.</li>"
@@ -94,7 +94,7 @@ Az akkumulátorkímélő szelektíven kezeli a fontos alkalmazásokat."</string>
     <string name="appconfig_active_app_dialog_title">Aktív alkalmazások kezelése</string>
     <string name="config_classify">Rendezés alkalmazásbeállítások szerint</string>
     <string name="active_classify">Rendezés aktivitás szerint</string>
-    <string name="extreme_mode_max_item_alert">Extrém módban legfeljebb 4 alkalmazást választhat ki, amelyek a háttérben futhatnak</string>
+    <string name="extreme_mode_max_item_alert">Legfeljebb 4 alkalmazást választhat ki, amelyek akkor is futhatnak a háttérben, ha a Rendkívül erős akkumulátorkímélő be van kapcsolva</string>
     <string name="message_i_know">Rendben</string>
     <string name="high_temp_state">Túlmelegedés</string>
     <string name="high_temp_state_message">Készüléke túlmelegedett! A mobiladat, a Wi-Fi hotspot, a GPS és a kamera korlátozásra kerülnek.</string>
@@ -110,8 +110,4 @@ Az akkumulátorkímélő szelektíven kezeli a fontos alkalmazásokat."</string>
     <string name="extreme_add_white_list_summary">Legfeljebb 4 alkalmazást adhat hozzá</string>
     <string name="adaptive_battery_title">Alkalmazkodó akkumulátor</string>
     <string name="adaptive_battery_summary">Korlátozza az akkumulátorhasználatot az olyan alkalmazásokhoz, amelyeket ritkán használ</string>
-    <string name="dark_mode">Sötét mód</string>
-    <string name="dark_mode_summary">Sötét tónusokra váltás az akkumulátorkímélés érdekében</string>
-    <string name="open_dark_mode">Átkapcsolás Sötét módba</string>
-    <string name="open_dark_mode_tip">Néhány funkció megjelenítési minősége rosszabb lehet Sötét módban. Ez azonban a mód kikapcsolásával megoldható. Sötét módra vált most?</string>
 </resources>

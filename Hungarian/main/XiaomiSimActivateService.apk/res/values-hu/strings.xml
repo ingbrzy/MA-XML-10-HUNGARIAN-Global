@@ -116,7 +116,7 @@
     <string name="phone_get_text">Beleegyezik, hogy %1$s hozzáférjen az Ön telefonszámához：%2$s?</string>
     <string name="phone_get_processing">Hozzáférés…</string>
     <string name="agree">Engedélyezés</string>
-    <string name="privacy_revoke_tips">Miután Ön visszavonta az engedélyt, az alkalmazás nem gyűjt többé adatokat és az addig gyűjtött adatokat is törli a szerverről. A Mi Cloud szinkronizálás, a Mi Üzenet és más üzenetfunkciók nem lesznek elérhetőek többé. Biztosan visszavonja az engedélyt?</string>
+    <string name="privacy_revoke_tips">Miután Ön visszavonta az engedélyt, az alkalmazás nem gyűjt többé adatokat és az addig gyűjtött adatokat is törli a szerverről. A Mi Cloud-szinkronizálás, a Mi Üzenet és más üzenetfunkciók nem lesznek elérhetőek többé. Biztosan visszavonja az engedélyt?</string>
     <string name="privacy_revoke_failed_msg">Az Üzenetfelhőnek el kell érnie az Ön telefonszámát, az engedély megadásához viszont aktiválásra van szükség.</string>
     <string name="waiting_sim_in_service">Várakozás a SIM aktiválására</string>
     <string name="checking_client">Az aktiválási környezet ellenőrzése</string>

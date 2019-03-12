@@ -6,8 +6,8 @@
     <string name="input_method_setting">Billentyűzet kiválasztása</string>
     <string name="input_method_category">Válassza ki az alapértelmezett billentyűzetet. Később lehetséges harmadik féltől származó billentyűzetek telepítése.</string>
     <string name="provision_inputmethod_policy_description">"
-A kiválasztott billentyűzet Adatvédelmi Nyilatkozatának megtekintése."</string>
-    <string name="provision_inputmethod_policy_description1">Adatvédelmi nyilatkozata</string>
+A kiválasztott billentyűzet Adatvédelmi irányelveinek megtekintése."</string>
+    <string name="provision_inputmethod_policy_description1">Adatvédelmi Irányelvek</string>
     <string name="multisim_settings_title">2 SIM-kártya található</string>
     <string name="multisim_settings_category">SIM-kártyák beállításai</string>
     <string name="sim_card_detection">Helyezzen be SIM-kártyát</string>
@@ -30,6 +30,9 @@ A kiválasztott billentyűzet Adatvédelmi Nyilatkozatának megtekintése."</str
     <string name="other_settings_auto_update_summary">A MIUI kiválasztja a legmegfelelőbb pillanatot a frissítések telepítésére</string>
     <string name="other_settings_ad_enable">Személyre szabott reklámajánlat</string>
     <string name="other_settings_ad_enable_summary">A személyre szabott reklámajánlatok az Ön használati szokásain alapulnak</string>
+    <string name="other_settings_enhanced_lockscreen">Váltakozó háttérképek</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Válogatott képeket és történeteket kap naponta a Képernyőzárra. A Felhasználási feltételek szerint.</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">Felhasználási feltételek</string>
     <string name="back">Vissza</string>
     <string name="next">Tovább</string>
     <string name="skip_underline">Lépés kihagyása</string>
@@ -42,16 +45,17 @@ A kiválasztott billentyűzet Adatvédelmi Nyilatkozatának megtekintése."</str
     <string name="pref_title_voice_slot">Hívásra használt SIM</string>
     <string name="pref_title_data_slot">Mobilnetre használt SIM</string>
     <string name="summary_not_set">Nincs beállítva</string>
-    <string name="ime_privacy_policy">A kiválasztott billentyűzet adatvédelmi irányelvei</string>
-    <string name="ime_privacy_policy_no_network">Nincs internetkapcsolat. A kiválasztott billentyűzet adatvédelmi irányelveinek megtekintése %s.</string>
+    <string name="ime_privacy_policy">A kiválasztott billentyűzet Adatvédelmi Irányelvei</string>
+    <string name="ime_privacy_policy_no_network">Nincs internetkapcsolat. A kiválasztott billentyűzet Adatvédelmi Irányelveinek megtekintése itt: %s.</string>
     <string name="terms_of_use">Felhasználási feltételek</string>
-    <string name="terms_of_use_label">"A biztonsága nagyon fontos számunkra. Olvassa el a Felhasználási feltételeket és az Adatvédelmi nyilatkozatot, hogy megértse, milyen információkat gyűjtünk, hogyan használjuk fel őket és milyen lehetőségei vannak.
+    <string name="terms_of_use_label">"A biztonsága nagyon fontos számunkra. Olvassa el a Felhasználási Feltételeket és az Adatvédelmi Irányelveket, hogy megértse, milyen információkat gyűjtünk, hogyan használjuk fel őket és milyen lehetőségei vannak.
 
-A MIUI használata előtt el kell fogadnia a Felhasználási feltételeket és az Adatvédelmi nyilatkozatot. %s és a Mi Fiók elemeihez internetkapcsolat és helymeghatározás szükséges."</string>
+A MIUI használata előtt el kell fogadnia a Felhasználási Feltételeket és az Adatvédelmi Irányelveket. %s és a Mi Fiók elemeihez internetkapcsolat és helymeghatározás szükséges."</string>
     <string name="terms_of_use_lable_apps">A Mi szolgáltatásokhoz, a Xiaomi SIM-aktiválási szolgáltatáshoz, a Mi Cloudhoz, a Készülékkereséshez, a Kezdőképernyőhöz, a Játékközponthoz, a MAB-hoz, a MIUI Daemon és MSA rendszerelemekhez, a Fordítási szolgáltatáshoz, a Gyorsalkalmazásokhoz, a Gyorselérési kártyákhoz, a statisztikákhoz, a Mi Linkhez</string>
     <string name="terms_of_use_lable_gms">, Google Play szolgáltatásokhoz</string>
     <string name="terms_of_use_label_systemhelper">, Önállóan bejegyzett szolgáltatáshoz</string>
     <string name="terms_of_use_lable_smart_cards">, Okoskártyákhoz</string>
+    <string name="terms_of_use_lable_vsimcore">, MConnService</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 A Facemoji használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Irányelveit."</string>
@@ -59,7 +63,7 @@ A Facemoji használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Ir�
 
 A Kika használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Irányelveit."</string>
     <string name="user_agreement">Szolgáltatási feltételek</string>
-    <string name="privacy_policy">Adatvédelmi irányelvek</string>
+    <string name="privacy_policy">Adatvédelmi Irányelvek</string>
     <string name="terms_privacy_policy_input_method_kika">Kika Adatvédelmi Irányelvei</string>
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji Adatvédelmi Irányelvei</string>
     <string name="application_permissions">Alkalmazásengedélyek</string>
@@ -71,7 +75,7 @@ A Kika használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Iránye
     <string name="agree_terms_input_method_facemoji">Elolvastam és elfogadom a Facemoji Adatvédelmi Irányelveit.</string>
     <string name="agree_terms_input_method_kika">Elolvastam és elfogadom a Kika Adatvédelmi Irányelveit.</string>
     <string name="miui_terms_no_network">Nincs internetkapcsolat. Szolgáltatási feltételek megtekintése itt: %s.</string>
-    <string name="miui_privacy_policy_no_network">Nincs internetkapcsolat. Adatvédelmi irányelvek megtekintése itt: %s.</string>
+    <string name="miui_privacy_policy_no_network">Nincs internetkapcsolat. Adatvédelmi Irányelvek megtekintése itt: %s.</string>
     <string name="locale_picker_title">Válasszon régiót</string>
     <string name="install_preinstall_app">Alkalmazások betöltése…</string>
     <string name="title_fingerprint">Állítson be jelszót</string>
@@ -88,7 +92,7 @@ A Kika használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Iránye
     <string name="content_description_complete">Kész</string>
     <string name="language_picker_other_languages_title">Egyéb nyelvek</string>
     <string name="language_settings">Válasszon nyelvet</string>
-    <string name="navigation_picker_radio_text_full_screen">Teljesképernyős-mozdulatvezérlés</string>
+    <string name="navigation_picker_radio_text_full_screen">Kézmozdulatok</string>
     <string name="navigation_picker_radio_text_virtual_key">Virtuális gombok</string>
     <string name="congratulation_swipe">Húzza felfelé a rendszerbe való belépéshez</string>
     <string name="enable_accessibility_dialog_message">Két ujjával hosszan nyomta a képernyőt, így Ön aktiválta a TalkBack-et, ami hangos visszajelzést nyújt gyengénlátók számára. Ha véletlenül kapcsolta be, nyomja meg a Mégse gombot, majd érintse meg a képernyőt kétszer (dupla koppintás).</string>
@@ -105,13 +109,14 @@ A Kika használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Iránye
 1. Ha a képernyő be van kapcsolva.
 2. Ha a képernyő ki van kapcsolva, de Ön zenét hallgat."</string>
     <string name="voice_assist_advice">A Mi AI hangvezérlést biztosít Önnek, de több energiát fogyaszt (+1% óránként).</string>
-    <string name="ai_button_title">Az AI gombról</string>
-    <string name="ai_button_desc">A Mi AI kapcsolójaként használhatja ezt a gombot és feladatokat végezhet el telefonján a hangja használatával</string>
+    <string name="ai_button_title">AI gomb</string>
+    <string name="ai_button_desc">Közvetlen hozzáférés az Ön okos hangasszisztenséhez</string>
     <string name="ai_button_long_press">Tartsa lenyomva</string>
-    <string name="ai_button_long_press_desc">Mondja ki angolul a parancsot, majd engedje fel a gombot</string>
+    <string name="ai_button_long_press_desc">Hogy a Mi AI-hoz beszélhessen nyomja le és tartsa lenyomva az AI gombot</string>
     <string name="ai_button_single_press">Érintse meg</string>
-    <string name="ai_button_single_press_desc">Mi AI kapcsoló</string>
+    <string name="ai_button_single_press_desc">A Mi AI parancsikonok megtekintéséhez nyomja meg az AI gombot</string>
     <string name="ai_button_double_press">Érintse meg duplán</string>
-    <string name="ai_button_double_press_desc">A Mi AI-funkciók beállításai</string>
+    <string name="ai_button_double_press_desc">Egyéni feladat végrehajtásához érintse meg duplán az AI gombot</string>
     <string name="zone_picker_title">Időzóna kiválasztása</string>
+    <string name="locale_picker_other_locale_title">További régiók</string>
 </resources>

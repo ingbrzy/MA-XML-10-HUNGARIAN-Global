@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Egyéni</item>
-        <item>Akkumulátorkímélő</item>
+        <item>MIUI akkumulátorkímélő</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Aktív alkalmazások</item>
@@ -24,7 +24,7 @@
     <string-array name="thermal_summaries">
         <item>A hőmérséklet-szabályzás előtérbe helyezése</item>
         <item>A teljesítmény előtérbe helyezése</item>
-        <item>Nem működik Extrém módban</item>
+        <item>A Rendkívül erős akkumulátorkímélő nem támogatja</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Teljesítmény mód</item>

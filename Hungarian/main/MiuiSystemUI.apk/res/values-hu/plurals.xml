@@ -8,6 +8,10 @@
         <item quantity="other">Előzmények megnyitva, %d elérhető alkalmazás. Csúsztassa felfelé az eltávolításhoz, csúsztassa lefelé a rögzítéshez.</item>
         <item quantity="one">Előzmények megnyitva, %d elérhető alkalmazás. Csúsztassa felfelé az eltávolításhoz, csúsztassa lefelé a rögzítéshez.</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s óra %2$s"</item>
+        <item quantity="one">" %1$s óra %2$s"</item>
+    </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">%1$s és másik %2$d alkalmazás értesítéseinek elrejtése.</item>
         <item quantity="one">%1$s és másik %2$d alkalmazás értesítéseinek elrejtése.</item>

@@ -64,6 +64,12 @@
     <string name="keywords_search_call_record">Rögzítse a hívásokat, Rögzítse a hívást, Hívásrögzítés, Hívásrögzítések</string>
     <string name="keywords_search_record">Új felvétel;Rögzítés hozzáadása;Felvétel;Felvételek;Rögzítés;Rögzítések;Másolat;Másolás;Felvevő;Rögzítő;Beszédfelvevő;Beszédrögzítő;Hangrögzítő;Rögzítő alkalmazás;Felvevő alkalmazás;Hogyan készíthetek felvételt;Hogyan rögzíthetek hangot;Hol találom a hangrögzítőt;MIUI Hangrögzítő</string>
     <string name="keywords_search_record_list">Hangrögzítő;Rögzítő;Másolat;Másolatok;Felvétel;Rögzítés;Hangrögzíttés;Felvétel megosztása;Hangfelvétel megosztása;Hangfelvételek megosztása;Felvétel;Felvételek;Rögzítés;Rögzítések;Hangfelvétel;Hangfelvételek</string>
+    <string name="korea_permission_phone">Telefon</string>
+    <string name="korea_permission_phone_resc">Az eszközállapothoz való hozzáféréshez és a hívások közbeni felvételek kezeléséhez</string>
+    <string name="korea_permission_record">Mikrofon</string>
+    <string name="korea_permission_record_resc">Hang felvételéhez</string>
+    <string name="korea_permission_storage">Tárhely</string>
+    <string name="korea_permission_storage_desc">Felvételek mentéséhez</string>
     <string name="loading_order_list">Egy pillanat…</string>
     <string name="loading_order_list_empty">Itt nincsenek megrendelések.</string>
     <string name="low_battery_error">5% alá csökkent az akkumulátor töltöttsége. Állítsa meg és mentse a felvételt az adatvesztés elkerülése érdekében.</string>

@@ -13,6 +13,7 @@
     <string name="no_network_btn">Próbálja újra</string>
     <string name="main_toolbar_purchase">Feltölt</string>
     <string name="usage_sorted_loading_text">Egy pillanat…</string>
+    <string name="empty">" "</string>
     <string name="share">Megosztás</string>
     <string name="open_browser">Megnyitás a böngészőben</string>
     <string name="title_share_link">URL megosztása</string>
@@ -33,4 +34,5 @@
     <string name="gb_weixinpay_can_not_complete">A fizetés nem teljesíthető. Telepítse a folytatásához.</string>
     <string name="gb_alipays_can_not_complete">A fizetés nem teljesíthető. Telepítse a folytatásához.</string>
     <string name="xunyou_pay_webview">Xunyou szolgáltatások</string>
+    <string name="gamebox_no_network_btn">Újratöltés</string>
 </resources>

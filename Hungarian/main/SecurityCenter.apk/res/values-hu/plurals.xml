@@ -244,6 +244,10 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="other">%d napja volt az utolsó ellenőrzés</item>
         <item quantity="one">%d napja volt az utolsó ellenőrzés</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d kockázat található! Javítsa azonnal!</item>
+        <item quantity="one">%d kockázat található! Javítsa azonnal!</item>
+    </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d kockázat,</item>
         <item quantity="one">%d kockázat,</item>
@@ -375,10 +379,6 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d alkalmazás elrejtve</item>
         <item quantity="one">%d alkalmazás elrejtve</item>
-    </plurals>
-    <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%d alkalmazás nem biztos, hogy megfelelően jelenik meg. Korlátozza a lebegő értesítéseket.</item>
-        <item quantity="one">%d alkalmazás nem biztos, hogy megfelelően jelenik meg. Korlátozza a lebegő értesítéseket.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d probléma igényel optimalizálást</item>

@@ -144,10 +144,6 @@
         <item quantity="other">%1$d fénykép kihagyva, amelyeket nem lehetett megjeleníteni.</item>
         <item quantity="one">Egy fénykép kihagyva, amelyet nem lehetett megjeleníteni.</item>
     </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">Összesen %1$d elem</item>
-        <item quantity="one">Összesen %1$d elem</item>
-    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d elem vár mentésre</item>
         <item quantity="one">Egy elem vár mentésre</item>
@@ -271,5 +267,13 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d elem</item>
         <item quantity="one">%d elem</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Összesen %1$d elem</item>
+        <item quantity="one">Összesen %1$d elem</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d fájl</item>
+        <item quantity="one">%1$d fájl</item>
     </plurals>
 </resources>

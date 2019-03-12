@@ -56,6 +56,8 @@
     <string name="no_sound">Némítás</string>
     <string name="operation_delete">Törlés</string>
     <string name="operation_send">Küldés</string>
+    <string name="permission_intro_microphone">Hang rögzítéséhez, ha a hangforrás mikrofonra van állítva</string>
+    <string name="permission_intro_storage">Képernyő-felvételek mentéséhez</string>
     <string name="quit_recording">Kilépés a Képernyővideó-felvevőből</string>
     <string name="recording_failure">Nem sikerült a felvétel, kezdje elölről</string>
     <string name="recording_max_size">A felvétel leállításra és mentésre került a felső mérethatár elérése miatt. Ha még nem fejezte be, indítsa onnan újra a felvételt, ahol leállt.</string>
@@ -68,11 +70,15 @@
     <string name="screen_record_params">Felvétel paraméterei</string>
     <string name="select_all">Összes kijelölése</string>
     <string name="settings">Beállítások</string>
-    <string name="show_hard_key">Navigációs gombok megjelenítése</string>
+    <string name="show_hard_key">Navigációsgomb-megjelenítés</string>
     <string name="show_hard_key_summary">Jelezze, ha a Home, Menü vagy Vissza gombok érintve lettek</string>
-    <string name="show_screen_touch">Érintések megjelenítése</string>
+    <string name="show_screen_touch">Érintés-visszajelzés</string>
     <string name="show_screen_touch_summary">Érintési gesztusok megjelenítése fehér pontként</string>
-    <string name="sound_source">Képernyővideó hangforrása</string>
+    <string name="size_byte">B</string>
+    <string name="size_gigabyte">GB</string>
+    <string name="size_kilobyte">KB</string>
+    <string name="size_megabyte">MB</string>
+    <string name="sound_source">A rögzítés hangforrása</string>
     <string name="sound_source_summary">Rendszerhangok vagy mikrofon</string>
     <string name="sound_source_summary_without_system_sounds">Mikrofon használata vagy némítás</string>
     <string name="start">Indítás</string>

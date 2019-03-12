@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Csomagok</string>
     <string name="hints_residual_header_left">Maradványok</string>
     <string name="hints_memory_header_left">Memória</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Nagyméretű fájlok: %d</string>
     <string name="hints_installed_apps_header_left">Telepített alkalmazások: %d</string>
     <string name="toast_resolve_apk_error">Apk hiba javítása</string>
@@ -299,6 +300,7 @@
     <string name="downloading">Letöltés</string>
     <string name="installing">Telepítés</string>
     <string name="start_install">Telepítés most</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Megnyitás a böngészőben</string>
     <string name="title_share_link">URL megosztása</string>
     <string name="connecting">Csatlakozás…</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">Nem található fájl</string>
     <string name="app_usage_never">Nem mostanában használva</string>
     <string name="app_usage_recently">Mostanában használva</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> több fájl törölhető. Szabadítson fel több helyet.;</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat gyorsítótár. Szabadítson fel több helyet.;</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>A QQ által létrehozott gyorsítótárból &lt;font color=#ff0000 >%1$s&lt;/font> törölhető;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> több fájl törölhető. Szabadítson fel több helyet.;&lt;/Data></string>
+    <string name="resutl_function_wechat_clean_summary">&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat gyorsítótár. Szabadítson fel több helyet.;&lt;/Data></string>
+    <string name="resutl_function_qq_clean_summary">&lt;Data>A QQ által létrehozott gyorsítótárból &lt;font color=#ff0000 >%1$s&lt;/font> törölhető;&lt;/Data></string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">A Tisztítóról</string>
@@ -545,12 +547,11 @@
     <string name="onekeyclean_boost_available">%s elérhető</string>
     <string name="onekeyclean_card_summery">Helyfelszabadítás érdekében a felesleges fájlok törlése</string>
     <string name="onekeyclean_card_btn">Helyfelszabadítás most</string>
-    <string name="memory_clean_icon_text">Memóriafelszabadítás</string>
     <string name="pref_title_create_onekeyclean_shortcut">Kezdőképernyő parancsikon megjelenítése</string>
     <string name="memory_clean_no_trash_tip">Most minden jónak tűnik</string>
     <string name="toast_updater_open_4g_text">Az alkalmazások mobiladat-forgalom (4G) használatával fognak frissülni</string>
     <string name="toast_updater_close_4g_text">Az alkalmazások nem fognak mobiladat-forgalom (4G) használatával frissülni</string>
-    <string name="facebook_cleaner">Facebook Cleaner</string>
+    <string name="facebook_cleaner">Facebook-tisztító</string>
     <string name="facebook_group_image">Képek</string>
     <string name="facebook_group_video">Videók</string>
     <string name="facebook_group_gif">GIF-ek</string>
