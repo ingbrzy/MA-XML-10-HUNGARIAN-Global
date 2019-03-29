@@ -1095,7 +1095,6 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="bootloader_summary">Készülék flashelése USB-n keresztül</string>
     <string name="bootloader_tips">A Mi Fiók hozzáadását követően ne jelentkezzen ki, ne végezzen gyári visszaállítást, illetve ne törölje a rendszeralkalmazások adatait. Ha a fentiek bármelyikét elvégzi, újra hozzá kell adnia a fiókját, ellenkező esetben nem lesz képes feloldani a készülék bootloaderét.</string>
     <string name="bootloader_tips_ok">Rendben</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">A fényjelzés színe</string>
     <string name="breathing_light_color_summary">Új értesítés érkezését jelző fény színe</string>
     <string name="breathing_light_freq_summary">Villogás új értesítés érkezésekor</string>
@@ -1789,10 +1788,8 @@ Ha a probléma továbbra is fennáll, akkor az akkumulátor teljesítményének 
     <string name="dialog_title_hdmi_color_calibration">Színkorrekció előbeállítás</string>
     <string name="dialog_title_login">Jelentkezzen be a Mi Fiókjába</string>
     <string name="dialog_yes">Igen</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Megjegyzés: újraindítás után ez az alkalmazás csak akkor fog elindulni, ha feloldotta a készüléket</string>
     <string name="directory_access">Mappahozzáférés</string>
-    <string name="directory_on_volume">%1$s (%2$s)</string>
     <string name="disable_overlays">HW fedvények letiltása</string>
     <string name="disable_overlays_summary">Képernyő leképezéshez mindig a GPU-t használja</string>
     <string name="disable_power_key_long_press_under_keyguard">Bekapcsológomb menüjének kikapcsolása</string>
@@ -1859,7 +1856,6 @@ Ha a probléma továbbra is fennáll, akkor az akkumulátor teljesítményének 
     <string name="dndm_auto_button_title">Ne zavarjanak mód idejének ismétlése</string>
     <string name="dndm_auto_setting_group">Ütemezett</string>
     <string name="dndm_auto_time_setting">Időbeállítás</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Befejezés</string>
     <string name="dndm_auto_time_turn_off_title">Automatikusan kikapcsolja a Ne zavarjanak módot</string>
     <string name="dndm_auto_time_turn_on">Kezdés</string>
@@ -2242,7 +2238,6 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a szervezet r
     <string name="firewall_temp_rule_reason">%2$s korlátozta az internet-hozzáférést %1$s​ számára</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Ha ezt kikapcsolja, a telepített alkalmazás nem lesz képes Wi-Fi-n keresztül az internetre kapcsolódni.</string>
-    <string name="firmware_title">Android</string>
     <string name="firmware_version">Android-verzió</string>
     <string name="flash_drive_backup_restore">Biztonsági mentés vagy visszaállítás USB-t használva</string>
     <string name="flash_drive_backup_restore_summary">Csatlakoztasson egy USB-meghajtót</string>
@@ -2354,7 +2349,6 @@ Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos 
     <string name="gadget_picker_title">Modul kiválasztása</string>
     <string name="gadget_state_off">ki</string>
     <string name="gadget_state_on">be</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">kikapcsolás</string>
     <string name="gadget_state_turning_on">bekapcsolás</string>
     <string name="gadget_sync">Szinkronizálás</string>
@@ -2721,7 +2715,6 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="lights_title">Villogó fény</string>
     <string name="line_breaking_summary">Bekezdés sortörés optimalizálása</string>
     <string name="line_breaking_title">Sortörés optimalizálása</string>
-    <string name="link_speed">%1$d Mb/s</string>
     <string name="list_bg_header_text">Ha korlátozza a háttérkapcsolatokat, az új alkalmazások telepítésük után nem tudnak majd a háttérben az internetre kapcsolódni. Lehet, hogy ezek az alkalmazások nem tudnak majd üzeneteket fogadni vagy letölteni ezután.</string>
     <string name="list_empty_text">Üres</string>
     <string name="loading">Egy pillanat…</string>
@@ -3118,7 +3111,6 @@ Más felhasználók is vannak ezen az eszközön.
     <string name="memory_title">Elérhető: %1$s\u0009\u0009Összesen: %2$s</string>
     <string name="memory_usage">Memóriahasználat</string>
     <string name="memory_usage_apps">Alkalmazások által használt memória</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s átlagos memóriahasználat az elmúlt 3 órában</string>
     <string name="menu_cancel">Elvetés</string>
     <string name="menu_check">Tapasztalat</string>
@@ -3431,7 +3423,6 @@ USB háttértárként fog megjelenni a számítógépén."</string>
     <string name="nfc_how_it_works_got_it">Értem</string>
     <string name="nfc_how_it_works_title">Fizetés a terminálnál</string>
     <string name="nfc_more_title">Egyebek…</string>
-    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Fizetéskor alapértelmezett</string>
     <string name="nfc_payment_default_not_set">Nincs megadva</string>
     <string name="nfc_payment_favor_default">Mindig használja az alapértelmezett alkalmazást</string>
@@ -3695,7 +3686,6 @@ Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
     <string name="overlay_display_devices_title">Másodlagos kijelzők szimulálása</string>
     <string name="overlay_settings">A többi alkalmazás fölött</string>
     <string name="owner_info_settings_edit_text_hint">pl. Péter Androidja.</string>
-    <string name="owner_info_settings_status">%2$d / %1$d</string>
     <string name="owner_info_settings_summary">Nincs</string>
     <string name="owner_info_settings_title">Képernyőzár aláírás</string>
     <string name="owner_space">Első asztal</string>
@@ -3855,7 +3845,6 @@ Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
     <string name="power_remaining_less_than_duration_only">Kevesebb, mint %1$s van hátra</string>
     <string name="power_remaining_more_than_subtext">Több, mint %1$s van hátra (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Több, mint %1$s van hátra</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Képernyő</string>
     <string name="power_settings_title">Rendszerteljesítmény</string>
     <string name="power_unaccounted">Egyéb</string>
@@ -4038,8 +4027,6 @@ Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
     <string name="private_sms_recording_intro_header">Rajzoljon egy feloldómintát:</string>
     <string name="private_sms_reset_by_account">Jelszava visszaállításához jelentkezzen be Mi Fiókjába</string>
     <string name="process_dex2oat_label">Alkalmazásoptimalizálás</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Médiaszerver</string>
     <string name="process_provider_in_use_description">%1$s szolgáltató használatban van.</string>
     <string name="process_service_in_use_description">%1$s szolgáltatás használatban van.</string>
@@ -4683,7 +4670,6 @@ Képernyő rögzítéséhez:
     <string name="security_encryption_attention_3">Új képernyőzárjelszót kell beállítania.</string>
     <string name="security_encryption_attention_4">Ne felejtse el képernyőzár jelszavát, különben teljes gyári visszaállítást kell végrehajtania a készüléken, minden adat törlésével.</string>
     <string name="security_encryption_attention_info">Titkosíthatja a fiókjait, beállításait, letöltött alkalmazásait és azok adatait, média- és egyéb fájljait.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Fontos</string>
     <string name="security_encryption_close_dialog_info">Ha azt választja, hogy képernyőzárjelszó nélkül titkosítja a készüléket, akkor előfordulhat, hogy bizonyos Google szolgáltatások nem lesznek elérhetőek.</string>
     <string name="security_encryption_close_dialog_title">Vissza az alapértelmezett jelszavas védelemhez</string>
@@ -4949,7 +4935,6 @@ Lehet, hogy hibás a PIN-kód."</string>
     <string name="sim_select_card">Válasszon egy SIM kártyát</string>
     <string name="sim_selection_channel_title">SIM-kártya kiválasztása</string>
     <string name="sim_selection_required_pref">Ki kell választani</string>
-    <string name="sim_settings_summary">%1$s – %2$s</string>
     <string name="sim_settings_title">SIM kártyák</string>
     <string name="sim_setup_wizard_title">SIM kártyák</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4965,7 +4950,6 @@ Lehet, hogy hibás a PIN-kód."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Kihagyás</string>
     <string name="skip_label">Kihagyás</string>
@@ -5086,10 +5070,8 @@ Ezt az Ön eszközére telepített megbízható hitelesítési adatok teszik leh
     <string name="status_bar_app_enable_keyguard">Képernyőzár</string>
     <string name="status_bar_app_enable_message">Olvasatlan jelzések</string>
     <string name="status_bar_carrier_settings_no_sim_card">Nincs SIM-kártya</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">Értesítések és állapotsor</string>
     <string name="status_bar_settings_all_app_display_loading">Egy pillanat…</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Alkalmazásértesítések</string>
     <string name="status_bar_settings_notification_bar">Értesítési felület</string>
     <string name="status_bar_settings_status_bar">Állapotsor</string>
@@ -5336,7 +5318,6 @@ Próbálkozzon gyorsabb ^3 vagy ezen ^4 használatával hordozható tárhelykén
     <string name="sum_carrier_select">Válassza ki a hálózat üzemeltetőjét</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s–%2$s</string>
     <string name="summary_range_verbal_combination">%1$s–%2$s</string>
     <string name="supl_not_set">&lt;Nincs beállítva></string>
     <string name="support_country_format">%1$s – %2$s</string>
@@ -6386,14 +6367,12 @@ Engedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni
     <string name="wifi_security_none">Nincs</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
@@ -6839,10 +6818,8 @@ A telefon funkcióival és állapotával kapcsolatos fontos értesítések azonb
     <string name="zone_auto_summaryOff">Hálózat által megadott időzóna használata</string>
     <string name="zone_auto_summaryOn">Hálózat által megadott időzóna használata</string>
     <string name="zone_change_to_from_dst">A(z) %1$s kezdete: %2$s.</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">A következőt használja: %1$s. A(z) %2$s ekkor kezdődik: %3$s.</string>
     <string name="zone_info_footer_no_dst">A következőt használja: %1$s. Nincs nyári időszámítás.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Rendezés név szerint</string>
     <string name="zone_list_menu_sort_by_timezone">Rendezés időzóna szerint</string>
     <string name="zone_menu_by_offset">Kiválasztás UTC-eltolódással</string>

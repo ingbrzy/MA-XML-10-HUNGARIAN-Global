@@ -499,7 +499,6 @@ Készítsen több fotót a barátairól!"</string>
     <string name="face_name_edit">Szerkesztés</string>
     <string name="face_name_input">Írja be a nevet</string>
     <string name="face_recommend">Ajánlások</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Nem sikerült befejezni a műveletet</string>
     <string name="fail_to_pick_email">Érvénytelen e-mail cím</string>
     <string name="fail_to_sync_album">Album szinkronizálása sikertelen. Ellenőrizze a hálózat állapotát és próbálja újra.</string>
@@ -510,7 +509,6 @@ Készítsen több fotót a barátairól!"</string>
     <string name="feature_guidance_photo_effects">"Új fényképeffektek 
 érhetők el"</string>
     <string name="feature_guidance_video_editor_smart_effects">Új effektek érhetők el</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">Fekete-fehér</string>
     <string name="filter_bi_dusk">Homályos</string>
     <string name="filter_bi_lilt">Lendület</string>
@@ -584,7 +582,6 @@ Készítsen több fotót a barátairól!"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Beállítás</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"A megfelelő működéshez a Galéria hozzáférést igényel ehhez: 
 %s
 , kattintson a \"Beállítás\" gombra az Engedélyekre lépéshez."</string>
@@ -838,7 +835,6 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="people_mark_mode_title_no_mark_name">Válasszon ki egy személyt</string>
     <string name="people_page_label">Személyek</string>
     <string name="people_page_unname">Névtelen</string>
-    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">Az emberek képeken való megnevezéséhez</string>
     <string name="permission_contract_name">Névjegyzék</string>
     <string name="permission_optional_category">Opcionális engedélyek</string>
@@ -1032,12 +1028,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="scan_barcode_to_join">QR-kód beolvasása az album hozzáadásához</string>
     <string name="scan_qr_code_buttom_text">QR-kód beolvasása az album megtekintéséhez</string>
     <string name="screen_doodle_talkback_size">Doodle vonalszélesség</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Kész</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Törlés</string>
     <string name="screen_save_dialog_btn_delete">Képernyőkép törlése</string>
     <string name="screen_save_dialog_btn_save">Mentés a Galériába</string>
@@ -1095,9 +1086,6 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="search_title_recommend">Ajánlott</string>
     <string name="search_title_suggestion">Javaslatok</string>
     <string name="search_title_tag">Tárgyak</string>
-    <string name="search_transition_element_icon">search_icon</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Projektor keresése…</string>
     <string name="secret_album_card_description">A legjobb hely az Ön kis titkai számára</string>
     <string name="secret_album_card_title">Próbálja ki a rejtett albumot</string>
