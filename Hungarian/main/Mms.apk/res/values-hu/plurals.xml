@@ -13,7 +13,7 @@
         <item quantity="one">%d üzenet nem szinkronizálódott</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Törli a kiválasztott &lt;g example="15" id="number">%1$s&lt;/g> beszélgetést?</item>
+        <item quantity="other">Törli a kiválasztott %1$s beszélgetést?</item>
         <item quantity="one">Törli a beszélgetést?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
@@ -39,6 +39,10 @@
     <plurals name="message_count">
         <item quantity="other">%1$s üzenet</item>
         <item quantity="one">%1$s üzenet</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">You received %d group chat invitations</item>
+        <item quantity="one">You received %d group chat invitation</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s személy</item>

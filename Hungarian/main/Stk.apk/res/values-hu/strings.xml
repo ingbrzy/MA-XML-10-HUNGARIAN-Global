@@ -27,8 +27,8 @@
     <string name="stk_dialog_reject">NEM</string>
     <string name="no_sim_card_inserted">Helyezzen be egy SIM-et a SIM eszközkészlet indításához.</string>
     <string name="stk_channel_name">Mobilszolgáltatási üzenetek</string>
-    <string name="stk_intent_permission">Engedélyek szükségesek</string>
     <string name="sim_type_sim_name">SIM eszközkészlet</string>
     <string name="sim_type_usim_name">USIM eszközkészlet</string>
     <string name="sim_type_uim_name">UIM eszközkészlet</string>
+    <string name="stk_intent_permission">Engedélyek szükségesek</string>
 </resources>

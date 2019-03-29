@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Csomagok</string>
     <string name="hints_residual_header_left">Maradványok</string>
     <string name="hints_memory_header_left">Memória</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Nagyméretű fájlok: %d</string>
     <string name="hints_installed_apps_header_left">Telepített alkalmazások: %d</string>
     <string name="toast_resolve_apk_error">Apk hiba javítása</string>
@@ -104,7 +105,7 @@
     <string name="cache_title_empty_folder">Üres mappa(%d)</string>
     <string name="cache_title_empty_folder2">Üres mappa</string>
     <string name="dialog_msg_check_all">%1$s kiválasztásának megerősítése, amely %2$d elemet tartalmaz</string>
-    <string name="dialog_title_check_all">Összes kijelölése</string>
+    <string name="dialog_title_check_all">Az összes kiválasztása</string>
     <string name="hints_garbage_handle_item_content">%1$d elem, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Elem: 0</string>
     <string name="hints_latest_garbage_cleanup_never">Még nem volt tisztítás</string>
@@ -299,12 +300,13 @@
     <string name="downloading">Letöltés</string>
     <string name="installing">Telepítés</string>
     <string name="start_install">Telepítés most</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Megnyitás a böngészőben</string>
     <string name="title_share_link">URL megosztása</string>
     <string name="connecting">Csatlakozás…</string>
     <string name="clear_bigfiles">Hasonló fényképek, nagy terjedelmű vagy elavult fájlok törlése</string>
     <string name="clear_immediately">Tisztítás most</string>
-    <string name="clear_safe_notify">Widget az értesítési felületen</string>
+    <string name="clear_safe_notify">Értesítési felületi widget</string>
     <string name="nb_clear_set">A gyorsítótár tisztítása, az akkumulátor és a tiltólista adatainak megjelenítése az értesítési felületen</string>
     <string name="seton_immediately">Bekapcsolás</string>
     <string name="notify_when">Értesítés, ha a felesleges fájlok mérete elérte a 100MB-ot</string>

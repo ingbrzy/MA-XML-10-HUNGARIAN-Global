@@ -47,27 +47,19 @@
     <string name="accessibility_all_day">Egész napos esemény</string>
     <string name="accessibility_pick_start_date">Kezdés dátuma</string>
     <string name="accessibility_pick_time_zone">Időzóna</string>
-    <string name="accessibility_reminder_time">Emlékeztető ideje</string>
     <string name="accessibility_remove_attendee">Résztvevő törlése</string>
     <string name="accessibility_repeats">Ismétlődés</string>
     <string name="accessibility_sync_cal">Naptár szinkronizálása</string>
     <string name="account_and_calendar">Fiókok</string>
-    <string name="accounts">Fiókok és szinkronizálás</string>
-    <string name="acct_not_synced">Ez a fiók nincs szinkronizálva. Előfordulhat, hogy naptára nem lesz naprakész.</string>
-    <string name="acessibility_selected_marker_description">Kiválasztott események</string>
     <string name="action_bar_date_button_title">Dátum kiszámítása</string>
-    <string name="action_bar_more_menu_view_description">Továbbiak</string>
     <string name="action_bar_return">Vissza</string>
     <string name="action_text_card_manager">Csatorna</string>
-    <string name="action_text_today">Ma</string>
     <string name="add_anniversary">Évforduló hozzáadása</string>
     <string name="add_countdown">Visszaszámlálás hozzáadása</string>
     <string name="add_event">Esemény hozzáadása</string>
     <string name="agenda_month_empty_hint">Nincs esemény erre a napra</string>
-    <string name="agenda_today">MA, %1$s</string>
     <string name="agenda_tomorrow">HOLNAP, %1$s</string>
     <string name="agenda_view">Események</string>
-    <string name="agenda_yesterday">TEGNAP, %1$s</string>
     <string name="alarm_label">Elvetés</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Lejárt</string>
@@ -94,11 +86,6 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Születésnap elmentve</string>
     <string name="birthday_term">születésnap</string>
-    <string name="button_day">Nap</string>
-    <string name="button_month">Hónap</string>
-    <string name="button_week">Hét</string>
-    <string name="calculate_result">Eredmény</string>
-    <string name="calendar_refresh">Frissítés</string>
     <string name="can_not_create_long_event">Az esemény neve túl hosszú</string>
     <string name="can_not_modify_allday_event">Az egész napos esemény nem módosítható</string>
     <string name="can_not_modify_event">Az esemény nem módosítható</string>
@@ -110,7 +97,6 @@
     <string name="card_detail_dialog_title">Feliratkozik most?</string>
     <string name="card_detail_hint">Ha feliratkozik, naponta frissülő tartalom fog megjelenni a kezdőképernyőn</string>
     <string name="card_detail_title">Részletek</string>
-    <string name="card_manager">Feliratkozások kezelése</string>
     <string name="card_manager_no_data">Nincsenek feliratkozások</string>
     <string name="card_title_change">Továbbiak</string>
     <string name="cards_language_hint">Néhány kártya lehet, hogy nem érhető el az Ön által kiválasztott nyelven.</string>
@@ -147,13 +133,12 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="date_interval_text_to">Eddig: %1$s</string>
     <string name="date_jump_hint">Ugrás közvetlenül egy bizonyos napra</string>
     <string name="date_jump_title">Dátumhoz ugrás</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (ma)"</string>
     <string name="day_view_new_event_hint">Új esemény</string>
     <string name="default_reminder_mode">Emlékeztetők</string>
-    <string name="delete_calendar">Leiratkozás</string>
     <string name="delete_recurring_event_title">%s törlése?</string>
     <string name="delete_this_event_title">Törli ezt az eseményt?</string>
-    <string name="deleting_calendar">Leiratkozás…</string>
     <string name="description_calendar">Rendszeralkalmazások/Naptár</string>
     <string name="description_calendar_edit_event">Rendszeralkalmazások/Naptár/Napirend</string>
     <string name="directory_searching_fmt">%s keresése…</string>
@@ -168,8 +153,6 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="edit_event_birthday_import_from_contact">Születésnap importálása a névjegyekből</string>
     <string name="edit_event_birthday_name_empty_hint">Írja be a nevet</string>
     <string name="edit_event_birthday_name_hint">Név</string>
-    <string name="edit_event_birthday_reminder_3_days_before">Emlékeztess 3 nappal előtte is</string>
-    <string name="edit_event_birthday_reminder_time">Emlékeztető ideje</string>
     <string name="edit_event_calendar_label">Naptár</string>
     <string name="edit_event_choose_date">Dátum választása</string>
     <string name="edit_event_confirm_message">Elveti a módosításokat?</string>
@@ -226,7 +209,6 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="festival_detail_title">Fesztivál</string>
     <string name="file_exception">Hiba történt</string>
     <string name="fixtures">Sportesemények</string>
-    <string name="force_touch_title_add_new_event">Új esemény</string>
     <string name="from_google_group_calendar">Google naptár</string>
     <string name="gadget_no_events">Nincsenek naptáresemények</string>
     <string name="gadget_title">Naptár</string>
@@ -235,15 +217,15 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="global_football_final">DÖNTŐ</string>
     <string name="global_football_no_match">Nincs ütemezett labdarúgó-mérkőzés erre a napra.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
-    <string name="greetingcard_end_of_page">Ez minden mára. Maradjon velünk holnap is!</string>
+    <string name="greetingcard_end_of_page">Most ennyi volt, nézzen vissza holnap!</string>
     <string name="greetingcard_notification_desc">Nézze meg a legújabb státuszokat</string>
-    <string name="greetingcard_notification_title">Készen áll az Ön napi hírfolyama!</string>
-    <string name="greetingcard_reminder_disabled_status">Napi WhatsApp-státusz letiltva</string>
-    <string name="greetingcard_reminder_disabled_text">Emlékeztető bekapcsolása</string>
-    <string name="greetingcard_reminder_enabled_status">Napi WhatsApp-státusz engedélyezve</string>
-    <string name="greetingcard_reminder_enabled_text">Emlékeztető engedélyezve</string>
-    <string name="greetingcard_reminder_pref_desc">Értesülj a legújabb státuszokról és üdvözlésekről minden nap</string>
-    <string name="greetingcard_reminder_pref_title">Értesítést kérek</string>
+    <string name="greetingcard_notification_title">Készen áll az Ön napi hírfolyama</string>
+    <string name="greetingcard_reminder_disabled_status">Nem fog napi értesítéseket kapni WhatsApp-státuszokról.</string>
+    <string name="greetingcard_reminder_disabled_text">Emlékeztetők bekapcsolása</string>
+    <string name="greetingcard_reminder_enabled_status">Napi értesítéseket fog kapni WhatsApp-státuszokról.</string>
+    <string name="greetingcard_reminder_enabled_text">Emlékeztetők bekapcsolva</string>
+    <string name="greetingcard_reminder_pref_desc">Napi értesítések fogadása üdvözlésekről és státuszokról</string>
+    <string name="greetingcard_reminder_pref_title">Értesítések fogadása</string>
     <string name="greetingcard_select_activity_label">Összes üdvözlés</string>
     <string name="greetingcard_view_all_text">Összes megtekintése</string>
     <string name="guide_card_close">Bezár</string>
@@ -284,7 +266,6 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="match_finished">Nem állíthat be emlékeztetőket folyamatban lévő és befejezett játékokhoz</string>
     <string name="match_select_activity_label">Bajnokságok</string>
     <string name="menu_general_preferences">Általános</string>
-    <string name="menu_preferences">Beállítások</string>
     <string name="menu_reminder_preferences">Emlékeztetők</string>
     <string name="missing_name">(Nincs név)</string>
     <string name="missing_required_permission">Ön letiltotta a szükséges engedélyeket.</string>
@@ -309,8 +290,6 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="monthly_on_day_count">Havonta (minden %1$s %2$s)</string>
     <string name="network_not_available">Nem sikerült csatlakozni a hálózathoz</string>
     <string name="new_event_description">Új</string>
-    <string name="new_event_dialog_label">Új esemény</string>
-    <string name="new_event_dialog_option">Új esemény</string>
     <string name="news">Hírek</string>
     <string name="no_contact_birthday_hint">Nincs importálható születésnap</string>
     <string name="no_events_hint">Nincs esemény</string>
@@ -323,7 +302,6 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="no_visiable_calendar_message">Hozzá kell adnia egy naptárfiókot. Érintse meg a \"Fiók hozzáadása\"-t a továbblépéshez.</string>
     <string name="no_visiable_calendar_select_account">Fiók hozzáadása</string>
     <string name="no_visiable_calendar_title">Fiók hozzáadása</string>
-    <string name="not_synced">nincs szinkronizálva</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">Naptáremlékeztetők</string>
     <string name="panchang_amanta">Amanta</string>
@@ -349,7 +327,6 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="panchang_yog">Yog</string>
     <string name="path_calendar_settings">Rendszeralkalmazások/Naptár/Beállítások</string>
     <string name="prefDialogTitle_vibrateWhen">Rezgés</string>
-    <string name="pref_error_no_ringtone_select">Alapértelmezett csengőhang</string>
     <string name="pref_reminder_time">Emlékeztető ideje</string>
     <string name="pref_title_alarm_remind">Riasztási emlékeztető</string>
     <string name="pref_title_no_remind">Nincs emlékeztető</string>
@@ -374,7 +351,6 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="remind_me">Emlékeztessen</string>
     <string name="repeat_activity_label">Ismétlődés</string>
     <string name="repeat_custom_activity_label">Egyéni</string>
-    <string name="repeat_custom_prompt">minden %1$s %2$s. napján</string>
     <string name="repeat_custom_prompt_daily">minden %1$s</string>
     <string name="repeat_custom_prompt_sentence">Az esemény %1$s ismétlődni fog.</string>
     <string name="repeat_custom_prompt_splitter">", "</string>
@@ -404,12 +380,10 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="rest_day_indication">: )</string>
     <string name="saving_event">Esemény mentve</string>
     <string name="saving_event_with_guest">Frissítések küldése…</string>
-    <string name="search">Keresés</string>
     <string name="search_calendar">Dátum;Szoláris Periódusok;Holdnaptár;Almanach;Horoszkóp;Napirend;Találkozó;Emlékeztető;Ünnepnap; Szabadság; Születésnap;2016;2017;Tavaszi Fesztivál;Újév;Nemzetközi Munkaünnep;Közép-Őszi Fesztivál</string>
     <string name="search_calendar_edit_event">Találkozó;Emlékeztető;Napirend</string>
     <string name="search_calendar_settings">Naptár;Napirend;Emlékeztető</string>
     <string name="select_date">Ugrás a dátumhoz</string>
-    <string name="select_synced_calendars_title">Szinkronizálni kívánt naptárak</string>
     <string name="set_reminder">Emlékeztető beállítása</string>
     <string name="setting_about_calendar_version">"Naptárverzió: "</string>
     <string name="setting_about_imei">"IMEI: "</string>
@@ -434,18 +408,14 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="subscribe_card_success">Sikeresen feliratkozott! Keresse a részleteket a weboldalon.</string>
     <string name="subscribe_card_success_for_homepage">Sikeresen feliratkozott “%1$s” csatornára</string>
     <string name="subscribe_channel_bottom_hint">—— Mi Naptár ——</string>
-    <string name="subscribe_channel_click_hint">Feliratkozás szükséges</string>
-    <string name="subscribe_channel_footer_button">Feliratkozások kezelése</string>
     <string name="subscribe_channel_footer_desc">Ellenőrizze a feliratkozásait vagy iratkozzon le</string>
     <string name="subscribe_channel_footer_title">Feliratkozva</string>
-    <string name="subscribe_channel_footer_view">Ellenőrzés</string>
     <string name="subscribe_channel_hint">"Iratkozzon fel a az Ön által kedvelt szolgáltatásokra, és fogadjon napi frissítéseket kezdőképernyőjén.
 Emlékeztetőket is hozzáadhat, hogy ne maradjon le semmi fontosról."</string>
     <string name="subscribe_channel_subscribe">Feliratkozás</string>
     <string name="subscribe_channel_subscribing">Feliratkozva</string>
     <string name="subscribe_channel_title">Csatorna</string>
     <string name="subscribing_card">Feliratkozva</string>
-    <string name="synced">szinkronizálva</string>
     <string name="tab_title_agenda">Események</string>
     <string name="tab_title_day">Nap</string>
     <string name="tab_title_month">Hónap</string>
@@ -453,7 +423,6 @@ Emlékeztetőket is hozzáadhat, hogy ne maradjon le semmi fontosról."</string>
     <string name="talk_back_read_date">%1$s (%2$s a holdnaptár szerint).</string>
     <string name="talk_back_setting">Beállítások</string>
     <string name="template_announce_item_index">%1$s. esemény a %2$s-ból/-ből.</string>
-    <string name="template_week_num">%1$s. hét</string>
     <string name="time_zone">Időzóna</string>
     <string name="timezone_label">Időzóna</string>
     <string name="today">Ma</string>
@@ -467,7 +436,6 @@ Emlékeztetőket is hozzáadhat, hogy ne maradjon le semmi fontosról."</string>
     <string name="too_long_name">A név túl hosszú</string>
     <string name="travel_airport">Repülőtér</string>
     <string name="travel_carriage_number_text">Autó</string>
-    <string name="travel_eta_advice">%2$s perc vezetés %1$s-ig.</string>
     <string name="travel_ets_advice">Vezessen ide: %2$s %1$s előtt.</string>
     <string name="travel_event_add_successfully">Esemény létrehozva</string>
     <string name="travel_event_title_flight">Repülő: %1$s-%2$s %3$s</string>
@@ -509,4 +477,7 @@ Emlékeztetőket is hozzáadhat, hogy ne maradjon le semmi fontosról."</string>
     <string name="xiaomi_calendar_display_name">Mi Fiók Naptár</string>
     <string name="yearly">Évente (nap: %s)</string>
     <string name="yearly_plain">Évente</string>
+    <string name="global_joke_collapse_text">Show less</string>
+    <string name="global_joke_copy_toast_message">Copied text successfully</string>
+    <string name="global_joke_expand_text">Show more</string>
 </resources>

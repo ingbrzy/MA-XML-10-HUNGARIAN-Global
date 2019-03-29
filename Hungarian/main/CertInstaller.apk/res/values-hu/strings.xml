@@ -30,6 +30,7 @@
     <string name="sdcard_not_present">Az SD-kártya hiányzik.</string>
     <string name="only_primary_user_allowed">Csak az eszköz tulajdonosa telepíthet tanúsítványokat.</string>
     <string name="credential_usage_label">Hitelesítési adatok használata:</string>
+    <string name="certificate_capabilities_warning">Megjegyzés: A tanúsítvány kibocsátója megvizsgálhatja az eszközre érkező és az eszközről kimenő összes forgalmat.</string>
     <string name="wifi_title">Wi-Fi-profil</string>
     <string name="wifi_detail_title">%s részletei</string>
     <string name="wifi_detail_label">Részletek</string>

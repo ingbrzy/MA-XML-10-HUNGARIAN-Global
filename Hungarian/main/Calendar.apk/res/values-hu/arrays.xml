@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aquarius_info">
-        <item>vízöntő</item>
+        <item>aquarius</item>
         <item>Vízöntő</item>
         <item>1.20 - 2.18</item>
     </string-array>
     <string-array name="aries_info">
-        <item>kos</item>
+        <item>aries</item>
         <item>Kos</item>
         <item>3.21 - 4.19</item>
     </string-array>
@@ -15,12 +15,12 @@
         <item>Bundesliga</item>
     </string-array>
     <string-array name="cancer_info">
-        <item>rák</item>
+        <item>cancer</item>
         <item>Rák</item>
         <item>6.22 - 7.22</item>
     </string-array>
     <string-array name="capricorn_info">
-        <item>bak</item>
+        <item>capricorn</item>
         <item>Bak</item>
         <item>12.22 - 1.19</item>
     </string-array>
@@ -81,8 +81,12 @@
         <item>Ezt és a jövőbeli eseményeket</item>
         <item>Minden eseményt</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
-        <item>ikrek</item>
+        <item>gemini</item>
         <item>Ikrek</item>
         <item>5.21 - 6.21</item>
     </string-array>
@@ -91,12 +95,12 @@
         <item>La Liga</item>
     </string-array>
     <string-array name="leo_info">
-        <item>oroszlán</item>
+        <item>leo</item>
         <item>Oroszlán</item>
         <item>7.23 - 8.22</item>
     </string-array>
     <string-array name="libra_info">
-        <item>mérleg</item>
+        <item>libra</item>
         <item>Mérleg</item>
         <item>9.23 - 10.23</item>
     </string-array>
@@ -112,7 +116,7 @@
         <item>utolsó</item>
     </string-array>
     <string-array name="pisces_info">
-        <item>halak</item>
+        <item>pisces</item>
         <item>Halak</item>
         <item>2.19 - 3.20</item>
     </string-array>
@@ -218,12 +222,12 @@
         <item>Nem</item>
     </string-array>
     <string-array name="sagittarius_info">
-        <item>nyilas</item>
+        <item>sagittarius</item>
         <item>Nyilas</item>
         <item>11.23 - 12.21</item>
     </string-array>
     <string-array name="scorpio_info">
-        <item>skorpió</item>
+        <item>scorpio</item>
         <item>Skorpió</item>
         <item>10.24 - 11.22</item>
     </string-array>
@@ -232,7 +236,7 @@
         <item>Serie A</item>
     </string-array>
     <string-array name="taurus_info">
-        <item>bika</item>
+        <item>taurus</item>
         <item>Bika</item>
         <item>4.20 - 5.20</item>
     </string-array>
@@ -332,7 +336,7 @@
         <item>1 nappal előtte</item>
     </string-array>
     <string-array name="virgo_info">
-        <item>szűz</item>
+        <item>virgo</item>
         <item>Szűz</item>
         <item>8.23 - 9.22</item>
     </string-array>

@@ -140,11 +140,11 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="passport_area_code_title">Ország hívószám</string>
     <string name="passport_area_code_hot">GYAKRAN HASZNÁLT</string>
     <string name="passport_user_agreement_p1">Elfogadom a </string>
-    <string name="passport_user_agreement_p2">Felhasználói szerződés</string>
+    <string name="passport_user_agreement_p2">Felhasználói Szerződés</string>
     <string name="passport_user_agreement_p3"> és az </string>
     <string name="passport_user_agreement_p4">Adatvédelmi irányelveket.</string>
     <string name="passport_privacy_policy">Adatvédelmi irányelvek</string>
-    <string name="passport_user_agreement">Felhasználói szerződés</string>
+    <string name="passport_user_agreement">Felhasználói Szerződés</string>
     <string name="passport_license_host_unreachable">Nem sikerült csatlakozni a hálózathoz. A megtekintéshez látogasson el a %s.</string>
     <string name="passport_login_failed">A bejelentkezés nem sikerült</string>
     <string name="passport_reg_failed">Nem állítható be a fiók</string>

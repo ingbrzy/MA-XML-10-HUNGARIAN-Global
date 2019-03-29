@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="confirm_recommandation_face_is">&lt;Data> Biztos, hogy ő &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Ez a személy áthelyezve a(z) \"%2$s\" albumba. &lt;/Data></string>
-    <string name="confirm_recommandation_face_not">&lt;Data> Biztos, hogy ő nem &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> Biztos, hogy ők &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Ezek az személyek áthelyezve a(z) \"%2$s\" albumba. &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> Biztos, hogy ők nem &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
     <string name="accept">Elfogadás</string>
     <string name="accept_or_deny">%1$s megosztotta %2$s albumát Önnel.</string>
     <string name="actionbar_overflow_item_desc">További lehetőségek</string>
@@ -237,6 +232,9 @@
     <string name="cleaner_screen_shot_action">Törlés</string>
     <string name="cleaner_screen_shot_description">Törölje a már nem szükséges képernyőképeket.</string>
     <string name="cleaner_screen_shot_title">Képernyőképek törlése</string>
+    <string name="cleaner_similar_action">Törlés most</string>
+    <string name="cleaner_similar_description">Dupla képek törlése</string>
+    <string name="cleaner_similar_title">Dupla képek</string>
     <string name="cleaner_slim_action">Optimalizálás indítása</string>
     <string name="cleaner_slim_description">Készülékén optimalizált fényképeket tároljon. Az eredeti fájlok tárhelye a Mi Cloud lesz.</string>
     <string name="cleaner_slim_start">Optimalizálás</string>
@@ -244,6 +242,10 @@
     <string name="cleaner_space_description">szabadulhat fel</string>
     <string name="cleaner_space_detail_description">Tárhely felszabadítása érdekében töröljön fényképeket a Galériából</string>
     <string name="cleaner_stop_scan">Keresés leállítása</string>
+    <string name="cleaner_video_action">Törlés most</string>
+    <string name="cleaner_video_description">Tárhelyet felhasználó videók törlése</string>
+    <string name="cleaner_video_pick_delete_selected">Kiválasztott videók törlése</string>
+    <string name="cleaner_video_title">Videók törlése</string>
     <string name="click_download_gif">Érintse meg a GIF letöltéséhez</string>
     <string name="click_top_right">Érintse meg az ikont</string>
     <string name="close">Bezárás</string>
@@ -306,6 +308,10 @@
     <string name="confirm_merge_face_albums">&lt;Data> Összekapcsolja az albumot vele: %s? &lt;/Data></string>
     <string name="confirm_merge_many_face_albums">&lt;Data> Összekapcsolja ezeket az albumokat vele: %s? &lt;/Data></string>
     <string name="confirm_not_face">Nincs találat</string>
+    <string name="confirm_recommandation_face_is">&lt;Data> Biztos, hogy ő &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Ez a személy áthelyezve a(z) \"%2$s\" albumba. &lt;/Data></string>
+    <string name="confirm_recommandation_face_not">&lt;Data> Biztos, hogy ő nem &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> Biztos, hogy ők &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Ezek az személyek áthelyezve a(z) \"%2$s\" albumba. &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> Biztos, hogy ők nem &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data></string>
     <string name="contact_tip">Névjegy</string>
     <string name="context_menu_add_contact">Hozzáadás a névjegyekhez</string>
     <string name="context_menu_copy">Másolás</string>
@@ -476,7 +482,7 @@
     <string name="ext_sdcard_permission_request_title">Engedélyezze a galériának az SD-kártyához való hozzáférést</string>
     <string name="ext_sdcard_request_failed_button_text">OK</string>
     <string name="ext_sdcard_request_succeed_toast_text">Kész!</string>
-    <string name="face_album_empty">"Nincs elegendő fénykép személyek felismeréséhez.
+    <string name="face_album_empty">"Nincs elegendő fénykép személyek felismeréséhez.r
 Készítsen több fotót a barátairól!"</string>
     <string name="face_album_empty_syncing">Adatok szinkronizálása, jöjjön vissza később</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Csatlakozzon a hálózathoz az adatok szinkronizálásához</string>
@@ -493,6 +499,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="face_name_edit">Szerkesztés</string>
     <string name="face_name_input">Írja be a nevet</string>
     <string name="face_recommend">Ajánlások</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Nem sikerült befejezni a műveletet</string>
     <string name="fail_to_pick_email">Érvénytelen e-mail cím</string>
     <string name="fail_to_sync_album">Album szinkronizálása sikertelen. Ellenőrizze a hálózat állapotát és próbálja újra.</string>
@@ -503,6 +510,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="feature_guidance_photo_effects">"Új fényképeffektek 
 érhetők el"</string>
     <string name="feature_guidance_video_editor_smart_effects">Új effektek érhetők el</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">Fekete-fehér</string>
     <string name="filter_bi_dusk">Homályos</string>
     <string name="filter_bi_lilt">Lendület</string>
@@ -576,6 +584,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Beállítás</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"A megfelelő működéshez a Galéria hozzáférést igényel ehhez: 
 %s
 , kattintson a \"Beállítás\" gombra az Engedélyekre lépéshez."</string>
@@ -655,7 +664,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="loading_gif_thumbnail">GIF előnézetének letöltése…</string>
     <string name="loading_image">Kép letöltése…</string>
     <string name="loading_image_thumbnail">Indexkép letöltése…</string>
-    <string name="loading_members">Tagok betöltése026</string>
+    <string name="loading_members">Tagok betöltése2026</string>
     <string name="loading_processing_tip">Fényképfeldolgozás…</string>
     <string name="loading_suspend">A letöltés szüneteltetve: folytatódik elérhető Wi-Fi kapcsolat esetén</string>
     <string name="loading_video">Videó letöltése…</string>
@@ -829,6 +838,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="people_mark_mode_title_no_mark_name">Válasszon ki egy személyt</string>
     <string name="people_page_label">Személyek</string>
     <string name="people_page_unname">Névtelen</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">Az emberek képeken való megnevezéséhez</string>
     <string name="permission_contract_name">Névjegyzék</string>
     <string name="permission_optional_category">Opcionális engedélyek</string>
@@ -1021,6 +1031,16 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="scan_barcode_guide">Az album QR-kódjáért érintse meg a Megosztás ikont.</string>
     <string name="scan_barcode_to_join">QR-kód beolvasása az album hozzáadásához</string>
     <string name="scan_qr_code_buttom_text">QR-kód beolvasása az album megtekintéséhez</string>
+    <string name="screen_doodle_talkback_size">Doodle vonalszélesség</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
+    <string name="screen_editor_finish">Kész</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
+    <string name="screen_save_dialog_btn_cancel">Törlés</string>
+    <string name="screen_save_dialog_btn_delete">Képernyőkép törlése</string>
+    <string name="screen_save_dialog_btn_save">Mentés a Galériába</string>
     <string name="search_backup_full_screen">Kapcsolja be a Mi Cloud szinkronizálást, hogy rátaláljon még több személyre és dologra</string>
     <string name="search_backup_now">Bekapcsolás</string>
     <string name="search_backup_sub_title">Kapcsolja be, hogy több képet találjon</string>
@@ -1075,6 +1095,9 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="search_title_recommend">Ajánlott</string>
     <string name="search_title_suggestion">Javaslatok</string>
     <string name="search_title_tag">Tárgyak</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Projektor keresése…</string>
     <string name="secret_album_card_description">A legjobb hely az Ön kis titkai számára</string>
     <string name="secret_album_card_title">Próbálja ki a rejtett albumot</string>
@@ -1131,6 +1154,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="show_hidden_album_title">Láthatatlan albumok megjelenítése</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Sikeresen áthelyezve, lépjen az Egyéb albumokba megtekinteni</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Sikeresen áthelyezve, lépjen az Albumokba megtekinteni</string>
+    <string name="similar_keep_clear">Legjobb felvételek megtartása</string>
     <string name="slideshow_interval_dialog_title">Adja meg a vetítés időtartamát</string>
     <string name="slideshow_interval_invalid">Az időtartamnak 3 és 3600 másodperc között kell lennie</string>
     <string name="slideshow_interval_title">Képek megjelenítési ideje diavetítéskor</string>
@@ -1151,6 +1175,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="slim_stop">Optimalizálás leállítása</string>
     <string name="start_debug">Hibakeresés a Galériában</string>
     <string name="start_to_use_face_albumset">Rendezés személyek szerint</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sticker_ad">Szórólapok</string>
     <string name="sticker_baibai">Növények</string>
     <string name="sticker_beard">Borbély</string>
@@ -1167,6 +1192,10 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="sticker_spring">Tavasz</string>
     <string name="sticker_summer">Nyár</string>
     <string name="sticker_words">Szavak</string>
+    <string name="storage_description_primary">Belső tároló</string>
+    <string name="storage_description_sdcard">SD-kártya</string>
+    <string name="storage_description_usb">USB háttértár</string>
+    <string name="storage_description_xspace">Klónozott alkalmazások adatai</string>
     <string name="storage_no_space">Nincs elég tárhely</string>
     <string name="story_back_stop_download">Nyomja meg újra a letöltés megállításához</string>
     <string name="story_cancel_download">Mégse</string>
@@ -1229,6 +1258,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="to_enable_sync_dialog_message">Először kapcsolja be a szinkronizálást</string>
     <string name="to_enable_sync_dialog_positive_button_text">Lépjen a Beállítások menüpontba</string>
     <string name="to_enable_sync_dialog_title">Szinkronizálás</string>
+    <string name="today">Ma</string>
     <string name="too_many_recipients">Az üzenet túl sok címzettet tartalmaz (%1$s). Maximum %2$s címzett lehet.</string>
     <string name="trash_bin">Lomtár</string>
     <string name="trash_bin_summary">Böngésszen a nemrégiben törölt fényképek között</string>
@@ -1365,64 +1395,6 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="who_is_this">Ki ő?</string>
     <string name="xiaomi_account_not_exists_toast">A Mi Fiók nem létezik</string>
     <string name="yes">Igen</string>
+    <string name="yesterday">Tegnapi</string>
     <string name="you_are">Ön a baba</string>
-    <string name="cleaner_similar_action">Törlés most</string>
-    <string name="cleaner_similar_description">Dupla képek törlése</string>
-    <string name="cleaner_similar_title">Dupla képek</string>
-    <string name="cleaner_video_action">Törlés most</string>
-    <string name="cleaner_video_description">Tárhelyet felhasználó videók törlése</string>
-    <string name="cleaner_video_pick_delete_selected">Kiválasztott videók törlése</string>
-    <string name="cleaner_video_title">Videók törlése</string>
-    <string name="photomovie_audio_custom">Helyi</string>
-    <string name="photomovie_audio_default">Memória</string>
-    <string name="photomovie_audio_kawaii">Romantikus</string>
-    <string name="photomovie_audio_light">Ballada</string>
-    <string name="photomovie_audio_linear">Rock</string>
-    <string name="photomovie_audio_none">Nincs</string>
-    <string name="photomovie_audio_soft">Ukulele</string>
-    <string name="photomovie_audio_sport">Techno</string>
-    <string name="photomovie_cancel_download">Mégse</string>
-    <string name="photomovie_delete_disable">Klip létrehozásához legalább 3 fénykép szükséges.</string>
-    <string name="photomovie_download">Letöltés</string>
-    <string name="photomovie_download_failed">Sikertelen letöltés</string>
-    <string name="photomovie_download_failed_for_notwork">A letöltés sikertelen. Csatlakozzon a hálózathoz, majd próbálja újra.</string>
-    <string name="photomovie_download_without_wifi_msg">A fájlok letöltése mobiladat-kapcsolat használatával növeli az adatforgalmat. Ha túllépi a tervezett adatcsomagjának havi értékét, a szolgáltató további költségeket számolhat fel.</string>
-    <string name="photomovie_download_without_wifi_title">Adatforgalmi figyelmeztetés</string>
-    <string name="photomovie_exit_cancel">Mégse</string>
-    <string name="photomovie_exit_confirm">Kilépés</string>
-    <string name="photomovie_exit_content">Az összes módosítás el fog veszni. Mégis kilép?</string>
-    <string name="photomovie_exit_title">Kilépés</string>
-    <string name="photomovie_item_name">Klip</string>
-    <string name="photomovie_return">Vissza</string>
-    <string name="photomovie_save">Mentés</string>
-    <string name="photomovie_save_failed">Sikertelen mentés</string>
-    <string name="photomovie_save_successfully">Sikeresen elmentve</string>
-    <string name="photomovie_saving">Klip létrehozása…</string>
-    <string name="photomovie_tab_edit">Szerkesztés</string>
-    <string name="photomovie_tab_music">Zene</string>
-    <string name="photomovie_tab_template">Minta</string>
-    <string name="photomovie_template_default">Lassú</string>
-    <string name="photomovie_template_kawaii">Bűbáj</string>
-    <string name="photomovie_template_light">Fuvallat</string>
-    <string name="photomovie_template_linear">Roadtrip</string>
-    <string name="photomovie_template_soft">Ifjúsági</string>
-    <string name="photomovie_template_sport">Életerő</string>
-    <string name="refocus_discard_confirm_message">Elmenti a változásokat?</string>
-    <string name="refocus_discard_negative_btn">Elvetés</string>
-    <string name="refocus_discard_positive_btn">Mentés</string>
-    <string name="refocus_photo_not_support">Ezen a fényképen nem tud elmosást alkalmazni</string>
-    <string name="refocus_save_cancel">Mégse</string>
-    <string name="refocus_save_title">Formátum kiválasztása</string>
-    <string name="refocus_save_to_photo">Mentés képként</string>
-    <string name="refocus_save_to_video">Mentés videóként</string>
-    <string name="refocus_saving">Mentés…</string>
-    <string name="refocus_title">Elmosás</string>
-    <string name="refocus_type_static">Elmosás szintje</string>
-    <string name="refocus_type_video">Fénysávok</string>
-    <string name="screen_doodle_talkback_size">Doodle vonalszélesség</string>
-    <string name="screen_editor_finish">Kész</string>
-    <string name="screen_save_dialog_btn_cancel">Törlés</string>
-    <string name="screen_save_dialog_btn_delete">Képernyőkép törlése</string>
-    <string name="screen_save_dialog_btn_save">Mentés a Galériába</string>
-    <string name="similar_keep_clear">Legjobb felvételek megtartása</string>
 </resources>

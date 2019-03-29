@@ -38,10 +38,17 @@
     <string name="vip_feedback_enable">VIP visszajelzés bekapcsolása</string>
     <string name="extreme_power_config_mode_category">Rendkívül erős akkumulátorkímélő</string>
     <string name="extreme_power_config_mode_title">Rendkívül erős akkumulátorkímélő</string>
+    <string name="notification_open_extreme_mode_text">A Rendkívül erős akkumulátorkímélő bekapcsolva</string>
+    <string name="extreme_power_settings_title">beállítások</string>
+    <string name="notification_exit_extreme_mode_title">A Rendkívül erős akkumulátorkímélő kikapcsolva</string>
+    <string name="notification_exit_extreme_mode_text">Az akkumulátor töltöttsége több mint %s</string>
+    <string name="extreme_power_config_mode_summary">A Rendkívül erős akkumulátorkímélő korlátozza a háttéraktivitást és leállítja a szinkronizálást.</string>
     <string name="extreme_power_config_mode_desc"><li>A Rendkívül erős akkumulátorkímélő leállít minden háttérben futó alkalmazást miután kilépett belőle és visszatért a Kezdőképernyőre. Az alkalmazásokból nem érkezik többé értesítés és az alkalmazás frissítéseket sem kap.</li>"
 "<li>Ha szeretné, hogy egy alkalmazás futhasson a háttérben, lakatolja le azt az Előzményekben, vagy adja hozzá a Háttérfolyamat-tiltás kivételeihez. Ha a Rendkívül erős akkumulátorkímélő be van kapcsolva maximálisan 4 alkalmazás futhat a háttérben.</li>"
 "<li>Ez az akkumulátorkímélő mód alapértelmezetten kikapcsolja az NFC-t. Ezt módosíthatja a Beállításokban.</li>"
 "<li>Amikor az akkumulátora eléri a 30%-os töltöttséget a Rendkívül erős akkumulátorkímélő automatikusan kikapcsol, hogy készülékén minden funkció újra normálisan működhessen.</li></string>
+    <string name="extreme_add_white_list_title">A háttérfolyamat-tiltás kivételei</string>
+    <string name="extreme_add_white_list_summary">Legfeljebb 4 alkalmazást adhat hozzá</string>
     <string name="empty_title_apps_container_list">Nincs alkalmazás</string>
     <string name="hints_loading_text">Egy pillanat…</string>
     <string name="config_mode_title">A háttérben futás beállításai</string>
@@ -101,13 +108,6 @@ Az akkumulátorkímélő szelektíven kezeli a fontos alkalmazásokat."</string>
     <string name="atrace_start">ATrace-napló rögzítése…</string>
     <string name="atrace_saving">ATrace-napló mentése…</string>
     <string name="atrace_saved">A mentés sikerült</string>
-    <string name="notification_open_extreme_mode_text">A Rendkívül erős akkumulátorkímélő bekapcsolva</string>
-    <string name="extreme_power_settings_title">beállítások</string>
-    <string name="notification_exit_extreme_mode_title">A Rendkívül erős akkumulátorkímélő kikapcsolva</string>
-    <string name="notification_exit_extreme_mode_text">Az akkumulátor töltöttsége több mint %s</string>
-    <string name="extreme_power_config_mode_summary">A Rendkívül erős akkumulátorkímélő korlátozza a háttéraktivitást és leállítja a szinkronizálást.</string>
-    <string name="extreme_add_white_list_title">A háttérfolyamat-tiltás kivételei</string>
-    <string name="extreme_add_white_list_summary">Legfeljebb 4 alkalmazást adhat hozzá</string>
     <string name="adaptive_battery_title">Alkalmazkodó akkumulátor</string>
     <string name="adaptive_battery_summary">Korlátozza az akkumulátorhasználatot az olyan alkalmazásokhoz, amelyeket ritkán használ</string>
 </resources>

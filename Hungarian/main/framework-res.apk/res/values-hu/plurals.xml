@@ -72,6 +72,10 @@
         <item quantity="other">%dé múlva</item>
         <item quantity="one">%dé múlva</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Próbálja újra %d másodperc múlva.</item>
+        <item quantity="one">Próbálja újra 1 másodperc múlva</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">A legutóbbi %d nap</item>
         <item quantity="one">A legutóbbi %d nap</item>
@@ -105,16 +109,16 @@
         <item quantity="one">Nyílt Wi-Fi hálózat érhető el</item>
     </plurals>
     <plurals name="zen_mode_duration_hours">
-        <item quantity="other">%d órán át</item>
-        <item quantity="one">Egy órán át</item>
+        <item quantity="other">%d órára</item>
+        <item quantity="one">1 órára</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_short">
         <item quantity="other">%d órán keresztül</item>
         <item quantity="one">1 órán keresztül</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary">
-        <item quantity="other">%1$d órán át (eddig: %2$s)</item>
-        <item quantity="one">Egy órán át (eddig: %2$s)</item>
+        <item quantity="other">%1$d órára (eddig: %2$s)</item>
+        <item quantity="one">1 órára (eddig: %2$s)</item>
     </plurals>
     <plurals name="zen_mode_duration_hours_summary_short">
         <item quantity="other">%1$d órán keresztül (eddig: %2$s)</item>

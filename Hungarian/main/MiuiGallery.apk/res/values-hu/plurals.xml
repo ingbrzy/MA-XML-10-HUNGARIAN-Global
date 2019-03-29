@@ -176,6 +176,10 @@
         <item quantity="other">%1$d videó vár mentésre</item>
         <item quantity="one">Egy videó vár mentésre</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">Összesen %1$d elem</item>
+        <item quantity="one">Összesen %1$d elem</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">A kiválasztott fénykép nincs a készüléken. Letölti mobiladat-kapcsolattal?</item>
         <item quantity="one">A kiválasztott fénykép nincs a készüléken. Letölti mobiladat-kapcsolattal?</item>
@@ -267,10 +271,6 @@
     <plurals name="sync_total_count">
         <item quantity="other">%d elem</item>
         <item quantity="one">%d elem</item>
-    </plurals>
-    <plurals name="photo_count_format">
-        <item quantity="other">Összesen %1$d elem</item>
-        <item quantity="one">Összesen %1$d elem</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d fájl</item>

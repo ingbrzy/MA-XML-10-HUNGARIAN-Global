@@ -14,13 +14,10 @@
         <item>Nagyon elégedett</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>Az átviteli idő túl hosszú</item>
-        <item>A csatlakozás megszakadt</item>
-        <item>Nem a megfelelő elemet választottam ki az átvitelre</item>
-        <item>Túl sok lépésből áll</item>
-        <item>A telefonom akkumulátora lemerült</item>
-        <item>Az átvitt elemek sérültek</item>
-        <item>Véletlenül indítottam el az átvitelt</item>
-        <item>Egyéb</item>
+        <item>Általános észrevételek</item>
+        <item>Az átvitel hossza</item>
+        <item>A folyamat egyszerűsége</item>
+        <item>Az instrukciók érthetősége</item>
+        <item>Ez a funkció hasznos számomra</item>
     </string-array>
 </resources>

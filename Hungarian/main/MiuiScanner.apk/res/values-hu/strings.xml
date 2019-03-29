@@ -100,7 +100,7 @@
     <string name="import_contact">Névjegy importálása</string>
     <string name="impunity_declaration_content">Az alkalmazás használata közben készített fényképek feldolgozásához adjon hozzáférést a beolvasónak a kamerájához. Ne használja a beolvasót olyan tárgyak fényképezésére, amelyeken látszódnak az Ön személyes adatai. Az alábbi „Elfogadom” gombra való koppintással Ön kijelenti, hogy elolvasta és elfogadja &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Adatvédelmi szabályzatunkat&lt;/a>&lt;/font> és engedélyezi a beolvasónak az internethez való csatlakozást.</string>
     <string name="impunity_declaration_negative_text">Kilépés</string>
-    <string name="impunity_declaration_title">Adatvédelmi szabályzat</string>
+    <string name="impunity_declaration_title">Adatvédelmi Irányelvek</string>
     <string name="label_choose_picture">Válasszon egy fényképet</string>
     <string name="label_flash_light">Zseblámpa</string>
     <string name="language_entry_chinese_cn">Egyszerűsített kínai</string>

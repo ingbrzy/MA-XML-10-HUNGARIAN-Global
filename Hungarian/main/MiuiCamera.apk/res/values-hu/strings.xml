@@ -457,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">Mélységhatás</string>
     <string name="portrait_mode_use_hint">"A Portrémód elmossa a hátteret
 és középpontba állítja az embereket."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Próbálja ki a Portrémódot.
 A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_square_mode_title">Négyzet</string>
@@ -473,6 +474,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_beautify_entry_low">Alacsony</string>
     <string name="pref_camera_beautify_entry_normal">Közepes</string>
     <string name="pref_camera_beautify_entry_high">Magas</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Módok</string>
     <string name="button_front_camera_title">Szelfi készítése</string>
     <string name="button_normal_video_title">Videófelvétel</string>
@@ -599,7 +601,7 @@ a fényképek hátterének elmosásához"</string>
     <string name="close_back_flash_toast">A készüléke túlmelegedett. Most nem használhatja a vakut.</string>
     <string name="autozoom_hint">Mozgó objektum követése</string>
     <string name="autozoom_disabled_hint">A mozgó objektum követése leállítva</string>
-    <string name="autozoom_click_hint">Érintsen meg (a képen) egy objektumot, annak követéséhez. A legjobb eredmény elérése érdekében maradjon legalább 3 méterre.</string>
+    <string name="autozoom_click_hint">Érintse meg a fényképezni kívánt mozgó elemet, annak fókuszban tartásához. A legjobb eredmény elérése érdekében maradjon legalább 3 méterre.</string>
     <string name="live_sticker_fragment_tab_name">Matricák</string>
     <string name="live_speed_fragment_tab_name">Sebesség</string>
     <string name="live_speed_extreme_slow">Szuper lassú</string>
@@ -680,4 +682,8 @@ Az ultraszéles látószögű mód segít abban az esetben, ha nem tud eltávolo
     <string name="super_night_toast">Fényképezés közben tartsa a telefont stabilan</string>
     <string name="capture_back_pressed_hint">Érintse meg újra a kilépéshez</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
+    <string name="pref_camera_video_bokeh_on">Videó-bokeh bekapcsolva</string>
+    <string name="pref_camera_video_bokeh_off">Videó-bokeh kikapcsolva</string>
+    <string name="macro_mode">Makró</string>
+    <string name="macro_mode_tip">Az objektív és a fényképezni kívánt tárgy közötti távolság nem haladhatja meg a 10 cm-t</string>
 </resources>

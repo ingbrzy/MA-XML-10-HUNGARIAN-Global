@@ -9,7 +9,7 @@
     <string name="button_queue_for_wifi">Várakozás Wi-Fi kapcsolatra</string>
     <string name="button_start_now">Letöltés</string>
     <string name="call_record">Rögzített hívások</string>
-    <string name="clear_records">Szinkronizált felvételek törlése</string>
+    <string name="clear_records">A szinkronizált felvételek törlése</string>
     <string name="cloud_record_open">Felvételek szinkronizálása</string>
     <string name="cloud_record_tip">Felvételek szinkronizálása a Mi Clouddal.</string>
     <string name="cloud_service_state_open_reminder">A hangfelvételek szinkronizálásához kapcsolja be a Mi Cloud szinkronizálást.</string>
@@ -138,10 +138,10 @@
     <string name="preference_recog_faqs">Online szövegátirat GYIK</string>
     <string name="preference_recog_terms">Szolgáltatási feltételek</string>
     <string name="preference_record_scenes_dialog_title">Válassza ki a felvétel módját</string>
-    <string name="preference_scenes">Felvétel módja</string>
-    <string name="preference_silent_mode">Csörgés némítása felvétel alatt</string>
-    <string name="preference_tip_rename">Átnevezés ablak mutatása a rögzítés leállítása után</string>
-    <string name="privacy_policy_title">Adatvédelmi szabályzat</string>
+    <string name="preference_scenes">Felvételtípus</string>
+    <string name="preference_silent_mode">Csengőhang-némítás felvételkor</string>
+    <string name="preference_tip_rename">Felvétel automatikus átnevezése</string>
+    <string name="privacy_policy_title">Adatvédelmi Irányelvek</string>
     <string name="recognition_error_cancel">Megszakítva</string>
     <string name="recognition_error_code">Hibakód: %d</string>
     <string name="recognition_error_download_cancel">Később</string>
@@ -183,7 +183,7 @@
     <string name="record_downloading_notification">Letöltés…</string>
     <string name="record_downloading_notification_complete">A letöltés befejeződött</string>
     <string name="record_downloading_notification_count">%d letöltés</string>
-    <string name="record_format_preference_title">Felvétel formátuma</string>
+    <string name="record_format_preference_title">Felvételformátum</string>
     <string name="record_list">Felvételek listája</string>
     <string name="record_list_call">Hívásrögzítések</string>
     <string name="record_list_category_title_format">yyyy. MMMM</string>
@@ -195,7 +195,7 @@
     <string name="record_mark_point">%s megjelölése</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute" />
-    <string name="record_quliaty_preference_title">Felvétel minősége</string>
+    <string name="record_quliaty_preference_title">Felvételminőség</string>
     <string name="record_resotre">Felvételek visszaállítása</string>
     <string name="recording">Rögzítés</string>
     <string name="recording_quality_high">Magas minőség</string>
@@ -224,10 +224,10 @@
     <string name="search_enable_earpiece_title">Fülhallgató engedélyezése</string>
     <string name="search_led_indicator">LED értesítés lezárt képernyőnél</string>
     <string name="search_led_indicator_prompt">Állapotsori értesítés és LED villogás lezárt képernyőnél a felvétel ideje alatt</string>
-    <string name="search_quliaty_title">Felvétel minősége</string>
-    <string name="search_scenes">Felvétel módja</string>
-    <string name="search_silent_mode">Csörgés némítása felvétel alatt</string>
-    <string name="search_tip_rename">Átnevezés ablak mutatása a rögzítés leállítása után</string>
+    <string name="search_quliaty_title">Felvételminőség</string>
+    <string name="search_scenes">Felvételtípus</string>
+    <string name="search_silent_mode">Csengőhang-némítás felvételkor</string>
+    <string name="search_tip_rename">Felvétel automatikus átnevezése</string>
     <string name="service_instructions">Az iflyrec.com bemutatása</string>
     <string name="share">Megosztás</string>
     <string name="share_dialog_title">Megosztás az alábbival</string>

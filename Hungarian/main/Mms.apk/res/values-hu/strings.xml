@@ -29,6 +29,8 @@
     <string name="already_updated">Naprakész</string>
     <string name="app_label">Üzenetek</string>
     <string name="app_name">Készülékek</string>
+    <string name="application_list_title">Mini app</string>
+    <string name="attach_group_chat">Group chat</string>
     <string name="attach_image">Képek</string>
     <string name="attach_rcs_file">Fájl</string>
     <string name="attach_rcs_location">Helyzet</string>
@@ -40,6 +42,7 @@
     <string name="attach_take_photo">Kép rögzítése</string>
     <string name="attach_transaction">Pénzátutalás</string>
     <string name="attach_video">Videók</string>
+    <string name="attach_video_call">Video call</string>
     <string name="audio_download_failed">hang letöltése sikertelen</string>
     <string name="audio_message_expired">A hangüzenet lejárt.</string>
     <string name="audio_message_mx_offline">Hang letöltése sikertelen. Nincs hálózati kapcsolat vagy a Mi Üzenet nem elérhető.</string>
@@ -73,6 +76,7 @@
     <string name="button_unfold">Kibontás</string>
     <string name="call_sender">Feladó visszahívása</string>
     <string name="can_not_send_by_rcs">Nem használható a China Mobile Messaging</string>
+    <string name="can_not_view_group_chat_stranger">"Can't view the details of strangers."</string>
     <string name="cannot_add_picture_and_video">Nem lehet videót és képet is hozzáadni ugyanahhoz a diához.</string>
     <string name="cannot_add_slide_anymore">Nem lehet további diákat hozzáadni.</string>
     <string name="cannot_forward_drm_obj">Az üzenetben megtalálható DRM-objektum nem továbbítható.</string>
@@ -130,6 +134,7 @@
     <string name="confirm_restore_positive">Visszaállítás</string>
     <string name="confirm_restore_title">Üzenetek visszaállítása</string>
     <string name="confirm_send_mms">Az egyik címzett e-mail címet tartalmaz, ez az üzenetet MMS-ként lesz továbbítva, ami szolgáltatói költéséggel járhat.</string>
+    <string name="contact_not_exists">"This person isn't in your contacts."</string>
     <string name="context_menu_add_calendar">Naptárhoz adás</string>
     <string name="context_menu_add_contact">Hozzáadás a névjegyekhez</string>
     <string name="context_menu_add_to_browser_favorite">Hozzáadás a kedvencekhez</string>
@@ -165,7 +170,7 @@
     <string name="delivery_report_activity">Kézbesítési jelentés</string>
     <string name="delivery_toast_body">%s megkapta az üzenetet</string>
     <string name="dialog_message_fake_cell_detect_error">Javítja az üzenetre vonatkozó információkat? Ehhez a MIUI-nak fel kell töltenie a szerverre a telefonszámot (%1$s), az üzenet tartalmát és a tartózkodási helyére vonatkozó adatokat.</string>
-    <string name="dialog_message_mx">Az Mi Message segítségével díjmentes üzeneteket küldhet más MIUI-felhasználóknak. Az Mi Message aktiválásához egy kimenő SMS üzenet szükséges. Mobilszolgáltatója ennek díját felszámítja. Az Mi Message használata előtt el kell fogadnia a \"%1$s\" és \"%2$s\" dokumentumokat.</string>
+    <string name="dialog_message_mx">A Mi Üzenet segítségével ingyenes üzeneteket küldhet más MIUI-felhasználóknak. A Mi Üzenet aktiválásához szükséges egy kimenő SMS-üzenet. Ennek az SMS-nek a költségét mobilszolgáltatója felszámolja majd Önnek. A Mi Üzenet használata előtt el kell olvasnia és el kell fogadnia a következő két dokumentumot: \"%1$s\" és \"%2$s\".</string>
     <string name="dialog_message_networking">A Messaging szolgáltatás a Yellow pages segítségével nyújt Küldő fél felismerés szolgáltatást. A Messaging és a Yellow pages megfelelő működéséhez internetkapcsolat és a tartózkodási hely meghatározásának engedélyezése szükséges. Engedélyezi?</string>
     <string name="dialog_message_rcs">A China Mobile Messaging segítségével díjmentes üzeneteket küldhet más China Mobile felhasználóknak Kína szárazföldi területein belül. A China Mobile Messaging használata előtt el kell fogadnia a \"%1$s\" dokumentumot.</string>
     <string name="dialog_title_fake_cell_detect_error">Javítás</string>
@@ -224,6 +229,7 @@
     <string name="file_size">Méret:</string>
     <string name="file_title">Név:</string>
     <string name="file_width_height">Méret:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Új üzenet</string>
     <string name="forward_from">Továbbítás:</string>
     <string name="forward_message_select_title">Üzenet továbbítása</string>
@@ -245,6 +251,7 @@
     <string name="group_resend_message">Küldés (%d)</string>
     <string name="group_view_settings_disolved">Nem tekintheti meg a tételeket. A csoportos csevegés törlésre került.</string>
     <string name="group_view_settings_not_memeber">Nem tekintheti meg a tételeket. Ön nem tagja ennek a csoportos csevegésnek.</string>
+    <string name="groupchat_list_title">Group chats</string>
     <string name="guild_add_attachments">Érintse meg smiley-k vagy más elemek hozzáadásához</string>
     <string name="guild_add_recipients">Érintse meg címzettek hozzáadásához</string>
     <string name="guild_msim_switcher">Érintse mega SIM-kártya váltásához</string>
@@ -287,6 +294,7 @@
     <string name="menu_edit">Szerkesztés</string>
     <string name="menu_forward">Továbbítás</string>
     <string name="menu_lock">Kedvencekhez adás</string>
+    <string name="menu_make_call">Call</string>
     <string name="menu_mark">Megjelölés</string>
     <string name="menu_more">Egyebek</string>
     <string name="menu_new_contact">Új névjegy</string>
@@ -297,6 +305,7 @@
     <string name="menu_traffic_destination">Célállomás</string>
     <string name="menu_unlock">Eltávolítás a kedvencekből</string>
     <string name="menu_view_contact">Névjegy megtekintése</string>
+    <string name="menu_view_group_info">Group Info</string>
     <string name="message_class_label">Üzenet osztálya:</string>
     <string name="message_contact">Névjegy:</string>
     <string name="message_details_title">Üzenet részletei</string>
@@ -408,6 +417,7 @@
     <string name="no_block_button_msg">Feloldás</string>
     <string name="no_conversations">Nincs üzenet.</string>
     <string name="no_delivery_report">Nincs kézbesítési jelentés</string>
+    <string name="no_network_description">"Couldn't connect to the network. Check your network settings and try again."</string>
     <string name="no_subject">(Nincs tárgy)</string>
     <string name="no_subject_view">(Nincs tárgy)</string>
     <string name="non_english_subject_limit">13 karakter</string>
@@ -447,7 +457,7 @@
     <string name="pref_cell_broadcast">Cellán belüli adások</string>
     <string name="pref_collapse_sp_messages_summary">Szolgáltatói üzenetek automatikus csoportosítása</string>
     <string name="pref_delivery_ringtone">Kézbesítési hang</string>
-    <string name="pref_edit_smsc_address">SMS központ (SMSC)</string>
+    <string name="pref_edit_smsc_address">Az SMS központja (SMSC)</string>
     <string name="pref_forward_title">Továbbítás</string>
     <string name="pref_hide_verification_code_summary">Automatikusan rejtse el az egyszer használatos jelszavakat a Zárolási képernyőn megjelenő üzenetértesítésekben</string>
     <string name="pref_messages_to_save">A menteni kívánt üzenetek számának beállítása</string>
@@ -485,7 +495,7 @@
     <string name="pref_title_card_format">Kártya megosztási formája</string>
     <string name="pref_title_delivery_reports">Kézbesítési jelentés</string>
     <string name="pref_title_fwd_sender_info">Továbbított feladó infó</string>
-    <string name="pref_title_manage_sim_messages">SIM kártya tárhely</string>
+    <string name="pref_title_manage_sim_messages">A SIM-kártya tárhelye</string>
     <string name="pref_title_miui_card">MIUI-kártya küldése</string>
     <string name="pref_title_mms_auto_retrieval">MMS tartalom automatikus letöltése</string>
     <string name="pref_title_mms_delete">Multimédiás üzenetek korlátja</string>
@@ -521,7 +531,7 @@
     <string name="privacy_password_title2">Használjon Adatvédelmi jelszót</string>
     <string name="privacy_password_title3">Frissítse a jelszavát</string>
     <string name="privacy_password_title4">Jelszó frissítve</string>
-    <string name="privacy_policy">Adatvédelmi szabályzat</string>
+    <string name="privacy_policy">Adatvédelmi Irányelvek</string>
     <string name="private_message">Privát üzenetek</string>
     <string name="private_new_notification">Új privát üzenet értesítés</string>
     <string name="private_protect">Adatvédelem</string>
@@ -530,6 +540,9 @@
     <string name="prvate_contact">Privát névjegy</string>
     <string name="quick_reply">Válasz</string>
     <string name="rate_limit_surpassed">OK</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">Change</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">When the network signal is weak, the text part of a message (up to 900 Bytes) can be converted and sent as SMS. You can change this in Settings.</string>
+    <string name="rcs_auto_resend_as_sms_remind_title">Convert to SMS</string>
     <string name="rcs_auto_resend_mms">Váltás SMS-re</string>
     <string name="rcs_auto_resend_sms">Váltás SMS-re</string>
     <string name="rcs_auto_resume">Megszakított feltöltések automatikus folytatása</string>
@@ -540,10 +553,12 @@
     <string name="rcs_forward_faild">Továbbítás sikertelen</string>
     <string name="rcs_forward_successful">Továbbítás sikeres</string>
     <string name="rcs_group_notification_invitation">Csoportos csevegési meghívás</string>
+    <string name="rcs_hello_from_pc">Sign in to Fetion on your computer to transfer files.</string>
     <string name="rcs_message">China Mobile üzenetek</string>
     <string name="rcs_message_disable">Az üzenet nem tekinthető meg Második helyen</string>
     <string name="rcs_msg">China Mobile Messaging</string>
     <string name="rcs_not_online">Nem használható a China Mobile Messaging. Ellenőrizze hálózati beállításait és próbálja újra.</string>
+    <string name="rcs_offline">Not signed in to UC. Wait a minute or two and try again.</string>
     <string name="rcs_offline_hint">A China Mobile Messaging offline. Nem továbbíthatja ezt az üzenetet.</string>
     <string name="rcs_recipient_type_contact">Névjegyhez ad</string>
     <string name="rcs_recipient_type_group">Továbbítás csoportos csevegésbe</string>
@@ -668,6 +683,7 @@
     <string name="send_signature_confirm_dialog_title">Megerősítés</string>
     <string name="send_sms">Üzenet küldése</string>
     <string name="send_to">Címzett</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">%1s elküldve</string>
     <string name="sent_label">"Elküldve: "</string>
     <string name="service_message_not_found">Az üzenet lejárt vagy nem érhető el.</string>
@@ -796,7 +812,7 @@ Utolsó kísérlet: %s."</string>
     <string name="url_result_safe">Ez az URL biztonságos</string>
     <string name="url_scan_again">Ellenőrizze újra</string>
     <string name="url_scanning">URL ellenőrzése…</string>
-    <string name="user_agreement">Felhasználói szerződés</string>
+    <string name="user_agreement">Felhasználói Szerződés</string>
     <string name="verification_code_list_title">Ellenőrző kódok</string>
     <string name="view">Megtekintés</string>
     <string name="view_bookmark">Eredeti üzenet megtekintése</string>

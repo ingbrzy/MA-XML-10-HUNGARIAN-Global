@@ -56,7 +56,7 @@
     <string name="open_perm_msg">Az Iránytű számára hozzáférés szükséges a helyadatokhoz és a kamera adataihoz a koordináták meghatározása és az élő bemutatók miatt. Engedélyezi?</string>
     <string name="open_perm_title">Engedélyek szükségesek</string>
     <string name="preference_other">Egyéb</string>
-    <string name="preference_privacy_title">Adatvédelmi Szabályzat</string>
+    <string name="preference_privacy_title">Adatvédelmi Irányelvek</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">Nyomás</string>
     <string name="pressure_unit">hPa</string>

@@ -78,6 +78,7 @@
     <string name="respond_via_sms_custom_message">Egyedi SMS</string>
     <string name="manageConferenceLabel">Konferenciahívás kezelése</string>
     <string name="emergency_call_dialog_number_for_display">Segélyhívó szám</string>
+    <string name="volte_call">VoLTE-hanghívás</string>
     <string name="notification_dialing">Tárcsázás</string>
     <string name="notification_ongoing_call">Hívás folyamatban</string>
     <string name="notification_on_hold">Tartásban</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Hozzáadás a munkatérhez</string>
     <string name="activity_not_found">Ez az alkalmazás nincs telepítve a készülékén</string>
     <string name="add_screen">Képernyő hozzáadása</string>
@@ -114,6 +115,7 @@
     <string name="edit_mode_group_error_full">Nincs elég tárhely</string>
     <string name="edit_mode_group_error_in_folder">Zárja be a mappát, mielőtt ikonokat csoportosítana</string>
     <string name="edit_mode_group_error_one_folder">Nem duplázhat meg egy mappát a kijelölt ikonokkal</string>
+    <string name="edit_mode_top_menu_finish">Kész</string>
     <string name="edit_mode_uninstall">Eltávolítás</string>
     <string name="editing_add_widget_tips">Widget hozzáadása</string>
     <string name="editing_mode_enter_tip_text">Csípje össze a képernyő szerkesztéséhez</string>
@@ -215,6 +217,7 @@
     <string name="menu_default_screen_preview">Alapértelmezett képernyő beállítása</string>
     <string name="menu_edit">Asztal szerkesztése</string>
     <string name="menu_exit_scene">Kilépés a Mi Space-ből</string>
+    <string name="menu_finish">Kész</string>
     <string name="menu_item_add_item">Hozzáadás a képernyőhöz</string>
     <string name="menu_launcher_setting">Kezdőképernyő beállításai</string>
     <string name="menu_lock">Kezdőképernyő-elrendezés zárolása</string>
@@ -352,15 +355,15 @@
     <string name="widget_gadget_player">Music_4x</string>
     <string name="widget_global_search">Keresés</string>
     <string name="widget_quick_function">Gyorsfunkciók</string>
+    <string name="widgets_preview_title">Minialkalmazás hozzáadása</string>
     <string name="home_gesture_content_center">Tartalomközpont</string>
     <string name="home_gesture_global_search">Keresés</string>
     <string name="home_gesture_no_action">Egyik sem</string>
     <string name="home_gesture_notification_bar">Értesítések</string>
     <string name="home_pull_down_action">Húzza lefelé az ujját a Kezdőképernyőn</string>
     <string name="home_slide_up_action">Húzza felfelé az ujját a Kezdőképernyőn</string>
-    <string name="launcher_pull_down_title">Húzza felfelé az ujját a Kezdőképernyőn</string>
-    <string name="launcher_slide_up_title">Húzza lefelé az ujját a Kezdőképernyőn</string>
-    <string name="menu_finish">Kész</string>
-    <string name="minus_one_screen">minus one screen</string>
-    <string name="widgets_preview_title">Minialkalmazás hozzáadása</string>
+    <string name="launcher_pull_down_title">Húzza lefelé az ujját a Kezdőképernyőn</string>
+    <string name="launcher_slide_up_title">Húzza felfelé az ujját a Kezdőképernyőn</string>
+    <string name="launcher_sliding_up_gesture">Húzza felfelé a Kezdőképernyőn a Keresés megnyitásához</string>
+    <string name="minus_one_screen">Gyorselérési kártyák</string>
 </resources>

@@ -104,7 +104,7 @@
     <string name="item_title_currency">Valuta</string>
     <string name="item_title_dress_size">Ruhaméret</string>
     <string name="item_title_length_conversion">Hossz</string>
-    <string name="item_title_mortgage">Jelzálog</string>
+    <string name="item_title_mortgage">Home loan</string>
     <string name="item_title_scientific_calculator">Tudományos</string>
     <string name="item_title_tax">Adók</string>
     <string name="item_title_temprature_conversion">Hőmérséklet</string>
@@ -136,9 +136,7 @@
     <string name="loan_interest_rate">Kamat</string>
     <string name="loan_pay_years">Kölcsön futamideje</string>
     <string name="loan_payback_way">Törlesztés</string>
-    <string name="loan_repayment_detail">Részletes visszafizetés</string>
     <string name="loan_repayment_detail_loading">Részletes visszafizetés betöltése…</string>
-    <string name="loan_repayment_detail_unit">Részletes visszafizetés (CNY)</string>
     <string name="loan_unit">(×10K)</string>
     <string name="medical_treatment">Orvosi kezelés</string>
     <string name="menuDesc">menü</string>
@@ -166,7 +164,7 @@
     <string name="mortgage_interest_rate">Kereskedelmi érdeklődés</string>
     <string name="mortgage_item_repayment">Törlesztés módja</string>
     <string name="mortgage_item_start_time">Kezdés dátuma</string>
-    <string name="mortgage_item_years">Jelzálog futamideje</string>
+    <string name="mortgage_item_years">Loan tenure</string>
     <string name="mortgage_loans_amount">Jelzálog összege</string>
     <string name="mortgage_provident_found_interest_rate">Alapkamatláb</string>
     <string name="mortgage_repayment_amount">Törlesztés összege</string>
@@ -594,8 +592,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_connect_download_manager_fail">Nem tudott csatlakozni a letöltésekhez. Ellenőrizze, hogy ez app a megfelelő engedélyekkel rendelkezik-e a Beállítások > Telepített alkalmazásokban.</string>
     <string name="xiaomi_external_storage_unavailable">Nincs elérhető tárhely. Ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Bemutatjuk a következő verziót: %1$s
 Méret:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatjuk a következő verziót: %1$s

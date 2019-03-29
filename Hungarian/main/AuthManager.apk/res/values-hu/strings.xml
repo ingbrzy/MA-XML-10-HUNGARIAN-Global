@@ -79,6 +79,8 @@
     <string name="HIPS_Perm_get_installed_apps_Desc">információk az erre a készülékre telepített alkalmazásokról</string>
     <string name="HIPS_Perm_service_foreground">Szolgáltatás az előtérben</string>
     <string name="HIPS_Perm_service_foreground_Desc">szolgáltatás az előtérben</string>
+    <string name="HIPS_Perm_UDevice_ID">A készülékinformációk részeinek megosztása a játékfejlesztőkkel, hogy segítsen nekik javítani a játékélményt. Beleegyezik?</string>
+    <string name="HIPS_Perm_UDevice_ID_DESC">a készülékinformációk részeinek megosztása a játékfejlesztőkkel, hogy segítsen nekik javítani a játékélményt. Beleegyezik?</string>
     <string name="permission_group_title_charges_related">Költségek</string>
     <string name="permission_group_title_privacy_related">Adatvédelem</string>
     <string name="permission_group_title_media_related">Multimédia</string>
