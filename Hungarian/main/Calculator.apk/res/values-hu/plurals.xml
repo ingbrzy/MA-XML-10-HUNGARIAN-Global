@@ -4,6 +4,14 @@
         <item quantity="other">%d elem</item>
         <item quantity="one">%d elem</item>
     </plurals>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Részletes visszafizetés (%d év)</item>
+        <item quantity="one">Részletes visszafizetés (%d év)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Részletes visszafizetés (%d év), CNY</item>
+        <item quantity="one">Részletes visszafizetés (%d év), CNY</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d év (%2$d hónap)</item>
         <item quantity="one">%1$d év (%2$d hónap)</item>

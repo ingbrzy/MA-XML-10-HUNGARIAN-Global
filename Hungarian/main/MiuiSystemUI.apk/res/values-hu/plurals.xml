@@ -33,12 +33,12 @@
         <item quantity="one">Helytelen PUK-kód, %d próbálkozása maradt</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Nem használta a jelszavát már legalább %d órája. Adja meg a jelszót.</item>
-        <item quantity="one">Nem használta a jelszavát már legalább %d órája. Adja meg a jelszót.</item>
+        <item quantity="other">Adja meg jelszavát legalább %d óránként, hogy el ne felejtse</item>
+        <item quantity="one">Adja meg jelszavát legalább %d óránként, hogy el ne felejtse</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Nem használta a feloldási mintát már legalább %d órája. Rajzolja le a mintát.</item>
-        <item quantity="one">Nem használta a feloldási mintát már legalább %d órája. Rajzolja le a mintát.</item>
+        <item quantity="other">Adja meg jelszavát legalább %d óránként, hogy el ne felejtse</item>
+        <item quantity="one">Adja meg jelszavát legalább %d óránként, hogy el ne felejtse</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Megközelítőleg %d óra van hátra</item>

@@ -78,6 +78,10 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
         <item quantity="other">&lt;font color==\"red\">%d dal&lt;/font> letöltése</item>
         <item quantity="one">&lt;font color==\"red\">%d dal&lt;/font> letöltése</item>
     </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">Ingyenes letöltések maradtak %d dalra</item>
+        <item quantity="one">Ingyenes letöltések maradtak %d dalra</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>
@@ -117,5 +121,9 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
     <plurals name="video_play_count">
         <item quantity="other">%1$s megtekintése</item>
         <item quantity="one">%1$s megtekintése</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">%d nap maradt</item>
+        <item quantity="one">%d nap maradt</item>
     </plurals>
 </resources>

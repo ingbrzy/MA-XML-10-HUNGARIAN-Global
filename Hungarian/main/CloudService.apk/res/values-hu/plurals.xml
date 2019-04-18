@@ -68,4 +68,8 @@
         <item quantity="other">%s órája</item>
         <item quantity="one">%s órája</item>
     </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s szolgáltatás kerül Mi Cloud-szinkronizálásra</item>
+        <item quantity="one">%s szolgáltatás kerül Mi Cloud-szinkronizálásra</item>
+    </plurals>
 </resources>

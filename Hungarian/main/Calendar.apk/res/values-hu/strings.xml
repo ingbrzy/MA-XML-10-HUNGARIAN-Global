@@ -86,6 +86,7 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Születésnap elmentve</string>
     <string name="birthday_term">születésnap</string>
+    <string name="calendar_permission_desc">Események kezelése</string>
     <string name="can_not_create_long_event">Az esemény neve túl hosszú</string>
     <string name="can_not_modify_allday_event">Az egész napos esemény nem módosítható</string>
     <string name="can_not_modify_event">Az esemény nem módosítható</string>
@@ -103,6 +104,7 @@
     <string name="change_response_title">Válasz módosítása</string>
     <string name="click_to_share">Koppintson a megosztáshoz</string>
     <string name="close_alarm">Kikapcsol</string>
+    <string name="contacts_permission_desc">Névjegy elérése</string>
     <string name="countdown_event_title">Visszaszámlálás: %1$s-ig</string>
     <string name="countdown_notify_before_3_day_title">Visszaszámlálás: %1$s 3 nap múlva</string>
     <string name="countdown_notify_title">Visszaszámlálás: %1$s-ig</string>
@@ -133,6 +135,7 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="date_interval_text_to">Eddig: %1$s</string>
     <string name="date_jump_hint">Ugrás közvetlenül egy bizonyos napra</string>
     <string name="date_jump_title">Dátumhoz ugrás</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (ma)"</string>
     <string name="day_view_new_event_hint">Új esemény</string>
     <string name="default_reminder_mode">Emlékeztetők</string>
@@ -215,6 +218,9 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="global_cricket_no_match">Nincs ütemezett krikettmérkőzés erre a napra. Nézzen meg másik napokat.</string>
     <string name="global_football_final">DÖNTŐ</string>
     <string name="global_football_no_match">Nincs ütemezett labdarúgó-mérkőzés erre a napra.</string>
+    <string name="global_joke_collapse_text">Mutass kevesebbet</string>
+    <string name="global_joke_copy_toast_message">Szöveg másolása sikeres</string>
+    <string name="global_joke_expand_text">Mutass többet</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greetingcard_end_of_page">Most ennyi volt, nézzen vissza holnap!</string>
     <string name="greetingcard_notification_desc">Nézze meg a legújabb státuszokat</string>
@@ -476,7 +482,4 @@ Emlékeztetőket is hozzáadhat, hogy ne maradjon le semmi fontosról."</string>
     <string name="xiaomi_calendar_display_name">Mi Fiók Naptár</string>
     <string name="yearly">Évente (nap: %s)</string>
     <string name="yearly_plain">Évente</string>
-    <string name="global_joke_collapse_text">Show less</string>
-    <string name="global_joke_copy_toast_message">Copied text successfully</string>
-    <string name="global_joke_expand_text">Show more</string>
 </resources>

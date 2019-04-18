@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="user_detail_fixed_items">
+        <item>A szinkronizált elemek megtekintése</item>
+        <item>A tárhely részletei</item>
+    </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>A szinkronizált elemek felismeréséhez</item>
         <item>Az üzenetek szinkronizálásához</item>
@@ -81,12 +85,12 @@
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>Készülékkeresés</item>
-        <item>Adattörlés és készüléklezárás, ha készüléke leveszne</item>
+        <item>Adattörlés és készüléklezárás, ha készüléke elveszne</item>
         <item>Készülékkereső;Készülékkeresés;Elveszett;Elvesztés;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>Készülékkeresés</item>
-        <item>Adattörlés és készüléklezárás, ha készüléke leveszne</item>
+        <item>Adattörlés és készüléklezárás, ha készüléke elveszne</item>
         <item>Készülékkereső;Készülékkeresés;Elveszett;Elvesztés;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">

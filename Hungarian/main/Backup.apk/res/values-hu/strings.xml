@@ -6,6 +6,9 @@ Méret: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatkozik az %1$s
 Delta frissítés mérete: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Az adattároló eszköz nem elérhető, ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Nem sikerült elindítani a letöltést. győződjön meg róla, hogy a letöltéskezelő megfelelően működik.</string>
     <string name="app_name">Biztonsági mentés</string>
     <string name="local_app_name">Biztonsági mentés</string>
@@ -225,6 +228,7 @@ Delta frissítés mérete: %2$s"</string>
     <string name="restore_backup">Visszaállítás</string>
     <string name="enable_encrypt_description">Titkosítás</string>
     <string name="disable_encrypt_description">Nincs titkosítás</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Egy pillanat…</string>
     <string name="state_mounting">A router tárhelyének felcsatolása…</string>
     <string name="abort_backup_confirm">A mentés még nem fejeződött be. Mégis leállítja?</string>
@@ -386,7 +390,7 @@ Szabadítson fel tárhelyet, vagy csak fontos elemeket vigyen át."</string>
     <string name="trans_please_waiting">Egy pillanat…</string>
     <string name="trans_old_phone_low_space_title">Nincs elég szabad tárhely</string>
     <string name="trans_old_phone_low_space_msg">A Mi Átköltözésnek szabad tárhelyre van szüksége az átvitt adatok csomagolásához, de úgy tűnik, nincs elég hely a régi készüléken. Szabadítson fel némi tárhelyet a \"Biztonság\" alkalmazásban, vagy csak a fontos elemeket továbbítsa.</string>
-    <string name="button_clean_garbage">Tárhely felszabadítása</string>
+    <string name="button_clean_garbage">Tárhely-felszabadítás</string>
     <string name="button_quit">Kilépés</string>
     <string name="soft_ap_creating">Hotspot létrehozása…</string>
     <string name="wait_link">"Régi készülékével csatlakozzon erre a hotspotra.
@@ -562,6 +566,7 @@ https://appleid.apple.com/#!&amp;page=signin weboldalra"</string>
 készítenie kell egy iCloud mentést."</string>
     <string name="list_footer_tip_title">Tippek:</string>
     <string name="import_tip_summary">Kompatibilitási problémák miatt adatainak csak egy részét importálhatja iOS készülékéről. Mielőtt elkezdené a Mi Átköltözést, győződjön meg róla, hogy készített iCloud mentést.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Importálás</string>
     <string name="select_empty">Elemek kiválasztása importáláshoz</string>
     <string name="select_item_summary_wait">Várakozás…</string>

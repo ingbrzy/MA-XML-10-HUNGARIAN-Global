@@ -340,6 +340,11 @@
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Fehér</item>
+        <item>Fekete</item>
+        <item>Automatikus</item>
+    </string-array>
     <string-array name="countries_names_miui">
         <item>Elefántcsontpart</item>
         <item>Ghána</item>

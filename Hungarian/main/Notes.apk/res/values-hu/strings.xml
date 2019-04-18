@@ -86,8 +86,6 @@
     <string name="force_touch_menu_add">Új jegyzet</string>
     <string name="format_move_note_out_folder">Ez a jegyzet át lett helyezve</string>
     <string name="format_move_note_to_folder">Áthelyezve ide: %1$s</string>
-    <string name="format_move_notes_out_folder">%1$s kihelyezve</string>
-    <string name="format_move_notes_to_folder">%1$s jegyzet áthelyezve a(z) %2$s mappába</string>
     <string name="hidden_notes_fragment_title">Rejtett jegyzetek</string>
     <string name="hide_arrow_description">Elrejtés</string>
     <string name="hint_cannot_view_hidden_note_content">Rejtett jegyzetek tartalma nem megtekinthető</string>
@@ -129,6 +127,7 @@
     <string name="note_sort_way">A Jegyzetek rendezési elve</string>
     <string name="notealert_enter">Jegyzet megnyitása</string>
     <string name="notealert_ok">Elvetés</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Jegyzet emlékeztető</string>
     <string name="permdesc_accessNote">Engedélyezésével a rosszindulatú alkalmazások is hozzáférhetnek személyes adataihoz.</string>
     <string name="permission_intro_contact">Hívások közben készített jegyzetek megjelöléséhez</string>
@@ -207,11 +206,9 @@
     <string name="toast_cancel_to_insert_image">Kép hozzáadása sikertelen.</string>
     <string name="toast_message_add_image_fail">Kép beillesztése sikertelen!</string>
     <string name="toast_notes_delete_success">Sikeresen törölve</string>
-    <string name="toast_notes_hidden_count">%1$s sikeresen elrejtve</string>
     <string name="toast_notes_hidden_edit">Sikeresen elrejtette ezt a jegyzetet. A rejtett jegyzetek megtekintéséhez húzza lefelé.</string>
     <string name="toast_notes_hidden_home">Sikeresen elrejtette ezt a jegyzetet. A rejtett jegyzetek megtekintéséhez húzza lefelé.</string>
     <string name="toast_notes_unhidden">Elrejtés sikeresen visszavonva</string>
-    <string name="toast_notes_unhidden_count">%1$s elrejtése visszavonva</string>
     <string name="toast_reach_text_limit_attachment">A jegyzet túl nagy új csatolmányok hozzáadásához.</string>
     <string name="toast_reach_text_limit_checkbox">A jegyzet túl nagy jelölőnégyzet hozzáadásához</string>
     <string name="toast_reach_text_limit_truncate">A jegyzet vége automatikusan le lesz vágva, mert túl hosszú.</string>

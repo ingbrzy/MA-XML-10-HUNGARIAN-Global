@@ -58,6 +58,7 @@
     <string name="cast_forward">Előretekerés</string>
     <string name="cast_forward_10">Előretekerés tíz másodperccel</string>
     <string name="cast_forward_30">Előretekerés harminc másodperccel</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Némítás</string>
     <string name="cast_notification_connected_message">Csatlakozva a következőhöz: %1$s</string>
     <string name="cast_notification_connecting_message">Csatlakozás a következőhöz: %1$s</string>
@@ -360,7 +361,7 @@
     <string name="ovp_setting_clear_cache_success">Gyorsítótár törlése sikeresen lezajlott</string>
     <string name="ovp_setting_clear_cache_text">A készüléken tárolt gyorsítótárfájlok törlése</string>
     <string name="ovp_setting_clear_cache_title">Gyorsítótár törlése</string>
-    <string name="ovp_setting_privacy_policy_title">Adatvédelmi politika</string>
+    <string name="ovp_setting_privacy_policy_title">Adatvédelmi Irányelvek</string>
     <string name="ovp_setting_privacy_switch_tips">Egyes funkciók nem lesznek elérhetőek, ha visszavonja az engedélyt</string>
     <string name="ovp_setting_privacy_switch_title">Engedélyezés és visszavonás</string>
     <string name="ovp_setting_version_info_title">Verzió:</string>
@@ -401,9 +402,9 @@
  
 Szolgáltatások jobb testre szabása az Ön eszköze számára;
 Fiókbiztonság növelése."</string>
-    <string name="permission_info1">A Mi Videonak hozzáférésre van szüksége az Ön eszközének IMEI-számához, hogy elvégezhesse a következő(ke)t:</string>
-    <string name="permission_info2">Szolgáltatások jobb testre szabása az Ön eszköze számára;</string>
-    <string name="permission_info3">Fiókbiztonság növelése.</string>
+    <string name="permission_info1">A Mi Videó hozzá kell férjen az Ön készülékének IMEI-számához, hogy elvégezhesse a következőket:</string>
+    <string name="permission_info2">Az alkalmazás szolgáltatásainak az Ön készülékéhez igazítása;</string>
+    <string name="permission_info3">Az Ön fiókjának biztonságosabbá tétele.</string>
     <string name="permission_title">Engedélyek szükségesek</string>
     <string name="phone_bind_too_many">Ez a telefon rövid időn belül több Mi Fiókhoz is hozzá lett kapcsolva. Próbálja meg másik telefonszámmal.</string>
     <string name="phone_hint">Telefonszám</string>
@@ -487,6 +488,7 @@ Nézzen meg más videókat!"</string>
     <string name="slid_fail_message">Sikertelen mentés</string>
     <string name="slide_save_message">Videó létrehozása…</string>
     <string name="sns_sign_in">Más bejelentkezési módok</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sure_to_logout">Kijelentkezés most?</string>
     <string name="switch_ratio_pause">A visszajátszási sebesség instabil. Visszaváltás az alapértelmezett sebességre…</string>
     <string name="symbol_rmb">CNY</string>
@@ -518,4 +520,26 @@ Nézzen meg más videókat!"</string>
     <string name="v_ok">OK</string>
     <string name="v_pw_need_update_app">Frissítse a Mi Videót az összes funkció használatához</string>
     <string name="v_save">Mentés</string>
+    <string name="Subscribe">Feliratkozás</string>
+    <string name="diy_channels_tips">Most paraméterezheted a csatornalistádat.</string>
+    <string name="empty_channels">Csatornák kezelése</string>
+    <string name="empty_subscribe">Még semmire sem iratkozott fel.</string>
+    <string name="hidden_channels">A következő csatornák nem jelennek meg a kezdőlapon.</string>
+    <string name="init_channels">Alapértelmezett visszaállítása</string>
+    <string name="isSubscribed">Feliratkozva</string>
+    <string name="my_favorite_channels">Saját csatornáim</string>
+    <string name="ovp_navigation_subscribe">Feliratkozás</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">Bezár</string>
+    <string name="ovp_player_plugin_dlg_no_content">Nincs telepítve videólejátszó-beépülő.</string>
+    <string name="ovp_player_plugin_dlg_title">Videólejátszó beépülők</string>
+    <string name="permission_phone">Telefon</string>
+    <string name="permission_phone_desc">Az eszközállapothoz való hozzáféréshez és a hívások közbeni visszajátszás leállításához</string>
+    <string name="permission_storage">Tárhely</string>
+    <string name="permission_storage_desc">Az elemekhez való hozzáféréshez, a fájlok mentéséhez, valamint a helyi videók megjelenítéséhez és lejátszásához</string>
+    <string name="pw_channels">Csatornák</string>
+    <string name="recommend_channels">Ajánlott csatornák</string>
+    <string name="restore_channel_list">Alapbeállítások visszaállítása?</string>
+    <string name="title_publisher">Létrehozók</string>
+    <string name="title_subscribe">Feliratkozások</string>
+    <string name="ugc_confirm_unsubscribe">Leiratkozol most?</string>
 </resources>

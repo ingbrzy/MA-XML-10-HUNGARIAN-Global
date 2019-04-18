@@ -104,7 +104,7 @@
     <string name="item_title_currency">Valuta</string>
     <string name="item_title_dress_size">Ruhaméret</string>
     <string name="item_title_length_conversion">Hossz</string>
-    <string name="item_title_mortgage">Home loan</string>
+    <string name="item_title_mortgage">Lakáshitel</string>
     <string name="item_title_scientific_calculator">Tudományos</string>
     <string name="item_title_tax">Adók</string>
     <string name="item_title_temprature_conversion">Hőmérséklet</string>
@@ -164,7 +164,7 @@
     <string name="mortgage_interest_rate">Kereskedelmi érdeklődés</string>
     <string name="mortgage_item_repayment">Törlesztés módja</string>
     <string name="mortgage_item_start_time">Kezdés dátuma</string>
-    <string name="mortgage_item_years">Loan tenure</string>
+    <string name="mortgage_item_years">Hitel időtartama</string>
     <string name="mortgage_loans_amount">Jelzálog összege</string>
     <string name="mortgage_provident_found_interest_rate">Alapkamatláb</string>
     <string name="mortgage_repayment_amount">Törlesztés összege</string>
@@ -202,7 +202,7 @@
     <string name="preference_follow_weibo_title">Sina Weibo</string>
     <string name="preference_help">Segítség és visszajelzés</string>
     <string name="preference_other">Egyéb</string>
-    <string name="preference_privacy_title">Adatvédelmi Szabályzat</string>
+    <string name="preference_privacy_title">Adatvédelmi Irányelvek</string>
     <string name="preference_rating_title">Értékeld alkalmazásunkat</string>
     <string name="preference_settings">Beállítások</string>
     <string name="preference_use_degress_summary">Radiánok helyettesítése szögekkel a trigonometrikus függvényekben</string>
@@ -568,7 +568,7 @@
     <string name="unit_year_format">Év %s</string>
     <string name="unit_yuan">CNY</string>
     <string name="updating">Számológép frissítése…</string>
-    <string name="user_agreement">Felhasználói szerződés</string>
+    <string name="user_agreement">Felhasználói Szerződés</string>
     <string name="voiceDesc">Hangellenőrzés</string>
     <string name="wf_word_figure">Összeg betűkkel leírva</string>
     <string name="word_figure_big_unit_fen">分</string>
@@ -592,12 +592,23 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_connect_download_manager_fail">Nem tudott csatlakozni a letöltésekhez. Ellenőrizze, hogy ez app a megfelelő engedélyekkel rendelkezik-e a Beállítások > Telepített alkalmazásokban.</string>
     <string name="xiaomi_external_storage_unavailable">Nincs elérhető tárhely. Ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Bemutatjuk a következő verziót: %1$s
 Méret:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatjuk a következő verziót: %1$s
 Delta frissítés mérete:%2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s frissítés!</string>
     <string name="year" />
+    <string name="app_notification_info">A számológép a háttérben működik</string>
+    <string name="btn_float_window_alpha">Áttetszőség beállítása</string>
+    <string name="btn_float_window_back_to_app">Számológép felnagyítása</string>
+    <string name="btn_float_window_close">Lekicsinyített számológép bezárása</string>
+    <string name="btn_float_window_resize">Lekicsinyített számológép átméretezése</string>
+    <string name="float_window_guide_text">A számológép minimalizálásához érintse meg itt</string>
+    <string name="hint_floatwindow_alpha_guide_text">Érintse meg az áttetszőség beállításához</string>
+    <string name="view_float_window_move">Lekicsinyített számológép áthelyezése</string>
 </resources>

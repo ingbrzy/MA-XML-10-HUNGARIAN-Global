@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Figyelem</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Ezt a videót nem lehet megjeleníteni ezen az eszközön.</string>
     <string name="selectTextMode">Szöveg kijelölése</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Ujjlenyomat ikon</string>
     <string name="paste_as_plain_text">Beillesztés egyszerű szövegként</string>
     <string name="autofill">Automatikus kitöltés</string>
@@ -386,6 +387,7 @@ Kérdéseivel forduljon szervezete rendszergazdájához."</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">A funkciókód kész.</string>
     <string name="fcError">Kapcsolódási probléma vagy érvénytelen funkciókód.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Keresés</string>
     <string name="find_next">Következő keresése</string>
     <string name="find_on_page">Keresés az oldalon</string>
@@ -591,6 +593,7 @@ Keresse fel a "<b>google.com/accounts/recovery</b> webhelyet.</string>
     <string name="kg_reordering_delete_drop_target_text">Eltávolítás</string>
     <string name="kg_sim_pin_instructions">Adja meg a SIM kártya PIN kódját</string>
     <string name="kg_sim_unlock_progress_dialog_message">SIM kártya feloldása...</string>
+    <string name="kg_text_message_separator">" – "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"%1$d alkalommal helytelenül adta meg a jelszót. 
 
 Próbálja újra %2$d másodperc múlva."</string>
@@ -883,6 +886,7 @@ Kérjük, %2$d másodperc múlva próbálja újra."</string>
     <string name="notification_channel_wfc">Wi-Fi-hívás</string>
     <string name="notification_hidden_text">Új értesítés</string>
     <string name="notification_listener_binding_label">Értesítésfigyelő</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Értesítésrangsoroló szolgáltatás</string>
     <string name="notification_reply_button_accessibility">Válasz</string>
     <string name="notification_title">Bejelentkezési hiba a(z) %1$s fióknál</string>
@@ -1608,6 +1612,7 @@ Szeretné bezárni?"</string>
     <string name="zen_mode_feature_name">Ne zavarjanak</string>
     <string name="zen_mode_forever">Kikapcsolásig</string>
     <string name="zen_mode_forever_dnd">Amíg ki nem kapcsolja a „Ne zavarjanak” lehetőséget</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Eddig: %1$s</string>
     <string name="zen_upgrade_notification_content">Koppintson a letiltott elemek megtekintéséhez.</string>
     <string name="zen_upgrade_notification_title">Módosultak a Ne zavarjanak mód beállításai</string>

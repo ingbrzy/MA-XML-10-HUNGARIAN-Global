@@ -50,6 +50,8 @@
     <string name="self_device_second_space">Ez a telefon Második asztala</string>
     <string name="other_device_main_space">Első asztal</string>
     <string name="other_device_second_space">Második asztal</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" visszaállítása</string>
     <string name="size_unknown">Ismeretlen méret</string>
     <string name="recovering">%s visszaállítása</string>
@@ -72,7 +74,7 @@
     <string name="desktop_waiting">Várakozás</string>
     <string name="desktop_downloading">Letöltés</string>
     <string name="desktop_installing">Telepítés</string>
-    <string name="desktop_wait_wifi">Várakozás</string>
+    <string name="desktop_wait_network">Várakozás…</string>
     <string name="desktop_failed">Hiba</string>
     <string name="recover_from_micloud">Visszaállítás a Mi Cloudból</string>
     <string name="click_try_to_restore_again">Érintse meg az újrapróbálkozáshoz</string>
@@ -114,7 +116,7 @@
     <string name="confirm_cancel_restore_positive">Folytatás</string>
     <string name="confirm_cancel_restore_negative">Mégse</string>
     <string name="confirm_restore_title">Visszaállítás</string>
-    <string name="confirm_restore_summary">A kezdőképernyő újraindul és az alkalmazások automatikusan letöltődnek Wi-Fi-kapcsolat esetén</string>
+    <string name="confirm_restore_summary">A kezdőképernyője visszaállításra kerül. Az elmentett alkalmazások automatikusan letöltődnek majd.</string>
     <string name="confirm_restore">Visszaállítás</string>
     <string name="cloud_backup_have_data">Mentés található a Mi Cloudban</string>
     <string name="cloud_backup_select_recover">Mentés kiválasztása a Mi Cloudból</string>
@@ -134,7 +136,9 @@
     <string name="provision_error_connect_msg">Ellenőrizze a hálózatot, majd próbálja újra. Ha a készüléke offline módban van, a mentések sem érhetők el.</string>
     <string name="provision_error_connect_title">Nem tud kapcsolódni</string>
     <string name="loading_user_backup">Felhasználói mentés betöltése…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
+    <string name="doing_calc_backup_data_size">Méretszámítás…</string>
     <string name="authentication_failed">Nem sikerült a fiókellenőrzés.</string>
     <string name="no_account">Nincs Mi Fiókba bejelentkezve.</string>
     <string name="no_backup">Nincs mentés a Mi Cloudban.</string>
@@ -181,10 +185,34 @@
     <string name="msg_alert_cancel_restore">Elemek visszaállítása folyamatban. Megállítja most?</string>
     <string name="btn_restore_cancel">Mégse</string>
     <string name="btn_restore_resume">Folytatás</string>
+    <string name="btn_restore_wait">Várakozás a Wi-Fi-re</string>
+    <string name="btn_restore_continue">Visszaállítás mindenképp</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> fájl tölthető le."</string>
+    <string name="msg_restore_with_metered_network_hint">Ha engedélyezi ezeknek az elemeknek a visszaállítását, a letöltés mobiladat-kapcsolat használatával fog megtörténni.</string>
+    <string name="msg_restore_start_with_metered_network">"A kezdőképernyője visszaállításra kerül. Az elmentett alkalmazások automatikusan letöltődnek majd. &lt;br />&lt;b>&lt;font color='red'>%s fájl tölthető le.&lt;/font>&lt;/b>"</string>
+    <string name="title_restore_with_current_network">A jelenlegi adatkapcsolat használata a fájlok letöltésére</string>
     <string name="title_alert_restore_error">A visszaállítás nem sikerült</string>
     <string name="msg_alert_restore_error">A visszaállítás Mi Cloudból nem sikerült. Próbálja újra.</string>
     <string name="btn_restore_retry">Újrapróbálkozás</string>
     <string name="btn_restore_abort">Mégse</string>
     <string name="backup_stopped_title">A mentés szüneteltetve</string>
     <string name="backup_stopped_msg">A jelenlegi mentéssel felül fogja írni az előzőt. Érintse meg a részletekért.</string>
+    <string name="restore_network_unconnect">%s (Kapcsolatra várakozik)</string>
+    <string name="restore_network_pause">%s (Érintse meg a folytatáshoz)</string>
+    <string name="restore_detail_title">A visszaállítandó elemek kiválasztása</string>
+    <string name="restore_detail_category_settings">Beállítások</string>
+    <string name="restore_detail_category_apps">A Kezdőképernyő elrendezése és alkalmazásai</string>
+    <string name="restore_detail_more">Továbbiak</string>
+    <string name="restore_app_order_title">A visszaállított elemek fontossági sorrendbe állítása</string>
+    <string name="restore_app_order_search_hint">Elemek keresése a fontosság beállításához</string>
+    <string name="restore_app_order_search_prior">Magas fontosságú alkalmazások</string>
+    <string name="restore_app_order_search_normal">Normál fontosságú alkalmazások</string>
+    <string name="restore_app_order_search_installed">Ezen a készüléken lévő alkalmazások</string>
+    <string name="restore_app_order_retry">Próbálja újra</string>
+    <string name="restore_app_order_retry_desc">"Nem sikerült csatlakozni a hálózathoz.
+Ellenőrizze a hálózati beállításokat és próbálja újra."</string>
+    <string name="restore_app_order_loading">Egy pillanat…</string>
+    <string name="restore_app_order_finish">Kész</string>
+    <string name="provision_restore_data">Elemek visszaállítása</string>
+    <string name="provision_background_restore_more_data">További elemek visszaállítása a háttérben</string>
 </resources>

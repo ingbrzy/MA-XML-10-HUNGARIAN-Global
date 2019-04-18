@@ -47,8 +47,13 @@
     <string name="album_label">Albumborítók</string>
     <string name="album_name">Album</string>
     <string name="all_album_count">Összes album (%d)</string>
+    <string name="all_albums">Összes album</string>
+    <string name="all_artists">Minden előadó</string>
     <string name="all_playlist_count">Összes lejátszási lista (%d)</string>
+    <string name="all_playlists">Összes lejátszási lista</string>
+    <string name="all_songs">Minden dal</string>
     <string name="all_tracks">Minden dal</string>
+    <string name="all_videos">Összes videó</string>
     <string name="already_download">Letöltés…</string>
     <string name="already_download_btn">Letöltés…</string>
     <string name="already_favorited">Már kedvenc</string>
@@ -125,7 +130,7 @@
     <string name="connecting_apk">Csatlakozás…</string>
     <string name="create_playlist">Lejátszási lista készítése</string>
     <string name="create_playlist_failure">Nem készíthető lejátszási lista</string>
-    <string name="current_album">Aktuális album borítója</string>
+    <string name="current_album">Aktuális albumborító</string>
     <string name="current_lyric">Aktuális dalszöveg</string>
     <string name="current_version">Jelenlegi verzió</string>
     <string name="data_usage_warning">Adatforgalom</string>
@@ -217,6 +222,7 @@
     <string name="download_method">Letöltés</string>
     <string name="download_no_application_title">Nem lehet megnyitni a fájlt</string>
     <string name="download_paused_in_power_save_mode">Bekapcsolt Akkumulátorkímélő esetén a letöltések szünetelnek</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Letöltés…</string>
     <string name="download_quality">Letöltés minősége</string>
     <string name="download_quality_summary">További beállítások a letölteni kívánt dalokhoz</string>
@@ -296,7 +302,9 @@
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -345,8 +353,8 @@
     <string name="headset_and_audio_effect_category">Fülhallgatók és hanghatások</string>
     <string name="headset_and_audio_effect_summary">Fülhallgatók és hangszínszabályozó</string>
     <string name="headset_and_audio_effect_title">Fülhallgatók és hanghatások</string>
-    <string name="hide_album">Albumborító elrejtése</string>
-    <string name="hide_lyric">Dalszöveg elrejtése</string>
+    <string name="hide_album">Borítóelrejtés</string>
+    <string name="hide_lyric">Szövegelrejtés</string>
     <string name="higher_quality_music">Kiváló minőségű hang</string>
     <string name="higher_quality_music_summary">Online zenehallgatás és letöltés magasabb bitrátán</string>
     <string name="home_tab_local">Zenéim</string>
@@ -398,7 +406,7 @@
     <string name="local_page_artist_more">%s további dalai</string>
     <string name="local_page_playlist">Lejátszási listák</string>
     <string name="local_page_song_download_history">Letöltések</string>
-    <string name="long_press_to_select_lyric">Érintse meg és tartsa nyomva a helyi dalszöveg fájl kiválasztásához</string>
+    <string name="long_press_to_select_lyric">Nyomja hosszan a dal adatainak módosításához</string>
     <string name="lrc_search_failed">Nem található dalszöveg</string>
     <string name="lrc_searching">Keresés…</string>
     <string name="lyric_is_empty">A dalszöveg nem elérhető</string>
@@ -555,6 +563,7 @@
     <string name="priority_storage_summary">Fájlok automatikus mentése az SD-kártyára, ha rendelkezésre áll</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
     <string name="privacy_policy">Adatvédelmi Irányelvek</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=hu_HU</string>
     <string name="pro_member">PRO tag</string>
     <string name="project_device">Mi Telefon</string>
     <string name="prompt_grant_write_settings_permission">Rendszerbeállítások módosításának engedélyezése</string>
@@ -592,17 +601,19 @@
     <string name="search_for_album">Album</string>
     <string name="search_for_artist">Előadó</string>
     <string name="search_hint">Keressen előadókat, dalokat, albumokat és ajánlásokat</string>
+    <string name="search_hint_local">Dalok keresése a készüléken</string>
+    <string name="search_hint_online">Előadók, albumok, dalok, lejátszási listák és online videók keresése</string>
     <string name="search_history_clear_all">Törlés</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Keresés</string>
     <string name="search_songs_count">Dal: %d</string>
     <string name="select">Kiválasztás</string>
-    <string name="select_all">Összes kiválasztása</string>
+    <string name="select_all">Az összes kiválasztása</string>
     <string name="select_desc_sub">Maximum 3 nyelvet választhatsz ki</string>
     <string name="select_device">Válasszon készüléket</string>
     <string name="select_displayed_folders">Válassza ki a megjelenítendő mappákat</string>
-    <string name="select_local_cover">Válassza ki a helyi borítót</string>
-    <string name="select_local_lyric_file">Válassza ki a helyi dalszöveg fájlt</string>
+    <string name="select_local_cover">Helyi borítókép-választás</string>
+    <string name="select_local_lyric_file">Helyi dalszövegfájl-választás</string>
     <string name="select_none">Kijelölések törlése</string>
     <string name="select_one_language">Válassz ki legalább 1 nyelvet</string>
     <string name="select_three_languages">Maximum 3 nyelvet választhatsz ki</string>
@@ -637,7 +648,7 @@
     <string name="similar_videos">Hasonló videók</string>
     <string name="sleep_mode">Elalvásidőzítő</string>
     <string name="sleep_mode_canceled">Alvó mód kikapcsolva</string>
-    <string name="sleep_mode_summary">Állítsa le a Lejátszót az előre megadott idő után</string>
+    <string name="sleep_mode_summary">Leállítás előre megadott idő után</string>
     <string name="sleep_mode_title">Elalvásidőzítő</string>
     <string name="sliding_pro_center">PRO Center</string>
     <string name="song_exist_in_playlist">Ez a dal már szerepel a várólistán</string>
@@ -653,6 +664,7 @@
     <string name="start_to_check_new_version">Frissítések keresése…</string>
     <string name="start_to_download">Letöltés…</string>
     <string name="start_to_play">Lejátszás</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_internal">Belső tárhely</string>
     <string name="storage_sd_card">SD-kártya</string>
     <string name="storage_usb">USB-tárhely</string>
@@ -662,8 +674,10 @@
     <string name="tab_artist">Előadók</string>
     <string name="tab_artist_list">Előadók</string>
     <string name="tab_folder">Mappák</string>
+    <string name="tab_playlist">Lejátszási listák</string>
     <string name="tab_track">Dalok</string>
     <string name="tab_track_list">Dalok</string>
+    <string name="tab_video">Videók</string>
     <string name="take_effect_afater_restart">A beállítás érvénybe lépéséhez az alkalmazás újraindítása szükséges.</string>
     <string name="talkback_back">Visszalépés</string>
     <string name="talkback_batch_process">Több elem</string>
@@ -712,7 +726,8 @@
     <string name="upgrade_music">Zene frissítése</string>
     <string name="upgrade_music_message">Frissítések készen állnak. Indítsa újra a frissítéshez.</string>
     <string name="upgrading_in_backstage">Frissítés a háttérben…</string>
-    <string name="user_agreement">Felhasználói szerződés</string>
+    <string name="user_agreement">Felhasználói Szerződés</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=hu_HU</string>
     <string name="version_info">Verzió</string>
     <string name="video_play_cellular">A készüléke nincs Wi-Fi-hez csatlakoztatva. Használ mobiladat-kapcsolatot?</string>
     <string name="video_replay_btn">Újrajátszás</string>
@@ -720,6 +735,7 @@
     <string name="view_album">Album megtekintése</string>
     <string name="vip_required">Igényeljen Prémium Dal Csomagot a dal lejátszásához. Ez a dal most kihagyásra került.</string>
     <string name="vip_required_with_song">A(z) %s kizárólag PRO tagok számára elérhető. Ezt a dalt a rendszer egyelőre kihagyta.</string>
+    <string name="voice_search_first_hint">Próbálja ki a hangalapú keresést!</string>
     <string name="wifi_required_body" formatted="false">"Csatlakozzon Wi-Fi-hez a %s letöltéséhez.
 
 Érintse meg a %s-t, hogy a letöltés akkor kezdődjön el, amikor legközelebb Wi-Fi hálózathoz csatlakozik."</string>

@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="alert_message_delete">
+        <item quantity="other">Törölsz %1$s elemet?</item>
+        <item quantity="one">Törölsz %1$s elemet?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$s nem volt még szinkronizálva</item>
-        <item quantity="one">%1$s nem volt még szinkronizálva</item>
+        <item quantity="other">%1$s elem nem került szinkronizálásra</item>
+        <item quantity="one">%1$s elem nem került szinkronizálásra</item>
     </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">%1$s mappa</item>
-        <item quantity="one">%1$s mappa</item>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">%1$s jegyzet eltávolítva a mappából</item>
+        <item quantity="one">%1$s jegyzet eltávolítva a mappából</item>
     </plurals>
-    <plurals name="note_terms">
-        <item quantity="other">%1$s jegyzet</item>
-        <item quantity="one">%1$s jegyzet</item>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">%1$s jegyzet áthelyezve ide: %2$s</item>
+        <item quantity="one">%1$s jegyzet áthelyezve ide: %2$s</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d másodperc maradt</item>
         <item quantity="one">%d másodperc maradt</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">%1$s jegyzet sikeresen elrejtve</item>
+        <item quantity="one">%1$s jegyzet sikeresen elrejtve</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">%1$s jegyzet sikeresen megjelenítve</item>
+        <item quantity="one">%1$s jegyzet sikeresen megjelenítve</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d karakter</item>

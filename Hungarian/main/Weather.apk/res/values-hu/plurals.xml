@@ -20,10 +20,6 @@
         <item quantity="other">%1$s napos előrejelzés</item>
         <item quantity="one">%1$s napos előrejelzés</item>
     </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s másodperccel a visszajelzés után</item>
-        <item quantity="one">%1$s másodperccel a visszajelzés után</item>
-    </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s személy | </item>
         <item quantity="one">%1$s személy | </item>
@@ -39,5 +35,9 @@
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s személy</item>
         <item quantity="one"> | %1$s személy</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s másodperccel a visszajelzés után</item>
+        <item quantity="one">%1$s másodperccel a visszajelzés után</item>
     </plurals>
 </resources>

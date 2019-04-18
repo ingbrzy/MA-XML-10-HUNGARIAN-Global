@@ -130,8 +130,8 @@
     <string name="pay_error_unknown">Ismeretlen hiba</string>
     <string name="playback_delete_records">Felvétel törlése</string>
     <string name="playback_share_records">Felvétel megosztása</string>
-    <string name="preference_enable_earpiece_summary">Fülhallgató használata külső visszajátszáshoz</string>
-    <string name="preference_enable_earpiece_title">Fülhallgató engedélyezése</string>
+    <string name="preference_enable_earpiece_summary">Az alsó médiahangszóró kikapcsolásra kerül</string>
+    <string name="preference_enable_earpiece_title">Visszajátszás a felső beszédhangszórón</string>
     <string name="preference_led_indicator">LED értesítés lezárt képernyőnél</string>
     <string name="preference_led_indicator_prompt">Állapotsori értesítés és LED villogás lezárt képernyőnél a felvétel ideje alatt</string>
     <string name="preference_online_orders">Online megrendelések</string>
@@ -221,7 +221,7 @@
     <string name="retry">Újra</string>
     <string name="runtime_permission_ungranted">Nem tudja használni a Hangrögzítőt nem megadott engedélyek miatt</string>
     <string name="search_app">Hangrögzítő</string>
-    <string name="search_enable_earpiece_title">Fülhallgató engedélyezése</string>
+    <string name="search_enable_earpiece_title">Visszajátszás a felső beszédhangszórón</string>
     <string name="search_led_indicator">LED értesítés lezárt képernyőnél</string>
     <string name="search_led_indicator_prompt">Állapotsori értesítés és LED villogás lezárt képernyőnél a felvétel ideje alatt</string>
     <string name="search_quliaty_title">Felvételminőség</string>

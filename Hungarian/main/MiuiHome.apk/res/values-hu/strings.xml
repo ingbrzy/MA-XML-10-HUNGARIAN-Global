@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Hozzáadás a munkatérhez</string>
     <string name="activity_not_found">Ez az alkalmazás nincs telepítve a készülékén</string>
     <string name="add_screen">Képernyő hozzáadása</string>
@@ -195,6 +196,7 @@
     <string name="is_system_wallpaper_message">Nem törölhető a gyári háttérkép</string>
     <string name="launcher_auto_fill_empty_title">Megüresedő ikonhelyek kitöltése</string>
     <string name="launcher_not_exist">Hiba történt. Lépjen vissza a Kezdőképernyőre majd próbálja újra.</string>
+    <string name="launcher_sliding_up_gesture">Húzza felfelé a Kezdőképernyőn a Keresés megnyitásához</string>
     <string name="launcher_title">Kezdőképernyő és előzmények</string>
     <string name="like">Kedvencekhez adás</string>
     <string name="liked">Kedvencekhez adva</string>
@@ -355,6 +357,9 @@
     <string name="widget_global_search">Keresés</string>
     <string name="widget_quick_function">Gyorsfunkciók</string>
     <string name="widgets_preview_title">Minialkalmazás hozzáadása</string>
+    <string name="edit_mode_dual_app">Klónozott alkalmazás létrehozása</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">Rendszeralkalmazást nem törölhet</string>
+    <string name="edit_mode_group_error_nothing_be_selected">Először válasszon egy alkalmazást</string>
     <string name="home_gesture_content_center">Tartalomközpont</string>
     <string name="home_gesture_global_search">Keresés</string>
     <string name="home_gesture_no_action">Egyik sem</string>
@@ -363,6 +368,5 @@
     <string name="home_slide_up_action">Húzza felfelé az ujját a Kezdőképernyőn</string>
     <string name="launcher_pull_down_title">Húzza lefelé az ujját a Kezdőképernyőn</string>
     <string name="launcher_slide_up_title">Húzza felfelé az ujját a Kezdőképernyőn</string>
-    <string name="launcher_sliding_up_gesture">Húzza felfelé a Kezdőképernyőn a Keresés megnyitásához</string>
     <string name="minus_one_screen">Gyorselérési kártyák</string>
 </resources>

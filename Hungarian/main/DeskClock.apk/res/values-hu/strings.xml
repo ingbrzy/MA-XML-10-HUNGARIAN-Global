@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="add_alarm">Ébresztés hozzáadása</string>
     <string name="add_clock">Óra hozzáadása</string>
     <string name="add_timezone_title">Időzóna hozzáadása</string>
@@ -63,6 +64,9 @@
     <string name="channel_name_timer">Időzítő</string>
     <string name="check_theme_app_install">Ellenőrizd, hogy a Témák alkalmazás telepítve van az eszközödön.</string>
     <string name="check_voice_assist_app_version">Frissítse a Mi AI-t a legújabb verzióra.</string>
+    <string name="clock_bg_button_setting_summary_common">Válassza ki a háttér színét a Clock alkalmazáshoz</string>
+    <string name="clock_bg_button_setting_summary_follow_sys">A fekete lesz a háttérszín, valahányszor sötét módra vált</string>
+    <string name="clock_bg_button_setting_title">Háttérszín</string>
     <string name="close_alarm">Kikapcsolás</string>
     <string name="common_settings">Beállítások</string>
     <string name="confirm_abort">Elvetés</string>
@@ -83,6 +87,11 @@
     <string name="dialog_message_for_contact_permission">Annak érdekében, hogy a születésnapi ébresztések elérhetőek legyenek, az Óra számára hozzáférés szükséges a névjegyekhez. Elfogadja?</string>
     <string name="dialog_message_negative">Elutasítás</string>
     <string name="dialog_message_not_remind">Ne jelenjen meg újra</string>
+    <string name="dialog_privacy_content">Annak érdekében, hogy a helyi állami ünnepekkel kapcsolatos releváns információkat kapjon és szinkronizáljon, és személyre szabott szolgáltatást biztosítson, a Clocknak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Egyetért?</string>
+    <string name="dialog_privacy_content_global">A személyre szabott szolgáltatások biztosítása érdekében a Clock-nak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Egyetért?</string>
+    <string name="dialog_privacy_content_news">A személyre szabott szolgáltatások biztosítása és a reggeli hírek riasztásokba való foglalása érdekében a Clock-nak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Egyetért?</string>
+    <string name="dialog_privacy_content_timer">Annak érdekében, hogy a helyi állami ünnepekkel kapcsolatos releváns információkat kapjon és szinkronizáljon, és személyre szabott szolgáltatást biztosítson, a Clocknak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Egyetért?</string>
+    <string name="dialog_privacy_content_timer_data">A környezeti zajok időzítőinek letöltése (≈20MB), valamint személyre szabott szolgáltatást biztosítása érdekében a Clock-nak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Most mobiladat-kapcsolatot használ. Egyetért?</string>
     <string name="done">Kész</string>
     <string name="dynamic_alarm_speech">Okos ébresztés</string>
     <string name="edit_alarm">Ébresztés szerkesztése</string>
@@ -93,6 +102,10 @@
     <string name="force_touch_enter_stopwatch">Stopper</string>
     <string name="force_touch_enter_timer">Időzítő</string>
     <string name="go_back">Vissza</string>
+    <string name="holiday_update">Az állami ünnepekhez frissítés érhető el</string>
+    <string name="holiday_update_fail">Frissítés sikertelen</string>
+    <string name="holiday_update_loading">Frissítés…</string>
+    <string name="holiday_update_success">Minden elem naprakész</string>
     <string name="hour_unit">Ó</string>
     <string name="install_weather_app_error">Az alkalmazást nem sikerült betölteni</string>
     <string name="install_weather_app_loading">Egy pillanat…</string>
@@ -118,6 +131,7 @@
     <string name="life_post_setting">Reggeli jelentés</string>
     <string name="life_post_setting_FBE_remind">Lehetséges, hogy újraindítás után az időjárásadatok a reggeli összefoglalókban nem fognak rendeltetés szerint megjelenni a rendszerkorlátozások miatt.</string>
     <string name="life_post_setting_close_title">Reggeli jelentés kikapcsolása</string>
+    <string name="life_post_setting_open_desc">Kapcsolja ki az ismétlődő riasztásokat 04:00 és 10:00 között az aktuális időjárás-jelentés meghallgatásához</string>
     <string name="life_post_setting_open_subtitle">Reggel 4:00 és 9:30 között, ha kikapcsolja az ébresztést, időjárás információkat fog kapni</string>
     <string name="life_post_setting_open_title">Reggeli jelentés fogadása</string>
     <string name="life_post_setting_wake_up_list_title">Ébredéselőzmények</string>
@@ -139,13 +153,15 @@
     <string name="menu_item_sort_by_gmt_offset">Rendezés idő szerint</string>
     <string name="menu_item_sort_by_name">Rendezés név szerint</string>
     <string name="module_download_cancel">Nem, köszönöm</string>
-    <string name="module_download_data_msg">Az Órának internetcsatlakozás szükséges a MIUI 10 időjárás-riasztások hangfájljainak és a környezeti zajok időzítőinek letöltéséhez. A letöltéshez 20MB adatforgalom szükséges. Elfogadja?</string>
-    <string name="module_download_data_msg_golbal">Az Órának le kell töltenie a MIUI 10 időjárás-riasztások hangfájljait és a környezeti zajok időzítőit. A letöltéshez 20MB adatforgalom szükséges. Elfogadja?</string>
-    <string name="module_download_data_msg_replace">Elérhető az aktualizált hang az intelligens riasztásokhoz (≈20MB). Csatlakozik a hálózathoz és letölti most mobiladat-forgalom használatával?</string>
+    <string name="module_download_data_msg">Az órának audiofájlokat kell letöltenie a MIUI intelligens riasztásokhoz. Az intelligens riasztások audio funkciókat tartalmaznak, amelyek lehetővé teszik az aktuális időjárási információk belefoglalását a riasztásokba. ≈20MB mobil adatforgalom szükséges a letöltéshez. Letölti most?</string>
+    <string name="module_download_data_msg_golbal">Az órának audiofájlokat kell letöltenie a MIUI intelligens riasztásokhoz. ≈20MB mobil adatforgalom szükséges a letöltéshez. Letölti most?</string>
+    <string name="module_download_data_msg_replace">Frissített audio áll rendelkezésre a MIUI intelligens riasztásokhoz. ≈20MB mobil adatforgalom szükséges a letöltéshez. Letölti most?</string>
+    <string name="module_download_data_msg_timer">Az órának audiofájlokat kell letöltenie a környezeti zajok időzítőihez. ≈20MB mobil adatforgalom szükséges a letöltéshez. Letölti most?</string>
     <string name="module_download_fail">További hang letöltése sikertelen</string>
-    <string name="module_download_msg">Az Órának internetcsatlakozás szükséges a MIUI 10 időjárás-riasztások és a környezeti zajok hangfájljainak letöltéséhez. Elfogadja?</string>
-    <string name="module_download_msg_golbal">Az Órának internetcsatlakozás szükséges a MIUI 10 időjárás-riasztások és a környezeti zajok időzítőinek letöltéséhez. Elfogadja?</string>
-    <string name="module_download_msg_replace">Elérhető az aktualizált hang az intelligens riasztásokhoz. Csatlakozik a hálózathoz és letölti most?</string>
+    <string name="module_download_msg">Az órának audiofájlokat kell letöltenie a MIUI intelligens riasztásokhoz. Az intelligens riasztások audio funkciókat tartalmaznak, amelyek lehetővé teszik az aktuális időjárási információk belefoglalását a riasztásokba. Letölti most?</string>
+    <string name="module_download_msg_golbal">Az órának audiofájlokat kell letöltenie a MIUI intelligens riasztásokhoz. Letölti most?</string>
+    <string name="module_download_msg_replace">Frissített audio áll rendelkezésre a MIUI intelligens riasztásokhoz. Letölti most?</string>
+    <string name="module_download_msg_timer">Az órának audiofájlokat kell letöltenie a környezeti zajok időzítői számára. Letölti most?</string>
     <string name="module_download_no_network">Nem sikerült csatlakozni a hálózathoz. Ellenőrizze hálózati beállításait, majd próbálja újra.</string>
     <string name="module_download_ok">Engedélyezés</string>
     <string name="module_download_success">További hang sikeresen letöltve</string>
@@ -160,6 +176,7 @@
     <string name="other_category_title">Egyéb</string>
     <string name="pause">Állj</string>
     <string name="percentage_sign">%</string>
+    <string name="personal_recommend">Személyre szabott tartalom ajánlatok</string>
     <string name="privacy_policy">Adatvédelmi Irányelvek</string>
     <string name="remind_ringtone">Figyelmeztető hang</string>
     <string name="repeat_count">Alkalommal</string>
@@ -184,6 +201,7 @@
     <string name="shutdown_alarm_enable_summary">Az ébresztő megszólal, ha legalább 5 perccel a készülék kikapcsolása utánra állítja be</string>
     <string name="shutdown_alarm_title">Ébresztés kikapcsolt állapotban</string>
     <string name="silent_alarm_summary">Némítás</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Egyszeri kikapcsolás %s</string>
     <string name="slider_text">Húzza fel a kikapcsoláshoz</string>
     <string name="snooze_confirm_cancel">Riasztás elutasítása</string>
@@ -202,6 +220,7 @@
     <string name="start_up">Indít</string>
     <string name="stopwatch_lap_empty_text">Nincs részidő</string>
     <string name="stopwatch_title">Stopper</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Beállítások</string>
     <string name="system_time_settings_category_title">Időbeállítások</string>
     <string name="temperature_unit">℃</string>
@@ -255,6 +274,7 @@
     <string name="turn_off_this_repeat_alarm">Ismétlődő ébresztés kikapcsolása</string>
     <string name="upcoming_alarm">A következő ébresztés: %s</string>
     <string name="upcoming_alarm_hint">Előre befejezheti az ébresztést</string>
+    <string name="user_agreement">Felhasználói Szerződés</string>
     <string name="vibrate_pref_summary">Rezgés az ébresztőhang alatt</string>
     <string name="vibrate_when_ringing">Rezgés csengés közben</string>
     <string name="volume_button_setting_summary">Hangerőgombok ébresztés közbeni funkciójának beállítása</string>
