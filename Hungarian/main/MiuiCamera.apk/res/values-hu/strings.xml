@@ -453,7 +453,6 @@
     <string name="portrait_mode_depth_effect_success_hint">Mélységhatás</string>
     <string name="portrait_mode_use_hint">"A Portrémód elmossa a hátteret
 és középpontba állítja az embereket."</string>
-    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Próbálja ki a Portrémódot.
 A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_square_mode_title">Négyzet</string>
@@ -470,7 +469,6 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_beautify_entry_low">Alacsony</string>
     <string name="pref_camera_beautify_entry_normal">Közepes</string>
     <string name="pref_camera_beautify_entry_high">Magas</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Módok</string>
     <string name="button_front_camera_title">Szelfi készítése</string>
     <string name="button_normal_video_title">Videófelvétel</string>

@@ -93,12 +93,10 @@
     <string name="daily_forecast_add_city_message">Kövesse nyomon az időjárást a még részletesebb időjárásjelentésért itt: %1$s.</string>
     <string name="daily_forecast_add_city_title">Kövesse nyomon az időjárást itt: %1$s</string>
     <string name="daily_forecast_detail_date">M.d.</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Időjárásadatok beolvasása meghiúsult
 Húzza lefelé a frissítéshez, vagy ellenőrize a hálózati beállításokat"</string>
     <string name="data_provided_by">Az adatok részben innen származnak:</string>
     <string name="edit_city">Városok kezelése</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Frissítés…</string>
     <string name="empty_view_net_unavailable">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="empty_view_refresh">Újra</string>
@@ -117,8 +115,6 @@ Húzza lefelé a frissítéshez, vagy ellenőrize a hálózati beállításokat"
     <string name="first_start_network_title">Internet kapcsolat és helymeghatározás</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Most</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M.d.</string>
     <string name="hourly_forecast_title_24_hours_desc">24 órás előrejelzés</string>
     <string name="hourly_forecast_title_hourly_desc">Óránkénti előrejelzés</string>
@@ -134,11 +130,9 @@ Húzza lefelé a frissítéshez, vagy ellenőrize a hálózati beállításokat"
     <string name="indices_title_feel">Hőérzet</string>
     <string name="indices_title_pressure">Légnyomás</string>
     <string name="install">Telepítés</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">Légnyomás</string>
     <string name="international_details_title">Részletek</string>
     <string name="international_details_uv_index_title">UV sugárzás</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">Szél</string>
     <string name="it_is_going_to_rain">Esni fog</string>
     <string name="locate_fail_detail_err">"Helyhozzáférés sikertelen
@@ -222,7 +216,6 @@ Húzza lefelé a frissítéshez, vagy ellenőrize a hálózati beállításokat"
     <string name="share_menu_title">Megosztás</string>
     <string name="share_subject">Megosztás</string>
     <string name="share_weather_desc">\#MIUI időjárás #Ma %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Nem sikerült képernyőképet készíteni</string>
     <string name="some_where_on_earth">Valahol a Földön</string>
