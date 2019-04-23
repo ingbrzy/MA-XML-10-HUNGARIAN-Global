@@ -291,7 +291,6 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="month_view">Hónap</string>
     <string name="monthly">Havonta</string>
     <string name="monthly_on_day">Havonta (ugyanazon a napon)</string>
-    <string name="monthly_on_day_count">Havonta (minden %1$s %2$s)</string>
     <string name="network_not_available">Nem sikerült csatlakozni a hálózathoz</string>
     <string name="new_event_description">Új</string>
     <string name="news">Hírek</string>
