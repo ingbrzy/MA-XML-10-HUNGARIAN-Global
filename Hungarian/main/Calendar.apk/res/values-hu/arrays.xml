@@ -81,6 +81,10 @@
         <item>Ezt és a jövőbeli eseményeket</item>
         <item>Minden eseményt</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>Ikrek</item>
@@ -103,13 +107,6 @@
     <string-array name="ligue_1">
         <item>5</item>
         <item>Ligue 1</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>első</item>
-        <item>második</item>
-        <item>harmadik</item>
-        <item>negyedik</item>
-        <item>utolsó</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
@@ -348,5 +345,42 @@
     <string-array name="widget_style_list">
         <item>Átlátszó</item>
         <item>Fehér háttér</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>első hétfő</item>
+        <item>első kedd</item>
+        <item>első szerda</item>
+        <item>első csütörtök</item>
+        <item>első péntek</item>
+        <item>első szombat</item>
+        <item>első vasárnap</item>
+        <item>második hétfő</item>
+        <item>második kedd</item>
+        <item>második szerda</item>
+        <item>második csütörtök</item>
+        <item>második péntek</item>
+        <item>második szombat</item>
+        <item>második vasárnap</item>
+        <item>harmadik hétfő</item>
+        <item>harmadik kedd</item>
+        <item>harmadik szerda</item>
+        <item>harmadik csütörtök</item>
+        <item>harmadik péntek</item>
+        <item>harmadik szombat</item>
+        <item>harmadik vasárnap</item>
+        <item>negyedik hétfő</item>
+        <item>negyedik kedd</item>
+        <item>negyedik szerda</item>
+        <item>negyedik csütörtök</item>
+        <item>negyedik péntek</item>
+        <item>negyedik szombat</item>
+        <item>negyedik vasárnap</item>
+        <item>múlt hétfő</item>
+        <item>múlt kedd</item>
+        <item>múlt szerda</item>
+        <item>múlt csütörtök</item>
+        <item>múlt péntek</item>
+        <item>múlt szombat</item>
+        <item>múlt vasárnap</item>
     </string-array>
 </resources>

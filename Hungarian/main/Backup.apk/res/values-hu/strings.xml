@@ -6,6 +6,9 @@ Méret: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatkozik az %1$s
 Delta frissítés mérete: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Az adattároló eszköz nem elérhető, ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Nem sikerült elindítani a letöltést. győződjön meg róla, hogy a letöltéskezelő megfelelően működik.</string>
     <string name="app_name">Biztonsági mentés</string>
     <string name="local_app_name">Biztonsági mentés</string>
@@ -73,6 +76,7 @@ Delta frissítés mérete: %2$s"</string>
     <string name="sms_title">Üzenetek</string>
     <string name="mms_title">Multimédiás Üzenetek</string>
     <string name="wifi_title">Wi-Fi-beállítások</string>
+    <string name="phone_title">Telefonbeállítások</string>
     <string name="note_title">Jegyzetek</string>
     <string name="compute_backup_info">Mentés adatainak lekérdezése</string>
     <string name="compute_delete_contact_info">Névjegyek keresése…</string>
@@ -225,6 +229,7 @@ Delta frissítés mérete: %2$s"</string>
     <string name="restore_backup">Visszaállítás</string>
     <string name="enable_encrypt_description">Titkosítás</string>
     <string name="disable_encrypt_description">Nincs titkosítás</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Egy pillanat…</string>
     <string name="state_mounting">A router tárhelyének felcsatolása…</string>
     <string name="abort_backup_confirm">A mentés még nem fejeződött be. Mégis leállítja?</string>
@@ -254,6 +259,7 @@ Delta frissítés mérete: %2$s"</string>
     <string name="err_pkg_not_exist">Az alkalmazás nem található.</string>
     <string name="err_user_abort">Felhasználó által megszakítva.</string>
     <string name="err_binder_died">Az alkalmazás váratlanul leállt.</string>
+    <string name="err_no_gms">Nem kompatibilis alkalmazásverzió. Telepítse ezt az alkalmazást elkülönítve</string>
     <string name="backup_is_running">Készülék biztonsági mentése</string>
     <string name="restore_is_running">Visszaállítás biztonsági mentésből</string>
     <string name="notif_backup_title">Adatok mentése</string>
@@ -307,6 +313,7 @@ Tartsa a készülékeket közel egymáshoz."</string>
     <string name="trans_detail_qq_data">QQ-adatok (beleértve a csevegési előzményeket)</string>
     <string name="trans_detail_app_data_useless_tip">Ezeket vissza tudja nyerni az alkalmazásokból, nem szükséges az átvitelük.</string>
     <string name="trans_detail_item_app_data_too_large_tip">Úgy tűnik, ez az elem túlságosan nagy az átvitelhez.</string>
+    <string name="trans_detail_item_app_data_skip_data">Az alkalmazásadatok nem vihetők át</string>
     <string name="trans_detail_item_app_data_selected_tip">A kapcsolódó alkalmazások is ki lettek választva.</string>
     <string name="trans_detail_list_footer">"1. Kiválaszthatja az áthelyezni kívánt alkalmazásokat.
 2. Ha egy alkalmazás adatait választja, a megfelelő alkalmazás is kiválasztásra kerül.
@@ -562,6 +569,7 @@ https://appleid.apple.com/#!&amp;page=signin weboldalra"</string>
 készítenie kell egy iCloud mentést."</string>
     <string name="list_footer_tip_title">Tippek:</string>
     <string name="import_tip_summary">Kompatibilitási problémák miatt adatainak csak egy részét importálhatja iOS készülékéről. Mielőtt elkezdené a Mi Átköltözést, győződjön meg róla, hogy készített iCloud mentést.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Importálás</string>
     <string name="select_empty">Elemek kiválasztása importáláshoz</string>
     <string name="select_item_summary_wait">Várakozás…</string>

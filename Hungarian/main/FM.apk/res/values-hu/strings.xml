@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FM Rádió</string>
+    <string name="app_name">FM Rádiószolgáltatás</string>
     <string name="station_freq_format">%sMHz</string>
     <string name="frequency_mhz_fomart">%sMHz</string>
     <string name="notification_rec_title">Érintse meg a felvételek megtekintéséhez</string>
     <string name="record_completed">A rögzítés befejeződött</string>
-    <string name="start">indítás</string>
-    <string name="stop">leállítás</string>
-    <string name="jump">ugrás</string>
-    <string name="scan">keresés</string>
 </resources>

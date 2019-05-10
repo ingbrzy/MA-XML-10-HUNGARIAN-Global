@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="add_alarm">Ébresztés hozzáadása</string>
     <string name="add_clock">Óra hozzáadása</string>
     <string name="add_timezone_title">Időzóna hozzáadása</string>
@@ -86,7 +87,7 @@
     <string name="dialog_message_for_contact_permission">Annak érdekében, hogy a születésnapi ébresztések elérhetőek legyenek, az Óra számára hozzáférés szükséges a névjegyekhez. Elfogadja?</string>
     <string name="dialog_message_negative">Elutasítás</string>
     <string name="dialog_message_not_remind">Ne jelenjen meg újra</string>
-    <string name="dialog_privacy_content">Annak érdekében, hogy a helyi állami ünnepekkel kapcsolatos releváns információkat kapjon és szinkronizáljon, és személyre szabott szolgáltatást biztosítson, a Clocknak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Egyetért?</string>
+    <string name="dialog_privacy_content">Annak érdekében, hogy Ön releváns információkat kapjon a helyi állami ünnepekkel kapcsolatban, beállíthassa az ébresztőket és és személyre szabott szolgáltatásban részesüljön, a Clocknak kapcsolódnia kell az internethez. A Clock használata előtt el kell olvasnia és el kell fogadnia a következőkkel: %1$s és %2$s. Elfogadja?</string>
     <string name="dialog_privacy_content_global">A személyre szabott szolgáltatások biztosítása érdekében a Clock-nak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Egyetért?</string>
     <string name="dialog_privacy_content_news">A személyre szabott szolgáltatások biztosítása és a reggeli hírek riasztásokba való foglalása érdekében a Clock-nak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Egyetért?</string>
     <string name="dialog_privacy_content_timer">Annak érdekében, hogy a helyi állami ünnepekkel kapcsolatos releváns információkat kapjon és szinkronizáljon, és személyre szabott szolgáltatást biztosítson, a Clocknak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Egyetért?</string>
@@ -176,7 +177,7 @@
     <string name="pause">Állj</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Személyre szabott tartalom ajánlatok</string>
-    <string name="privacy_policy">Adatvédelmi Irányelvek</string>
+    <string name="privacy_policy">Adatvédelmi nyilatkozat</string>
     <string name="remind_ringtone">Figyelmeztető hang</string>
     <string name="repeat_count">Alkalommal</string>
     <string name="repeat_count_value_five">5</string>
@@ -200,6 +201,7 @@
     <string name="shutdown_alarm_enable_summary">Az ébresztő megszólal, ha legalább 5 perccel a készülék kikapcsolása utánra állítja be</string>
     <string name="shutdown_alarm_title">Ébresztés kikapcsolt állapotban</string>
     <string name="silent_alarm_summary">Némítás</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Egyszeri kikapcsolás %s</string>
     <string name="slider_text">Húzza fel a kikapcsoláshoz</string>
     <string name="snooze_confirm_cancel">Riasztás elutasítása</string>
@@ -218,6 +220,7 @@
     <string name="start_up">Indít</string>
     <string name="stopwatch_lap_empty_text">Nincs részidő</string>
     <string name="stopwatch_title">Stopper</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Beállítások</string>
     <string name="system_time_settings_category_title">Időbeállítások</string>
     <string name="temperature_unit">℃</string>

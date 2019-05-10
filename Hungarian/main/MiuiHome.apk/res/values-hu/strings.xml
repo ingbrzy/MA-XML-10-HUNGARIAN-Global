@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Hozzáadás a munkatérhez</string>
     <string name="activity_not_found">Ez az alkalmazás nincs telepítve a készülékén</string>
     <string name="add_screen">Képernyő hozzáadása</string>
@@ -110,9 +111,12 @@
     <string name="drag_single_item_name" />
     <string name="dual_app">Kettős alkalmazások</string>
     <string name="edit_folder_title">Mappa átnevezése</string>
+    <string name="edit_mode_dual_app">Klónozott alkalmazás létrehozása</string>
     <string name="edit_mode_group">Csoport</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">Rendszeralkalmazást nem törölhet</string>
     <string name="edit_mode_group_error_full">Nincs elég tárhely</string>
     <string name="edit_mode_group_error_in_folder">Zárja be a mappát, mielőtt ikonokat csoportosítana</string>
+    <string name="edit_mode_group_error_nothing_be_selected">Először válasszon egy alkalmazást</string>
     <string name="edit_mode_group_error_one_folder">Nem duplázhat meg egy mappát a kijelölt ikonokkal</string>
     <string name="edit_mode_top_menu_finish">Kész</string>
     <string name="edit_mode_uninstall">Eltávolítás</string>
@@ -186,15 +190,22 @@
     <string name="guide_install_app_msg">Ez az alkalmazás nincs telepítve a készülékén. Megkeresi most és telepíti az alkalmazást?</string>
     <string name="guide_install_app_title">Megkeresi és telepíti az alkalmazást?</string>
     <string name="guide_tips_editing_mode">Nyomja és tartsa a widgetet a felvételéhez</string>
+    <string name="home_gesture_content_center">Tartalomközpont</string>
+    <string name="home_gesture_global_search">Keresés</string>
+    <string name="home_gesture_no_action">Egyik sem</string>
+    <string name="home_gesture_notification_bar">Értesítések</string>
+    <string name="home_pull_down_action">Húzza lefelé az ujját a Kezdőképernyőn</string>
     <string name="home_screen">Kezdőképernyő</string>
+    <string name="home_slide_up_action">Húzza felfelé az ujját a Kezdőképernyőn</string>
     <string name="icon_reorganize_channel">Ikonok elrendezése</string>
     <string name="image_too_small_message">Az eredeti kép nem elég nagy.</string>
     <string name="install">Telepítés</string>
     <string name="invalid_contact_shortcut">Érvénytelen névjegy ikon</string>
     <string name="is_setting_wallpaper_message">Háttérkép beállítása…</string>
     <string name="is_system_wallpaper_message">Nem törölhető a gyári háttérkép</string>
-    <string name="launcher_auto_fill_empty_title">Megüresedő ikonhelyek kitöltése</string>
     <string name="launcher_not_exist">Hiba történt. Lépjen vissza a Kezdőképernyőre majd próbálja újra.</string>
+    <string name="launcher_pull_down_title">Húzza lefelé az ujját a Kezdőképernyőn</string>
+    <string name="launcher_slide_up_title">Húzza felfelé az ujját a Kezdőképernyőn</string>
     <string name="launcher_sliding_up_gesture">Húzza felfelé a Kezdőképernyőn a Keresés megnyitásához</string>
     <string name="launcher_title">Kezdőképernyő és előzmények</string>
     <string name="like">Kedvencekhez adás</string>
@@ -210,7 +221,7 @@
     <string name="memory_clear_nothing_result">Nincs tisztítandó adat a gyorsítótárban</string>
     <string name="memory_clear_result">%1$sB felszabadítva</string>
     <string name="menu_add">Hozzáadás</string>
-    <string name="menu_auto_fill">Megüresedő ikonhelyek kitöltése</string>
+    <string name="menu_auto_fill_of_uninstall">Nem telepített alkalmazások celláinak kitöltése</string>
     <string name="menu_back_desktop">Vissza a kezdőlapra</string>
     <string name="menu_cell_setting">Kezdőképernyő-elrendezés</string>
     <string name="menu_customize">Beállítások</string>
@@ -231,6 +242,7 @@
     <string name="menu_wallpaper">Háttérkép</string>
     <string name="menu_workspace_preview">Kezdőképernyő előnézetei</string>
     <string name="mi_wallpaper">MIUI Témák</string>
+    <string name="minus_one_screen">Gyorselérési kártyák</string>
     <string name="miui_screen_config_title">Kezdőképernyő beállítások</string>
     <string name="mtzgadget_missing_text">A widget nem elérhető</string>
     <string name="multi_selecting_tips">Alkalmazás felvételéhez nyomja meg az ikonját és húzza be ide.</string>
@@ -356,16 +368,7 @@
     <string name="widget_global_search">Keresés</string>
     <string name="widget_quick_function">Gyorsfunkciók</string>
     <string name="widgets_preview_title">Minialkalmazás hozzáadása</string>
-    <string name="edit_mode_dual_app">Klónozott alkalmazás létrehozása</string>
-    <string name="edit_mode_group_error_cant_delete_system_apps">Rendszeralkalmazást nem törölhet</string>
-    <string name="edit_mode_group_error_nothing_be_selected">Először válasszon egy alkalmazást</string>
-    <string name="home_gesture_content_center">Tartalomközpont</string>
-    <string name="home_gesture_global_search">Keresés</string>
-    <string name="home_gesture_no_action">Egyik sem</string>
-    <string name="home_gesture_notification_bar">Értesítések</string>
-    <string name="home_pull_down_action">Húzza lefelé az ujját a Kezdőképernyőn</string>
-    <string name="home_slide_up_action">Húzza felfelé az ujját a Kezdőképernyőn</string>
-    <string name="launcher_pull_down_title">Húzza lefelé az ujját a Kezdőképernyőn</string>
-    <string name="launcher_slide_up_title">Húzza felfelé az ujját a Kezdőképernyőn</string>
-    <string name="minus_one_screen">Gyorselérési kártyák</string>
+    <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
+    <string name="privacy_thumbnail_blur_title">Blur app previews</string>
+    <string name="system_shortcuts_more_operation">Alkalmazásadatok</string>
 </resources>

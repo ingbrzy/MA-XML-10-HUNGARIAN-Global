@@ -92,6 +92,8 @@ A Kika használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Iránye
     <string name="content_description_complete">Kész</string>
     <string name="language_picker_other_languages_title">Egyéb nyelvek</string>
     <string name="language_settings">Válasszon nyelvet</string>
+    <string name="font_hint_normal">Szövegméret-növelés</string>
+    <string name="font_hint_large">Alapértelmezett szövegméret</string>
     <string name="navigation_picker_radio_text_full_screen">Kézmozdulatok</string>
     <string name="navigation_picker_radio_text_virtual_key">Virtuális gombok</string>
     <string name="congratulation_swipe">Húzza felfelé a rendszerbe való belépéshez</string>
@@ -119,4 +121,8 @@ A Kika használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Iránye
     <string name="ai_button_double_press_desc">Egyéni feladat végrehajtásához érintse meg duplán az AI gombot</string>
     <string name="zone_picker_title">Időzóna kiválasztása</string>
     <string name="locale_picker_other_locale_title">További régiók</string>
+    <string name="skip_gesture_guide_dialog_title">Teljes képernyős mozdulatvezérlés</string>
+    <string name="skip_gesture_guide_dialog_message">Mielőtt ezt a lehetőséget választaná, legyen tisztában azzal, hogyan kell használni a teljes képernyős mozdulatvezérlést.</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">Mégse</string>
+    <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
 </resources>

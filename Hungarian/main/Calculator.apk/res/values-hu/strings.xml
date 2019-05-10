@@ -3,7 +3,12 @@
     <string name="allow">Elfogadás</string>
     <string name="app_name">Számológép</string>
     <string name="app_name_danfa">Mi Számológép</string>
+    <string name="app_notification_info">A számológép a háttérben működik</string>
     <string name="base_rate">Alap érdeklődési árfolyam</string>
+    <string name="btn_float_window_alpha">Áttetszőség beállítása</string>
+    <string name="btn_float_window_back_to_app">Számológép felnagyítása</string>
+    <string name="btn_float_window_close">Lekicsinyített számológép bezárása</string>
+    <string name="btn_float_window_resize">Lekicsinyített számológép átméretezése</string>
     <string name="cal_convert_to_word_figure">Összeg leírása betűkkel</string>
     <string name="cal_copy">Másolás</string>
     <string name="cal_edit_mode">Szerkesztőmód</string>
@@ -71,6 +76,7 @@
     <string name="extra_deduction_tips">Érintse meg a gombot a képernyő felső sarkában a levonás részleteinek megtekintéséhez.</string>
     <string name="extra_deduction_title">További levonások</string>
     <string name="factorialDesc">faktoriális</string>
+    <string name="float_window_guide_text">A számológép minimalizálásához érintse meg itt</string>
     <string name="fund" />
     <string name="fund_loan">Alapkölcsön</string>
     <string name="further_education">Továbbképzés</string>
@@ -91,6 +97,7 @@
     <string name="golbal_search_calculator_setting">Számológép;Számológépbeállítások;Beállítások</string>
     <string name="golbal_search_path_calculator_setting">Rendszeralkalmazások/Számológép/Beállítások</string>
     <string name="help_content_desc">Súgó</string>
+    <string name="hint_floatwindow_alpha_guide_text">Érintse meg az áttetszőség beállításához</string>
     <string name="home_loan">Jelzáloghitel kamata</string>
     <string name="home_title_calculator">Számológép</string>
     <string name="house_rent">Bérbeadás</string>
@@ -569,6 +576,7 @@
     <string name="unit_yuan">CNY</string>
     <string name="updating">Számológép frissítése…</string>
     <string name="user_agreement">Felhasználói Szerződés</string>
+    <string name="view_float_window_move">Lekicsinyített számológép áthelyezése</string>
     <string name="voiceDesc">Hangellenőrzés</string>
     <string name="wf_word_figure">Összeg betűkkel leírva</string>
     <string name="word_figure_big_unit_fen">分</string>
@@ -592,20 +600,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_connect_download_manager_fail">Nem tudott csatlakozni a letöltésekhez. Ellenőrizze, hogy ez app a megfelelő engedélyekkel rendelkezik-e a Beállítások > Telepített alkalmazásokban.</string>
     <string name="xiaomi_external_storage_unavailable">Nincs elérhető tárhely. Ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Bemutatjuk a következő verziót: %1$s
 Méret:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatjuk a következő verziót: %1$s
 Delta frissítés mérete:%2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s frissítés!</string>
     <string name="year" />
-    <string name="app_notification_info">A számológép a háttérben működik</string>
-    <string name="btn_float_window_alpha">Áttetszőség beállítása</string>
-    <string name="btn_float_window_back_to_app">Számológép felnagyítása</string>
-    <string name="btn_float_window_close">Lekicsinyített számológép bezárása</string>
-    <string name="btn_float_window_resize">Lekicsinyített számológép átméretezése</string>
-    <string name="float_window_guide_text">A számológép minimalizálásához érintse meg itt</string>
-    <string name="hint_floatwindow_alpha_guide_text">Érintse meg az áttetszőség beállításához</string>
-    <string name="view_float_window_move">Lekicsinyített számológép áthelyezése</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_calllog_detail">Hívásnapló részletei</string>
     <string name="accessibility_contact_detail">Névjegy adatai</string>
     <string name="account_container_title">Importálva a következőből</string>
@@ -47,7 +48,7 @@
     <string name="auto_set_nickname">Automatikus</string>
     <string name="back_description">Vissza</string>
     <string name="back_view_description">Visszalépés</string>
-    <string name="batch_delete">Több törlése</string>
+    <string name="batch_delete">Több törlése egyszerre</string>
     <string name="blacklist">Letiltás</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth kapcsolat megszakadt</string>
     <string name="blurbJoinContactDataWith">Válassza ki azt a névjegyet, amelyet össze kíván kapcsolni ezzel a névjeggyel: %s.</string>
@@ -100,6 +101,7 @@
     <string name="call_sim_menu_title_suffix">(Elsődleges)</string>
     <string name="call_telex">Telex hívása</string>
     <string name="call_tty_tdd">TTY/TDD-szám hívása</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Munkahelyi telefon hívása</string>
     <string name="call_work_mobile">Munkahelyi mobil hívása</string>
@@ -421,11 +423,11 @@ Hogy elkerüljük a túl gyakori lekérdezést, naponta egyszer frissítjük az 
     <string name="display_only_phones">Hiányos számok elrejtése</string>
     <string name="display_options_sort_by_family_name">Vezetéknév</string>
     <string name="display_options_sort_by_given_name">Keresztnév</string>
-    <string name="display_options_sort_list_by">Lista rendezési elve:</string>
+    <string name="display_options_sort_list_by">Listarendezési mód</string>
     <string name="display_options_view_family_name_first">Vezetéknév előre</string>
     <string name="display_options_view_given_name_first">Keresztnév előre</string>
-    <string name="display_options_view_names_as">Névjegyek neveinek megjelenítése mint</string>
-    <string name="display_sim_contacts">SIM névjegyeinek megjelenítése</string>
+    <string name="display_options_view_names_as">Névmegjelenítési sorrend</string>
+    <string name="display_sim_contacts">SIM-névjegyek megjelenítése</string>
     <string name="display_ungrouped">Az összes többi névjegy</string>
     <string name="display_warn_remove_ungrouped">Ha leállítja a(z) \"%s\" szinkronizálását, ugyanez történik a nem csoportosított névjegyekkel is.</string>
     <string name="duplicate_group_name">Ez a csoportnév már létezik</string>
@@ -490,6 +492,7 @@ Oka: \"%s\""</string>
     <string name="force_touch_miprofile">Névjegykártya</string>
     <string name="force_touch_new_contact">Új névjegy</string>
     <string name="frequentList">Gyakori</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Név</string>
     <string name="gallery">Galéria</string>
     <string name="generic_no_account_prompt">Tartsa névjegyeit biztonságban akkor is, ha elveszíti a telefonját: szinkronizálja egy online szolgáltatással.</string>
@@ -518,7 +521,7 @@ Oka: \"%s\""</string>
     <string name="groups_list_empty">Nincsenek csoportok</string>
     <string name="hint_distance" />
     <string name="hint_findContacts">Névjegy keresése</string>
-    <string name="hint_more_contact">Dupla névjegyek összekapcsolása</string>
+    <string name="hint_more_contact">Névjegy-duplázódások összevonása</string>
     <string name="hybrid_check_network">Hálózati beállítások</string>
     <string name="hybrid_data_error">Hiba történt</string>
     <string name="hybrid_locating_fail">Helymeghatározás sikertelen</string>
@@ -670,6 +673,7 @@ Oka: \"%s\""</string>
     <string name="miprofile_contact_header">Névjegyek névjegykártyákkal</string>
     <string name="miprofile_contact_meaasge">Helyi névjegyek</string>
     <string name="miprofile_contact_verifying">Ellenőrzés</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profil szerkesztése</string>
     <string name="miprofile_error_accept_self">Nem tud saját magával névjegykártyát cserélni</string>
     <string name="miprofile_error_no_miaccount">Jelentkezzen be a Mi Fiókjába</string>
@@ -773,7 +777,7 @@ Oka: \"%s\""</string>
     <string name="openDialKeyboard">Tárcsázó</string>
     <string name="open_contact">Névjegy megtekintése</string>
     <string name="open_dial_pad_description">Tárcsázó megnyitása</string>
-    <string name="option_delete_batch_contacts">Több törlése</string>
+    <string name="option_delete_batch_contacts">Több törlése egyszerre</string>
     <string name="option_delete_contact">Törlés</string>
     <string name="option_delete_group">Törlés</string>
     <string name="option_edit_contact">Szerkesztés</string>
@@ -814,7 +818,10 @@ Oka: \"%s\""</string>
     <string name="path_wipe_data">Rendszeralkalmazások/Névjegyek/Névjegyek rendszerezése/Adatok törlése</string>
     <string name="payphone">Nyilvános telefon</string>
     <string name="people">Névjegyek</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Túl hosszú a telefonszám</string>
     <string name="phone_primary">Elsődleges</string>
     <string name="photoPickerNotFoundText">Nincsenek elérhető képek a készüléken.</string>
@@ -847,9 +854,9 @@ Oka: \"%s\""</string>
     <string name="postal_street">Utca</string>
     <string name="pref_key_photo">Fénykép</string>
     <string name="pref_key_photo_word_summary">A fénykép nélküli névjegyekhez automatikusan rendeljen hozzá egyet</string>
-    <string name="pref_key_photo_word_title">Névjegyfotók hozzárendelése</string>
+    <string name="pref_key_photo_word_title">Névjegyfotó-hozzárendelés</string>
     <string name="pref_key_rebuild_t9_index_message">Az index újraépítése kijavítja a keresési hibákat</string>
-    <string name="pref_key_rebuild_t9_index_title">Index adatok újraépítése</string>
+    <string name="pref_key_rebuild_t9_index_title">Indexadatok újraépítése</string>
     <string name="pref_key_sdn_manage">SDN megjelenítése</string>
     <string name="pref_key_sdn_manage1">SDN1-kártya megtekintése</string>
     <string name="pref_key_sdn_manage2">SDN2-kártya megtekintése</string>
@@ -864,8 +871,8 @@ Oka: \"%s\""</string>
     <string name="preference_auto_ip_title">Automatikus IP előtag</string>
     <string name="preference_contacts">Névjegyek</string>
     <string name="preference_contacts_display">Preferenciák megjelenítése</string>
-    <string name="preference_contacts_filter">Névjegyek konfigurálása</string>
-    <string name="preference_contacts_more">Névjegyek rendszerezése</string>
+    <string name="preference_contacts_filter">Megjelenítendő névjegyek</string>
+    <string name="preference_contacts_more">NÉVJEGY-RENDSZEREZÉS</string>
     <string name="preference_contacts_moresetting">Továbbiak</string>
     <string name="preference_dial_pad_touch_tone_default">Alapértelmezett</string>
     <string name="preference_dial_pad_touch_tone_human">Hang</string>
@@ -878,19 +885,19 @@ Oka: \"%s\""</string>
     <string name="preference_export">Exportálás</string>
     <string name="preference_import">Importálás</string>
     <string name="preference_import_export">Importálás/Exportálás</string>
-    <string name="preference_import_export_title">Névjegyek Importálása/Exportálása</string>
+    <string name="preference_import_export_title">Névjegyek importálása/exportálása</string>
     <string name="preference_key_trash_bin_title">Névjegyek visszaállítása</string>
     <string name="preference_other">Egyéb</string>
     <string name="preference_others">Egyéb</string>
     <string name="preference_phone">Készülék</string>
     <string name="preference_phone_more_title">Hívásbeállítások</string>
     <string name="preference_privacy_policy_title">Adatvédelmi Irányelvek</string>
-    <string name="preference_remove_duplicate">Dupla névjegyek összekapcsolása</string>
+    <string name="preference_remove_duplicate">Névjegy-duplázódások összevonása</string>
     <string name="preference_show_firewall_calllog">Blokkolt hívások megjelenítése a híváslistában</string>
     <string name="preference_show_yellowpage_tab_description">A Yellow pages nem fog rendeltetésszerűen működni, ha ez a funkció ki van kapcsolva.</string>
     <string name="preference_show_yellowpage_tab_title">Yellow pages megjelenítése</string>
     <string name="preference_simple_mode_description">Listanézetben a fényképek és egyéb névjegyadatok megjelenítése</string>
-    <string name="preference_simple_mode_title">Fényképek és adatok megjelenítése</string>
+    <string name="preference_simple_mode_title">Fénykép- és adatmegjelenítés</string>
     <string name="preference_smart_group_company_summary">Csoportosítás cég szerint</string>
     <string name="preference_smart_group_company_title">Cégek</string>
     <string name="preference_smart_group_frequency_summary">Csoportosítás a legutóbb használt névjegyek szerint</string>
@@ -1062,6 +1069,7 @@ Oka: \"%s\""</string>
     <string name="sim_unloaded">Nincs SIM-kártya a készülékbe helyezve</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nincs tag a csoportban</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Cégek</string>
     <string name="smart_group_company_unavailable">Nincs céginformáció</string>
     <string name="smart_group_frequency_1">Az elmúlt hónapban</string>
@@ -1196,7 +1204,8 @@ Válasszon az alábbi lehetőségek közül:"</string>
     <string name="voip_audio_description">VoIP hívás</string>
     <string name="voip_video_description">VoIP videóhívás</string>
     <string name="websiteLabelsGroup">Honlap</string>
-    <string name="wipe_data">Adatok törlése</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
+    <string name="wipe_data">Adattörlés</string>
     <string name="yellowPageNavigationIconLabel">Yellow pages</string>
     <string name="yellowPageNavigationLabel">Yellow pages</string>
     <string name="yellowpage_fc_toast">Nem lehet ezt a funkciót használni a Yellow Pages összeomlása miatt.</string>

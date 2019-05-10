@@ -56,6 +56,7 @@
     <string name="loading_space">Egy pillanat…</string>
     <string name="private_space_setting">Kezelés</string>
     <string name="exit_private_space">Váltás</string>
+    <string name="kid_mode_label">Gyerektér</string>
     <string name="wating">Egy pillanat…</string>
     <string name="Active">Aktív</string>
     <string name="ok_button">OK</string>
@@ -161,6 +162,7 @@ Néhány klónozott alkalmazás Google Szolgáltatás keretrendszer támogatást
     <string name="create_space_loading">Második asztal létrehozása…</string>
     <string name="close_second_space">Második asztal törölve</string>
     <string name="close_second_space_success">Második asztal törölve</string>
+    <string name="close_kid_space_success">Gyerektér törölve</string>
     <string name="enable">Bekapcsolás</string>
     <string name="disable">Kikapcsolás</string>
     <string name="PrivacyContactDes1">"A névjegyek személyesek lesznek.
@@ -462,4 +464,6 @@ Legyen biztos benne, hogy a vállalatának neve hibátlanul van beírva. Olvassa
     <string name="button_touch">Helyezze az ujját az ujjlenyomat-olvasóra</string>
     <string name="button_input_password">Írja be a jelszót</string>
     <string name="master_clear_not_available">Munkáltatója letiltotta a Gyári adatok visszaállítását.</string>
+    <string name="dual_animation">Indítási animáció</string>
+    <string name="dual_animation_description">Animáció megjelenítése, amikor egy klónozott alkalmazás elindul</string>
 </resources>

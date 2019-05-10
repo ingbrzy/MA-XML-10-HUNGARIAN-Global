@@ -15,7 +15,7 @@
     <string name="add_to_album_success">Albumhoz adva</string>
     <string name="add_to_album_tip">Cloud fényképek</string>
     <string name="add_to_favorites_failed">Nem sikerült a kedvencekhez adni</string>
-    <string name="add_to_secret_exist">Már van ilyen fénykép a rejtett albumban</string>
+    <string name="add_to_secret_exist">Ez az elem már létezik egy rejtett albumban</string>
     <string name="add_to_secret_fail">Nem sikerült a rejtett albumhoz adni</string>
     <string name="add_to_secret_failed_with_reason">Nem adható hozzá rejtett albumhoz. %1$s.</string>
     <string name="add_to_secret_successful">Hozzáadva a rejtett albumhoz</string>
@@ -39,6 +39,7 @@
     <string name="agreement_summary">Jogi dokumentumok</string>
     <string name="ai_album_open_switch_button_title">Fényképek analizálásának elindítása</string>
     <string name="ai_album_requesting_title">Fényképei még mindig feldolgozás alatt állnak az AI algoritmus által. Jöjjön vissza később.</string>
+    <string name="ai_album_setting_key_word">Fényképek keresése</string>
     <string name="ai_album_setting_sub_title">AI algoritmus engedélyezése emberek, helyszínek és tárgyak azonosításához fényképein, így könnyebben megtalálhatja azokat.</string>
     <string name="ai_album_setting_title">Tárgyak azonosítása fényképeken</string>
     <string name="album_already_exists_check">Megtekintés</string>
@@ -82,8 +83,8 @@
     <string name="album_share_subtitle_quitting">Kilépés…</string>
     <string name="album_share_subtitle_requesting">Albumadatok lekérése…</string>
     <string name="album_share_title_new_album">Új album megosztása</string>
-    <string name="album_show_local_only">Csak helyi albumok megjelenítése</string>
-    <string name="album_show_local_only_summary">A készülékén lévő képek nézegetésének és törlésének kizárólagos bekapcsolása</string>
+    <string name="album_show_local_only">Csak a helyi albumok megjelenítése</string>
+    <string name="album_show_local_only_summary">Ha bekapcsolja, kizárólag az Ön készülékén tárolt képek nézhetők meg és törölhetők</string>
     <string name="album_type_baby">Babaalbum</string>
     <string name="album_type_share">Megosztott albumok</string>
     <string name="album_type_system">Rendszer albumok</string>
@@ -107,7 +108,7 @@
     <string name="app_name_view_video">Videók megtekintése</string>
     <string name="associate_face_album">Válasszon egy albumot</string>
     <string name="auto_backup_introduce">Fényképek és videók automatikus mentése (Mi Fiók szükséges)</string>
-    <string name="auto_download_media_title">Fényképek automatikus letöltése a Mi Cloudból</string>
+    <string name="auto_download_media_title">Automatikus fényképletöltés a Mi Cloudból</string>
     <string name="auto_update_face">Fényképek automatikus hozzáadása</string>
     <string name="auto_update_face_summary">Fényképek automatikus Babaalbumhoz adása</string>
     <string name="auto_update_off">Ki</string>
@@ -188,6 +189,8 @@
     <string name="backuped_title">Sikeresen mentve</string>
     <string name="backuping_title_gprs">Mentés mobiladat-kapcsolatot használva…</string>
     <string name="backuping_title_normal">Mentés…</string>
+    <string name="base_btn_cancel">Mégse</string>
+    <string name="base_btn_download">Letöltés</string>
     <string name="begin_share">\"%s\" babaalbum létrehozva, már megoszthatja</string>
     <string name="begin_share_toast">Hozzon létre egy külön albumot a gyermek számára mielőtt megosztja?</string>
     <string name="blank_app_name" />
@@ -361,7 +364,7 @@
     <string name="detail_title">Részletes információk</string>
     <string name="disable_auto_upload_tip">Kikapcsolja az album automatikus mentését Mi Cloudba?</string>
     <string name="disable_auto_upload_title">Mi Cloud szinkronizálás kikapcsolása</string>
-    <string name="do_not_remind_me">Ne jelenjen meg újra</string>
+    <string name="do_not_remind_me">Ne emlékeztessen újra</string>
     <string name="document_provider_guide_step_1">1. Érintse meg a „Több” gombot.</string>
     <string name="document_provider_guide_step_2">2. Érintse meg a „Belső tárhely megjelenítése” gombot.</string>
     <string name="document_provider_guide_step_3">3. Érintse meg az oldalmenü gombot.</string>
@@ -449,7 +452,7 @@
     <string name="error_socket_timeout_action">Válasszon hálózatot</string>
     <string name="error_socket_timeout_msg">Csatlakozzon egy másik hálózathoz és próbálja újra.</string>
     <string name="error_socket_timeout_tip">Kapcsolati időtúllépés.</string>
-    <string name="error_storage_full_action">Tárhely felszabadítása</string>
+    <string name="error_storage_full_action">Tárhely-felszabadítás</string>
     <string name="error_storage_full_msg">Szabadítson fel tárhelyet a készülékén, majd próbálja újra.</string>
     <string name="error_storage_full_tip">Nincs elég tárhely</string>
     <string name="error_sync_off_action">Bekapcsolás</string>
@@ -499,6 +502,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="face_name_edit">Szerkesztés</string>
     <string name="face_name_input">Írja be a nevet</string>
     <string name="face_recommend">Ajánlások</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Nem sikerült befejezni a műveletet</string>
     <string name="fail_to_pick_email">Érvénytelen e-mail cím</string>
     <string name="fail_to_sync_album">Album szinkronizálása sikertelen. Ellenőrizze a hálózat állapotát és próbálja újra.</string>
@@ -509,6 +513,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="feature_guidance_photo_effects">"Új fényképeffektek 
 érhetők el"</string>
     <string name="feature_guidance_video_editor_smart_effects">Új effektek érhetők el</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">Fekete-fehér</string>
     <string name="filter_bi_dusk">Homályos</string>
     <string name="filter_bi_lilt">Lendület</string>
@@ -526,6 +531,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="filter_category_master">Mester</string>
     <string name="filter_category_portrait">Portré</string>
     <string name="filter_category_scene">Tájkép</string>
+    <string name="filter_category_sky">Ég</string>
     <string name="filter_film_blackwhite">Fekete-fehér</string>
     <string name="filter_film_dew">Könnyes</string>
     <string name="filter_film_fade">Fakó</string>
@@ -568,6 +574,17 @@ Készítsen több fotót a barátairól!"</string>
     <string name="filter_scene_series">Tükröződés</string>
     <string name="filter_scene_vivid">Élénk</string>
     <string name="filter_scene_warm">Napos</string>
+    <string name="filter_sky_cloudy">Felhős</string>
+    <string name="filter_sky_detect_forbidden_tips">Nem észlelhető az ég</string>
+    <string name="filter_sky_download_failed">A plug-in letöltése sikertelen. Ellenőrizze a hálózati beállításokat, majd próbálja újra.</string>
+    <string name="filter_sky_download_finish">A plug-in letöltése sikeres</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">Ha nincs WIFI-re csatlakozva, a plug-int (%1$d MB), amely kicseréli a képein az eget, mobiladatforgalommal is letöltheti.</string>
+    <string name="filter_sky_download_sdk_without_wifi_title">Plug-in letöltése</string>
+    <string name="filter_sky_dusk">Alkony</string>
+    <string name="filter_sky_glow">Ragyogás</string>
+    <string name="filter_sky_rainbow">Szivárvány</string>
+    <string name="filter_sky_sunny">Napos</string>
+    <string name="filter_sky_sunset">Napnyugta</string>
     <string name="finish_create_baby_album_toast">\"%s\" album létrehozva a Mi Cloudban</string>
     <string name="finish_fill_baby">Létrehozás</string>
     <string name="flash_off">Vaku nélkül</string>
@@ -581,16 +598,17 @@ Készítsen több fotót a barátairól!"</string>
     <string name="get_album_info_in_process">Megosztott album adatainak lekérése…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
-    <string name="grant_permission_go_and_set">Beállítás</string>
+    <string name="grant_permission_go_and_set">Beállítáa</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"A megfelelő működéshez a Galéria hozzáférést igényel ehhez: 
 %s
 , kattintson a \"Beállítás\" gombra az Engedélyekre lépéshez."</string>
     <string name="grant_permission_title">Hozzáférés engedélyezése</string>
     <string name="grant_permission_unlock_and_set">Feloldás és beállítás</string>
     <string name="has_invalid_recipient">Érvénytelen címzett(ek): %1$s</string>
-    <string name="have_known">Rendben</string>
+    <string name="have_known">Értem</string>
     <string name="hidden_album_display_name">Rejtett album</string>
-    <string name="home_menu_cleaner">Tárhely felszabadítása</string>
+    <string name="home_menu_cleaner">Tárhely-felszabadítás</string>
     <string name="home_menu_collage">Kollázs</string>
     <string name="home_menu_photo_movie">Klip</string>
     <string name="home_menu_print">Fényképek nyomtatása</string>
@@ -835,6 +853,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="people_mark_mode_title_no_mark_name">Válasszon ki egy személyt</string>
     <string name="people_page_label">Személyek</string>
     <string name="people_page_unname">Névtelen</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">Az emberek képeken való megnevezéséhez</string>
     <string name="permission_contract_name">Névjegyzék</string>
     <string name="permission_optional_category">Opcionális engedélyek</string>
@@ -1030,7 +1049,12 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="scan_barcode_to_join">QR-kód beolvasása az album hozzáadásához</string>
     <string name="scan_qr_code_buttom_text">QR-kód beolvasása az album megtekintéséhez</string>
     <string name="screen_doodle_talkback_size">Doodle vonalszélesség</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Kész</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Törlés</string>
     <string name="screen_save_dialog_btn_delete">Képernyőkép törlése</string>
     <string name="screen_save_dialog_btn_save">Mentés a Galériába</string>
@@ -1088,6 +1112,9 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="search_title_recommend">Ajánlott</string>
     <string name="search_title_suggestion">Javaslatok</string>
     <string name="search_title_tag">Tárgyak</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Projektor keresése…</string>
     <string name="secret_album_card_description">A legjobb hely az Ön kis titkai számára</string>
     <string name="secret_album_card_title">Próbálja ki a rejtett albumot</string>
@@ -1107,7 +1134,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="secret_reason_unknow_reasons">Ismeretlen hiba</string>
     <string name="secret_reason_video_not_support">Nem lehet videókat hozzáadni a rejtett albumhoz</string>
     <string name="see_ignore_faces">A már figyelmen kívül hagyottak megtekintése</string>
-    <string name="select_all">Összes kiválaszása</string>
+    <string name="select_all">Összes kijelölése</string>
     <string name="select_image_operation">Fényképek hozzáadása</string>
     <string name="select_item_face">"'%s' van a képen?"</string>
     <string name="select_origin_tip">Eredeti fájl (%s)</string>
@@ -1141,7 +1168,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="share_public_url_text">Megosztottam veled a(z) %1$s albumot. Itt tekintheted meg: %2$s</string>
     <string name="share_with_family">Megosztás a családdal</string>
     <string name="sharer_quota_fulfiled">Már megosztotta ezt az albumot a maximális számú emberrel.</string>
-    <string name="show_hidden_album_title">Láthatatlan albumok megjelenítése</string>
+    <string name="show_hidden_album_title">A rejtett albumok megjelenítése</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Sikeresen áthelyezve, lépjen az Egyéb albumokba megtekinteni</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Sikeresen áthelyezve, lépjen az Albumokba megtekinteni</string>
     <string name="similar_keep_clear">Legjobb felvételek megtartása</string>
@@ -1251,6 +1278,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="today">Ma</string>
     <string name="too_many_recipients">Az üzenet túl sok címzettet tartalmaz (%1$s). Maximum %2$s címzett lehet.</string>
     <string name="trash_bin">Lomtár</string>
+    <string name="trash_bin_key_word">Fényképek törölve</string>
     <string name="trash_bin_summary">Böngésszen a nemrégiben törölt fényképek között</string>
     <string name="try_again_later">Próbálja később.</string>
     <string name="try_to_send">Küldés</string>
@@ -1265,7 +1293,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="unsupport_video">A(z) %s nem működik videóval</string>
     <string name="user_agree">Elfogadás</string>
     <string name="user_agreement2">Szolgáltatási feltételek</string>
-    <string name="user_agreement4">Adatvédelmi irányelvek</string>
+    <string name="user_agreement4">Adatvédelmi Irányelvek</string>
     <string name="user_alias_self">Én</string>
     <string name="user_notice_identify_summary_format">Ön a szolgáltatás használatával elfogadja az alábbiakat: Xiaomi %1$s és %2$s.</string>
     <string name="user_notice_title">Felhasználási feltételek</string>

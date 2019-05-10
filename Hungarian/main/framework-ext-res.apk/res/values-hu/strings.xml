@@ -197,14 +197,12 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="popup_camera_sure">Rendben</string>
     <string name="popup_camera_sure_wait">Rendben (%dmp)</string>
     <string name="popup_camera_front_failed">Az előlapi kamerát nem lehetett megnyitni. Próbálja újra.</string>
-    <string name="popup_camera_front_falied_times">Az előlapi kamerát többször nem lehetett megnyitni. A probléma diagnosztizálásához vigye a készüléket a legközelebb lévő Mi szervízbe.</string>
-    <string name="takeback_camera_front_failed">Az előlapi kamerát nem lehetett becsukni. Próbálja újra.</string>
-    <string name="stop_operate_camera_frequently">Úgy tűnik, Ön túl gyakran váltogatja a kamerákat.</string>
-    <string name="popup_camera_front_when_use">Az előlapi kamera épp foglalt. Mindenképp megnyitja?</string>
+    <string name="takeback_camera_front_failed">Az előlapi kamerát nem lehetett bezárni. Próbálja újra.</string>
+    <string name="stop_operate_camera_frequently">Ön túl gyakran nyitja ki az előlapi kamerát.</string>
     <string name="popup_camera_popup_falied_times_calibrate">Az előlapi kamerát több alkalommal nem lehetett megnyitni. Próbálja meg kalibrálni a kamerát.</string>
     <string name="popup_camera_takeback_falied_times_calibrate">Az előlapi kamerát több alkalommal nem lehetett bezárni. Próbálja meg kalibrálni a kamerát.</string>
     <string name="popup_camera_calibrate_now">Kalibrálás</string>
     <string name="popup_camera_calibrate_success">A kalibrálás sikeres volt. Most megkísérelheti kinyitni az előlapi kamerát.</string>
-    <string name="popup_camera_calibrate_failed">A kalibrálás nem sikerült. A probléma diagnosztizálásához vigye a készüléket a legközelebb lévő Mi szervízbe.</string>
+    <string name="popup_camera_calibrate_failed">Sikertelen kalibrálás</string>
     <string name="popup_camera_using_camera_background">Az előlapi kamerát a következő használja: %s</string>
 </resources>

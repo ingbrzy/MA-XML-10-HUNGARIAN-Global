@@ -219,6 +219,7 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="passport_talkback_switch_image_captcha">Váltás képkódos ellenőrzésre</string>
     <string name="passport_license_info_open">Részletek</string>
     <string name="passport_license_info_collapse">Bezárás</string>
+    <string name="passport_first_login_prompt">Az első belépéskor automatikusan elkészül a Mi Fiók.</string>
     <string name="search_app_name">Mi Fiók</string>
     <string name="search_mi_account">Mi Fiók</string>
     <string name="search_mi_account_key_words">Mi Cloud,Fiókbeállítások,Mi Pay információ,Kijelentkezés</string>
@@ -353,6 +354,8 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="activity_not_found_notice">Nem található az alkalmazás</string>
     <string name="scan_barcode_title">A Mi Fiókba való bejelentkezéshez olvassa be a QR kódot</string>
     <string name="talkback_scan_barcode">QR-kód beolvasása</string>
+    <string name="scan_barcode">A belépéshez olvassa be a QR-kódot</string>
+    <string name="agreement_and_privacy">Adatvédelmi Irányelvek és Felhasználói Szerződés</string>
     <string name="authorize_title">Engedélyezés</string>
     <string name="my_device_title">Jelenlegi készülék</string>
     <string name="device_list_title">Készülékeim</string>
@@ -419,9 +422,8 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="push_notify_dialog_title">Fiók ellenőrzése</string>
     <string name="push_notify_dialog_message">Egy ismeretlen eszköz próbál bejelentkezni a Mi Fiókjába. Adja meg ezt az ellenőrző kódot az eszközön. Ha ez nem Ön volt, azonnal változtassa meg a Mi Fiók jelszavát. Ne mutassa meg az ellenőrző kódot más embereknek.</string>
     <string name="account_secure_info_pref_title">Fiókadatok</string>
-    <string name="account_user_email">E-mail</string>
-    <string name="account_user_phone">Telefon</string>
-    <string name="account_user_recovery_phone">Helyreállító telefon</string>
+    <string name="account_user_email">Helyreállítási e-mail-cím</string>
+    <string name="account_user_phone">Helyreállítási telefonszám</string>
     <string name="input_new_pwd">Adjon meg egy új jelszót</string>
     <string name="confirm_new_pwd">Erősítse meg az új jelszót</string>
     <string name="inconsistent_pwd">A jelszavak nem egyeznek</string>

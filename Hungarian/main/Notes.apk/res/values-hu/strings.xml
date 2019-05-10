@@ -124,9 +124,10 @@
     <string name="note_link_select">Szöveg kiválasztása</string>
     <string name="note_link_tel">Hívás</string>
     <string name="note_link_web">Megtekintés böngészőben</string>
-    <string name="note_sort_way">A Jegyzetek rendezési elve</string>
+    <string name="note_sort_way">Jegyzetrendezési mód</string>
     <string name="notealert_enter">Jegyzet megnyitása</string>
     <string name="notealert_ok">Elvetés</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Jegyzet emlékeztető</string>
     <string name="permdesc_accessNote">Engedélyezésével a rosszindulatú alkalmazások is hozzáférhetnek személyes adataihoz.</string>
     <string name="permission_intro_contact">Hívások közben készített jegyzetek megjelöléséhez</string>
@@ -135,7 +136,7 @@
     <string name="permission_intro_storage">Jegyzetek és mellékletek mentéséhez</string>
     <string name="permlab_accessNote">Hozzáférés a jegyzetekhez</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Ne kérjen megerősítést, ha gesztussal töröl egy jegyzetet</string>
-    <string name="pref_title_cloud_trash_bin">Mi Cloudban tárolt törölt jegyzetek</string>
+    <string name="pref_title_cloud_trash_bin">Törölt jegyzetek a Mi Cloudban</string>
     <string name="pref_title_common">Egyéb beállítás</string>
     <string name="pref_title_font_size">Betűméret</string>
     <string name="pref_title_note_style">Stílus</string>
@@ -166,7 +167,7 @@
     <string name="select_account_prompt">Jegyzet szinkronizálás engedélyezése</string>
     <string name="set_alarm_description">Riasztás beállítása</string>
     <string name="setting_other">EGYÉB</string>
-    <string name="setting_privacy">Adatvédelmi nyilatkozata</string>
+    <string name="setting_privacy">Adatvédelmi Irányelvek</string>
     <string name="snippet_audio_stub">Hangjegyzet</string>
     <string name="snippet_image_stub">Képjegyzet</string>
     <string name="snippet_image_template">[Kép %1$s]</string>

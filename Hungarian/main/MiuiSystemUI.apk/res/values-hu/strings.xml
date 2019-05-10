@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">Kamera</string>
     <string name="accessibility_carrier_network_change_mode">Szolgáltatói hálózat váltása.</string>
     <string name="accessibility_cast_name">%s hálózathoz csatlakoztatva.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">A képernyő kivetítése leállt.</string>
     <string name="accessibility_cell_data">Mobiladat-kapcsolat</string>
     <string name="accessibility_cell_data_off">Mobiladat-kapcsolat kikapcsolva</string>
@@ -324,9 +325,14 @@
     <string name="battery_info_status_full">Teljesen feltöltve</string>
     <string name="battery_info_status_not_charging">Nem töltődik</string>
     <string name="battery_info_status_unknown">Ismeretlen</string>
+    <string name="battery_low_button_not_open_power_save">Nem most</string>
+    <string name="battery_low_button_open_power_save">Bekapcsolás</string>
     <string name="battery_low_percent_format">%d%% maradt</string>
+    <string name="battery_low_percent_format_save_mode_closed">Kevesebb, mint %d%% akkutöltöttség maradt. Tegye töltőre a készülékét.</string>
+    <string name="battery_low_percent_format_save_mode_open">Kevesebb, mint %d%% akkutöltöttség maradt. Kapcsolja be az Akkumulátorkímélőt.</string>
     <string name="battery_low_percent_format_saver_started">%s maradt. Akkumultorkímélő bekapcsolva.</string>
     <string name="battery_low_title">Alacsony akkumulátorszint</string>
+    <string name="battery_low_title_power_save">Akkumulátorkímélő</string>
     <string name="battery_low_why">Beállítások</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_panel_title">Akkumulátorhasználat</string>
@@ -467,6 +473,9 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="category_work">Munkahely</string>
     <string name="charge_length_format">%1$s óta</string>
     <string name="chooseUsbActivity">Válasszon egy alkalmazást</string>
+    <string name="choose_clock_title_left_top">Balra igazított</string>
+    <string name="choose_clock_title_middle">Középre igazított</string>
+    <string name="choose_clock_title_vertical">Függőleges</string>
     <string name="choose_profile">Profilválasztás</string>
     <string name="clear_adb_keys">USB-hibakeresés engedélyeinek visszavonása</string>
     <string name="clear_all_notifications_text">Az összes törlése</string>
@@ -576,6 +585,7 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="dlg_summary_nfc">Az NFC kikapcsolása</string>
     <string name="dlg_summary_title">A Rendkívül erős akkumulátorkímélő leállítja az összes háttérfolyamatot, amint Ön visszatér a Kezdőképernyőre. Amennyiben szeretné, hogy egy alkalmazás a háttérben is futhasson, adja hozzá a Háttérfolyamat-tiltás kivételeihez.</string>
     <string name="dnd_is_off">Ne zavarjanak (DND) kikapcsolva</string>
+    <string name="dnd_notification_warnings_title">"A 'Ne zavarjanak' be van kapcsolva. A hanghívások és az értesítések némításra kerülnek."</string>
     <string name="do_disclosure_generic">Ezt a készüléket az Ön cége kezeli</string>
     <string name="do_disclosure_with_name">Ezt a készüléket a(z) %s kezeli</string>
     <string name="do_not_silence">Ne némítsa le</string>
@@ -654,6 +664,7 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="face_data_manage_delete_msg">Arcadatok törlése</string>
     <string name="face_data_manage_delete_sure">Ha törli, nem fogja tudni arcadatainak segítségével feloldani a készülékét.</string>
     <string name="face_data_manage_delete_title">Arcadatok</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">Miután a képernyő működésbe lépett, húzza felfelé, hogy arcadatokkal oldhassa fel a készüléket.</string>
     <string name="face_data_manage_unlock_msg">Oldja fel a készülékét a saját arcadataival</string>
     <string name="face_data_manage_unlock_slide_msg">A készülék arcalapú feloldása a szétcsúsztatásos műveletindítás helyett</string>
     <string name="face_data_manage_unlock_title">Feloldás arcadatokkal</string>
@@ -669,7 +680,8 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="face_unlock_close_screen">Közelítsen a képernyőhöz</string>
     <string name="face_unlock_down">Emelje feljebb a fejét</string>
     <string name="face_unlock_fail">Az arc nem hitelesíthető</string>
-    <string name="face_unlock_fail_retry">Nem hitelesíthető az arca. Koppintson az ikonra és próbálja újra.</string>
+    <string name="face_unlock_fail_retry">Az Ön arca nem hitelesíthető. Érintse meg felül és próbálja újra.</string>
+    <string name="face_unlock_fail_retry_global">Az Arcalapú feloldás használatához érintse meg felül</string>
     <string name="face_unlock_identify_error">Felismerési hiba történt</string>
     <string name="face_unlock_not_found">Nem sikerült Önt felismerni</string>
     <string name="face_unlock_not_roi">Tartsa az arcát a kereten belül</string>
@@ -691,6 +703,13 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="face_unlock_sc_status">Csúsztassa szét a telefont a kamera megnyitásához</string>
     <string name="face_unlock_stay_away_screen">Tartsa a képernyőt 25-40 cm távolságban</string>
     <string name="face_unlock_success">Az arcadatok sikeresen hitelesítve</string>
+    <string name="face_unlock_success_show_message_dialog_msg">Lehetővé teszi, hogy a Képernyőzáron elolvashatók legyenek a megjelenő értesítések.</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">Nem, köszönöm</string>
+    <string name="face_unlock_success_show_message_dialog_positive_btn">Engedélyezés</string>
+    <string name="face_unlock_success_show_message_dialog_title">Értesítések a képernyőzáron</string>
+    <string name="face_unlock_success_show_message_msg">Ha a készülék lezárt állapotban van, csak az értesítések alapinformációi kerülnek megjelenítésre és csak az arcadatok ellenőrzése után jelenik meg a teljes értesítés</string>
+    <string name="face_unlock_success_show_message_title">Az értesítésrészletek megjelenítése arcadat-ellenőrzés után</string>
+    <string name="face_unlock_success_show_message_toast">Az értesítések megjelenítésre kerülnek a Képernyőzáron</string>
     <string name="face_unlock_success_stay_screen_msg">Sikeres arcfelismerés után is marad a Képernyőzár, míg felfelé nem csúsztat a Kezdőképernyő megnyitásához.</string>
     <string name="face_unlock_success_stay_screen_title">Az arcfeloldás ne nyissa azonnal a Képernyőzárat</string>
     <string name="failed_to_open_app_settings_toast">%1$s beállításainak megnyitása sikertelen</string>
@@ -728,8 +747,8 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="fs_gesture_final_summary">A Beállítások > Képernyővezérlési mód menüpontban vissza tud térni a Gombok használatához</string>
     <string name="fs_gesture_final_title">Készen áll a használatra!</string>
     <string name="fs_gesture_finish">Szép!</string>
-    <string name="fs_gesture_left_back_ready_summary">Húzás a képernyő jobb széléről</string>
-    <string name="fs_gesture_right_back_ready_summary">Húzás a képernyő bal széléről</string>
+    <string name="fs_gesture_left_back_ready_summary">Csúsztasson jobbra a képernyő széléről</string>
+    <string name="fs_gesture_right_back_ready_summary">Csúsztasson balra a képernyő széléről</string>
     <string name="fs_gesture_skip">Vissza</string>
     <string name="fs_gesture_switch_recents_summary">Gyorsan húzza alulról fölfelé, majd állítsa meg a mozdulatot</string>
     <string name="fsg_demo_back">Vissza</string>
@@ -757,6 +776,7 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="gxzw_try_again">Próbálja újra</string>
     <string name="gxzw_try_more_again">Próbálja újra</string>
     <string name="gxzw_use_password">Használja a jelszavát a feloldáshoz</string>
+    <string name="gxzw_use_password_to_unlock">Adja meg a jelszót</string>
     <string name="hdcp_checking_dialog_title">HDCP ellenőrzési viselkedés beállítása</string>
     <string name="hdcp_checking_title">HDCP ellenőrzés</string>
     <string name="headset">Fejhallgató</string>
@@ -872,6 +892,10 @@ Használja a mellékelt töltőt."</string>
     <string name="keyguard_charging_back_to_lockscreen">Vissza a képernyőzárra</string>
     <string name="keyguard_charging_info_battery_used_time_text">Akkumulátorról</string>
     <string name="keyguard_charging_info_click_to_detail">Részletek megjelenítése</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Merülés mértéke</string>
     <string name="keyguard_charging_info_last_charge_time">M.d. H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Ma %s</string>
@@ -896,6 +920,7 @@ Használja a mellékelt töltőt."</string>
     <string name="keyguard_missing_sim_instructions_long">A SIM-kártya hiányzik vagy nem olvasható. Helyezzen be egy SIM-kártyát.</string>
     <string name="keyguard_missing_sim_message">Nincs SIM-kártya a telefonban.</string>
     <string name="keyguard_missing_sim_message_short">Nincs SIM-kártya</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">A hálózat zárolásra került</string>
     <string name="keyguard_password_enter_password_code">Adja meg a jelszót a feloldáshoz</string>
     <string name="keyguard_password_enter_pin_code">Írja be a PIN-kódot</string>
@@ -979,6 +1004,7 @@ Használja a mellékelt töltőt."</string>
     <string name="left_keycode">Bal billentyűkód</string>
     <string name="left_nav_bar_button_type">Az extra bal gomb típusa</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">Érintse meg a teljes Kezdőképernyő-mentések jelszavának megváltoztatásához vagy eltávolításához</string>
     <string name="local_backup_password_summary_none">Jelenleg nem védettek a teljes Kezdőképernyő-mentések</string>
     <string name="local_backup_password_title">Kezdőképernyőmentési jelszó</string>
@@ -1048,6 +1074,7 @@ EEEE"</string>
     <string name="miui_guide_dialog_message">A médiahangok (zenék, videók, stb.) továbbra is lejátszásra kerülnek Néma módban. Ezt a Beállításokban módosíthatja.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth-eszközzel feloldva</string>
     <string name="miui_ringer_count_down">Visszaszámlálás</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Néma</string>
     <string name="miui_ringer_standard_description">Elnémítja a bejövő hívások és az értesítések hangját</string>
     <string name="miui_ringer_total">Ne zavarjanak</string>
@@ -1075,12 +1102,14 @@ EEEE"</string>
 
 További információért forduljon a rendszergazdájához."</string>
     <string name="monitoring_description_ca_cert_settings">Megbízható hitelesítő adatok</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">A készülékre tanúsítványjogosultság van telepítve. Biztonságos hálózati forgalma ellenőrizhető vagy módosítható.</string>
     <string name="monitoring_description_do_body">A rendszergazdája ellenőrizheti és kezelheti a beállításokat, a vállalati hozzáférést, az alkalmazásokat, a készülékhez társított adatokat és a készülék helyinformációit.</string>
     <string name="monitoring_description_do_body_vpn">Ön %1$s alkalmazással csatlakozott, ami ellenőrizheti az Ön hálózati aktivitásait, beleértve az e-mail, alkalmazás és internetes tevékenységeit.</string>
     <string name="monitoring_description_do_header_generic">Az Ön készülékét a(z) %1$s kezeli.</string>
     <string name="monitoring_description_do_header_with_name">%1$s %2$s-t használ az Ön készülékének kezeléséhez.</string>
     <string name="monitoring_description_do_learn_more">További információ</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Az Ön cége tanúsítványjogosultságot telepített az Ön munkaprofiljába. A biztonságos hálózati forgalma figyelemmel kísérhető vagy módosítható.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Munkahelyi profilja %1$s-re csatlakoztatva, ez ellenőrizheti az Ön hálózati aktivitásait, beleértve az e-mail, alkalmazás és internetes tevékenységeit.</string>
     <string name="monitoring_description_management">"Az Ön készülékét a cége kezeli.
@@ -1112,6 +1141,7 @@ További információért forduljon a rendszergazdájához.
 
 Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevékenységét."</string>
     <string name="monitoring_description_vpn_settings">VPN-beállítások megnyitása</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA Tanúsítványok</string>
     <string name="monitoring_subtitle_network_logging">Hálózatnaplózás</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1126,6 +1156,7 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="nav_guide_message">Kézmozdulatok használata a virtuális gombok megjelenítéséhez/elrejtéséhez.</string>
     <string name="nav_guide_ok">Beállítás</string>
     <string name="nav_guide_title">Virtuális gombok elrejtése</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Nincs kijelölt</string>
     <string name="no_multi_window_app">Egyik alkalmazás sem támogatja az osztott képernyős módot</string>
     <string name="no_notification_tips">Nincsenek értesítések</string>
@@ -1139,6 +1170,7 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="notification_channel_controls_closed_accessibility">%1$s értesítési kategóriái be lettek zárva</string>
     <string name="notification_channel_controls_opened_accessibility">%1$s értesítési kategóriái meg lettek nyitva</string>
     <string name="notification_channel_disabled">Ezeket az értesítéseket többé nem fogja megkapni.</string>
+    <string name="notification_channel_dnd">Ne zavarjanak</string>
     <string name="notification_channel_general">Általános üzenetek</string>
     <string name="notification_channel_location">Tartózkodási hely</string>
     <string name="notification_channel_screenbutton">Gombok</string>
@@ -1161,7 +1193,7 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="notification_low_battery_action_btn">Bekapcsolás</string>
     <string name="notification_low_battery_need_charge">Az akkumulátor lemerült. Csatlakoztassa töltőre.</string>
     <string name="notification_low_battery_open_save_mode">Kapcsolja be az akkumulátorkímélőt</string>
-    <string name="notification_low_battery_title">Alacsony akkumulátorszint: %d%%</string>
+    <string name="notification_low_battery_title">Kevesebb, mint %d%% akkutöltöttség maradt</string>
     <string name="notification_manager">Értesítések kezelése</string>
     <string name="notification_manager_des">Értesítések szűrése és kezelése</string>
     <string name="notification_menu_accessibility">%1$s %2$s</string>
@@ -1278,12 +1310,17 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="power_remaining_more_than_subtext">Több, mint %1$s van hátra (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Több, mint %1$s van hátra</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
+    <string name="power_save_ps_clean">Törli a gyorsítótárat, amikor a képernyő lezár</string>
+    <string name="power_save_ps_close_setting">Kikapcsolja a háttérszolgáltatásokat (szinkronizálás, GPS) a fogyasztáscsökkentés érdekében</string>
+    <string name="power_save_ps_freeze">Befagyasztja az alkalmazásokat a háttérben</string>
+    <string name="power_save_ps_limit">Korlátozza a rendszeralkalmazások aktivitását</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="private_dns_mode_off">Kikapcsolva</string>
     <string name="private_dns_mode_opportunistic">Automatikus</string>
     <string name="private_dns_mode_provider">A Privát DNS-szolgáltató hosztneve</string>
     <string name="private_dns_mode_provider_failure">Nem lehet csatlakozni</string>
     <string name="private_dns_mode_provider_hostname_hint">Adja meg a DNS-szolgáltató hosztnevét</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">Lehetséges, hogy a profilt nyomon követik</string>
     <string name="prompt_danger">Veszélyes</string>
     <string name="prompt_detecting">Érzékelés</string>
@@ -1864,6 +1901,7 @@ Minden felhasználó frissítheti az alkalmazásokat az összes többi felhaszn�
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimális</string>
     <string name="wapi_yes">Igen</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Frissítve %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">A hozzáférési pont ideiglenesen telített</string>
     <string name="wifi_auto_sel_wapi_cert">Automatikus választás</string>
@@ -1897,12 +1935,14 @@ Minden felhasználó frissítheti az alkalmazásokat az összes többi felhaszn�
     <string name="wifi_security_none">Nincs</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>

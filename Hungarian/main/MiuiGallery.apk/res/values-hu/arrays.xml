@@ -9,10 +9,19 @@
         <item>Fiú</item>
         <item>Lány</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Biztonsági mentés a Képekbe</item>
+        <item>Képek szinkronizálása a Mi Clouddal</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>Hétvégéim</item>
         <item>Emlékezetes pillanatok</item>
         <item>Hétvégi emlékek</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Áthelyez</item>
+        <item>Másolás</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Január</item>

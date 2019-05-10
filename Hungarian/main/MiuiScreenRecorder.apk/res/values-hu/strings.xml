@@ -9,7 +9,7 @@
     <string name="bit_rate_summary">A magasabb minőség nagyobb fájlokat eredményez</string>
     <string name="bubble_text">Felvétel indításához érintse meg</string>
     <string name="button_back">Vissza</string>
-    <string name="button_clear_storage">Tárhely felszabadítása</string>
+    <string name="button_clear_storage">Tárhely-felszabadítás</string>
     <string name="button_confirm">OK</string>
     <string name="button_goon_recorder">Folytatás</string>
     <string name="cancel_edit">Mégse</string>

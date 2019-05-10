@@ -41,8 +41,8 @@
         <item quantity="one">%1$s üzenet</item>
     </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
-        <item quantity="other">You received %d group chat invitations</item>
-        <item quantity="one">You received %d group chat invitation</item>
+        <item quantity="other">%d meghívás érkezett csoportos csevegésre</item>
+        <item quantity="one">%d meghívás érkezett csoportos csevegésre</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s személy</item>

@@ -38,7 +38,9 @@
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -50,6 +52,7 @@
     <string name="exo_track_surround_7_point_1">7.1-es térhatású hangzás</string>
     <string name="exo_track_unknown">Ismeretlen</string>
     <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_setting_hint">"Érintse meg a gombot a jobb felső sarokban a szolgáltatás bekapcsolásához.
 A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjeleníti az áttetsző háttérképeket az Ön által kiválasztott alkalmazásokban"</string>
     <string name="accessibiliy_description_content_account">Profil</string>
@@ -89,6 +92,7 @@ A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjelen�
     <string name="apply_theme_with_ringtones">Csengőhangok alkalmazása</string>
     <string name="audio_duration_minutes_format">%1$d perc</string>
     <string name="audio_duration_seconds_format">%1$d másodperc</string>
+    <string name="audition_ringtone">Lejátszás</string>
     <string name="automatically_update_using_theme_tips">Legközelebb frissüljön automatikusan</string>
     <string name="backup_theme_dialog_message">Az aktuális téma mentése</string>
     <string name="backup_theme_dialog_ok">Biztonsági mentés</string>
@@ -115,6 +119,7 @@ A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjelen�
     <string name="component_title_settings_video_wallpaper">Háttérképek különleges effektusokkal</string>
     <string name="component_title_video_wallpaper">Háttérképfilmek</string>
     <string name="component_title_wallpaper">Háttérképek</string>
+    <string name="count_down_tip">%ds van hátra</string>
     <string name="current_using_desktop_wallpaper_text">Kezdőképernyő</string>
     <string name="current_using_lockscreen_wallpaper_text">Képernyőzár</string>
     <string name="current_version_incompatible">Nem kompatibilis</string>
@@ -206,11 +211,13 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="incompatible_dialog_ok">OK</string>
     <string name="incompatible_dialog_title">Kompatibilitási problémák</string>
     <string name="is_setting_wallpaper_message">Háttérkép beállítása…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ébresztés/Riasztás</string>
     <string name="item_resource_audio_optional_color_ring">Hívásvárakoztatás hangja</string>
     <string name="item_resource_audio_optional_notification_ring">Értesítések</string>
     <string name="item_resource_audio_optional_phone_ring">Csengőhang</string>
     <string name="lab">Téma labor</string>
+    <string name="like_list">Általam kedvelt elemek</string>
     <string name="live_wallpaper">Élő háttérkép</string>
     <string name="loading">Egy pillanat…</string>
     <string name="loading_resource_detail_fail">Téma betöltése nem sikerült!</string>
@@ -277,6 +284,7 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="online_precust_plant">Növények</string>
     <string name="online_precust_scenery">Tájak</string>
     <string name="online_search_hint">Források online keresése</string>
+    <string name="playing_ringtone">Lejátszás</string>
     <string name="pref_privacy_policy">Adatvédelmi politika</string>
     <string name="present_local_fonts">Betűtípusaim</string>
     <string name="present_local_themes">Témáim</string>
@@ -309,7 +317,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_alarm_default">Riasztás</string>
     <string name="resource_app_name">Források megtekintése</string>
     <string name="resource_apply">Alkalmazás</string>
-    <string name="resource_apply_trial">Kipróbálom</string>
     <string name="resource_back">Vissza</string>
     <string name="resource_buy">Vásárlás</string>
     <string name="resource_can_not_selected">%1$s nincs kiválasztva!</string>
@@ -380,7 +387,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_download">Letöltés</string>
     <string name="resource_download_notification_title_many">%1$s téma letöltve</string>
     <string name="resource_download_notification_title_one">Téma letöltve</string>
-    <string name="resource_download_trial">Kipróbálom</string>
     <string name="resource_downloaded_title">Letöltött témák</string>
     <string name="resource_downloading">Letöltés</string>
     <string name="resource_exchange">Kódbeváltás</string>
@@ -435,6 +441,7 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_pack_price_info">%1$s eredeti</string>
     <string name="resource_pack_warning">Figyelmeztetés! Már megvásárolt %1$d témát, az aktuális ár már nem érvényes, kérjük vásárolja meg őket külön-külön.</string>
     <string name="resource_present">Ajándék</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Ingyenes</string>
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_purchase_common_error">Hiba történt, próbálja újra</string>
@@ -446,6 +453,10 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_ranking">Népszerű</string>
     <string name="resource_ranking_free">Ingyenes</string>
     <string name="resource_ranking_purchase">Fizetős</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Csengőhangok</string>
     <string name="resource_ringtone_playing_error">lejátszási hiba</string>
     <string name="resource_ringtone_volume_mute">Csengőhang lenémítva</string>
@@ -540,8 +551,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="theme_changed_failed_message">A téma beállítása nem sikerült.</string>
     <string name="theme_changed_message">Téma beállítva</string>
     <string name="theme_changing_dialog_title">Téma alkalmazása. Kérjük, várjon...</string>
-    <string name="theme_comment_dialog_message">Értékelje az alkalmazást és mondja el nekünk, mit gondol.</string>
-    <string name="theme_comment_dialog_ok">Értékelés</string>
     <string name="theme_component_title_alarm">Riasztások</string>
     <string name="theme_component_title_alarmstyle">Riasztás</string>
     <string name="theme_component_title_all">Témák</string>
@@ -585,13 +594,13 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="theme_is_external_priority_storage">Mentés az SD-kártyára</string>
     <string name="theme_is_external_priority_storage_summary">A beállítás alkalmazásához a Téma alkalmazás újra fog indulni</string>
     <string name="theme_multiple_button_title_customize">Testreszabás</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Nem</string>
     <string name="theme_purchased_list_empty">Még nem vásárolt témát.</string>
     <string name="theme_purchased_non_local">Nem helyi</string>
     <string name="theme_select_others">Egyéb</string>
     <string name="theme_setting">Beállítások</string>
     <string name="theme_staggered_item_text">Fogadjon Mi Credits-eket</string>
-    <string name="theme_to_comment">Nem rossz!</string>
     <string name="theme_user_agreement_allow">Elfogadás</string>
     <string name="theme_user_agreement_content1">"Elolvastam és megértettem a "</string>
     <string name="theme_user_agreement_content2">Felhasználói Szerződés</string>
@@ -630,6 +639,17 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="transparent_wallpaper_guide">Tovább a Témákhoz</string>
     <string name="transparent_wallpaper_guide_tip">Mostantól áttetsző hátteret is kiválaszthat a Témáknál.</string>
     <string name="transparent_wallpaper_pref_summary">Háttérképek csökkentett háttér áttetszőséggel</string>
+    <string name="transparent_wallpaper_white_wallpaper">Háttér fehérre festése</string>
+    <string name="transparent_wallpaper_white_wallpaper_failed">Nem lehet fehérre állítani a háttérszínt</string>
+    <string name="transparent_wallpaper_white_wallpaper_success">A háttérszín mostantól fehér</string>
+    <string name="transparent_wallpaper_white_wallpaper_tip">Az áttetsző háttérkép fehér háttéren néz ki a legjobban</string>
+    <string name="trial_count_empty">Nincs több ingyenes elem mára. Nézzen vissza holnap is!</string>
+    <string name="trial_count_tip">A próbaidőszak %1$s:%2$s:%3$s időn belül véget ér</string>
+    <string name="trial_for_free">Ingyenes próbaidőszak</string>
+    <string name="trial_get_failed_tip">Nézze végig a videót és szerezze meg a témát.</string>
+    <string name="trial_get_success_tip">Gratulálunk! Ön szert tett egz 3 napos próbaidőszakra.</string>
+    <string name="trial_now">Próbálja ki most</string>
+    <string name="try_5_min">Próbálja ki 5 percig</string>
     <string name="uid_change_dialog_message">Ön törölte a frissítéseket. Indítsa újra a készüléket, hogy használhassa a témákat.</string>
     <string name="uid_change_dialog_ok">Rendben</string>
     <string name="uid_change_dialog_title">Készülék újraindítása</string>
@@ -647,6 +667,11 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="using_theme_next_automatic_update">Automatikus frissítések</string>
     <string name="using_theme_next_automatic_update_summary">Letöltött témák automatikus frissítése Wi-Fi-n keresztül lezárt képernyőnél</string>
     <string name="using_theme_show_ad">Ajánlások</string>
+    <string name="video_ad_click">Próbálja ki most</string>
+    <string name="video_ad_try_for_free">Ingyenes próbaidőszak</string>
+    <string name="video_ad_uncomplete_tip">Nézze végig a videót és szerezze meg a témát.</string>
+    <string name="video_ad_uncomplete_tip_cancel">Mégse</string>
+    <string name="video_ad_uncomplete_tip_continue">Megtekintés folytatása</string>
     <string name="video_audio_apply_success">Videó hanggal sikeresen beállítva</string>
     <string name="video_data_tips_message">Mobiladat-kapcsolat használata további költségeket generálhat. Biztosan folytatja?</string>
     <string name="video_data_tips_title">Adathasználati figyelmeztetés</string>

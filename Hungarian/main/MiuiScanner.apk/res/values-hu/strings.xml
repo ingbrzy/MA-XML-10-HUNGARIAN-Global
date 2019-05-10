@@ -39,6 +39,7 @@
     <string name="business_card">Névjegykártya</string>
     <string name="business_card_result_title">Névjegykártya</string>
     <string name="business_card_title">Helyezze a névjegykártyát a kereten belülre</string>
+    <string name="business_card_with_qr_code">Helyezze a névjegykártyát vagy a QR-kódot a kereten belülre</string>
     <string name="business_copy">Másolás</string>
     <string name="business_new_contacts">Névjegy létrehozása</string>
     <string name="business_no_result">Nem sikerült felismerni a névjegykártyát. Próbálja újra.</string>

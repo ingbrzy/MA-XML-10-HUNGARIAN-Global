@@ -38,8 +38,8 @@
         <item>Óriási</item>
     </string-array>
     <string-array name="note_sort_way">
-        <item>Létrehozás dátuma szerint</item>
-        <item>Módosítás dátuma szerint</item>
+        <item>Létrehozási dátum szerint</item>
+        <item>Módosítási dátum szerint</item>
     </string-array>
     <string-array name="second_guide_contents">
         <item>Hangjegyzetek</item>

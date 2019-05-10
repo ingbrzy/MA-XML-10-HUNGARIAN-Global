@@ -102,6 +102,7 @@
     <string name="card_title_change">Továbbiak</string>
     <string name="cards_language_hint">Néhány kártya lehet, hogy nem érhető el az Ön által kiválasztott nyelven.</string>
     <string name="change_response_title">Válasz módosítása</string>
+    <string name="change_zodiac">Csillagjegy módosítása</string>
     <string name="click_to_share">Koppintson a megosztáshoz</string>
     <string name="close_alarm">Kikapcsol</string>
     <string name="contacts_permission_desc">Névjegy elérése</string>
@@ -135,6 +136,7 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="date_interval_text_to">Eddig: %1$s</string>
     <string name="date_jump_hint">Ugrás közvetlenül egy bizonyos napra</string>
     <string name="date_jump_title">Dátumhoz ugrás</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (ma)"</string>
     <string name="day_view_new_event_hint">Új esemény</string>
     <string name="default_reminder_mode">Emlékeztetők</string>
@@ -203,6 +205,7 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="event_view">Esemény megtekintése</string>
     <string name="every_weekday">Hétköznapokon (hétfőtől–péntekig)</string>
     <string name="fb_birthday_failure">Nem sikerült a születésnapok importálása Facebookról. Próbáld újra.</string>
+    <string name="fb_birthday_region_warning">Ez a funkció nem áll rendelkezésre az Ön régiójában</string>
     <string name="fb_birthday_success">Születésnapok importálása Facebookból sikeres</string>
     <string name="fb_calendar_account_name">Mi helyi naptár</string>
     <string name="fb_calendar_display_name">Facebook barátaid születésnapjai</string>
@@ -291,6 +294,7 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="month_view">Hónap</string>
     <string name="monthly">Havonta</string>
     <string name="monthly_on_day">Havonta (ugyanazon a napon)</string>
+    <string name="monthly_on_day_count">Havonta (%1$s)</string>
     <string name="network_not_available">Nem sikerült csatlakozni a hálózathoz</string>
     <string name="new_event_description">Új</string>
     <string name="news">Hírek</string>
