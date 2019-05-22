@@ -205,4 +205,6 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="popup_camera_calibrate_success">A kalibrálás sikeres volt. Most megkísérelheti kinyitni az előlapi kamerát.</string>
     <string name="popup_camera_calibrate_failed">Sikertelen kalibrálás</string>
     <string name="popup_camera_using_camera_background">Az előlapi kamerát a következő használja: %s</string>
+    <string name="sim_lock_non_ais_msg">SIM-kártyája nem fog teljes értékűen működni ebben a telefonban, mert nem felel meg az előfizetése feltételeinek. Ha bármilyen kérdése van, vagy további információra van szüksége ebben az ügyben, kérjük, lépjen kapcsolatba a Xiaomi szervizzel vagy a bolttal, ahol a készüléket vásárolta.</string>
+    <string name="sim_lock_now_ais_title">%1$d. SIM</string>
 </resources>

@@ -6,6 +6,9 @@ Méret: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatkozik az %1$s
 Delta frissítés mérete: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Az adattároló eszköz nem elérhető, ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Nem sikerült elindítani a letöltést. győződjön meg róla, hogy a letöltéskezelő megfelelően működik.</string>
     <string name="app_name">Biztonsági mentés</string>
     <string name="local_app_name">Biztonsági mentés</string>
@@ -226,6 +229,7 @@ Delta frissítés mérete: %2$s"</string>
     <string name="restore_backup">Visszaállítás</string>
     <string name="enable_encrypt_description">Titkosítás</string>
     <string name="disable_encrypt_description">Nincs titkosítás</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Egy pillanat…</string>
     <string name="state_mounting">A router tárhelyének felcsatolása…</string>
     <string name="abort_backup_confirm">A mentés még nem fejeződött be. Mégis leállítja?</string>
@@ -255,7 +259,7 @@ Delta frissítés mérete: %2$s"</string>
     <string name="err_pkg_not_exist">Az alkalmazás nem található.</string>
     <string name="err_user_abort">Felhasználó által megszakítva.</string>
     <string name="err_binder_died">Az alkalmazás váratlanul leállt.</string>
-    <string name="err_no_gms">Nem kompatibilis alkalmazásverzió. Telepítse ezt az alkalmazást elkülönítve</string>
+    <string name="err_no_gms">Nem kompatibilis alkalmazásverzió. Telepítse ezt az alkalmazást elkülönítve.</string>
     <string name="backup_is_running">Készülék biztonsági mentése</string>
     <string name="restore_is_running">Visszaállítás biztonsági mentésből</string>
     <string name="notif_backup_title">Adatok mentése</string>
@@ -565,6 +569,7 @@ https://appleid.apple.com/#!&amp;page=signin weboldalra"</string>
 készítenie kell egy iCloud mentést."</string>
     <string name="list_footer_tip_title">Tippek:</string>
     <string name="import_tip_summary">Kompatibilitási problémák miatt adatainak csak egy részét importálhatja iOS készülékéről. Mielőtt elkezdené a Mi Átköltözést, győződjön meg róla, hogy készített iCloud mentést.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Importálás</string>
     <string name="select_empty">Elemek kiválasztása importáláshoz</string>
     <string name="select_item_summary_wait">Várakozás…</string>
@@ -637,4 +642,11 @@ Gyorsabb lehet, ha csak a fontos elemeket állítja vissza."</string>
 Szabadítson fel tárhelyet vagy több apróbb átvitelt vigyen véghez."</string>
     <string name="usb_trans_old_phone_low_space_title">Nincs elég tárhely</string>
     <string name="usb_trans_old_phone_low_space_msg">Több tárhelyre van szüksége a mentéseinek becsomagolásához. Nincs elegendő szabad tárhely az átvitel folytatásához. A Biztonság alkalmazásban tud helyet felszabadítani és felesleges fájlokat törölni vagy csak a legfontosabb elemeket vigye át.</string>
+    <string name="dialog_app_upgrade_message">Elérhető a Mi Átköltözés új verziója. Frissíti most a Mi Átköltözést?</string>
+    <string name="dialog_app_upgrade_exit">Kilépés</string>
+    <string name="dialog_app_upgrade_download">Frissítés</string>
+    <string name="dialog_backup_password_change_machine_tips">Jelszóval védett mentéseket nem tud átmásolni. A Mi Átköltözés használata előtt kapcsolja ki a mentés jelszóvédelmét.</string>
+    <string name="dialog_backup_password_backup_tips">Ha a mentések jelszavas védelme aktív, akkor nem tudja menteni az elemeket. Kapcsolja ki a jelszóvédelmet.</string>
+    <string name="dialog_backup_password_cancel">Mégse</string>
+    <string name="dialog_backup_password_to_settings">Beállítások</string>
 </resources>

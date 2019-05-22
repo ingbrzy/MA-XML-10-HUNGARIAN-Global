@@ -127,6 +127,7 @@
     <string name="note_sort_way">Jegyzetrendezési mód</string>
     <string name="notealert_enter">Jegyzet megnyitása</string>
     <string name="notealert_ok">Elvetés</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Jegyzet emlékeztető</string>
     <string name="permdesc_accessNote">Engedélyezésével a rosszindulatú alkalmazások is hozzáférhetnek személyes adataihoz.</string>
     <string name="permission_intro_contact">Hívások közben készített jegyzetek megjelöléséhez</string>

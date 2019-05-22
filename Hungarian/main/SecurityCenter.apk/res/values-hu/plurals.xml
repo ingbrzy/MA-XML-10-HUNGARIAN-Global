@@ -132,6 +132,14 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="other">%d perc hozzáadása</item>
         <item quantity="one">%d perc hozzáadása</item>
     </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d alkalmazás (%1$s is) nagyon meríti az akkumulátort</item>
+        <item quantity="one">%2$d alkalmazás (%1$s is) nagyon meríti az akkumulátort</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d alkalmazás fogyasztja nagyon az akkumulátort</item>
+        <item quantity="one">%d alkalmazás fogyasztja nagyon az akkumulátort</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">%1$d személy töltötte le</item>
         <item quantity="one">%1$d személy töltötte le</item>
@@ -367,6 +375,10 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%d napja folyamatosan bejelentkezve</item>
         <item quantity="one">%d alkalommal bejelentkezve</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d szolgáltatás</item>
+        <item quantity="one">%d szolgáltatás</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d további karakter</item>

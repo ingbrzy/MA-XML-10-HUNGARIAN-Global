@@ -20,10 +20,6 @@
         <item quantity="other">Nagyon rövid késleltetés (%1$d ms)</item>
         <item quantity="one">Nagyon rövid késleltetés (%1$d ms)</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$sóra %2$s"</item>
-        <item quantity="one">" %1$sóra %2$s"</item>
-    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Kikapcsolva %d alkalmazásnál</item>
         <item quantity="one">Kikapcsolva %d alkalmazásnál</item>

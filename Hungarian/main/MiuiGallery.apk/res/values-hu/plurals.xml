@@ -80,6 +80,10 @@
         <item quantity="other">%d videó</item>
         <item quantity="one">%d videó</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">A kollázsok 1-%d képből állhatnak</item>
+        <item quantity="one">A kollázsok 1-%d képből állhatnak</item>
+    </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Válasszon ki max. %d képet</item>
         <item quantity="one">Válasszon ki max. %d képet</item>

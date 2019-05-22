@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Hozzáadás a munkatérhez</string>
     <string name="activity_not_found">Ez az alkalmazás nincs telepítve a készülékén</string>
     <string name="add_screen">Képernyő hozzáadása</string>
@@ -367,7 +368,9 @@
     <string name="widget_global_search">Keresés</string>
     <string name="widget_quick_function">Gyorsfunkciók</string>
     <string name="widgets_preview_title">Minialkalmazás hozzáadása</string>
-    <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
-    <string name="privacy_thumbnail_blur_title">Blur app previews</string>
+    <string name="activity_not_unlocked">Az alkalmazások megnyitása előtt várjon, amíyg eszköze teljesen újrabootol</string>
+    <string name="default_folder_title_meitu">Meitu</string>
+    <string name="privacy_thumbnail_blur_summary">Blur app előnézetek a Legújabbak mappában</string>
+    <string name="privacy_thumbnail_blur_title">Blur app előnézetek</string>
     <string name="system_shortcuts_more_operation">Alkalmazásadatok</string>
 </resources>
