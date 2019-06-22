@@ -149,9 +149,7 @@ A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjelen�
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -228,7 +226,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="incompatible_dialog_ok">OK</string>
     <string name="incompatible_dialog_title">Kompatibilitási problémák</string>
     <string name="is_setting_wallpaper_message">Háttérkép beállítása…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ébresztés/Riasztás</string>
     <string name="item_resource_audio_optional_color_ring">Hívásvárakoztatás hangja</string>
     <string name="item_resource_audio_optional_notification_ring">Értesítések</string>
@@ -462,7 +459,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_pack_price_info">%1$s eredeti</string>
     <string name="resource_pack_warning">Figyelmeztetés! Már megvásárolt %1$d témát, az aktuális ár már nem érvényes, kérjük vásárolja meg őket külön-külön.</string>
     <string name="resource_present">Ajándék</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Ingyenes</string>
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_purchase_common_error">Hiba történt, próbálja újra</string>
@@ -474,10 +470,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_ranking">Népszerű</string>
     <string name="resource_ranking_free">Ingyenes</string>
     <string name="resource_ranking_purchase">Fizetős</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
-    <string name="resource_ring_ranking_list_rank_1">1</string>
-    <string name="resource_ring_ranking_list_rank_2">2</string>
-    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Csengőhangok</string>
     <string name="resource_ringtone_playing_error">lejátszási hiba</string>
     <string name="resource_ringtone_volume_mute">Csengőhang lenémítva</string>
@@ -555,7 +547,6 @@ Link: %2$s"</string>
     <string name="shortcut_title">Kedveli háttérképeinket?</string>
     <string name="show_free">Az ingyenes %1$s megjelenítése</string>
     <string name="show_incompatible">A nem kompatibilis %1$s megjelenítése</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="swipe_find_more">Húzza fel a további lehetőségekhez</string>
     <string name="system_precust">Előre telepített</string>
     <string name="the_picture_is_not_support">A képformátum nem támogatott</string>
@@ -618,7 +609,6 @@ Link: %2$s"</string>
     <string name="theme_is_external_priority_storage">Mentés az SD-kártyára</string>
     <string name="theme_is_external_priority_storage_summary">A beállítás alkalmazásához a Téma alkalmazás újra fog indulni</string>
     <string name="theme_multiple_button_title_customize">Testreszabás</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">Nem</string>
     <string name="theme_purchased_list_empty">Még nem vásárolt témát.</string>
     <string name="theme_purchased_non_local">Nem helyi</string>

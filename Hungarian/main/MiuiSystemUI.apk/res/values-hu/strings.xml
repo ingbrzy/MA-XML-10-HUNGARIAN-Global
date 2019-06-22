@@ -63,7 +63,6 @@
     <string name="accessibility_camera_button">Kamera</string>
     <string name="accessibility_carrier_network_change_mode">Szolgáltatói hálózat váltása.</string>
     <string name="accessibility_cast_name">%s hálózathoz csatlakoztatva.</string>
-    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">A képernyő kivetítése leállt.</string>
     <string name="accessibility_cell_data">Mobiladat-kapcsolat</string>
     <string name="accessibility_cell_data_off">Mobiladat-kapcsolat kikapcsolva</string>
@@ -888,10 +887,6 @@ Használja a mellékelt töltőt."</string>
     <string name="keyguard_charged">Feltöltve</string>
     <string name="keyguard_charging_back_to_lockscreen">Vissza a képernyőzárra</string>
     <string name="keyguard_charging_info_battery_used_time_text">Akkumulátorról</string>
-    <string name="keyguard_charging_info_data_c">%s℃</string>
-    <string name="keyguard_charging_info_data_ma">%smA</string>
-    <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Merülés mértéke</string>
     <string name="keyguard_charging_info_last_charge_time">M.d. H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Ma %s</string>
@@ -919,7 +914,6 @@ Használja a mellékelt töltőt."</string>
     <string name="keyguard_missing_sim_instructions_long">A SIM-kártya hiányzik vagy nem olvasható. Helyezzen be egy SIM-kártyát.</string>
     <string name="keyguard_missing_sim_message">Nincs SIM-kártya a telefonban.</string>
     <string name="keyguard_missing_sim_message_short">Nincs SIM-kártya</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">A hálózat zárolásra került</string>
     <string name="keyguard_password_enter_password_code">Adja meg a jelszót a feloldáshoz</string>
     <string name="keyguard_password_enter_pin_code">Írja be a PIN-kódot</string>
@@ -1003,7 +997,6 @@ Használja a mellékelt töltőt."</string>
     <string name="left_keycode">Bal billentyűkód</string>
     <string name="left_nav_bar_button_type">Az extra bal gomb típusa</string>
     <string name="legacy_vpn_name">VPN</string>
-    <string name="list_delimeter">", "</string>
     <string name="local_backup_password_summary_change">A teljes ADB-mentések jelszavának megváltoztatása vagy eltávolítása</string>
     <string name="local_backup_password_summary_none">Jelenleg nem védettek a teljes ADB-mentések</string>
     <string name="local_backup_password_title">Az asztali mentés jelszava</string>
@@ -1077,7 +1070,6 @@ készítéséhez érintse meg"</string>
     <string name="miui_guide_dialog_message">A médiahangok (zenék, videók, stb.) továbbra is lejátszásra kerülnek Néma módban. Ezt a Beállításokban módosíthatja.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth-eszközzel feloldva</string>
     <string name="miui_ringer_count_down">Visszaszámlálás</string>
-    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Néma</string>
     <string name="miui_ringer_standard_description">Elnémítja a bejövő hívások és az értesítések hangját</string>
     <string name="miui_ringer_total">Ne zavarjanak</string>
@@ -1105,14 +1097,12 @@ készítéséhez érintse meg"</string>
 
 További információért forduljon a rendszergazdájához."</string>
     <string name="monitoring_description_ca_cert_settings">Megbízható hitelesítő adatok</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">A készülékre tanúsítványjogosultság van telepítve. Biztonságos hálózati forgalma ellenőrizhető vagy módosítható.</string>
     <string name="monitoring_description_do_body">A rendszergazdája ellenőrizheti és kezelheti a beállításokat, a vállalati hozzáférést, az alkalmazásokat, a készülékhez társított adatokat és a készülék helyinformációit.</string>
     <string name="monitoring_description_do_body_vpn">Ön %1$s alkalmazással csatlakozott, ami ellenőrizheti az Ön hálózati aktivitásait, beleértve az e-mail, alkalmazás és internetes tevékenységeit.</string>
     <string name="monitoring_description_do_header_generic">Az Ön készülékét a(z) %1$s kezeli.</string>
     <string name="monitoring_description_do_header_with_name">%1$s %2$s-t használ az Ön készülékének kezeléséhez.</string>
     <string name="monitoring_description_do_learn_more">További információ</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Az Ön cége tanúsítványjogosultságot telepített az Ön munkaprofiljába. A biztonságos hálózati forgalma figyelemmel kísérhető vagy módosítható.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Munkahelyi profilja %1$s-re csatlakoztatva, ez ellenőrizheti az Ön hálózati aktivitásait, beleértve az e-mail, alkalmazás és internetes tevékenységeit.</string>
     <string name="monitoring_description_management">"Az Ön készülékét a cége kezeli.
@@ -1144,7 +1134,6 @@ További információért forduljon a rendszergazdájához.
 
 Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevékenységét."</string>
     <string name="monitoring_description_vpn_settings">VPN-beállítások megnyitása</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA Tanúsítványok</string>
     <string name="monitoring_subtitle_network_logging">Hálózatnaplózás</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1159,7 +1148,6 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="nav_guide_message">Kézmozdulatok használata a virtuális gombok megjelenítéséhez/elrejtéséhez.</string>
     <string name="nav_guide_ok">Beállítás</string>
     <string name="nav_guide_title">Virtuális gombok elrejtése</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Nincs kijelölt</string>
     <string name="no_multi_window_app">Egyik alkalmazás sem támogatja az osztott képernyős módot</string>
     <string name="no_notification_tips">Nincsenek értesítések</string>
@@ -1323,7 +1311,6 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="private_dns_mode_provider">A Privát DNS-szolgáltató hosztneve</string>
     <string name="private_dns_mode_provider_failure">Nem lehet csatlakozni</string>
     <string name="private_dns_mode_provider_hostname_hint">Adja meg a DNS-szolgáltató hosztnevét</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">Lehetséges, hogy a profilt nyomon követik</string>
     <string name="prompt_danger">Veszélyes</string>
     <string name="prompt_detecting">Érzékelés</string>
@@ -1904,7 +1891,6 @@ Minden felhasználó frissítheti az alkalmazásokat az összes többi felhaszn�
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimális</string>
     <string name="wapi_yes">Igen</string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Frissítve %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">A hozzáférési pont ideiglenesen telített</string>
     <string name="wifi_auto_sel_wapi_cert">Automatikus választás</string>
@@ -1938,14 +1924,12 @@ Minden felhasználó frissítheti az alkalmazásokat az összes többi felhaszn�
     <string name="wifi_security_none">Nincs</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
