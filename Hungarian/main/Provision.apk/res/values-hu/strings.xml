@@ -56,6 +56,7 @@ A MIUI használata előtt el kell fogadnia a Felhasználási Feltételeket és a
     <string name="terms_of_use_label_systemhelper">, Önállóan bejegyzett szolgáltatáshoz</string>
     <string name="terms_of_use_lable_smart_cards">, Okoskártyákhoz</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
+    <string name="terms_of_use_label_updater">, Frissítés</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 A Facemoji használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Irányelveit."</string>

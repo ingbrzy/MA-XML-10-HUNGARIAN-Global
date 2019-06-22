@@ -132,6 +132,54 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="other">%d perc hozzáadása</item>
         <item quantity="one">%d perc hozzáadása</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s nap</item>
+        <item quantity="one">%s nap</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">%s óra</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s perc</item>
+        <item quantity="one">%s perc</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s nap van hátra</item>
+        <item quantity="one">%s nap van hátra</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s óra van hátra</item>
+        <item quantity="one">%s óra van hátra</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s perc van hátra</item>
+        <item quantity="one">%s perc van hátra</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s nap van hátra</item>
+        <item quantity="one">%s nap van hátra</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s óra van hátra</item>
+        <item quantity="one">%s óra van hátra</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s perc van hátra</item>
+        <item quantity="one">%s perc van hátra</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s nap a teljes töltésig</item>
+        <item quantity="one">%s nap a teljes töltésig</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s óra a teljes töltésig</item>
+        <item quantity="one">%s óra a teljes töltésig</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s perc a teljes töltésig</item>
+        <item quantity="one">%s perc a teljes töltésig</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d alkalmazás (%1$s is) nagyon meríti az akkumulátort</item>
         <item quantity="one">%2$d alkalmazás (%1$s is) nagyon meríti az akkumulátort</item>

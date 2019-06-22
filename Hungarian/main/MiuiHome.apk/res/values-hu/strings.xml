@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">Hozzáadás a munkatérhez</string>
     <string name="activity_not_found">Ez az alkalmazás nincs telepítve a készülékén</string>
+    <string name="activity_not_unlocked">Az alkalmazások megnyitása előtt várjon, amíyg eszköze teljesen újrabootol</string>
     <string name="add_screen">Képernyő hozzáadása</string>
     <string name="announce_for_app_move_in_folder">A(z) %1$d helyzetre ugrott a mappában</string>
     <string name="announce_for_checked">%1$s, ellenőrizve</string>
@@ -30,9 +31,11 @@
     <string name="announce_for_open_default_preview">Megnyíltak az alapértelmezett Kezdőképernyő-beállítások</string>
     <string name="announce_for_open_folder">%1$s mappa megnyitva</string>
     <string name="announce_for_open_launcher_menu">A Menü megnyílt</string>
+    <string name="announce_for_search_bar">Keresősáv</string>
     <string name="announce_for_show_uninstall_dialog">A törlést jelző párbeszédablak megjelent. Hagyja jóvá vagy utasítsa el.</string>
     <string name="announce_for_unchecked">%1$s, nincs ellenőrizve</string>
     <string name="announce_for_widget_span">Széleség %1$d, magasság %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">Már van ilyen alkalmazás</string>
     <string name="app_being_backup_message">Alkalmazás mentése folyamatban.</string>
     <string name="app_being_restored_message">Alkalmazás visszaállítása folyamatban</string>
@@ -92,6 +95,7 @@
     <string name="defalut_launcher_title">Alapértelmezett kezdőképernyő</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Játékok</string>
+    <string name="default_folder_title_meitu">Meitu appok</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">További alkalmazások</string>
     <string name="default_folder_title_security">Biztonsági központ</string>
@@ -205,7 +209,7 @@
     <string name="launcher_not_exist">Hiba történt. Lépjen vissza a Kezdőképernyőre majd próbálja újra.</string>
     <string name="launcher_pull_down_title">Húzza lefelé az ujját a Kezdőképernyőn</string>
     <string name="launcher_slide_up_title">Húzza felfelé az ujját a Kezdőképernyőn</string>
-    <string name="launcher_sliding_up_gesture">Húzza felfelé a Kezdőképernyőn a Keresés megnyitásához</string>
+    <string name="launcher_sliding_up_gesture">Keresés indításához húzzon felfelé a Kezdőképernyőn</string>
     <string name="launcher_title">Kezdőképernyő és előzmények</string>
     <string name="like">Kedvencekhez adás</string>
     <string name="liked">Kedvencekhez adva</string>
@@ -220,7 +224,7 @@
     <string name="memory_clear_nothing_result">Nincs tisztítandó adat a gyorsítótárban</string>
     <string name="memory_clear_result">%1$sB felszabadítva</string>
     <string name="menu_add">Hozzáadás</string>
-    <string name="menu_auto_fill_of_uninstall">Nem telepített alkalmazások celláinak kitöltése</string>
+    <string name="menu_auto_fill_of_uninstall">Töltse ki az eltávolított alkalmazások ikonhelyét</string>
     <string name="menu_back_desktop">Vissza a kezdőlapra</string>
     <string name="menu_cell_setting">Kezdőképernyő-elrendezés</string>
     <string name="menu_customize">Beállítások</string>
@@ -288,6 +292,8 @@
     <string name="preferences_general_title">További beállítások</string>
     <string name="preferences_title">Kezdőképernyő beállításai</string>
     <string name="preferred_app_settings_not_selected">Nincs kiválasztott</string>
+    <string name="privacy_thumbnail_blur_summary">Blur app előnézetek a Legújabbak mappában</string>
+    <string name="privacy_thumbnail_blur_title">Blur app előnézetek</string>
     <string name="quick_app">Gyors alkalmazások</string>
     <string name="recents_config_title">Előzmények</string>
     <string name="recommend_apk_size_and_desc">%1$dMB / %2$s</string>
@@ -315,6 +321,9 @@
     <string name="setting_wallpaper_tip">Áthelyezés vagy kicsinyítés</string>
     <string name="settings">Beállítások</string>
     <string name="settings_shortcut">Beállítások parancsikon</string>
+    <string name="shake_to_align_icons">Az üres cellák ikonokkal való megtöltéséhez rázza meg az eszközt</string>
+    <string name="shake_to_align_icons_summary">Az üres cellák ikonokkal való automatikus megtöltéséhez rázza meg az eszközt Szerkesztés módban</string>
+    <string name="shake_to_align_icons_title">Rázza meg az eszközt az üres cellák megtöltéséhez</string>
     <string name="share">Megosztás</string>
     <string name="show_all">Mind mutatása</string>
     <string name="show_mem_info_title">Memóriaállapot kijelzése</string>
@@ -324,11 +333,13 @@
     <string name="sort_by_not_defined">Alapértelmezett sorrend</string>
     <string name="start_activity_failed">Nem sikerült az elindítás, próbálja meg később</string>
     <string name="starting_preset_app">Kezdő...</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">Letöltve</string>
     <string name="status_downloading">Letöltés</string>
     <string name="status_installing">Telepítés</string>
     <string name="status_paused">Szüneteltetve</string>
     <string name="status_pending">Várakozás</string>
+    <string name="system_shortcuts_more_operation">Alkalmazásadatok</string>
     <string name="title_jeejen">Jeejen kezdőképernyő</string>
     <string name="title_select_live_folder">Mappa kiválasztása</string>
     <string name="title_select_shortcut">Parancsikon kiválasztása</string>
@@ -367,9 +378,4 @@
     <string name="widget_global_search">Keresés</string>
     <string name="widget_quick_function">Gyorsfunkciók</string>
     <string name="widgets_preview_title">Minialkalmazás hozzáadása</string>
-    <string name="activity_not_unlocked">Az alkalmazások megnyitása előtt várjon, amíyg eszköze teljesen újrabootol</string>
-    <string name="default_folder_title_meitu">Meitu</string>
-    <string name="privacy_thumbnail_blur_summary">Blur app előnézetek a Legújabbak mappában</string>
-    <string name="privacy_thumbnail_blur_title">Blur app előnézetek</string>
-    <string name="system_shortcuts_more_operation">Alkalmazásadatok</string>
 </resources>

@@ -409,7 +409,7 @@ Ha nem végzi el a frissítést, néhány alkalmazás nem fog rendeltetésszerű
     <string name="activate_ent_mode">A vállalati mód aktiválása</string>
     <string name="about_ent_mode">A Vállalati módról</string>
     <string name="ent_mode_activated">Vállalati mód engedélyezve</string>
-    <string name="ent_activation_hint">Adja meg a szervezeti kódját a licenckóddal együtt a Vállalati mód aktiválásához. Ezután egyedi vállalati funkciók válnak elérhetővé.</string>
+    <string name="ent_activation_hint">Adja meg a vállalati kódját a licenckóddal együtt a Vállalati mód aktiválásához. Ezután egyedi vállalati funkciók válnak elérhetővé.</string>
     <string name="ent_activation_hint_whit_licence">"Aktiválja a Vállalati módot, hogy egyedi vállalati funkciókhoz jusson.
 Legyen biztos benne, hogy a vállalatának neve hibátlanul van beírva. Olvassa és fogadja el a kapcsolódó adatvédelmi irányelveket az aktiválás előtt."</string>
     <string name="ent_agency_code">Szervezeti kód</string>
@@ -419,7 +419,7 @@ Legyen biztos benne, hogy a vállalatának neve hibátlanul van beírva. Olvassa
     <string name="ent_licence_code">Licenckód</string>
     <string name="ent_licence_code_hint">Adja meg a licenckódot</string>
     <string name="ent_next_step">Tovább</string>
-    <string name="ent_get_code_hint">Megkaphatja a szervezeti és licenckódokat a vezetőjétől</string>
+    <string name="ent_get_code_hint">Megkaphatja a vállalati és licenckódokat a vezetőjétől</string>
     <string name="ent_agree_privacy_policy">Elolvastam és elfogadom az Adatvédelmi Irányelveket</string>
     <string name="ent_activation">Aktiválás</string>
     <string name="ent_activating">Aktiválás…</string>
@@ -429,7 +429,7 @@ Legyen biztos benne, hogy a vállalatának neve hibátlanul van beírva. Olvassa
     <string name="ent_invalid_agency">A vállalati kód hibás.</string>
     <string name="ent_privacy_policy_notice">Az Ön vállalata határozta meg az irányelveket, amelyek szerint ebben a módban a személyes adatai tárolásra kerülnek. Ebben a módban a Xiaomi nem gyűjt személyes adatokat.</string>
     <string name="ent_confirm_dialog_content">A Vállalati mód aktiválása után Ön már nem tud visszatérni a rendszer jelenlegi állapotába. Az összes adata azonban továbbra is ezen a készüléken tárolódik. A Vállalati üzemmód aktiválásához újra kell indítania a készüléket. Aktiválja most?</string>
-    <string name="ent_error_dialog_content">Legalább az egyik kód hibás a beírtak közül. Ellenőrizze a szervezeti és licenckódokat és írja be őket újra.</string>
+    <string name="ent_error_dialog_content">Legalább az egyik kód hibás a beírtak közül. Ellenőrizze a vállalati és licenckódokat és írja be őket újra.</string>
     <string name="ent_download_install_dialog_content">A vállalati mód aktiválásához vállalati alkalmazásokat kell telepítenie. Telepíti most?</string>
     <string name="ent_download_install_dialog_title">Vállalati alkalmazások letöltése</string>
     <string name="ent_downloading_message">Letöltés %d%%</string>

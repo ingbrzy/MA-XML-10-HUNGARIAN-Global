@@ -465,6 +465,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_beautify_entry_low">Alacsony</string>
     <string name="pref_camera_beautify_entry_normal">Közepes</string>
     <string name="pref_camera_beautify_entry_high">Magas</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Módok</string>
     <string name="button_front_camera_title">Szelfi készítése</string>
     <string name="button_normal_video_title">Videófelvétel</string>
@@ -534,7 +535,7 @@ majd ezekből állít össze egy kevéssé zajos képet."</string>
     <string name="pref_privacy_title">Adatvédelmi Irányelvek</string>
     <string name="user_agree">Elfogadás</string>
     <string name="do_not_remind_me">Ne mutassa újra</string>
-    <string name="user_notice_identify_summary_format">A Kamera használata előtt Önnek el kell fogadnia a következő két dokumentumot: <a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Felhasználói Szerződés</a> és <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Adatvédelmi Irányelvek</a>. A hibátlan működéshez a Kamerának internetkapcsolatra is szüksége van. Elfogadja?</string>
+    <string name="user_notice_identify_summary_format">A Kamera használata előtt Önnek el kell fogadnia a következő két dokumentumot: <a href="http://www.miui.com/res/doc/eula.html?lang=hu_HU">Felhasználói Szerződés</a> és <a href="http://www.miui.com/res/doc/privacy.html?lang=hu_HU">Adatvédelmi Irányelvek</a>. A hibátlan működéshez a Kamerának internetkapcsolatra is szüksége van. Elfogadja?</string>
     <string name="user_notice_title">Felhasználási feltételek</string>
     <string name="network_access_user_notice_title">Csatlakozás az internethez</string>
     <string name="install_confirmed">Telepítés</string>
@@ -716,12 +717,13 @@ Az ultraszéles látószögű mód segít abban az esetben, ha nem tud eltávolo
     <string name="eye_light_angel">Angyal</string>
     <string name="beauty_mode_reset_toast">Az átalakítóeffektek sikeresen törlésre kerültek</string>
     <string name="makeup_reset_toast">A sminkeffektek sikeresen törlésre kerültek</string>
+    <string name="pref_camera_zoom_mode_entry_macro">MAKRÓ</string>
     <string name="beauty_clear_toast">A szépítőeffektek sikeresen törlésre kerültek</string>
     <string name="ultra_wide_mode_use_hint_text_sat">"Próbálja ezt a 0.6X ultraszéles látószögű üzemmódot, ha a fényképe több helyszínt fog át.
 Az ultraszéles látószögű mód segít abban az esetben, ha nem tud eltávolodni a fényképezni kívánt eseménytől."</string>
     <string name="ultra_wide_open_tip_sat">0.6X ultraszéles látószög</string>
     <string name="video_beauty_tip">Szépítés videófelvételhez</string>
-    <string name="module_name_fun_ar">Jókedv</string>
+    <string name="module_name_fun_ar">Mimoji</string>
     <string name="mimoji_fragment_tab_name">Mimoji</string>
     <string name="mimoji_on_create">Mimoji-készítés</string>
     <string name="mimoji_check_normal">Érintse meg az exponálógombot</string>
@@ -748,7 +750,7 @@ Az ultraszéles látószögű mód segít abban az esetben, ha nem tud eltávolo
     <string name="mimoji_edit_abandon_alert">Elveti az összes módosítást?</string>
     <string name="mimoji_edit_abandon_capture_alert">Elveti az összes módosítást?</string>
     <string name="mimoji_edit_cancel_alert">Az összes változtatás el fog veszni. Mégis törli?</string>
-    <string name="mimoji_delete_dialog_title">Törli a Mimoji-t?</string>
+    <string name="mimoji_delete_dialog_title">Törli a Mimojit?</string>
     <string name="mimoji_tips">Érintse meg fénykép, tartsa nyomva videó készítéséhez.</string>
     <string name="mimoji_detect_tips">Tartsa az arcát a kereten belül</string>
     <string name="mimoji_cancle">Törlés</string>
@@ -783,4 +785,5 @@ Az ultraszéles látószögű mód segít abban az esetben, ha nem tud eltávolo
     <string name="mimoji_nose">Orr</string>
     <string name="mimoji_earring">Fülbevalók</string>
     <string name="ultra_wide_recommend_tip_hint_sat">Próbálja ki a 0.6X ultraszéles látószögű módot</string>
+    <string name="lying_direct_hint">Jelenlegi tájolás</string>
 </resources>

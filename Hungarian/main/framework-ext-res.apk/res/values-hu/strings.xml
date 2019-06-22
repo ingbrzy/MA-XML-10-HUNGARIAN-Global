@@ -42,7 +42,6 @@
     <string name="auto_start_warning_title">Engedélyezi %s alkalmazás automatikus indítását?</string>
     <string name="auto_start_warning_allow">Engedélyezés</string>
     <string name="auto_start_warning_deny">Elutasítás</string>
-    <string name="call_record_sample_prefix_miui">Hívásrögzítés</string>
     <string name="call_record_or">vagy</string>
     <string name="caller_info_name_delimiter">" vagy "</string>
     <string name="first_back_long_press_message">"Engedélyezi, hogy a vissza gomb hosszan nyomva bezárja az aktuális folyamatot?
@@ -199,6 +198,7 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="popup_camera_front_failed">Az előlapi kamerát nem lehetett megnyitni. Próbálja újra.</string>
     <string name="takeback_camera_front_failed">Az előlapi kamerát nem lehetett bezárni. Próbálja újra.</string>
     <string name="stop_operate_camera_frequently">Ön túl gyakran nyitja ki az előlapi kamerát.</string>
+    <string name="popup_camera_front_when_use">A Kameraalkalmazásnak újra meg kell nyitnia az előlapi kamerát. Megnyitja most?</string>
     <string name="popup_camera_popup_falied_times_calibrate">Az előlapi kamerát több alkalommal nem lehetett megnyitni. Próbálja meg kalibrálni a kamerát.</string>
     <string name="popup_camera_takeback_falied_times_calibrate">Az előlapi kamerát több alkalommal nem lehetett bezárni. Próbálja meg kalibrálni a kamerát.</string>
     <string name="popup_camera_calibrate_now">Kalibrálás</string>

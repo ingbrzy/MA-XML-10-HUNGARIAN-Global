@@ -48,6 +48,10 @@ Szeretnéd, hogy segítsünk a megújításában?"</item>
         <item quantity="other">%d hozzászólás</item>
         <item quantity="one">%d hozzászólás</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">%d day ago</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Töröl %d elemet?</item>
         <item quantity="one">Töröl %d elemet?</item>

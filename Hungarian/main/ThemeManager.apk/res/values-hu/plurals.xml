@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="guide_used_number">
+        <item quantity="other">%1$d eszközön alkalmazva</item>
+        <item quantity="one">%1$d eszközön alkalmazva</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d hozzászólás</item>
         <item quantity="one">%d hozzászólás</item>

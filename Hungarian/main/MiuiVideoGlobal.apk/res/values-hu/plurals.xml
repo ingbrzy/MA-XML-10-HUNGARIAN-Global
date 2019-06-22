@@ -36,4 +36,8 @@
         <item quantity="other">%d hozzászólás megjelenítése</item>
         <item quantity="one">%d hozzászólás megjelenítése</item>
     </plurals>
+    <plurals name="subscriber">
+        <item quantity="other"> előfizető</item>
+        <item quantity="one"> előfizető</item>
+    </plurals>
 </resources>

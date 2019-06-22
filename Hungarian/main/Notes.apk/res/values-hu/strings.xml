@@ -127,6 +127,7 @@
     <string name="note_sort_way">Jegyzetrendezési mód</string>
     <string name="notealert_enter">Jegyzet megnyitása</string>
     <string name="notealert_ok">Elvetés</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Jegyzet emlékeztető</string>
     <string name="permdesc_accessNote">Engedélyezésével a rosszindulatú alkalmazások is hozzáférhetnek személyes adataihoz.</string>
     <string name="permission_intro_contact">Hívások közben készített jegyzetek megjelöléséhez</string>
@@ -134,13 +135,13 @@
     <string name="permission_intro_phone">Hívások közben készített jegyzetek megjelöléséhez</string>
     <string name="permission_intro_storage">Jegyzetek és mellékletek mentéséhez</string>
     <string name="permlab_accessNote">Hozzáférés a jegyzetekhez</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">Ne kérjen megerősítést, ha gesztussal töröl egy jegyzetet</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">A jegyzetek megerősítés nélküli törléséhez húzza fel két ujjal</string>
     <string name="pref_title_cloud_trash_bin">Törölt jegyzetek a Mi Cloudban</string>
     <string name="pref_title_common">Egyéb beállítás</string>
     <string name="pref_title_font_size">Betűméret</string>
     <string name="pref_title_note_style">Stílus</string>
     <string name="pref_title_show_root_folder_in_homepage">Csak gyorsjegyzetek mutatása a kezdőlapon</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">Gyors törlés</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">Törlés kézmozdulattal</string>
     <string name="recover_notes_hint">Hiba történt, kérjük látogassa meg a i.mi.com weboldalt jegyzetei helyreállításához.</string>
     <string name="redo">Újra</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Várjon, míg a megjegyzés betöltődik, majd próbálja újra.</string>
@@ -208,6 +209,7 @@
     <string name="toast_notes_hidden_edit">Sikeresen elrejtette ezt a jegyzetet. A rejtett jegyzetek megtekintéséhez húzza lefelé.</string>
     <string name="toast_notes_hidden_home">Sikeresen elrejtette ezt a jegyzetet. A rejtett jegyzetek megtekintéséhez húzza lefelé.</string>
     <string name="toast_notes_unhidden">Elrejtés sikeresen visszavonva</string>
+    <string name="toast_pic_is_not_really">Kép mentése…</string>
     <string name="toast_reach_text_limit_attachment">A jegyzet túl nagy új csatolmányok hozzáadásához.</string>
     <string name="toast_reach_text_limit_checkbox">A jegyzet túl nagy jelölőnégyzet hozzáadásához</string>
     <string name="toast_reach_text_limit_truncate">A jegyzet vége automatikusan le lesz vágva, mert túl hosszú.</string>

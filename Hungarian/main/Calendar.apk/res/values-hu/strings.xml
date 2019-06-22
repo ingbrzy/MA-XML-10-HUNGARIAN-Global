@@ -64,6 +64,7 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Lejárt</string>
     <string name="alert_title">Naptár értesítések</string>
+    <string name="all_events">Összes esemény</string>
     <string name="anniversary_event_title">%1$s évfordulója</string>
     <string name="anniversary_secondary_tag">Évforduló</string>
     <string name="app_label">Naptár</string>
@@ -136,6 +137,7 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="date_interval_text_to">Eddig: %1$s</string>
     <string name="date_jump_hint">Ugrás közvetlenül egy bizonyos napra</string>
     <string name="date_jump_title">Dátumhoz ugrás</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (ma)"</string>
     <string name="day_view_new_event_hint">Új esemény</string>
     <string name="default_reminder_mode">Emlékeztetők</string>
@@ -345,6 +347,7 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="preferences_default_reminder_title">Emlékeztető alapértelmezett ideje</string>
     <string name="preferences_home_tz_title">Lakhely időzónája</string>
     <string name="preferences_notification_ringtone_title">Hang</string>
+    <string name="preferences_show_indic_date_title">Hindi naptár megjelenítése</string>
     <string name="preferences_title">Naptár</string>
     <string name="preferences_use_home_tz_descrip">Ha utazik, akkor is a lakhelyének időzónáját használja a Naptár az eseményekhez</string>
     <string name="preferences_use_home_tz_title">Lakhely időzónájának használata</string>
@@ -404,10 +407,12 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="setting_others">Egyéb</string>
     <string name="setting_title_about">Névjegy</string>
     <string name="setting_title_holiday_display">Ünnepnapok mutatása</string>
+    <string name="setting_title_policy">Adatvédelmi irányelvek</string>
     <string name="share_image">Megosztás</string>
     <string name="share_image_label">Megosztás itt</string>
     <string name="share_title">Megosztás</string>
     <string name="show_day_view">Napi nézet</string>
+    <string name="show_indic_date_summary">A hindi naptár abban az esetben érhető el, ha India egyik nyelve rendszernyelvként van beállítva</string>
     <string name="start_date_calculate">Kiszámítás</string>
     <string name="storage_permission_denied">Előbb adjon hozzáférést a tárhelyhez</string>
     <string name="subscribe_card">Feliratkozás most</string>

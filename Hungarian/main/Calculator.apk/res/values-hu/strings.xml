@@ -281,6 +281,7 @@
     <string name="tax_param_error">Adja meg a pontos biztosítási díjakat</string>
     <string name="tax_payment_period">Fizetéske száma</string>
     <string name="tax_rate_provider">Az új adózási rendelkezések szerint lett kalkulálva. Az adatokat a hexun.com és az East Money szolgáltatja.</string>
+    <string name="tax_rate_provider_east_money">Az új adózási rendelkezések szerint lett kalkulálva. Az adatokat az East Money szolgáltatja.</string>
     <string name="tax_result_real_get">Adózás után</string>
     <string name="tax_social_insurance">Társadalombiztosítás</string>
     <string name="tax_thershold_foreign">%s (Külföldi államok)</string>
@@ -600,8 +601,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_connect_download_manager_fail">Nem tudott csatlakozni a letöltésekhez. Ellenőrizze, hogy ez app a megfelelő engedélyekkel rendelkezik-e a Beállítások > Telepített alkalmazásokban.</string>
     <string name="xiaomi_external_storage_unavailable">Nincs elérhető tárhely. Ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Bemutatjuk a következő verziót: %1$s
 Méret:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatjuk a következő verziót: %1$s

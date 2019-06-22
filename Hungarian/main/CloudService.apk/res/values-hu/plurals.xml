@@ -52,6 +52,10 @@
         <item quantity="other">%d beállított Gyorselérési kártya</item>
         <item quantity="one">%d beállított Gyorselérési kártya</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d gyakori kifejezés</item>
+        <item quantity="one">%d gyakori kifejezés</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d rejtett fénykép nincs szinkronizálva. Megőrzésük érdekében, szinkronizálásuk után jelentkezzen ki, ellenkező esetben az elemek törlésre kerülnek.</item>
         <item quantity="one">%d rejtett fénykép nincs szinkronizálva. Megőrzésük érdekében, szinkronizálásuk után jelentkezzen ki, ellenkező esetben az elemek törlésre kerülnek.</item>

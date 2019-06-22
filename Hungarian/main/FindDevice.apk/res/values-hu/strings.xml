@@ -81,7 +81,7 @@ Jelentkezzen be az i.mi.com weboldalra és próbálja meg feloldani a készülé
     <string name="return_to_call">Visszatérés a híváshoz</string>
     <string name="default_debt_msg_words">"Ez a készülék késedelmes részletfizetés miatt zárolva lett.
 Részletekért lépjen kapcsolatba az értékesítővel."</string>
-    <string name="sys_notification_async_verify_title">Készülékkereső újraaktiválása</string>
+    <string name="sys_notification_async_verify_title">Készülékkeresés újraaktiválása</string>
     <string name="sys_notification_async_verify_content">A frissített Biztonsági irányelvek megkövetelik, hogy a Készölékkeresés újra aktiválva legyen.</string>
     <string name="sys_notification_async_open_failed_title">Készülékkeresés bekapcsolása sikertelen</string>
     <string name="sys_notification_async_open_failed_content">Érintse meg az újrapróbáláshoz vagy törölje.</string>

@@ -72,6 +72,18 @@
         <item quantity="other">%1$d fénykép és videó</item>
         <item quantity="one">%1$d fénykép vagy videó</item>
     </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d fénykép</item>
+        <item quantity="one">%d fénykép</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">%d kiválasztott kép mentése és a többi törlése?</item>
+        <item quantity="one">%d kiválasztott kép mentése és a többi törlése?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">%d kiválasztott kép mentése</item>
+        <item quantity="one">%d kiválasztott kép mentése</item>
+    </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d fénykép</item>
         <item quantity="one">%d fénykép</item>
@@ -91,6 +103,18 @@
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">%d sorozatkép törlése a MiCloudból és az összes szinkronizált eszközről?</item>
+        <item quantity="one">%d sorozatkép törlése a MiCloudból és az összes szinkronizált eszközről?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">%d sorozatkép törlése?</item>
+        <item quantity="one">%d sorozatkép törlése?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">%d sorozatkép törlése a MiCloudból és erről az eszközről?</item>
+        <item quantity="one">%d sorozatkép törlése a MiCloudból és erről az eszközről?</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">Töröl %d elemet az összes készülékéről és a Mi Cloudból is?</item>
@@ -115,6 +139,10 @@
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
         <item quantity="other">Töröl %d fényképet ebből az albumból és a Mi Cloudból is?</item>
         <item quantity="one">Törli ezt a fényképet ebből az albumból és a Mi Cloudból is?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">%d sorozatkép törlése az eszközről?</item>
+        <item quantity="one">%d sorozatkép törlése az eszközről?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">Töröl %d videót az összes készülékéről és a Mi Cloudból is?</item>

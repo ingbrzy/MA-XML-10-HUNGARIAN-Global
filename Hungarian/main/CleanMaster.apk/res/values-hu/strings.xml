@@ -53,7 +53,7 @@
     <string name="button_text_uninstall">Eltávolítás</string>
     <string name="pref_category_title_cleanup_white_list">Kivételek</string>
     <string name="pref_title_cleanup_white_list">Kivételek listája</string>
-    <string name="pref_summary_cleanup_white_list">Tisztításkor a kivételekben szereplő elemek figyelmen kívül hagyása</string>
+    <string name="pref_summary_cleanup_white_list">A kivételekben szereplő alkalmazások figyelmen kívül hagyása tisztításkor</string>
     <string name="pref_category_title_auto_update_cleanup_db">További beállítások</string>
     <string name="pref_title_auto_update_cleanup_db">Automatikus frissítés</string>
     <string name="pref_summary_auto_update_cleanup_db">Utolsó frissítés: %s</string>
@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">Csomagok</string>
     <string name="hints_residual_header_left">Maradványok</string>
     <string name="hints_memory_header_left">Memória</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">Nagyméretű fájlok: %d</string>
     <string name="hints_installed_apps_header_left">Telepített alkalmazások: %d</string>
     <string name="toast_resolve_apk_error">Apk hiba javítása</string>
@@ -185,8 +186,6 @@
     <string name="toast_backup_uninstall_success">A mentés és eltávolítás befejeződött</string>
     <string name="activity_title_cache_data">Alkalmazásadatok</string>
     <string name="deepclean_cache_header_left">Adatfájlok: %d</string>
-    <string name="notification_title_of_garbage_cleanup">%s szemét</string>
-    <string name="notification_summary_of_garbage_cleanup">Érintse meg tárhely felszabadításához</string>
     <string name="notification_summary_after_auto_cleanup">%s törölve.</string>
     <string name="toast_uninstall_success">Az eltávolítás befejeződött</string>
     <string name="toast_app_no_residual_on_sdcard">Az alkalmazás nem tárol adatokat a tárhelyen</string>
@@ -299,6 +298,7 @@
     <string name="downloading">Letöltés</string>
     <string name="installing">Telepítés</string>
     <string name="start_install">Telepítés most</string>
+    <string name="empty">" "</string>
     <string name="open_browser">Megnyitás a böngészőben</string>
     <string name="title_share_link">URL megosztása</string>
     <string name="connecting">Csatlakozás…</string>
@@ -565,4 +565,10 @@
     <string name="one_tap_clean_M">%dMB</string>
     <string name="one_tap_clean_GB">%sGB</string>
     <string name="security_center_slogan">Biztonság. Állandó védelem alatt.</string>
+    <string name="notification_garbage_cleanup_title">A szemét fájljainak törlése</string>
+    <string name="notification_garbage_cleanup_summary">A szemét mérete elérte a(z) %s-ot</string>
+    <string name="notification_low_memory_cache_title">Gyorsítótártörlés</string>
+    <string name="notification_low_memory_cache_summary">Kevesebb, mint 1.5 GB az elérhető tárhely</string>
+    <string name="notification_low_memory_deepclean_title">A tárhely hamarosan megtelik</string>
+    <string name="notification_low_memory_deepclean_summary">A Mély tisztítással tárhelyet szabadíthat fel készülékén</string>
 </resources>

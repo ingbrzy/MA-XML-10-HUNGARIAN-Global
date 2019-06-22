@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_firewall_setting">Tiltólista</string>
     <string name="activity_not_found">Nincs megfelelő alkalmazás a művelet elvégzésére</string>
     <string name="activity_not_found_uri">Nem található megfelelő alkalmazás a művelet végrehajtásához</string>
@@ -99,16 +98,7 @@
     <string name="cm_privacy_dialog_tips">A Smart Messaging szolgáltatásokat mobilszolgáltatója nyújtja. Az üzenetküldő szolgáltatáshoz internetkapcsolatra van szükség, valmint engedélyeznie kell tartózkodási helyének adatközlését is. A szolgáltatások használata előtt el kell fogadnia a mobilszolgáltató %1s dokumentumát. Elfogadja?</string>
     <string name="cm_privacy_dialog_title">Figyelem</string>
     <string name="cmcc_privacy">China Mobile szolgáltató adatvédelmi szabályzata</string>
-    <string name="complain_input_number">Adja meg a telefonszámát</string>
-    <string name="complain_jump">Kihagyás</string>
     <string name="complain_message_title">Jelentés</string>
-    <string name="complain_ok">OK</string>
-    <string name="complain_phone_number">Telefonszám (opcionális)</string>
-    <string name="complain_reason">Miért jelenti ezt az üzenetet?</string>
-    <string name="complain_success">Köszönjük visszajelzését, ezzel segít nekünk jobbá tenni üzenetküldési szolgáltatásunkat!</string>
-    <string name="complain_tips">"A legfrissebb Ön által jelentett üzenetek tartalma feltöltésre kerül kiszolgálóinkra az Ön által megadott telefonszámmal együtt. Szolgáltatónk felülvizsgálja a jelentett üzenetet.
-"</string>
-    <string name="complain_upload">A panasz beküldésre került</string>
     <string name="compressing">A kép túl nagy. Kicsinyítés...</string>
     <string name="confirm">OK</string>
     <string name="confirm_add_blacklist_dialog_dspt">Hozzáadja a számot a tiltólistához?</string>
@@ -231,6 +221,7 @@
     <string name="file_size">Méret:</string>
     <string name="file_title">Név:</string>
     <string name="file_width_height">Méret:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Új üzenet</string>
     <string name="forward_from">Továbbítás:</string>
     <string name="forward_message_select_title">Üzenet továbbítása</string>
@@ -685,6 +676,7 @@
     <string name="send_signature_confirm_dialog_title">Megerősítés</string>
     <string name="send_sms">Üzenet küldése</string>
     <string name="send_to">Címzett</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">%1s elküldve</string>
     <string name="sent_label">"Elküldve: "</string>
     <string name="service_message_not_found">Az üzenet lejárt vagy nem érhető el.</string>
@@ -733,6 +725,7 @@
     <string name="sp_mark_as_read_menu_title">Olvasottként jelöl</string>
     <string name="sqlite_disk_full">Készülékének tárhelye megtelt.</string>
     <string name="sqlite_low_memory">Nincs elég tárhely</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_failed">Sikertelen</string>
     <string name="status_label">Állapot:</string>
     <string name="status_pending">Függőben</string>

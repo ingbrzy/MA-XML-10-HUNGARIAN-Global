@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="April">Április</string>
+    <string name="August">Augusztus</string>
+    <string name="December">December</string>
+    <string name="February">Február</string>
+    <string name="January">Január</string>
+    <string name="July">Július</string>
+    <string name="June">Június</string>
+    <string name="March">Március</string>
+    <string name="May">Május</string>
+    <string name="November">November</string>
+    <string name="October">Október</string>
+    <string name="September">Szeptember</string>
+    <string name="Updated_at">"Frissítve: "</string>
     <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
     <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
     <string name="abc_action_menu_overflow_description">További lehetőségek</string>
@@ -88,6 +101,7 @@
     <string name="available_playlist_name_format">Új lejátszási lista %d</string>
     <string name="avoid_to_use_traffic_summary">Ne használjon mobil-adatkapcsolatot a zenehallgatáshoz</string>
     <string name="avoid_to_use_traffic_title">Figyelmeztessen, mikor mobiladat-kapcsolatot használ zenelejátszáshoz</string>
+    <string name="back">Vissza</string>
     <string name="back_confirm">Érintse meg újra az alkalmazás háttérben való futtatásához</string>
     <string name="bluetooth_device">Bluetooth audio készülék</string>
     <string name="buffering">Pufferelés…</string>
@@ -222,6 +236,7 @@
     <string name="download_method">Letöltés</string>
     <string name="download_no_application_title">Nem lehet megnyitni a fájlt</string>
     <string name="download_paused_in_power_save_mode">Bekapcsolt Akkumulátorkímélő esetén a letöltések szünetelnek</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Letöltés…</string>
     <string name="download_quality">Letöltés minősége</string>
     <string name="download_quality_summary">További beállítások a letölteni kívánt dalokhoz</string>
@@ -301,7 +316,9 @@
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -359,6 +376,9 @@
     <string name="hot_icon_in_fast_indexer">Hot</string>
     <string name="hungama_batch_download_alert_summary">Több dalt csak PRO tagok tölthetnek le. Szeretnél PRO tagságot most?</string>
     <string name="hungama_free_download_out_summary">Nem tölthetsz le több dalt ingyen. Szeretnél PRO előfizetést korlátlan dal letöltéséhez?</string>
+    <string name="hungama_privacy_desc">Hungama Privacy Policy (optional)</string>
+    <string name="hungama_privacy_tips_content">Az online tartalomhoz való hozzáféréshez Önnek el kell fogadnia a <a href="/link/click">Hungama Adatvédelmi irányelveit</a>.</string>
+    <string name="hungama_privacy_tips_title">A Hungama Adatvédelmi irányelvei</string>
     <string name="hungama_subscribe_message">Vásároljon PRO tagságot a zenék kiváló minőségben való letöltéséhez.</string>
     <string name="hungama_subscribe_positive_button">PRO tagság vásárlása</string>
     <string name="hungama_subscribe_title">PRO tagság</string>
@@ -498,14 +518,29 @@
     <string name="nowplaying_dialog_title_delete_tracks">Eltávolítja ezt a dalt a várólistáról?</string>
     <string name="nowplaying_menu_item_delete">Eltávolítás a várólistáról</string>
     <string name="ok">OK</string>
+    <string name="online_apk_acquired">Betöltve %d%%</string>
+    <string name="online_apk_acquiring">Betöltés…%d%%</string>
     <string name="online_apk_download_error_no_enough_space">Nincs elegendő tárhely a letöltéshez.</string>
     <string name="online_apk_downloading">Letöltés…%d%%</string>
     <string name="online_apk_install_alert_confirm">Letöltés</string>
+    <string name="online_apk_install_alert_continue">Folytatás</string>
+    <string name="online_apk_install_alert_failed_text">Nem sikerült a letöltés, próbálja újra.</string>
     <string name="online_apk_install_alert_message">Le kell tölteni a Yandex-et. Zenei plug-in. Letölti most?</string>
+    <string name="online_apk_install_alert_mobile_net_text">Ön jelenleg mobiladatforgalmat használ. A letöltéshez való mobiladatforgalom használatakor további költségek merülhetnek fel.</string>
     <string name="online_apk_install_alert_note">Ezt a szolgáltatást a Yandex nyújtja. Zene</string>
+    <string name="online_apk_install_alert_note_new">Az online tartalmat a(z) %s biztosítja.</string>
+    <string name="online_apk_install_alert_pause">Szüneteltetés</string>
+    <string name="online_apk_install_alert_retry">Próbálja újra</string>
+    <string name="online_apk_install_alert_start">Indítás</string>
+    <string name="online_apk_install_completed">Online tartalom sikeresen betöltve. A megtekintéshez érintse meg a következőt: %s.</string>
     <string name="online_apk_install_error_no_enough_space">Nincs elegendő tárhely a telepítéshez.</string>
     <string name="online_apk_install_error_with_reason">Nem lehet telepíteni (Hiba %d)</string>
+    <string name="online_apk_install_failed_with_reason" formatted="false">Az online tartalom nem tölthető be. Érintse meg a következőt: %s és próbálja újra. Hibakód: %d.</string>
+    <string name="online_apk_install_in_background">Online tartalom betöltése a háttérben…</string>
+    <string name="online_apk_install_network_change_paused">Ön mobiladatforgalmat használt. A betöltés alatt álló tételek szüneteltetésre kerültek. A megtekintéshez érintse meg a következőt: %s.</string>
+    <string name="online_apk_install_network_error">Nem sikerült csatlakozni a hálózathoz. Ellenőrizze hálózati beállításait, majd próbálja újra.</string>
     <string name="online_list_delete_message">Az lejátszási lista összes letöltött dala törölve lesz a belső tárhelyről.</string>
+    <string name="online_playlist_category">Lejátszási listák</string>
     <string name="online_recommend">Lejátszási lista</string>
     <string name="online_service_open_tip">Online zeneszolgáltatások már be vannak kapcsolva</string>
     <string name="online_service_title">Online szolgáltatások</string>
@@ -560,6 +595,7 @@
     <string name="priority_storage_summary">Fájlok automatikus mentése az SD-kártyára, ha rendelkezésre áll</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
     <string name="privacy_policy">Adatvédelmi Irányelvek</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=hu_HU</string>
     <string name="pro_member">PRO tag</string>
     <string name="project_device">Mi Telefon</string>
     <string name="prompt_grant_write_settings_permission">Rendszerbeállítások módosításának engedélyezése</string>
@@ -594,6 +630,8 @@
     <string name="save_changes">Módosítások mentése</string>
     <string name="search_album_and_lyric">Albumborítók és dalszövegek keresése</string>
     <string name="search_empty">Nincs semmilyen találat</string>
+    <string name="search_empty_subtitle_online_music">Érintse meg az alábbi gombot a(z) %s megnyitásához.</string>
+    <string name="search_empty_title_online_music">Itt még nincsenek elemek.</string>
     <string name="search_for_album">Album</string>
     <string name="search_for_artist">Előadó</string>
     <string name="search_hint">Keressen előadókat, dalokat, albumokat és ajánlásokat</string>
@@ -660,6 +698,7 @@
     <string name="start_to_check_new_version">Frissítések keresése…</string>
     <string name="start_to_download">Letöltés…</string>
     <string name="start_to_play">Lejátszás</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_internal">Belső tárhely</string>
     <string name="storage_sd_card">SD-kártya</string>
     <string name="storage_usb">USB-tárhely</string>
@@ -712,6 +751,8 @@
     <string name="toast_not_pro">Ez a funkció kizárólag PRO tagok számára érhető el.</string>
     <string name="toast_uhd_songs_for_download">Kiváló minőségű dal letöltésére állítva</string>
     <string name="toast_uhd_songs_for_stream">Streamelés minősége Kiválóra állítva</string>
+    <string name="today">Today</string>
+    <string name="top_chart_title">Listák</string>
     <string name="ultra_high_quality">Kiváló</string>
     <string name="unknown_album_name">Ismeretlen album</string>
     <string name="unknown_artist_name">Ismeretlen előadó</string>
@@ -722,6 +763,7 @@
     <string name="upgrade_music_message">Frissítések készen állnak. Indítsa újra a frissítéshez.</string>
     <string name="upgrading_in_backstage">Frissítés a háttérben…</string>
     <string name="user_agreement">Felhasználói Szerződés</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=hu_HU</string>
     <string name="version_info">Verzió</string>
     <string name="video_play_cellular">A készüléke nincs Wi-Fi-hez csatlakoztatva. Használ mobiladat-kapcsolatot?</string>
     <string name="video_replay_btn">Újrajátszás</string>

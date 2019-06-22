@@ -42,6 +42,14 @@
     <string name="common_google_play_services_update_text">A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
     <string name="common_google_play_services_update_title">A Google Play-szolgáltatások frissítése</string>
     <string name="common_google_play_services_updating_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van.</string>
+    <string name="early_warning_android_system">Android rendszer</string>
+    <string name="early_warning_feedback_action">Visszajelzés</string>
+    <string name="early_warning_feedback_body">Kérjük, ossza meg velünk visszajelzését itt</string>
+    <string name="early_warning_feedback_chooser_text">Válasszon e-mail-alkalmazást</string>
+    <string name="early_warning_feedback_subject">Visszajelzés korai figyelmeztető értesítésről</string>
+    <string name="early_warning_notification_channel_name">Figyelmeztetések az akkumulátorról</string>
+    <string name="early_warning_notification_text">Ez a szokásos töltés előtt van</string>
+    <string name="early_warning_notification_title">Az akkumulátor ekkor merül le: %1$s</string>
     <string name="icon_content_description">Párbeszédpanel ikonja</string>
     <string name="password_toggle_content_description">Jelszó megjelenítése</string>
     <string name="ssb_clear_data_activity_name">Visszaállítja a beállításokat?</string>

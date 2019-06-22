@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="add_alarm">Ébresztés hozzáadása</string>
     <string name="add_clock">Óra hozzáadása</string>
     <string name="add_timezone_title">Időzóna hozzáadása</string>
@@ -87,7 +88,7 @@
     <string name="dialog_message_negative">Elutasítás</string>
     <string name="dialog_message_not_remind">Ne jelenjen meg újra</string>
     <string name="dialog_privacy_content">Annak érdekében, hogy Ön releváns információkat kapjon a helyi állami ünnepekkel kapcsolatban, beállíthassa az ébresztőket és és személyre szabott szolgáltatásban részesüljön, a Clocknak kapcsolódnia kell az internethez. A Clock használata előtt el kell olvasnia és el kell fogadnia a következőkkel: %1$s és %2$s. Elfogadja?</string>
-    <string name="dialog_privacy_content_global">A személyre szabott szolgáltatások biztosítása érdekében a Clock-nak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Egyetért?</string>
+    <string name="dialog_privacy_content_global">A személyre szabott szolgáltatások biztosítása érdekében az Óra alkalmazásnak kapcsolódnia kell az internethez. Az Óra használata előtt Önnek el kell olvasnia és fogadnia a következő két dokumentumot: %1$s és %2$s. Egyetért?</string>
     <string name="dialog_privacy_content_news">A személyre szabott szolgáltatások biztosítása és a reggeli hírek riasztásokba való foglalása érdekében a Clock-nak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Egyetért?</string>
     <string name="dialog_privacy_content_timer">Annak érdekében, hogy a helyi állami ünnepekkel kapcsolatos releváns információkat kapjon és szinkronizáljon, és személyre szabott szolgáltatást biztosítson, a Clocknak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Egyetért?</string>
     <string name="dialog_privacy_content_timer_data">A környezeti zajok időzítőinek letöltése (≈20MB), valamint személyre szabott szolgáltatást biztosítása érdekében a Clock-nak az internethez kell kapcsolódnia. A Clock használata előtt el kell olvasnia és egyet kell érteni a következőkkel: %1$s és %2$s. Most mobiladat-kapcsolatot használ. Egyetért?</string>
@@ -108,7 +109,9 @@
     <string name="hour_unit">Ó</string>
     <string name="install_weather_app_error">Az alkalmazást nem sikerült betölteni</string>
     <string name="install_weather_app_loading">Egy pillanat…</string>
-    <string name="invalid_time">Érvénytelen idő: %3$s %1$d: %2$d</string>
+    <string name="invalid_time">"Érvénytelen idő:
+%3$s %1$d:
+%2$d "</string>
     <string name="invalid_timer_length">Az időzítő időtartama érvénytelen</string>
     <string name="keep_screen_on">Képernyőn tartás</string>
     <string name="korea_permission_calendar">Naptár</string>
@@ -195,11 +198,15 @@
     <string name="setting_alarm_arriving_summary">Értesítés küldése az ébresztés előtt</string>
     <string name="setting_alarm_arriving_title">Értesítés ébresztés előtt</string>
     <string name="settings">Beállítások</string>
+    <string name="shortcut_new_alarm">Set alarm</string>
+    <string name="shortcut_start_timer">Start timer</string>
+    <string name="shortcut_stop_watch">Start stopwatch</string>
     <string name="shut_down_keep_screen">Képernyő nem marad bekapcsolva</string>
     <string name="shutdown_alarm_disable_summary">Az ébresztő nem áll le az eszköz kikapcsolását követően</string>
     <string name="shutdown_alarm_enable_summary">Az ébresztő megszólal, ha legalább 5 perccel a készülék kikapcsolása utánra állítja be</string>
     <string name="shutdown_alarm_title">Ébresztés kikapcsolt állapotban</string>
     <string name="silent_alarm_summary">Némítás</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Egyszeri kikapcsolás %s</string>
     <string name="slider_text">Húzza fel a kikapcsoláshoz</string>
     <string name="snooze_confirm_cancel">Riasztás elutasítása</string>
@@ -218,6 +225,7 @@
     <string name="start_up">Indít</string>
     <string name="stopwatch_lap_empty_text">Nincs részidő</string>
     <string name="stopwatch_title">Stopper</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Beállítások</string>
     <string name="system_time_settings_category_title">Időbeállítások</string>
     <string name="temperature_unit">℃</string>
@@ -271,6 +279,7 @@
     <string name="turn_off_this_repeat_alarm">Ismétlődő ébresztés kikapcsolása</string>
     <string name="upcoming_alarm">A következő ébresztés: %s</string>
     <string name="upcoming_alarm_hint">Előre befejezheti az ébresztést</string>
+    <string name="update_notification_info">Adatok frissítése a háttérben…</string>
     <string name="user_agreement">Felhasználói Szerződés</string>
     <string name="vibrate_pref_summary">Rezgés az ébresztőhang alatt</string>
     <string name="vibrate_when_ringing">Rezgés csengés közben</string>

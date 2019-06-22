@@ -195,6 +195,13 @@
     <string name="begin_share_toast">Hozzon létre egy külön albumot a gyermek számára mielőtt megosztja?</string>
     <string name="blank_app_name" />
     <string name="browse_category_title">Böngésző</string>
+    <string name="burst_image_download_item_title" formatted="false">Eredeti (%s|%s) letöltése</string>
+    <string name="burst_preview_title">Sorozatfelvétel</string>
+    <string name="burst_save_all">Összes mentése</string>
+    <string name="burst_save_choice_title" formatted="false">%d kijelölve %d közül</string>
+    <string name="burst_save_confirm_dialog_title">Képek mentése</string>
+    <string name="burst_save_error_msg">A mentés nem sikerült</string>
+    <string name="burst_save_processing">Feldolgozás/u2026</string>
     <string name="buy_member_tip">Legyen tag</string>
     <string name="by_email">E-mail</string>
     <string name="by_others">Egyéb</string>
@@ -337,6 +344,8 @@
     <string name="custom_select_title_select_item">Elemek kiválasztása</string>
     <string name="debugging_info">Hibakeresési adat generálása sikeres. Érintse meg az OK gombot a mappa megnyitásához.</string>
     <string name="debugging_tip">Hibakeresési adat generálása</string>
+    <string name="decrypt_video_failed">Videó elkészítése nem sikerült</string>
+    <string name="decrypting_video">Videó előkészítése…</string>
     <string name="default_relation_name">Új csoport</string>
     <string name="define_by_user">Egyéni</string>
     <string name="delete">Törlés</string>
@@ -390,6 +399,10 @@
     <string name="downloading_dialog_message">Kiválaszthatja a letöltött képek minőségét vagy kikapcsolhatja az automatikus letöltést a Beállításokban.</string>
     <string name="downloading_title">Fényképek letöltése a Mi Cloudból</string>
     <string name="edit_baby_info">Baba adatainak megtekintése</string>
+    <string name="editor_cancel">Mégse</string>
+    <string name="editor_export">Mentés</string>
+    <string name="editor_talkback_redo">Újra</string>
+    <string name="editor_talkback_undo">Visszavon</string>
     <string name="email_picker_title">Megosztott e-mail hozzáadása</string>
     <string name="empty_query_text_msg">Nem tudom, hogy mit kell keresni…</string>
     <string name="empty_recommend_back">Vissza</string>
@@ -502,6 +515,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="face_name_edit">Szerkesztés</string>
     <string name="face_name_input">Írja be a nevet</string>
     <string name="face_recommend">Ajánlások</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Nem sikerült befejezni a műveletet</string>
     <string name="fail_to_pick_email">Érvénytelen e-mail cím</string>
     <string name="fail_to_sync_album">Album szinkronizálása sikertelen. Ellenőrizze a hálózat állapotát és próbálja újra.</string>
@@ -512,6 +526,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="feature_guidance_photo_effects">"Új fényképeffektek 
 érhetők el"</string>
     <string name="feature_guidance_video_editor_smart_effects">Új effektek érhetők el</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">Fekete-fehér</string>
     <string name="filter_bi_dusk">Homályos</string>
     <string name="filter_bi_lilt">Lendület</string>
@@ -560,7 +575,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="filter_people_movie">Film</string>
     <string name="filter_people_nature">Természetes</string>
     <string name="filter_people_pink">Pirosítás</string>
-    <string name="filter_people_riddle">Candy</string>
+    <string name="filter_people_riddle">Édesség</string>
     <string name="filter_people_sepia">Szépia</string>
     <string name="filter_people_story">Történet</string>
     <string name="filter_people_tea">Tea</string>
@@ -585,18 +600,20 @@ Készítsen több fotót a barátairól!"</string>
     <string name="filter_sky_sunset">Napnyugta</string>
     <string name="finish_create_baby_album_toast">\"%s\" album létrehozva a Mi Cloudban</string>
     <string name="finish_fill_baby">Létrehozás</string>
+    <string name="first_time_add_video_to_secret_tips">Frissítsd a Galériát a videók elrejtéséhez</string>
     <string name="flash_off">Vaku nélkül</string>
     <string name="flash_on">Vakuval</string>
     <string name="frame_not_support_image_ratio">Ez a képarány nem támogatott</string>
     <string name="free_view_desc">3D nézet</string>
     <string name="gallery_setting">Beállítások</string>
     <string name="gallery_sync_disable_toast">Galéria szinkronizálása kikapcsolva</string>
-    <string name="generate_story_summary">A MIUI kielemzi az Ön képeit és történetalbumokat hoz létre. A történetalbumok létrehozásának letiltásához kapcsolja ki ezt a funkciót.</string>
-    <string name="generate_story_title">Történetalbumok</string>
+    <string name="generate_story_summary">MIUI will analyze your photos and create memories. Turn this feature off to stop creating memories.</string>
+    <string name="generate_story_title">Memories</string>
     <string name="get_album_info_in_process">Megosztott album adatainak lekérése…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Beállítáa</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"A megfelelő működéshez a Galéria hozzáférést igényel ehhez: 
 %s
 , kattintson a \"Beállítás\" gombra az Engedélyekre lépéshez."</string>
@@ -850,6 +867,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="people_mark_mode_title_no_mark_name">Válasszon ki egy személyt</string>
     <string name="people_page_label">Személyek</string>
     <string name="people_page_unname">Névtelen</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">Az emberek képeken való megnevezéséhez</string>
     <string name="permission_contract_name">Névjegyzék</string>
     <string name="permission_optional_category">Opcionális engedélyek</string>
@@ -875,7 +893,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Firka</string>
     <string name="photo_editor_filter">Szűrő</string>
-    <string name="photo_editor_font_default">>Mi Lanting (Normál)</string>
+    <string name="photo_editor_font_default">Mi Lanting (Normál)</string>
     <string name="photo_editor_frame">Keret</string>
     <string name="photo_editor_label">Szerkesztés</string>
     <string name="photo_editor_long_crop">Vágás</string>
@@ -906,6 +924,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="photo_editor_navigator_module_downloading">%s letöltése…</string>
     <string name="photo_editor_navigator_need_download">%s letöltéséhez csatlakozzon az internethez.</string>
     <string name="photo_editor_remove_watermark">Vízjel eltávolítása</string>
+    <string name="photo_editor_remove_watermark_on">Vízjel hozzáadása</string>
     <string name="photo_editor_remover">Törlés</string>
     <string name="photo_editor_rotate">Forgatás</string>
     <string name="photo_editor_saving">Mentés…</string>
@@ -914,6 +933,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="photo_editor_talkback_confirm">Megerősítés</string>
     <string name="photo_editor_talkback_crop_16_9">Tizenhat a kilenchez</string>
     <string name="photo_editor_talkback_crop_1_1">Egy az egyhez</string>
+    <string name="photo_editor_talkback_crop_2_3">2-3</string>
     <string name="photo_editor_talkback_crop_3_4">Három a négyhez</string>
     <string name="photo_editor_talkback_crop_4_3">Négy a háromhoz</string>
     <string name="photo_editor_talkback_crop_9_16">Kilenc a tizenhathoz</string>
@@ -1045,7 +1065,12 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="scan_barcode_to_join">QR-kód beolvasása az album hozzáadásához</string>
     <string name="scan_qr_code_buttom_text">QR-kód beolvasása az album megtekintéséhez</string>
     <string name="screen_doodle_talkback_size">Doodle vonalszélesség</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Kész</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Törlés</string>
     <string name="screen_save_dialog_btn_delete">Képernyőkép törlése</string>
     <string name="screen_save_dialog_btn_save">Mentés a Galériába</string>
@@ -1103,6 +1128,9 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="search_title_recommend">Ajánlott</string>
     <string name="search_title_suggestion">Javaslatok</string>
     <string name="search_title_tag">Tárgyak</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Projektor keresése…</string>
     <string name="secret_album_card_description">A legjobb hely az Ön kis titkai számára</string>
     <string name="secret_album_card_title">Próbálja ki a rejtett albumot</string>
@@ -1178,6 +1206,12 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="slim_running">Optimalizálás…</string>
     <string name="slim_space">felszabadult</string>
     <string name="slim_stop">Optimalizálás leállítása</string>
+    <string name="special_type_eye_repair">Csukott szem megjavítva AI-val</string>
+    <string name="special_type_hdr">HDR</string>
+    <string name="special_type_night_beauty">AI low light portrait</string>
+    <string name="special_type_night_mode">AI éjszakai mód</string>
+    <string name="special_type_portrait">AI fényfestés portré</string>
+    <string name="special_type_wide_angle">AI ultraszéles látószög</string>
     <string name="start_debug">Hibakeresés a Galériában</string>
     <string name="start_to_use_face_albumset">Rendezés személyek szerint</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -1291,8 +1325,14 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="video_editor_adjust">Kihangsúlyozás</string>
     <string name="video_editor_analyzing">Videó analizálása…</string>
     <string name="video_editor_audio">Hang</string>
+    <string name="video_editor_audio_antiquity">Retró</string>
     <string name="video_editor_audio_custom">Kiválasztás</string>
+    <string name="video_editor_audio_dream">Álom</string>
+    <string name="video_editor_audio_electronics">Electro</string>
     <string name="video_editor_audio_none">Nincs</string>
+    <string name="video_editor_audio_quiet">Zen</string>
+    <string name="video_editor_audio_summertime">Nyár</string>
+    <string name="video_editor_audio_vitality">Életerő</string>
     <string name="video_editor_auto_trim">Automatikus vágás</string>
     <string name="video_editor_auto_trim_tip">Automatikus vágás…</string>
     <string name="video_editor_cancel">Mégse</string>

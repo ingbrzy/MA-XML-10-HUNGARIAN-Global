@@ -127,9 +127,14 @@
     <string name="msim_select_default_time_left">(%d mp)</string>
     <string name="select_sim_hint">SIM %2$d nem használható, mert SIM %1$d van használatban.</string>
     <string name="select_one_sim_title">Csak a SIM %1$d használható</string>
+    <string name="select_sim_hint_for_heduohao">Nem használhat másikat, amíg a SIM %1$d %2$d. alszáma használatban van.</string>
+    <string name="select_one_sim_title_for_heduohao">Csak a SIM %1$d %2$d. alszámát használhatja</string>
     <string name="can_not_use">Nem használható</string>
     <string name="sim1_description">SIM1</string>
     <string name="sim2_description">SIM2</string>
+    <string name="sim1_heduohao_card">1.alszám</string>
+    <string name="sim2_heduohao_card">2.alszám</string>
+    <string name="sim3_heduohao_card">3.alszám</string>
     <string name="call_description_recording">Hívás rögzítése…</string>
     <string name="call_recording_error_privacy">Nem készíthető felvétel Vendégmódban</string>
     <string name="call_recording_error_sd_access">Az SD-kártya nem elérhető</string>

@@ -36,6 +36,22 @@
         <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> ember szavazott"</item>
         <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> ember szavazott"</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Legmagasabb hőmérséklet: %1$s Celsius-fok</item>
+        <item quantity="one">Legmagasabb hőmérséklet: %1$s Celsius-fok</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Legmagasabb hőmérséklet: %1$s Fahrenheit-fok</item>
+        <item quantity="one">Legmagasabb hőmérséklet: %1$s Fahrenheit-fok</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Legalacsonyabb hőmérséklet: %1$s Celsius-fok</item>
+        <item quantity="one">Legalacsonyabb hőmérséklet: %1$s Celsius-fok</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Legalacsonyabb hőmérséklet: %1$s Fahrenheit-fok</item>
+        <item quantity="one">Legalacsonyabb hőmérséklet: %1$s Fahrenheit-fok</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Tiszta</item>
         <item quantity="one">Tiszta</item>
