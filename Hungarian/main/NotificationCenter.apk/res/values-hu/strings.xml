@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Értesítések</string>
+    <string name="default_list_type">Rendezés a beérkezés ideje szerint</string>
+    <string name="disable_float_notification">A lebegő értesítések nincsenek engedélyezve</string>
+    <string name="disable_lockscreen_notification">A lezáróképernyő értesítései nincsenek engedélyezve</string>
+    <string name="disable_show_badge_notification">Az értesítésjelzések nincsenek engedélyezve</string>
+    <string name="enable_float_notification">A lebegő értesítések engedélyezve vannak</string>
+    <string name="enable_lockscreen_notification">A lezáróképernyő értesítései engedélyezve vannak</string>
+    <string name="enable_show_badge_notification">Az értesítésjelzések engedélyezve vannak</string>
+    <string name="expandable_under_keyguard">Nyissa meg az értesítési felületet a képernyőzáron</string>
+    <string name="float_notifications">Lebegő értesítések</string>
+    <string name="hint_search_all">Alkalmazások keresése</string>
+    <string name="hint_search_in_disabled_apps">Alkalmazások keresése, melyek nem jeleníthetnek meg értesítéseket</string>
+    <string name="hint_search_in_enabled_apps">Alkalmazások keresése, melyek értesítéseket jeleníthetnek meg</string>
+    <string name="list_title_disable_notification">Az értesítések nincsenek engedélyezve</string>
+    <string name="loading">Egy pillanat...…</string>
+    <string name="lock_screen_display_rules">Formátum</string>
+    <string name="lock_screen_tip_toast">Először az \"Alkalmazásértesítések\"-ben engedélyezed az értesítéseket</string>
+    <string name="lockscreen_notifications">Lezáróképernyő értesítései</string>
+    <string name="not_sent_recently">Nem mostanában</string>
+    <string name="notification_display_setting">Értesítési felület</string>
+    <string name="notification_display_style">Az értesítés stílusa</string>
+    <string name="notification_fold_summary">A nem fontos értesítések egy külön mappában fognak megjelenni</string>
+    <string name="notification_fold_title">Értesítési mappa</string>
+    <string name="notification_manager">Alkalmazásértesítések</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
+    <string name="off">Ki</string>
+    <string name="on">Be</string>
+    <string name="show_badge_notifications">Értesítések száma</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_disable_float_notification">A lebegő értesítések nincsenek engedélyezve</string>
+    <string name="summary_disable_lockscreen_notification">A lezáróképernyő értesítései nincsenek engedélyezve</string>
+    <string name="summary_disable_show_badge_notification">Az értesítésjelzések nincsenek engedélyezve</string>
+    <string name="summary_enable_float_notification">A lebegő értesítések engedélyezve vannak</string>
+    <string name="summary_enable_lockscreen_notification">A lezáróképernyő értesítései engedélyezve vannak</string>
+    <string name="summary_enable_show_badge_notification">Az értesítésjelzések engedélyezve vannak</string>
+    <string name="summary_float_enable_notification_first">Értesítések engedélyezése a lebegő értesítések bekapcsolásához</string>
+    <string name="summary_lock_screen_enable_notification_first">Értesítések engedélyezése a Lezáróképernyő értesítéseinek bekapcsolásához</string>
+    <string name="summary_show_badge_enable_notification_first">Értesítések engedélyezése a értesítésjelzések bekapcsolásához</string>
+</resources>
