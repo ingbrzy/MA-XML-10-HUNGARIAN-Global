@@ -2428,7 +2428,6 @@ Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos 
     <string name="gesture_prevent_ringing_title">Nyomja le egyszerre a bekapcsológombot és a hangerő növelése gombot</string>
     <string name="gesture_setting_off">Kikapcsolva</string>
     <string name="gesture_setting_on">Bekapcsolva</string>
-    <string name="gesture_wakeup_title">Felébresztés dupla koppintással</string>
     <string name="giga_hertz">GHz</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_change_warning">Ez a beállítás a telefon összes felhasználóját érinti.</string>
