@@ -331,7 +331,6 @@
     <string name="pref_camera_beautify_entry_low">Alacsony</string>
     <string name="pref_camera_beautify_entry_normal">Közepes</string>
     <string name="pref_camera_beautify_entry_high">Magas</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="button_front_camera_title">Szelfi készítése</string>
     <string name="button_normal_video_title">Videófelvétel</string>
     <string name="button_fisheye_camera_title">Halszem</string>
@@ -711,7 +710,6 @@ a fényképek hátterének elmosásához"</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nem lehet használni a Gyorsfényképezési módot, amíg a \"Felébresztés hangerőgombokkal\" be van kapcsolva.</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
-    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_beautify_entry_auto">Ki</string>
     <string name="user_agreement2">Szolgáltatási feltételek</string>
     <string name="user_agreement4">Adatvédelmi irányelvek</string>

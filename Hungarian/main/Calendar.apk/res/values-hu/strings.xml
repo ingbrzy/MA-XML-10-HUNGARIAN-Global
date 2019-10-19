@@ -140,7 +140,6 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="date_interval_text_to">Eddig: %1$s</string>
     <string name="date_jump_hint">Ugrás közvetlenül egy bizonyos napra</string>
     <string name="date_jump_title">Dátumhoz ugrás</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (ma)"</string>
     <string name="day_view_new_event_hint">Új esemény</string>
     <string name="default_reminder_mode">Emlékeztetők</string>

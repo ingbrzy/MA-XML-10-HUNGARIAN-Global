@@ -161,7 +161,6 @@
     <string name="dialog_type_image">Képek</string>
     <string name="dialog_type_text">Dokumentumok</string>
     <string name="dialog_type_video">Videók</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">Név megjelenítése</string>
     <string name="domain">Domain</string>
     <string name="download_success">Sikeresen letöltve</string>
@@ -208,7 +207,6 @@ A hozzáadásához tartsa lenyomva a mappát és érintse meg a „Több” lehe
     <string name="favorite_ringtone">Csengőhangok</string>
     <string name="favorite_screen_cap">Képernyőképek</string>
     <string name="feedback_send_email_body_extra_info">Ne törölje a következő információt. Ez segít nekünk megtalálni a problémát.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Olvasható: </string>
     <string name="file_info_canwrite">Írható: </string>
     <string name="file_info_ishidden">Rejtett: </string>

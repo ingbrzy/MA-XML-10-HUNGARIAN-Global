@@ -60,7 +60,6 @@
     <string name="fm_has_turned_off">FM Rádió kikapcsolva</string>
     <string name="msg_fm_starting">Indítás…</string>
     <string name="txt_sleep_mode">Alvó mód</string>
-    <string name="txt_divider">" | "</string>
     <string name="group_favor">Csatornák</string>
     <string name="group_other">Állomások</string>
     <string name="using_recorder_dialog_title">Engedély szükséges</string>
