@@ -6,7 +6,7 @@
     <string name="app_version_which_call">Az alkalmazás %s verziója</string>
     <string name="pre_installed_apps">Előre telepített alkalmazások</string>
     <string name="policy_name">%s protokoll</string>
-    <string name="mibi_license">A Mi Credit Felhasználói Szerződése</string>
+    <string name="mibi_license">Mi Credit Felhasználói szerződése</string>
     <string name="license_host_unreachable">"Nem sikerült a hálózathoz csatlakozni. Az információ megtekintéséhez
 egy másik készüléken nyissa meg ezt az oldalt: %s."</string>
     <string name="permdesc_accessDrm">Engedje, hogy az alkalmazás hozzáférjen DRM-védett tartalmakhoz.</string>

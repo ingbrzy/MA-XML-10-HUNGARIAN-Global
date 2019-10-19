@@ -8,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
     <string name="abc_capital_off">KI</string>
     <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Keresés…</string>
     <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
     <string name="abc_searchview_description_query">Keresési lekérdezés</string>
@@ -17,7 +27,6 @@
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
-    <string name="search_menu_title">Keresés</string>
     <string name="add_to_trust_device">Ez egy megbízható készülék</string>
     <string name="and"> és az </string>
     <string name="bind_sign_in_title">Fiók hozzáadása</string>
@@ -62,8 +71,10 @@
     <string name="phone_number">Telefonszám</string>
     <string name="psw_hint">Jelszó</string>
     <string name="psw_sign_in">Bejelentkezés jelszó használatával</string>
+    <string name="search_menu_title">Keresés</string>
     <string name="sign_in_title">Jelentkezzen be a Mi Fiókjával</string>
     <string name="sns_sign_in">Más bejelentkezési módok</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ticket_hint">Ellenőrző kód</string>
     <string name="ticket_invalid">Az Ön által megadott kód helytelen</string>
     <string name="ticket_sign_in">Bejelentkezés SMS segítségével</string>

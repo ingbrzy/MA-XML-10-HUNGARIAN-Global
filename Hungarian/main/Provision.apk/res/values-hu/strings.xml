@@ -26,13 +26,16 @@ A kiválasztott billentyűzet Adatvédelmi irányelveinek megtekintése."</strin
     <string name="other_settings_user_experience_summary_index">Részletek megtekintése</string>
     <string name="other_settings_upload_debug_log_title">Diagnosztikai adatok automatikus küldése</string>
     <string name="other_settings_upload_debug_log_summary">Használati adatokat, amelyek segítenek nekünk azonosítani és megoldani a problémákat, amiket az Ön beküldött adatai tartalmazhatnak</string>
-    <string name="other_settings_auto_update">Frissítés automatikusan</string>
-    <string name="other_settings_auto_update_summary">A MIUI kiválasztja a legmegfelelőbb pillanatot a frissítések telepítésére</string>
-    <string name="other_settings_ad_enable">Személyre szabott reklámajánlat</string>
-    <string name="other_settings_ad_enable_summary">A személyre szabott reklámajánlatok az Ön használati szokásain alapulnak</string>
+    <string name="other_settings_auto_update">Automatikus rendszerfrissítések</string>
+    <string name="other_settings_auto_update_summary">A MIUI kiválasztja a legalkalmasabb időpontot a frissítések letöltésére és telepítésére. A készüléke automatikusan újraindul a változtatások alkalmazásához.</string>
+    <string name="other_settings_ad_enable">Személyre szabott hirdetések</string>
+    <string name="other_settings_ad_enable_summary">Hirdetések személyre szabása az érdeklődési területei alapján</string>
+    <string name="other_settings_ad_disable_summary">Kapcsolja be a hirdetések személyre szabásához</string>
+    <string name="other_settings_ad_dialog_content">A funkció kikapcsolását követően többé nem kap személyreszabott hirdetéseket. Azonban továbbra is kap olyan hirdetéseket, amelyek nem kötődnek az érdeklődési területeihez. A személyre szabott hirdetésekről további információt a Xiaomi Adatvédelmi irányelveiben talál. Mégis kikapcsolja a személyre szabott hirdetéseket?</string>
     <string name="other_settings_enhanced_lockscreen">Váltakozó háttérképek</string>
-    <string name="other_settings_enhanced_lockscreen_summary">Válogatott képeket és történeteket kap naponta a Képernyőzárra. A Felhasználási feltételek szerint.</string>
-    <string name="other_settings_enhanced_lockscreen_summary_index">Felhasználási feltételek</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Szerezzen válogatott képeket és történeteket naponta a képernyőzárra. %1$s és %2$s</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">Végfelhasználói licencszerződés</string>
+    <string name="other_settings_enhanced_lockscreen_privacy_index">Adatvédelmi Irányelvek</string>
     <string name="back">Vissza</string>
     <string name="next">Tovább</string>
     <string name="skip_underline">Lépés kihagyása</string>
@@ -51,12 +54,17 @@ A kiválasztott billentyűzet Adatvédelmi irányelveinek megtekintése."</strin
     <string name="terms_of_use_label">"A biztonsága nagyon fontos számunkra. Olvassa el a Felhasználási Feltételeket és az Adatvédelmi Irányelveket, hogy megértse, milyen információkat gyűjtünk, hogyan használjuk fel őket és milyen lehetőségei vannak.
 
 A MIUI használata előtt el kell fogadnia a Felhasználási Feltételeket és az Adatvédelmi Irányelveket. %s és a Mi Fiók elemeihez internetkapcsolat és helymeghatározás szükséges."</string>
-    <string name="terms_of_use_lable_apps">A Mi szolgáltatásokhoz, a Xiaomi SIM-aktiválási szolgáltatáshoz, a Mi Cloudhoz, a Készülékkereséshez, a Kezdőképernyőhöz, a Játékközponthoz, a MAB-hoz, a MIUI Daemon és MSA rendszerelemekhez, a Fordítási szolgáltatáshoz, a Gyorsalkalmazásokhoz, a Gyorselérési kártyákhoz, a statisztikákhoz, a Mi Linkhez</string>
+    <string name="terms_of_use_lable_apps">Mi services, Mi SIM activation services, Xiaomi Cloud, Find device, Home screen, Games, MIUI Daemon, MSA system components, translation services, Quick apps, App vault, statistics, Mi Link</string>
+    <string name="terms_of_use_label_mab">, MAB</string>
+    <string name="terms_of_use_label_Mistore">, Mi Store system plug-in</string>
     <string name="terms_of_use_lable_gms">, Google Play szolgáltatásokhoz</string>
     <string name="terms_of_use_label_systemhelper">, Önállóan bejegyzett szolgáltatáshoz</string>
+    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
     <string name="terms_of_use_lable_smart_cards">, Okoskártyákhoz</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
     <string name="terms_of_use_label_updater">, Frissítés</string>
+    <string name="terms_of_use_label_package">, Packageinstaller</string>
+    <string name="terms_of_use_label_phrase">, Frequent phrases</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 A Facemoji használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Irányelveit."</string>
@@ -88,7 +96,7 @@ A Kika használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Iránye
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">Használja ujjlenyomatát a készülék feloldásához, alkalmazásokba és szolgáltatásokba való bejelentkezéshez.</string>
     <string name="content_description_start">Kezdés</string>
-    <string name="start_up_slogan">Teljes képernyős megjelenítéshez megálmodva</string>
+    <string name="start_up_slogan">Az élet egyre könnyebb</string>
     <string name="content_description_miui_version">MIUI 10</string>
     <string name="content_description_complete">Kész</string>
     <string name="language_picker_other_languages_title">Egyéb nyelvek</string>

@@ -18,6 +18,7 @@
     <string name="cancel">Mégse</string>
     <string name="children_education">Gyermekek oktatása</string>
     <string name="choose_currency">Pénznem kiválasztása</string>
+    <string name="choose_radix">Számrendszer kiválasztása</string>
     <string name="choose_unit">Mértékegység kiválasztása</string>
     <string name="city">Település</string>
     <string name="clearDesc">törlés</string>
@@ -28,6 +29,7 @@
     <string name="convertion_unit">Mértékegységváltó</string>
     <string name="convertion_unit_area">Területváltó</string>
     <string name="convertion_unit_length">Hosszúságváltó</string>
+    <string name="convertion_unit_radix">Számrendszer</string>
     <string name="convertion_unit_temperature">Hőmérsékletváltó</string>
     <string name="convertion_unit_time">Időváltó</string>
     <string name="convertion_unit_velocity">Sebességváltó</string>
@@ -112,6 +114,7 @@
     <string name="item_title_dress_size">Ruhaméret</string>
     <string name="item_title_length_conversion">Hossz</string>
     <string name="item_title_mortgage">Lakáshitel</string>
+    <string name="item_title_radix">Számrendszer</string>
     <string name="item_title_scientific_calculator">Tudományos</string>
     <string name="item_title_tax">Adók</string>
     <string name="item_title_temprature_conversion">Hőmérséklet</string>
@@ -174,6 +177,7 @@
     <string name="mortgage_item_years">Hitel időtartama</string>
     <string name="mortgage_loans_amount">Jelzálog összege</string>
     <string name="mortgage_provident_found_interest_rate">Alapkamatláb</string>
+    <string name="mortgage_provider_east_money">Az adatokat az East Money szolgáltatja</string>
     <string name="mortgage_repayment_amount">Törlesztés összege</string>
     <string name="mortgage_result">Eredmények</string>
     <string name="mortgage_show_details">Részletek megjelenítése</string>
@@ -186,6 +190,7 @@
     <string name="negDesc">Váltás a nulla alatti és fölötti hőmérsékletek között</string>
     <string name="network_confirm_content">A pénznemváltónak, az adó és jelzálog kalkulátornak hálózati kapcsolat és tartózkodási hely szolgáltatás szükséges a megfelelő működéshez.</string>
     <string name="network_confirm_title">Engedélyek szükségesek</string>
+    <string name="network_purpose">Üdvözöljük a Számológépben! A Számológépet bármikor használhatja devizák átváltására, jelzáloghitel-törlesztése kiszámításához, és még sok minden máshoz.</string>
     <string name="none">Nincs</string>
     <string name="not_supported_due_to_language">Ez a funkció kizárólag kínai nyelven érhető el</string>
     <string name="ok">OK</string>
@@ -318,11 +323,13 @@
     <string name="unit_data_display_currency_aed">Emirátusi dirham</string>
     <string name="unit_data_display_currency_ars">Argentín peso</string>
     <string name="unit_data_display_currency_aud">Ausztrál dollár</string>
+    <string name="unit_data_display_currency_bdt">Bangladesi taka</string>
     <string name="unit_data_display_currency_bgn">Bolgár leva</string>
     <string name="unit_data_display_currency_bhd">Bahreini dinár</string>
     <string name="unit_data_display_currency_bnd">Brunei dollár</string>
     <string name="unit_data_display_currency_brl">Brazil real</string>
     <string name="unit_data_display_currency_byn">Belarusz rubel</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Kanadai dollár</string>
     <string name="unit_data_display_currency_chf">Svájci frank</string>
     <string name="unit_data_display_currency_clp">Chilei peso</string>
@@ -408,6 +415,10 @@
     <string name="unit_data_display_length_um">Mikrométer</string>
     <string name="unit_data_display_length_yd">Yard</string>
     <string name="unit_data_display_length_zhang">Zhang</string>
+    <string name="unit_data_display_radix_10">Tízes</string>
+    <string name="unit_data_display_radix_16">Tizenhatos</string>
+    <string name="unit_data_display_radix_2">Bináris</string>
+    <string name="unit_data_display_radix_8">Nyolcas</string>
     <string name="unit_data_display_temperature_c">Celsius</string>
     <string name="unit_data_display_temperature_f">Fahrenheit</string>
     <string name="unit_data_display_temperature_k">Kelvin</string>
@@ -601,8 +612,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_connect_download_manager_fail">Nem tudott csatlakozni a letöltésekhez. Ellenőrizze, hogy ez app a megfelelő engedélyekkel rendelkezik-e a Beállítások > Telepített alkalmazásokban.</string>
     <string name="xiaomi_external_storage_unavailable">Nincs elérhető tárhely. Ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Bemutatjuk a következő verziót: %1$s
 Méret:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatjuk a következő verziót: %1$s
@@ -610,5 +624,9 @@ Delta frissítés mérete:%2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s frissítés!</string>
     <string name="year" />
     <string name="preference_use_voice">Hangkimenet</string>
+    <string name="preference_use_voice_summary">Turn on to use speech output during calculations</string>
+    <string name="preference_use_voice_title">Speech output</string>
+    <string name="preference_user_feedback_title">Feedback</string>
+    <string name="voice_guide_text">You can turn on speech output here</string>
     <string name="warn_locale_unsupport_for_voice">A hangkimenet ehhez a nyelvhez még nincs támogatva.</string>
 </resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">Feloldva %d alkalommal</item>
+        <item quantity="one">Feloldva %d alkalommal</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">Feloldva %d alkalommal</item>
+        <item quantity="one">Feloldva %d alkalommal</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">%d értesítés érkezett</item>
+        <item quantity="one">%d értesítés érkezett</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">%d értesítés érkezett</item>
+        <item quantity="one">%d értesítés érkezett</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" ó"</item>
+        <item quantity="one">" ó"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" p"</item>
+        <item quantity="one">" p"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d értesítés</item>
+        <item quantity="one">%d értesítés</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d alkalommal</item>
+        <item quantity="one">%d alkalommal</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">Hétvégén: %d óra</item>
+        <item quantity="one">Hétvégén: %d óra</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">Hétvégéken: %d perc</item>
+        <item quantity="one">Hétvégéken: %d perc</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">Hétköznapokon: %d óra</item>
+        <item quantity="one">Hétköznapokon: %d óra</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">Hétköznapokon: %d perc</item>
+        <item quantity="one">Hétköznapokon: %d perc</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" ó"</item>
+        <item quantity="one">" ó"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" p"</item>
+        <item quantity="one">" p"</item>
+    </plurals>
+</resources>

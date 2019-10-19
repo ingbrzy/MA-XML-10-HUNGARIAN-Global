@@ -44,16 +44,4 @@
         <item quantity="other">%1$d elem kiválasztva</item>
         <item quantity="one">%1$d elem kiválasztva</item>
     </plurals>
-    <plurals name="search_head_hint_app">
-        <item quantity="other">%2$d elem innen: %1$s</item>
-        <item quantity="one">%2$d elem innen: %1$s</item>
-    </plurals>
-    <plurals name="search_head_hint_file">
-        <item quantity="other">%2$d elem ezzel a kulcsszóval: \"%1$s\"</item>
-        <item quantity="one">%2$d elem ezzel a kulcsszóval: \"%1$s\"</item>
-    </plurals>
-    <plurals name="search_head_hint_tag">
-        <item quantity="other">%2$d elem címkézve mint %1$s</item>
-        <item quantity="one">%2$d elem címkézve mint %1$s</item>
-    </plurals>
 </resources>

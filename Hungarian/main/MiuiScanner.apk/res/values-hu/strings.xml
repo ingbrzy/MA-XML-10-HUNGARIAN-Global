@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
     <string name="abc_action_menu_overflow_description">További lehetőségek</string>
     <string name="abc_action_mode_done">Kész</string>
@@ -10,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
     <string name="abc_capital_off">KI</string>
     <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Keresés…</string>
     <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
     <string name="abc_searchview_description_query">Keresési lekérdezés</string>
@@ -17,7 +25,7 @@
     <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
     <string name="abc_searchview_description_voice">Hangalapú keresés</string>
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
-    <string name="abc_shareactionprovider_share_with_application">Megosztás a következővel: %s</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="search_menu_title">Keresés</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -26,7 +34,11 @@
     <string name="accessibility_shutter_button">Fénykép készítése</string>
     <string name="action_search">Keresés</string>
     <string name="address">Cím:</string>
+    <string name="agree_app_use">QR-kódok beolvasása és azok más képeken való felismerése</string>
     <string name="agree_btn">Elfogadom</string>
+    <string name="agree_camera_permission">Képek készítéséhez és videók rögzítéséhez</string>
+    <string name="agree_storage_permission">A fájlokhoz és az eszközén tárolt fájlokhoz való hozzáféréshez</string>
+    <string name="always">Mindig</string>
     <string name="amazon_assistant_shopping_title">Keresés az Amazon</string>
     <string name="app_description_content">A Szkenner segít Önnek QR-kódokat, névjegykártyákat, dokumentumokat és egyebeket beolvasni. Mielőtt törölné az alkalmazást, gondolja végig, meg tudja-e oldani ezt Szkenner nélkül.</string>
     <string name="app_description_title">A Szkennerről</string>
@@ -47,8 +59,10 @@
     <string name="call_anyone">Hívás</string>
     <string name="camera_error_title">Kamera hiba</string>
     <string name="cancel">Mégse</string>
+    <string name="choose_open_code_app">Válasszon egy alkalmazást</string>
     <string name="choose_pay_title">Válasszon fizetési módot</string>
     <string name="choose_picture">QR-kód kép kiválasztása</string>
+    <string name="close_hotspot_when_connecting_to_wifi">Hotspot bekapcsolva. Kapcsolja be a wifit.</string>
     <string name="common_retake_picture">Újra</string>
     <string name="common_retry">Próbálja újra</string>
     <string name="common_save">Mentés</string>
@@ -96,12 +110,14 @@
     <string name="feed_search_fail">Nincs találat, próbálja újra</string>
     <string name="feedback_description_camera_access">Nem lehet csatlakozni a kamerához</string>
     <string name="feedback_description_save_photo">Nem sikerült a fénykép vagy a videó mentése</string>
+    <string name="flight_mode_connecting_to_wifi">Wi-Fi manuális bekapcsolása, ha a Repülőgépmód be van kapcsolva</string>
     <string name="got_it">Rendben</string>
     <string name="gps">Navigálás</string>
     <string name="import_contact">Névjegy importálása</string>
-    <string name="impunity_declaration_content">Az alkalmazás használata közben készített fényképek feldolgozásához adjon hozzáférést a beolvasónak a kamerájához. Ne használja a beolvasót olyan tárgyak fényképezésére, amelyeken látszódnak az Ön személyes adatai. Az alábbi „Elfogadom” gombra való koppintással Ön kijelenti, hogy elolvasta és elfogadja &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Adatvédelmi szabályzatunkat&lt;/a>&lt;/font> és engedélyezi a beolvasónak az internethez való csatlakozást.</string>
+    <string name="impunity_declaration_content">Az alkalmazás használata közben készített fényképek feldolgozásához adjon hozzáférést a beolvasónak a kamerájához. Ne használja a beolvasót olyan tárgyak fényképezésére, amelyeken látszódnak az Ön személyes adatai. Az alábbi „Elfogadom” gombra való koppintással Ön kijelenti, hogy elolvasta és elfogadja &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\">Adatvédelmi szabályzatunkat&lt;/a>&lt;/font> és engedélyezi a beolvasónak az internethez való csatlakozást.</string>
     <string name="impunity_declaration_negative_text">Kilépés</string>
     <string name="impunity_declaration_title">Adatvédelmi Irányelvek</string>
+    <string name="jd_shopping_title">Keresés JD-n</string>
     <string name="label_choose_picture">Válasszon egy fényképet</string>
     <string name="label_flash_light">Zseblámpa</string>
     <string name="language_entry_chinese_cn">Egyszerűsített kínai</string>
@@ -135,6 +151,7 @@
     <string name="not_insert_contact">Ne rakja be a névjegyet</string>
     <string name="not_recommend_access_web_url">Mégis</string>
     <string name="note">Megjegyzés:</string>
+    <string name="once">Csak egyszer</string>
     <string name="open_url">URL megnyitása</string>
     <string name="pay_no_tip">Ne jelenjen meg újra</string>
     <string name="pay_save_this_choose">Választásom megjegyzése</string>
@@ -161,6 +178,7 @@
     <string name="setting_alipay">AliPay</string>
     <string name="setting_choose_every_time">Mindig kérdezzen rá</string>
     <string name="setting_default_function">Alapértelmezett funkció</string>
+    <string name="setting_function_sort">Funkciók átrendezése</string>
     <string name="setting_preference_pay">Előnyben részesített fizetési mód</string>
     <string name="setting_title">Beállítások</string>
     <string name="setting_use_last_choose">Előző választás megjegyzése</string>
@@ -177,7 +195,9 @@
     <string name="switch_open">Bekapcsolás</string>
     <string name="tel">Telefon</string>
     <string name="title">Cím:</string>
+    <string name="to_install_title">Ez a QR-kód átirányítja Önt egy még nem telepített alkalmazáshoz. Letölti az alkalmazás most?</string>
     <string name="to_pay">Fizetés véglegesítése</string>
+    <string name="toinstall">Letöltés</string>
     <string name="translate_auto_lock">Fordítás zárolása</string>
     <string name="translate_auto_unlock">Fordítás zárolásának feloldása</string>
     <string name="translate_copy_success">Másolás sikeres</string>
@@ -216,9 +236,11 @@
     <string name="website_details">Honlap:</string>
     <string name="weixin_code_tip">Olvassa be ezt a QR-kódot a WeChat alkalmazással</string>
     <string name="wifi_details">Wi-Fi:</string>
-    <string name="wifi_exist_fail">A(z) „%1$s” WIFI hotspot már létezik. Töröld ki és próbáld újra.</string>
+    <string name="wifi_exist_fail">Már létezik \"%1$s\" hotspot. Törölje, majd szkennelje be újra a kódot a csatlakozáshoz.</string>
     <string name="wifi_open_fail">A Wi-Fi bekapcsolása sikertelen</string>
+    <string name="wifi_psd_toolong">A jelszó túl hosszú. Adja meg manuálisan a jelszót.</string>
     <string name="wifi_pwd">Jelszó:</string>
     <string name="wifi_security">Biztonság:</string>
     <string name="wifi_ssid">SSID:</string>
+    <string name="wx_not_installed_toast">A funkciónak használnia kell a WeChatet. Először telepítse a WeChatet.</string>
 </resources>

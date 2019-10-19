@@ -6,6 +6,9 @@ Méret: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatkozik az %1$s
 Delta frissítés mérete: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Az adattároló eszköz nem elérhető, ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Nem sikerült elindítani a letöltést. győződjön meg róla, hogy a letöltéskezelő megfelelően működik.</string>
     <string name="app_name">Biztonsági mentés</string>
     <string name="local_app_name">Biztonsági mentés</string>
@@ -48,8 +51,8 @@ Delta frissítés mérete: %2$s"</string>
     <string name="camera_summary">Kamerabeállítások (nem tartalmazza a fényképeket)</string>
     <string name="gallery_summary">Galériabeállítások (nem tartalmazza a fényképeket)</string>
     <string name="account_summary">Mi Fiók, Google-fiók és más felhasználói adatok mentése</string>
-    <string name="cloud_app_name">Mi Cloud mentés</string>
-    <string name="cloud_home_title">Mi Cloud</string>
+    <string name="cloud_app_name">Xiaomi Cloud mentés</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="prompt_reading">Beolvasás…</string>
     <string name="prompt_sending">Küldés…</string>
     <string name="prompt_writing">Mentés…</string>
@@ -57,17 +60,17 @@ Delta frissítés mérete: %2$s"</string>
     <string name="backup_update">Mentés módosítása</string>
     <string name="backup_delete">Mentés törlése:</string>
     <string name="findlost_contact">Névjegy keresése</string>
-    <string name="findlost_contact_online">Névjegy visszaállítása a Mi Cloudból</string>
+    <string name="findlost_contact_online">Névjegyek visszaállítása a felhőből</string>
     <string name="cloud_backup_login">Jelentkezzen be a Mi Fiókba</string>
     <string name="cloud_backup_hint">Jelentkezzen be a biztonsági mentés eléréséhez</string>
-    <string name="cloud_backup_window_title">Mi Cloud mentés</string>
-    <string name="cloud_restore_window_title">Mi Cloud visszaállítás</string>
+    <string name="cloud_backup_window_title">Xiaomi Cloud mentések</string>
+    <string name="cloud_restore_window_title">Visszaállítás a Xiaomi Cloudból</string>
     <string name="cloud_restore_title">Online adatmentés</string>
     <string name="local_backup_window_title">Helyi adatmentés</string>
     <string name="local_restore_window_title">Helyi adat-visszaállítás</string>
     <string name="account_login">Belépés</string>
     <string name="miliao_account_login">Bejelentkezés Mi Talkkal</string>
-    <string name="miliao_account_guide">Használja a Mi Fiókot a Mi Cloudba való bejelentkezéshez, a MIUI Téma Áruházhoz és egyéb Mi szolgáltatásokhoz.</string>
+    <string name="miliao_account_guide">Használja a Mi Fiókot bárhonnan a Xiaomi Cloudba való bejelentkezéshez, a MIUI Témákhoz.</string>
     <string name="auto_backup">Automatikus mentés</string>
     <string name="contact_title">Névjegyek</string>
     <string name="call_title">Hívásnapló</string>
@@ -115,7 +118,7 @@ Delta frissítés mérete: %2$s"</string>
     <string name="sc_network_unavailable">Ellenőrizze a hálózati kapcsolatot és próbálja újra.</string>
     <string name="sc_bad_request">Hibás kérés</string>
     <string name="sc_unaccess_password_file">Nem található Wi-Fi-hálózati jelszó</string>
-    <string name="sc_service_unavailable">A Mi Cloud nem elérhető</string>
+    <string name="sc_service_unavailable">A Xiaomi Cloud nem érhető el</string>
     <string name="sc_unauthorized">Jelentkezzen be újra</string>
     <string name="sc_request_timeout">Időtúllépés</string>
     <string name="sc_precondition_failed">A Mi Fiók nem kötődik semmilyen e-mail címhez.</string>
@@ -169,11 +172,11 @@ Delta frissítés mérete: %2$s"</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="no_network">Hálózati hiba. Kérjük, ellenőrizze a hálózati kapcsolatot majd próbálja újra</string>
     <string name="retry">Próbálja újra</string>
-    <string name="select_all">Az összes kiválasztása</string>
+    <string name="select_all">Összes kijelölése</string>
     <string name="deselect_all">Kijelölések törlése</string>
     <string name="reverse_all">Összes törlése</string>
     <string name="refresh">Frissítés</string>
-    <string name="cloud_item_info_summary">" (Helyi: %1$s | Mi Cloud: %2$s)"</string>
+    <string name="cloud_item_info_summary">(Local: %1$s | Xiaomi Cloud: %2$s)</string>
     <string name="cloud_restore_guide">%s adatainak visszaállításához kattintson a \"Visszaállítás\" gombra</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Telepítse a Mi Talkot és jelentkezzen be.
 \u0009http://www.miliao.com
@@ -227,6 +230,7 @@ Delta frissítés mérete: %2$s"</string>
     <string name="restore_backup">Visszaállítás</string>
     <string name="enable_encrypt_description">Titkosítás</string>
     <string name="disable_encrypt_description">Nincs titkosítás</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">Egy pillanat…</string>
     <string name="state_mounting">A router tárhelyének felcsatolása…</string>
     <string name="abort_backup_confirm">A mentés még nem fejeződött be. Mégis leállítja?</string>
@@ -257,7 +261,7 @@ Delta frissítés mérete: %2$s"</string>
     <string name="err_pkg_not_exist">Az alkalmazás nem található.</string>
     <string name="err_user_abort">Felhasználó által megszakítva.</string>
     <string name="err_binder_died">Az alkalmazás váratlanul leállt.</string>
-    <string name="err_no_gms">Nem kompatibilis alkalmazásverzió. Telepítse ezt az alkalmazást elkülönítve.</string>
+    <string name="err_no_gms">Nem kompatibilis alkalmazásverzió. Telepítse ezt az alkalmazást elkülönítve</string>
     <string name="backup_is_running">Készülék biztonsági mentése</string>
     <string name="restore_is_running">Visszaállítás biztonsági mentésből</string>
     <string name="notif_backup_title">Adatok mentése</string>
@@ -313,9 +317,7 @@ Tartsa a készülékeket közel egymáshoz."</string>
     <string name="trans_detail_item_app_data_too_large_tip">Úgy tűnik, ez az elem túlságosan nagy az átvitelhez.</string>
     <string name="trans_detail_item_app_data_skip_data">Az alkalmazásadatok nem vihetők át</string>
     <string name="trans_detail_item_app_data_selected_tip">A kapcsolódó alkalmazások is ki lettek választva.</string>
-    <string name="trans_detail_list_footer">"1. Kiválaszthatja az áthelyezni kívánt alkalmazásokat.
-2. Ha egy alkalmazás adatait választja, a megfelelő alkalmazás is kiválasztásra kerül.
-3. Lehet, hogy kompatibilitási problémák miatt a WeChat és a QQ alkalmazások adatai nem vihetők át. Megpróbálhatja az alkalmazáson belüli átviteli funkciókat."</string>
+    <string name="trans_detail_list_footer">1. Kiválaszthatja az áthelyezni kívánt alkalmazásokat. 2. Ha egy alkalmazás adatait választja, a megfelelő alkalmazás is kiválasztásra kerül. 3. Lehet, hogy kompatibilitási problémák miatt a WeChat és a QQ alkalmazások adatai nem vihetők át. Megpróbálhatja az alkalmazáson belüli átviteli funkciókat.</string>
     <string name="trans_detail_page_tip">Minél több elemet választ ki, annál tovább tart az átvitel.</string>
     <string name="trans_detail_sys_data_list_title">Rendszeralkalmazások</string>
     <string name="trans_detail_app_data_list_title">Alkalmazásadatok</string>
@@ -375,9 +377,7 @@ Aztán érintse meg a \"Csatlakoztassa újra\" gombot QR-kód beolvasásához."<
     <string name="trans_wait_trans_data">"Csatlakozva a régi készülékhez.
  Várakozás az átköltözésre…"</string>
     <string name="trans_select_data">Elküldendő elemek kijelölése</string>
-    <string name="trans_select_data_tips">"Válassza ki az átvinni kívánt elemeket.
-A hasonló elemek felülírásra kerülnek az új készüléken.
-(Az átvitt elemek kijelzett mérete csupán becslésen alapul.)"</string>
+    <string name="trans_select_data_tips">Válassza ki az átvinni kívánt elemeket. A hasonló elemek felülírásra kerülnek az új készüléken. (Az átvitt elemek kijelzett mérete csupán becslésen alapul.)</string>
     <string name="trans_select_data_no_space">"Az új készüléken nincs elegendő tárhely (%s elérhető).
 Szabadítson fel tárhelyet, vagy csak fontos elemeket vigyen át."</string>
     <string name="trans_select_data_too_large">"Túl sok elemet jelölt ki átvitelre.
@@ -391,12 +391,10 @@ Szabadítson fel tárhelyet, vagy csak fontos elemeket vigyen át."</string>
     <string name="trans_please_waiting">Egy pillanat…</string>
     <string name="trans_old_phone_low_space_title">Nincs elég szabad tárhely</string>
     <string name="trans_old_phone_low_space_msg">A Mi Átköltözésnek szabad tárhelyre van szüksége az átvitt adatok csomagolásához, de úgy tűnik, nincs elég hely a régi készüléken. Szabadítson fel némi tárhelyet a \"Biztonság\" alkalmazásban, vagy csak a fontos elemeket továbbítsa.</string>
-    <string name="button_clean_garbage">Tárhely-felszabadítás</string>
+    <string name="button_clean_garbage">Tárhely felszabadítása</string>
     <string name="button_quit">Kilépés</string>
     <string name="soft_ap_creating">Hotspot létrehozása…</string>
-    <string name="wait_link">"Nyissa meg a Mi Átköltözést a régi készüléken,
-nyomja meg az \"Én vagyok a küldő\" gombot és válasszon egy hotspotot.
-Ne zárja be az oldalt a kapcsolat létrejötte előtt."</string>
+    <string name="wait_link">Nyissa meg a Mi Átköltözést a régi készüléken, nyomja meg az Én vagyok a küldő gombot és válasszon egy hotspotot. Ne zárja be az oldalt a kapcsolat létrejötte előtt.</string>
     <string name="old_way">Létrehozhatja a QR-kódot az új készülékén is, majd beolvashatja azt a régi készülékével.</string>
     <string name="soft_ap_create_failed">A hotspot létrehozása sikertelen</string>
     <string name="scan_soft_ap_label">Csatlakoztatás a régi készülékhez</string>
@@ -438,12 +436,12 @@ a Mi Átköltözés letöltéséhez és telepítéséhez."</string>
     <string name="trans_intro_desc_1">A Xiaomi készüléket csatlakoztassa Wi-Fi-hálózatra, majd indítsa el a Mi Átköltözést és érintse meg az \"Én vagyok a fogadó\" gombot. Válassza ki az iOS készülékét, csatlakozzon az iCloudra és importálja az adatait.</string>
     <string name="trans_intro_question_2">%d. Hogyan használjam a Mi Átköltözést Android készülékről való adatátvitelhez?</string>
     <string name="trans_intro_title_new">Az új készüléken:</string>
-    <string name="trans_intro_desc_new">Érintse meg az \"Én vagyok a fogadó\" gombot. Generálásra kerül egy QR-kód.</string>
+    <string name="trans_intro_desc_new">Érintse meg az Én vagyok a fogadó gombot. Generálásra kerül egy QR-kód.</string>
     <string name="trans_intro_title_old">A régi készüléken:</string>
     <string name="trans_intro_desc_old">Érintse meg az \"Én vagyok a küldő\" gombot. Olvassa be az új készüléken látható QR-kódot, várjon, míg a Mi Átköltözés meghatározza a fájlokat, majd érintse meg a \"Küldés\" gombot.</string>
     <string name="trans_intro_desc_old_market">Érintse meg a \"Kezdés\" gombot. Olvassa be az új készüléken látható QR-kódot, várjon, míg a Mi Átköltözés meghatározza a fájlokat, majd érintse meg a \"Küldés\" gombot.</string>
     <string name="trans_intro_question_10">%d. A régi készüléken nem találja a hotspotot?</string>
-    <string name="trans_intro_desc_10">Az új készüléken érintse meg a \"Csatlakozás QR-kóddal\" lehetőséget, olvassa be a kódot, hogy létrejöjjön a kapcsolat.</string>
+    <string name="trans_intro_desc_10">Az új készüléken érintse meg a Csatlakozás QR-kóddal lehetőséget, olvassa be a kódot, hogy létrejöjjön a kapcsolat.</string>
     <string name="trans_intro_question_3">%d. Mit tegyek, ha a Mi Átköltözés megakadt valamelyik lépésnél?</string>
     <string name="trans_intro_desc_3">Törölje az átvitelt, lépjen ki a Mi Átköltözésből, majd kezdje újra. Nem lesznek duplikált fájljai, mert az új átvitel törli a régieket.</string>
     <string name="trans_intro_question_4">%d. Miért nem használhatom a Wi-Fi-t az átvitel alatt?</string>
@@ -461,7 +459,7 @@ a Mi Átköltözés letöltéséhez és telepítéséhez."</string>
     <string name="trans_intro_title_account">Fiókok és jelszavak:</string>
     <string name="trans_intro_desc_account">Biztonsági okokból az új készüléken újra be kell lépnie a fiókjaiba (pl. Mi Fiók, Google, Exchange, stb.).</string>
     <string name="trans_intro_title_private">Rejtett album:</string>
-    <string name="trans_intro_desc_private">A Mi Átköltözés nem adhat hozzáférést a Rejtett albumokhoz, mivel azok titkosítottak. Ezeket a Mi Cloudból állíthatja helyre az új készüléken.</string>
+    <string name="trans_intro_desc_private">A Mi Mover nem adhat hozzáférést a Rejtett albumokhoz, mivel azok titkosítottak. Ezeket a Xiaomi Cloudból állíthatja helyre az új készüléken.</string>
     <string name="trans_intro_title_multiuser">A Második asztal adatai:</string>
     <string name="trans_intro_desc_multiuser">A Mi Átköltözés nem adhat hozzáférést a Második asztal elemeihez. Átköltözés előtt helyezze át őket az Első asztalra.</string>
     <string name="trans_intro_title_multiapp">Klónozott alkalmazások adatai:</string>
@@ -553,8 +551,7 @@ https://appleid.apple.com/#!&amp;page=signin weboldalra"</string>
     <string name="hsa_sending">Küldés…</string>
     <string name="hsa_send_failed">Nem sikerült elküldeni az ellenőrző kódot. Várjon egy-két percet, majd próbálja újra.</string>
     <string name="hsa_tip_title">Tippek:</string>
-    <string name="hsa_tip_message">"1. Egy ellenőrző kódot tartalmazó üzenetet küldtünk az Apple azonosítóhoz kötött készülékre.
-2. Kapcsolja ki a kétlépcsős azonosítást, ha az ellenőrző kód nem működik."</string>
+    <string name="hsa_tip_message">1. Ha nem kapja meg az ellenőrzőkódot, győződjön meg róla, hogy már bejelentkezett az iCloud-ba az Apple készülékén. Ha az ellenőrzőkód beírása sem segít, kapcsolja ki a kétlépcsős hitelesítést.</string>
     <string name="hsa_tip_message_with_device">"1. Egy ellenőrző kódot tartalmazó üzenetet küldtünk az Apple azonosítóhoz kötött \"%s\" készülékre.
 2. Kapcsolja ki a kétlépcsős azonosítást, ha az ellenőrző kód nem működik."</string>
     <string name="hsa_tip_message_shutdown_hsa">Hogyan kapcsolja ki a kétlépcsős ellenőrzést</string>
@@ -568,6 +565,7 @@ https://appleid.apple.com/#!&amp;page=signin weboldalra"</string>
 készítenie kell egy iCloud mentést."</string>
     <string name="list_footer_tip_title">Tippek:</string>
     <string name="import_tip_summary">Kompatibilitási problémák miatt adatainak csak egy részét importálhatja iOS készülékéről. Mielőtt elkezdené a Mi Átköltözést, győződjön meg róla, hogy készített iCloud mentést.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Importálás</string>
     <string name="select_empty">Elemek kiválasztása importáláshoz</string>
     <string name="select_item_summary_wait">Várakozás…</string>
@@ -648,9 +646,10 @@ Szabadítson fel tárhelyet vagy több apróbb átvitelt vigyen véghez."</strin
     <string name="dialog_backup_password_cancel">Mégse</string>
     <string name="dialog_backup_password_to_settings">Beállítások</string>
     <string name="user_feedback">Visszajelzés</string>
-    <string name="iCloud_ID_verification_tip">Adja meg az Apple-azonosítójához társított telefonszámra küldött SMS-hitelesítésőkódot. Hagyja figyelmen kívül az iPhone képernyőjén megjelenő felugró kódot.</string>
+    <string name="iCloud_ID_verification_tip">Érintse meg az Engedélyezés-t az Apple készüléken, hogy megjelenjen az ellenőrzőkód. Ide írja be az ellenőrzőkódot.</string>
     <string name="trans_complete_restoring">Sikeresen áthelyezve. Alkalmazásadatok visszaállítása…</string>
     <string name="dialog_backup_password_auto_backup_tips">Ha a mentések jelszavas védelme aktív, akkor nem készülhet automatikus mentés. Előbb kapcsolja ki a jelszóvédelmet.</string>
     <string name="dialog_backup_password_change_device_restore_tips">Ha a mentések jelszavas védelme aktív, akkor nem használhatja a Mi Átköltözést. Előbb kapcsolja ki a jelszóvédelmet.</string>
     <string name="dialog_backup_password_restore_tips">Ha a mentések jelszavas védelme aktív, akkor nem tudja visszaállítani az elemeket. Előbb kapcsolja ki a jelszóvédelmet.</string>
+    <string name="trans_cancel_dialog_survey_title">Miért szakította meg az átköltözést?</string>
 </resources>

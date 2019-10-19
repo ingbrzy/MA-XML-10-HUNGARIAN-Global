@@ -73,8 +73,8 @@
     <string name="HIPS_Perm_get_tasks_Desc">Feladatok lekérése</string>
     <string name="HIPS_Perm_show_when_locked">Képernyőzáron való megjelenítés</string>
     <string name="HIPS_Perm_show_when_locked_Desc">Megjelenítés a képernyőzáron</string>
-    <string name="HIPS_Perm_background_start_activity">Indítás háttérben</string>
-    <string name="HIPS_Perm_background_start_activity_Desc">Háttérben való indítás engedélyezése</string>
+    <string name="HIPS_Perm_background_start_activity">Jelenítse meg a felugró ablakokat, miközben a háttérben fut</string>
+    <string name="HIPS_Perm_background_start_activity_Desc">jelenítse meg a felugró ablakokat, miközben a háttérben fut</string>
     <string name="HIPS_Perm_get_installed_apps">Információk a telepített alkalmazásokról</string>
     <string name="HIPS_Perm_get_installed_apps_Desc">Információk az erre a készülékre telepített alkalmazásokról</string>
     <string name="HIPS_Perm_service_foreground">Szolgáltatás az előtérben</string>
@@ -100,4 +100,26 @@
     <string name="grant_dialog_button_deny">Elutasítás</string>
     <string name="current_permission_template">%2$s/%1$s</string>
     <string name="never_ask_again">Ne kérdezze újra</string>
+    <string name="background_location_access_reminder_notification_title">Az Ön tartózkodási helyét a következő használja: %s</string>
+    <string name="background_location_access_reminder_notification_content">Ez az alkalmazás állandóan hozzáfér az Ön tartózkodási helyéhez. Érintse meg a változtatáshoz.</string>
+    <string name="permission_reminders">Jogosultságemlékeztetők</string>
+    <string name="grant_dialog_button_deny_and_dont_ask_again">Tagadja meg és ne kérdezze meg újra</string>
+    <string name="grant_dialog_button_deny_background">Tartsa meg a használat közbeni hozzáférést</string>
+    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Tartsa meg és ne kérdezze meg újra</string>
+    <string name="grant_dialog_button_allow_always">Engedélyezés örökre</string>
+    <string name="grant_dialog_button_allow_foreground">Engedélyezés csak míg az alkalmazást használja</string>
+    <string name="grant_dialog_button_allow_background">Engedélyezés örökre</string>
+    <string name="permgrouprequest_storage_isolated">Engedélyezi, hogy hozzáférjen a kép- és médiafájlokhoz az Ön készülékén a következő alkalmazás: &lt;b>%1$s&lt;/b>?</string>
+    <string name="permission_description_summary_activity_recognition">Az alkalmazás ezzel a jogosultsággal hozzáférhet az Ön fizikai aktivitásához, mint például a gyaloglás, a kerékpározás, a vezetés, a lépésszámlálás és egyebek</string>
+    <string name="permission_description_summary_calendar">Az alkalmazás ezzel a jogosultsággal hozzáférhet az Ön naptárához</string>
+    <string name="permission_description_summary_call_log">Az alkalmazás ezzel a jogosultsággal képes beolvasni és írni az Ön hiváslistáját</string>
+    <string name="permission_description_summary_camera">Az alkalmazás ezzel a jogosultsággal képes fényképezésre és videófelvételre</string>
+    <string name="permission_description_summary_contacts">Az alkalmazás ezzel a jogosultsággal hozzáférhet az Ön névjegyeihez</string>
+    <string name="permission_description_summary_location">Az alkalmazás ezzel a jogosultsággal hozzáférhet a készülék helyadataihoz</string>
+    <string name="permission_description_summary_microphone">Az alkalmazás ezzel a jogosultsággal hangfelvételt készíthet</string>
+    <string name="permission_description_summary_phone">Az alkalmazás ezzel a jogosultsággal telefonhívásokat indíthat és kezelhet</string>
+    <string name="permission_description_summary_sensors">Az alkalmazás ezzel a jogosultsággal hozzáférhet a szenzoradatokhoz az Ön életjeleiről</string>
+    <string name="permission_description_summary_sms">Az alkalmazás ezzel a jogosultsággal képes beolvasni vagy küldeni SMS-üzeneteket</string>
+    <string name="permission_description_summary_storage">Az alkalmazás ezzel a jogosultsággal hozzáférhet a készülékén található fájlokhoz (kép- és médiafájlokhoz is)</string>
+    <string name="permission_description_summary_generic">Az alkalmazás ezzel a jogosultsággal képes a következőre: %1$s</string>
 </resources>

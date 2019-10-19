@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mi Cloud mentés​</string>
+    <string name="app_name">Xiaomi Cloud-mentés​</string>
     <string name="settings_backup">Rendszerbeállítások</string>
     <string name="deskclock_backup">Ébresztőóra</string>
     <string name="button_cancel">Mégse</string>
@@ -13,10 +13,10 @@
     <string name="cloud_app_restore_app_and_data">Állítsa be készülékét</string>
     <string name="cloud_app_restore_data">A személyes adatok és az előzőleg telepített alkalmazások hamarosan automatikusan megjelennek a készülékén</string>
     <string name="cloud_app_dont_restore">Beállítás új készülékként</string>
-    <string name="cloud_app_restore_wifi_prompt">Visszaállítás a Mi Cloudból.</string>
+    <string name="cloud_app_restore_wifi_prompt">Visszaállítás a Xiaomi Cloudból.</string>
     <string name="cloud_backup_detail_state">Automatikus mentések</string>
     <string name="cloud_backup_detail_title">Kezdőképernyő, alkalmazások és beállítások.</string>
-    <string name="cloud_backup_detail_state_summary">Mi Cloud mentés automatikus elkészítése Wi-Fi-kapcsolat esetén.</string>
+    <string name="cloud_backup_detail_state_summary">A Xiaomi Cloud mentés automatikus elkészítése Wi-Fi-kapcsolat esetén.</string>
     <string name="cloud_backup_detail_frequence">Mentés ütemezése</string>
     <string name="cloud_backup_detail_time">Utolsó mentés: %1$s</string>
     <string name="cloud_backup_detail_manage">Mentések kezelése</string>
@@ -30,17 +30,17 @@
     <string name="cloud_back_up_subscribe_vip_title">A Mi Fiók bővítése</string>
     <string name="cloud_back_up_subscribe_vip_discription">Nagyobb tárhelyet, napi mentéseket és sok mást szerezhet.</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Bővítés</string>
-    <string name="cloud_back_up_detail_discription">"Az alábbi elemek kerülnek majd mentésre a Mi Cloud felhőbe, ha telefonja Wi-Fi-hez csatlakozik: 
+    <string name="cloud_back_up_detail_discription">"Az alábbi elemek kerülnek majd mentésre a Xiaomi Cloud-tárhelyre, ha telefonja Wi-Fi-hez csatlakozik: 
 *  Alkalmazások, Kezdőképernyő-elrendezés és háttérképek 
 *  Ébresztési-, Óra- és Időbeállítások 
 *  Értesítések beállításai 
 *  MIUI- és rendszerbeállítások 
-\"Figyelem: Az Ön által telepített alkalmazások adatai nem kerülnek Mi Cloud mentésre.\""</string>
+\"Figyelem: Az Ön által telepített alkalmazások adatai nem kerülnek Xiaomi Cloud mentésre."</string>
     <string name="cloud_app_no_data">Nem található előzőleg telepített alkalmazás</string>
     <string name="cloud_app_restore_error">Nem állítható vissza</string>
     <string name="cloud_app_restore_success">Alkalmazások visszaállítva</string>
     <string name="cloud_app_backup_success">Alkalmazások mentése sikeres</string>
-    <string name="cloud_app_check_data">Kapcsolatfelvétel a Mi Clouddal…</string>
+    <string name="cloud_app_check_data">Kapcsolatfelvétel a Xiaomi Clouddal…</string>
     <string name="cloud_app_no_network">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="button_delete">Törlés</string>
     <string name="customization"><u>Testreszabás</u></string>
@@ -50,14 +50,16 @@
     <string name="self_device_second_space">Ez a telefon Második asztala</string>
     <string name="other_device_main_space">Első asztal</string>
     <string name="other_device_second_space">Második asztal</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" visszaállítása</string>
     <string name="size_unknown">Ismeretlen méret</string>
     <string name="recovering">%s visszaállítása</string>
     <string name="start_recover">%s visszaállítása</string>
     <string name="latest_backup_time_loading">Betöltés…</string>
-    <string name="start_backup_to_micloud">Alkalmazások mentése a Mi Cloudba</string>
+    <string name="start_backup_to_micloud">Alkalmazások mentése a Xiaomi Cloudba</string>
     <string name="backing_up_to_micloud">Mentés…</string>
-    <string name="restore_from_cloud">Visszaállítás a Mi Cloudból</string>
+    <string name="restore_from_cloud">Visszaállítás a Xiaomi Cloudból</string>
     <string name="backup_to_cloud">Mentés</string>
     <string name="restoring_file_title_no_progress">Fájlvisszaállítás…</string>
     <string name="menu_item_sort">Rendezés</string>
@@ -74,7 +76,6 @@
     <string name="desktop_installing">Telepítés</string>
     <string name="desktop_wait_network">Várakozás…</string>
     <string name="desktop_failed">Hiba</string>
-    <string name="recover_from_micloud">Visszaállítás a Mi Cloudból</string>
     <string name="click_try_to_restore_again">Érintse meg az újrapróbálkozáshoz</string>
     <string name="open_wifi">Wi-Fi bekapcsolása</string>
     <string name="open_wifi_description">Csatlakozzon Wi-Fi-hálózathoz az alkalmazás visszaállításához</string>
@@ -104,10 +105,10 @@
     <string name="about_to_recover">Egy pillanat…</string>
     <string name="success_open_cloudbackup">A Kezdőképernyő alkalmazásainak mentése bekapcsolva</string>
     <string name="as_new_device">Korábbi mentés lecserélése</string>
-    <string name="as_new_device_summary">Korábbi Mi Cloud mentések törlése</string>
+    <string name="as_new_device_summary">Korábbi Xiaomi Cloud mentések törlése</string>
     <string name="restore_data_summary">A szolgáltatáshoz internetkapcsolat szükséges.</string>
-    <string name="query_restore_summary">Egy Mi Cloud mentés található a készüléken. Visszaállítja a kezdőképernyő alkalmazásait és beállításokat, vagy új készülékként használja és törli a korábbi Mi Cloud mentéseket?</string>
-    <string name="restore_home_screen_apps">Visszaállítás a Mi Cloud mentésből</string>
+    <string name="query_restore_summary">Egy Xiaomi Cloud mentés található a készüléken. Visszaállítja a kezdőképernyő alkalmazásait és beállításokat, vagy új készülékként használja és törli a korábbi Xiaomi Cloud mentéseket?</string>
+    <string name="restore_home_screen_apps">Visszaállítás a Xiaomi Cloudból</string>
     <string name="query_restore_description">Ezzel a mentéssel visszaállíthatja a Kezdőképernyő alkalmazásait és beállításait. Ez felülírja azon alkalmazások adatait, amelyek már telepítve vannak a készüléken. Azok az alkalmazások, amelyek nem találhatóak a mentésben, a Kezdőképernyő utolsó oldalára lesznek áthelyezve.</string>
     <string name="restore_from_this_device">Visszaállítás ebből a mentésből</string>
     <string name="confirm_cancel_restore_title">Törli a visszaállítást?</string>
@@ -116,8 +117,8 @@
     <string name="confirm_restore_title">Visszaállítás</string>
     <string name="confirm_restore_summary">A kezdőképernyője visszaállításra kerül. Az elmentett alkalmazások automatikusan letöltődnek majd.</string>
     <string name="confirm_restore">Visszaállítás</string>
-    <string name="cloud_backup_have_data">Mentés található a Mi Cloudban</string>
-    <string name="cloud_backup_select_recover">Mentés kiválasztása a Mi Cloudból</string>
+    <string name="cloud_backup_have_data">Mentés található a Xiaomi Cloudban</string>
+    <string name="cloud_backup_select_recover">Mentés kiválasztása a Xiaomi Cloudból</string>
     <string name="backup_finished_notification_content">Kezdőképernyő, rendszerbeállítások, stb. elmentve.</string>
     <string name="restore_finished_notification_content">Kezdőképernyő, rendszerbeállítások, stb. elmentve.</string>
     <string name="backup_now">Mentés</string>
@@ -134,11 +135,12 @@
     <string name="provision_error_connect_msg">Ellenőrizze a hálózatot, majd próbálja újra. Ha a készüléke offline módban van, a mentések sem érhetők el.</string>
     <string name="provision_error_connect_title">Nem tud kapcsolódni</string>
     <string name="loading_user_backup">Felhasználói mentés betöltése…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">Méretszámítás…</string>
     <string name="authentication_failed">Nem sikerült a fiókellenőrzés.</string>
     <string name="no_account">Nincs Mi Fiókba bejelentkezve.</string>
-    <string name="no_backup">Nincs mentés a Mi Cloudban.</string>
+    <string name="no_backup">Nincs mentés a Xiaomi Cloudban.</string>
     <string name="download_meta_failed">Az adatbetöltés sikertelen.</string>
     <string name="home_restore_error">Kezdőképernyő visszaállítása sikertelen</string>
     <string name="get_device_id_error">Nem kérhető le a készülékazonosító</string>
@@ -162,10 +164,10 @@
     <string name="dialog_btn_restore_skip">Visszaállítás később</string>
     <string name="dialog_btn_cancel_backup">Mégse</string>
     <string name="dialog_btn_overwrite_backup">Felülírás</string>
-    <string name="dialog_msg_overwrite_backup">A helyi mentés különbözik egy Mi Cloud mentéstől. Ha most folytatja, felül fogja írni a jelenlegi mentéssel az előzőt.</string>
-    <string name="cloud_backup">Mi Cloud mentés</string>
+    <string name="dialog_msg_overwrite_backup">A helyi mentés különbözik egy Xiaomi Cloud mentéstől. Ha most folytatja, felül fogja írni a jelenlegi mentéssel az előzőt.</string>
+    <string name="cloud_backup">Xiaomi Cloud mentések</string>
     <string name="open_backup_switch">Mentés kapcsolójának átváltása</string>
-    <string name="restore_cloud_backup_to_phone">Elemek visszaállítása a Mi Cloudból</string>
+    <string name="restore_cloud_backup_to_phone">Elemek visszaállítása a Xiaomi Cloudból</string>
     <string name="cloud_backup_in_process">Mentés folyamatban…</string>
     <string name="cloud_backup_in_cancel">Mégse</string>
     <string name="dialog_cancel_backup_title">Megszakítja a folyamatban lévő mentést?</string>
@@ -178,6 +180,7 @@
     <string name="done_remove">Sikeresen eltávolítva</string>
     <string name="doing_restore_home">Kezdőképernyő és beállítások visszaállítása…</string>
     <string name="restoring_settings">A Beállítások visszaállítása…</string>
+    <string name="restoring_data">Adatvisszaállítás…</string>
     <string name="title_alert_cancel_restore">Visszaállítás megszakítása</string>
     <string name="msg_alert_cancel_restore">Elemek visszaállítása folyamatban. Megállítja most?</string>
     <string name="btn_restore_cancel">Mégse</string>
@@ -189,7 +192,7 @@
     <string name="msg_restore_start_with_metered_network">"A kezdőképernyője visszaállításra kerül. Az elmentett alkalmazások automatikusan letöltődnek majd. &lt;br />&lt;b>&lt;font color='red'>%s fájl tölthető le.&lt;/font>&lt;/b>"</string>
     <string name="title_restore_with_current_network">A jelenlegi adatkapcsolat használata a fájlok letöltésére</string>
     <string name="title_alert_restore_error">A visszaállítás nem sikerült</string>
-    <string name="msg_alert_restore_error">A visszaállítás Mi Cloudból nem sikerült. Próbálja újra.</string>
+    <string name="msg_alert_restore_error">A visszaállítás Xiamoi Cloudból nem sikerült. Próbálja újra.</string>
     <string name="btn_restore_retry">Újrapróbálkozás</string>
     <string name="btn_restore_abort">Mégse</string>
     <string name="backup_stopped_title">A mentés szüneteltetve</string>
@@ -217,7 +220,7 @@ Ellenőrizze a hálózati beállításokat és próbálja újra."</string>
     <string name="unselected">Nincs kiválasztva</string>
     <string name="backup_failed_reason_network_error">Hálózati hiba. Várjon egy kicsit és próbálja újra.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Nincs elég szabad tárhely. Előbb szabadítson fel tárhelyet.</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">Nincs elég szabad Mi Cloud-tárhely. Bővítse előfizetését vagy szabadítson fel tárhelyet.</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Nincs elég szabad Xiaomi Cloud-tárhely. Bővítse előfizetését vagy szabadítson fel tárhelyet.</string>
     <string name="restore_task_unfinished">A visszaállítás nem sikerült</string>
     <string name="restore_failed_reason_network_error">Hálózati hiba. Várjon egy kicsit és próbálja újra.</string>
     <string name="restore_failed_reason_disk_space_not_enough">Nincs elég szabad tárhely. Előbb szabadítson fel tárhelyet.</string>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Tartsa nyomva a gombot az egységen %1$d másodpercig</item>
+        <item quantity="one">Tartsa nyomva a gombot az egységen %1$d másodpercig</item>
+    </plurals>
+</resources>

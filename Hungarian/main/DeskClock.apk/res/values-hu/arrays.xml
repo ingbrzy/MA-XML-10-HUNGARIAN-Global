@@ -2,13 +2,13 @@
 <resources>
     <string-array name="alarm_in_furture">
         <item>Ébresztés 1 percen belül</item>
-        <item>Ébresztés %1$s múlva</item>
-        <item>Ébresztés %2$s múlva</item>
-        <item>Ébresztés %1$s %2$s múlva</item>
-        <item>Ébresztés %3$s múlva</item>
-        <item>Ébresztés %1$s %3$s múlva</item>
-        <item>Ébresztés %2$s %3$s múlva</item>
-        <item>Ébresztés %1$s %2$s %3$s múlva</item>
+        <item>Ébresztés %1$s</item>
+        <item>Ébresztés %2$s</item>
+        <item>Ébresztés %1$s %2$s</item>
+        <item>Ébresztés %3$s</item>
+        <item>Ébresztés %1$s %3$s</item>
+        <item>Ébresztés %2$s %3$s</item>
+        <item>Ébresztés %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Egyszer</item>
@@ -663,7 +663,7 @@
     <string-array name="timer_duration">
         <item>Összesen %1$s</item>
         <item>Összesen %2$s</item>
-        <item>Összesen %1$s%2$s</item>
+        <item>Összesen %1$s %2$s</item>
         <item>Összesen %3$s</item>
         <item>Összesen %1$s%3$s</item>
         <item>Összesen %2$s %3$s</item>

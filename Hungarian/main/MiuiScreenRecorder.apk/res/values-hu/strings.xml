@@ -58,6 +58,7 @@
     <string name="operation_send">Küldés</string>
     <string name="permission_intro_microphone">Hang rögzítéséhez, ha a hangforrás mikrofonra van állítva</string>
     <string name="permission_intro_storage">Képernyő-felvételek mentéséhez</string>
+    <string name="permission_microphone_desc">A mikrofon használata a képernyővideó-felvételek audióforrásaként</string>
     <string name="quit_recording">Kilépés a Képernyővideó-felvevőből</string>
     <string name="recording_failure">Nem sikerült a felvétel, kezdje elölről</string>
     <string name="recording_max_size">A felvétel leállításra és mentésre került a felső mérethatár elérése miatt. Ha még nem fejezte be, indítsa onnan újra a felvételt, ahol leállt.</string>
@@ -66,10 +67,12 @@
     <string name="resolution_summary">A videók nagyobb felbontásban élesebbek</string>
     <string name="screen_orientation">Tájolás</string>
     <string name="screen_orientation_summary">A felvett videók tájolása</string>
-    <string name="screen_record_option">Felvétel beállításai</string>
-    <string name="screen_record_params">Felvétel paraméterei</string>
+    <string name="screen_record_option">A felvételek beállításai</string>
+    <string name="screen_record_params">A felvételek jellemzői</string>
     <string name="select_all">Összes kijelölése</string>
     <string name="settings">Beállítások</string>
+    <string name="settings_other">Egyéb</string>
+    <string name="settings_privacy">Adatvédelmi nyilatkozat</string>
     <string name="show_hard_key">Navigációsgomb-megjelenítés</string>
     <string name="show_hard_key_summary">Jelezze, ha a Home, Menü vagy Vissza gombok érintve lettek</string>
     <string name="show_screen_touch">Érintés-visszajelzés</string>

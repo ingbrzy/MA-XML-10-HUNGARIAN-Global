@@ -188,7 +188,7 @@ A billentyűzetre és a navigációs sávra nem lehet ránagyítani."</string>
     <string name="account_settings_menu_auto_sync">Automata adatszinkronizálás</string>
     <string name="account_settings_menu_auto_sync_personal">Személyesadat-szinkronizálás</string>
     <string name="account_settings_menu_auto_sync_work">Munkaadat-szinkronizálás</string>
-    <string name="account_settings_title">Fiókok</string>
+    <string name="account_settings_title">Google és más fiókok</string>
     <string name="account_sync_settings_title">Szinkronizálás</string>
     <string name="account_sync_summary_all_off">Szinkronizálás kikapcsolva minden elemnél</string>
     <string name="account_sync_summary_all_on">Szinkronizálás bekapcsolva minden elemnél</string>
@@ -277,8 +277,8 @@ A rendszergazda képes a beállítások, hozzáférések, alkalmazások és a fe
     <string name="alarm_ringtone_title">Alapértelmezett ébresztőhang</string>
     <string name="alarm_sound_dialog_title">Ébresztőhang kiválasztása</string>
     <string name="alarm_sound_title">Ébresztő hangja</string>
-    <string name="alarm_stop">Kapcsolja ki a Néma módot, amikor az ébresztés véget ért</string>
-    <string name="alarm_stop_info">A Néma mód ki fog kapcsolódni az ébresztés befejeztével</string>
+    <string name="alarm_stop">Kapcsolja ki a Néma módot, amikor az ébresztés bekapcsolt</string>
+    <string name="alarm_stop_info">A Néma mód ki fog kapcsolódni az ébresztés bekapcsolásával</string>
     <string name="alarm_template">%1$s órakor</string>
     <string name="alarm_template_far">%1$s órakor</string>
     <string name="alarm_volume_option_title">Ébresztés hangereje</string>
@@ -307,12 +307,13 @@ A rendszergazda képes a beállítások, hozzáférések, alkalmazások és a fe
     <string name="always">Mindig</string>
     <string name="always_allow_bind_appwidgets_text">Ön engedélyezte az alkalmazás számára modulok létrehozását, illetve az adataikhoz való hozzáférést.</string>
     <string name="always_running">Mindig fut (%s)</string>
+    <string name="always_style">Állandóan</string>
     <string name="amber_alerts_summary">Közlemények kérése elrabolt gyerekekről</string>
     <string name="amber_alerts_title">NARANCS riasztás</string>
     <string name="ambient_display_category_triggers">Mikor jelenjen meg?</string>
     <string name="ambient_display_pickup_summary">Az idő, az értesítési ikonok és egyéb információk megjelenítéséhez vegye a kezébe telefonját.</string>
     <string name="ambient_display_pickup_title">Ellenőrzés felemeléssel</string>
-    <string name="ambient_display_screen_summary_always_on">Mindig be/Megnövekedett akkumulátorhasználat</string>
+    <string name="ambient_display_screen_summary_always_on">Mindig bekapcsolva / Megnövelt akkuhasználat</string>
     <string name="ambient_display_screen_summary_notifications">Új értesítések</string>
     <string name="ambient_display_screen_title">Környezeti kijelző</string>
     <string name="ambient_display_summary">Az idő, az értesítési ikonok és egyéb információk megjelenítéséhez koppintson kétszer a képernyőre.</string>
@@ -330,6 +331,18 @@ A rendszergazda képes a beállítások, hozzáférések, alkalmazások és a fe
     <string name="animator_duration_scale_title">Animálás időtartama</string>
     <string name="another_migration_already_in_progress">Már folyamatban van egy másik adatátvitel.</string>
     <string name="anti_spam">Tiltólista</string>
+    <string name="aod_and_lock_screen_settings_title">Környezeti kijelző és Képernyőzár</string>
+    <string name="aod_close_color_inversion">Ez a funkció nem működik invertált színekkel. Előbb kapcsolja ki a színek invertálását.</string>
+    <string name="aod_name_wanxiang">Környezeti kijelző</string>
+    <string name="aod_notification_style_animation">Animáció megjelenítése</string>
+    <string name="aod_notification_style_none">Semmit se csináljanak</string>
+    <string name="aod_notification_style_screen_on">Kijelző bevilágítása</string>
+    <string name="aod_settings_category_name">Környezeti kijelző</string>
+    <string name="aod_settings_title">Környezeti kijelző</string>
+    <string name="aod_show_mode_title">Elemek megjelenítése</string>
+    <string name="aod_style_description">Óra, dátum, idő, értesítések és egyéb elemek megjelenítése, amikor a kijelző ki van kapcsolva</string>
+    <string name="aod_style_title">Stílus</string>
+    <string name="aod_to_close">Kikapcsolás</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Azonosítás típusa</string>
     <string name="apn_auth_type_chap">CHAP</string>
@@ -448,9 +461,10 @@ A rendszergazda képes a beállítások, hozzáférések, alkalmazások és a fe
     <string name="application_permissions">Alkalmazásengedélyek</string>
     <string name="application_restrictions">Alkalmazások és tartalmak engedélyezése</string>
     <string name="application_size_label">Alkalmazás mérete</string>
-    <string name="applications_settings">Alkalmazáskezelő</string>
+    <string name="applications_settings">Alkalmazáskezelés</string>
     <string name="applications_settings_header">Alkalmazásbeállítások</string>
     <string name="applications_settings_summary">Alkalmazások kezelése, gyorsindító parancsikonok létrehozása</string>
+    <string name="applications_settings_title">Alkalmazások</string>
     <string name="apply">Alkalmaz</string>
     <string name="apply_fingerprint_to_category_title">Ujjlenyomat használata itt…</string>
     <string name="apply_now_button_text">Frissítés</string>
@@ -865,6 +879,8 @@ Alkalmazások:
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Újraindítja az eszközt?</string>
     <string name="bluetooth_disable_absolute_volume">Abszolút hangerő letiltása</string>
     <string name="bluetooth_disable_absolute_volume_summary">Tiltsa le a \"Bluetooth abszolút hangerő\" funkciót azon távoli eszközök esetén, amelyeknél elfogadhatatlanul hangos hangerőt vagy az irányítás hiányát érzékeli.</string>
+    <string name="bluetooth_disable_mi_fast_connect">A Mi Link letiltása</string>
+    <string name="bluetooth_disable_mi_fast_connect_summary">Letiltja a Mi Link funkciót</string>
     <string name="bluetooth_disable_profile_message">Ezzel kikapcsolja a következőt:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Ettől:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Profil tiltása?</string>
     <string name="bluetooth_disabled">Kikapcsolva</string>
@@ -1014,6 +1030,12 @@ Csatornamód kiválasztása"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth LDAC hangkodek – lejátszási minőség</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth LDAC hangkodek:
 Lejátszás minőségének kiválasztása"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth LHDC hangkodek: Késleltetés</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Bluetooth LHDC hangkodek kiválasztása:
+Késleltetés"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth LHDC hangkodek: Lejátszási minőség</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Bluetooth LHDC hangkodek:
+Lejátszási minőség"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth hang – mintavételezési gyakoriság</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth hangkodek:
 Mintavételezési gyakoriság kiválasztása"</string>
@@ -1119,8 +1141,12 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="bootloader_status_unlocked">Nyitott</string>
     <string name="bootloader_status_unlocked_info">Ennek a készüléknek nyitott a bootloadere</string>
     <string name="bootloader_summary">Készülék flashelése USB-n keresztül</string>
-    <string name="bootloader_tips">A Mi Fiók hozzáadását követően ne jelentkezzen ki, ne végezzen gyári visszaállítást, illetve ne törölje a rendszeralkalmazások adatait. Ha a fentiek bármelyikét elvégzi, újra hozzá kell adnia a fiókját, ellenkező esetben nem lesz képes feloldani a készülék bootloaderét.</string>
+    <string name="bootloader_tips">"%s
+
+Ha a felsoroltak közül bármelyiket megtette már, adja hozzá újra a Mi Fiókját, különben nem lesz képes feloldani a készülék bootloaderét."</string>
     <string name="bootloader_tips_ok">Rendben</string>
+    <string name="bootloader_tips_warning">Ne csatlakozzon le a hálózatról, ne jelentkezzen ki a Mi Fiókjából, ne végezzen gyári adatok visszaállítását vagy rendszeradat-formázást.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">A fényjelzés színe</string>
     <string name="breathing_light_color_summary">Új értesítés érkezését jelző fény színe</string>
     <string name="breathing_light_freq_summary">Villogás új értesítés érkezésekor</string>
@@ -1149,6 +1175,14 @@ Ezt a funkciót kikapcsolhatja a [Beállítások] menüben"</string>
     <string name="bt_ldac_open_dialog_title">Bekapcsolja az LDAC-ot?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Attribútumok</string>
+    <string name="bt_lhdc_declaration">Ha egy Bluetooth-eszköz támogatja az LHDC technológiát, alapértelmezetten csatlakoztatásra kerül. Az LHDC kiváló minőségű hangélményt tesz lehetővé, de egyidejűleg nagyobb energiafogyasztással is jár. A lejátszás közben problémák léphetnek fel a Bluetooth-eszköz hardverkorlátai miatt.</string>
+    <string name="bt_lhdc_dialog_summary">"Az LHDC jobb hangélményt nyújt, de az akkumulátor fogyasztását is növeli.
+Ezt a funkciót kikapcsolhatja a Beállítások menüben."</string>
+    <string name="bt_lhdc_dialog_title">A jelenlegi készülék támogatja az LHDC technológiát, ami alapértelmezetten csatlakoztatva lett:</string>
+    <string name="bt_lhdc_open_dialog_summary">Az LHDC kiváló minőségű hangélményt tesz lehetővé, de egyidejűleg nagyobb energiafogyasztással is jár. A lejátszás közben problémák léphetnek fel a Bluetooth-eszköz hardverkorlátai miatt.</string>
+    <string name="bt_lhdc_open_dialog_title">Bekapcsolja az LHDC-t?</string>
+    <string name="bt_lhdc_pre_title">LHDC</string>
+    <string name="bt_lhdc_property">Jellemzők</string>
     <string name="bt_pre_summary">Kiváló minőségű hangélményt nyújt</string>
     <string name="bt_rarely_used_device_title">Ritkán használt eszközök (%d)</string>
     <string name="bt_trace_log">Bluetooth nyomkövetési napló engedélyezése</string>
@@ -1178,6 +1212,7 @@ Ezt a funkciót kikapcsolhatja a [Beállítások] menüben"</string>
     <string name="cache_header_label">Gyorsítótár</string>
     <string name="cache_size_label">Gyorsítótár</string>
     <string name="cached">Gyorsítótárazott háttérfolyamat</string>
+    <string name="calendar_remind">Események</string>
     <string name="calendar_sound_dialog_title">Naptárhang kiválasztása</string>
     <string name="calendar_sound_title">A naptár hangja</string>
     <string name="call_manager_enable_summary">Engedélyezi a szolgáltatás számára a hívások módjának kezelését.</string>
@@ -1281,6 +1316,7 @@ Ezt a funkciót kikapcsolhatja a [Beállítások] menüben"</string>
     <string name="choose_a_card_to_reset">Válassza ki a visszaállítandó SIM-kártyát</string>
     <string name="choose_keyguard_clock_style">A képernyőzár órájának stílusa</string>
     <string name="choose_keyguard_clock_summary">Ez a beállítás nem működik külső forrásból származó témával</string>
+    <string name="choose_lock_pattern_header_text">Minta beállítása</string>
     <string name="choose_profile">Profilválasztás</string>
     <string name="choose_smartcover_type">Tok típusának kiválasztása</string>
     <string name="choose_spell_checker">Helyesírás-ellenőrző</string>
@@ -1309,10 +1345,10 @@ Ezt a funkciót kikapcsolhatja a [Beállítások] menüben"</string>
     <string name="close_optimization_message">A funkció kikapcsolása befolyásolhatja a szövegelrendezést, a fiókokat és a MIUI rendszer egyéb részeinek működését.</string>
     <string name="close_optimization_option">Kikapcsolás</string>
     <string name="close_privacy_thumbnail_blur_title">Az előnézetek nem kerültek elhomályosításra</string>
-    <string name="cloud_backup_section_title">Mi Cloud mentés</string>
+    <string name="cloud_backup_section_title">Xiaomi Cloud mentés</string>
     <string name="cloud_backup_settings_section_title">A biztonsági mentések beállításai</string>
     <string name="cloud_restore_section_summary">Rendszerbeállítások, Kezdőképernyő-elrendezés és alkalmazások visszaállítása</string>
-    <string name="cloud_restore_section_title">Visszaállítás a Mi Cloudból</string>
+    <string name="cloud_restore_section_title">Visszaállítás a Xiaomi Cloudból</string>
     <string name="cmcc_hardware_version">Hardververzió</string>
     <string name="color_black">Fekete</string>
     <string name="color_blue">Kék</string>
@@ -1324,18 +1360,23 @@ Ezt a funkciót kikapcsolhatja a [Beállítások] menüben"</string>
     <string name="color_led_applications_title">Alkalmazások kijelölése</string>
     <string name="color_led_applications_title_summary">Korlátozhatja egyes alkalmazások LED-fény használatát</string>
     <string name="color_led_battery_title">Töltés közben bekapcsolva</string>
+    <string name="color_led_charging_summary">Akkumulátortöltésnél kikapcsolásra kerül</string>
     <string name="color_led_end_time">Befejezési idő</string>
-    <string name="color_led_game_mode_title">Játékmód</string>
+    <string name="color_led_game_mode_summary">A Játékgyorsító bekapcsolt állapotának jelzése játék közben</string>
+    <string name="color_led_game_mode_title">A Játékgyorsító jelzése</string>
     <string name="color_led_hint">"Válassza ki a helyzeteket, amikor LED-fényt kell használni. A LED-fény akkor fog világítani, ha a készülék le van fordítva és a 'Ne zavarjanak' ki van kapcsolva."</string>
-    <string name="color_led_incall_pulse_title">Bejövő hívások villogó jelzése</string>
+    <string name="color_led_incall_pulse_title">A bejövő hívások jelzése</string>
     <string name="color_led_lucky_dialog_message">Ez a funkció a \"Piros boríték\"-segéd használatához szükséges. Bekapcsolja most?</string>
     <string name="color_led_lucky_dialog_title">A \"Piros boríték\"-segéd bekapcsolása</string>
-    <string name="color_led_music_mode_summary">Ritmikus fényeffektek megjelenítése, amikor zenét hallgat</string>
-    <string name="color_led_music_mode_title">Zene</string>
-    <string name="color_led_notification_pulse_title">Az értesítések villogó jelzése</string>
+    <string name="color_led_music_mode_summary">Ritmikusan villanó fényekkel jelzi a zenelejátszást. Néma módban nem működik.</string>
+    <string name="color_led_music_mode_title">A zenelejátszás jelzése</string>
+    <string name="color_led_notification_pulse_title">Az értesítések villogó jelzése kikapcsolt képernyőn</string>
     <string name="color_led_red_more_feature">Speciális hatások</string>
-    <string name="color_led_red_package_title">Piros borítékok</string>
+    <string name="color_led_red_package_title">A piros borítékok jelzése</string>
+    <string name="color_led_red_packets_summary">A piros borítékok jelzése a WeChatból vagy a QQ-ból, ha a piros boríték asszisztense be van kapcsolva</string>
+    <string name="color_led_special_scene_title">Speciális hatások</string>
     <string name="color_led_start_time">Kezdési idő</string>
+    <string name="color_led_summary">Ne zavarjanak (DND) módban nem működik</string>
     <string name="color_led_title">LED-fény</string>
     <string name="color_magenta">Magenta</string>
     <string name="color_mode_option_automatic">Automatikus</string>
@@ -1404,6 +1445,7 @@ Ezt a funkciót kikapcsolhatja a [Beállítások] menüben"</string>
     <string name="confirm_frp_credential_message">A készüléke visszaállt gyári alaphelyzetbe. Előző jelszavát használva tudja feloldani.</string>
     <string name="confirm_frp_credential_skip_txt">Google-fiók használata helyette</string>
     <string name="confirm_frp_credential_title">Feloldás Gyári adatok visszaállítása után</string>
+    <string name="confirm_lock_pattern_header_text">Rajzolja le a feloldómintát</string>
     <string name="confirm_new_backup_pw_prompt">Még egyszer írja be a teljes mentés új jelszavát</string>
     <string name="confirm_password_with_fingerprint">Ujjlenyomat használata</string>
     <string name="confirm_password_with_password">Írja be a jelszót</string>
@@ -1431,6 +1473,7 @@ Ezt a funkciót kikapcsolhatja a [Beállítások] menüben"</string>
     <string name="connected_via_passpoint">Csatlakozva %1$s segítségével</string>
     <string name="connected_wifi">Csatlakozva</string>
     <string name="connecting_to_vpn">Csatlakozás VPN-hez</string>
+    <string name="connection_and_sharing">Kapcsolat &amp; megosztás</string>
     <string name="content_description_menu_button">Menü</string>
     <string name="contributors_title">Közreműködők</string>
     <string name="controls_label">Vezérlőelemek</string>
@@ -1457,8 +1500,8 @@ Ezt a funkciót kikapcsolhatja a [Beállítások] menüben"</string>
     <string name="credentials_configure_lock_screen_hint">Be kell állítani a képernyőzár PIN-kódját vagy jelszavát, mielőtt használhatja a hitelesítőtárolót.</string>
     <string name="credentials_enabled">A hitelesítési adatok tárolója engedélyezve van.</string>
     <string name="credentials_erased">Hit. adatok tárolója üres.</string>
-    <string name="credentials_install">Telepítés az SD-kártyáról</string>
-    <string name="credentials_install_summary">Tanúsítványok telepítése az SD-kártyáról</string>
+    <string name="credentials_install">Telepítés tárhelyről</string>
+    <string name="credentials_install_summary">Tanúsítványok telepítése tárhelyről</string>
     <string name="credentials_not_erased">Az azonosítótárolót nem lehet törölni.</string>
     <string name="credentials_old_password">Jelenlegi jelszó:</string>
     <string name="credentials_password_too_short">Legalább 8 karakter szükséges</string>
@@ -1526,6 +1569,7 @@ Ahhoz, hogy újra használni tudja telefonját, vissza kell állítani a gyári 
     <string name="current_zone">(jelenlegi)</string>
     <string name="custom_carrier_title">A szolgáltató nevének szerkesztése</string>
     <string name="custom_wifi_name_title">A Wi-Fi nevének szerkesztése</string>
+    <string name="customize_function">Az elérhető minták</string>
     <string name="cutout_mode_always">A képernyőkivágás állandó megjelenítése</string>
     <string name="cutout_mode_default">Automatikus</string>
     <string name="cutout_mode_settings_title">Előfordulhat, hogy egyes alkalmazások helytelenül jelennek meg, ha testreszabja a kivágás megjelenítési módját.</string>
@@ -1851,8 +1895,10 @@ Ha a probléma továbbra is fennáll, akkor az akkumulátor teljesítményének 
     <string name="dialog_title_hdmi_color_calibration">Színkorrekció előbeállítás</string>
     <string name="dialog_title_login">Jelentkezzen be a Mi Fiókjába</string>
     <string name="dialog_yes">Igen</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Megjegyzés: újraindítás után ez az alkalmazás csak akkor fog elindulni, ha feloldotta a készüléket</string>
     <string name="directory_access">Mappahozzáférés</string>
+    <string name="directory_on_volume">%1$s (%2$s)</string>
     <string name="disable_overlays">HW fedvények letiltása</string>
     <string name="disable_overlays_summary">Képernyő leképezéshez mindig a GPU-t használja</string>
     <string name="disable_power_key_long_press_under_keyguard">Bekapcsológomb menüjének kikapcsolása</string>
@@ -1876,6 +1922,7 @@ Ha a probléma továbbra is fennáll, akkor az akkumulátor teljesítményének 
     <string name="disabled_dependent_setting_summary">Másik beállítástól függ</string>
     <string name="disabled_for_user_setting_summary">A jelenlegi felhasználó nem módosíthatja a beállítást</string>
     <string name="disabled_low_ram_device">Ez a funkció nem érhető el az ön készülékén</string>
+    <string name="disallow_lock_screen_summary">Elsőként engedélyezze az értesítéseket az \"Alkalmazásértesítések\"-ben</string>
     <string name="disconnected">Nincs csatlakozás</string>
     <string name="display_auto_rotate_rotate">Be</string>
     <string name="display_auto_rotate_stay_in_current">Ki</string>
@@ -1898,9 +1945,9 @@ Ha a probléma továbbra is fennáll, akkor az akkumulátor teljesítményének 
     <string name="display_vr_pref_title">Ha az eszköz VR módban van</string>
     <string name="dlg_cancel">Mégse</string>
     <string name="dlg_close">Bezárás</string>
-    <string name="dlg_confirm_unmount_text">Ha leválasztja az SD-kártyát, egyes használatban lévő alkalmazások leállnak, és lehet, hogy addig nem lesznek elérhetők, amíg nem csatlakoztatja újra a kártyát.</string>
-    <string name="dlg_confirm_unmount_title">SD-kártya leválasztása?</string>
-    <string name="dlg_error_unmount_text">Nem lehetett leválasztani az SD-kártyát. Próbálkozzon újra később.</string>
+    <string name="dlg_confirm_unmount_text">Ha leválasztja az USB-tárat, akkor néhány használt alkalmazás leáll, és lehet, hogy addig nem lesz elérhető, amíg újra nem csatlakoztatja az USB-tárat.</string>
+    <string name="dlg_confirm_unmount_title">Leválasztja az USB-tárat?</string>
+    <string name="dlg_error_unmount_text">Nem lehet leválasztani az USB-tárat. Próbálkozzon újra később.</string>
     <string name="dlg_error_unmount_title" />
     <string name="dlg_ok">OK</string>
     <string name="dlg_remove_locales_error_message">Legalább egy előnyben részesített nyelvet tartson meg</string>
@@ -1919,6 +1966,7 @@ Ha a probléma továbbra is fennáll, akkor az akkumulátor teljesítményének 
     <string name="dndm_auto_button_title">Ne zavarjanak mód idejének ismétlése</string>
     <string name="dndm_auto_setting_group">Ütemezett</string>
     <string name="dndm_auto_time_setting">Időbeállítás</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Befejezés</string>
     <string name="dndm_auto_time_turn_off_title">Automatikusan kikapcsolja a Ne zavarjanak módot</string>
     <string name="dndm_auto_time_turn_on">Kezdés</string>
@@ -2045,6 +2093,7 @@ A létrehozott naplókat a Fájlkezelőben tekintheti meg."</string>
     <string name="enable_mobile_data_when_opening_hotspot">Engedélyezi a mobiladat-kapcsolatot is?</string>
     <string name="enable_opengl_traces_title">OpenGL nyomonkövetése</string>
     <string name="enable_quick_setting">Megjelenítés a Gyorsbeállítások között</string>
+    <string name="enable_screen_projection_summary">Képernyő tartalom kivevítése külső monitorra</string>
     <string name="enable_service_encryption_warning">Ha engedélyezi a(z) %1$s szolgáltatást, az eszköz nem fogja használni a képernyőzárat az adattitkosítás növelése érdekében.</string>
     <string name="enable_service_password_reason">Mivel a(z) %1$s bekapcsolása hatással van az adatok titkosítására, meg kell erősítenie jelszavát.</string>
     <string name="enable_service_pattern_reason">Mivel a(z) %1$s bekapcsolása hatással van az adatok titkosítására, meg kell erősítenie mintáját.</string>
@@ -2162,8 +2211,8 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a szervezet r
     <string name="erase_data">Törlés</string>
     <string name="erase_esim_storage">eSIM törlése</string>
     <string name="erase_esim_storage_description">A telefonon található összes e-SIM-kártya törlése. Ezzel nem szünteti meg mobil-előfizetését.</string>
-    <string name="erase_external_storage">SD-kártya törlése</string>
-    <string name="erase_external_storage_description">Minden adat, például zenék és képek törlése az SD-kártyáról</string>
+    <string name="erase_external_storage">USB-tár törlése</string>
+    <string name="erase_external_storage_description">Minden adat, például zenék és képek törlése a belső USB-tárról</string>
     <string name="erase_internal_storage">Tárolt tartalmak törlése a belső tárhelyről</string>
     <string name="erase_internal_storage_description">Az összes zene, fénykép, videó és minden felhasználói adat törlése a belső tárhelyről</string>
     <string name="erase_optional">Választható</string>
@@ -2190,7 +2239,7 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a szervezet r
     <string name="experimental_category_title">Kísérleti</string>
     <string name="experimental_preference">(Kísérleti)</string>
     <string name="external_code_size_label">USB-alkalmazás</string>
-    <string name="external_data_size_label">SD-kártya</string>
+    <string name="external_data_size_label">USB-adatok</string>
     <string name="external_source_switch_title">Engedélyezés ebből a forrásból</string>
     <string name="external_source_trusted">Engedélyezve</string>
     <string name="external_source_untrusted">Nem engedélyezett</string>
@@ -2209,13 +2258,14 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a szervezet r
     <string name="fallback_home_title">Egy pillanat…</string>
     <string name="fcc_equipment_id">Eszközazonosító</string>
     <string name="feedback">Visszajelzés</string>
+    <string name="feedback_settings">Szolgáltatások és visszajelzés</string>
     <string name="file_privacy_password_role_instruction">A privát fájljai itt fognak megjelenni.</string>
     <string name="filter">Szűrő</string>
     <string name="filter_all_apps">Az összes alkalmazás</string>
     <string name="filter_apps_all">Az összes alkalmazás</string>
     <string name="filter_apps_cached">Gyorsítótárazva</string>
     <string name="filter_apps_disabled">Letiltott alkalmazások</string>
-    <string name="filter_apps_onsdcard">Az SD-kártyán</string>
+    <string name="filter_apps_onsdcard">USB-tár</string>
     <string name="filter_apps_running">Futó</string>
     <string name="filter_apps_third_party">Letöltött</string>
     <string name="filter_dlg_title">Válasszon szűrési lehetőségeket</string>
@@ -2265,7 +2315,7 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a szervezet r
     <string name="fingerprint_manage_category_title">Ujjlenyomatok kezelése</string>
     <string name="fingerprint_manage_tittle">Ujjlenyomat</string>
     <string name="fingerprint_not_identified_msg">Az ujjlenyomat nem leolvasható. Adja meg a jelszavát</string>
-    <string name="fingerprint_not_recognized">Nem sikerült felismerni</string>
+    <string name="fingerprint_not_recognized">Nem felismerhető</string>
     <string name="fingerprint_others_title">Egyéb</string>
     <string name="fingerprint_payment">Fizetés ujjlenyomattal</string>
     <string name="fingerprint_removal_failed">Az ujjlenyomat eltávolítása sikertelen, próbálja meg később</string>
@@ -2287,7 +2337,7 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a szervezet r
     <string name="firewall_allow_wlan">Wi-Fi-kapcsolat használatának engedélyezése</string>
     <string name="firewall_applist">Alkalmazások</string>
     <string name="firewall_mobile">Mobiladat-kapcsolat</string>
-    <string name="firewall_network_allow">A(z) %1$s használhatja a %2$s hálózati kapcsolatát</string>
+    <string name="firewall_network_allow">A(z) %1$s használhatja a%2$s hálózati kapcsolatát</string>
     <string name="firewall_network_restrict_notify_message">Érintse meg a beállítások módosításához.</string>
     <string name="firewall_network_restrict_notify_mobile">Mobiladat-kapcsolat</string>
     <string name="firewall_partial">Engedélyezze néhány alkalmazásnak, hogy a következő módon kapcsolódjon</string>
@@ -2303,6 +2353,7 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a szervezet r
     <string name="firewall_temp_rule_reason">%2$s korlátozta az internet-hozzáférést %1$s​ számára</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Ha ezt kikapcsolja, a telepített alkalmazás nem lesz képes Wi-Fi-n keresztül az internetre kapcsolódni.</string>
+    <string name="firmware_title">Android</string>
     <string name="firmware_version">Android-verzió</string>
     <string name="flash_drive_backup_restore">Biztonsági mentés vagy visszaállítás USB-t használva</string>
     <string name="flash_drive_backup_restore_summary">Csatlakoztasson egy USB-meghajtót</string>
@@ -2356,11 +2407,11 @@ Nem voltak sehol lovak vagy más állatok; az emberek mindent kis zöld kocsikon
     <string name="forget">Elfelejt</string>
     <string name="forget_password_button_text"><u>Elfelejtett jelszó</u></string>
     <string name="forget_password_dialog_button_text">Vissza</string>
-    <string name="forget_password_dialog_content_four">&lt;Data>2. Válassza ki a &lt;font color=#e6e6e6>[Wipe data]&lt;/font> lehetőséget, majd várja meg, amíg készüléke újraindul.&lt;/Data></string>
+    <string name="forget_password_dialog_content_four">2. Válassza ki az [Wipe data] opciót és várjon, amíg az eszköz újraindul.</string>
     <string name="forget_password_dialog_content_one">&lt;Data>Ha elfelejti a jelszavát, nem lesz képes visszaállítani azt. Törölni viszont tudja a jelszót, miután &lt;font color=#ec2700>minden adatot törölt a készülékéről&lt;/font> (beleértve a fényképeket, névjegyeket, stb.). Mielőtt ezt megtenné, mentse el az összes fontos adatát.&lt;/Data></string>
-    <string name="forget_password_dialog_content_three">"&lt;Data>1. Kapcsolja ki készülékét. Nyomja meg és tartsa lenyomva a &lt;font color=#e6e6e6>[Bekapcsoló]&lt;/font> és a &lt;font color=#e6e6e6>[Hangerő fel]&lt;/font> gombokat egyszerre a(z) &lt;img src=''> ikon megjeléséig.&lt;/Data>"</string>
+    <string name="forget_password_dialog_content_three">1. Kapcsolja ki eszközét. Nyomja meg a [Bekapcsoló] gombot és a [Hangerő+] gombot egyszerre és tartsa őket addig lenyomva, amíg megjelenik a * ikon.</string>
     <string name="forget_password_dialog_content_two">Az adatok törléséhez kövesse ezeket a lépéseket:</string>
-    <string name="forget_password_dialog_title">Állítsa vissza a jelszavát</string>
+    <string name="forget_password_dialog_title">Adatok törlése</string>
     <string name="forget_pattern"><u>Elfelejtette a mintát?</u></string>
     <string name="forget_privacy_password_setting">Mi Fiók hozzáadása</string>
     <string name="forget_privacy_password_summary">Használjon Mi Fiókot a jelszó visszaállításához</string>
@@ -2394,6 +2445,9 @@ Nem voltak sehol lovak vagy más állatok; az emberek mindent kis zöld kocsikon
     <string name="frequently_fragment_tempty">A leggyakrabban használt elemek itt lesznek láthatóak</string>
     <string name="fsg_mistake_touch_summary">Bizonyos esetekben, például teljes képernyős játékokban és videókban a mozdulatokat kétszer kell megismételni ahhoz, hogy működjenek</string>
     <string name="fsg_mistake_touch_title">Duplán elvégzendő kézmozdulatok</string>
+    <string name="full_screen_display">Teljes képernyős mód</string>
+    <string name="full_screen_keyboard_optimization">Billentyűzetnövelés</string>
+    <string name="full_screen_keyboard_settings">Teljes képernyős billentyűbeálítások</string>
     <string name="full_transparent_smarrcover_title">Átlátszó előlapú tok</string>
     <string name="fullbackup_data_summary">"Eszközadatok (például Wi-Fi-jelszavak és híváslista) és alkalmazásadatok (például az alkalmazások által tárolt beállítások és fájlok) automatikus biztonsági mentése távolról.
 
@@ -2410,6 +2464,7 @@ Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos 
     <string name="gadget_picker_title">Modul kiválasztása</string>
     <string name="gadget_state_off">ki</string>
     <string name="gadget_state_on">be</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">kikapcsolás</string>
     <string name="gadget_state_turning_on">bekapcsolás</string>
     <string name="gadget_sync">Szinkronizálás</string>
@@ -2419,8 +2474,15 @@ Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos 
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">A privát képei itt fognak megjelenni.</string>
     <string name="game_booster">Játék;Játékok;Turbó;Játékmód</string>
+    <string name="game_booster_title">Játékgyorsító</string>
     <string name="game_controller_settings_category">Játékvezérlő</string>
     <string name="game_storage_settings">Játékok</string>
+    <string name="gesture_c">C-minta</string>
+    <string name="gesture_m">M-minta</string>
+    <string name="gesture_open_alipay">Az Alipay megnyitása</string>
+    <string name="gesture_open_camera">A Kamera megnyitása</string>
+    <string name="gesture_open_music">A Zene alkalmazás megnyitása</string>
+    <string name="gesture_open_wechat">A WeChat megnyitása</string>
     <string name="gesture_preference_summary">Gyors kézmozdulatok telefonja kezeléséhez</string>
     <string name="gesture_preference_title">Kézmozdulatok</string>
     <string name="gesture_prevent_ringing_screen_title">Csörgés megakadályozása</string>
@@ -2428,18 +2490,26 @@ Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos 
     <string name="gesture_prevent_ringing_title">Nyomja le egyszerre a bekapcsológombot és a hangerő növelése gombot</string>
     <string name="gesture_setting_off">Kikapcsolva</string>
     <string name="gesture_setting_on">Bekapcsolva</string>
+    <string name="gesture_w">W-minta</string>
+    <string name="gesture_wakeup_summary">Ha az Alapértelmezet vagy a Klasszikus téma van telepítve, dupla koppintással kikapcsolhatja a képernyőt</string>
+    <string name="gesture_wakeup_title">Felébresztés dupla koppintással</string>
+    <string name="gesture_z">Z-minta</string>
     <string name="giga_hertz">GHz</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_change_warning">Ez a beállítás a telefon összes felhasználóját érinti.</string>
     <string name="global_locale_change_title">Rendszernyelv módosítása</string>
+    <string name="gmscore_settings_title">Google-alapszolgáltatások</string>
     <string name="go_back_button_label">Vissza</string>
     <string name="go_to_sleep">A képernyő kikapcsolása</string>
+    <string name="google_account_title">Google</string>
     <string name="google_assistant_label">Google Segéd</string>
     <string name="google_backup_enable">Mentés bekapcsolása</string>
     <string name="google_backup_section_title">Google mentés és visszaállítás</string>
+    <string name="google_service_title">Google-szolgáltatások</string>
     <string name="google_title">Google</string>
     <string name="got_it">Rendben</string>
     <string name="gsm_to_wifi_connect_type_title">Mobiladat Wi-Fi-ként</string>
+    <string name="gxzw_add_fingerprint_area">Ujjlenyomat-olvasó</string>
     <string name="gxzw_add_fingerprint_continue">Folytatás</string>
     <string name="gxzw_add_fingerprint_edge_message">Óvatosan mozgassa az ujját, hogy beolvasódjanak az ujjlenyomata barázdái</string>
     <string name="gxzw_add_fingerprint_edge_title">Módosítsa az ujja helyzetét</string>
@@ -2465,7 +2535,13 @@ Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos 
     <string name="gxzw_dialog_ok">Rendben</string>
     <string name="gxzw_dialog_title">A képernyőbe épített ujjlenyomat-olvasóról</string>
     <string name="gxzw_enroll_again">Emelje fel az ujját, és nyomja meg újra az ujjlenyomat-olvasót</string>
-    <string name="gxzw_quick_open_title" />
+    <string name="gxzw_quick_open_enable_summary">Mozdulatvezérlési parancsikonokat használhat az alkalmazások megnyitásához vagy az alkalmazásfunkciók használatához, ha a készülék feloldott állapotban van</string>
+    <string name="gxzw_quick_open_enable_title">Ujjlenyomat-parancsikonok</string>
+    <string name="gxzw_quick_open_fast_summary">Ha készüléke feloldott állapotban van, csúsztasson a parancsikon használatához.</string>
+    <string name="gxzw_quick_open_fast_title">Gyorscsúsztatás (haladó)</string>
+    <string name="gxzw_quick_open_slow_summary">A parancsikon-menü megnyitásához tartsa lenyomva az ujjlenyomat-ikont. Csúsztasson rajta a parancsikon használatához.</string>
+    <string name="gxzw_quick_open_slow_title">Nyomva tartás</string>
+    <string name="gxzw_quick_open_title">Parancsikonok</string>
     <string name="handy_mode">Egykezes használat</string>
     <string name="handy_mode_enable">Egykezes használat</string>
     <string name="handy_mode_size">Képernyőméret</string>
@@ -2501,6 +2577,7 @@ Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos 
     <string name="header_category_system">Rendszer</string>
     <string name="header_category_wireless_networks">Vezeték nélküli és egyéb hálózatok</string>
     <string name="header_data_and_synchronization">Adatok és szinkronizálás</string>
+    <string name="headset_settings_title">Fülhallgatók</string>
     <string name="heavy_weight_stop_description">Ezt az alkalmazást nem lehet biztonságosan leállítani. Ha leállítja, akkor elveszítheti az aktuális munkájának egy részét.</string>
     <string name="help_feedback_label">Segítség és visszajelzés</string>
     <string name="help_label">Súgó és visszajelzés</string>
@@ -2522,6 +2599,7 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="home">Kezdőképernyő beállításai</string>
     <string name="home_app">Launcher</string>
     <string name="home_key">Home</string>
+    <string name="home_title">Kezdőképernyő</string>
     <string name="home_work_profile_not_supported">Nem támogatja a munkaprofilokat</string>
     <string name="http_invoke_app">Webalkalmazások</string>
     <string name="http_invoke_app_summary">Alkalmazások gyorsabb megnyitása telepítés nélkül</string>
@@ -2559,12 +2637,26 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="input_assistance">Beviteli segítség</string>
     <string name="input_hint_prefix">%1$s beírása</string>
     <string name="input_method">Billentyűzet</string>
+    <string name="input_method_bottom_close">Ki</string>
+    <string name="input_method_bottom_open">Be</string>
+    <string name="input_method_function_clipboard">Vákólap és gyakori kifejezések</string>
+    <string name="input_method_function_clipboard_des">Érintse meg a vágólap tartalmának és a gyakori kifejezések megtekintéséhez</string>
+    <string name="input_method_function_no_function">Nincs</string>
+    <string name="input_method_function_no_function_des">Ne jelenítsen meg további parancsikonokat</string>
+    <string name="input_method_function_switch">Billentyűzetek közötti váltás</string>
+    <string name="input_method_function_switch_des">Érintse meg az alapértelmezett billentyűzetre váltáshoz</string>
+    <string name="input_method_function_voice">Hangbemenet</string>
+    <string name="input_method_function_voice_des">Érintse meg a hangbemenet használatához</string>
+    <string name="input_method_function_xiaoai">Mi AI hangbemenet</string>
+    <string name="input_method_function_xiaoai_des">Érintse meg a Mi AI hangbemenet használatához</string>
+    <string name="input_method_manage">Billentyűzetek kezelése</string>
     <string name="input_method_selector">Bevitelimód-választó</string>
     <string name="input_method_selector_always_hide_title">Mindig rejtve</string>
     <string name="input_method_selector_always_show_title">Mindig látszik</string>
     <string name="input_method_selector_show_automatically_title">Automatikus</string>
     <string name="input_method_settings">Beállítások</string>
     <string name="input_method_settings_button">Beállítások</string>
+    <string name="input_method_settings_text">Beállítások</string>
     <string name="input_methods_and_subtype_enabler_title">Válasszon aktív beviteli módokat</string>
     <string name="input_methods_settings_label_format">%1$s beállításai</string>
     <string name="input_methods_settings_title">Szöveges bevitel</string>
@@ -2624,6 +2716,7 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="key_position_cat">A gombok elrendezése</string>
     <string name="key_settings">Gombfunkciók és kézmozdulatok</string>
     <string name="key_settings_title">Gombfunkciók és kézmozdulatok</string>
+    <string name="key_shortcut_settings_title">Gyorsbillentyűk</string>
     <string name="key_system_control">Rendszerfelügyelet</string>
     <string name="keyboard_and_input_methods_category">Billentyűzet</string>
     <string name="keyboard_assistance_category">Billentyűzetsegéd</string>
@@ -2632,6 +2725,7 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="keyboard_layout_dialog_switch_hint">Váltáshoz nyomja meg a Control+szóköz billentyűkódot</string>
     <string name="keyboard_layout_dialog_title">Billentyűzetkiosztás kiválasztása</string>
     <string name="keyboard_layout_picker_title">Billentyűzetkiosztások</string>
+    <string name="keyboard_mouse_touch">Billentyűzet, egér és érintőpad</string>
     <string name="keyboard_settings_category">Beviteli módok</string>
     <string name="keyboard_settings_title">Android-billentyűzet</string>
     <string name="keyboard_shortcuts_helper">Billentyűkódsegéd</string>
@@ -2723,6 +2817,7 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="keywords_wifi_calling">wifi, wi-fi, hív, hívás</string>
     <string name="keywords_write_settings">rendszerbeállítások írása és módosítása</string>
     <string name="keywords_zen_mode_settings">ne zavarjanak, ütemezés, értesítések, letiltás, néma, rezgés, alvó mód, munka, fókusz, hang, némítás, nap, hétköznap, hétvége, hétköznap este, esemény</string>
+    <string name="kid_space_settings">Gyerektér</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">KB/mp</string>
     <string name="label_mi_stats">Mi analitika</string>
@@ -2772,6 +2867,7 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="led_frequence_summary">Villogás gyakoriságának beállítása</string>
     <string name="led_pulse_summary">Villogó értesítési fény új értesítés érkezésekor</string>
     <string name="led_settings">Értesítésjelző fény</string>
+    <string name="left_function_key">Bal oldali parancsikon</string>
     <string name="legal_information">Jogi információk</string>
     <string name="legal_workday">Hivatalos munkanapokon</string>
     <string name="legal_workday_invalidate">Hétfőtől Péntekig (szünnapok információja elévült)</string>
@@ -2782,6 +2878,7 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="lights_title">LED-fény</string>
     <string name="line_breaking_summary">Bekezdés sortörés optimalizálása</string>
     <string name="line_breaking_title">Sortörés optimalizálása</string>
+    <string name="link_speed">%1$d Mb/s</string>
     <string name="list_bg_header_text">Ha korlátozza a háttérkapcsolatokat, az új alkalmazások telepítésük után nem tudnak majd a háttérben az internetre kapcsolódni. Lehet, hogy ezek az alkalmazások nem tudnak majd üzeneteket fogadni vagy letölteni ezután.</string>
     <string name="list_empty_text">Üres</string>
     <string name="loading">Egy pillanat…</string>
@@ -2877,6 +2974,7 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="lock_profile_wipe_warning_content_password">Ha ennél a kisérletnél helytelen munkahelyi jelszót ad meg, akkor az Ön munkahelyi profilja és a hozzátartozó adatok is véglegesen törlődnek készülékéről.</string>
     <string name="lock_profile_wipe_warning_content_pattern">Ha ennél a kisérletnél helytelen munkahelyi feloldómintát ad meg, akkor az Ön munkahelyi profilja és a hozzátartozó adatok is véglegesen törlődnek készülékéről.</string>
     <string name="lock_profile_wipe_warning_content_pin">Ha ennél a kisérletnél helytelen munkahelyi PIN-kódot ad meg, akkor az Ön munkahelyi profilja és a hozzátartozó adatok is véglegesen törlődnek készülékéről.</string>
+    <string name="lock_screen_display_category_name">Képernyőzár</string>
     <string name="lock_screen_intro_skip_dialog_text">Az eszköz védelmi funkcióit nem lehet bekapcsolni. Nem fogja tudni megakadályozni, hogy mások használják a telefont, ha elveszett vagy ellopták.</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">Az eszköz védelmi funkcióit nem lehet bekapcsolni. Nem fogja tudni megakadályozni, hogy mások használják a telefont ha elveszett, ellopták vagy visszaállították.</string>
     <string name="lock_screen_intro_skip_title">Kihagyja a lezárási képernyőt?</string>
@@ -2890,6 +2988,7 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="lock_screen_notifications_summary_show">Összes értesítés jelenjen meg tartalommal együtt</string>
     <string name="lock_screen_notifications_summary_show_profile">A munkaprofil-értesítés teljes tartalmának megjelenítése</string>
     <string name="lock_screen_notifications_title">A lezárási képernyőn</string>
+    <string name="lock_screen_settings_title">Képernyőzár</string>
     <string name="lock_screen_signature_summary">Ez az üzenet meg fog jelenni a képernyőzáron</string>
     <string name="lock_screen_signature_title">Tulajdonos adatai a képernyőzáron</string>
     <string name="lock_screen_unlock_show">Képernyőzár kihagyása</string>
@@ -3036,7 +3135,7 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="lockscreen_magazine_title">Váltakozó háttérképek</string>
     <string name="lockscreen_remote_input">Ha az eszköz zárolva van, ne lehessen választ vagy egyéb szöveget beírni az értesítéseknél</string>
     <string name="lockscreen_settings_title">A lezárási képernyő beállításai</string>
-    <string name="login_account_dialog_message">Jelentkezzen be Mi Fiókjával és kapcsolja be a Mi Cloud-szinkronizálást.</string>
+    <string name="login_account_dialog_message">Jelentkezzen be Mi-fiókjával és kapcsolja be a felhővel szinkronizálást.</string>
     <string name="login_account_dialog_title">Bejelentkezés Mi Fiókkal</string>
     <string name="login_account_summary">Fiókkezelés, felhőszolgáltatás, vásárlás és sok minden más</string>
     <string name="login_action">Bejelentkezés</string>
@@ -3045,7 +3144,9 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="long_press_home_key">Home gomb hosszan nyomva</string>
     <string name="long_press_menu_key">Menü gomb hosszan nyomva</string>
     <string name="long_press_menu_key_when_lock">Menü gomb hosszan nyomva lezárt képernyőnél</string>
+    <string name="long_press_power_key">A Bekapcsológomb hosszan nyomva</string>
     <string name="long_press_power_key_half_of_second">Tartsa nyomva a Bekapcsoló gombot 0,5 másodpercig a Google Segéd indításához</string>
+    <string name="long_press_power_key_tips">&lt;Data>A Bekapcsológomb hosszan nyomva &lt;font color=#999999>Gyorsabb és még kényelmesebb&lt;/font>&lt;/Data></string>
     <string name="long_press_volume_down">Hosszan nyomja le a Hangerő gombot</string>
     <string name="lost_internet_access_cancel">Maradjon a Wi-Fi-hálózaton</string>
     <string name="lost_internet_access_persist">Ne jelenjen meg többé</string>
@@ -3066,6 +3167,8 @@ Ezt később bármikor módosíthatja a Beállítások > Alkalmazások és érte
     <string name="manage_notification_access_summary_zero">Az alkalmazások nem tudják olvasni az értesítéseket</string>
     <string name="manage_notification_access_title">Hozzáférés értesítésekhez</string>
     <string name="manage_notification_title">Alkalmazásértesítések</string>
+    <string name="manage_password">Jelszókezelés</string>
+    <string name="manage_password_summary">A mentett fiókok és jelszavak automatikus kitöltése</string>
     <string name="manage_space_text">Tárhely kezelése</string>
     <string name="manage_trust_agents">Trust agent komponensek</string>
     <string name="manage_trust_agents_summary">Nincs</string>
@@ -3106,7 +3209,7 @@ Jelenleg a következő fiókokba van bejelentkezve:
 "<li>Más felhasználói adatok</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-A zenék, képek és más felhasználói adatok törléséhez az "<b>SD-kártyát</b> is törölnie kell.</string>
+A zenék, képek és más felhasználói adatok törléséhez az "<b>USB-tárat</b> is törölnie kell.</string>
     <string name="master_clear_desc_no_cancel_mobile_plan">"
 
 Ezzel nem szünteti meg mobil-előfizetését."</string>
@@ -3142,7 +3245,7 @@ Más felhasználók is vannak ezen az eszközön.
     <string name="media_output_summary">Telefon</string>
     <string name="media_output_summary_unavailable">Nem áll rendelkezésre</string>
     <string name="media_output_title">Média lejátszása:</string>
-    <string name="media_volume_option_title">A média hangereje</string>
+    <string name="media_volume_option_title">Zene, játékok, média</string>
     <string name="media_volume_summary">Zenék és videók hangerejének beállítása</string>
     <string name="media_volume_title">Média</string>
     <string name="megabyteShort">MB</string>
@@ -3179,6 +3282,7 @@ Más felhasználók is vannak ezen az eszközön.
     <string name="memory_title">Elérhető: %1$s\u0009\u0009Összesen: %2$s</string>
     <string name="memory_usage">Memóriahasználat</string>
     <string name="memory_usage_apps">Alkalmazások által használt memória</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s átlagos memóriahasználat az elmúlt 3 órában</string>
     <string name="menu_cancel">Elvetés</string>
     <string name="menu_check">Tapasztalat</string>
@@ -3211,6 +3315,7 @@ Más felhasználók is vannak ezen az eszközön.
     <string name="mi_service">Mi szolgáltatás</string>
     <string name="mi_service_app_detail">Adatforgalmi részletek</string>
     <string name="mi_shopping_mall">Mi Áruház</string>
+    <string name="mi_transfer">Mi Átköltözés</string>
     <string name="mi_upi_settings">Mi Pay Fiók</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Egyéb fájlok</string>
@@ -3223,9 +3328,15 @@ Más felhasználók is vannak ezen az eszközön.
     <string name="miui_data_usage_menu_metered">Mobil hotspotok</string>
     <string name="miui_experience_optimization">MIUI optimalizáció bekapcsolása</string>
     <string name="miui_input_method_settings">A beviteli mód beállításai</string>
+    <string name="miui_lab_3d_gesture_desc">Nyissa meg a Kezdőképernyőt, majd a telefonnal rajzolja a levegőbe a minták egyikét a kiválasztott alkalmazás indításához</string>
+    <string name="miui_lab_3d_gesture_slogan">Rajzoljon egy mintát a készülékével a levegőbe egy előre beállított alkalmazás indításához</string>
+    <string name="miui_lab_3d_gesture_summary">Rajzoljon egy mintát a készülékével a levegőbe egy előre beállított alkalmazás indításához</string>
+    <string name="miui_lab_3d_gesture_title">3D minta</string>
     <string name="miui_lab_ai_cloud_closed">Az Intelligens előtöltés még nem érhető el.</string>
     <string name="miui_lab_ai_preload_desc">Az Intelligens előtöltés gyorsítja az alkalmazások megnyitását</string>
     <string name="miui_lab_ai_preload_title">Intelligens előtöltés</string>
+    <string name="miui_lab_aiasst_call_screen_desc">Csatlakozás Tippekkel</string>
+    <string name="miui_lab_aiasst_call_screen_title">Tippek hívás</string>
     <string name="miui_lab_drive_mode_desc">Hangvezérlés használata és WeChat-üzenetek meghallgatása</string>
     <string name="miui_lab_drive_mode_title">Autós mód</string>
     <string name="miui_lab_feature_applied">Alkalmazva</string>
@@ -3258,6 +3369,7 @@ Más felhasználók is vannak ezen az eszközön.
     <string name="miui_sos_contacts_add">Vészhelyzeti névjegyek</string>
     <string name="miui_sos_contacts_category">Vészhelyzeti névjegyek</string>
     <string name="miui_sos_emergency_contacts">Vészhelyzeti névjegyek</string>
+    <string name="miui_sos_emergency_delete">Törlés</string>
     <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) már elfogadva.</string>
     <string name="miui_sos_emergency_delivered_sms_noname">%1s már elfogadva</string>
     <string name="miui_sos_emergency_failed_sms" formatted="false">Nem küldhet üzenetet neki: %1s (%2s).</string>
@@ -3315,13 +3427,14 @@ Más felhasználók is vannak ezen az eszközön.
     <string name="model_summary">Modell: %1$s</string>
     <string name="modify_instruction_password_settings">Állítson be jelszót</string>
     <string name="modify_privacy_password">Jelszó módosítása</string>
+    <string name="more_account_settings_title">Egyéb fiókok</string>
     <string name="more_dangerous_option_hint">Az engedélyezett \"%1$s\" nagy kockázatú funkciókat tartalmaz. Érintse meg a beállítások megváltoztatásához.</string>
     <string name="more_installed_services_title">További letöltött szolgáltatások</string>
     <string name="move_app">Áthelyezés</string>
     <string name="move_app_failed_dlg_text">Nem lehet áthelyezni az alkalmazást. %1$s</string>
     <string name="move_app_failed_dlg_title" />
     <string name="move_app_to_internal">Áthelyezés a telefonra</string>
-    <string name="move_app_to_sdcard">Áthelyezés az SD-kártyára</string>
+    <string name="move_app_to_sdcard">Áthelyezés USB-tárra</string>
     <string name="move_error_device_admin">Az eszközrendszergazdai alkalmazás nem telepíthető külső tárolóra</string>
     <string name="moving">Áthelyezés</string>
     <string name="mqs_privacy_automatically_upload">Legközelebb automatikusan feltöltésre kerül</string>
@@ -3420,7 +3533,7 @@ USB háttértárként fog megjelenni a számítógépén."</string>
     <string name="music_unsupport_effect_summary">Az USB fejhallgató nem támogatott</string>
     <string name="musicfx_title">Zenei hatások</string>
     <string name="mute_music_stream">Médiahangok némítása</string>
-    <string name="mute_voiceassist_stream">Hangasszisztens-némítás</string>
+    <string name="mute_voiceassist_stream">Hangasszisztens némítása</string>
     <string name="mvno_match_data">MVNO értéke</string>
     <string name="mvno_type">MVNO típusa</string>
     <string name="my_device">Készülékem</string>
@@ -3499,6 +3612,7 @@ USB háttértárként fog megjelenni a számítógépén."</string>
     <string name="nfc_how_it_works_got_it">Értem</string>
     <string name="nfc_how_it_works_title">Fizetés a terminálnál</string>
     <string name="nfc_more_title">Egyebek…</string>
+    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_default">Fizetéskor alapértelmezett</string>
     <string name="nfc_payment_default_not_set">Nincs megadva</string>
     <string name="nfc_payment_favor_default">Mindig használja az alapértelmezett alkalmazást</string>
@@ -3576,27 +3690,37 @@ USB háttértárként fog megjelenni a számítógépén."</string>
     <string name="noise_suppression">Környezeti zaj csökkentése</string>
     <string name="none">Nincs</string>
     <string name="normal">Alapértelmezett</string>
+    <string name="normal_bottom_height_of_keyboard">Szokásos</string>
     <string name="normal_info">Minden hang normálisan működik</string>
     <string name="normal_smartcover_title">Áttetsző előlapú tok</string>
     <string name="not_battery_optimizing">Nem használ akkumulátoroptimalizálást</string>
     <string name="not_installed">Nincs telepítve e felh.-hoz</string>
+    <string name="notch_and_status_bar_settings">Képernyőkivágás és állapotsor</string>
     <string name="notch_force_black_desc">Változtassa sötétebbre a képernyőkivágás (notch) körüli területet</string>
     <string name="notch_force_black_title">Képernyőkivágás elrejtése</string>
+    <string name="notch_settings">Képernyőkivágás</string>
+    <string name="notch_style_mod_description">A képernyőkivágás és az állapotsor megjelenítési beállításai</string>
+    <string name="notch_style_mod_title">A képernyőkivágás elrejtése</string>
+    <string name="notch_style_show">Ne rejtse el</string>
+    <string name="notch_style_status_bar_inside">Elrejtés, az állapotsor elmozdítása nélkül</string>
+    <string name="notch_style_status_bar_outside">Elrejtés, az állapotsor elmozdításával</string>
     <string name="notes_privacy_password_role_instruction">A privát jegyzetei itt fognak megjelenni.</string>
     <string name="notifi_channels">Értesítési kategóriák</string>
     <string name="notifi_channels_other">Egyéb</string>
-    <string name="notifi_importance_default">Jelenjen meg a Képernyőzáron és legyen hangja</string>
-    <string name="notifi_importance_high">Jelenjen meg a Képernyőzáron, legyen hangja és használhassa a teljes képernyőt</string>
-    <string name="notifi_importance_low">Ne legyen hangja</string>
-    <string name="notifi_importance_min">A Képenyőzáron ne jelenjen meg és ne legyen hangja</string>
-    <string name="notifi_importance_none">Ki</string>
-    <string name="notifi_importance_unspecified">Az alkalmazás alapértelmezése szerint látszódjon</string>
+    <string name="notifi_importance_default">Adjon hangot</string>
+    <string name="notifi_importance_high">Adjon hangot és felugró értesítést</string>
+    <string name="notifi_importance_low">Megjelenítés csendben</string>
+    <string name="notifi_importance_min">Megjelenítés csendben és minimalizálva</string>
+    <string name="notifi_importance_none">Soha nem jelenít meg értesítéseket</string>
+    <string name="notifi_importance_unspecified">Hangengedélyezés</string>
     <string name="notifi_no_channels">Ez az alkalmazás még nem kapott értesítést</string>
+    <string name="notification_animation_style">Speciális hatások</string>
     <string name="notification_app_settings_button">Értesítési beállítások</string>
     <string name="notification_badge_title">Értesítési pötty engedélyezése</string>
     <string name="notification_badging_title">Értesítési pöttyök engedélyezése</string>
     <string name="notification_breathing_light_color_title">Értesítések fényjelzésének színe</string>
     <string name="notification_breathing_light_freq_title">Értesítési fény villogásának gyakorisága</string>
+    <string name="notification_center">Értesítések</string>
     <string name="notification_channel_badge_title">Értesítési pötty megjelenítése</string>
     <string name="notification_channel_sound_title">Hang</string>
     <string name="notification_channel_summary_default">Fontos</string>
@@ -3670,6 +3794,7 @@ Ezzel az alkalmazás egyúttal képes lesz a „Ne zavarjanak” jelzés be- vag
     <string name="notification_reboot_summary_hm">Érintse meg a készülék újraindításához.</string>
     <string name="notification_reboot_title">Újraindítás a frissítéshez</string>
     <string name="notification_reboot_title_hm">Újraindítás a frissítéshez</string>
+    <string name="notification_remind">Értesítések</string>
     <string name="notification_ringtone_title">Alapértelmezett értesítőhang</string>
     <string name="notification_shade_shortcut_title">Értesítési felületi parancsikon</string>
     <string name="notification_show_lights_title">Villogó fény</string>
@@ -3735,6 +3860,7 @@ Ezzel az alkalmazás egyúttal képes lesz a „Ne zavarjanak” jelzés be- vag
     <string name="onscreen_keyboard_settings_summary">Képernyőbillentyűzet beállításai</string>
     <string name="open_demo_mode">Bekapcsolás</string>
     <string name="open_demo_mode_warning_message">Ha a Demó mód be van kapcsolva, akkor az állapotsoron lévő óra állandóan egy bizonyos, nem valós időt fog mutatni, az akkumulátor és a térerő ikonok is állandóan teljes erősséget mutatnak. A Demó módot kikapcsolhatja a beállításokban, vagy újraindíthatja a készüléket, hogy újra alaphelyzetbe kerüljön.</string>
+    <string name="open_game_accelerate">Játékgyorsító bekapcsolása</string>
     <string name="open_miui_optimization_title">MIUI optimalizáció bekapcsolása</string>
     <string name="open_optimization_message">Kapcsolja be az optimalizálást, hogy élvezhesse a simább és gyorsabb felhasználói felületet.</string>
     <string name="open_optimization_option">Bekapcsolás</string>
@@ -3753,16 +3879,20 @@ Ezzel az alkalmazás egyúttal képes lesz a „Ne zavarjanak” jelzés be- vag
     <string name="otg_tip">"Az USB On-The-Go lehetővé teszi az USB-meghajtók és a hordozható billentyűzetek számára a készülékhez csatlakozást és az adatcserét.
 
 Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
+    <string name="other">Egyéb</string>
     <string name="other_advanced_settings">További beállítások</string>
     <string name="other_device_info">Egyebek</string>
+    <string name="other_input_settings">További billentyűbeállítások</string>
     <string name="other_personal_settings">Személyes beállítások</string>
     <string name="other_relative">Egyéb</string>
     <string name="other_settings_sync_settings">Szinkronizálás</string>
     <string name="other_sound_category_preference_title">Egyéb hangok és rezgések</string>
     <string name="other_sound_settings">Egyéb hangok</string>
+    <string name="other_sound_settings_title">További beállítások</string>
     <string name="overlay_display_devices_title">Másodlagos kijelzők szimulálása</string>
     <string name="overlay_settings">A többi alkalmazás fölött</string>
     <string name="owner_info_settings_edit_text_hint">pl. Péter Androidja.</string>
+    <string name="owner_info_settings_status">%2$d / %1$d</string>
     <string name="owner_info_settings_summary">Nincs</string>
     <string name="owner_info_settings_title">Képernyőzár aláírás</string>
     <string name="owner_space">Első asztal</string>
@@ -3841,8 +3971,10 @@ Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
     <string name="passwordIncorrect">A megadott jelszó hibás</string>
     <string name="password_entrance_title">Képernyőzár-beállítás</string>
     <string name="password_guard">Jelszó</string>
+    <string name="password_security_settings_title">Jelszavak és biztonság</string>
     <string name="password_turned_off_text">A jelszó ki lett kapcsolva</string>
     <string name="password_turned_on_text">Jelszó bekapcsolva</string>
+    <string name="password_unlock_title">Jelszó</string>
     <string name="payment_summary">Alapértelmezett: %1$s</string>
     <string name="peek_notification_icon_title">A bejövő értesítések ikonjainak megjelenítése</string>
     <string name="performance_category">Teljesítmény mód</string>
@@ -3887,7 +4019,7 @@ Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
     <string name="pointer_location_summary">Mutassa az érintési koordinátákat</string>
     <string name="pointer_settings_category">Egér/Trackpad</string>
     <string name="pointer_speed">Mutató sebessége</string>
-    <string name="popup_gesture_summary">Emelje fel a telefont, és nézzen a képernyőre, hogy automatikusan megnyíljon az előlapi kamera</string>
+    <string name="popup_gesture_summary">Lépjen a Kezdőképernyőre, emelje fel a telefont, és nézzen a képernyőre, hogy automatikusan megnyíljon az előlapi kamera</string>
     <string name="popup_gesture_title">Előlapi kamera nyitása felemeléssel</string>
     <string name="popup_led_summary">Animáció-megjelenítés az első kamera kinyitásakor és bezárásakor</string>
     <string name="popup_led_title">Vizuális hatások</string>
@@ -3943,6 +4075,7 @@ Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
     <string name="power_remaining_less_than_duration_only">Kevesebb, mint %1$s van hátra</string>
     <string name="power_remaining_more_than_subtext">Több, mint %1$s van hátra (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Több, mint %1$s van hátra</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Képernyő</string>
     <string name="power_settings_title">Rendszerteljesítmény</string>
     <string name="power_unaccounted">Egyéb</string>
@@ -3952,6 +4085,7 @@ Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
     <string name="power_usage_not_available">Nincs akkuhasználati adat</string>
     <string name="power_usage_summary">Mi használta az akkumulátort</string>
     <string name="power_usage_summary_title">Akkumulátor és teljesítmény</string>
+    <string name="power_usage_summary_title_new">Akkumulátor és teljesítmény</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Előre telepített alkalmazások</string>
     <string name="pref_bg_network_title">Csatlakozás a háttérben</string>
@@ -4041,10 +4175,10 @@ Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
     <string name="priority_storage_title">Tárhelybeállítások</string>
     <string name="priority_summary">Az értesítések megjelenítése a lista tetején</string>
     <string name="priority_title">Prioritás</string>
-    <string name="privacy_authorize_cloud_msg">Mi Fiókja biztonságáért, ha valóban vissza szeretné vonni a Mi Cloud engedélyeit (beleértve a szinkronizálást és a mentéseket is) jelentkezzen be az i.mi.com weboldalon.</string>
+    <string name="privacy_authorize_cloud_msg">Mi Fiókja biztonságáért, ha valóban vissza szeretné vonni a Xiaomi Cloud engedélyeit (beleértve a szinkronizálást és a mentéseket is) jelentkezzen be az i.mi.com weboldalon.</string>
     <string name="privacy_authorize_dialog_agree">Elfogadás</string>
     <string name="privacy_authorize_dialog_exit">Kilépés</string>
-    <string name="privacy_authorize_dialog_message">&lt;Data>Ezen szolgáltatás alapfunkcióinak használatához Önnek el kell fogadnia, hogy a Xiaomi összegyűjti, feldolgozza és felhasznája az Ön személyes adatait. Az Adatvédelmi irányelveinkben tájékoztatást kaphat, hogyan gyűjtjük és hogyan dolgozzuk fel a személyes adatait. Az Elfogadás kiválasztása azt jelenti, Ön elolvasta és egyetért a Xiaomi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Adatvédelmi irányelveivel&lt;/a> és &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Felhasználói szerződésével&lt;/a>.​&lt;/Data></string>
+    <string name="privacy_authorize_dialog_message">&lt;Data>Ezen szolgáltatás alapfunkcióinak használatához Önnek el kell fogadnia, hogy a Xiaomi összegyűjti, feldolgozza és felhasznája az Ön személyes adatait. Az Adatvédelmi irányelveinkben tájékoztatást kaphat, hogyan gyűjtjük és hogyan dolgozzuk fel a személyes adatait. Az \"Elfogadás\" kiválasztása azt jelenti, Ön elolvasta és egyetért a Xiaomi &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Adatvédelmi irányelveivel&lt;/a> és &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Felhasználói szerződésével&lt;/a>.​&lt;/Data></string>
     <string name="privacy_authorize_network_error">Csatlakozzon a hálózatra, majd próbálja újra.</string>
     <string name="privacy_authorize_privacy_policy">Adatvédelmi Irányelvek</string>
     <string name="privacy_authorize_revoke">Visszavonás</string>
@@ -4097,6 +4231,7 @@ Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
     <string name="privacy_password_remind_bindaccount_title">Mi Fiók hozzáadása</string>
     <string name="privacy_password_settings">Használjon Adatvédelmi jelszót</string>
     <string name="privacy_password_settings_next">Tovább</string>
+    <string name="privacy_password_settings_summary">Adatvédelmi jelszó használata azon alkalmazásokhoz, amelyek bizalmas információkat tartalmazhatnak</string>
     <string name="privacy_password_settings_titles">Az Adatvédelmi jelszó védi az Ön üzeneteit, fényképeit, fájljait és jegyzeteit.</string>
     <string name="privacy_password_settings_titles_elder_mode">Az Adatvédelmi jelszó védi az Ön fényképeit, fájljait és jegyzeteit.</string>
     <string name="privacy_password_settings_titles_second_space">Az Adatvédelmi jelszó védi az Ön üzeneteit, fényképeit és jegyzeteit.</string>
@@ -4109,6 +4244,7 @@ Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
     <string name="privacy_password_use_finger_success">Bekapcsolva</string>
     <string name="privacy_password_visible_pattern">Feloldóminta megjelenítése</string>
     <string name="privacy_protect_title">Adatvédelem</string>
+    <string name="privacy_protection_title">Adatvédelem</string>
     <string name="privacy_relative">Adatvédelem</string>
     <string name="privacy_settings">Biztonsági mentés és visszaállítás</string>
     <string name="privacy_settings_title">Biztonsági másolat</string>
@@ -4127,6 +4263,8 @@ Az OTG 10 perc inaktivitás után automatikusan kikapcsol."</string>
     <string name="private_sms_recording_intro_header">Rajzoljon egy feloldómintát:</string>
     <string name="private_sms_reset_by_account">Jelszava visszaállításához jelentkezzen be Mi Fiókjába</string>
     <string name="process_dex2oat_label">Alkalmazásoptimalizálás</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Médiaszerver</string>
     <string name="process_provider_in_use_description">%1$s szolgáltató használatban van.</string>
     <string name="process_service_in_use_description">%1$s szolgáltatás használatban van.</string>
@@ -4252,6 +4390,9 @@ UT-felület: %5$s"</string>
     <string name="radio_info_toggle_dns_check_label">DNS-ellenőrzés váltása</string>
     <string name="radio_info_ul_kbps">Feltöltési sávszélesség (kbps):</string>
     <string name="radio_info_voice_network_type_label">Hanghálózat típusa:</string>
+    <string name="raise_bottom_height_of_keyboard">Megnövelt</string>
+    <string name="raise_bottom_height_of_keyboard_sub_title">Ha a Megnövelt billentyűzetre vált, alatta egy testreszabható parancsikon-sáv jelenik meg</string>
+    <string name="raise_bottom_height_of_keyboard_title">A teljes képernyős megjelenítéshez igazítja a billentyűzetet</string>
     <string name="rank_title">Rangsor</string>
     <string name="rarely_running">Ritkán fut (%s)</string>
     <string name="reading_data">Adatok lekérése…</string>
@@ -4270,6 +4411,7 @@ UT-felület: %5$s"</string>
     <string name="recommend_item_3">Power bank</string>
     <string name="recommend_item_4">Fülhallgatók</string>
     <string name="recommend_item_title">Hirdetések</string>
+    <string name="recommend_tip">Szükségesek egyéb beállítások?</string>
     <string name="recompute_size">Méret újraszámítása...</string>
     <string name="regulatory_info_text" />
     <string name="regulatory_labels">Szabályozási címkék</string>
@@ -4307,7 +4449,7 @@ UT-felület: %5$s"</string>
     <string name="reset_legacy_password_settings_preface_text">A képernyőzár jelszavának helyreállítása szükséges.</string>
     <string name="reset_network_bluetooth">Bluetooth</string>
     <string name="reset_network_button_text">Beállítások visszaállítása</string>
-    <string name="reset_network_category">Ez visszaállítja az összes hálózatbeállítást, beleértve:</string>
+    <string name="reset_network_category">Visszaállítja a következő hálózati beállításokat:</string>
     <string name="reset_network_complete_toast">A hálózati beállítások vissza lettek állítva.</string>
     <string name="reset_network_confirm_title">Visszaállítja?</string>
     <string name="reset_network_data">Mobiladat-kapcsolat</string>
@@ -4364,7 +4506,8 @@ UT-felület: %5$s"</string>
     <string name="retail_demo_reset_title">Jelszó szükséges</string>
     <string name="retry">Próbálja újra</string>
     <string name="rgb_manage_facerecoginition_text">2D-s arcadatok kezelése</string>
-    <string name="ring_volume_option_title">Csengés hangereje</string>
+    <string name="right_function_key">Jobb oldali parancsikon</string>
+    <string name="ring_volume_option_title">Hívások, emlékeztetők, értesítések</string>
     <string name="ring_volume_title">A csengés hangereje</string>
     <string name="ringtone_slot_setting_title">Mindkét SIM-re más a csengőhang</string>
     <string name="ringtone_title">A telefon csengőhangja</string>
@@ -4413,6 +4556,7 @@ Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
     <string name="saved_network">%1$s mentette</string>
     <string name="saved_wifi">A mentett hálózatok kezelése</string>
     <string name="saved_wifi_delete">Törlés</string>
+    <string name="scheduled_style">Ütemezett</string>
     <string name="screen">Képernyő</string>
     <string name="screen_cancel">Mégse</string>
     <string name="screen_color_and_optimize">Színek és kontraszt</string>
@@ -4422,7 +4566,9 @@ Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
     <string name="screen_compatibility_label">Képernyő-kompatibilitás</string>
     <string name="screen_compatibility_text">Nem biztos, hogy ezt az alkalmazást az Ön képernyőjére tervezték. Itt szabályozhatja az alkalmazás megjelenítését.</string>
     <string name="screen_confirm">Bekapcsolás</string>
-    <string name="screen_effect">Kontraszt és színek</string>
+    <string name="screen_dark_mode_select_time_error_summary">"Start time and end time can't be the same"</string>
+    <string name="screen_dark_mode_time_title">Schedule</string>
+    <string name="screen_effect">Színséma</string>
     <string name="screen_key_long_press">A gombok viselkedése (hosszan nyomva)</string>
     <string name="screen_key_long_press_action">Speciális indítási funkció</string>
     <string name="screen_key_long_press_timeout">Hosszú nyomás idejének beállítása</string>
@@ -4446,7 +4592,7 @@ Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
     <string name="screen_never_timeout_title">Soha ne kapcsoljon ki</string>
     <string name="screen_on_proximity_sensor_summary">Érintések megakadályozása zsebben hordás közben</string>
     <string name="screen_on_proximity_sensor_title">Zsebmód</string>
-    <string name="screen_optimize">Kontraszt</string>
+    <string name="screen_optimize">Színek</string>
     <string name="screen_optimize_disabled">Ha az Olvasómód aktív, nem módosíthatja a kontrasztot</string>
     <string name="screen_paper_mode_adjust_level">Szabályzás</string>
     <string name="screen_paper_mode_apps_loading">Egy pillanat…</string>
@@ -4486,6 +4632,24 @@ Képernyő rögzítéséhez:
     <string name="screen_pinning_unlock_password">Jelszó kérése a rögzítés feloldásához</string>
     <string name="screen_pinning_unlock_pattern">Feloldási minta kérése a rögzítés feloldásához</string>
     <string name="screen_pinning_unlock_pin">PIN-kód kérése a feloldáshoz</string>
+    <string name="screen_projection">Kivetítés</string>
+    <string name="screen_projection_characteristics">Speciális funkciók</string>
+    <string name="screen_projection_characteristics_off_screen_summary">Folytathatja a kivetítést, ha a készülék képernyője ki van kapcsolva. Ez a funkció csökkenti az energiafogyasztást.</string>
+    <string name="screen_projection_characteristics_off_screen_title">Kivetítése kikapcsolt képernyővel</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">Ne jelenítsen meg lebegő értesítéseket, bejövő hívásokat és egyéb személyes elemeket a külső monitorokon.</string>
+    <string name="screen_projection_characteristics_privacy_protect_title">Személyes elemek elrejtése</string>
+    <string name="screen_projection_characteristics_small_window_summary">Minimalizálja a kivetített ablakot, hogy a telefonján egyéb funkciók is használhatók legyenek.</string>
+    <string name="screen_projection_characteristics_small_window_title">Ablak minimalizálása</string>
+    <string name="screen_projection_example_document_summary">Jelenítse meg a prezentációkat egy küldő monitoron, miközben a telefont a diák közötti átváltáshoz és jegyzetek megtekintéséhez használja. Menjen a Fájlkezelő > dokumentumok alá a funkció kipróbálásához.</string>
+    <string name="screen_projection_example_document_title">Dokumentumok</string>
+    <string name="screen_projection_example_gallery_summary">Érintse meg a Megosztás gombot egy elem alatt a Galéria alkalmazásban egy külső monitoron való megjelenítéséhez.</string>
+    <string name="screen_projection_example_gallery_title">Fényképek &amp; videók</string>
+    <string name="screen_projection_example_game_summary">A Játékgyorsító a játékok kivetítését teszi lehetővé külső monitorra. Használja a parancsikont a Játékgyorsító eszköztárában a funkció bekapcsolásához.</string>
+    <string name="screen_projection_example_game_title">Játékok</string>
+    <string name="screen_projection_help">Súgó</string>
+    <string name="screen_projection_sample_summary">Dokumentumok, játékok, fotók és videók kivetítése</string>
+    <string name="screen_projection_sample_title">Demók</string>
+    <string name="screen_projection_title">Kivetítés</string>
     <string name="screen_reader_category_title">Képernyőolvasók</string>
     <string name="screen_resolution_dialog_title">Felbontás módosítása</string>
     <string name="screen_resolution_high_format">Magas (%1$s)</string>
@@ -4495,8 +4659,9 @@ Képernyő rögzítéséhez:
     <string name="screen_resolution_title">Képernyőfelbontás</string>
     <string name="screen_resolution_ultrahigh_format">Nagyon magas (%1$s)</string>
     <string name="screen_saturation">Telítettség</string>
+    <string name="screen_settings">Képernyőzár</string>
     <string name="screen_shot">Képernyőkép készítése</string>
-    <string name="screen_timeout">Alvó mód</string>
+    <string name="screen_timeout">Alvó üzemmód</string>
     <string name="screen_timeout_summary">%1$s inaktivitás után</string>
     <string name="screen_timeout_title">Alvómód</string>
     <string name="screen_usage_summary">Képernyőidő teljes töltés óta</string>
@@ -4542,32 +4707,32 @@ Képernyő rögzítéséhez:
     <string name="screenshot_label">Képernyőkép</string>
     <string name="screenshot_three_gesture">Csúsztassa lefelé egyszerre 3 ujját képernyőkép készítéséhez</string>
     <string name="screenshot_three_gesture_summary">Az egyéb 3 ujjas mozdulatvezérlések ki lesznek kapcsolva</string>
-    <string name="sd_card_settings_label">SD-kártya</string>
-    <string name="sd_card_storage">SD-kártya</string>
-    <string name="sd_eject">SD-kártya leválasztása</string>
-    <string name="sd_eject_summary">SD-kártya leválasztása, hogy biztonságosan el lehessen távolítani</string>
+    <string name="sd_card_settings_label">USB-tár</string>
+    <string name="sd_card_storage">USB-tár</string>
+    <string name="sd_eject">Megosztott tárh. levál.</string>
+    <string name="sd_eject_summary">A belső USB-tár leválasztása</string>
     <string name="sd_ejecting_summary">Leválasztás folyamatban</string>
     <string name="sd_ejecting_title">Leválasztás</string>
-    <string name="sd_format">SD-kártya törlése</string>
-    <string name="sd_format_summary">Törli az összes adatot (például a zenéket és fotókat) az SD-kártyáról</string>
-    <string name="sd_insert_summary">Helyezzen be egy SD-kártyát a csatlakoztatáshoz</string>
-    <string name="sd_memory">SD-kártya</string>
-    <string name="sd_mount">SD-kártya csatolása</string>
+    <string name="sd_format">USB-tár törlése</string>
+    <string name="sd_format_summary">Minden adat, például zenék és képek törlése a belső USB-tárról</string>
+    <string name="sd_insert_summary">Helyezze be az USB-tárat</string>
+    <string name="sd_memory">USB-tár</string>
+    <string name="sd_mount">Az USB-tár csatolása</string>
     <string name="sd_mount_summary" />
     <string name="sdcard_changes_instructions">A módosítások az USB-kábel újracsatlakoztatásakor lépnek életbe.</string>
-    <string name="sdcard_format">SD-kártya törlése</string>
-    <string name="sdcard_setting">SD-kártya</string>
+    <string name="sdcard_format">USB-tár törlése</string>
+    <string name="sdcard_setting">USB-tár</string>
     <string name="sdcard_settings_available_bytes_label">Rendelkezésre álló bájtok:</string>
-    <string name="sdcard_settings_bad_removal_status">Az SD-kártyát használat közben távolították el!</string>
-    <string name="sdcard_settings_mass_storage_status">Az SD-kártya használata háttértárként</string>
-    <string name="sdcard_settings_not_present_status">Nincs SD-kártya.</string>
-    <string name="sdcard_settings_read_only_status">Az SD-kártya írásvédett módban van csatlakoztatva.</string>
-    <string name="sdcard_settings_scanning_status">Médiafájlok keresése az SD-kártyán...</string>
+    <string name="sdcard_settings_bad_removal_status">USB-tárat használat közben távolították el</string>
+    <string name="sdcard_settings_mass_storage_status">Az USB-tár háttértárként van használatban.</string>
+    <string name="sdcard_settings_not_present_status">Az USB-tár nincs csatolva.</string>
+    <string name="sdcard_settings_read_only_status">Írásvédettként csatolt USB-tár.</string>
+    <string name="sdcard_settings_scanning_status">Média keresése az USB-táron</string>
     <string name="sdcard_settings_screen_mass_storage_text">USB-háttértár engedélyezése</string>
     <string name="sdcard_settings_total_bytes_label">Összes bájt:</string>
-    <string name="sdcard_settings_unmounted_status">Most már biztonságosan eltávolíthatja az SD-kártyát.</string>
+    <string name="sdcard_settings_unmounted_status">Az USB-tár eltávolítható.</string>
     <string name="sdcard_settings_used_bytes_label">Felhasznált bájtok:</string>
-    <string name="sdcard_unmount">SD-kártya leválasztása</string>
+    <string name="sdcard_unmount">USB-tár leválasztása</string>
     <string name="se_route_ese">Beépített biztonsági elem</string>
     <string name="se_route_uicc">Biztonsági elem a SIM-kártyán</string>
     <string name="se_wallet_ese">Mi Pay és NFC-utazókártya</string>
@@ -4609,6 +4774,7 @@ Képernyő rögzítéséhez:
     <string name="search_choose_timezone">Időzóna kiválasztása;Időzóna;Időzónák</string>
     <string name="search_cloud_backup_settings_section_title">Mentések beállításai;Mentés;Biztonsági mentés</string>
     <string name="search_cloud_restore_section_title">Visszaállítás Mi Cloudból;Mi Cloud;Felhő mentés</string>
+    <string name="search_connection_and_sharing">Továbbiak;Vezeték nélküli</string>
     <string name="search_copyright_title">Szerzői jog</string>
     <string name="search_credentials_install">Telepítés tárhelyről;Közvetlen telepítés;Apk telepítése</string>
     <string name="search_date_and_time_settings_title">Dátum és idő;Dátum;Idő</string>
@@ -4689,7 +4855,6 @@ Képernyő rögzítéséhez:
     <string name="search_preferred_network_type_title">Preferált hálózattípus;Előnyben részesített hálózat;Hálózat típusa</string>
     <string name="search_privacy_policy">Adatvédelmi irányelvek</string>
     <string name="search_privacy_settings">Mentés és visszaállítás;Mentés;Visszaállítás;törlés</string>
-    <string name="search_radio_controls_title">Továbbiak;Vezeték nélküli</string>
     <string name="search_results_title">Beállítások</string>
     <string name="search_ring_volume_option_title">Hangerők;hangerő;Csengőhang és értesítések;csengőhang;csengőhangok;ébresztő;zene</string>
     <string name="search_ringtone_title">Telefon csengőhangja;csengőhang;csengőhangok</string>
@@ -4785,6 +4950,7 @@ Képernyő rögzítéséhez:
     <string name="security_encryption_attention_3">Új képernyőzárjelszót kell beállítania.</string>
     <string name="security_encryption_attention_4">Ne felejtse el képernyőzár jelszavát, különben teljes gyári visszaállítást kell végrehajtania a készüléken, minden adat törlésével.</string>
     <string name="security_encryption_attention_info">Titkosíthatja a fiókjait, beállításait, letöltött alkalmazásait és azok adatait, média- és egyéb fájljait.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Fontos</string>
     <string name="security_encryption_close_dialog_info">Ha azt választja, hogy képernyőzárjelszó nélkül titkosítja a készüléket, akkor előfordulhat, hogy bizonyos Google szolgáltatások nem lesznek elérhetőek.</string>
     <string name="security_encryption_close_dialog_title">Vissza az alapértelmezett jelszavas védelemhez</string>
@@ -4902,7 +5068,8 @@ Megjegyzés: Nem használhatja ujjlenyomatát azt eszköz feloldására. Tovább
     <string name="settings_license_activity_unavailable">Gond van a licencek betöltésével.</string>
     <string name="settings_manual_activity_title">Útmutató</string>
     <string name="settings_manual_activity_unavailable">Probléma adódott az útmutató betöltésekor.</string>
-    <string name="settings_notify_need_backup">Mentse el a beállításait a Mi Cloudba, hogy hozzájuk férhessen telefonváltás után is.</string>
+    <string name="settings_new_version_btn">Frissítés</string>
+    <string name="settings_notify_need_backup">Mentse el a beállításait a Xiaomi Cloudba, hogy hozzájuk férhessen telefonváltás után is.</string>
     <string name="settings_notify_new_version">Elérhető egy frissítés. Érintse meg a részletek megtekintéséhez.</string>
     <string name="settings_notify_phone_recycled">A telefonszáma megváltozott. Érintse meg egy másik telefonszám hozzáadásához.</string>
     <string name="settings_safetylegal_activity_loading">Betöltés…</string>
@@ -5049,6 +5216,7 @@ Lehet, hogy hibás a PIN-kód."</string>
     <string name="sim_select_card">Válasszon egy SIM kártyát</string>
     <string name="sim_selection_channel_title">SIM-kártya kiválasztása</string>
     <string name="sim_selection_required_pref">Ki kell választani</string>
+    <string name="sim_settings_summary">%1$s – %2$s</string>
     <string name="sim_settings_title">SIM kártyák</string>
     <string name="sim_setup_wizard_title">SIM kártyák</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -5064,6 +5232,7 @@ Lehet, hogy hibás a PIN-kód."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Kihagyás</string>
     <string name="skip_label">Kihagyás</string>
@@ -5184,11 +5353,14 @@ Ezt az Ön eszközére telepített megbízható hitelesítési adatok teszik leh
     <string name="status_bar_app_enable_keyguard">Képernyőzár</string>
     <string name="status_bar_app_enable_message">Olvasatlan jelzések</string>
     <string name="status_bar_carrier_settings_no_sim_card">Nincs SIM-kártya</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">Értesítések és állapotsor</string>
     <string name="status_bar_settings_all_app_display_loading">Egy pillanat…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Alkalmazásértesítések</string>
     <string name="status_bar_settings_notification_bar">Értesítési felület</string>
     <string name="status_bar_settings_status_bar">Állapotsor</string>
+    <string name="status_bar_title">Állapotsor</string>
     <string name="status_bt_address">Bluetooth-cím</string>
     <string name="status_data_network_type">Mobiladat-hálózat típusa</string>
     <string name="status_data_state">Mobilhálózat állapota</string>
@@ -5299,7 +5471,7 @@ A(z) ^1 úgy van formázva, hogy csak ezen az eszközön működjön, más eszk�
     <string name="storage_photos_videos">Fotók és videók</string>
     <string name="storage_rename_title">Tárhely átnevezése</string>
     <string name="storage_settings">Tárhely</string>
-    <string name="storage_settings_summary">SD-kártya leválasztása, a rendelkezésre álló tárhely megtekintése</string>
+    <string name="storage_settings_summary">USB-tár leválasztása, és az elérhető tárhely megtekintése</string>
     <string name="storage_settings_title">Tárolóhely beállításai</string>
     <string name="storage_size_large">^1<small><small> ^2</small></small></string>
     <string name="storage_size_large_alternate">^1<small> <font size="20">^2</font></small></string>
@@ -5432,9 +5604,11 @@ Próbálkozzon gyorsabb ^3 vagy ezen ^4 használatával hordozható tárhelykén
     <string name="sum_carrier_select">Válassza ki a hálózat üzemeltetőjét</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
+    <string name="summary_range_symbol_combination">%1$s–%2$s</string>
     <string name="summary_range_verbal_combination">%1$s–%2$s</string>
     <string name="supl_not_set">&lt;Nincs beállítva></string>
     <string name="support_country_format">%1$s – %2$s</string>
+    <string name="support_gesture_title">3D-minták</string>
     <string name="support_summary">Súgócikkek, telefon és csevegő, kezdő lépések</string>
     <string name="sure_sync_now">Szinkronizálja az elemeket most?</string>
     <string name="suw_back_button_label">Vissza</string>
@@ -5470,7 +5644,7 @@ Próbálkozzon gyorsabb ^3 vagy ezen ^4 használatával hordozható tárhelykén
 %1$s"</string>
     <string name="sync_plug"><font fgcolor="#ffffffff">Üdvözli a Google Sync!</font>" 
 Az adatok Google-féle szinkronizálása lehetővé teszi, hogy bárhonnan hozzáférjen címtárához, találkozóihoz stb."</string>
-    <string name="sync_settings">Szinkronizálás</string>
+    <string name="sync_settings">Fiókok és szinkronizálás</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Csak Wi-Fi-n</string>
     <string name="system">Rendszer</string>
@@ -5485,7 +5659,9 @@ Az adatok Google-féle szinkronizálása lehetővé teszi, hogy bárhonnan hozz�
     <string name="system_backup_section_title">Mentés</string>
     <string name="system_dashboard_summary">Nyelvek, idő, biztonsági másolat, frissítések</string>
     <string name="system_default_app">(Alapértelmezett)</string>
+    <string name="system_haptic_feedback">Haptikus visszajelzés</string>
     <string name="system_package">A rendszerfrissítéseket nem lehet külső eszközre telepíteni.</string>
+    <string name="system_print_service_help">A nyomtatásról</string>
     <string name="system_shortcut_wake">Ébresztés gyorsbillentyűvel</string>
     <string name="system_storage">Rendszertárhely</string>
     <string name="system_ui_settings">Kezelőfelület-hangoló megjelenítése</string>
@@ -5501,6 +5677,7 @@ Az adatok Google-féle szinkronizálása lehetővé teszi, hogy bárhonnan hozz�
     <string name="tap_to_wake">Koppintson a felébresztéshez</string>
     <string name="tap_to_wake_summary">Az eszköz felébresztéséhez koppintson kétszer bárhol a képernyőre</string>
     <string name="taplus_title">Taplus</string>
+    <string name="temporary_style">10 másodperccel a kijelző érintése után</string>
     <string name="terms_title">Általános Szerződési Feltételek</string>
     <string name="testing">Tesztelés</string>
     <string name="testing_phone_info">Telefon adatai</string>
@@ -5556,6 +5733,7 @@ Az adatok Google-féle szinkronizálása lehetővé teszi, hogy bárhonnan hozz�
     <string name="title_jeejen">Jeejen Kezdőképernyő</string>
     <string name="title_layout_current">Betűméret</string>
     <string name="title_layout_current2">Betűméret</string>
+    <string name="title_layout_current2_weight">Szöveg- és betűméret</string>
     <string name="title_of_auto_launch_manage">Automatikus indítás</string>
     <string name="to_close">Kikapcsolás</string>
     <string name="toast_lockscreen_glogin_empty_password">Adja meg a jelszót</string>
@@ -5716,6 +5894,7 @@ A mentett ujjlenyomatokat a rendszer szintén eltávolítja ebből a profilból,
     <string name="unlock_disable_frp_warning_title_profile">Eltávolítja a profilvédelmet?</string>
     <string name="unlock_disable_lock_pin_summary">PIN-kód kikapcsolása</string>
     <string name="unlock_disable_lock_title">Képernyőzár kikapcsolása</string>
+    <string name="unlock_mode_title">Képernyőzár</string>
     <string name="unlock_set_do_later_title">Most nem</string>
     <string name="unlock_set_enter_system">Képernyőzár kihagyása</string>
     <string name="unlock_set_enter_system_summary">Feloldáskor rögtön a Kezdőképernyő nyílik meg</string>
@@ -5749,7 +5928,7 @@ A mentett ujjlenyomatokat a rendszer szintén eltávolítja ebből a profilból,
     <string name="unlock_setup_wizard_fingerprint_details">Képernyőzár beállítását követően a Beállítások > Biztonság részben beállíthatja ujjlenyomatát is.</string>
     <string name="unlogin_account_summary">Az összes Mi-szolgáltatás egy Mi Fiókban.</string>
     <string name="unlogin_account_title">Jelentkezzen be a Mi Fiókba</string>
-    <string name="unmount_inform_text">Az SD-kártya leválasztásra kerül.</string>
+    <string name="unmount_inform_text">Az USB-tár leválasztásra kerül.</string>
     <string name="unrestrict_max_aspect_ratio_title">Ezek az alkalmazások optimalizálva lettek teljes képernyős módhoz</string>
     <string name="unrestricted_app_summary">Adatforgalom-csökkentővel korlátlan adathozzáférés</string>
     <string name="unrestricted_app_title">Korlátlan adathasználat</string>
@@ -6117,6 +6296,7 @@ Hozzáadáshoz érintse meg a + gombot."</string>
     <string name="volume_category_title">Hangerő</string>
     <string name="volume_hifi_description">Hi-Fi beállítások</string>
     <string name="volume_label">Hangerő</string>
+    <string name="volume_launch_camera_summary">A Kamera képernyőzáron való megnyitásához nyomja meg duplán a „Hangerő csökkentése” gombot</string>
     <string name="volume_media_description">Zene, videó, játékok és egyéb média</string>
     <string name="volume_media_mute">Zene és egyéb média elnémítása</string>
     <string name="volume_notification_description">Értesítések</string>
@@ -6211,6 +6391,7 @@ Hozzáadáshoz érintse meg a + gombot."</string>
     <string name="vt_provisioned_switch_string">Videohívás beütemezve</string>
     <string name="wait_for_debugger">Várjon a hibakeresőre</string>
     <string name="wait_for_debugger_summary">A javított alkalmazás csak megerősítés után indul el</string>
+    <string name="wakeup_and_sleep_settings_category_name">Képernyőzár-beállítások</string>
     <string name="wakeup_for_keyguard_notification_title">Az értesítések ébresszék fel a képernyőt</string>
     <string name="wallpaper_attributions">Háttérképek</string>
     <string name="wallpaper_attributions_values">"A műholdképek szolgáltatói:
@@ -6257,6 +6438,9 @@ Hozzáadáshoz érintse meg a + gombot."</string>
     <string name="webview_disabled_for_user">(letiltva %s számára)</string>
     <string name="webview_license_title">WebView-rendszerlicenc</string>
     <string name="webview_uninstalled_for_user">(eltávolítva %s esetében)</string>
+    <string name="weight_heavy">Félkövér</string>
+    <string name="weight_light">Vékony</string>
+    <string name="weight_setting_toast">Kizárólag az alapértelmezett rendszerbetű mérete módosítható</string>
     <string name="welcome">Üdvözöljük</string>
     <string name="wfc_provisioned_switch_string">Wi-Fi-hívás beütemezve</string>
     <string name="wfd_available_devices">Elérhető készülékek</string>
@@ -6563,12 +6747,14 @@ Engedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni
     <string name="wifi_security_none">Nincs</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
@@ -6802,8 +6988,9 @@ Győződjön meg róla, hogy a tanúsítvány valódi."</string>
     <string name="write_tag">Írás</string>
     <string name="wrong_pin_code_pukked">Helytelen PIN-kód a SIM kártyához; vegye fel a kapcsolatot szolgáltatójával az eszköz feloldásához.</string>
     <string name="xiaomi_account">Mi Fiók</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
-    <string name="xiaomi_cloud_service_description">A Mi Cloud szinkronizálja névjegyeit és fényképeit, menti az alkalmazásait és beállításait, valamint segít a telefonja megtalálásában a Készülékkeresés segítségével.</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+    <string name="xiaomi_cloud_service_description">A Xiaomi Cloud szinkronizálja névjegyeit és fényképeit, menti az alkalmazásait és beállításait, valamint segít a telefonja megtalálásában a Készülékkeresés segítségével.</string>
+    <string name="xiaomi_cloud_service_description_without_contacts">A Xiaomi Cloud szinkronizálja a fényképeit, menti az alkalmazásait és beállításait, valamint segít a telefonja megtalálásában a Készülékkeresés segítségével.</string>
     <string name="xiaomi_cloud_service_disabled">Ki</string>
     <string name="xiaomi_cloud_service_unknown">Ismeretlen</string>
     <string name="xiaomi_money_service">Mi Credit</string>
@@ -6811,6 +6998,7 @@ Győződjön meg róla, hogy a tanúsítvány valódi."</string>
     <string name="xiaomi_router_available_notif_title">Mi Router elérhető</string>
     <string name="xiaomi_router_notif_summary">Értesítés elérhető Mi Router esetén</string>
     <string name="xiaomi_router_notif_title">Mi Router értesítés</string>
+    <string name="xiaomi_transfer">Mi Megosztás</string>
     <string name="xspace">Klónozott alkalmazások</string>
     <string name="yes">Igen</string>
     <string name="zen_access_disabled_package_warning">Bekapcsolva kell hagyni, mert az értesítési hozzáférés be van kapcsolva</string>
@@ -7015,8 +7203,10 @@ A telefon funkcióival és állapotával kapcsolatos fontos értesítések azonb
     <string name="zone_auto_summaryOff">A mobilhálózat által biztosított időzóna használata</string>
     <string name="zone_auto_summaryOn">A mobilhálózat által biztosított időzóna használata</string>
     <string name="zone_change_to_from_dst">A(z) %1$s kezdete: %2$s.</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">A következőt használja: %1$s. A(z) %2$s ekkor kezdődik: %3$s.</string>
     <string name="zone_info_footer_no_dst">A következőt használja: %1$s. Nincs nyári időszámítás.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Rendezés név szerint</string>
     <string name="zone_list_menu_sort_by_timezone">Rendezés időzóna szerint</string>
     <string name="zone_menu_by_offset">Kiválasztás UTC-eltolódással</string>

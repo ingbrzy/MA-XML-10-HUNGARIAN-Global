@@ -51,12 +51,13 @@
     <string name="accessibility_repeats">Ismétlődés</string>
     <string name="accessibility_sync_cal">Naptár szinkronizálása</string>
     <string name="account_and_calendar">Fiókok</string>
-    <string name="action_bar_date_button_title">Dátum kiszámítása</string>
     <string name="action_bar_return">Vissza</string>
     <string name="action_text_card_manager">Csatorna</string>
     <string name="add_anniversary">Évforduló hozzáadása</string>
     <string name="add_countdown">Visszaszámlálás hozzáadása</string>
     <string name="add_event">Esemény hozzáadása</string>
+    <string name="add_holiday_desc">Adjon hozzá ünnepeket itt</string>
+    <string name="add_holiday_title">Ünnepnap hozzáadása</string>
     <string name="agenda_month_empty_hint">Nincs esemény erre a napra</string>
     <string name="agenda_tomorrow">HOLNAP, %1$s</string>
     <string name="agenda_view">Események</string>
@@ -104,6 +105,7 @@
     <string name="cards_language_hint">Néhány kártya lehet, hogy nem érhető el az Ön által kiválasztott nyelven.</string>
     <string name="change_response_title">Válasz módosítása</string>
     <string name="change_zodiac">Csillagjegy módosítása</string>
+    <string name="choose_your_holidays">Ünnepek kiválasztása</string>
     <string name="click_to_share">Koppintson a megosztáshoz</string>
     <string name="close_alarm">Kikapcsol</string>
     <string name="contacts_permission_desc">Névjegy elérése</string>
@@ -117,6 +119,7 @@
 u2022 Bármilyen böngészőből elérheti.
 
 u2022 Biztonsági másolatot készíthet eseményeiről."</string>
+    <string name="create_kundli">Kundli létrehozása</string>
     <string name="creating_event">Esemény létrehozva</string>
     <string name="creating_event_with_guest">Meghívók küldése…</string>
     <string name="daily">Naponta</string>
@@ -137,6 +140,7 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="date_interval_text_to">Eddig: %1$s</string>
     <string name="date_jump_hint">Ugrás közvetlenül egy bizonyos napra</string>
     <string name="date_jump_title">Dátumhoz ugrás</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (ma)"</string>
     <string name="day_view_new_event_hint">Új esemény</string>
     <string name="default_reminder_mode">Emlékeztetők</string>
@@ -177,6 +181,7 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="edit_event_tab_countdown">Visszaszámlálás</string>
     <string name="edit_event_tab_event">Esemény</string>
     <string name="edit_event_to_label">Befejezése</string>
+    <string name="edit_your_long_holidays">Ünnepnapok szerkesztése</string>
     <string name="email_guests_label">E-mail a vendégeknek</string>
     <string name="email_install_hint">E-mail alkalmazás eltávolítva. Telepítse újra a naptárfiókok visszaállításához, vagy adjon hozzá egy újat.</string>
     <string name="email_picker_label">E-mail a következőknek</string>
@@ -205,6 +210,12 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="event_view">Esemény megtekintése</string>
     <string name="every_weekday">Hétköznapokon (hétfőtől–péntekig)</string>
     <string name="fb_birthday_failure">Nem sikerült a születésnapok importálása Facebookról. Próbáld újra.</string>
+    <string name="fb_birthday_import_pref_desc">Ismerősök születésnapjainak importálása a Facebookról</string>
+    <string name="fb_birthday_import_pref_title">Importálás most</string>
+    <string name="fb_birthday_logout_failure">Még nem adta hozzá Facebook-fiókját</string>
+    <string name="fb_birthday_logout_pref_desc">Facebook-fiók eltávolítása az ismerősök születésnapjaival együtt</string>
+    <string name="fb_birthday_logout_pref_title">Facebook-fiók eltávolítása</string>
+    <string name="fb_birthday_logout_success">Facebook-fiók sikeresen eltávolítva</string>
     <string name="fb_birthday_region_warning">Ez a funkció nem áll rendelkezésre az Ön régiójában</string>
     <string name="fb_birthday_success">Születésnapok importálása Facebookból sikeres</string>
     <string name="fb_calendar_account_name">Mi helyi naptár</string>
@@ -213,6 +224,7 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="festival_detail_title">Fesztivál</string>
     <string name="file_exception">Hiba történt</string>
     <string name="fixtures">Sportesemények</string>
+    <string name="fourth_saturday_holiday">Minden második és negyedik szombat szabadnap</string>
     <string name="from_google_group_calendar">Google naptár</string>
     <string name="gadget_no_events">Nincsenek naptáresemények</string>
     <string name="gadget_title">Naptár</string>
@@ -227,6 +239,10 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="greetingcard_end_of_page">Most ennyi volt, nézzen vissza holnap!</string>
     <string name="greetingcard_notification_desc">Nézze meg a legújabb státuszokat</string>
     <string name="greetingcard_notification_title">Készen áll az Ön napi hírfolyama</string>
+    <string name="greetingcard_reminder_dialog_message">Engedélyezi a Naptárt köszöntéssekkel és státuszokkal kapcsolatos napi értesítések fogadásához?</string>
+    <string name="greetingcard_reminder_dialog_negative">Nem, köszönöm</string>
+    <string name="greetingcard_reminder_dialog_positive">Engedélyezés</string>
+    <string name="greetingcard_reminder_dialog_title">Értesítések fogadása</string>
     <string name="greetingcard_reminder_disabled_status">Nem fog napi értesítéseket kapni WhatsApp-státuszokról.</string>
     <string name="greetingcard_reminder_disabled_text">Emlékeztetők bekapcsolása</string>
     <string name="greetingcard_reminder_enabled_status">Napi értesítéseket fog kapni WhatsApp-státuszokról.</string>
@@ -247,7 +263,14 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="hint_what">Esemény neve</string>
     <string name="hint_where">Helyszíne</string>
     <string name="holiday_card_title">Ezen a napon</string>
+    <string name="holiday_date">Dátum</string>
+    <string name="holiday_date_title">Ünnep dátuma</string>
     <string name="holiday_detail_read_more">Továbbiak</string>
+    <string name="holiday_name">Ünnep neve</string>
+    <string name="holiday_name_empty">Az ünnep neve nem lehet üres</string>
+    <string name="holiday_name_exists">Ez az ünnep már létezik</string>
+    <string name="holiday_saved">Sikeres mentés</string>
+    <string name="holidays_title">Ünnepek</string>
     <string name="horoscope_select_activity_label">Állatövi jegy kiválasztása</string>
     <string name="image_processing">A kép még nem áll készen</string>
     <string name="import_action">Importálás</string>
@@ -269,9 +292,21 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="loading">Egy pillanat…</string>
     <string name="local_calendar_display_name">Helyi naptár</string>
     <string name="local_owner_account_name">Mentve a készülékre</string>
+    <string name="long_holiday_date_place_holder">MMMM. dd.</string>
+    <string name="long_holiday_dates">%1$s napjától keződően</string>
+    <string name="long_holiday_month_off">Havi szabadnapok</string>
+    <string name="long_holiday_week_off">Heti szabadnapok</string>
     <string name="lunar_date">Holdnaptár</string>
+    <string name="manage_holidays">Ünnepek kezelése</string>
+    <string name="manage_title">Kezelés</string>
     <string name="match_finished">Nem állíthat be emlékeztetőket folyamatban lévő és befejezett játékokhoz</string>
     <string name="match_select_activity_label">Bajnokságok</string>
+    <string name="match_zodiac">Csillagjegy párosítása</string>
+    <string name="menstruation_card_default_title">Nincs menstruációs adat</string>
+    <string name="menstruation_card_error_sub_title">Zárja be a naptárt és indítsa újra.</string>
+    <string name="menstruation_card_error_title">Nem sikerült lekérni az adatokat</string>
+    <string name="menstruation_card_private_mode_sub_title">Magánjellegű</string>
+    <string name="menstruation_card_private_mode_title">Menstruációs ciklus ****</string>
     <string name="menu_general_preferences">Általános</string>
     <string name="menu_reminder_preferences">Emlékeztetők</string>
     <string name="missing_name">(Nincs név)</string>
@@ -300,7 +335,9 @@ u2022 Biztonsági másolatot készíthet eseményeiről."</string>
     <string name="news">Hírek</string>
     <string name="no_contact_birthday_hint">Nincs importálható születésnap</string>
     <string name="no_events_hint">Nincs esemény</string>
+    <string name="no_holiday_selected">Nem lettek kiválasztva szabadnapok</string>
     <string name="no_internet">Nem sikerült kapcsolódni az internethez</string>
+    <string name="no_long_holidays">Nincs közelgő hosszú ünnep</string>
     <string name="no_network">"Nem sikerült csatlakozni a hálózathoz.
 Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="no_network_btn">Próbálja újra</string>
@@ -309,6 +346,7 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="no_visiable_calendar_message">Hozzá kell adnia egy naptárfiókot. Érintse meg a \"Fiók hozzáadása\"-t a továbblépéshez.</string>
     <string name="no_visiable_calendar_select_account">Fiók hozzáadása</string>
     <string name="no_visiable_calendar_title">Fiók hozzáadása</string>
+    <string name="not_more_than_three_weekday">Legfeljebb 3 napot választhat ki</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">Naptáremlékeztetők</string>
     <string name="panchang_amanta">Amanta</string>
@@ -326,12 +364,14 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="panchang_ritu">Ritu</string>
     <string name="panchang_shaka_samvat">Shaka Samvat</string>
     <string name="panchang_sun_sign">Napjegy</string>
+    <string name="panchang_till_time">%1$s időpontig</string>
     <string name="panchang_tithi">Tithi</string>
     <string name="panchang_to"> eddig: </string>
     <string name="panchang_upto"> akár </string>
     <string name="panchang_vikram_samvat">Vikram Samvat</string>
     <string name="panchang_yamaghanta">Yamaghanta</string>
     <string name="panchang_yog">Yog</string>
+    <string name="partner_compatibility">Partner-kompatibilitás</string>
     <string name="path_calendar_settings">Rendszeralkalmazások/Naptár/Beállítások</string>
     <string name="prefDialogTitle_vibrateWhen">Rezgés</string>
     <string name="pref_reminder_time">Emlékeztető ideje</string>
@@ -386,11 +426,13 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="response_no">Nem</string>
     <string name="response_yes">Igen</string>
     <string name="rest_day_indication">: )</string>
+    <string name="saturday_click_disabled">Mostantól minden második és negyedik szombat szabadnap</string>
     <string name="saving_event">Esemény mentve</string>
     <string name="saving_event_with_guest">Frissítések küldése…</string>
     <string name="search_calendar">Dátum;Szoláris Periódusok;Holdnaptár;Almanach;Horoszkóp;Napirend;Találkozó;Emlékeztető;Ünnepnap; Szabadság; Születésnap;2016;2017;Tavaszi Fesztivál;Újév;Nemzetközi Munkaünnep;Közép-Őszi Fesztivál</string>
     <string name="search_calendar_edit_event">Találkozó;Emlékeztető;Napirend</string>
     <string name="search_calendar_settings">Naptár;Napirend;Emlékeztető</string>
+    <string name="second_saturday_holiday">Minden második szombat szabadnap</string>
     <string name="select_date">Ugrás a dátumhoz</string>
     <string name="set_reminder">Emlékeztető beállítása</string>
     <string name="setting_about_calendar_version">"Naptárverzió: "</string>
@@ -399,6 +441,7 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="setting_about_summary">"Verzió: "</string>
     <string name="setting_accounts">Naptárfiókok</string>
     <string name="setting_change_language">Naptár nyelvének beállítása</string>
+    <string name="setting_desc_import_todo">Ütemezett feladatok importálása a jegyzetekből</string>
     <string name="setting_fb_birthdays_title">Születésnapok importálása Facebookból</string>
     <string name="setting_features_title">Funkciók beállításai</string>
     <string name="setting_holiday_display_desc">Ünnepnapi kártyák a Naptár kezdőképernyőjén, a naplója alatt találhatók</string>
@@ -406,12 +449,18 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="setting_others">Egyéb</string>
     <string name="setting_title_about">Névjegy</string>
     <string name="setting_title_holiday_display">Ünnepnapok mutatása</string>
+    <string name="setting_title_import_todo">Feladatok importálása</string>
     <string name="setting_title_policy">Adatvédelmi irányelvek</string>
+    <string name="settings_show_long_holiday">Hosszú ünnepek</string>
+    <string name="settings_show_long_holiday_description">Tervezze előre a szabadnapjait</string>
+    <string name="settings_show_p_tracker">Menstruációs adatok megjelenítése</string>
+    <string name="settings_show_p_tracker_description">Kövesse nyomon a menstruációs ciklusait</string>
     <string name="share_image">Megosztás</string>
     <string name="share_image_label">Megosztás itt</string>
     <string name="share_title">Megosztás</string>
     <string name="show_day_view">Napi nézet</string>
     <string name="show_indic_date_summary">A hindi naptár abban az esetben érhető el, ha India egyik nyelve rendszernyelvként van beállítva</string>
+    <string name="single_selected_holiday">%1$s szabadnap</string>
     <string name="start_date_calculate">Kiszámítás</string>
     <string name="storage_permission_denied">Előbb adjon hozzáférést a tárhelyhez</string>
     <string name="subscribe_card">Feliratkozás most</string>
@@ -433,11 +482,16 @@ Emlékeztetőket is hozzáadhat, hogy ne maradjon le semmi fontosról."</string>
     <string name="talk_back_read_date">%1$s (%2$s a holdnaptár szerint).</string>
     <string name="talk_back_setting">Beállítások</string>
     <string name="template_announce_item_index">%1$s. esemény a %2$s-ból/-ből.</string>
+    <string name="three_selected_holiday">%1$s, %2$s, és %3$s szabadnapok</string>
     <string name="time_zone">Időzóna</string>
     <string name="timezone_label">Időzóna</string>
+    <string name="title_p_tracker">Menstruáció</string>
     <string name="today">Ma</string>
     <string name="today_at_time_fmt">Ma %s</string>
     <string name="today_no_events">Nincs esemény</string>
+    <string name="todays_panchang_title">Mai panchang</string>
+    <string name="todo_audio_event">"[Hangfeladat] "</string>
+    <string name="todo_event">Következő feladatok</string>
     <string name="tomorrow">Holnap</string>
     <string name="tomorrow_at_time_fmt">Holnap %s</string>
     <string name="too_long_content">A tartalom túl hosszú</string>
@@ -464,6 +518,7 @@ Emlékeztetőket is hozzáadhat, hogy ne maradjon le semmi fontosról."</string>
     <string name="travel_seat_number_text">Ülőhely</string>
     <string name="travel_train_number_text">Vonat</string>
     <string name="travel_train_station">Vasútállomás</string>
+    <string name="two_selected_holiday">%1$s és %2$s szabadnapok</string>
     <string name="unsubscribe_card">Leiratkozás</string>
     <string name="unsubscribe_card_success">Sikeresen leiratkozott “%1$s” csatornáról</string>
     <string name="unsubscribing_card">Leiratkozva</string>
@@ -487,4 +542,8 @@ Emlékeztetőket is hozzáadhat, hogy ne maradjon le semmi fontosról."</string>
     <string name="xiaomi_calendar_display_name">Mi Fiók Naptár</string>
     <string name="yearly">Évente (nap: %s)</string>
     <string name="yearly_plain">Évente</string>
+    <string name="action_bar_date_button_title">Dátum kiszámítása</string>
+    <string name="preferences_week_settings_title">Hét beállításai</string>
+    <string name="preferences_weekly_holiday_summary">A kiválasztott napokat szabadnapként jelöli meg</string>
+    <string name="preferences_weekly_holiday_title">Szabadnapok</string>
 </resources>

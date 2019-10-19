@@ -78,7 +78,6 @@
     <string name="respond_via_sms_custom_message">Egyedi SMS</string>
     <string name="manageConferenceLabel">Konferenciahívás kezelése</string>
     <string name="emergency_call_dialog_number_for_display">Segélyhívó szám</string>
-    <string name="volte_call">VoLTE-hanghívás</string>
     <string name="notification_dialing">Tárcsázás</string>
     <string name="notification_ongoing_call">Hívás folyamatban</string>
     <string name="notification_on_hold">Tartásban</string>
@@ -127,14 +126,9 @@
     <string name="msim_select_default_time_left">(%d mp)</string>
     <string name="select_sim_hint">SIM %2$d nem használható, mert SIM %1$d van használatban.</string>
     <string name="select_one_sim_title">Csak a SIM %1$d használható</string>
-    <string name="select_sim_hint_for_heduohao">Nem használhat másikat, amíg a SIM %1$d %2$d. alszáma használatban van.</string>
-    <string name="select_one_sim_title_for_heduohao">Csak a SIM %1$d %2$d. alszámát használhatja</string>
     <string name="can_not_use">Nem használható</string>
     <string name="sim1_description">SIM1</string>
     <string name="sim2_description">SIM2</string>
-    <string name="sim1_heduohao_card">1.alszám</string>
-    <string name="sim2_heduohao_card">2.alszám</string>
-    <string name="sim3_heduohao_card">3.alszám</string>
     <string name="call_description_recording">Hívás rögzítése…</string>
     <string name="call_recording_error_privacy">Nem készíthető felvétel Vendégmódban</string>
     <string name="call_recording_error_sd_access">Az SD-kártya nem elérhető</string>
@@ -168,7 +162,6 @@
     <string name="onscreen_message_text">Üzenetek</string>
     <string name="onscreen_close_preview_camera">Bezárás</string>
     <string name="upgrade_vt_prompt">Átvált videóhívásra?</string>
-    <string name="incoming_answer_voice_text">Hangválasz</string>
     <string name="picking_participant">Kapcsolat részleteinek lekérdezése…</string>
     <string name="conference_caller_info_name">%1$s konferencia hívása</string>
     <string name="video_conference_caller_info_name">%1$s videó konferenciahívása</string>
@@ -190,8 +183,8 @@
     <string name="incoming_circle_text_reject">Engedje el</string>
     <string name="incoming_circle_text_answer_p">Csúsztassa fel</string>
     <string name="incoming_circle_text_answer">Engedje el</string>
-    <string name="incoming_circle_text_message_p">Csúsztassa fel</string>
-    <string name="incoming_circle_text_message">Engedje el</string>
+    <string name="incoming_circle_text_video_answer_p">Húzza fel videós hívásfogadáshoz</string>
+    <string name="incoming_circle_text_video_answer">Engedje el videós hívásfogadáshoz</string>
     <string name="dialpad_zero">0</string>
     <string name="dialpad_one">1</string>
     <string name="dialpad_two">2</string>
@@ -205,4 +198,9 @@
     <string name="prompt_no_volte_when_failed">Nem lehet hívásokat kezdeményezni. Győződjön meg róla, hogy a készüléke csatlakoztatva van egy olyan 4G-hálózathoz, amely támogatja a VoLTE-t.</string>
     <string name="volume_boost_text">Sikeresen növelte a hangerőt</string>
     <string name="supp_service_notification_call_waiting">Az Ön által hívott szám foglalt. Kérjük, tartsa…</string>
+    <string name="incall_bubble_hangup_click_hint">Ha vissza akar térni a híváshoz, érintse meg újra</string>
+    <string name="manager_conference_done">Kész</string>
+    <string name="incoming_answer_voice_text">Hangválasz</string>
+    <string name="incoming_circle_text_message_p">Csúsztassa fel</string>
+    <string name="incoming_circle_text_message">Engedje el</string>
 </resources>

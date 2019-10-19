@@ -26,8 +26,8 @@
     <string name="cert_too_large_error">Nem lehet telepíteni, mert a tanúsítvány mérete túl nagy.</string>
     <string name="cert_missing_error">Nem lehet telepíteni, mert a tanúsítványfájl nem található.</string>
     <string name="cert_read_error">Nem lehet telepíteni, mert a tanúsítványfájl nem olvasható.</string>
-    <string name="no_cert_file_found">Nem található tanúsítványfájl az SD-kártyán.</string>
-    <string name="sdcard_not_present">Az SD-kártya hiányzik.</string>
+    <string name="no_cert_file_found">Nem található tanúsítványfájl az USB-táron.</string>
+    <string name="sdcard_not_present">Az USB-tár nem érhető el.</string>
     <string name="only_primary_user_allowed">Csak az eszköz tulajdonosa telepíthet tanúsítványokat.</string>
     <string name="credential_usage_label">Hitelesítési adatok használata:</string>
     <string name="certificate_capabilities_warning">Megjegyzés: A tanúsítvány kibocsátója megvizsgálhatja az eszközre érkező és az eszközről kimenő összes forgalmat.</string>

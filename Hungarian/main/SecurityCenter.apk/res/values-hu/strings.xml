@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -105,7 +107,7 @@ A szám a kivételek közé kerül, de a korábban letiltott számokról érkeze
 A számok a kivételek közé kerülnek, de a korábban letiltott számok nem látszanak a híváslistában."</string>
     <string name="dlg_update_date_title">Figyelmeztetés</string>
     <string name="dlg_update_data_content">Jelenleg nincs Wi-Fi-re csatlakoztatva. Mobiladat-kapcsolat használata további díjakat vonhat maga után. Biztosan folytatja?</string>
-    <string name="dlg_sec_network_unavailable">A Biztonság alkalmazás nem tudja elvégezni a frissítést, mert Ön korlátozta az internetkapcsolatot. Engedélyezi a Biztonság alkalmazásnak, hogy kapcsolódjon az internethez?</string>
+    <string name="dlg_sec_network_unavailable">A Biztonság nem tudja elvégezni a frissítést, mert Ön korlátozta az internetkapcsolatot. Engedélyezi a Biztonság alkalmazásnak, hogy kapcsolódjon az internethez?</string>
     <string name="dlg_update_btn_contiue">Folytatás</string>
     <string name="dlg_update_btn_open">Engedélyezés</string>
     <string name="dlg_update_updating">Frissítés…</string>
@@ -174,7 +176,7 @@ A számok a kivételek közé kerülnek, de a korábban letiltott számok nem l�
     <string name="sms_filter">Okosszűrő</string>
     <string name="sms_keywords">Kulcsszavas tiltólista</string>
     <string name="sms_service">SMS szolgáltatás tiltása</string>
-    <string name="sms_stranger_block">Ismeretlentől érkező SMS-ek tiltása</string>
+    <string name="sms_stranger_block">Letiltott</string>
     <string name="sms_contact_block">Ismerőstől érkező SMS-ek tiltása</string>
     <string name="sms_malicious_url">Rosszindulatú hivatkozásokat tartalmazó SMS-ek tiltása</string>
     <string name="sms_cloud_block">Felhő tiltólista</string>
@@ -200,7 +202,9 @@ A számok a kivételek közé kerülnek, de a korábban letiltott számok nem l�
     <string name="sms_delete_title">Üzenetek törlése</string>
     <string name="call_delete_title">Hívásnapló törlése</string>
     <string name="sms_delete_hint">Törli az összes blokkolt üzenetet, ami erről a számról érkezett?</string>
+    <string name="sms_delete_all_hint">Az összes üzenetet törli most?</string>
     <string name="call_delete_hint">Törli az összes letiltott hívást erről a számról?</string>
+    <string name="call_delete_all_hint">Törli a tiltólista hívásait?</string>
     <string name="backsound_set_hint">Beállítja ezt a hangot %s hangjának?</string>
     <string name="report">Bejelentés</string>
     <string name="report_only">Válasszon egy üzenetet a bejelentéshez</string>
@@ -210,6 +214,7 @@ A számok a kivételek közé kerülnek, de a korábban letiltott számok nem l�
     <string name="report_warning_title">Figyelmeztetés</string>
     <string name="st_sub_title_customize_mode_name">Név</string>
     <string name="read_all_sms">Összes elolvasása</string>
+    <string name="delete_all_sms">Az összes törlése</string>
     <string name="loding">Adatok betöltése</string>
     <string name="action_source_sms_title">Blokkolt üzenetek</string>
     <string name="action_source_call_title">Blokkolt hívások</string>
@@ -239,6 +244,7 @@ A számok a kivételek közé kerülnek, de a korábban letiltott számok nem l�
     <string name="st_antispam_title_anoy_incoming">Ismeretlen számokról érkezett hívások</string>
     <string name="st_antispam_title_null_incoming">Magántelefonszámok</string>
     <string name="st_antispam_title_service_sms">Szolgáltatói értesítések</string>
+    <string name="st_antispam_title_mms">MMS</string>
     <string name="st_summary_keywords_blacklist">Kulcsszavak hozzáadása üzenetek letiltására</string>
     <string name="st_summary_blacklist_numbers">Hívások és üzenetek letiltása bizonyos számokról és körzetekből</string>
     <string name="st_summary_whitelist_numbers">Hívások és üzenetek engedélyezése bizonyos számokról és körzetekből</string>
@@ -322,7 +328,7 @@ A számok a kivételek közé kerülnek, de a korábban letiltott számok nem l�
     <string name="st_share_settings">SIM 1 beállításainak használata</string>
     <string name="st_msg_settings">SMS-tiltólista</string>
     <string name="st_msg_intercept_contacts">Ismerőstől érkező SMS-ek tiltása</string>
-    <string name="st_msg_stranger_group">Ismeretlentől érkező SMS-ek tiltása</string>
+    <string name="st_msg_stranger_group">Idegenektől érkező üzenetek blokkolása</string>
     <string name="st_msg_other_group">Egyéb</string>
     <string name="st_msg_keyword_group">Kulcsszavak</string>
     <string name="st_msg_keyword_black">Kulcsszavas tiltólista</string>
@@ -344,11 +350,11 @@ A számok a kivételek közé kerülnek, de a korábban letiltott számok nem l�
     <string name="st_confirm_dialog_summary_contact_call">Az összes ismerőstől érkező hívás tiltva lesz.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Külföldi telefonszámokról érkező összes bejövő hívás tiltásának bekapcsolása.</string>
     <string name="cta_dialog_title">Internetkapcsolat</string>
-    <string name="cta_dialog_msg">&lt;Data>A Biztonság alkalmazás használata előtt el kell fogadnia a mi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Adatvédelmi Irányelveinket&lt;/a>. A Biztonság alkalmazás normális működéséhez és az antivírus-definíciók frissen tartásához szükséges internetkapcsolat és hozzáférés az Ön tartózkodási helyéhez. Elfogadja?&lt;/Data></string>
     <string name="cta_dialog_negative">Kilépés</string>
     <string name="cta_dialog_positive">Elfogadás</string>
     <string name="cta_settings">Internetcsatlakozás értesítés</string>
-    <string name="gdpr_msg">&lt;Data>A Biztonság főbb funkcióinak használatához el kell fogadnia, hogy a Xiaomi összegyűjti, feldolgozza és felhasználja személyes adatait, beleértve a Biztonsági funkciók használatának módját (pl. mobiladat-használati statisztikák, a rosszindulatú programokról szóló információk, valamint az Ön eszközére vonatkozó alapvető információk) és az &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Adatvédelmi irányelveiben&lt;/a> meghatározott egyéb típusú információkat.&lt;/Data></string>
+    <string name="gdpr_msg">&lt;Data>A Biztonság alapvető funkcióinak használatához el kell fogadnia, hogy a Xiaomi összegyűjti, feldolgozza és felhasználja személyes adatait, beleértve a Biztonság funkcióinak felhasználási módját (pl. mobiladat-használati statisztikák, a rosszindulatú programokról szóló információk, valamint az Ön eszközére vonatkozó alapvető információk) és az &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Adatvédelmi szabályzatában meghatározott egyéb típusú információkat&lt;/a>.&lt;/Data></string>
+    <string name="cta_main_purpose">Üdvözli Önt a Biztonság! Ezzel az appal törölheti készülékéről a felesleges tartalmat, megtalálhatja és eltávolíhatja a vírusokat, optimalizálhatja a teljesítményét a játékokhoz, spórolhat az akkuhasználattal, kezelheti az appjait és egyéb beállításokkal javíthatja a készülékét.</string>
     <string name="app_name_na">Adatforgalom</string>
     <string name="list_empty_text">Üres</string>
     <string name="dialog_title_attention">Figyelmeztetés</string>
@@ -427,7 +433,7 @@ hogy válaszoljon"</string>
     <string name="background_restrict_app_dialog_message">Az alkalmazás háttérbeli hálózat-hozzáférésének korlátozása lehetetlenné teheti az alkalmazás normális működését, üzenetek fogadását, letöltéseket, stb. Mégis korlátozza?</string>
     <string name="firewall_allow_network">Engedélyezés</string>
     <string name="app_bg_restrict_dialog_message">A hálózati kapcsolat háttérbeli korlátozása megakadályozhatja, hogy az alkalmazás rendesen működjön. Nem tud például többé üzeneteket fogadni vagy tartalmat frissíteni.</string>
-    <string name="firewall_network_allow">A(z) %1$s használhatja a %2$s hálózati kapcsolatát</string>
+    <string name="firewall_network_allow">A(z) %1$s használhatja a%2$s hálózati kapcsolatát</string>
     <string name="search_result_text">Nem található alkalmazás</string>
     <string name="firewall_mobile_dialog_message">Ha ezt kikapcsolja, a telepített alkalmazás nem lesz képes mobiladat-kapcsolaton keresztül az internetre kapcsolódni.</string>
     <string name="firewall_wifi_dialog_message">Ha ezt kikapcsolja, a telepített alkalmazás nem lesz képes Wi-Fi-n keresztül az internetre kapcsolódni.</string>
@@ -463,6 +469,7 @@ hogy válaszoljon"</string>
     <string name="not_limited_brand">Korlátlan</string>
     <string name="pref_about_traffic_title">Adatforgalmi beállítások</string>
     <string name="pref_traffic_manage_title">Adatforgalom</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Adat-előfizetés</string>
     <string name="pref_adjust_traffic_data">Az adatforgalom beállítása</string>
     <string name="pref_category_title_other">További beállítások</string>
@@ -879,8 +886,8 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Időtúllépés&lt;/font>"</string>
     <string name="tc_diagnostic_status_error_brand">Nem található szolgáltatói hálózat</string>
     <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Szolgáltatói hálózat válaszol&lt;/font>"</string>
-    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Eredmény: Hibás helyadat&lt;br/>&lt;br/>Állítsa be a helyet&lt;xliff:g id=location example=Budapest>%1$s&lt;/xliff:g>&lt;br/>Jelenlegi hely&lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Eredmény: Hibás szolgáltató&lt;br/>&lt;br/>Állítsa be a szolgáltatót:&lt;xliff:g id=operator example=Orange>%1$s&lt;/xliff:g>&lt;br/>Aktuális szolgáltató&lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Eredmény: Hibás helyadat&lt;br/>&lt;br/>Állítsa be a helyet&lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Jelenlegi hely&lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Eredmény: Hibás szolgáltató&lt;br/>&lt;br/>Állítsa be a szolgáltatót:&lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Aktuális szolgáltató&lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Eredmény: Hibás szolgáltatói kijelzés&lt;br/>&lt;br/>Állítsa be:&lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Aktuális kejelzés:&lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Eredmény: Diagnosztika nem végezhető el&lt;br/>&lt;br/>Jelezze ezt a hibát a MIUI-nak, hogy jobbá tegye a diagnosztikai eszközt&lt;/font>"</string>
     <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Eredmény: Szolgáltató hálózata és kijelzése helyesen beállítva&lt;br/>&lt;br/>Nem sikerült befejezni beállítást&lt;br/>1. Szolgáltató statisztikái nem megbízhatóak a hónap elején és végén&lt;br/>2. Biztonság alkalmazás nem lett frissítve.&lt;br/>&lt;br/>Jelentse ezt a hibát a MIUI-nak, hogy jobbá tegye a diagnosztikai eszközt&lt;/font>"</string>
@@ -971,7 +978,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="om_running_system_apps">Futó rendszeralkalmazások</string>
     <string name="om_running_third_apps">Futó harmadik féltől származó alkalmazások</string>
     <string name="om_locked_apps_summary">A rögzített alkalmazásokat figyelmen kívül hagyja a sebességgyorsítás.</string>
-    <string name="power_center_title">Akkumulátoroptimalizálás</string>
+    <string name="power_center_title">Akkumulátor és teljesítmény</string>
     <string name="power_center_back">Vissza</string>
     <string name="power_center_auto_shutdown">Ütemezett be- és kikapcsolás</string>
     <string name="power_center_ontime_boot">Bekapcsolás ideje</string>
@@ -1014,6 +1021,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="usage_type_data_send">Elküldött adatok</string>
     <string name="usage_type_no_coverage">Jel nélkül eltelt idő</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Médiaszerver</string>
     <string name="power_screen">Képernyő</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1021,6 +1029,8 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="power_cell">Cella készenlét</string>
     <string name="power_phone">Hanghívások</string>
     <string name="power_idle">Telefon - tétlen</string>
+    <string name="power_ambient_display">Környezeti kijelző</string>
+    <string name="battery_desc_ambient_display">A Környezeti kijelző által fogyasztott energia</string>
     <string name="usage_type_cpu">CPU teljes</string>
     <string name="usage_type_cpu_foreground">CPU-használat az előtérben</string>
     <string name="usage_type_wake_lock">Ébren tartás</string>
@@ -1088,7 +1098,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="btn_text_optimize_now">Optimalizálás</string>
     <string name="btn_text_optimize_manually">Manuális optimalizálás</string>
     <string name="battery_history_activity_title">Előzmények</string>
-    <string name="btn_text_goto_power_rank">Akkumulátorhasználat megtekintése</string>
+    <string name="btn_text_goto_power_rank">Az összes statisztika megtekintése</string>
     <string name="btn_text_goto_setup">Beállítások</string>
     <string name="power_save_title_text">Akkumulátorkímélő</string>
     <string name="power_save_summary_text">Kapcsolja be az akkumulátorkímélőt az alkalmazások háttérfolyamatainak korlátozása, szinkronizálás kikapcsolása és rendszeranimációk csökkentése érdekében.</string>
@@ -1114,7 +1124,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="deep_power_save_item_title_bluetooth">Bluetooth kikapcsolása</string>
     <string name="deep_power_save_item_summary_bluetooth">Kapcsolja ki a Bluetooth-t az akkukímélés érdekében</string>
     <string name="deep_power_save_item_title_lock_screen_time">A képernyő kikapcsolása</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">Kapcsolja ki a képernyőt 30 másodperc inaktivitás után</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">Kapcsolja ki a képernyőt 15 másodperc inaktivitás után, hogy spóroljon az akkuhasználattal</string>
     <string name="power_save_mode_enable">Akkumulátorkímélő</string>
     <string name="power_save_mode_summary">Háttérfolyamatok figyelése és szinkronizálás kikapcsolása.</string>
     <string name="power_optimize_save_mode_not_opened">Akkumulátorkímélő ki</string>
@@ -1163,7 +1173,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="auto_task_operation_memory_clean_lockscreen">Tárhelytisztítás</string>
     <string name="auto_task_operation_mobile_data">Mobiladatok</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
-    <string name="auto_task_operation_mute">Néma üzemmód</string>
+    <string name="auto_task_operation_mute">Néma mód</string>
     <string name="auto_task_operation_vibration">Rezgés</string>
     <string name="auto_task_operation_bluetooth">Bluetooth</string>
     <string name="auto_task_operation_auto_brightness">Automatikus fényerő</string>
@@ -1236,12 +1246,17 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="power_center_list_item_auto_brightness">Automatikus képernyő-fényerősségszabályzás</string>
     <string name="power_center_list_item_deep_save_title">Haladó beállítások</string>
     <string name="power_center_list_item_battery_status_time">ó</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_stop_scan_title">Keresés leállítása</string>
     <string name="hide_mode_result_summary_text">Az Akkumulátorkímélő beállításainak testreszabása az egyes alkalmazásokhoz</string>
     <string name="auto_task_result_summary_text">Automatikus feladatok beállítása az Akkumulátorkímélőhöz</string>
-    <string name="pc_settings_title">Az akkuoptimalizálás beállításai</string>
+    <string name="pc_settings_title">Akkumulátor- és teljesítménybeállítások</string>
     <string name="pc_main_activity_back">Vissza</string>
     <string name="extreme_power_save_mode_card_summary">Kapcsolja be a Rendkívül erős akkumulátorkímélőt, hogy energiát takarítson meg, ha az akkumulátor alacsony töltöttségű.</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="power_save_ps_limit">Korlátozza a rendszeralkalmazások aktivitását</string>
     <string name="power_save_ps_freeze">Befagyasztja az alkalmazásokat a háttérben</string>
     <string name="power_save_ps_clean">Törli a gyorsítótárat, amikor a képernyő lezár</string>
@@ -1261,6 +1276,15 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="power_setting_category_other">További beállítások</string>
     <string name="power_setting_background_app_save_title">Háttér-akkumulátorkímélő</string>
     <string name="power_setting_background_app_save_summary">A funkcionalitás befolyásolása nélkül korlátozza az alkalmazások háttértevékenységét</string>
+    <string name="power_setting_warm_configure">Hőmérséklet-ellenőrző</string>
+    <string name="power_setting_config_scenario_policies_title">Helyzetek</string>
+    <string name="power_setting_scenario_policies_summary">Azonosítsa a helyzeteket az energiatakarékos módok közötti automatikus váltáshoz</string>
+    <string name="power_setting_important_warning">Figyelmeztetés</string>
+    <string name="power_setting_warm_performance_tip">A nagy energiát igénylő helyzetek az alapértelmezett hőmérsékletszabályozási mód szintje fölé emelik készüléke hőmérsékletét.</string>
+    <string name="power_setting_features">Speciális funkciók</string>
+    <string name="power_setting_wireless_reverse_charging_title">Fordított vezeték nélküli töltés</string>
+    <string name="power_setting_wireless_reverse_charging_summary">Másik kompatibilis készülékek vezeték nélküli töltése</string>
+    <string name="battery_and_property">Akkumulátor és teljesítmény</string>
     <string name="power_settings_lock_screen_saver_title">Képernyőzár-beállítások</string>
     <string name="quick_optimize_sub_summary_with_battery_text">%1$s hozzáadva, nagyjából %2$s maradt</string>
     <string name="quick_optimize_sub_battery_text">Nagyjából %s maradt</string>
@@ -1275,6 +1299,17 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pc_main_sub_battery_text_hour_minute">%1$s óra %2$s perc van hátra</string>
     <string name="pc_main_power_manager_day_hour">%1$s nap %2$s óra a teljes töltésig</string>
     <string name="pc_main_power_manager_hour_minute">%1$s óra %2$s perc a teljes töltésig</string>
+    <string name="battery_statistics_activity_title">Akkuhasználati statisztikák</string>
+    <string name="pc_battery_history_consume_rank_menu_item">Besorolás</string>
+    <string name="pc_battery_history_battery_detail_menu_item">Részletek</string>
+    <string name="pc_battery_history_rank_percent_menu_item">Százalékos</string>
+    <string name="pc_battery_history_rank_mha_menu_item">Milliamperóra (mAh)</string>
+    <string name="pc_battery_detail_curve_reference_now">Most</string>
+    <string name="pc_battery_detail_device_item_title">Akkuhasználati statisztikák</string>
+    <string name="pc_statistics_battery_use_title">Akkumulátorhasználat</string>
+    <string name="pc_statistics_battery_use_summary">%s az utolsó töltés óta</string>
+    <string name="pc_statistics_battery_use_hour_minute">%1$d óra %2$d perc az utolsó töltés óta</string>
+    <string name="pc_statistics_battery_last_hour_minute">%1$d óra %2$d perc van hátra</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s nagyon meríti az akkumulátort</string>
     <string name="notification_battery_scan_consume_abnormal_summary">Érintse meg a probléma megoldásához</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">Megakadályozza, hogy a rendszer készenléti állapotba kerüljön</string>
@@ -1284,6 +1319,38 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pc_abnormal_scan_reason_wake_system">Túl gyakran ébreszti fel a rendszert</string>
     <string name="pc_abnormal_scan_reason_reconnect">Túl gyakran kisérel meg a hálózatra csatlakozni</string>
     <string name="pc_abnormal_scan_button_text">Alkalmazások bezárása</string>
+    <string name="superpower_settings">Ultraerős akkumulátorkímélő</string>
+    <string name="superpower_notification_time_12">MMMM dd., EEEE</string>
+    <string name="superpower_notification_time_24">MMMM dd., EEEE</string>
+    <string name="superpower_notification_hint_enter">Bekapcsolás</string>
+    <string name="superpower_savemode_limit1">Sötét téma</string>
+    <string name="superpower_savemode_limit2">Háttéraktivitás korlátozása</string>
+    <string name="superpower_savemode_limit3">A nagy energiaigényű tevékenységek korlátozása (szinkron, GPS, rezgés, Környezeti kijelző, stb)</string>
+    <string name="superpower_savemode_limit4">A kiválasztott alkalmazások működhetnek szokásos módon</string>
+    <string name="superpower_settins_switch_summary">A legenergiaigényesebb funkciók korlátozása annak érdekében, hogy az alapvető funkciókat (pl hívás, SMS és a kiválasztott alkalmazások) a lehető leghosszabb ideig elérhetővé tegye</string>
+    <string name="superpower_settins_autoleave_title">Automatikus kikapcsolás</string>
+    <string name="superpower_settins_autoleave_summary">Amint 50%-ra töltődik az akkumulátor, automatikusan kikapcsolja az Ultraerős akkumulátorkímélőt</string>
+    <string name="superpower_settins_other">További beállítások</string>
+    <string name="superpower_settins_autoenter_title">Automatikus bekapcsolás</string>
+    <string name="superpower_settins_autoenter_summary">Amint 10% alá merül az akkumulátor, automatikusan bekapcsolja az Ultraerős akkumulátorkímélőt</string>
+    <string name="superpower_notification_title">Kevesebb, mint 10% akkutöltöttség maradt</string>
+    <string name="superpower_notification_summary">Az Ultraerős akkumulátorkímélő bekapcsolása</string>
+    <string name="superpower_dialog_title">Ultraerős akkumulátorkímélő</string>
+    <string name="superpower_dialog_massage">Az Ultraerős akkumulátorkímélő korlátozza a legtöbb energiaigényes funkciót és csökkenti az készülék teljesítményét, hogy az alapvető funkciókat (pl. hívások, SMS és a hálózathoz való csatlakozás) a lehető leghosszabb ideig elérhetővé tegye. Bekapcsolja az Ultraerős akkumulátorkímélőt?</string>
+    <string name="superpower_dialog_button_ok">OK</string>
+    <string name="superpower_dialog_button_disable_dialog">Ne emlékeztessen újra</string>
+    <string name="superpower_progress_title">Hátralévő idő</string>
+    <string name="superpower_progress_content">Az Ultraerős akkumulátorkímélő bekapcsolása…</string>
+    <string name="superpower_progress_turnoff_items">A nagy energiaigényű műveletek korlátozása</string>
+    <string name="superpower_progress_turnoff_process">A háttéraktivitás korlátozása</string>
+    <string name="superpower_progress_turndown_brightness">A képernyő fényerejének csökkentése</string>
+    <string name="superpower_progress_switch_home">Átváltás a Sötét témára</string>
+    <string name="superpower_progress_left_time">%1$dó %2$dp</string>
+    <string name="pc_search_keywords_battery">Akkumulátor</string>
+    <string name="pc_search_keywords_battery_save">Akkumulátorkímélő</string>
+    <string name="pc_search_keywords_battery_use">Akkumulátorhasználat</string>
+    <string name="pc_search_keywords_capacity">Akkumulátorkapacitás</string>
+    <string name="pc_search_keywords_property">Teljesítmény</string>
     <string name="handle_bar_title_system">Rendszer</string>
     <string name="apps_list_header_title_sms">Üzenet alkalmazás ellenőrzése</string>
     <string name="apps_list_header_title_sms_access">Ellenőrző kódhozzáférések korlátozása</string>
@@ -1351,7 +1418,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_check_item_title_root">Root</string>
     <string name="sp_settings_check_item_title_update">Rendszerfrissítések</string>
-    <string name="sp_settings_check_item_title_virus_exception">Kivételek víruskeresésnél</string>
+    <string name="sp_settings_check_item_title_virus_exception">Kivételek</string>
     <string name="sp_settings_check_item_title_sign_exception">Aláírás kivételek</string>
     <string name="sp_settings_check_item_summary_virus_exception">A víruskeresés közbeni kivételek kezelése</string>
     <string name="sp_settings_check_item_summary_sign_exception">Aláírás kivételek kezelése</string>
@@ -1359,7 +1426,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="sp_empty_title_sign_exception">Kivételekhez adáshoz nyomja hosszan az alkalmazást</string>
     <string name="sp_toast_removed_from_sign_white_list">Törölve a kivételek közül. A következő alkalommal ellenőrizve lesz.</string>
     <string name="sp_network_privacy_dialog_title">Biztonsági ellenőrzés nem használható</string>
-    <string name="sp_network_privacy_dialog_message">A Biztonság alkalmazás nem tud rendeltetésszerűen működni, mert Ön korlátozta az internetkapcsolatot. Engedélyezi a Biztonság alkalmazásnak, hogy kapcsolódjon az internethez?</string>
+    <string name="sp_network_privacy_dialog_message">A Biztonság nem tud rendeltetésszerűen működni, mert Ön korlátozta az internetkapcsolatot. Engedélyezi a Biztonság alkalmazásnak, hogy kapcsolódjon az internethez?</string>
     <string name="sp_settings_exception_count_zero">Nincsenek elemek</string>
     <string name="sp_monitored_apps_count_zero">Egy fizetési alkalmazás sem védett</string>
     <string name="monitor_app_more">Továbbiak</string>
@@ -1387,8 +1454,6 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="btn_text_quick_scan">Keresés</string>
     <string name="menu_text_antivirus">Biztonsági vizsgálat</string>
     <string name="menu_summary_antivirus">Vírusok keresése a készüléken</string>
-    <string name="menu_summary_antivirus_2">Lehetséges kockázatok észlelve</string>
-    <string name="menu_summary_antivirus_3">Még nem volt az átvizsgálva a készülék</string>
     <string name="menu_text_optimize_manage">Sebességgyorsítás</string>
     <string name="menu_text_networkassistants">Adatforgalom</string>
     <string name="menu_summary_networkassistants">Adatforgalom kezelése</string>
@@ -1397,24 +1462,25 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="menu_summary_networkassistants_4">Az adatcsomag fogyóban van</string>
     <string name="menu_text_networkassistants_remain">%s elérhető</string>
     <string name="menu_text_networkassistants_danger">%s túlforgalm.</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_antispam">Tiltólista</string>
     <string name="menu_summary_antispam">Hívások és üzenetek tiltása</string>
-    <string name="menu_summary_antispam_2">Tiltott hívások és üzenetek</string>
     <string name="menu_text_license_manager">Engedélyek</string>
     <string name="menu_text_garbage_cleanup">Tisztító</string>
     <string name="menu_summary_garbage_cleanup">Nincs szemét</string>
-    <string name="menu_summary_garbage_cleanup_2">Szemét mérete</string>
-    <string name="menu_summary_garbage_cleanup_3">Szemét törlése most</string>
-    <string name="menu_text_power_manager">Akkumulátoroptimalizálás</string>
+    <string name="menu_summary_garbage_cleanup_ex">%s szemét törölve</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
+    <string name="menu_text_power_manager">Akkumulátor és teljesítmény</string>
     <string name="menu_summary_power_manager">Az Akkumulátorkímélő több időt ad Önnek két feltöltés között</string>
     <string name="menu_summary_power_manager_1">Az akkumulátor teljesen feltöltve</string>
     <string name="menu_summary_power_manager_2">%s van hátra</string>
     <string name="menu_summary_power_manager_3">Csatlakoztassa a töltőt</string>
     <string name="menu_summary_power_manager_4">%s van hátra a feltöltésig</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">Ajánlott: az előző átvizsgálás a befejezés előtt megszakítva</string>
     <string name="examination_score_100">Nem szükséges vizsgálat, minden rendben van!</string>
     <string name="examination_score_80_100">Néhány elem optimalizálása szükséges...</string>
@@ -1428,8 +1494,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="activity_title_license_manager">Engedélyek</string>
     <string name="activity_title_power_manager">Akkumulátoroptimalizálás</string>
     <string name="activity_title_garbage_cleanup">Tisztító</string>
-    <string name="menu_summary_app_manager">Alkalmazások frissítése és eltávolítása</string>
-    <string name="menu_summary_app_manager_2">Frissítések érhetők el</string>
+    <string name="menu_summary_app_manager">Frissítés és eltávolítás</string>
     <string name="memory_check_content">%s felszabadítva</string>
     <string name="memory_clear_unused">Gyorsítótártörlés (%s)</string>
     <string name="activity_title_virus">Vírus</string>
@@ -1486,7 +1551,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="menu_item_notification_antispam_text_normal">Spam</string>
     <string name="menu_item_notification_antispam_text_avail">Spam</string>
     <string name="pref_category_title_securitycenter_settings">Általános</string>
-    <string name="pref_category_title_module_settings">Funkciók beállításai</string>
+    <string name="pref_category_title_module_settings">Beállítások az egyes funkciókhoz</string>
     <string name="Settings_title_garbage_cleanup">A Tisztító beállításai</string>
     <string name="Settings_title_network_assistants">Az Adatforgalom beállításai</string>
     <string name="Settings_title_anti_spam">Tiltólista beállításai</string>
@@ -1502,7 +1567,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="hints_virus_app_list_item_summary">alkalmazás</string>
     <string name="hints_virus_apk_list_item_summary">apk</string>
     <string name="hints_loading_text">Betöltés…</string>
-    <string name="security_center_slogan">Biztonság. Állandó védelem alatt.</string>
+    <string name="security_center_slogan">Maradjon gyors és biztonságos a készüléke</string>
     <string name="activity_title_auto_start_manager">Automatikus indítás</string>
     <string name="activity_title_permission_manager">Engedélykezelő</string>
     <string name="activity_title_other_permission_manager">Egyéb engedélyek</string>
@@ -1528,6 +1593,8 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="permission_action_accept">Engedélyezés</string>
     <string name="permission_action_prompt">Rákérdezés</string>
     <string name="permission_action_reject">Elutasítás</string>
+    <string name="permission_action_always">Mindig engedélyezem</string>
+    <string name="permission_action_foreground">Az app használata során</string>
     <string name="empty_title_permission_apps_list">Nincs alkalmazás</string>
     <string name="old_sdk_deny_warning">Az alkalmazás nem kompatibilis a friss Android engedélykezelővel. Az elutasított engedélyek az alkalmazás hibás működéséhez vezethetnek.</string>
     <string name="empty_title_root_apps">Nincs root jogosultsággal rendelkező alkalmazás</string>
@@ -1590,10 +1657,10 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="empty_title_manual_item_white_list">Nincs kivétel</string>
     <string name="title_cloud_account">Mi Fiók</string>
     <string name="summary_cloud_account">Hozza ki a legtöbbet Mi készülékéből.</string>
-    <string name="title_cloud_service">Mi Cloud</string>
+    <string name="title_cloud_service">Xiaomi Cloud</string>
     <string name="summary_cloud_service">Fényképek, névjegyek, stb. szinkronizálása az összes készüléken</string>
     <string name="title_network_switch">Hálózati kapcsolat</string>
-    <string name="summary_network_switch">Biztonság alkalmazás kapcsolódhat az internethez</string>
+    <string name="summary_network_switch">A Biztonság app kapcsolódhat az internethez</string>
     <string name="title_power_optimizer">Akkumulátorkímélő</string>
     <string name="summary_power_optimizer">Csökkenti a készüléke teljesítményét, ha az akkumulátor kapacitása alacsony</string>
     <string name="title_data_flow_monitor">Adatfelhasználás figyelés bekapcsolva</string>
@@ -1648,7 +1715,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="toast_garbage_lib">A tisztító automatikus frissítése bekapcsolva</string>
     <string name="title_app_lock_disable">Alkalmazások zárolása</string>
     <string name="summary_app_lock_disable">Védje adatait az Alkalmazások zárolásával</string>
-    <string name="title_first_aid_kit">A problémák megoldása</string>
+    <string name="title_first_aid_kit">Problémamegoldás</string>
     <string name="summary_first_aid_kit">Gyorsan megoldhatja a készülékén található problémákat</string>
     <string name="button_first_aid_kit">Javítás most</string>
     <string name="info_and_call">Hívások és üzenetek</string>
@@ -1704,7 +1771,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_title">Adatvédelmi Irányelvek</string>
     <string name="antivirus_privacy_dialog_summary">Ez a funkció titkosítja és feltölti készülékének azonosítóját az Avast, AVL és a Tencent szerverére (%s).</string>
-    <string name="antivirus_privacy_dialog_summary_link">adatvédelmi irányelvek megtekintése</string>
+    <string name="antivirus_privacy_dialog_summary_link">Adatvédelmi Irányelvek</string>
     <string name="antivirus_privacy_dialog_cloudscan">Alkalmazások neveinek és adatainak feltöltése</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Alkalmazások neveinek és adatainak feltöltése és átvizsgálása online adatbázisok használatával.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
@@ -1714,7 +1781,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="antivirus_not_wlan">Jelenleg nincs csatlakozva Wi-Fi-re. Mobiladat-kapcsolat használata további díjakat vonhat maga után. Biztosan folytatja?</string>
     <string name="antivirus_longtime_no_update">Úgy tűnik, a vírus-adatbázis elég régi. A folyamatos frissítés segíti a jobb vírusszűrési hatékonyságot. Engedélyezi a Biztonság alkalmazásnak az internetre kapcsolódást és a vírus-adatbázis frissítését?</string>
     <string name="antivirus_longtime_no_update1">Úgy tűnik, a vírus-adatbázis elég régi. A folyamatos frissítés segíti a jobb vírusszűrési hatékonyságot. Frissítse az adatbázist, majd próbálja újra.</string>
-    <string name="antivirus_sec_network_unavailable">A Biztonság alkalmazás nem tudja elvégezni a frissítést, mert Ön korlátozta az internetkapcsolatot. Engedélyezi a Biztonság alkalmazásnak, hogy kapcsolódjon az internethez?</string>
+    <string name="antivirus_sec_network_unavailable">A Biztonság nem tudja elvégezni a frissítést, mert Ön korlátozta az internetkapcsolatot. Engedélyezi a Biztonság alkalmazásnak, hogy kapcsolódjon az internethez?</string>
     <string name="antivirus_update_btn_contiue">Folytatás</string>
     <string name="antivirus_update_btn_open">Engedélyezés</string>
     <string name="antivirus_update_btn_update">Frissítés</string>
@@ -1796,6 +1863,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="card_main_deepclean_wechat_action">Törlés</string>
     <string name="card_main_sectool_title">Eszközök</string>
     <string name="card_main_monthreport_action">Megtekintés</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Hálózati diagnosztika</string>
     <string name="card_main_netcheck_summary">Hálózat tesztelése problémák keresése céljából</string>
     <string name="card_main_netcheck_action">Teszt</string>
@@ -1852,7 +1920,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="ac_enter_applock">Belépés az Alkalmazások zárolásába</string>
     <string name="ac_mask_all_apps">Elrejtés az összes alkalmazás számára</string>
     <string name="ac_unmask_all_apps">Elrejtés feloldása az összes alkalmazás számára</string>
-    <string name="ac_summaryOn">Bekapcsolva, jelszó szükséges az alkalmazások megnyitásához</string>
+    <string name="ac_summaryOn">Adja meg a jelszót a védett alkalmazások megnyitásához</string>
     <string name="ac_summaryOff">Kikapcsolva, nem kell jelszó az alkalmazások megnyitásához</string>
     <string name="lockpattern_tutorial_cancel_label">Mégse</string>
     <string name="lockpattern_tutorial_continue_label">Tovább</string>
@@ -1866,8 +1934,8 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="modifypassword">Jelszótípus-változtatás</string>
     <string name="back_modifypassword">Visszalépés a jelszótípus-változtatáshoz</string>
     <string name="showpattern">Minta mutatása</string>
-    <string name="notification_mask_title">Tartalom elrejtése</string>
-    <string name="notification_mask_summary">Üzenetek tartalmának elrejtése a képernyőzáron és az értesítési felületen</string>
+    <string name="notification_mask_title">Az értesítések tartalmának elrejtése</string>
+    <string name="notification_mask_summary">A védett alkalmazások értesítéseinek tartalmát nem jeleníti meg</string>
     <string name="convenient_mode">Összes alkalmazás feloldása egyszerre</string>
     <string name="convenient_summary">Adja meg a jelszót egyszer az összes alkalmazás feloldásához</string>
     <string name="suggest_app_tolock">Javaslatok</string>
@@ -2063,7 +2131,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="quick_reply_title">Gyorsválaszok</string>
     <string name="quick_replay_list_title">Elérhető alkalmazások</string>
     <string name="qucick_replay_instrument">Használja a gyorsválaszokat a kiválasztott üzenetküldők értesítéseiben (WhatsApp, WeChat, QQ)</string>
-    <string name="app_manager_title">Alkalmazáskezelő</string>
+    <string name="app_manager_title">Alkalmazáskezelés</string>
     <string name="app_manager_uninstall">Eltávolítás</string>
     <string name="app_manager_bipartition">Klónozott alkalmazások</string>
     <string name="app_manager_perm">Engedélykezelő</string>
@@ -2181,6 +2249,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="app_manager_find_apps">Alkalmazáskeresés</string>
     <string name="app_manager_thumbnail_blur_title">Előnézet-elhomályosítás</string>
     <string name="app_manager_thumbnail_blur_summary">Az alkalmazások előnézetének elhomályosítása az előzményekben</string>
+    <string name="app_manager_power_consume">%.1f%%</string>
     <string name="ad_btn_default_text">További információ</string>
     <string name="open_activity_err">Alkalmazás nem található</string>
     <string name="low_memory_warning_dialog_title">Nincs elég szabad hely</string>
@@ -2214,7 +2283,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="gs_game_net_priority_detail">Korlátozza a letöltési sebességet, hogy elég sávszélessége legyen a játékoknak</string>
     <string name="gs_performance_mode">Teljesítménymód</string>
     <string name="gs_performance_mode_detail">Játékokhoz optimalizálja a rendszerteljesítményt</string>
-    <string name="gs_open_game_booster">Gyorsítás</string>
+    <string name="gs_open_game_booster">Sebességgyorsítás</string>
     <string name="gs_dialog_confirm_close_title">Kikapcsolás</string>
     <string name="gs_dialog_confirm_close_msg">A parancsikon eltávolításra kerül a Kezdőképernyőjéről. Menjen a Biztonság > Beállításokba a visszaállításához.</string>
     <string name="gs_game_performance">Teljesítmény</string>
@@ -2236,7 +2305,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="already_close_gamebooster">Játékteljesítmény-növelő kikapcsolva</string>
     <string name="no_game">Nem sikerült játékokat találni</string>
     <string name="gamebooster_network_dialog_title">Néhány funkció nem elérhető</string>
-    <string name="gamebooster_network_dialog_message">A Játékgyorsító összes szolgáltatásának eléréséhez engedélyezi a Biztonság alkalmazásnak a hálózati kapcsolatot?</string>
+    <string name="gamebooster_network_dialog_message">A Játékturbó összes szolgáltatásának eléréséhez engedélyezi a Biztonság alkalmazásnak a hálózati kapcsolatot?</string>
     <string name="ask_create_shortcut">Létrehoz egy parancsikont a Kezdőképernyőn?</string>
     <string name="create_shortcut">Játékgyorsító parancsikon létrehozása a kezdőképernyőn</string>
     <string name="i_know">Rendben</string>
@@ -2248,6 +2317,12 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="gmscore_support_service">Google-alapszolgáltatások</string>
     <string name="gmscore_support_remind">Kapcsolja be ezt a funkciót, ha problémát tapasztal bármely Google alkalmazással (Gmail, Google térkép, stb). Ez egy kissé csökkenteni fogja az akkuidőt.</string>
     <string name="google_base_app_install_choice">Az alkalmazás a Google Szolgáltatások Keretrendszer meglétét igényli a megfelelő működéshez. Letölti és telepíti ezt?</string>
+    <string name="function_gwsd_title">Ne engedélyezzen bejövő hívásokat, ha azok megszakítanák a SIM adatkapcsolatot</string>
+    <string name="function_gwsd_detail">"A funkcióról:
+ 1. A Data SIM-kártyájára érkező bejövő hívások nem fogják megszakítani az adatkapcsolatát. Az adatkapcsolat csak akkor szakad meg, ha felveszi a hívást.
+ 2. Ha bekapcsolja ezt a funkciót, a hívó nem fog hívásvárakoztatási hangot hallani. A bejövő hívások automatikusan megszakadnak, ha nem válaszol 6 másodpercen belül.
+ 3. Ez a funkció csak Data SIM-kártyákkal működik. Az elsődleges SIM-kártyájára érkező hívások megszakítják a mobil adatkapcsolatot.
+ 4. Ez a funkció kizárólag a China Mobile és a China Unicom használata esetén elérhető."</string>
     <string name="application_item_disable">Letiltott</string>
     <string name="application_item_already_permission">Engedélyezett</string>
     <string name="man_add_application">Automatikusan induló alkalmazások kézi hozzáadása</string>
@@ -2380,6 +2455,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="gamebox_display_3">Élénk</string>
     <string name="gamebox_display_4">Élénk és telített</string>
     <string name="gamebox_display_set">"Vizuális kiemelés: "</string>
+    <string name="gamebox_milink">Kivetítés</string>
     <string name="gb_first_window_title">Játékteljesítmény-növelő</string>
     <string name="gb_first_window_summary">Növelje a sebességet és a teljesítményt rendszerszinten</string>
     <string name="gb_first_window_gamebox_summary_four">Törölje a gyorsítótárat, készítsen képernyővideókat és képernyőképeket</string>
@@ -2414,6 +2490,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="gb_advance_settings_reset_dialog_content">Visszaállítja most az alapértelmezett beállításokat?</string>
     <string name="title_reply">Hozzászólás</string>
     <string name="title_like">Tetszik</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">Mobiladat-kapcsolat</string>
     <string name="game_wid_viewpoint_buttom">Vegyen egy kis szünetet.</string>
     <string name="video_repeat">Lejátszás újra</string>
@@ -2463,12 +2540,21 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="function_shield_eye_shield">Az Olvasómód kikapcsolása</string>
     <string name="function_shield_three_finger">A képernyőmentési mozdulatvezérlések korlátozása</string>
     <string name="function_shield_pull_notification_bar">Az Értesítési felület rejtve hagyása</string>
+    <string name="function_shield_voice_trigger">Hangutasításra ne ébredjen fel a Mi AI</string>
     <string name="choose_gs_show_way">A kezdőképernyő tájolásának kiválasztása</string>
     <string name="gs_show_way">Kezdőképernyő-tájolás</string>
     <string name="gs_show_way_horizontal">Vízszintes</string>
     <string name="gs_show_way_vertical">Függőleges</string>
     <string name="gb_global_settings">Általános beállítások</string>
     <string name="gb_add_game_hint">Elem hozzáadása az alkalmazáslistából</string>
+    <string name="gb_first_guide_title">Növelje a sebességet és a teljesítményt rendszerszinten</string>
+    <string name="gb_first_guide_gamebox_des">Parancsikonok használata játék közben</string>
+    <string name="gb_first_guide_handsfree_des">Hívások fogadása a háttérben</string>
+    <string name="gb_first_guide_shortcut_des">A Játékgyorsító parancsikonja létrehozásra került a Kezdőképernyőn</string>
+    <string name="gb_first_guide_function_shiled_title">A rendszerfunkciók kikapcsolása, ha a Játékgyorsító be van kapcsolva</string>
+    <string name="stop_milink_connect">Leállított kivetítés</string>
+    <string name="other_milink_connect">Nem lehet kivetíteni. Most egy másik funkciót vetít ki.</string>
+    <string name="alert_back_milink_hangup_tips_content">A hívás befejezése közben a kijátszás nem szakad meg. A képernyőébresztéshez nyomja meg a Bekapcsoló gombot.</string>
     <string name="notify_channel_name_security">Rendszerbiztonság</string>
     <string name="privacy_apps_category_title">Rejtett alkalmazások</string>
     <string name="privacy_apps">Rejtett alkalmazások</string>
@@ -2483,6 +2569,12 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="privacy_apps_checkbox_remind_choice">Ne mutassa újra</string>
     <string name="privacy_apps_go_to_use">Indítás</string>
     <string name="privacy_apps_close">Bezárás</string>
+    <string name="privacy_apps_shield_message_title">Ne jelenítsen meg értesítéseket</string>
+    <string name="privacy_apps_shield_message_summary">A védett alkalmazások értesítéseit elrejti</string>
+    <string name="privacy_apps_begin_use">Kezdés</string>
+    <string name="privacy_apps_next_stup">Következő</string>
+    <string name="privacy_apps_button_know">Rendben</string>
+    <string name="privacy_apps_tutorial_dlg_title">Hogyan található meg egy rejtett alkalmazás</string>
     <string name="first_aid_stop_scan">Keresés leállítása</string>
     <string name="first_aid_scanning_item1">Teljesítményproblémák keresése…</string>
     <string name="first_aid_scanning_item2">Hálózati problémák keresése…</string>
@@ -2555,6 +2647,55 @@ A készülékén lévő összes adat törölhetővé válhat, és a képernyőz�
     <string name="third_desktop_dialog_content">Mivel harmadik féltől származó launcher problémákat okozhat, mint például az adatlopás, a rendellenes akkumulátor-fogyasztás és a laggolás stb., ezért csak a MIUI által hitelesített alkalmazás állítható be alapértelmezett launcherként.</string>
     <string name="third_desktop_dialog_ok">Rendben</string>
     <string name="user_guide">Csúsztasson felfelé még több friss játékért</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">Üdvözli Önt a következő: %1s! Ezzel az alkalmazással a következő funkciót használhatja: %2s.</string>
+    <string name="system_permission_declare_privacy_declare">Tiszteljük és megvédjük az Ön személyes adatait. Tájékoztatjuk, hogy a(z) %1s alkalmazásnak be kell gyűjtenie az Ön adatait, valamint a normál működéshez a következő engedélyekre van szüksége:</string>
+    <string name="system_permission_declare_analytics_declare">Köszönjük, hogy feliratkozott a felhasználói élmény programunkra! A funkció normális működése érdekében csatlakoztatni kell a készülékét az internetre. Ezenkívül a következő engedélyeket kell megadnia az adatok gyűjtéséhez, hogy javíthassuk a termékeket és a szolgáltatásokat. Az adatok gyűjtése csak statisztikai célokat szolgál. Az adatokat nem tudjuk felhasználni az Ön személyazonosítására.</string>
+    <string name="system_permission_declare_privacy_no_permission">Tájékoztatjuk, hogy a normál működéshez a(z) %1s alkalmazásnak be kell gyűjtenie az Ön adatait. Tiszteljük és megvédjük az Ön személyes adatait.</string>
+    <string name="system_permission_declare_use_network">Csatlakozás a hálózathoz</string>
+    <string name="system_permission_declare_use_network_no_permission">Csatlakozás a hálózathoz</string>
+    <string name="system_permission_declare_no_say_no">Amennyiben nem adja meg az elvárt jogosultságokat vagy nem engedélyezi az adatgyűjtést, akkor ez az alkalmazás nem tud megfelelően működni.</string>
+    <string name="system_permission_declare_no_say_no_analytics">Amennyiben nem szeretné megadni nekünk ezeket az engedélyeket, itt leiratkozhat: Beállítások > További beállítások > Adatvédelem > Felhasználói élmény program.</string>
+    <string name="system_permission_declare_no_say_no_non_mandatory">Amennyiben nem adja meg az kívánt jogosultságokat vagy nem engedélyezi az adatgyűjtést, akkor ez az alkalmazás nem tud megfelelően működni.</string>
+    <string name="system_permission_declare_revoke_uninstallable">Kijelentkezhet, eltávolíthatja ezt az alkalmazást, vagy visszavonhatja az engedélyeket és a jogosultságokat a Biztonság / Alkalmazáskezelés / Engedélykezelő / Engedélyek menüben.</string>
+    <string name="system_permission_declare_revoke_system">Kiléphet az alkalmazásból.</string>
+    <string name="system_permission_declare_double_link">&lt;Data>Olvassa el és fogadja el a következő két dokumentumot: &lt;a href=\"%1$s\">Felhasználói Szerződés&lt;/a> és &lt;a href=\"%2$s\">Adatvédelmi Irányelvek&lt;/a> mielőtt használná ezt a funkciót.&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement">&lt;Data>Olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználói Szerződés&lt;/a>-t mielőtt használná ezt a funkciót.&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data>Olvassa el és fogadja el az &lt;a href=\"%1$s\">Adatvédelmi Irányelvek&lt;/a>-et mielőtt használná ezt a funkciót.&lt;/Data></string>
+    <string name="system_permission_declare_agree">Elfogadás</string>
+    <string name="system_permission_declare_disagree">Elutasítás</string>
+    <string name="system_permission_perm_send_mms">MMS-küldés</string>
+    <string name="system_permission_perm_read_mms">MMS-olvasás</string>
+    <string name="system_permission_perm_answer_call">Híváskezdeményezés</string>
+    <string name="system_permission_perm_read_numbers">Telefonszám-beolvasás</string>
+    <string name="permgroupdesc_contacts">Hozzáférés a névjegyekhez</string>
+    <string name="permgroupdesc_location">Hozzáférés a helyinformációhoz</string>
+    <string name="permgroupdesc_calendar">Hozzáférés a naptáreseményekhez</string>
+    <string name="permgroupdesc_sms">SMS elolvasása vagy küldése</string>
+    <string name="permgroupdesc_storage">Hozzáférés a készüléken megtalálható képekhez vagy fájlokhoz</string>
+    <string name="permgroupdesc_microphone">Hangrögzítés</string>
+    <string name="permgroupdesc_camera">Képkészítés és videórögzítés</string>
+    <string name="permgroupdesc_calllog">A hívásnaplóban megtalálható elemekhez való hozzáférés és azok mentése</string>
+    <string name="permgroupdesc_phone">Hívások lebonyolítása és beszélgetések kezelése</string>
+    <string name="permgroupdesc_sensors">Testszenzor-adatokhoz való hozzáférés</string>
+    <string name="permgroupdesc_recognition">Egészségügyi és aktivitási adatokhoz való hozzáférés</string>
+    <string name="phone_manage">Segédprogramok</string>
+    <string name="securitycenter_tab_title">Biztonság</string>
+    <string name="phone_manage_system_tool_title">Eszközök</string>
+    <string name="phone_manage_system_tool_summary">Hasznos rendszerszinthez kapcsolódó eszközök</string>
+    <string name="phone_manage_clean_title">Tisztító</string>
+    <string name="phone_manage_clean_summary">Szabadítson fel tárhelyet</string>
+    <string name="phone_manage_app_manager_summary">Kezelje az appokat a készülékén</string>
+    <string name="phone_manage_electric_title">Akkumulátor</string>
+    <string name="phone_manage_electric_summary">Optimalizálja a készülékét az akkukímélés érdekében</string>
+    <string name="phone_manage_special_title">Speciális funkciók</string>
+    <string name="phone_manage_special_summary">Fedezze fel további funkcióinkat</string>
+    <string name="system_tool_green_guard">Szülői felügyelet</string>
+    <string name="system_tool_sos">Segélyhívás</string>
+    <string name="power_save_mode">Akkumulátorkímélő</string>
+    <string name="power_save_settings">Akkumulátor beállításai</string>
+    <string name="banner_optimizemanage_summary">Szabadítson fel memóriát</string>
+    <string name="banner_red_money_assist_summary">Olvassa el a sürgős üzeneteket gyorsabban</string>
+    <string name="banner_red_money_assist_button">Bekapcsolás</string>
     <string name="resource_securitycenter_settings">Biztonság</string>
     <string name="keywords_securitycenter_settings">Akkumulátorhasználat;Automatikus indítás kezelése;Telepítés USB-ről;Alkalmazásengedélyek;Mobiladat egyenlegfeltöltés;Tiltólista;Adatforgalom;Adatforgalom tervezése;Hálózat teszt; Akkumulátorkímélő;Túlmelegedés;Bekapcsolás;Kikapcsolás;Akkumulátor;Fogyasztás;Akkumulátor kérdések;Energia;Energia felhasználás csökkentés;Energiatakarékosság; Indítópult;Engedélykezelő;Automatikus indítás;MIUI Indítópult; Automatikusan induló alkalmazás;Láncindulás;láncolt indítás;kiváltott indítás; USB telepítés;telepítés számítógépről;ADB telepítés; Helymeghatározás;Hozzáférés kapcsolatokhoz; adat;mobiladat;egyenlegfeltöltés;egyenleg feltöltése;adatforgalom terv; Tiltás;Feketelista;Okos tiltólista;Csalás;Eladás;Ügynökök;Hívás tiltólista;Üzenet tiltólista;Üzenetküldés tiltólista;SMS tiltólista;feketelista;fekete lista;tiltólista;tiltó lista;csalás;névjegy tiltás;tiltott névjegyek; Forgalom; Kalibrálás;Méretezés; Kapcsolat;Internet;Teszt; Akkuhasználat;Akkumulátoroptimalizálás;Energiafogyasztás Játék;sebességgyorsító;Glory of the king;Teljesítménymód;DND;Ne zavarjanak</string>
     <string name="path_securitycenter_settings">Rendszeralkalmazások/Biztonság</string>

@@ -71,7 +71,7 @@
     <string name="passport_login">Bejelentkezés</string>
     <string name="passport_relogin">Bejelentkezés újra</string>
     <string name="passport_skip_login">Átugrás</string>
-    <string name="passport_skip_setup_account_title">Nem szeretné használni a Mi Cloud szolgáltatást?</string>
+    <string name="passport_skip_setup_account_title">Nem szeretné használni a Xiaomi Cloud szolgáltatást?</string>
     <string name="passport_skip_setup_account_msg">A Mi Fiók később is beállítható a Beállítások menüpontban.</string>
     <string name="passport_confirm_login">Folytatás</string>
     <string name="passport_find_password_on_web_msg">Keresse fel az account.mi.com weboldalt a jelszó helyreállításához</string>
@@ -201,10 +201,7 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="passport_querying_phone_info">Fiókadatok lekérése…</string>
     <string name="passport_area_code_title">Ország hívószám</string>
     <string name="passport_area_code_hot">GYAKRAN HASZNÁLT</string>
-    <string name="passport_user_agreement_p1">Elfogadom a </string>
-    <string name="passport_user_agreement_p2">Felhasználói Szerződés</string>
-    <string name="passport_user_agreement_p3"> és az </string>
-    <string name="passport_user_agreement_p4">Adatvédelmi irányelveket.</string>
+    <string name="passport_user_agreement_link">&lt;Data>Ilolvastam és elfogadom a Xiaomi&lt;a href=%1$s>Felhasználói megállapodását&lt;/a> és &lt;a href=%2$s>Adatvédelmi szabályzatát&lt;/a>.&lt;/Data></string>
     <string name="passport_privacy_policy">Adatvédelmi irányelvek</string>
     <string name="passport_user_agreement">Felhasználói Szerződés</string>
     <string name="passport_license_host_unreachable">Nem sikerült csatlakozni a hálózathoz. A megtekintéshez látogasson el a %s.</string>
@@ -274,21 +271,22 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="passport_get_innetdate_msg">&lt;font color=Red>Úgy tűnik&lt;/font>, a %s telefonszámot a szolgáltató lecserélte. Ellenőrzi, amikor a telefonszám online lesz?</string>
     <string name="passport_get_innetdate_agree">Ellenőrzés</string>
     <string name="passport_get_innetdate_disagree">Nincs ellenőrzés</string>
-    <string name="passport_extra_gdpr_license">Mi Fiókja létrehozásával hozzájárul, hogy a Xiaomi összegyűjtse, feldolgozza és felhasználja személyes adatait, beleértve ellenőrző adatait (pl.: ellenőrző kódjait), a Második asztal adatait (pl.: a Második asztal használati adatait, az Első és Második Asztalon használt azonosítóit), valamint az Adatvédelmi irányelvek szerint meghatározott egyéb adatait. Tekintse meg Adatvédelmi irányelveinket, hogy többet tudjon meg személyes adatainak felhasználásáról.</string>
     <string name="passport_talkback_image_captcha">Ellenőrző képkód</string>
     <string name="passport_talkback_voice_captcha">Az ellenőrző hangkód lejátszása</string>
     <string name="passport_talkback_switch_voice_captcha">Váltás hangkódos ellenőrzésre</string>
     <string name="passport_talkback_switch_image_captcha">Váltás képkódos ellenőrzésre</string>
-    <string name="passport_license_info_open">Részletek</string>
-    <string name="passport_license_info_collapse">Bezárás</string>
     <string name="passport_first_login_prompt">Az első belépéskor automatikusan elkészül a Mi Fiók.</string>
     <string name="passport_wx_bind_account_limit">Most nem tud fiókot létrehozni. Próbáljon meg más bejelentkezési módszereket.</string>
     <string name="facebook_app_id">2263965750590514</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
+    <string name="passport_ticket_login_select_sim_card">Válasszon SIM-kártyát</string>
+    <string name="passport_ticket_login_select_sim_card_cancel">Mégse</string>
+    <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+    <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
     <string name="search_app_name">Mi Fiók</string>
     <string name="search_mi_account">Mi Fiók</string>
-    <string name="search_mi_account_key_words">Mi Cloud,Fiókbeállítások,Mi Pay információ,Kijelentkezés</string>
+    <string name="search_mi_account_key_words">Xiaomi Cloud,Fiókbeállítások,Mi Pay információ,Kijelentkezés</string>
     <string name="search_mi_account_desc">Mi Fiók</string>
     <string name="search_mi_account_path">Beállítások/Mi Fiók</string>
     <string name="search_user_detail">Személyes adatok</string>
@@ -315,15 +313,21 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="bind_sns_description">Bejelentkezés %s használatával.</string>
     <string name="add_account">Fiók hozzáadása</string>
     <string name="qq">QQ</string>
+    <string name="weixin">WeChat</string>
     <string name="bind_qq">QQ</string>
+    <string name="bind_weixin">WeChat-fiók csatlakoztatása</string>
+    <string name="need_install_wechat">Előbb telepítse a WeChat alkalmazást</string>
     <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
     <string name="bind_facebook">Facebook fiók hozzáadása</string>
+    <string name="bind_google">Google-fiók csatlakoztatása</string>
     <string name="binded">Hozzáadva</string>
     <string name="nobind">Nincs hozzáadva</string>
     <string name="button_unbind">Lecsatlakozás</string>
     <string name="unbind_sns_description">Az eltávolítás után a %s nem jelentkezik be a Mi Fiók használatával.</string>
     <string name="confirm_unbind">Eltávolítja a fiókot?</string>
-    <string name="binded_description" formatted="false">%s kapcsolódva a Mi Fiókjához. A profilja frissítve %s fiók adatai alapján.</string>
+    <string name="binded_description" formatted="false">"A következö: %s hozzá lett kapcsolva az Ön Mi fiókjához.
+Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Mi fiókjába."</string>
     <string name="access_token_expired_warning">A Weibo fiók lejárt</string>
     <string name="access_token_invalid_warning">A Weibo fiók érvénytelen</string>
     <string name="service_error">Szerverhiba</string>
@@ -407,7 +411,7 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="account_mibi_charge">Feltöltés</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">Szolgáltatások</string>
-    <string name="cloud_service">Mi Cloud</string>
+    <string name="cloud_service">Xiaomi Cloud</string>
     <string name="vip_account_settings">VIP beállítások</string>
     <string name="xiao_mi_vip">Mi VIP</string>
     <string name="mi_vip_info">Jogosultságok megtekintése</string>
@@ -419,8 +423,11 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="activity_not_found_notice">Nem található az alkalmazás</string>
     <string name="scan_barcode_title">A Mi Fiókba való bejelentkezéshez olvassa be a QR kódot</string>
     <string name="talkback_scan_barcode">QR-kód beolvasása</string>
-    <string name="scan_barcode">A belépéshez olvassa be a QR-kódot</string>
     <string name="agreement_and_privacy">Adatvédelmi Irányelvek és Felhasználói Szerződés</string>
+    <string name="system_ad">Hirdetések a rendszeralkalmazásokban</string>
+    <string name="system_ad_switch">Hirdetések a rendszeralkalmazásokban</string>
+    <string name="system_ad_summary">"A funkció bekapcsolásával kis számú hirdetést jelenít meg a rendszeralkalmazásokban. Ezek a hirdetések segítenek abban, hogy fejlesszük és javítsuk termékeinket és szolgáltatásainkat. Bármikor kikapcsolhatja ezt a funkciót. Köszönjük támogatását! "</string>
+    <string name="system_ad_list">A kapcsolódó alkalmazások megtekintése.</string>
     <string name="authorize_title">Engedélyezés</string>
     <string name="my_device_title">Jelenlegi készülék</string>
     <string name="device_list_title">Készülékeim</string>
@@ -432,6 +439,13 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="device_delete_success_title">Kijelentkezve</string>
     <string name="device_delete_success_message">Ha nem jelentkezett be erről a készülékről, azonnal változtassa meg a jelszavát.</string>
     <string name="change_password">Jelszó módosítása</string>
+    <string name="two_factor_auth">Kétlépcsős ellenőrzés</string>
+    <string name="two_factor_auth_summary">Amikor egy új készülékről vagy helyről próbál bejelentkezni, értesítést kap róla a többi csatlakoztatott készüléken. Meg kell erősítenie, hogy Ön engedélyezte az ilyen bejelentkezési próbálkozásokat.</string>
+    <string name="two_factor_auth_method">Azonosítási módszer</string>
+    <string name="two_factor_auth_click_confirm">Erősítse meg a bejelentkezéshez</string>
+    <string name="two_factor_auth_click_confirm_summary">Értesítést fog látni a többi csatlakoztatott Mi-készüléken. Koppintson az értesítésre az új készüléken való bejelentkezés engedélyezéséhez.</string>
+    <string name="two_factor_auth_need_code">Írja be a kódot</string>
+    <string name="two_factor_auth_need_code_summary">Egy kódot fog látni a többi Mi-készüléken. A bejelentkezéshez írja be ezt a kódot az új készüléken.</string>
     <string name="completed">Minden kész!</string>
     <string name="no_network_title">Nincs internetkapcsolat.</string>
     <string name="no_network_btn">Frissítés</string>
@@ -440,9 +454,9 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="empty_device_list_notice">Nincsenek készülékek</string>
     <string name="device_name">Készüléknév</string>
     <string name="sim_card">SIM-kártya</string>
-    <string name="multi_user_not_show_sync_activity_title">Ne kapcsolja be a szinkronizálást Mi Clouddal</string>
+    <string name="multi_user_not_show_sync_activity_title">Ne kapcsolja be a szinkronizálást a Xiaomi Clouddal</string>
     <string name="multi_user_not_show_sync_activity_message_1">Úgy tűnik, az Első asztalhoz kötött Mi Fiókját használja.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">Ebben az esetben az összes adat szinkronizálva lesz a Második asztalra. Ennek elkerülése érdekében ne kapcsolja be a Mi Clouddal való szinkronizálást.</string>
+    <string name="multi_user_not_show_sync_activity_message_2">Ebben az esetben az összes adat szinkronizálva lesz a Második asztalra. Ennek elkerülése érdekében ne kapcsolja be a Xiaomi Clouddal való szinkronizálást.</string>
     <string name="find_device_access_denied">Állapot nem elérhető, hozzáférés megtagadva</string>
     <string name="find_device_account_error">Állapot nem elérhető fiókhiba miatt</string>
     <string name="find_device_null_credential_error">Készülékinformáció nem található, lépjen kapcsolatba a Xiaomi ügyfélszolgálattal</string>
@@ -530,7 +544,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="exit">Kilépés</string>
     <string name="passport_privacy_policy_required">Adatvédelmi Irányelvek (kötelező)</string>
     <string name="passport_user_agreement_required">Felhasználói Szerződés (kötelező)</string>
-    <string name="kr_license_desc">A Mi Fiók és a Mi Cloud szolgáltatások használata előtt Önnek el kell olvasnia és el kell fogadnia a Felhasználói Szerződésünket és az Adatvédelmi Irányelveinket.</string>
+    <string name="kr_license_desc">A Mi Fiók és a Xiaomi Cloud szolgáltatások használata előtt Önnek el kell olvasnia és el kell fogadnia a Felhasználói Szerződésünket és az Adatvédelmi Irányelveinket.</string>
     <string name="kr_permission_desc">Engedélyek szükségesek</string>
     <string name="optional_permissions">Választható engedélyek</string>
     <string name="permission_group_contacts">Névjegyek</string>
@@ -541,4 +555,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="kr_permission_phone_desc">A fiókjának megvédéséhez</string>
     <string name="kr_permission_storage_desc">A diagnosztikák mentéséhez</string>
     <string name="kr_permission_sms_desc">A hitelesítőkódok automatikus kitöltéséhez</string>
+    <string name="system_ad_switch_failed">Nem sikerült alkalmazni a beállítást</string>
+    <string name="ep_unsupported">Nem tud bejelentkezni a Mi Fiókjába a készülékével</string>
 </resources>

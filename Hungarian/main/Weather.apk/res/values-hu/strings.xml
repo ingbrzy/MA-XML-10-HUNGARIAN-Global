@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_weather_setting">Az Időjárásról</string>
+    <string name="about_weather_setting_feedback">Visszajelzés</string>
+    <string name="abrupt_weather_settings_summary_type">Riasztások fogadása várható esőről, a levegőminőség változásáról és egyéb jelentős változásokról</string>
     <string name="act_find_city_hint">Keresés</string>
     <string name="act_find_city_hot_attractions_title">Népszerű oldalak</string>
     <string name="act_find_city_hot_city_title">Népszerű városok</string>
@@ -29,6 +32,8 @@
     <string name="add_city">Új helyszín</string>
     <string name="alert_detail_title">Riasztás részletei</string>
     <string name="alert_warning">Időjárás riasztások</string>
+    <string name="alert_weather_enable_settings_summary">Hivatalos időjárási figyelmeztetések fogadása</string>
+    <string name="alert_weather_enable_settings_title">Időjárás figyelmeztetések</string>
     <string name="already_voted_toast">Ön ma már szavazott</string>
     <string name="app_name">Időjárás</string>
     <string name="aqi_data_source">Támogató: Colorful Clouds</string>
@@ -86,7 +91,7 @@
     <string name="content_desc_close_button">Bezárás</string>
     <string name="daily_forcast_no_stable_direction">Szellő</string>
     <string name="daily_forcast_no_wind">0</string>
-    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+    <string name="daily_forcast_temperature_transfer">%1$s°/%2$s°</string>
     <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
     <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s később.</string>
@@ -96,14 +101,17 @@
     <string name="daily_forecast_add_city_message">Kövesse nyomon az időjárást a még részletesebb időjárásjelentésért itt: %1$s.</string>
     <string name="daily_forecast_add_city_title">Kövesse nyomon az időjárást itt: %1$s</string>
     <string name="daily_forecast_detail_date">M.d.</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Időjárásadatok beolvasása meghiúsult
 Húzza lefelé a frissítéshez, vagy ellenőrize a hálózati beállításokat"</string>
     <string name="data_provided_by">Az adatok részben innen származnak:</string>
     <string name="edit_city">Városok kezelése</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Frissítés…</string>
     <string name="empty_view_net_unavailable">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="empty_view_refresh">Újra</string>
     <string name="eu_region_version_first_start_network_msg">A termék használatával Ön hozzájárul, hogy a termék csatlakozzon a hálózatra, összegyűjtse, feldolgozza és felhasználja az Ön személyes adatait, beleértve a keresett város földrajzi koordinátáit és az Adatvédelmi Irányelvekben megadott adatfajtákat. Az Adatvédelmi Irányelvekben megtalálhatja, hogyan kezeljük adatait. Az \"Elfogadás\"-ra kattintva, Ön elfogadja a Xiaomi %1$s-ét és %2$s-ről szóló nyilatkozatát.</string>
+    <string name="feedback">Helytelen időjárási információ jelentése</string>
     <string name="feedback_cloudy">Felhős</string>
     <string name="feedback_foggy">Ködös</string>
     <string name="feedback_haze">Köd</string>
@@ -112,12 +120,16 @@ Húzza lefelé a frissítéshez, vagy ellenőrize a hálózati beállításokat"
     <string name="feedback_overcast">Borult</string>
     <string name="feedback_report_privacy_msg">A jelentés az Ön helyadatait is tartalmazza</string>
     <string name="feedback_result_fail_no_choice">Válassza ki a jelenlegi időjárási helyzetet</string>
+    <string name="feedback_result_fail_no_reason">Köszönjük visszajelzését!</string>
+    <string name="feedback_result_fail_same_type">Úgy tűnik, hogy a jelentése nem tér el az aktuális időjárástól. Próbálja újra!</string>
     <string name="feedback_result_success">Sikeresen elküldve, köszönjük a visszajelzését.</string>
     <string name="feedback_sandy">Homokos</string>
     <string name="feedback_sunny">Tiszta</string>
     <string name="first_start_network_title">Internet kapcsolat és helymeghatározás</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Most</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M.d.</string>
     <string name="hourly_forecast_title_24_hours_desc">24 órás előrejelzés</string>
     <string name="hourly_forecast_title_hourly_desc">Óránkénti előrejelzés</string>
@@ -133,11 +145,15 @@ Húzza lefelé a frissítéshez, vagy ellenőrize a hálózati beállításokat"
     <string name="indices_title_feel">Hőérzet</string>
     <string name="indices_title_pressure">Légnyomás</string>
     <string name="install">Telepítés</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">Légnyomás</string>
     <string name="international_details_title">Részletek</string>
     <string name="international_details_uv_index_title">UV sugárzás</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">Szél</string>
     <string name="it_is_going_to_rain">Esni fog</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="locate_fail_detail_err">"Helyhozzáférés sikertelen
 Érintse meg a képernyőt a kézi beállításhoz"</string>
     <string name="location_provider_btn_text">Kapcsolja be a helymeghatározási szolgáltatást</string>
@@ -160,7 +176,7 @@ Húzza lefelé a frissítéshez, vagy ellenőrize a hálózati beállításokat"
     <string name="more_details">További részletek</string>
     <string name="network_not_available">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="network_unavailable">Nincs hálózat</string>
-    <string name="night_not_disturb_settings_summary">Riasztások némítása 23:00 és 7:00 között</string>
+    <string name="night_not_disturb_settings_summary">Riasztások tiltása 23:00 és 7:00 között</string>
     <string name="night_not_disturb_settings_title">Ne zavarjanak éjszaka</string>
     <string name="no_data">Nincs adat</string>
     <string name="no_network_btn">Próbálja újra</string>
@@ -219,6 +235,7 @@ Húzza lefelé a frissítéshez, vagy ellenőrize a hálózati beállításokat"
     <string name="share_menu_title">Megosztás</string>
     <string name="share_subject">Megosztás</string>
     <string name="share_weather_desc">\#MIUI időjárás #Ma %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Nem sikerült képernyőképet készíteni</string>
     <string name="shortcut_short_label_24_hour_forecast">24 órás előrejelzés</string>
@@ -226,6 +243,7 @@ Húzza lefelé a frissítéshez, vagy ellenőrize a hálózati beállításokat"
     <string name="some_where_on_earth">Valahol a Földön</string>
     <string name="sunrise">Napkelte</string>
     <string name="sunset">Napnyugta</string>
+    <string name="temperature_normal_unit">%1$s°</string>
     <string name="temperature_unit_C">%1$s℃</string>
     <string name="temperature_unit_F">%1$s℉</string>
     <string name="title_share_link">URL megosztása</string>
@@ -265,6 +283,8 @@ Húzza lefelé a frissítéshez, vagy ellenőrize a hálózati beállításokat"
     <string name="view_forecast_item_yesterday">Tegnap</string>
     <string name="view_indexes_item_today">Ma</string>
     <string name="view_indexes_item_tommorrow">Holnap</string>
+    <string name="warning_weather_day_and_night_settings_summary">Napi összesítők fogadása időjárási adatokról 7:00-kor és 19:00-kor</string>
+    <string name="warning_weather_day_and_night_settings_title">Napi összesítők</string>
     <string name="weather_alert_channel_name">Figyelmeztetések</string>
     <string name="weather_introduce">Mindig Önnel, esőben és napsütésben is.</string>
     <string name="weather_permission_agree">Elfogadás</string>

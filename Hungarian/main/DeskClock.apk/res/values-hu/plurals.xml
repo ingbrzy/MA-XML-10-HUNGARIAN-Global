@@ -32,9 +32,25 @@
         <item quantity="other">%d másodperc</item>
         <item quantity="one">%d másodperc</item>
     </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">A szundikálás intervallumát %d percre módosította</item>
+        <item quantity="one">A szundikálás intervallumát %d percre módosította</item>
+    </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">%1$s alkalommal kapcsol be</item>
+        <item quantity="one">%1$s alkalommal kapcsol be</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">Minden %1$s percben, bekapcsolás %2$s alkalommal</item>
+        <item quantity="one">Minden %1$s percben, bekapcsolás %2$s alkalommal</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">Minden %1$s perc</item>
+        <item quantity="one">Minden %1$s perc</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
-        <item quantity="other">Az ébresztő %2$s alkalommal fog kikapcsolni (%1$s perc)</item>
-        <item quantity="one">Az ébresztő %2$s alkalommal fog kikapcsolni (%1$s perc)</item>
+        <item quantity="other">Az ébresztő %2$s alkalommal fog bekapcsolni (%1$s perc)</item>
+        <item quantity="one">Az ébresztő %2$s alkalommal fog bekapcsolni (%1$s perc)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">Szundi %d percig</item>

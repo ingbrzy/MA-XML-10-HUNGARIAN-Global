@@ -55,6 +55,8 @@
     <string name="mobiledata_alert_dialog_title">Adathasználati figyelmeztetés</string>
     <string name="open_perm_msg">Az Iránytű számára hozzáférés szükséges a helyadatokhoz és a kamera adataihoz a koordináták meghatározása és az élő bemutatók miatt. Engedélyezi?</string>
     <string name="open_perm_title">Engedélyek szükségesek</string>
+    <string name="permission_camera_desc">Vízszintező használata</string>
+    <string name="permission_location_desc">Koordináták és atmoszféranyomás megjelenítése</string>
     <string name="preference_other">Egyéb</string>
     <string name="preference_privacy_title">Adatvédelmi Irányelvek</string>
     <string name="pressure">%.1f</string>

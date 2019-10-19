@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="feed_back_home">
+        <item quantity="other">Visszalépés a főoldalra %1$d másodperc múlva…</item>
+        <item quantity="one">Visszalépés a főoldalra %1$d másodperc múlva…</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">A feliratok %.1f másodperccel korábban jelennek meg</item>
         <item quantity="one">A feliratok %.1f másodperccel korábban jelennek meg</item>
@@ -9,8 +13,8 @@
         <item quantity="one">A feliratok %.1f másodperccel később jelennek meg</item>
     </plurals>
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
-        <item quantity="other">Méret: %.2f kB</item>
-        <item quantity="one">Méret: %.2f kB</item>
+        <item quantity="other">Méret: %.2fKB</item>
+        <item quantity="one">Méret: %.2fKB</item>
     </plurals>
     <plurals name="lv_video_count">
         <item quantity="other">%d videó</item>
@@ -24,20 +28,40 @@
         <item quantity="other">%d videó</item>
         <item quantity="one">%d videó</item>
     </plurals>
-    <plurals name="pw_comment_count">
-        <item quantity="other">%d hozzászólás</item>
-        <item quantity="one">%d hozzászólás</item>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">%s tétel törlése most?</item>
+        <item quantity="one">%s tétel törlése most?</item>
     </plurals>
-    <plurals name="pw_comment_sub_count">
-        <item quantity="other">%d válasz</item>
-        <item quantity="one">%d válasz</item>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">%s tétel kiválasztva</item>
+        <item quantity="one">%s tétel kiválasztva</item>
     </plurals>
-    <plurals name="pw_comment_view_all_comment">
-        <item quantity="other">%d hozzászólás megjelenítése</item>
-        <item quantity="one">%d hozzászólás megjelenítése</item>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Fájl mérete: %.2fKB</item>
+        <item quantity="one">Fájl mérete: %.2fKB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s eredmény a következőre: \"%1$s\"</item>
+        <item quantity="one">%2$s eredmény következőre: \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d kép</item>
+        <item quantity="one">%d kép</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d videó</item>
+        <item quantity="one">%d videó</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other"> előfizető</item>
-        <item quantity="one"> előfizető</item>
+        <item quantity="other">%s feliratkozó</item>
+        <item quantity="one">%s feliratkozó</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">A feliratok %.1f másodperccel előre vannak előremozgatva</item>
+        <item quantity="one">A feliratok %.1f másodperccel vannak előremozgatva</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">A feliratok %.1f másodpercig késleltetettek</item>
+        <item quantity="one">A feliratok %.1f másodpercig késleltetettek</item>
     </plurals>
 </resources>

@@ -2,7 +2,7 @@
 <resources>
     <string name="button_dismiss">OK</string>
     <string name="app_label">Cellán belüli adások</string>
-    <string name="sms_cb_settings">Vészriasztások</string>
+    <string name="sms_cb_settings">Cellán belüli adások beállításai</string>
     <string name="cell_broadcast_settings_not_available">A cellán belüli üzenetszórásra vonatkozó beállítások nem érhetők el ennél a felhasználónál</string>
     <string name="no_cell_broadcasts">Jelenleg nincsenek aktív értesítések a tartózkodási helyén. A Beállítások menüben módosíthatja az Értesítés beállításait.</string>
     <string name="menu_preferences">Beállítások</string>

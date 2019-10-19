@@ -180,6 +180,22 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="other">%s perc a teljes töltésig</item>
         <item quantity="one">%s perc a teljes töltésig</item>
     </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d perc az utolsó töltés óta</item>
+        <item quantity="one">%d perc az utolsó töltés óta</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d másodperc az utolsó töltés óta</item>
+        <item quantity="one">%d másodperc az utolsó töltés óta</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d perc van hátra</item>
+        <item quantity="one">%d perc van hátra</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d óra van hátra</item>
+        <item quantity="one">%d óra van hátra</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d alkalmazás (%1$s is) nagyon meríti az akkumulátort</item>
         <item quantity="one">%2$d alkalmazás (%1$s is) nagyon meríti az akkumulátort</item>
@@ -232,21 +248,21 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="other">%s alkalmazás nem védett</item>
         <item quantity="one">%s alkalmazás nem védett</item>
     </plurals>
-    <plurals name="menu_text_antivirus_2">
-        <item quantity="other">%d elem</item>
-        <item quantity="one">%d elem</item>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d app vírusokat vagy malware-t tartalmaz</item>
+        <item quantity="one">%d app vírusokat vagy malware-t tartalmaz</item>
     </plurals>
-    <plurals name="menu_text_antivirus_3">
-        <item quantity="other">%d nap</item>
-        <item quantity="one">%d nap</item>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">%d napja nem ellenőrizte a készülékét</item>
+        <item quantity="one">%d napja nem ellenőrizte a készülékét</item>
     </plurals>
-    <plurals name="menu_text_antispam_2">
-        <item quantity="other">%d elem</item>
-        <item quantity="one">%d elem</item>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">%d üzenet és hívás tiltásra került</item>
+        <item quantity="one">%d üzenet vagy hívás tiltásra került</item>
     </plurals>
-    <plurals name="menu_text_app_manager_2">
-        <item quantity="other">%d alkalmazás</item>
-        <item quantity="one">%d alkalmazás</item>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">%d frissítés elérhető</item>
+        <item quantity="one">%d frissítés elérhető</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elem biztonságos</item>
@@ -433,12 +449,12 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="one">    +%1$d további karakter</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">%d alkalmazás elrejthető</item>
-        <item quantity="one">%d alkalmazás elrejthető</item>
+        <item quantity="other">%d alkalmazásikon nincs elrejtve</item>
+        <item quantity="one">%d alkalmazásikon nincs elrejtve</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d alkalmazás elrejtve</item>
-        <item quantity="one">%d alkalmazás elrejtve</item>
+        <item quantity="other">%d alkalmazásikon rejtett</item>
+        <item quantity="one">%d alkalmazásikon rejtett</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d probléma igényel optimalizálást</item>

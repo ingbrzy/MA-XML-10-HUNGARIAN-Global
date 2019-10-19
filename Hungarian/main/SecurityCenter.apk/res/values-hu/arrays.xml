@@ -6,31 +6,31 @@
         <item>"Ebben a hónapban "</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>"Tegnapi forgalom "</item>
-        <item>"Mai forgalom "</item>
-        <item>"Múlt hónap "</item>
-        <item>"Jelenlegi hónap "</item>
+        <item>"Tegnap "</item>
+        <item>"Ma "</item>
+        <item>"Múlt hónapan "</item>
+        <item>"Ebben a hónapban "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
-        <item>"Ezen a héten "</item>
-        <item>"Ma "</item>
-        <item>"Ebben a hónapban "</item>
+        <item>"Ezen a héten: "</item>
+        <item>"Ma: "</item>
+        <item>"Ebben a hónapban: "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
         <item>"Tegnap: "</item>
         <item>"Ma: "</item>
-        <item>"Múlt hónap: "</item>
-        <item>"Jelenlegi hónap: "</item>
+        <item>"Múlt hónapban: "</item>
+        <item>"Ebben a hónapban: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Tegnap (adatok)</item>
-        <item>Ma (adatok)</item>
-        <item>Múlt hónap (adat)</item>
-        <item>Jelenlegi hónap (adat)</item>
-        <item>Tegnapi Wi-Fi</item>
-        <item>Mai Wi-Fi</item>
-        <item>Múlt havi Wi-Fi</item>
-        <item>Jelenlegi havi Wi-Fi</item>
+        <item>"Tegnap (mobiladat) "</item>
+        <item>"Ma (mobiladat) "</item>
+        <item>"Múlt hónapban (mobiladat) "</item>
+        <item>"Ebben a hónapban (mobiladat) "</item>
+        <item>"Tegnap (Wi-Fi) "</item>
+        <item>"Ma (Wi-Fi) "</item>
+        <item>"Múlt hónapban (Wi-Fi) "</item>
+        <item>"Ebben a hónapban (Wi-Fi) "</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Mobiladat-használat "</item>
@@ -73,6 +73,12 @@
         <item>Felhasznált tárhely szerinti rendezés</item>
         <item>Telepítés ideje szerinti rendezés</item>
     </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="title_app_info">
         <item>Telepítés forrása</item>
         <item>Telepítés ideje</item>
@@ -104,6 +110,14 @@
         <item>Mindennap</item>
         <item>Hétköznapokon</item>
         <item>Egyéni</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Alapértelmezett</item>
+        <item>A teljesítmény előtérbe helyezése</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Az alapértelmezett hőmérséklet-ellenőrző mód használata</item>
+        <item>A teljesítmény előtérbe helyezése</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Egy perc múlva</item>

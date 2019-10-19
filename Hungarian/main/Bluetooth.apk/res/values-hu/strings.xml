@@ -32,7 +32,7 @@
     <string name="bt_enable_title" />
     <string name="bt_error_btn_ok">OK</string>
     <string name="bt_share_picker_label">Bluetooth</string>
-    <string name="bt_sm_2_1">Nincs elég hely az SD-kártyán a(z) \"%1$s\" által küldött fájl mentéséhez</string>
+    <string name="bt_sm_2_1">Nincs elég hely az USB-tárolón a(z) \"%1$s\" által küldött fájl mentéséhez</string>
     <string name="bt_sm_2_2">Szükséges tárterület: %1$s</string>
     <string name="bt_toast_1">A fájl fogadható. Az átvitel haladását az Értesítések párbeszédpanelen kísérheti figyelemmel.</string>
     <string name="bt_toast_2">A fájlt nem lehet fogadni.</string>
@@ -96,7 +96,9 @@
     <string name="opp_notification_group">Bluetooth-megosztás</string>
     <string name="outbound_history_title">Kimenő átvitelek</string>
     <string name="outbound_noti_title">Bluetooth-megosztás: elküldött fájlok</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">Időtúllépés történt a(z) %1$s eszközhöz történő kapcsolódás során</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">Időtúllépés történt a(z) %1$s munkamenetkulcsának bevitele során</string>
     <string name="pbap_notification_group">Bluetooth-névjegymegosztás</string>
     <string name="pbap_session_key_dialog_header">Meg kell adni egy Bluetooth-munkamenetkulcsot</string>
@@ -111,7 +113,7 @@
     <string name="status_connection_error">A kapcsolódás sikertelen.</string>
     <string name="status_file_error">Tárolási probléma.</string>
     <string name="status_forbidden">A céleszköz letiltotta az átvitelt.</string>
-    <string name="status_no_sd_card">Nincs SD-kártya. A küldött fájlok mentéséhez helyezzen be SD-kártyát.</string>
+    <string name="status_no_sd_card">Nem található USB-tár.</string>
     <string name="status_not_accept">A tartalom nem támogatott.</string>
     <string name="status_pending">A fájlátvitel még nem kezdődött el.</string>
     <string name="status_protocol_error">A kérést nem lehet megfelelően kezelni.</string>

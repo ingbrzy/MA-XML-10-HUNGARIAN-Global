@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">Figyelem</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Ezt a videót nem lehet megjeleníteni ezen az eszközön.</string>
     <string name="selectTextMode">Szöveg kijelölése</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Ujjlenyomat ikon</string>
     <string name="paste_as_plain_text">Beillesztés egyszerű szövegként</string>
     <string name="autofill">Automatikus kitöltés</string>
@@ -386,6 +387,7 @@ Kérdéseivel forduljon szervezete rendszergazdájához."</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">A funkciókód kész.</string>
     <string name="fcError">Kapcsolódási probléma vagy érvénytelen funkciókód.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Keresés</string>
     <string name="find_next">Következő keresése</string>
     <string name="find_on_page">Keresés az oldalon</string>
@@ -591,6 +593,7 @@ Keresse fel a "<b>google.com/accounts/recovery</b> webhelyet.</string>
     <string name="kg_reordering_delete_drop_target_text">Eltávolítás</string>
     <string name="kg_sim_pin_instructions">Adja meg a SIM kártya PIN kódját</string>
     <string name="kg_sim_unlock_progress_dialog_message">SIM kártya feloldása...</string>
+    <string name="kg_text_message_separator">" – "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"%1$d alkalommal helytelenül adta meg a jelszót. 
 
 Próbálja újra %2$d másodperc múlva."</string>
@@ -883,6 +886,7 @@ Kérjük, %2$d másodperc múlva próbálja újra."</string>
     <string name="notification_channel_wfc">Wi-Fi-hívás</string>
     <string name="notification_hidden_text">Új értesítés</string>
     <string name="notification_listener_binding_label">Értesítésfigyelő</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Értesítésrangsoroló szolgáltatás</string>
     <string name="notification_reply_button_accessibility">Válasz</string>
     <string name="notification_title">Bejelentkezési hiba a(z) %1$s fióknál</string>
@@ -995,8 +999,8 @@ Kérjük, %2$d másodperc múlva próbálja újra."</string>
     <string name="permdesc_requestInstallPackages">Lehetővé teszi az alkalmazás számára csomagok telepítésének kérését.</string>
     <string name="permdesc_route_media_output">Lehetővé teszi az alkalmazás számára, hogy más külső eszközökre irányítsa a médiafájlok lejátszását.</string>
     <string name="permdesc_runInBackground">Ez az alkalmazás futhat a háttérben. Ez gyorsabban merítheti az akkumulátort.</string>
-    <string name="permdesc_sdcardRead">Lehetővé teszi az alkalmazás számára az SD-kártya tartalmának beolvasását.</string>
-    <string name="permdesc_sdcardWrite">Lehetővé teszi az alkalmazás számára, hogy írjon az SD-kártyára.</string>
+    <string name="permdesc_sdcardRead">Beolvashat USB-tárakat.</string>
+    <string name="permdesc_sdcardWrite">Az alkalmazás USB-tárra írhat.</string>
     <string name="permdesc_sendSms">Lehetővé teszi az alkalmazás számára, hogy SMS-eket küldjön. Ennek eredményeként váratlan terhelésekkel találkozhat. A rosszindulatú alkalmazások az Ön jóváhagyása nélkül küldhetnek üzeneteket, így költségek merülhetnek fel.</string>
     <string name="permdesc_setAlarm">Lehetővé teszi az alkalmazás számára, hogy ébresztőt állítson be egy telepített ébresztőóra alkalmazásban. Egyes ilyen alkalmazásokban lehet, hogy nem működik ez a funkció.</string>
     <string name="permdesc_setInputCalibration">Lehetővé teszi, hogy az alkalmazás módosítsa az érintőképernyő kalibrációs paramétereit. A normál alkalmazásoknál erre elvileg soha nincs szükség.</string>
@@ -1137,8 +1141,8 @@ a(z) %s fiók számára."</string>
     <string name="permlab_requestInstallPackages">telepítőcsomagok kérése</string>
     <string name="permlab_route_media_output">médiafájlok kimenetének irányítása</string>
     <string name="permlab_runInBackground">futás a háttérben</string>
-    <string name="permlab_sdcardRead">SD-kártya tartalmának olvasása</string>
-    <string name="permlab_sdcardWrite">SD-kártya tartalmának módosítása vagy törlése</string>
+    <string name="permlab_sdcardRead">USB-tár tartalmának olvasása</string>
+    <string name="permlab_sdcardWrite">USB-tár törlése/módosítása</string>
     <string name="permlab_sendSms">SMS-ek küldése és megtekintése</string>
     <string name="permlab_setAlarm">ébresztés beállítása</string>
     <string name="permlab_setInputCalibration">beviteli eszköz kalibrációjának módosítása</string>
@@ -1229,7 +1233,7 @@ a(z) %s fiók számára."</string>
     <string name="printing_disabled_by">A(z) %s letiltotta a nyomtatást.</string>
     <string name="profile_encrypted_detail">Munkahelyi profil zárolva</string>
     <string name="profile_encrypted_message">A feloldáshoz koppintson rá</string>
-    <string name="progress_erasing">Az SD-kártya törlése...</string>
+    <string name="progress_erasing">Az USB-tár törlése...</string>
     <string name="quick_contacts_not_available">Nem található alkalmazás a névjegy megtekintéshez.</string>
     <string name="reason_service_unavailable">A nyomtatási szolgáltatás nincs bekapcsolva</string>
     <string name="reason_unknown">ismeretlen</string>
@@ -1580,6 +1584,9 @@ Szeretné bezárni?"</string>
     <string name="wifi_p2p_show_pin_message">PIN-kód:</string>
     <string name="wifi_p2p_to_message">Címzett:</string>
     <string name="wifi_p2p_turnon_message">Wi-Fi Direct elindítása. A Wi-Fi kliens/hotspot ettől leáll.</string>
+    <string name="wifi_softap_config_change">A hotspot beállításainak módosítása</string>
+    <string name="wifi_softap_config_change_detailed">Ez az eszköz nem támogatja a csak 5 GHz-es sávra vonatkozó beállítást. Az eszköz akkor használ 5 GHz-es sávot, ha a sáv rendelkezésre áll.</string>
+    <string name="wifi_softap_config_change_summary">A hotspot sávja megváltozott.</string>
     <string name="wifi_wakeup_enabled_content">Ön a következő mentett hálózat közelében tartózkodik: %1$s</string>
     <string name="wifi_wakeup_enabled_title">Wi‑Fi automatikusan bekapcsolva</string>
     <string name="wifi_wakeup_onboarding_action_disable">Ne kapcsolódjon vissza</string>
@@ -1608,6 +1615,7 @@ Szeretné bezárni?"</string>
     <string name="zen_mode_feature_name">Ne zavarjanak</string>
     <string name="zen_mode_forever">Kikapcsolásig</string>
     <string name="zen_mode_forever_dnd">Amíg ki nem kapcsolja a „Ne zavarjanak” lehetőséget</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Eddig: %1$s</string>
     <string name="zen_upgrade_notification_content">Koppintson a letiltott elemek megtekintéséhez.</string>
     <string name="zen_upgrade_notification_title">Módosultak a Ne zavarjanak mód beállításai</string>

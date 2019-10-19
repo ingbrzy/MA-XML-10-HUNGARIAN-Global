@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%s nap</item>
+        <item quantity="one">1 nap</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">1 óra</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s perc</item>
+        <item quantity="one">1 perc</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s másodperc</item>
+        <item quantity="one">1 másodperc</item>
+    </plurals>
+</resources>

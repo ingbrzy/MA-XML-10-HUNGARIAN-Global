@@ -19,104 +19,104 @@
         <item>Tárhely</item>
     </string-array>
     <string-array name="settings_search_contacts">
-        <item>Névjegyszinkronizálás a Mi Clouddal</item>
+        <item>Névjegyek szinkronizálása a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása/beállítása</item>
-        <item>Névjegyek;Hívásnapló;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Névjegyek;Hívásnapló;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_sms">
-        <item>Üzenetszinkronizálás a Mi Clouddal</item>
+        <item>Üzenetszinkronizálás a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása/beállítása</item>
-        <item>Üzenetek;SMS;MMS;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Üzenetek;SMS;MMS;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_gallery">
-        <item>Galériaszinkronizálás a Mi Clouddal</item>
+        <item>Galériaszinkronizálás a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása/beállítása</item>
-        <item>Galéria;Fényképek;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Galéria;Fényképek;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_dial">
-        <item>Hívásnapló-szinkronizálás a Mi Clouddal</item>
+        <item>Hívásnapló-szinkronizálás a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása/beállítása</item>
-        <item>Hívásnapló;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Hívásnapló;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recorder">
-        <item>Felvételszinkronizálás a Mi Clouddal</item>
+        <item>Felvételszinkronizálás a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása/beállítása</item>
-        <item>Hangrögzítő;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Hangrögzítő;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_music">
-        <item>Zeneszinkronizálás a Mi Clouddal</item>
+        <item>Zeneszinkronizálás a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása</item>
-        <item>Zene;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Zene;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>Jegyzetszinkronizálás a Mi Clouddal</item>
+        <item>Jegyzetszinkronizálás a Xiaomi Clouddal</item>
         <item>Szinkr. bekapcsolása</item>
-        <item>Jegyzetek;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Jegyzetek;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>A Wi-Fi-beállítások szinkronizálása a Mi Clouddal</item>
+        <item>A Wi-Fi-beállítások szinkronizálása a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása</item>
-        <item>WLAN;wifi;Wi-Fi;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>WLAN;wifi;Wi-Fi;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_calendar">
-        <item>Naptárszinkronizálás a Mi Clouddal</item>
+        <item>Naptárszinkronizálás a Xiaomi Clouddal</item>
         <item>Szinkr. bekapcsolása</item>
-        <item>Naptár;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Naptár;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_browser">
-        <item>Böngészőszinkronizálás a Mi Clouddal</item>
+        <item>Böngészőszinkronizálás a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása</item>
-        <item>Böngésző;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Böngésző;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>A Biztonság szinkronizálása a Mi Clouddal</item>
+        <item>A Biztonság szinkronizálása a Xiaomi Clouddal</item>
         <item>Szinkr. bekapcsolása</item>
-        <item>Biztonság;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Biztonság;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>A Gyorselérési kártyák szinkronizálása a Mi Clouddal</item>
+        <item>A Gyorselérési kártyák szinkronizálása a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása</item>
-        <item>Gyorselérési kártyák;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Gyorselérési kártyák;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
-        <item>Mi Cloud. Az összes Mi szolgáltatás egy helyen.</item>
+        <item>Xiaomi Cloud. Az összes Mi szolgáltatás egy helyen.</item>
         <item>Bárhonnan hozzáférhet fényképeihez, névjegyeihez, üzeneteihez és készülékeihez</item>
-        <item>Elégtelen tárhely;Tagság;Tárhely;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud;Lomtár;Kuka;Törölt elemek;Biztonság</item>
+        <item>Elégtelen tárhely;Tagság;Tárhely;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud;Lomtár;Kuka;Törölt elemek;Biztonság</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>Készülékkeresés</item>
         <item>Adattörlés és készüléklezárás, ha készüléke elveszne</item>
-        <item>Készülékkereső;Készülékkeresés;Elveszett;Elvesztés;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Készülékkereső;Készülékkeresés;Elveszett;Elvesztés;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>Készülékkeresés</item>
         <item>Adattörlés és készüléklezárás, ha készüléke elveszne</item>
-        <item>Készülékkereső;Készülékkeresés;Elveszett;Elvesztés;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Készülékkereső;Készülékkeresés;Elveszett;Elvesztés;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
-        <item>Törölt elemek a Mi Cloudban</item>
+        <item>Törölt elemek a Xiaomi Cloudban</item>
         <item>Névjegyek, fényképek, üzenetek és egyebek helyreállítása</item>
-        <item>Lomtár,Kuka,Törölt elemek,Szemét;Visszaállítás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Lomtár,Kuka,Törölt elemek,Szemét;Visszaállítás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
-        <item>Mi Cloud tagság</item>
+        <item>Xiaomi Cloud-tagság</item>
         <item>Bővítse tagságát, szerezzen több tárhelyet és védje meg az adatait</item>
-        <item>Elégtelen tárhely;Tagság;Tárhely;Felhő;Szinkronizálás;Felhőszolgáltatás;Mi Cloud;Mega;Ultra;VIP;Mentés;Visszaállítás;Szemét;Törölt elemek;Lomtár;Kuka;Szemetes</item>
+        <item>Elégtelen tárhely;Tagság;Tárhely;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud;Mega;Ultra;VIP;Mentés;Visszaállítás;Szemét;Törölt elemek;Lomtár;Kuka;Szemetes</item>
     </string-array>
     <string-array name="settings_search_backup_setting">
-        <item>Kezdőképernyő-mentés a Mi Cloudba</item>
+        <item>Kezdőképernyő-mentés a Xiaomi Cloudba</item>
         <item>A Kezdőképernyő-elrendezés, a rendszerbeállítások és a telepített alkalmazások listájának mentése</item>
-        <item>Felhő;Mentés;Felhőszolgáltatás;Mi Cloud;Kezdőképernyő;Elrendezés;Alkalmazások;Beállítások;Mentés időzítése;Mentés kezelése;Visszaállítás</item>
+        <item>Felhő;Mentés;Felhőszolgáltatás;Xiaomi Cloud;Kezdőképernyő;Elrendezés;Alkalmazások;Beállítások;Mentés időzítése;Mentés kezelése;Visszaállítás</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Mentések</item>
         <item>Mentett elemek</item>
-        <item>Felhő;Mentés;Felhőszolgáltatás;Mi Cloud;Kezdőképernyő;Elrendezés;Alkalmazások;Mentés kezelése;Visszaállítás</item>
+        <item>Felhő;Mentés;Felhőszolgáltatás;Xiaomi Cloud;Kezdőképernyő;Elrendezés;Alkalmazások;Mentés kezelése;Visszaállítás</item>
     </string-array>
     <string-array name="settings_search_restore_device">
-        <item>Elemek visszaállítása a Mi Cloudból</item>
+        <item>Elemek visszaállítása a Xiaomi Cloudból</item>
         <item>Mentett elemek visszatöltése a készülékre</item>
-        <item>Felhő;Mentés;Visszaállítás;Felhőszolgáltatás;Mi Cloud</item>
+        <item>Felhő;Mentés;Visszaállítás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Alkalmazásadatok szinkronizálása</item>

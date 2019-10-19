@@ -29,8 +29,6 @@
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="about_app_name">A témákról</string>
     <string name="about_version_update">Újdonságok</string>
-    <string name="accessibility_setting_hint">"Érintse meg a gombot a jobb felső sarokban a szolgáltatás bekapcsolásához.
-A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjeleníti az áttetsző háttérképeket az Ön által kiválasztott alkalmazásokban"</string>
     <string name="accessibiliy_description_content_account">Profil</string>
     <string name="accessibiliy_description_content_ad">Reklám</string>
     <string name="accessibiliy_description_content_add_resource">Cikkek hozzáadása</string>
@@ -66,10 +64,15 @@ A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjelen�
     <string name="apply_font_btn_exclude">Most nem</string>
     <string name="apply_font_btn_reboot">Újraindítás</string>
     <string name="apply_font_tip">A téma betűtípusokat tartalmaz, ezért újraindítás szükséges.</string>
-    <string name="apply_theme_with_ringtones">Csengőhangok alkalmazása</string>
+    <string name="apply_theme_with_ringtones">Vegye át a téma csengőhangjait</string>
     <string name="audio_duration_minutes_format">%1$d perc</string>
     <string name="audio_duration_seconds_format">%1$d másodperc</string>
     <string name="audition_ringtone">Lejátszás</string>
+    <string name="author_attention">Follow</string>
+    <string name="author_attention_success">Followed successfully</string>
+    <string name="author_dialog_message">Unfollow this account now?</string>
+    <string name="author_dynamic">Status</string>
+    <string name="author_dynamic_no_resource">"Couldn't find results"</string>
     <string name="automatically_update_using_theme_tips">Legközelebb frissüljön automatikusan</string>
     <string name="backup_theme_dialog_message">Az aktuális téma mentése</string>
     <string name="backup_theme_dialog_ok">Biztonsági mentés</string>
@@ -92,7 +95,7 @@ A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjelen�
     <string name="close">Bezárás</string>
     <string name="common_applying">Alkalmazás…</string>
     <string name="common_downloading">Letöltés…</string>
-    <string name="common_format_date_no_year">MM/dd</string>
+    <string name="common_format_date_no_year">MM.dd.</string>
     <string name="common_skip">Kihagyás</string>
     <string name="component_backup_preference_title">Téma biztonsági mentése</string>
     <string name="component_category_finest_title">Kiemelt</string>
@@ -103,6 +106,7 @@ A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjelen�
     <string name="component_title_wallpaper">Háttérképek</string>
     <string name="count_down_tip">%ds van hátra</string>
     <string name="current_using_desktop_wallpaper_text">Kezdőképernyő</string>
+    <string name="current_using_float_wallpaper_text">Áttetsző</string>
     <string name="current_using_lockscreen_wallpaper_text">Képernyőzár</string>
     <string name="current_version">Jelenlegi verzió: %1$s</string>
     <string name="current_version_incompatible">Nem kompatibilis</string>
@@ -117,6 +121,9 @@ A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjelen�
     <string name="description_version_szie">Verzió: %1$s Méret: %2$s</string>
     <string name="desktop_effects">Kezdőképernyő effektusok</string>
     <string name="desktop_wallpaper">Háttérkép</string>
+    <string name="detail_author_attention_head">Follow some of our most outstanding designers</string>
+    <string name="detail_author_fans">"Followers: "</string>
+    <string name="detail_author_works">"Items: "</string>
     <string name="detail_recommend_title">Talán ezek is tetszeni fognak neked</string>
     <string name="dev_options">Fejlesztői beállítások</string>
     <string name="dev_options_summary">Web források</string>
@@ -124,9 +131,9 @@ A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjelen�
     <string name="download_preview_failed">Előnézet betöltése nem sikerült</string>
     <string name="download_success">Letöltve!</string>
     <string name="dynamic_video_wallpaper">24H háttérkép</string>
-    <string name="enable_accessibility">Hozzáférési engedélyek szükségesek</string>
-    <string name="enable_accessibility_hint">Ezt a szolgáltatást a Témákban kapcsolhatja be. Ezután ki tudja választani azokat az alkalmazásokat, amelyek működnek az áttetsző háttérképekkel.</string>
+    <string name="enable_all_free_mode">Redeem</string>
     <string name="enable_transparent_wallpaper">Áttetsző háttérkép használata</string>
+    <string name="enabling_all_free_mode">Redeeming…</string>
     <string name="exit_extreme_mode_dialog_agree">Elfogadom</string>
     <string name="exit_extreme_mode_dialog_cancel">Mégse</string>
     <string name="exit_extreme_mode_dialog_title">Extrém mód kikapcsolása</string>
@@ -149,7 +156,9 @@ A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjelen�
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -201,11 +210,18 @@ A Témák érzékelni fogja, hogy mely alkalmazásokat használja, és megjelen�
     <string name="gift_use_confirmation_dlg_title">Elküldi ezt az ajándékot?</string>
     <string name="gift_use_fail_dlg_title">Valami hiba történt</string>
     <string name="gift_used">Elküldve</string>
-    <string name="go_accessibility_setting">Kiválasztás</string>
     <string name="goto_purchased_list">Vásárlási előzmények megjelenítése</string>
     <string name="goto_wechat">A(z) \"%1$s\" WeChat-fiók vágólapra másolva. Megnyitja a WeChatet most?</string>
-    <string name="hide_free">Ingyenes %1$s elrejtése</string>
+    <string name="has_mamual_hide_font">Rejtett</string>
+    <string name="has_mamual_hide_theme">Rejtett</string>
+    <string name="has_mamual_hide_wallpaper">Rejtett</string>
+    <string name="hide_free_font">Ingyenes betűtípusok elrejtése</string>
+    <string name="hide_free_theme">Ingyenes témák elrejtése</string>
+    <string name="hide_free_wallpaper">Ingyenes háttárképek elrejtése</string>
     <string name="hide_incompatible">Nem kompatibilis %1$s elrejtése</string>
+    <string name="hide_mamual_hide_font">Ne jelenítse meg a rejtett betűtípusokat</string>
+    <string name="hide_mamual_hide_theme">Ne jelenítse meg a rejtett témákat</string>
+    <string name="hide_mamual_hide_wallpaper">Ne jelenítse meg a rejtett háttéképeket</string>
     <string name="home_apply_failured">Nem lehetett beállítani a Kezdőképernyő háttérképet</string>
     <string name="home_apply_success">Kezdőképernyő háttérkép beállítva</string>
     <string name="in_the_end">Nincs több megtekinthető elem</string>
@@ -226,10 +242,13 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="incompatible_dialog_ok">OK</string>
     <string name="incompatible_dialog_title">Kompatibilitási problémák</string>
     <string name="is_setting_wallpaper_message">Háttérkép beállítása…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ébresztés/Riasztás</string>
     <string name="item_resource_audio_optional_color_ring">Hívásvárakoztatás hangja</string>
     <string name="item_resource_audio_optional_notification_ring">Értesítések</string>
     <string name="item_resource_audio_optional_phone_ring">Csengőhang</string>
+    <string name="kuyin_user_agreement_content">Az egyedi csengőhangelőfizetéseket az iFlytek biztosítja. Az egyedi csengőhangelőfizetések használatához Önnek el kell fogadnia a következőt: %s. Elfogadja?</string>
+    <string name="kuyin_user_agreement_content_href">Az iFlytek Adatvédelmi szabályzata</string>
     <string name="lab">Téma labor</string>
     <string name="like_list">Általam kedvelt elemek</string>
     <string name="live_wallpaper">Élő háttérkép</string>
@@ -250,7 +269,7 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="lockscreen_magazine_title">Váltakozó háttérképek</string>
     <string name="lockscreen_wallpaper">Zár háttere</string>
     <string name="lockstyle_personal_settings">Testreszabás</string>
-    <string name="loop_wallpaper_is_here">Háttérkép diavetítések elérhetők most</string>
+    <string name="long_click_can_hide_resource">Nyomja hosszan a tételek elrejtéséhez</string>
     <string name="mi_wallpaper">Háttérkép</string>
     <string name="miuishare_account_activate_confirmation">Mi Fiók aktiválása</string>
     <string name="miuishare_account_activate_ok">Aktiválás</string>
@@ -279,6 +298,7 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="mix_icons_option_des">Kezdőképernyő ikonjai. Az alapértelmezett opció használatához távolítsa el a pipát a jelölőnégyzetből.</string>
     <string name="mix_lockscreen_option_des">Háttérkép és óra. Az alapértelmezett opció használatához távolítsa el a pipát a jelölőnégyzetből.</string>
     <string name="mix_tip">Témakomponensek</string>
+    <string name="more_sub_comment">Minden válasz megtekintése (%1$d)></string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Ez a csengőhang lesz alkalmazva mindkét SIM-kártyánál.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">A csengőhang alkalmazva mindkét SIM-kártyán.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Rendben</string>
@@ -316,7 +336,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="purchased_list_current">Optimalizált témák</string>
     <string name="purchased_list_legacy">Örökölt témák</string>
     <string name="recently_used">Mostanában használva</string>
-    <string name="reenable_accessibility">Hiba lépett fel. Adja meg újra a hozzáférési engedélyt.</string>
     <string name="refresh_footer_all_loaded">Ez minden most.</string>
     <string name="refresh_footer_failed">Az információ nem tölthető be</string>
     <string name="refresh_footer_finish">Sikeresen betöltve</string>
@@ -334,6 +353,7 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_alarm_default">Riasztás</string>
     <string name="resource_app_name">Források megtekintése</string>
     <string name="resource_apply">Alkalmazás</string>
+    <string name="resource_apply_trial">Alkalmaz</string>
     <string name="resource_back">Vissza</string>
     <string name="resource_buy">Vásárlás</string>
     <string name="resource_can_not_selected">%1$s nincs kiválasztva!</string>
@@ -404,6 +424,7 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_download">Letöltés</string>
     <string name="resource_download_notification_title_many">%1$s téma letöltve</string>
     <string name="resource_download_notification_title_one">Téma letöltve</string>
+    <string name="resource_download_trial">Próba</string>
     <string name="resource_downloaded_title">Letöltött témák</string>
     <string name="resource_downloading">Letöltés</string>
     <string name="resource_exchange">Kódbeváltás</string>
@@ -434,6 +455,9 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_get_auth_not_official">Nem hivatalos forrásból származó téma nem támogatott</string>
     <string name="resource_get_auth_retrieving">Hitelesítés...</string>
     <string name="resource_has_been_downloaded">Már letöltötte ezt a témát.</string>
+    <string name="resource_hide">Elrejtés</string>
+    <string name="resource_hide_fail">Elrejtés sikertelen</string>
+    <string name="resource_hide_succ">Sikeresen elrejtve</string>
     <string name="resource_hint">Figyelem</string>
     <string name="resource_import_failed">Az importálás nem sikerült</string>
     <string name="resource_import_successful">Letöltve.</string>
@@ -459,6 +483,7 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_pack_price_info">%1$s eredeti</string>
     <string name="resource_pack_warning">Figyelmeztetés! Már megvásárolt %1$d témát, az aktuális ár már nem érvényes, kérjük vásárolja meg őket külön-külön.</string>
     <string name="resource_present">Ajándék</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Ingyenes</string>
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_purchase_common_error">Hiba történt, próbálja újra</string>
@@ -470,6 +495,13 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_ranking">Népszerű</string>
     <string name="resource_ranking_free">Ingyenes</string>
     <string name="resource_ranking_purchase">Fizetős</string>
+    <string name="resource_restore">Visszaállítás</string>
+    <string name="resource_restore_fail">Nem sikerült a visszaállítás</string>
+    <string name="resource_restore_succ">Sikeresen visszaállítva</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Csengőhangok</string>
     <string name="resource_ringtone_playing_error">lejátszási hiba</string>
     <string name="resource_ringtone_volume_mute">Csengőhang lenémítva</string>
@@ -494,8 +526,7 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_server_alert_dialog_title">A szolgáltatás jelenleg nem elérhető</string>
     <string name="resource_server_out_of_service">A szerver nem elérhető, próbálja később.</string>
     <string name="resource_share_subject">Megosztott téma: %1$s</string>
-    <string name="resource_share_text">"Azt hiszem, ez a téma tetszeni fog: %1$s!
-Link: %2$s"</string>
+    <string name="resource_share_text">Azt hiszem, ez a téma tetszeni fog: %1$s! Link: %2$s</string>
     <string name="resource_share_title">Megosztás</string>
     <string name="resource_system_title">Rendszer források</string>
     <string name="resource_tab_to_view">Kattintson a megtekintéshez</string>
@@ -545,8 +576,14 @@ Link: %2$s"</string>
     <string name="shortcut_message">Kezdőképernyő parancsikon hozzáadása!</string>
     <string name="shortcut_show_tip">Ne jelenjen meg újra</string>
     <string name="shortcut_title">Kedveli háttérképeinket?</string>
-    <string name="show_free">Az ingyenes %1$s megjelenítése</string>
+    <string name="show_free_font">Ingyenes betűtípusok megjelenítése</string>
+    <string name="show_free_theme">Ingyenes témák megjelenítése</string>
+    <string name="show_free_wallpaper">Ingyenes háttárképek megjelenítése</string>
     <string name="show_incompatible">A nem kompatibilis %1$s megjelenítése</string>
+    <string name="show_mamual_hide_font">A rejtett betűtípusok megjelenítése</string>
+    <string name="show_mamual_hide_theme">A rejtett témák megjelenítése</string>
+    <string name="show_mamual_hide_wallpaper">Rejtett háttérképek megjelenítése</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="swipe_find_more">Húzza fel a további lehetőségekhez</string>
     <string name="system_precust">Előre telepített</string>
     <string name="the_picture_is_not_support">A képformátum nem támogatott</string>
@@ -566,6 +603,13 @@ Link: %2$s"</string>
     <string name="theme_changed_failed_message">A téma beállítása nem sikerült.</string>
     <string name="theme_changed_message">Téma beállítva</string>
     <string name="theme_changing_dialog_title">Téma alkalmazása. Kérjük, várjon...</string>
+    <string name="theme_comment_detail_no_more">Egyelőre ennyi</string>
+    <string name="theme_comment_detail_sub_comment_title">Összes válasz</string>
+    <string name="theme_comment_detail_title">Részletek</string>
+    <string name="theme_comment_dialog_cancel">Most nem</string>
+    <string name="theme_comment_dialog_message">Tetszik Önnek a téma, amit most használ? Nagyra értékelnénk, ha elküldené nekünk visszajelzését!</string>
+    <string name="theme_comment_dialog_ok">Értékelés</string>
+    <string name="theme_comment_sub_comment_bar_hint">Ossza meg gondolatait közösségünkkel</string>
     <string name="theme_component_title_alarm">Riasztások</string>
     <string name="theme_component_title_alarmstyle">Riasztás</string>
     <string name="theme_component_title_all">Témák</string>
@@ -609,6 +653,7 @@ Link: %2$s"</string>
     <string name="theme_is_external_priority_storage">Mentés az SD-kártyára</string>
     <string name="theme_is_external_priority_storage_summary">A beállítás alkalmazásához a Téma alkalmazás újra fog indulni</string>
     <string name="theme_multiple_button_title_customize">Testreszabás</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Nem</string>
     <string name="theme_purchased_list_empty">Még nem vásárolt témát.</string>
     <string name="theme_purchased_non_local">Nem helyi</string>
@@ -629,7 +674,7 @@ Link: %2$s"</string>
     <string name="theme_yes">Igen</string>
     <string name="third_party_pickers_activity_title">%1$s hozzáadása</string>
     <string name="tips_theme_gate_transfer_fail">Nem sikerült megnyitni ezt az oldalt. Várj egy-két percet, majd próbáld meg újra.</string>
-    <string name="title_component">Téma szerkesztése</string>
+    <string name="title_component">Témaszerkesztés</string>
     <string name="title_my_audio_resource">Saját csengőhangom</string>
     <string name="title_my_miwallpaper_desktop_effects">Kezdőképernyő effektusok</string>
     <string name="title_my_miwallpaper_resource">Élő háttérképeim</string>
@@ -652,6 +697,7 @@ Link: %2$s"</string>
     <string name="transparent_wallpaper_filter_setting">Egyéni alkalmazások</string>
     <string name="transparent_wallpaper_guide">Tovább a Témákhoz</string>
     <string name="transparent_wallpaper_guide_tip">Mostantól áttetsző hátteret is kiválaszthat a Témáknál.</string>
+    <string name="transparent_wallpaper_is_running_in_background">Az „áttetsző háttérkép” fehér háttéren néz ki a legjobban</string>
     <string name="transparent_wallpaper_pref_summary">Háttérképek csökkentett háttér áttetszőséggel</string>
     <string name="transparent_wallpaper_white_wallpaper">Háttér fehérre festése</string>
     <string name="transparent_wallpaper_white_wallpaper_failed">Nem lehet fehérre állítani a háttérszínt</string>
@@ -667,6 +713,7 @@ Link: %2$s"</string>
     <string name="uid_change_dialog_message">Ön törölte a frissítéseket. Indítsa újra a készüléket, hogy használhassa a témákat.</string>
     <string name="uid_change_dialog_ok">Rendben</string>
     <string name="uid_change_dialog_title">Készülék újraindítása</string>
+    <string name="unable_connect_network">Nincs internetkapcsolat</string>
     <string name="up_to_the_end">Most ennyi volt, nézzen vissza később.</string>
     <string name="update_btn">FRISSÍTÉS MOST</string>
     <string name="update_check">Frissítések keresése</string>
@@ -695,7 +742,9 @@ Link: %2$s"</string>
     <string name="wallpaper_apply">Alkalmazás</string>
     <string name="wallpaper_crop">Vágás</string>
     <string name="wallpaper_decoded_error">Dekódolási hiba!</string>
+    <string name="wallpaper_delete_all">Kiválasztott elemek törlése?</string>
     <string name="wallpaper_detail_load_page_no_network">Csatlakozzon a hálózatra és próbálja újra.</string>
+    <string name="wallpaper_dynamic">Dinamikus</string>
     <string name="wallpaper_loop_add_success">A hozzáadás sikeres</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Hozzáadás Kezdőképernyő diavetítéshez</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Hozzáadás Zárképernyő diavetítéshez</string>
@@ -718,6 +767,11 @@ Link: %2$s"</string>
     <string name="wallpaper_loop_title">Háttérkép diavetítés</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Kezdőképernyő háttérkép diavetítés</string>
     <string name="wallpaper_loop_title_lock_walpaper">Képernyőzár háttérkép diavetítés</string>
+    <string name="wallpaper_no_favorite">No items here yet.</string>
+    <string name="wallpaper_no_record">No items here yet.</string>
+    <string name="wallpaper_online">Online háttérképek</string>
+    <string name="wallpaper_online_no_more">Egyelőre ennyi</string>
+    <string name="wallpaper_online_tip">Csatlakozzon a hálózathoz további elemek megtekintéséhez</string>
     <string name="wallpaper_scroll_type_tips">Háttérkép görgetése</string>
     <string name="wallpaper_set_as_both">Beállítás mindkettőnek</string>
     <string name="wallpaper_set_as_desktop">Beállítás Kezdőképernyőnek</string>
@@ -728,6 +782,7 @@ Link: %2$s"</string>
     <string name="wallpaper_settings_no_history">Nincs előzmény</string>
     <string name="wallpaper_settings_pad_more_page_title">További háttérképek</string>
     <string name="wallpaper_settings_page_title">Háttérkép</string>
+    <string name="wallpaper_static">Statikus</string>
     <string name="wechat_not_found">Először telepítse a WeChat alkalmazást</string>
     <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Mégse</string>

@@ -16,6 +16,10 @@
         <item quantity="other">%1$s állomás átlaga</item>
         <item quantity="one">%1$s állomás átlaga</item>
     </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">%1$s napos előrejelzés</item>
+        <item quantity="one">%1$s napos előrejelzés</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">%1$s napos előrejelzés</item>
         <item quantity="one">%1$s napos előrejelzés</item>

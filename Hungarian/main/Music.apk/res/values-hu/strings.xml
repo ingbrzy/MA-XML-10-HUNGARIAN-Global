@@ -14,13 +14,23 @@
     <string name="September">Szeptember</string>
     <string name="Updated_at">"Frissítve: "</string>
     <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
-    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_bar_up_description">Fel</string>
     <string name="abc_action_menu_overflow_description">További lehetőségek</string>
     <string name="abc_action_mode_done">Kész</string>
-    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
-    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
     <string name="abc_capital_off">KI</string>
     <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Keresés…</string>
     <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
     <string name="abc_searchview_description_query">Keresési lekérdezés</string>
@@ -57,6 +67,7 @@
     <string name="added_next_play">Hozzáadva a következő lejátszáshoz</string>
     <string name="agreement_desc">Felhasználói szerződés (kötelező)</string>
     <string name="alaka_required">Ezért a dalért fizetnie kell, hogy meghallgathassa</string>
+    <string name="alarm_clock_ringtones_successful">Riasztás sikeresen beállítva</string>
     <string name="album_label">Albumborítók</string>
     <string name="album_name">Album</string>
     <string name="all_album_count">Összes album (%d)</string>
@@ -116,6 +127,7 @@
     <string name="change_download_quality">Letöltés minőségének módosítása</string>
     <string name="checking_new_version">Frissítések keresése…</string>
     <string name="choose_download_quality">Letöltés minőségének kiválasztása</string>
+    <string name="choose_music_lang_pref">Dalok preferált nyelve</string>
     <string name="choose_stream_quality">Streamelés minőségének kiválasztása</string>
     <string name="click_to_shuffle">Lejátszás keverve</string>
     <string name="close_music_time">Hátralévő idő:</string>
@@ -147,6 +159,7 @@
     <string name="current_album">Aktuális albumborító</string>
     <string name="current_lyric">Aktuális dalszöveg</string>
     <string name="current_version">Jelenlegi verzió</string>
+    <string name="dark_mode">Sötét mód</string>
     <string name="data_usage_warning">Adatforgalom</string>
     <string name="data_usage_warning_summary">A mobiladat-kapcsolat használatával streamelt magas minőségű dalok növelhetik az adatforgalmazás díját.</string>
     <string name="data_use_desc">Jogi dokumentumok</string>
@@ -155,6 +168,7 @@
     <string name="delete_download">Törlés</string>
     <string name="delete_file_as_well">Dal végleges törlése</string>
     <string name="delete_file_end">Végleges törlés</string>
+    <string name="delete_file_error">Fájl törlése sikertelen</string>
     <string name="delete_file_start">Kiválasztott fájlok törlése</string>
     <string name="deselect_all">Kijelölések törlése</string>
     <string name="desktop_lyric_button_close">Bezárás</string>
@@ -179,6 +193,10 @@
     <string name="dialog_insufficient_space_on_cache">A letöltést nem lehet befejezni, mert nincs elég hely a belső tárhelyen.</string>
     <string name="dialog_insufficient_space_on_external">Nem lehet befejezni a letöltést. Nincs elég hely az SD-kártyán.</string>
     <string name="dialog_media_not_found">Nem lehet letölteni. SD-kártya nem elérhető.</string>
+    <string name="dialog_my_playlist_online_changed_merge">Megőrzés</string>
+    <string name="dialog_my_playlist_online_changed_message">Úgy tűnik, ez a lejátszólista megváltozott. Felülírhatja az új változattal, vagy megtarthatja a régit.</string>
+    <string name="dialog_my_playlist_online_changed_replace">Csere</string>
+    <string name="dialog_my_playlist_set_to_public">Ossza meg ezt a lejátszási listát a Mi Music és a Hungama music összes felhasználójával</string>
     <string name="dialog_queued_body">Ez a fájl várólistára került későbbi letöltés céljából.</string>
     <string name="dialog_renew_failure">Sajnos a művelet sikertelen</string>
     <string name="dialog_renew_free_end">Az ingyenes próbaidőszak lejárt. Előfizet a Hungama PRO verzióra?</string>
@@ -236,7 +254,9 @@
     <string name="download_method">Letöltés</string>
     <string name="download_no_application_title">Nem lehet megnyitni a fájlt</string>
     <string name="download_paused_in_power_save_mode">Bekapcsolt Akkumulátorkímélő esetén a letöltések szünetelnek</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Letöltés…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Letöltés minősége</string>
     <string name="download_quality_summary">További beállítások a letölteni kívánt dalokhoz</string>
     <string name="download_queued">Várólistán</string>
@@ -296,6 +316,7 @@
     <string name="eq_preset_select">Válasszon beállítást</string>
     <string name="eq_rock">Rock</string>
     <string name="equalizer">Hangszínszabályzó</string>
+    <string name="error_not_support">Nem támogatott</string>
     <string name="exo_controls_fastforward_description">Előretekerés</string>
     <string name="exo_controls_fullscreen_description">Teljes képernyős mód</string>
     <string name="exo_controls_next_description">Következő szám</string>
@@ -315,7 +336,9 @@
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -326,10 +349,13 @@
     <string name="exo_track_surround_5_point_1">5.1-es térhatású hangzás</string>
     <string name="exo_track_surround_7_point_1">7.1-es térhatású hangzás</string>
     <string name="exo_track_unknown">Ismeretlen</string>
+    <string name="expand_button_title">Speciális</string>
     <string name="expired">Lejárt</string>
     <string name="facebook_not_installed">Először telepítse a Facebook alkalmazást.</string>
     <string name="fail_to_fetch_payment_page_url">Nem sikerült lekérdezni a fizetési információt</string>
     <string name="fail_to_play">A dal nem játszható le</string>
+    <string name="failed_not_access_sd_card">Először engedélyezze a hozzáférést az SD-kártyához</string>
+    <string name="failed_obtain_permissions">Nem sikerült megszerezni az engedélyeket</string>
     <string name="fav_login_msg">Jelentkezzen be a Mi fiókjába a dalok letöltéséhez</string>
     <string name="favorite_canceled">Eltávolítva a kedvencek közül</string>
     <string name="favorite_playlist">Kedvencek</string>
@@ -353,12 +379,18 @@
     <string name="filter_by_size_prefix">"A megadottnál kisebb fájlok elrejtése: "</string>
     <string name="filter_by_size_summary">A kis fájlméretű hangok elrejtése</string>
     <string name="filter_size_unit">%dKB</string>
+    <string name="floating_view_dialog_desc">A zenelejátszás leáll, ha most elhagyja ezt az oldalt. Mégis elhagyja?</string>
+    <string name="floating_view_dialog_leave">Elhagyás</string>
+    <string name="floating_view_dialog_stay">Maradás</string>
+    <string name="floating_view_dialog_title">Oldal elhagyása?</string>
     <string name="follow">Követés</string>
     <string name="followed">Követve</string>
     <string name="format_not_support">Ez a formátum nem támogatott.</string>
     <string name="format_unsupported_or_corrupted">A formátum nem támogatott vagy a fájl sérült.</string>
     <string name="fragment_title_artist_album">Albumok</string>
     <string name="gcm_fallback_notification_channel_label">Egyéb</string>
+    <string name="goto_local_search">Keresés a készüléken</string>
+    <string name="goto_online_search">Online keresés</string>
     <string name="handle_later">Most nem</string>
     <string name="hd_quality_audio">HD-minőségű zene</string>
     <string name="headset_and_audio_effect_category">Fülhallgatók és hanghatások</string>
@@ -368,12 +400,15 @@
     <string name="hide_lyric">Szövegelrejtés</string>
     <string name="higher_quality_music">Kiváló minőségű hang</string>
     <string name="higher_quality_music_summary">Online zenehallgatás és letöltés magasabb bitrátán</string>
+    <string name="home_tab_home">Kezdőlap</string>
     <string name="home_tab_local">Zenéim</string>
+    <string name="home_tab_more_music">Még több zene</string>
     <string name="home_tab_online">Online zene</string>
+    <string name="home_tab_search">Keresés</string>
     <string name="hot_icon_in_fast_indexer">Hot</string>
     <string name="hungama_batch_download_alert_summary">Több dalt csak PRO tagok tölthetnek le. Szeretnél PRO tagságot most?</string>
     <string name="hungama_free_download_out_summary">Nem tölthetsz le több dalt ingyen. Szeretnél PRO előfizetést korlátlan dal letöltéséhez?</string>
-    <string name="hungama_privacy_desc">Hungama Privacy Policy (optional)</string>
+    <string name="hungama_privacy_desc">A Hungama Adatvédelmi irányelvei (opcionális)</string>
     <string name="hungama_privacy_tips_content">Az online tartalomhoz való hozzáféréshez Önnek el kell fogadnia a <a href="/link/click">Hungama Adatvédelmi irányelveit</a>.</string>
     <string name="hungama_privacy_tips_title">A Hungama Adatvédelmi irányelvei</string>
     <string name="hungama_subscribe_message">Vásároljon PRO tagságot a zenék kiváló minőségben való letöltéséhez.</string>
@@ -413,6 +448,7 @@
     <string name="load_shuffle">Betöltés…</string>
     <string name="loadercontainer_loading">Egy pillanat…</string>
     <string name="loading_hint">Egy pillanat…</string>
+    <string name="loading_reached_the_bottom">Egyelőre ennyi.</string>
     <string name="local_header_title">Helyi zene</string>
     <string name="local_music">Helyi dalok</string>
     <string name="local_music_is_not_available">Nincsenek dalok a készülékén.</string>
@@ -427,8 +463,8 @@
     <string name="lyric_label">Dalszöveg</string>
     <string name="lyric_open_other_connect">Dalszöveg letöltése mobiladat-kapcsolattal</string>
     <string name="lyric_setting">Dalszöveg beállításai</string>
-    <string name="menu_title_pause_all">Összes szüneteltetése</string>
-    <string name="menu_title_resume_all">Összes indítása</string>
+    <string name="menu_title_pause_all">Az összes szüneteltetése</string>
+    <string name="menu_title_resume_all">Az összes indítása</string>
     <string name="message_delete_playlist">Törli a(z) %s lejátszási listát?</string>
     <string name="metered_alert">Adatforgalmi figyelmeztetés</string>
     <string name="metered_alert_msg">Mobiladat-kapcsolatot használ a zene lejátszásához. Mindenképp lejátssza?</string>
@@ -466,6 +502,7 @@
     <string name="more_settings">További beállítások</string>
     <string name="more_settings_summary">Elalvásidőzítő, fájlszűrés és egyebek</string>
     <string name="more_share">Megosztás</string>
+    <string name="mulit_choice_management">Több tétel kezelése</string>
     <string name="music_browser_label">Zene</string>
     <string name="music_filter">Hangfájlok szűrése</string>
     <string name="music_service">Zene Szolgáltatás</string>
@@ -475,6 +512,10 @@
     <string name="my_account">Mi Fiók</string>
     <string name="my_music_empty">A lejátszási lista üres.</string>
     <string name="my_music_empty_goto_online">Nem található dal</string>
+    <string name="my_playlist_add_song">Dalok hozzáadása</string>
+    <string name="my_playlist_create_self_playlist">Hozzon létre lejátszólistát a kedvenc dalaiból</string>
+    <string name="my_playlist_set_to_private">Titkosítás</string>
+    <string name="my_playlist_set_to_public">Közzététel</string>
     <string name="network_error_and_retry">Csatlakozás sikertelen, érintse meg az újrapróbálkozáshoz</string>
     <string name="network_request_error">Nem lehet csatlakozni a hálózathoz</string>
     <string name="network_settings_error">Nem lehet csatlakozni a hálózathoz</string>
@@ -498,6 +539,7 @@
     <string name="not_login">Nincs bejelentkezve</string>
     <string name="not_now">Ne most</string>
     <string name="not_selected">Dal választása</string>
+    <string name="not_support_documentui">DocumentUI nem támogatott ezen a készüléken</string>
     <string name="notif_title_file_size">%1$d összesen</string>
     <string name="notif_title_single_downloading">%1$s letöltése</string>
     <string name="notification_download_complete">Letöltés kész</string>
@@ -546,6 +588,7 @@
     <string name="online_switch_setting">Online tartalom beállításai</string>
     <string name="open_online_service">A funkció használatához be kell kapcsolnia az online szolgáltatásokat. Bekapcsolja most?</string>
     <string name="open_service">Bekapcsolás</string>
+    <string name="operation_done_close">Bezár</string>
     <string name="other_song_in_album">Más dalok erről az albumról</string>
     <string name="paused_by_app">Szüneteltetve</string>
     <string name="paused_in_power_save_mode">Szüneteltetve, amikor az Akkumulátorkímélő be van kapcsolva</string>
@@ -562,6 +605,8 @@
     <string name="permission_declaration_negative_text">Később</string>
     <string name="permission_declaration_positive_text">Biztonság megnyitása</string>
     <string name="permission_declaration_title">Hozzáférés engedélyezése</string>
+    <string name="permission_open">Engedélyez</string>
+    <string name="permission_required">Engedélyek szükségesek</string>
     <string name="pick_favorite_song">Kedvencek</string>
     <string name="pick_local_song">Helyi dalok</string>
     <string name="pick_recent_song">Legutóbb játszott</string>
@@ -592,6 +637,7 @@
     <string name="priority_storage_summary">Fájlok automatikus mentése az SD-kártyára, ha rendelkezésre áll</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
     <string name="privacy_policy">Adatvédelmi Irányelvek</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=hu_HU</string>
     <string name="pro_member">PRO tag</string>
     <string name="project_device">Mi Telefon</string>
     <string name="prompt_grant_write_settings_permission">Rendszerbeállítások módosításának engedélyezése</string>
@@ -608,13 +654,19 @@
     <string name="remove_download">Eltávolítás</string>
     <string name="repeat_all_notif">Összes dal ismétlése.</string>
     <string name="repeat_current_notif">Jelenlegi dal ismétlése.</string>
+    <string name="request_overlay_permission_desc">Engedélyezze, hogy a Mi Music lebegő ablakokat mutasson ezen funkció használatáért.</string>
     <string name="request_share_info">Egy pillanat…</string>
     <string name="request_subscription_status">Egy pillanat…</string>
     <string name="restart_immediate">Újraindítás</string>
     <string name="retry">Próbálja újra</string>
     <string name="retry_after_network_available">Nem lehet csatlakozni a hálózathoz. Ellenőrizze a kapcsolatot és próbálja újra.</string>
     <string name="retry_download">Próbálja újra</string>
+    <string name="ringtone_editing">Csengőhangszerkesztő</string>
     <string name="ringtone_not_support">A dal formátuma nem támogatott</string>
+    <string name="ringtone_selected">Kiválasztva</string>
+    <string name="ringtones_play">Lejátszás</string>
+    <string name="ringtones_stop">Leállítás</string>
+    <string name="ringtones_successful">Csengőhang sikeresen beállítva</string>
     <string name="root_downloads">Letöltések</string>
     <string name="s1">Kép mentése</string>
     <string name="s2">Engedélyezi a hirdetés számára a kép tárolását a Képgalériában?</string>
@@ -634,11 +686,18 @@
     <string name="search_hint_local">Dalok keresése a készüléken</string>
     <string name="search_hint_online">Előadók, albumok, dalok, lejátszási listák és online videók keresése</string>
     <string name="search_history_clear_all">Törlés</string>
+    <string name="search_history_delete_all_dialog_titile">Törli a keresési előzményeket?</string>
+    <string name="search_in_youtube">Keresés a YouTube-on</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Keresés</string>
+    <string name="search_more">Továbbiak</string>
+    <string name="search_result_local_songs">Helyi</string>
+    <string name="search_result_online_songs">Online</string>
+    <string name="search_songs">Dalok keresése</string>
     <string name="search_songs_count">Dal: %d</string>
     <string name="select">Kiválasztás</string>
     <string name="select_all">Az összes kiválasztása</string>
+    <string name="select_clip_desc">Válasszon egy klipet a dalból</string>
     <string name="select_desc_sub">Maximum 3 nyelvet választhatsz ki</string>
     <string name="select_device">Válasszon készüléket</string>
     <string name="select_displayed_folders">Válassza ki a megjelenítendő mappákat</string>
@@ -650,6 +709,7 @@
     <string name="selected_count">%1$d kijelölve, ennyiből: %2$d</string>
     <string name="send_to_title">Küldés neki (%1$s)</string>
     <string name="service_and_settings">Szolgáltatás és beállítások</string>
+    <string name="set_as_alarm_clock_ringtone">Riasztás</string>
     <string name="set_as_ring">Beállítás csengőhangnak</string>
     <string name="set_ringtones_failed">Nem sikerült beállítani csengőhangnak</string>
     <string name="set_ringtones_successful">%s beállítva csengőhangnak</string>
@@ -668,6 +728,7 @@
     <string name="share_image_error">Nem lehet megosztani a képet letöltési hiba miatt</string>
     <string name="share_text_list">"Lejátszási lista a Mi Zenéből: "</string>
     <string name="share_text_song">"Dal a Mi Zenében: "</string>
+    <string name="show_float_first_hint">Lejátszó lekicsinyítése</string>
     <string name="show_more">További %s megjelenítése</string>
     <string name="shuffle_music">Kevert lejátszás</string>
     <string name="shuffle_off_notif">Keverés kikapcsolva.</string>
@@ -681,12 +742,15 @@
     <string name="sleep_mode_summary">Leállítás előre megadott idő után</string>
     <string name="sleep_mode_title">Elalvásidőzítő</string>
     <string name="sliding_pro_center">PRO Center</string>
+    <string name="song_already_in_playlist">Ez a dal már a lejátszási listában van</string>
     <string name="song_exist_in_playlist">Ez a dal már szerepel a várólistán</string>
     <string name="song_info">Dal részletei</string>
+    <string name="song_is_added_to_playlist">Hozzáadva a lejátszási listához</string>
     <string name="song_is_empty">A dal neve nem lehet üres.</string>
     <string name="song_name">Dal</string>
     <string name="song_not_find">Ez a dal nem elérhető</string>
     <string name="song_offline">Ez a dal már nem elérhető.</string>
+    <string name="song_picker_complete">Kész</string>
     <string name="songgroup_pick_album">Albumok</string>
     <string name="songgroup_pick_playlist">Lejátszási lista</string>
     <string name="sort_by_name">Név</string>
@@ -694,16 +758,20 @@
     <string name="start_to_check_new_version">Frissítések keresése…</string>
     <string name="start_to_download">Letöltés…</string>
     <string name="start_to_play">Lejátszás</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_cloned_app">Klónozott alkalmazások tárhelye</string>
     <string name="storage_internal">Belső tárhely</string>
     <string name="storage_sd_card">SD-kártya</string>
     <string name="storage_usb">USB-tárhely</string>
     <string name="streamloadingtext">Csatlakozás: %s</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="tab_album">Albumok</string>
     <string name="tab_album_list">Albumok</string>
     <string name="tab_artist">Előadók</string>
     <string name="tab_artist_list">Előadók</string>
     <string name="tab_folder">Mappák</string>
     <string name="tab_playlist">Lejátszási listák</string>
+    <string name="tab_top_results">Legjobb találatok</string>
     <string name="tab_track">Dalok</string>
     <string name="tab_track_list">Dalok</string>
     <string name="tab_video">Videók</string>
@@ -734,11 +802,16 @@
     <string name="title_online_fm_recommend">Kiemelt FM</string>
     <string name="title_online_recommend">Kiemelt lejátszási listák</string>
     <string name="title_search_history">Keresési előzmények</string>
+    <string name="title_search_hot">Népszerű</string>
     <string name="toast_download_error_by_count_limit">Elérte a maximális letöltések számát ebben a hónapban.</string>
     <string name="toast_download_error_by_not_login">Jelentkezzen be Mi Fiókjába és próbálja újra.</string>
     <string name="toast_download_error_by_vip_required">A dal letöltéséhez igényeljen Prémium Dal Csomagot.</string>
     <string name="toast_download_in_process">Letöltés folyamatban</string>
     <string name="toast_is_pro">Ön már PRO tag.</string>
+    <string name="toast_my_playlist_illegal_name">Érvénytelen a lejátszólista címe. Nevezze át ezt a lejátszólistát.</string>
+    <string name="toast_my_playlist_set_to_private">Ez a lejátszólista most titkos. Mások nem láthatják.</string>
+    <string name="toast_my_playlist_set_to_public">Ez a lejátszólista most nyilvános. Mások láthatják.</string>
+    <string name="toast_my_playlist_sync_failed">Hálózati hiba miatt nem sikerült a lejátszási listák szinkronizálása.</string>
     <string name="toast_new_playlist_name_no_enter">Nem kezdhet új bekezdést</string>
     <string name="toast_new_playlist_name_too_long">A lejátszási lista neve túl hosszú</string>
     <string name="toast_normal_songs_for_download">Normál minőségű dal letöltésére állítva</string>
@@ -746,7 +819,7 @@
     <string name="toast_not_pro">Ez a funkció kizárólag PRO tagok számára érhető el.</string>
     <string name="toast_uhd_songs_for_download">Kiváló minőségű dal letöltésére állítva</string>
     <string name="toast_uhd_songs_for_stream">Streamelés minősége Kiválóra állítva</string>
-    <string name="today">Today</string>
+    <string name="today">Ma</string>
     <string name="top_chart_title">Listák</string>
     <string name="ultra_high_quality">Kiváló</string>
     <string name="unknown_album_name">Ismeretlen album</string>
@@ -758,6 +831,9 @@
     <string name="upgrade_music_message">Frissítések készen állnak. Indítsa újra a frissítéshez.</string>
     <string name="upgrading_in_backstage">Frissítés a háttérben…</string>
     <string name="user_agreement">Felhasználói Szerződés</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=hu_HU</string>
+    <string name="v7_preference_off">KI</string>
+    <string name="v7_preference_on">BE</string>
     <string name="version_info">Verzió</string>
     <string name="video_play_cellular">A készüléke nincs Wi-Fi-hez csatlakoztatva. Használ mobiladat-kapcsolatot?</string>
     <string name="video_replay_btn">Újrajátszás</string>
@@ -770,4 +846,5 @@
 
 Érintse meg a %s-t, hogy a letöltés akkor kezdődjön el, amikor legközelebb Wi-Fi hálózathoz csatlakozik."</string>
     <string name="wifi_required_title">Wi-Fi kapcsolat szükséges a fájl letöltéséhez</string>
+    <string name="you_can_switch_mode_in_settings">A Beállításokban válthat a módok között</string>
 </resources>

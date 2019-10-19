@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_calllog_detail">Hívásnapló részletei</string>
     <string name="accessibility_contact_detail">Névjegy adatai</string>
     <string name="account_container_title">Importálva a következőből</string>
@@ -100,6 +101,7 @@
     <string name="call_sim_menu_title_suffix">(Elsődleges)</string>
     <string name="call_telex">Telex hívása</string>
     <string name="call_tty_tdd">TTY/TDD-szám hívása</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Munkahelyi telefon hívása</string>
     <string name="call_work_mobile">Munkahelyi mobil hívása</string>
@@ -133,6 +135,7 @@
     <string name="callrecordview_menu_delete_sim">Hívásnapló adatainak törlése (%s)</string>
     <string name="callrecordview_menu_delete_stranger">Ismeretlen számok törlése</string>
     <string name="callrecordview_menu_edit_call_note">Hívásfeljegyzés szerkesztése</string>
+    <string name="callrecordview_menu_identify_numbers">Telefonszámok azonosítása</string>
     <string name="callrecordview_menu_ip">Auto IP tárcsázás</string>
     <string name="callrecordview_menu_livetalk">Feltöltőcsomag</string>
     <string name="callrecordview_menu_misim">Mi SIM</string>
@@ -181,11 +184,11 @@
     <string name="cloud_antispam_mark">Megjelölés</string>
     <string name="cloud_antispam_marked">Megjelölve</string>
     <string name="cloud_antispam_title">Hívóazonosító</string>
-    <string name="cloud_recommend_msg">Érintse meg a névjegyek szinkronizálásához Mi Clouddal.</string>
-    <string name="cloud_state_disabled">Névjegyek szinkronizálása a Mi Clouddal</string>
+    <string name="cloud_recommend_msg">Érintse meg a névjegyek szinkronizálásához a felhővel.</string>
+    <string name="cloud_state_disabled">Névjegyek szinkronizálása a felhővel</string>
     <string name="cloud_state_loading">Egy pillanat…</string>
-    <string name="cloud_state_sync_finished">Szinkronizálva Mi Clouddal</string>
-    <string name="cloud_state_syncing">Szinkronizálva Mi Clouddal</string>
+    <string name="cloud_state_sync_finished">Szinkronizálva a felhővel</string>
+    <string name="cloud_state_syncing">Szinkronizálás a felhővel</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
@@ -212,6 +215,7 @@
     <string name="contact_detail_action_item_nocalllog">Nincs előzmény</string>
     <string name="contact_detail_calllog_call_note_tips">Megjegyzés</string>
     <string name="contact_detail_calllog_call_record_tips">Rögzített hívás</string>
+    <string name="contact_detail_calllog_correct_yellow_page">Javítás vagy bejelentés</string>
     <string name="contact_detail_calllog_empty">Nincs előzmény</string>
     <string name="contact_detail_entry_pay">Pénz küldése</string>
     <string name="contact_detail_entry_pay_dialog_title">Telefonszám kiválasztása</string>
@@ -233,6 +237,7 @@ Névjegykártyák kikapcsolva\""</string>
     <string name="contact_detail_miprofile_save_success_toast">Fogadott névjegykártya</string>
     <string name="contact_detail_miprofile_settings_header">TOVÁBBI BEÁLLÍTÁSOK</string>
     <string name="contact_detail_miprofile_subtitle">Már cserélt kártyák</string>
+    <string name="contact_detail_more_calllog">Továbbiak</string>
     <string name="contact_detail_profile_switch_fail_network_toast">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="contact_detail_profile_switch_fail_toast">Valami hiba történt a szerverünkkel</string>
     <string name="contact_detail_profile_switch_off">Névjegykártyák kikapcsolása</string>
@@ -253,6 +258,7 @@ Névjegykártyák kikapcsolva\""</string>
     <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
     <string name="contact_import_methods_dialog_mi_mover">Mi Átköltözés</string>
     <string name="contact_import_methods_dialog_title">Válasszon beviteli módot</string>
+    <string name="contact_is_deleted">A névjegy törlésre került</string>
     <string name="contact_is_readOnly">Az írásvédett névjegyek nem szerkeszthetőek</string>
     <string name="contact_list_loading">Betöltés…</string>
     <string name="contact_pick_photo">Fénykép</string>
@@ -302,7 +308,7 @@ Névjegykártyák kikapcsolva\""</string>
     <string name="delete_dial_input">Törlés</string>
     <string name="delete_duplicate">Összekapcsolás</string>
     <string name="delete_duplicate_message">"Névjegyek összekapcsolása… "</string>
-    <string name="delete_group_dialog_message">Biztosan törölni szeretné a(z) \"%1$s\" csoportot? (Maguk a névjegyek nem kerülnek törlésre.)</string>
+    <string name="delete_group_dialog_message">Biztosan törölni szeretné: \"%1$s\"? Maguk a névjegyek nem kerülnek tölrlésr.</string>
     <string name="delete_group_dialog_title">Csoport törlése</string>
     <string name="delete_selected_sim_entry_miui">Kiválasztott névjegyek törlése</string>
     <string name="delete_sim_entries_finish">Névjegyek törölve a SIM-kártyáról</string>
@@ -436,6 +442,8 @@ Hogy elkerüljük a túl gyakori lekérdezést, naponta egyszer frissítjük az 
     <string name="edit_contact">Névjegy szerkesztése</string>
     <string name="edit_contact_card_title">Elemek kiválasztása megosztáshoz</string>
     <string name="edit_contact_photo">Névjegyfénykép szerkesztése</string>
+    <string name="eight">8</string>
+    <string name="eight_letter">TUV</string>
     <string name="email">E-mail</string>
     <string name="emailLabelsGroup">E-mail cím</string>
     <string name="email_custom">E-mail küldése a(z) %s címre</string>
@@ -487,9 +495,14 @@ Oka: \"%s\""</string>
     <string name="favoritesFrequentContacted">Gyakran keresett</string>
     <string name="favorites_list_empty">Nincsenek kedvencek</string>
     <string name="firewall_setting">Tiltólista</string>
+    <string name="five">5</string>
+    <string name="five_letter">JKL</string>
     <string name="force_touch_miprofile">Névjegykártya</string>
     <string name="force_touch_new_contact">Új névjegy</string>
+    <string name="four">4</string>
+    <string name="four_letter">GHI</string>
     <string name="frequentList">Gyakori</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Név</string>
     <string name="gallery">Galéria</string>
     <string name="generic_no_account_prompt">Tartsa névjegyeit biztonságban akkor is, ha elveszíti a telefonját: szinkronizálja egy online szolgáltatással.</string>
@@ -673,6 +686,7 @@ Oka: \"%s\""</string>
     <string name="miprofile_contact_header">Névjegyek névjegykártyákkal</string>
     <string name="miprofile_contact_meaasge">Helyi névjegyek</string>
     <string name="miprofile_contact_verifying">Ellenőrzés</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profil szerkesztése</string>
     <string name="miprofile_error_accept_self">Nem tud saját magával névjegykártyát cserélni</string>
     <string name="miprofile_error_no_miaccount">Jelentkezzen be a Mi Fiókjába</string>
@@ -746,6 +760,8 @@ Oka: \"%s\""</string>
     <string name="nickname_editor_title">Becenév szerkesztése</string>
     <string name="nickname_picker_name_column">Névjegy neve</string>
     <string name="nickname_picker_nickname_column">Elnevezés</string>
+    <string name="nine">9</string>
+    <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Csoportok létrehozásához szükség van egy fiókra.</string>
     <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">Névjegyek visszaállítása a Mi Fiókból</string>
@@ -773,6 +789,7 @@ Oka: \"%s\""</string>
     <string name="notification_action_voicemail_play">Lejátszás</string>
     <string name="notification_new_voicemail_ticker">Új hangpostaüzenet tőle: %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+    <string name="one">1</string>
     <string name="openDialKeyboard">Tárcsázó</string>
     <string name="open_contact">Névjegy megtekintése</string>
     <string name="open_dial_pad_description">Tárcsázó megnyitása</string>
@@ -817,7 +834,10 @@ Oka: \"%s\""</string>
     <string name="path_wipe_data">Rendszeralkalmazások/Névjegyek/Névjegyek rendszerezése/Adatok törlése</string>
     <string name="payphone">Nyilvános telefon</string>
     <string name="people">Névjegyek</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Túl hosszú a telefonszám</string>
     <string name="phone_primary">Elsődleges</string>
     <string name="photoPickerNotFoundText">Nincsenek elérhető képek a készüléken.</string>
@@ -848,6 +868,7 @@ Oka: \"%s\""</string>
     <string name="postal_postcode">Irányítószám</string>
     <string name="postal_region">Állam</string>
     <string name="postal_street">Utca</string>
+    <string name="pound">\#</string>
     <string name="pref_key_photo">Fénykép</string>
     <string name="pref_key_photo_word_summary">A fénykép nélküli névjegyekhez automatikusan rendeljen hozzá egyet</string>
     <string name="pref_key_photo_word_title">Névjegyfotó-hozzárendelés</string>
@@ -977,6 +998,7 @@ Oka: \"%s\""</string>
     <string name="scan_bussiness_card_merge_tip">Az adatütközés javítva</string>
     <string name="scan_duplicate_message">%1$d névjegy azonos adatokkal</string>
     <string name="scan_merge">\"Dupla névjegyek keresése…\"</string>
+    <string name="scan_not_installed">Először telepítse a szkennert</string>
     <string name="scan_qrcode_card_hint1">Olvassa be a fenti QR-kódot</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Oka: \"%s\".</string>
@@ -1027,6 +1049,8 @@ Oka: \"%s\""</string>
     <string name="set_data_package">Először állítsa be az adattervet</string>
     <string name="set_default">Beállítás alapértelmezettként</string>
     <string name="set_photo_failed_msg">Fénykép hozzárendelése nem sikerült</string>
+    <string name="seven">7</string>
+    <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">Névjegyek megosztása, mint</string>
     <string name="share_error">Ez a névjegy nem osztható meg.</string>
     <string name="share_over_limit">Nem lehet 1000 névjegynél többet megosztani</string>
@@ -1037,6 +1061,8 @@ Oka: \"%s\""</string>
     <string name="shortcutContact">Névjegy</string>
     <string name="shortcutDialContact">Közvetlen tárcsázás</string>
     <string name="shortcutMessageContact">Közvetlen üzenet</string>
+    <string name="shortcut_new_contact_label">Új névjegy</string>
+    <string name="shortcut_scan_label">Névjegykártya beolvasása</string>
     <string name="showAllContactsJoinItem">Az összes névjegy megjelenítése</string>
     <string name="simContacts_airplaneMode">A névjegyek importálásához a SIM-kártyáról kapcsolja ki a Repülőgép-üzemmódot</string>
     <string name="simContacts_empty">Nincs névjegy a SIM-kártyán</string>
@@ -1067,6 +1093,9 @@ Oka: \"%s\""</string>
     <string name="sim_unloaded">Nincs SIM-kártya a készülékbe helyezve</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nincs tag a csoportban</string>
+    <string name="six">6</string>
+    <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Cégek</string>
     <string name="smart_group_company_unavailable">Nincs céginformáció</string>
     <string name="smart_group_frequency_1">Az elmúlt hónapban</string>
@@ -1106,6 +1135,8 @@ Oka: \"%s\""</string>
     <string name="special_code_security_exception">A művelet nem fejezhető be. Nem ez az alapértelmezett tárcsázója.</string>
     <string name="splitConfirmation">Ezt a névjegyet több névjegyre választja szét.</string>
     <string name="splitConfirmation_title">Szétválasztja a névjegyet?</string>
+    <string name="star">*</string>
+    <string name="star_letter">,</string>
     <string name="starredList">Csillagozott</string>
     <string name="starred_contacts">Kedvencek</string>
     <string name="status_available">Elérhető</string>
@@ -1125,6 +1156,8 @@ Oka: \"%s\""</string>
     <string name="t9_search_guide_zhuyin_title2">Írjon be \"5\"-öt és \"6\"-ot \"<font fgcolor="">J</font>ózsef <font fgcolor="">M</font>ária\" kereséséhez</string>
     <string name="take_new_photo">Új fénykép készítése</string>
     <string name="take_photo">Fénykép készítése</string>
+    <string name="three">3</string>
+    <string name="three_letter">DEF</string>
     <string name="titleJoinContactDataWith">Névjegyek összekapcsolása</string>
     <string name="title_other_devices">Egyéb elérhető készülékek</string>
     <string name="title_paired_devices">Párosított készülékek</string>
@@ -1144,6 +1177,8 @@ Oka: \"%s\""</string>
     <string name="toast_text_copied">Szöveg kimásolva</string>
     <string name="today">Ma</string>
     <string name="transfer_accounts">Fiókok átvitele</string>
+    <string name="two">2</string>
+    <string name="two_letter">ABC</string>
     <string name="type_incoming">Bejövő hívás</string>
     <string name="type_missed">Nem fogadott hívás</string>
     <string name="type_mx_msg">Mi Üzenet</string>
@@ -1201,9 +1236,11 @@ Válasszon az alábbi lehetőségek közül:"</string>
     <string name="voip_audio_description">VoIP hívás</string>
     <string name="voip_video_description">VoIP videóhívás</string>
     <string name="websiteLabelsGroup">Honlap</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Adattörlés</string>
     <string name="yellowPageNavigationIconLabel">Yellow pages</string>
     <string name="yellowPageNavigationLabel">Yellow pages</string>
+    <string name="yellowpage_address_tag">Cím</string>
     <string name="yellowpage_fc_toast">Nem lehet ezt a funkciót használni a Yellow Pages összeomlása miatt.</string>
     <string name="yellowpage_navigation_ad_hint">Reklám</string>
     <string name="yellowpage_navigation_balance_refresh_failed">Egyenleg és mobiladatok hitelesítése sikertelen, próbálja újra később.</string>
@@ -1224,7 +1261,10 @@ Válasszon az alábbi lehetőségek közül:"</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Letöltés…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Nem sikerült csatlakozni a hálózathoz</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Hozzáadva a Kezdőképernyőhöz</string>
+    <string name="yellowpage_provider_label">Adatok kiszolgálója:</string>
     <string name="yellowpage_search_the_yellowpage">Yellow pages keresés</string>
     <string name="yellowpage_user_profile">Profil</string>
+    <string name="zero">0</string>
     <string name="zero_items_selected">Elemek kiválasztása</string>
+    <string name="zero_letter">+</string>
 </resources>

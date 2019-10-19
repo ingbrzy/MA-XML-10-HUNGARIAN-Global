@@ -156,6 +156,14 @@
         <item quantity="other">Tartalmaznia kell legalább %d nagybetűt</item>
         <item quantity="one">Tartalmaznia kell legalább 1 nagybetűt</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Legfeljebb %d karaktert adhat meg</item>
+        <item quantity="one">Legfeljebb %d karaktert adhat meg</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Adjon meg legalább %d karaktert</item>
+        <item quantity="one">Adjon meg legalább %d karaktert</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">A PIN-kód %d számjegy kell legyen</item>
         <item quantity="one">A PIN-kód %d számjegy kell legyen</item>

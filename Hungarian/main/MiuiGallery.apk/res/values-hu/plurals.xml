@@ -44,6 +44,10 @@
         <item quantity="other">(%d elem)</item>
         <item quantity="one">(%d elem)</item>
     </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d elem</item>
+        <item quantity="one">%1$d elem</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%2$s %1$d fényképe lesz hozzáadva</item>
         <item quantity="one">%2$s %1$d fényképe lesz hozzáadva</item>
@@ -61,8 +65,8 @@
         <item quantity="one">%d tétel túl nagy a biztonsági mentéshez</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d fénykép vagy videó | Szüneteltetve</item>
-        <item quantity="one">%d fénykép vagy videó | Szüneteltetve</item>
+        <item quantity="other">%d perc múlva folytatódik</item>
+        <item quantity="one">%d perc múlva folytatódik</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d fénykép és videó | %2$s</item>
@@ -77,12 +81,16 @@
         <item quantity="one">%d fénykép</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">%d kiválasztott kép mentése és a többi törlése?</item>
-        <item quantity="one">%d kiválasztott kép mentése és a többi törlése?</item>
+        <item quantity="other">Törli azt a(z) %d fotót, amit nem választott ki?</item>
+        <item quantity="one">Törli azt a(z) %d fotót, amit nem választott ki?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">%d kép törlése</item>
+        <item quantity="one">%d kép törlése</item>
     </plurals>
     <plurals name="burst_save_selected">
-        <item quantity="other">%d kiválasztott kép mentése</item>
-        <item quantity="one">%d kiválasztott kép mentése</item>
+        <item quantity="other">%d kiválasztott kép megtartása</item>
+        <item quantity="one">%d kiválasztott kép megtartása</item>
     </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d fénykép</item>
@@ -105,56 +113,60 @@
         <item quantity="one">%d elem kiválasztva</item>
     </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">%d sorozatkép törlése a MiCloudból és az összes szinkronizált eszközről?</item>
-        <item quantity="one">%d sorozatkép törlése a MiCloudból és az összes szinkronizált eszközről?</item>
+        <item quantity="other">%d sorozatkép törlése a Xiaomi Cloudból és az összes szinkronizált eszközről?</item>
+        <item quantity="one">%d sorozatkép törlése a Xiaomi Cloudból és az összes szinkronizált eszközről?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">%d sorozatkép törlése?</item>
         <item quantity="one">%d sorozatkép törlése?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">%d sorozatkép törlése a MiCloudból és erről az eszközről?</item>
-        <item quantity="one">%d sorozatkép törlése a MiCloudból és erről az eszközről?</item>
+        <item quantity="other">%d sorozatkép törlése a Xiaomi Cloudból és erről az eszközről?</item>
+        <item quantity="one">%d sorozatkép törlése a Xiaomi Cloudból és erről az eszközről?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d elem törölve</item>
+        <item quantity="one">%d elem törölve</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">Töröl %d elemet az összes készülékéről és a Mi Cloudból is?</item>
-        <item quantity="one">Töröl %d elemet az összes készülékéről és a Mi Cloudból is?</item>
+        <item quantity="other">Töröl %d tételt az összes készülékéről és a Xiaomi Cloudból is?</item>
+        <item quantity="one">Töröl %d tételt az összes készülékéről és a Xiaomi Cloudból is?</item>
     </plurals>
     <plurals name="delete_media_from_local">
         <item quantity="other">Töröl %d elemet?</item>
         <item quantity="one">Töröl %d elemet?</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Töröl %d elemet ebből az albumból és a Mi Cloudból is?</item>
-        <item quantity="one">Töröl %d elemet ebből az albumból és a Mi Cloudból is?</item>
+        <item quantity="other">Töröl %d tételt ebből az albumból és a Xiaomi Cloudból is?</item>
+        <item quantity="one">Töröl %d tételt ebből az albumból és a Xiaomi Cloudból is?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Töröl %d fényképet az összes készülékéről és a Mi Cloudból is?</item>
-        <item quantity="one">Törli ezt a fényképet az összes készülékéről és a Mi Cloudból is?</item>
+        <item quantity="other">Töröl %d fényképet az összes készülékéről és a Xiaomi Cloudból is?</item>
+        <item quantity="one">Töröl %d fényképet az összes készülékéről és a Xiaomi Cloudból is?</item>
     </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">Töröl %d fényképet?</item>
-        <item quantity="one">Törli ezt a fényképet?</item>
+        <item quantity="one">Töröl %d fényképet?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Töröl %d fényképet ebből az albumból és a Mi Cloudból is?</item>
-        <item quantity="one">Törli ezt a fényképet ebből az albumból és a Mi Cloudból is?</item>
+        <item quantity="other">Töröl %d fényképet ebből az albumból és a Xiaomi Cloudból is?</item>
+        <item quantity="one">Töröl %d fényképet ebből az albumból és a Xiaomi Cloudból is?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">%d sorozatkép törlése az eszközről?</item>
         <item quantity="one">%d sorozatkép törlése az eszközről?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Töröl %d videót az összes készülékéről és a Mi Cloudból is?</item>
-        <item quantity="one">Törli ezt a videót az összes készülékéről és a Mi Cloudból is?</item>
+        <item quantity="other">Töröl %d videót az összes készülékéről és a Xiaomi Cloudból is?</item>
+        <item quantity="one">Töröl %d videót az összes készülékéről és a Xiaomi Cloudból is?</item>
     </plurals>
     <plurals name="delete_video_from_local">
         <item quantity="other">Töröl %d videót?</item>
-        <item quantity="one">Törli ezt a videót?</item>
+        <item quantity="one">Töröl %d videót?</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">Töröl %d videót ebből az albumból és a Mi Cloudból is?</item>
-        <item quantity="one">Törli ezt a videót ebből az albumból és a Mi Cloudból is?</item>
+        <item quantity="other">Töröl %d videót ebből az albumból és a Xiaomi Cloudból is?</item>
+        <item quantity="one">Töröl %d videót ebből az albumból és a Xiaomi Cloudból is?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">Nem sikerült letölteni %1$d fájlt</item>
@@ -175,6 +187,10 @@
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d fénykép kihagyva, amelyeket nem lehetett megjeleníteni.</item>
         <item quantity="one">Egy fénykép kihagyva, amelyet nem lehetett megjeleníteni.</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d fájl</item>
+        <item quantity="one">%1$d fájl</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d elem vár mentésre</item>
@@ -279,6 +295,10 @@
     <plurals name="send_processing_files_error">
         <item quantity="other">Megosztás sikertelen. %d fénykép még feldolgozás alatt…</item>
         <item quantity="one">Megosztás sikertelen. %d fénykép még feldolgozás alatt…</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d másodperc</item>
+        <item quantity="one">%1$d másodperc</item>
     </plurals>
     <plurals name="slim_complete_photo_count">
         <item quantity="other">%d fénykép optimalizálva</item>

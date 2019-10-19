@@ -2,7 +2,7 @@
 <resources>
     <string name="alert_message_clear_records">Törli a kiválasztott felvételt?</string>
     <string name="alert_message_delete_local_record">Törli ezt a felvételt?</string>
-    <string name="alert_message_delete_record">Ha törli a felvételt a készülékéről, törölni fogja azt a Mi Cloudból is. Biztosan törli most?</string>
+    <string name="alert_message_delete_record">Ha törli a felvételt a készülékéről, törölni fogja azt a Xiaomi Cloudból is. Biztosan törli most?</string>
     <string name="alert_message_delete_record_title">Törli a felvételt?</string>
     <string name="app_name">Hangrögzítő</string>
     <string name="back">Vissza</string>
@@ -14,12 +14,12 @@
     <string name="call_record_list_group_unconnected">Nincs csatlakozva</string>
     <string name="clear_records">A szinkronizált felvételek törlése</string>
     <string name="cloud_record_open">Felvételek szinkronizálása</string>
-    <string name="cloud_record_tip">Felvételek szinkronizálása a Mi Clouddal.</string>
-    <string name="cloud_service_state_open_reminder">A hangfelvételek szinkronizálásához kapcsolja be a Mi Cloud szinkronizálást.</string>
+    <string name="cloud_record_tip">Felvételszinkronizálás a Xiaomi Clouddal.</string>
+    <string name="cloud_service_state_open_reminder">A hangfelvételek szinkronizálásához kapcsolja be a szinkronizálást.</string>
     <string name="cloud_status_full_dialog_cancel">Most nem</string>
     <string name="cloud_status_full_dialog_msg">A Mi Cloud tárhely megtelt, a felvételek nem szinkronizálhatóak. Bővítse a Mi Fiók tárhelyének kapacitását.</string>
     <string name="cloud_status_full_dialog_ok">Bővítés</string>
-    <string name="cloud_status_full_dialog_title">A Mi Cloud tárhely megtelt</string>
+    <string name="cloud_status_full_dialog_title">A Xiaomi Cloud tárhely megtelt</string>
     <string name="data_connection_body">A mobiladat-kapcsolattal történő fájlletöltés növeli az adatforgalmat. Ha túllépi az adatforgalmazási limitet, a szolgáltató további díjakat számolhat fel.</string>
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Tipp</string>
@@ -28,7 +28,7 @@
     <string name="deleting_message">Törlés...</string>
     <string name="details">Részletek</string>
     <string name="dialog_content_storage_full">A felvétel leállitva, mert elfogyott a tárhely a készülékén.</string>
-    <string name="dialog_privacy_revoke_tips">Miután visszavonta az engedélyt, az alkalmazás nem gyűjt többé adatokat, és az összes kapcsolódó adatot törli a kiszolgálókról. Ez gyakorlatilag használhatatlanná teheti az alkalmazást. Mégis visszavonja az engedélyt? A fiókbiztonság érdekében jelentkezzen be az i.mi.com weboldalra, mielőtt visszavonja a Mi Cloud szolgáltatás engedélyét.</string>
+    <string name="dialog_privacy_revoke_tips">Miután visszavonta az engedélyt, az alkalmazás nem gyűjt többé adatokat, és az összes kapcsolódó adatot törli a kiszolgálókról. Ez gyakorlatilag használhatatlanná teheti az alkalmazást. Mégis visszavonja az engedélyt? A fiókbiztonság érdekében jelentkezzen be az i.mi.com weboldalra, mielőtt visszavonja a Xiaomi Cloud szolgáltatás engedélyét.</string>
     <string name="dialog_title_storage_full">Nincs elég tárhely</string>
     <string name="download">Letöltés</string>
     <string name="duration_format_hour">%só</string>
@@ -180,7 +180,7 @@
     <string name="recognize_extra_price_desp">(Exkluzív ajánlat Mi-felhasználók számára)</string>
     <string name="record">Rögzítés</string>
     <string name="record_back_pressed_hint">Kattintson újra a felvétel leállításához</string>
-    <string name="record_download">Letöltés a Mi Cloudból</string>
+    <string name="record_download">Letöltés a Xiaomi Cloudból</string>
     <string name="record_download_complete">Kész</string>
     <string name="record_download_msg">A felvétel csak a letöltés befejeztével játszható le.</string>
     <string name="record_download_msg_reload">A felvétel nem található</string>
@@ -245,7 +245,9 @@
     <string name="status_bar_back">Vissza a felvételekhez</string>
     <string name="status_bar_recording">Rögzítés...</string>
     <string name="status_bar_recording_pause">A felvétel szüneteltetve.</string>
+    <string name="text_btn_backward_3_seconds">3 másodperccel vissza</string>
     <string name="text_btn_complete">Leállítás</string>
+    <string name="text_btn_forward_3_seconds">3 másodperccel előre</string>
     <string name="text_btn_list">Hangfelvételek</string>
     <string name="text_btn_mark">Megjelölés</string>
     <string name="text_btn_pause">Szünet</string>
@@ -255,11 +257,16 @@
     <string name="text_btn_recording">Rögzítés</string>
     <string name="text_btn_wave">Hanghullám</string>
     <string name="text_finish">OK</string>
+    <string name="text_play_speed_0_5">0,5X visszajátszási sebesség</string>
+    <string name="text_play_speed_1_0">Általános visszajátszási sebesség</string>
+    <string name="text_play_speed_1_5">1,5X visszajátszási sebesség</string>
+    <string name="text_play_speed_2_0">2X visszajátszási sebesség</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">Alk:%1$s maximum %2$s felvételt támogat</string>
     <string name="toast_uninstall_fileexplorer">Fájlkezelő nincs telepítve</string>
+    <string name="usage_description">Audió átírása és elemek szinkronizálása a felhővel</string>
     <string name="webview_check_network">Hálózati beállítások</string>
     <string name="webview_data_error">Hiba történt</string>
     <string name="webview_locating_fail">Helymeghatározás sikertelen</string>

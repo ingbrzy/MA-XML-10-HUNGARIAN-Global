@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -92,6 +110,7 @@
         <item>Qualcomm® aptX™ HD audió</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audió</item>
+        <item>LHDC</item>
         <item>A választható kodekek engedélyezése</item>
         <item>A választható kodekek tiltása</item>
     </string-array>
@@ -103,6 +122,7 @@
         <item>Qualcomm® aptX™ HD audió</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audió</item>
+        <item>LHDC</item>
         <item>A választható kodekek engedélyezése</item>
         <item>A választható kodekek tiltása</item>
     </string-array>

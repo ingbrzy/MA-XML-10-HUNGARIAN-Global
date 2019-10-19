@@ -14,19 +14,19 @@
     <string name="DesAvast">Avast</string>
     <string name="tencent_dialog_title">A Tencent Adatvédelmi irányelvei</string>
     <string name="tencent_dialog_header">Ez a funkció titkosítja és feltölti a készülék azonosítóját a Tencent szerverére (%s).</string>
-    <string name="tencent_dialog_policy">Adatvédelmi irányelvek megtekintése</string>
+    <string name="tencent_dialog_policy">Adatvédelmi Irányelvek</string>
     <string name="tencent_dialog_cloudscan">Alkalmazások neveinek és adatainak feltöltése és átvizsgálása online adatbázisok használatával.</string>
     <string name="tencent_dialog_dbupdate">Automatikus vírus adatbázis frissítés</string>
     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
     <string name="avl_dialog_title">Az AVL Adatvédelmi irányelvei</string>
     <string name="avl_dialog_header">Ez a funkció titkosítja és feltölti a készülék azonosítóját az AVL szerverére (%s).</string>
-    <string name="avl_dialog_policy">Adatvédelmi irányelvek megtekintése</string>
+    <string name="avl_dialog_policy">Adatvédelmi Irányelvek</string>
     <string name="avl_dialog_cloudscan" />
     <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="avast_dialog_title">Az Avast Adatvédelmi irányelvei</string>
     <string name="avast_dialog_header">Ez a funkció titkosítja és feltölti a készülék azonosítóját az Avast szerverére (%s).</string>
-    <string name="avast_dialog_policy">Adatvédelmi irányelvek megtekintése</string>
+    <string name="avast_dialog_policy">Adatvédelmi Irányelvek</string>
     <string name="avast_dialog_cloudscan" />
     <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>

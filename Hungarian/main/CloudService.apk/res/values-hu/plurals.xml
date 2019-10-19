@@ -61,8 +61,8 @@
         <item quantity="one">%d rejtett fénykép nincs szinkronizálva. Megőrzésük érdekében, szinkronizálásuk után jelentkezzen ki, ellenkező esetben az elemek törlésre kerülnek.</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">A szinkronizálás szüneteltetve. %d perc múlva folytatódik…</item>
-        <item quantity="one">A szinkronizálás szüneteltetve. %d perc múlva folytatódik…</item>
+        <item quantity="other">%d perc múlva folytassa a szinkronizálást</item>
+        <item quantity="one">%d perc múlva folytassa a szinkronizálást</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">%s perce</item>
@@ -73,7 +73,7 @@
         <item quantity="one">%s órája</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s szolgáltatás kerül Mi Cloud-szinkronizálásra</item>
-        <item quantity="one">%s szolgáltatás kerül Mi Cloud-szinkronizálásra</item>
+        <item quantity="other">%s szolgáltatás kerül Xiaomi Cloud-szinkronizálásra</item>
+        <item quantity="one">%s szolgáltatás kerül Xiaomi Cloud-szinkronizálásra</item>
     </plurals>
 </resources>
