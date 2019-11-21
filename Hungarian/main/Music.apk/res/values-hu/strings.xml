@@ -615,7 +615,6 @@
     <string name="priority_storage_summary">Fájlok automatikus mentése az SD-kártyára, ha rendelkezésre áll</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
     <string name="privacy_policy">Adatvédelmi Irányelvek</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=hu_HU</string>
     <string name="pro_member">PRO tag</string>
     <string name="project_device">Mi Telefon</string>
     <string name="prompt_grant_write_settings_permission">Rendszerbeállítások módosításának engedélyezése</string>
@@ -805,7 +804,6 @@
     <string name="upgrade_music_message">Frissítések készen állnak. Indítsa újra a frissítéshez.</string>
     <string name="upgrading_in_backstage">Frissítés a háttérben…</string>
     <string name="user_agreement">Felhasználói Szerződés</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=hu_HU</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
     <string name="version_info">Verzió</string>

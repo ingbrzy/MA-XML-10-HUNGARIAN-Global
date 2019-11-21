@@ -18,7 +18,6 @@
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="search_menu_title">Keresés</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ad_downloading">Letöltés…</string>
     <string name="app_name">Rendszerszolgáltatási beépülő modul</string>
     <string name="app_select_title">Gyakran használt alkalmazások hozzáadása</string>
@@ -36,7 +35,6 @@
     <string name="dialog_market_score_title_step2">Köszönjük visszajelzését!</string>
     <string name="dual_app_title">Kettős alkalmazások</string>
     <string name="dual_app_words">Minden fiók megérdemli a saját alkalmazását</string>
-    <string name="empty">" "</string>
     <string name="fastboot_locked_answer_1">A fastboot a Mi készülékek flashelésének hagyományos módszere. Azért zárjuk a fastboot módot, hogy biztosítsuk adatainak biztonságát a készülék elvesztésének esetén, valamint garantáljuk a Készülékkeresés funkció megbízhatóságát.</string>
     <string name="fastboot_locked_answer_2">Ha elveszti a készülékét, az engedélyezett fastboot mód nem biztosítja adatainak biztonságát. Engedélyezett fastboottal nem lesz képes a telefon távolról való lezárására vagy adatainak törlésére a Készülékkeresés használatával. Ezért nem ajánljuk a fastboot mód engedélyezését a készüléken.</string>
     <string name="fastboot_locked_answer_3">A MIUI weboldalán található nyitóprogramot kell használnia. A készüléke nyitásához meg kell győződnünk róla, hogy az Önhöz tartozik. Ezért kell bejelentkeznie a Mi Fiókjával és bekapcsolnia a Készülékkeresést.</string>
