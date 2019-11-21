@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="accept">Elfogadás</string>
     <string name="accept_or_deny">%1$s megosztotta %2$s albumát Önnel.</string>
     <string name="actionbar_overflow_item_desc">További lehetőségek</string>
@@ -101,7 +128,7 @@
     <string name="alert_selection_description">A MIUI kielemzi a hasonló képeket és megjelöli az Önről készült legjobb képeket.</string>
     <string name="alert_selection_title">Legjobb fotó kiválasztása</string>
     <string name="all_faces">Fényképek ezzel a személlyel</string>
-    <string name="all_items_synced">Az összes album mentve lett a Xiaomi Cloudba</string>
+    <string name="all_items_synced">Az összes album szinkronizálásra került a felhővel</string>
     <string name="all_video_album_display_name">Összes videó</string>
     <string name="already_create_baby_album">Babaalbum már van a Xiaomi Cloudban.</string>
     <string name="and"> és </string>
@@ -116,20 +143,20 @@
     <string name="assistant_page_label">Emlékek</string>
     <string name="assistant_page_server_error">Ellenőrizze a hálózati beállításait</string>
     <string name="associate_face_album">Válasszon egy albumot</string>
-    <string name="auto_backup_introduce">Fényképek és videók automatikus mentése (Mi Fiók szükséges)</string>
+    <string name="auto_backup_introduce">Fényképek és videók automatikus szinkronizálása (Mi Fiók szükséges)</string>
     <string name="auto_download_media_title">Automatikus fényképletöltés a Xiaomi Cloudból</string>
     <string name="auto_update_face">Fényképek automatikus hozzáadása</string>
     <string name="auto_update_face_summary">Fényképek automatikus Babaalbumhoz adása</string>
     <string name="auto_update_off">Ki</string>
     <string name="auto_update_on">Be</string>
-    <string name="auto_upload_before_share_message">Megosztás előtt mentse el ezt az albumot a Xiaomi Cloudba</string>
+    <string name="auto_upload_before_share_message">Megosztás előtt szinkronizálja az albumot a Xiaomi Clouddal</string>
     <string name="auto_upload_before_share_title">Megjegyzés</string>
     <string name="auto_upload_disable_tip">Felhőszinkronizálás kikapcsolva</string>
     <string name="auto_upload_disable_toast_long_press_menu">Felhőszinkronizálás kikapcsolva</string>
     <string name="auto_upload_enable_toast_long_press_menu">Felhőszinkronizálás bekapcsolva</string>
     <string name="baby_album">Baba album</string>
     <string name="baby_album_change_background">Háttérfénykép megváltoztatása</string>
-    <string name="baby_album_needs_auto_backup_tip">Nem lehet kikapcsolni a Babaalbum mentését</string>
+    <string name="baby_album_needs_auto_backup_tip">Nem lehet kikapcsolni a Babaalbum automatikus szinkronizálását</string>
     <string name="baby_album_new_photo_remind">Új fényképek vannak a Babaalbumban.</string>
     <string name="baby_album_setting_title">Baba adatai</string>
     <string name="baby_album_settings">Babaalbum beállításai</string>
@@ -151,8 +178,8 @@
     <string name="baby_sexy">Nem</string>
     <string name="baby_suffix">baba</string>
     <string name="back">Vissza</string>
-    <string name="backup_automatically_summary">Mentse le a fényképeket és videókat az összes készülékéről a Xiaomi Cloudba. Kényelmesen böngészheti, rendezheti, szerkesztheti és megoszthatja a fényképeket és videókat az összes készüléken.</string>
-    <string name="backup_automatically_title">Automatikus mentés</string>
+    <string name="backup_automatically_summary">Szinkronizálja a fényképeket és videókat az összes készülékéről a Xiaomi Cloudba. Kényelmesen böngészheti, rendezheti, szerkesztheti és megoszthatja a fényképeket és videókat az összes készüléken.</string>
+    <string name="backup_automatically_title">Automatikus szinkronizálás</string>
     <string name="backup_battery_low_desc">Továbbra is úgy dönthet az elemek mentésének folytatása mellett</string>
     <string name="backup_battery_low_title">Mentés szüneteltetve az alacsony akkumulátorszint miatt</string>
     <string name="backup_close">Mentés lezárása</string>
@@ -163,7 +190,7 @@
     <string name="backup_cta_not_allow_desc">Automatikus mentés elfogadása</string>
     <string name="backup_cta_not_allow_title">Nincs hozzáférés a hálózathoz</string>
     <string name="backup_detail_page_empty">Nem várakozik mentésre sem fénykép, sem videó</string>
-    <string name="backup_detail_page_title">Xiaomi Cloud biztonsági mentés</string>
+    <string name="backup_detail_page_title">Szinkronizált elemek</string>
     <string name="backup_device_space_low_btn_text">Törlés</string>
     <string name="backup_device_space_low_desc">Szabadítson fel tárhelyet a mentés folytatásához</string>
     <string name="backup_device_space_low_title">Nincs elég szabad tárhely</string>
@@ -179,15 +206,16 @@
     <string name="backup_no_wifi_btn_text">Mobiladat-kapcsolat használata</string>
     <string name="backup_no_wifi_desc">Mobiladat-kapcsolatot használva is készíthet mentést</string>
     <string name="backup_no_wifi_title">Wi-Fi-hez való csatlakozás után a szinkronizálás folytatódik</string>
-    <string name="backup_only_in_wifi">Fényképek és videók mentése csak Wi-Fi használatával</string>
-    <string name="backup_only_in_wifi_summary">Soha ne használja a mobiladat-kapcsolatot a fényképek és videók mentéséhez</string>
-    <string name="backup_only_wifi_dialog_message">Használjon mobiladat-kapcsolatot a fényképek és videók mentéséhez?</string>
+    <string name="backup_only_in_wifi">Fényképek és videók mentése csak Wi‑Fi használatával</string>
+    <string name="backup_only_in_wifi_summary">Soha ne használja a mobiladat-kapcsolatot a fényképek és videók szinkronizálásához</string>
+    <string name="backup_only_wifi_dialog_message">Mobiladat-kapcsolat használata a fényképek és videók mentéséhez?</string>
     <string name="backup_pause">Mentés szüneteltetése</string>
+    <string name="backup_pause_dialog_title">Szinkronizálás szüneteltetése</string>
     <string name="backup_pause_title">Szinkronizálás szüneteltetve</string>
     <string name="backup_pending">Automatikusan mentésre kerülnek</string>
     <string name="backup_stop">Mentés megállítása</string>
     <string name="backup_sync_dialog_confirm">Bekapcsolás</string>
-    <string name="backup_sync_dialog_tips">Kapcsolja be a szinkronizálást a felhővel a mentések beállításainak változtatásához.</string>
+    <string name="backup_sync_dialog_tips">A beállítások módosításához kapcsolja be a felhóvel való szinkronizálást.</string>
     <string name="backup_sync_dialog_title">Szinkronizálás kikapcsolva</string>
     <string name="backup_sync_error_btn_text">Próbálja újra</string>
     <string name="backup_sync_error_desc">Nem tud csatlakozni a Xiaomi Cloudhoz</string>
@@ -221,7 +249,7 @@
     <string name="by_others">Egyéb</string>
     <string name="by_sms">SMS</string>
     <string name="byteShort">B</string>
-    <string name="camera_needs_auto_backup_tip">Kamera album elmentve</string>
+    <string name="camera_needs_auto_backup_tip">A Kamera albumot szinkronizálni kell</string>
     <string name="cancel">Mégse</string>
     <string name="cancel_baby_lock_wallpaper_confirm_msg">Átvált alapértelmezett háttérre a képernyőzáron?</string>
     <string name="cancel_download_btn_text">Leállítás</string>
@@ -249,6 +277,9 @@
     <string name="chooser_fragment_mishare_title">Megosztás a következővel</string>
     <string name="cleaner_empty_value_description">Minden jónak tűnik</string>
     <string name="cleaner_photo_pick_delete_selected">Törölje a kiválasztott fényképeket</string>
+    <string name="cleaner_raw_action">Törlés</string>
+    <string name="cleaner_raw_description">Tárhely felszabadítása nagyméretű RAW-képek törlésével</string>
+    <string name="cleaner_raw_title">RAW-fájlok törlése</string>
     <string name="cleaner_scan_description">Az elemek optimalizálása tárhelyet szabadít fel a készülékén</string>
     <string name="cleaner_scan_exit_dialog_message">Legközelebb újra kell majd kezdenie. Leállítja most a keresést?</string>
     <string name="cleaner_scan_exit_dialog_positive">Leállítás</string>
@@ -279,13 +310,13 @@
     <string name="close">Bezárás</string>
     <string name="close_dialog_desc">Párbeszédablak bezárása</string>
     <string name="cloud_camera_display_name">Kamera fényképei</string>
-    <string name="cloud_guide_auto_backup_title">Válasszon albumot a mentéshez</string>
+    <string name="cloud_guide_auto_backup_title">Válassza ki a szinkronizálandó albumokat</string>
     <string name="cloud_guide_login_title">Fényképek és videók automatikus mentése</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
-    <string name="cloud_privacy_with_ai_album">Adatvédelmi nyilatkzat az automatikus biztonsági mentésekről és képfeldolgozásról</string>
-    <string name="cloud_privacy_with_face">Adatvédelmi nyilatkzat az automatikus biztonsági mentésekről és arcfelismerésről</string>
+    <string name="cloud_privacy_with_ai_album">Adatvédelmi nyilatkozat az automatikus biztonsági mentésekről és képfeldolgozásról</string>
+    <string name="cloud_privacy_with_face">Adatvédelmi nyilatkozat az automatikus biztonsági mentésekről és arcfelismerésről</string>
     <string name="cloud_screenshots_display_name">Képernyőképek</string>
-    <string name="cloud_settings">Galéria mentések</string>
+    <string name="cloud_settings">Szinkronizálás</string>
     <string name="cloud_storage_extend">Növelje a felhőtárhelyet</string>
     <string name="cloud_storage_ok_append_desc">Elérhető %s</string>
     <string name="cloud_storage_ok_desc">Xiaomi Cloud tárhely %s</string>
@@ -554,6 +585,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="face_name_edit">Szerkesztés</string>
     <string name="face_name_input">Írja be a nevet</string>
     <string name="face_recommend">Ajánlások</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Nem sikerült befejezni a műveletet</string>
     <string name="fail_to_pick_email">Érvénytelen e-mail cím</string>
     <string name="fail_to_sync_album">Album szinkronizálása sikertelen. Ellenőrizze a hálózat állapotát és próbálja újra.</string>
@@ -564,6 +596,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="feature_guidance_photo_effects">"Új fényképeffektek 
 érhetők el"</string>
     <string name="feature_guidance_video_editor_smart_effects">Új effektek érhetők el</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">Ez az elem nem nyomtatható.</string>
     <string name="file_cannot_screen_throw">Ez az elem nem vetíthető ki.</string>
     <string name="file_sending">Fájlátvitel…</string>
@@ -586,6 +619,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="filter_category_scene">Tájkép</string>
     <string name="filter_category_sky">Ég</string>
     <string name="filter_film_blackwhite">Fekete-fehér</string>
+    <string name="filter_film_classic">Klasszikus</string>
     <string name="filter_film_dew">Könnyes</string>
     <string name="filter_film_fade">Fakó</string>
     <string name="filter_film_film">Film</string>
@@ -694,6 +728,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Beállítáa</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"A megfelelő működéshez a Galéria hozzáférést igényel ehhez: 
 %s
 , kattintson a \"Beállítás\" gombra az Engedélyekre lépéshez."</string>
@@ -786,7 +821,10 @@ Készítsen több fotót a barátairól!"</string>
     <string name="main_discard_confirm_message">El nem mentett változtatásai vannak.</string>
     <string name="main_discard_negative_btn">Elvetés</string>
     <string name="main_discard_positive_btn">Mentés és Kilépés</string>
+    <string name="main_save_cancel">Mégsem</string>
+    <string name="main_save_compress">Tömörítés és mentés</string>
     <string name="main_save_error_msg">Hiba miatt nem menthető</string>
+    <string name="main_save_origin">Eredeti fájl mentése</string>
     <string name="mark_myself_default_name">Én</string>
     <string name="mark_myself_suggestion_load_more">Ez nem én vagyok</string>
     <string name="mark_myself_suggestion_title">"A Galéria személyre szabásához
@@ -805,7 +843,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="merge_album_title">Összekapcsolás egy személlyel</string>
     <string name="messagelist_sender_self">Én</string>
     <string name="mi_drop">Mi Megosztás</string>
-    <string name="micloud_introduce">Fényképek és videók automatikus mentése (Mi Fiók szükséges)</string>
+    <string name="micloud_introduce">Fényképek és videók automatikus szinkronizálása (Mi Fiók szükséges)</string>
     <string name="midnight">AM</string>
     <string name="monday">Monday</string>
     <string name="monday_short">Mon</string>
@@ -996,6 +1034,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="people_mark_mode_title_no_mark_name">Válasszon ki egy személyt</string>
     <string name="people_page_label">Személyek</string>
     <string name="people_page_unname">Névtelen</string>
+    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">Névjegyek hozzárendeléséhez a fényképeken szereplő emberekhez</string>
     <string name="permission_contacts_name">Névjegyek</string>
     <string name="permission_optional_category">Opcionális engedélyek</string>
@@ -1205,8 +1244,13 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="screen_doodle_talkback_size">Doodle vonalszélesség</string>
     <string name="screen_editor_btn_delete">Törlés</string>
     <string name="screen_editor_btn_save">Mentés</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Törli ezt a képernyőképet?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Kész</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Törlés</string>
     <string name="screen_save_dialog_btn_delete">Képernyőkép törlése</string>
     <string name="screen_save_dialog_btn_save">Mentés a Galériába</string>
@@ -1243,6 +1287,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="search_login_title_full_screen">Lépjen be Mi Fiókjával, hogy rátaláljon még több személyre és dologra</string>
     <string name="search_mark_feedback_false_negative_title">OK</string>
     <string name="search_mark_feedback_false_positive_title">Javítás</string>
+    <string name="search_menu_title">Keresés</string>
     <string name="search_net_error">Hálózati hiba történt. Csatlakozzon egy másik hálózathoz, majd próbálja újra.</string>
     <string name="search_request_applied">Alkalmazva</string>
     <string name="search_request_open">Csatlakozzon a tesztcsapathoz</string>
@@ -1264,6 +1309,9 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="search_title_recommend">Ajánlott</string>
     <string name="search_title_suggestion">Javaslatok</string>
     <string name="search_title_tag">Tárgyak</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Projektor keresése…</string>
     <string name="secret_album_card_description">A legjobb hely az Ön kis titkai számára</string>
     <string name="secret_album_card_title">Próbálja ki a rejtett albumot</string>
@@ -1312,7 +1360,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="setup_network_connection">Hálózati beállítások</string>
     <string name="share">Megosztás</string>
     <string name="share_album">Album megosztása</string>
-    <string name="share_album_needs_auto_upload_tip">Megosztott albumok mentését nem lehet kikapcsolni</string>
+    <string name="share_album_needs_auto_upload_tip">Megosztott albumok esetén nem kapcsolható ki a felhővel való szinkronizálás</string>
     <string name="share_album_qr_code">Album QR-kódja</string>
     <string name="share_by_email_start">%1$s megosztása a háttérben</string>
     <string name="share_by_email_successfully">%1$s megosztva</string>
@@ -1500,6 +1548,8 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="unpublish_failed">A közzététel visszavonása nem sikerült</string>
     <string name="unpublish_succeeded">Album nincs közzétéve</string>
     <string name="unpublishing">Visszavonás…</string>
+    <string name="unsupport_raw">%s nem működik RAW-képekkel</string>
+    <string name="unsupport_raw_and_video">%s nem működik videókkal és RAW-képekkel</string>
     <string name="unsupport_video">A(z) %s nem működik videóval</string>
     <string name="user_agree">Elfogadás</string>
     <string name="user_agreement2">Szolgáltatási feltételek</string>

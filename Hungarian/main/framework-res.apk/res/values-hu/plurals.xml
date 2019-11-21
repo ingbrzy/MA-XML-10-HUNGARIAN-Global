@@ -9,8 +9,8 @@
         <item quantity="one">Képernyőkép készítése a hibajelentéshez %d másodpercen belül.</item>
     </plurals>
     <plurals name="duration_days_relative">
-        <item quantity="other">%d nappal ezelőtt</item>
-        <item quantity="one">%d nappal ezelőtt</item>
+        <item quantity="other">%d napja</item>
+        <item quantity="one">%d napja</item>
     </plurals>
     <plurals name="duration_days_relative_future">
         <item quantity="other">%d napon belül</item>
@@ -25,8 +25,8 @@
         <item quantity="one">%dn múlva</item>
     </plurals>
     <plurals name="duration_hours_relative">
-        <item quantity="other">%d órával ezelőtt</item>
-        <item quantity="one">%d órával ezelőtt</item>
+        <item quantity="other">%d órája</item>
+        <item quantity="one">%d órája</item>
     </plurals>
     <plurals name="duration_hours_relative_future">
         <item quantity="other">%d órán belül</item>
@@ -41,8 +41,8 @@
         <item quantity="one">%dó múlva</item>
     </plurals>
     <plurals name="duration_minutes_relative">
-        <item quantity="other">%d perccel ezelőtt</item>
-        <item quantity="one">%d perccel ezelőtt</item>
+        <item quantity="other">%d perce</item>
+        <item quantity="one">%d perce</item>
     </plurals>
     <plurals name="duration_minutes_relative_future">
         <item quantity="other">%d percen belül</item>
@@ -57,8 +57,8 @@
         <item quantity="one">%dp múlva</item>
     </plurals>
     <plurals name="duration_years_relative">
-        <item quantity="other">%d évvel ezelőtt</item>
-        <item quantity="one">%d évvel ezelőtt</item>
+        <item quantity="other">%d éve</item>
+        <item quantity="one">%d éve</item>
     </plurals>
     <plurals name="duration_years_relative_future">
         <item quantity="other">%d éven belül</item>
@@ -71,6 +71,10 @@
     <plurals name="duration_years_shortest_future">
         <item quantity="other">%dé múlva</item>
         <item quantity="one">%dé múlva</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d fájl</item>
+        <item quantity="one">%1$s + %2$d fájl</item>
     </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
         <item quantity="other">Próbálja újra %d másodperc múlva.</item>

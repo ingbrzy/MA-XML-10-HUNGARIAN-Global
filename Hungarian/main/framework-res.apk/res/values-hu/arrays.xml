@@ -37,6 +37,8 @@
         <item>Egyéb</item>
         <item>Egyéni</item>
     </string-array>
+    <array name="face_acquired_vendor" />
+    <array name="face_error_vendor" />
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -57,9 +59,5 @@
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Hiba történt a Wi‑Fi-hívás szolgáltatónál való regisztrálása során: %1$s</item>
-    </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>%s Wi-Fi-hívás</item>
     </string-array>
 </resources>

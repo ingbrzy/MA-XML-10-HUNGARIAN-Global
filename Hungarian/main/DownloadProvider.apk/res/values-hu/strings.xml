@@ -4,7 +4,6 @@
     <string name="notif_title_file_size">%1$d összesen</string>
     <string name="notif_title_single_downloading">%1$s letöltése</string>
     <string name="download_filesize_unknown">Ismeretlen</string>
-    <string name="notification_dld_msg">A letöltött alkalmazások kezelése</string>
     <string name="app_label">Letöltések</string>
     <string name="permlab_downloadManager">Letöltések elérése.</string>
     <string name="permdesc_downloadManager">Megengedi az alkalmazásnak, hogy hozzáférjen a letöltésvezérlőhöz és azon keresztül töltsön le. A rosszindulatú alkalmazások ezt kihasználhatják a letöltések megszakítására és a személyes adatokhoz való hozzáférésre.</string>
@@ -12,7 +11,7 @@
     <string name="permdesc_downloadManagerAdvanced">Megengedi az alkalmazásnak, hogy hozzáférjen a letöltésvezérlő haladó funkcióihoz. A rosszindulatú alkalmazások ezt kihasználhatják a letöltések megszakítására és a személyes adatokhoz való hozzáférésre.</string>
     <string name="permlab_downloadCompletedIntent">Letöltési értesítések küldése.</string>
     <string name="permdesc_downloadCompletedIntent">Megengedi az alkalmazásnak, hogy értesítéseket küldjön az elkészült letöltésekről. A rosszindulatú alkalmazások ezt kihasználhatják más alkalmazások letöltéseinek megzavarására.</string>
-    <string name="permlab_seeAllExternal">Az összes letöltés megjelenítése az USB háttértáron</string>
+    <string name="permlab_seeAllExternal">Az összes letöltés megjelenítése az SD-kártyán</string>
     <string name="permdesc_seeAllExternal">Megengedi az alkalmazásnak, hogy megjelenítse az összes letöltést az SD-kártyán, függetlenül attól, hogy melyik alkalmazás töltötte le.</string>
     <string name="permlab_downloadCacheNonPurgeable">Hely fenntartása a letöltési gyorsítótárban</string>
     <string name="permdesc_downloadCacheNonPurgeable">Engedélyezi az alkalmazásnak, hogy letöltse a fájlokat a letöltési gyorsítótárba, ami nem törlődik automatikusan, ha a letöltéskezelőnek több helyre lenne szüksége.</string>
@@ -42,4 +41,5 @@
     <string name="download_queued">Várakozik</string>
     <string name="download_running">Letöltés</string>
     <string name="download_error">Nem sikerült letölteni</string>
+    <string name="download_running_percent">Letöltés %s</string>
 </resources>

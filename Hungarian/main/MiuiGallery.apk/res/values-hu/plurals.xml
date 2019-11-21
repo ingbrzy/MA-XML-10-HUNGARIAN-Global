@@ -68,6 +68,10 @@
         <item quantity="other">%d perc múlva folytatódik</item>
         <item quantity="one">%d perc múlva folytatódik</item>
     </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">A képek, videók, névjegyek, jegyzetek és egyéb elemek felhővel való szinkronizálásának szüneteltetése %d percre.</item>
+        <item quantity="one">A képek, videók, névjegyek, jegyzetek és egyéb elemek felhővel való szinkronizálásának szüneteltetése %d percre.</item>
+    </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d fénykép és videó | %2$s</item>
         <item quantity="one">%1$d fénykép vagy videó | %2$s</item>
@@ -193,36 +197,36 @@
         <item quantity="one">%1$d fájl</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d elem vár mentésre</item>
-        <item quantity="one">Egy elem vár mentésre</item>
+        <item quantity="other">%1$d elem vár szinkronizálásra</item>
+        <item quantity="one">%1$d elem vár szinkronizálásra</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fénykép</item>
         <item quantity="one">1 fénykép</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d fénykép vár mentésre</item>
-        <item quantity="one">Egy fénykép vár mentésre</item>
+        <item quantity="other">%1$d kép vár szinkronizálásra</item>
+        <item quantity="one">%1$d kép vár szinkronizálásra</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">%1$d fénykép mentése…</item>
-        <item quantity="one">Fénykép mentése…</item>
+        <item quantity="other">%1$d fénykép szinkronizálása…</item>
+        <item quantity="one">%1$d fénykép szinkronizálása…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">%1$d tétel mentése…</item>
-        <item quantity="one">Egy tétel mentése…</item>
+        <item quantity="other">%1$d elem szinkronizálása…</item>
+        <item quantity="one">%1$d elem szinkronizálása…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">%1$d videó mentése…</item>
-        <item quantity="one">Videó mentése…</item>
+        <item quantity="other">%1$d videó szinkronizálása…</item>
+        <item quantity="one">%1$d videó szinkronizálása…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d videó</item>
         <item quantity="one">1 videó</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d videó vár mentésre</item>
-        <item quantity="one">Egy videó vár mentésre</item>
+        <item quantity="other">%1$d videó vár szinkronizálásra</item>
+        <item quantity="one">%1$d videó vár szinkronizálásra</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">Összesen %1$d elem</item>

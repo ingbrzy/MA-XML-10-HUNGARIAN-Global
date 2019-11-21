@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
-    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_bar_up_description">Fel</string>
     <string name="abc_action_menu_overflow_description">További lehetőségek</string>
     <string name="abc_action_mode_done">Kész</string>
-    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
-    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
     <string name="abc_capital_off">KI</string>
     <string name="abc_capital_on">BE</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Szóköz</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Keresés…</string>
     <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
     <string name="abc_searchview_description_query">Keresési lekérdezés</string>
@@ -27,7 +20,6 @@
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
-    <string name="app_name">MIUI Bluetooth</string>
     <string name="ble_device_address">BLE eszköz MAC</string>
     <string name="ble_device_profile">A Bluetooth-eszköz profilja</string>
     <string name="ble_device_profile_header_title">Profilok</string>
@@ -42,6 +34,7 @@
     <string name="bluetooth_preference_found_devices">Elérhető eszközök</string>
     <string name="bluetooth_preference_scan_title">Eszközök keresése</string>
     <string name="bluetooth_search_for_devices">Eszközök keresése</string>
+    <string name="copy">Másolás</string>
     <string name="device_picker">A Bluetooth-eszköz beállításai</string>
     <string name="disconnect">Leválasztás</string>
     <string name="expand_button_title">Speciális</string>
@@ -52,6 +45,7 @@
     <string name="fast_connect_device_connect_retry">Próbálja újra</string>
     <string name="fast_connect_device_connect_setup">Beállítások</string>
     <string name="fast_connect_device_connect_success">Kész</string>
+    <string name="fast_connect_device_headset">Akkumulátor</string>
     <string name="fast_connect_device_headset_l">Bal</string>
     <string name="fast_connect_device_headset_r">Jobb</string>
     <string name="fast_connect_device_headset_reset">Tartsa nyomva a gombot a dobozon</string>
@@ -77,15 +71,14 @@
     <string name="mi_key_summary_open_camera">Dupla kattintás a MiKey-en a kamera megnyitásához</string>
     <string name="mi_key_summary_take_photo">Nyomja meg a MiKey-t fénykép készítéséhez</string>
     <string name="mi_key_take_photo">Fénykép készítése</string>
+    <string name="not_set">Nincs beállítva</string>
     <string name="notify_device_lose_connection_text">Érintse meg %1$s leválasztásához</string>
     <string name="notify_device_lose_connection_title">%1$s kapcsolat megszakadt</string>
-    <string name="ok_button">OK</string>
+    <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="progress_scanning">Keresés…</string>
     <string name="reset_function_msg">A visszaállítás megakadályozhatja %1$s normális működését.</string>
     <string name="search_menu_title">Keresés</string>
     <string name="some_app_taking">(%1$smár használatban van ez a funkció…)</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="unbind_device_alert_cancel">Mégse</string>
     <string name="unbind_device_alert_content">Megszakadt a kapcsolat %1$s készülékkel, az akkumulátoridő növelése érdekében válassza le azt.</string>
     <string name="unbind_device_alert_ok">OK</string>

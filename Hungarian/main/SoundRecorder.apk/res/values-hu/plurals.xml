@@ -20,6 +20,10 @@
         <item quantity="other">%d felvétel letöltve</item>
         <item quantity="one">%d felvétel letöltve</item>
     </plurals>
+    <plurals name="search_result">
+        <item quantity="other">%d felvételt találtunk</item>
+        <item quantity="one">%d felvételt találtunk</item>
+    </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d nincs szinkronizálva</item>
         <item quantity="one">%d nincs szinkronizálva</item>

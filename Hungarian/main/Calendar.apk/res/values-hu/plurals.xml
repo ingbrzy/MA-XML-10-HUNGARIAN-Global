@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">%d nappal előtte</item>
-        <item quantity="one">%d nappal előtte</item>
+        <item quantity="other">%d nappal az esemény előtt</item>
+        <item quantity="one">%d nappal az esemény előtt</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">%1$d-i napokon ekkor: %2$s</item>
         <item quantity="one">%1$d-i napon ekkor: %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d nappal ezelőtt, ekkor: %2$s</item>
-        <item quantity="one">%1$d nappal ezelőtt, ekkor: %2$s</item>
+        <item quantity="other">%1$d nappal az esemény előtt ekkor: %2$s</item>
+        <item quantity="one">%1$d nappal az esemény előtt ekkor: %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d órával előtte</item>
-        <item quantity="one">%d órával előtte</item>
+        <item quantity="other">%d órával az esemény előtt</item>
+        <item quantity="one">%d órával az esemény előtt</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d perccel előtte</item>
-        <item quantity="one">%d perccel előtte</item>
+        <item quantity="other">%d perccel az esemény előtt</item>
+        <item quantity="one">%d perccel az esemény előtt</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d héttel előtte</item>
-        <item quantity="one">%d héttel előtte</item>
+        <item quantity="other">%d héttel az esemény előtt</item>
+        <item quantity="one">%d héttel az esemény előtt</item>
     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s nap</item>
@@ -77,12 +77,28 @@
         <item quantity="one">Legfeljebb %1$d napot adhat meg</item>
     </plurals>
     <plurals name="event_reminders_to_max">
-        <item quantity="other">Maximálisan %d emlékeztető állítható be</item>
-        <item quantity="one">Maximálisan %d emlékeztető állítható be</item>
+        <item quantity="other">Legfeljebb %d emlékeztetőt állíthat be</item>
+        <item quantity="one">Legfeljebb %d emlékeztetőt állíthat be</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" nap"</item>
+        <item quantity="one">" nap"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" óra"</item>
+        <item quantity="one">" óra"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" perc"</item>
+        <item quantity="one">" perc"</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Következő emlékeztető %1$d perc múlva</item>
+        <item quantity="one">Következő emlékeztető %1$d perc múlva</item>
     </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">minden %1$s %2$s. napján</item>
@@ -103,10 +119,6 @@
     <plurals name="repeat_interval_frequency_year_multiple">
         <item quantity="other">%1$d év</item>
         <item quantity="one">%1$d év</item>
-    </plurals>
-    <plurals name="travel_eta_advice">
-        <item quantity="other">%2$s perc vezetés %1$s-ig.</item>
-        <item quantity="one">%2$s perc vezetés %1$s-ig.</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">%d. HÉT</item>

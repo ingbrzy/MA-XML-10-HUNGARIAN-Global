@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extra_photo_common_saving">Mentés…</string>
+    <string name="motion_photo_re_pick_title">A legjobb fénykép kiválasztása</string>
+    <string name="motion_photo_toast_default">Alapértelmezett</string>
+    <string name="motion_photo_toast_suggest">Ajánlott</string>
+    <string name="refocus_discard_confirm_message">Elmenti a változásokat?</string>
+    <string name="refocus_discard_negative_btn">Elvetés</string>
+    <string name="refocus_discard_positive_btn">Mentés</string>
+    <string name="refocus_photo_not_support">Ezen a fényképen nem tud elmosást alkalmazni</string>
+    <string name="refocus_relighting_toast">Mozgassa a kört a megvilágítás szögének beállításához</string>
+    <string name="refocus_save_cancel">Mégse</string>
+    <string name="refocus_save_title">Formátum kiválasztása</string>
+    <string name="refocus_save_to_photo">Mentés képként</string>
+    <string name="refocus_save_to_video">Mentés videóként</string>
+    <string name="refocus_saving">Mentés…</string>
+    <string name="refocus_title">Elmosás</string>
+    <string name="refocus_type_relighting">Stúdióvilágítás</string>
+    <string name="refocus_type_relighting_no_face">Nem található arc</string>
+    <string name="refocus_type_relighting_small_face">A Stúdiómegvilágítás olyan fotókon működik, ahol az arcok több helyet foglalnak el, mint itt.</string>
+    <string name="refocus_type_static">Elmosás szintje</string>
+    <string name="refocus_type_video">Fénysávok</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

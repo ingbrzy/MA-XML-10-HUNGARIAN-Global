@@ -18,6 +18,7 @@
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ad_downloading">Letöltés…</string>
     <string name="app_name">Rendszerszolgáltatási beépülő modul</string>
     <string name="app_select_title">Gyakran használt alkalmazások hozzáadása</string>
@@ -35,6 +36,7 @@
     <string name="dialog_market_score_title_step2">Köszönjük visszajelzését!</string>
     <string name="dual_app_title">Kettős alkalmazások</string>
     <string name="dual_app_words">Minden fiók megérdemli a saját alkalmazását</string>
+    <string name="empty">" "</string>
     <string name="fastboot_locked_answer_1">A fastboot a Mi készülékek flashelésének hagyományos módszere. Azért zárjuk a fastboot módot, hogy biztosítsuk adatainak biztonságát a készülék elvesztésének esetén, valamint garantáljuk a Készülékkeresés funkció megbízhatóságát.</string>
     <string name="fastboot_locked_answer_2">Ha elveszti a készülékét, az engedélyezett fastboot mód nem biztosítja adatainak biztonságát. Engedélyezett fastboottal nem lesz képes a telefon távolról való lezárására vagy adatainak törlésére a Készülékkeresés használatával. Ezért nem ajánljuk a fastboot mód engedélyezését a készüléken.</string>
     <string name="fastboot_locked_answer_3">A MIUI weboldalán található nyitóprogramot kell használnia. A készüléke nyitásához meg kell győződnünk róla, hogy az Önhöz tartozik. Ezért kell bejelentkeznie a Mi Fiókjával és bekapcsolnia a Készülékkeresést.</string>
@@ -78,7 +80,7 @@
     <string name="superpower_progress_battery_last">%s maradt</string>
     <string name="superpower_progress_left_time">%1$dó %2$dp</string>
     <string name="superpower_search_hint">Alkalmazások keresése</string>
-    <string name="superpower_select_app_title">Kezdőképernyő elrendezés</string>
+    <string name="superpower_select_app_title">Gyakran használt alkalmazások</string>
     <string name="superpower_settings">Ultraerős akkumulátorkímélő</string>
     <string name="superpower_system">Ajánlott</string>
     <string name="superpower_third">Másik féltől származó alkalmazások</string>
@@ -87,4 +89,23 @@
     <string name="title_share_link">URL megosztása</string>
     <string name="usage_sorted_loading_text">Egy pillanat…</string>
     <string name="xunyou_pay_webview">Xunyou szolgáltatások</string>
+    <string name="cancel">Mégse</string>
+    <string name="fingerprint_not_remind">Ne kérdezze újra</string>
+    <string name="free_send_net_booster">Ingyenes hálózatsebesség-gyorsítás</string>
+    <string name="free_send_net_booster_busniess">Szerezzen ingyenes Xunlei-sebességgyorsítást</string>
+    <string name="free_send_net_booster_busniess_tip">Érintse meg a fogadáshoz</string>
+    <string name="free_send_net_booster_tip">Élvezze a simábban futó játékokat az ingyenes hálózatsebesség-gyorsítással.</string>
+    <string name="net_booster_expire_notification">A hálózatsebesség-gyorsítás időszaka hamarosan véget ér</string>
+    <string name="net_booster_overdue_notification">A hálózatsebesség-gyorsítás időszaka hamarosan véget ér</string>
+    <string name="net_booster_overdue_notification_tip">A hálózatsebesség-gyorsítás időszaka hamarosan véget ér. Megújítja?</string>
+    <string name="renew_now">Megújítás</string>
+    <string name="superpower_app_contact">Névjegyek</string>
+    <string name="superpower_app_delete">Törlés</string>
+    <string name="superpower_app_edit">Szerkesztés</string>
+    <string name="superpower_app_exit">Kilépés</string>
+    <string name="superpower_app_isadded">Hozzáadva</string>
+    <string name="superpower_app_mms">Üzenetküldés</string>
+    <string name="superpower_app_phone">Telefon</string>
+    <string name="superpower_settings_launcher">Ultraerős akkumulátorkímélő</string>
+    <string name="superpower_toast_app_select_full">Maximálisan 6 elemet adhat hozzá a gyakran használt alkalmazásokhoz</string>
 </resources>

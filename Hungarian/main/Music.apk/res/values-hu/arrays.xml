@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recommendation_desc_week">
+        <item>Vasárnapi ajánlások</item>
+        <item>Hétfői ajánlások</item>
+        <item>Keddi ajánlások</item>
+        <item>Szerdai ajánlások</item>
+        <item>Csütörtöki ajánlások</item>
+        <item>Pénteki ajánlások</item>
+        <item>Szombati ajánlások</item>
+    </string-array>
+</resources>

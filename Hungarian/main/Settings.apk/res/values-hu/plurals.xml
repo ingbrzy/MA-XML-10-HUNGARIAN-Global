@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d napja</item>
+        <item quantity="one">%d napja</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d perce</item>
+        <item quantity="one">%d perce</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d éve</item>
+        <item quantity="one">%d éve</item>
+    </plurals>
+    <plurals name="accessibility_usage_summary">
+        <item quantity="other">%1$d alkalmazás teljes körű hozzáféréssel rendelkezik az eszközhöz</item>
+        <item quantity="one">1 alkalmazás teljes körű hozzáféréssel rendelkezik az eszközhöz</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Rendkívül rövid késleltetés (%1$d ms)</item>
         <item quantity="one">Rendkívül rövid késleltetés (%1$d ms)</item>
@@ -132,6 +148,14 @@
         <item quantity="other">%s óra</item>
         <item quantity="one">1 óra</item>
     </plurals>
+    <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">%2$d/%1$d alkalmazás hozzáfér a helyadatokhoz</item>
+        <item quantity="one">%2$d/%1$d alkalmazás hozzáfér a helyadatokhoz</item>
+    </plurals>
+    <plurals name="location_settings_summary_location_on">
+        <item quantity="other">Be – %1$d alkalmazás hozzáfér a helyadatokhoz</item>
+        <item quantity="one">Be – %1$d alkalmazás hozzáfér a helyadatokhoz</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Tartalmaznia kell legalább %d betűt</item>
         <item quantity="one">Tartalmaznia kell legalább 1 betűt</item>
@@ -208,9 +232,17 @@
         <item quantity="other">%d hozzáadva</item>
         <item quantity="one">%d hozzáadva</item>
     </plurals>
+    <plurals name="mobile_network_summary_count">
+        <item quantity="other">%1$d SIM</item>
+        <item quantity="one">%1$d SIM</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d korlátozás</item>
         <item quantity="one">1 korlátozás</item>
+    </plurals>
+    <plurals name="notification_few_channel_count_summary">
+        <item quantity="other">%1$d értesítési csatorna.</item>
+        <item quantity="one">%1$d értesítési csatorna.</item>
     </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d kategória</item>
@@ -224,9 +256,21 @@
         <item quantity="other">%d kategória kikapcsolva</item>
         <item quantity="one">%d kategória kikapcsolva</item>
     </plurals>
+    <plurals name="notifications_sent_daily">
+        <item quantity="other">~%d értesítés naponta</item>
+        <item quantity="one">~%d értesítés naponta</item>
+    </plurals>
+    <plurals name="notifications_sent_weekly">
+        <item quantity="other">~%d értesítés hetente</item>
+        <item quantity="one">~%d értesítés hetente</item>
+    </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d aktív alkalmazás</item>
         <item quantity="one">%d aktív alkalmazás</item>
+    </plurals>
+    <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s alkalmazás</item>
+        <item quantity="one">1 alkalmazás</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d engedély megadva</item>
@@ -272,9 +316,13 @@
         <item quantity="other">%d rejtett elem megjelenítése</item>
         <item quantity="one">%d rejtett elem megjelenítése</item>
     </plurals>
+    <plurals name="show_bluetooth_devices">
+        <item quantity="other">%1$d csatlakoztatott eszköz</item>
+        <item quantity="one">%1$d csatlakoztatott eszköz</item>
+    </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">%1$d lépésre van a CIT hardvertesztbe való belépéstől.</item>
-        <item quantity="one">%1$d lépésre van a CIT hardvertesztbe való belépéstől.</item>
+        <item quantity="other">%1$d lépésre van a CIT-hardvertesztbe való belépéstől.</item>
+        <item quantity="one">%1$d lépésre van a CIT-hardvertesztbe való belépéstől.</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">%1$d lépésre van attól, hogy fejlesztő legyen.</item>
@@ -416,6 +464,14 @@ Ha további információt szeretne erről a tanúsítványról, lépjen kapcsola
         <item quantity="other">%d hálózat</item>
         <item quantity="one">1 hálózat</item>
     </plurals>
+    <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">%d hálózat és feliratkozás</item>
+        <item quantity="one">1 hálózat és feliratkozás</item>
+    </plurals>
+    <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">%d feliratkozás</item>
+        <item quantity="one">1 feliratkozás</item>
+    </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">%d hálózat megosztva</item>
         <item quantity="one">%d hálózat megosztva</item>
@@ -428,13 +484,17 @@ Ha további információt szeretne erről a tanúsítványról, lépjen kapcsola
         <item quantity="other">A SIM-kártya PIN-kódja helytelen. %d próbálkozás maradt.</item>
         <item quantity="one">A SIM-kártya PIN-kódja helytelen. %d próbálkozás maradt. Utána a szolgáltatótól kell feloldást kérnie.</item>
     </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">%1$d alkalmazás értesítései felülbírálhatják a Ne zavarjanak módot</item>
+        <item quantity="one">1 alkalmazás értesítései felülbírálhatják a Ne zavarjanak módot</item>
+    </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
-        <item quantity="other">%d óra (kivéve, ha automatikusan bekapcsol)</item>
-        <item quantity="one">1 óra (kivéve, ha automatikusan bekapcsol)</item>
+        <item quantity="other">%d óra</item>
+        <item quantity="one">1 óra</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d szabály</item>
-        <item quantity="one">1 szabály</item>
+        <item quantity="other">%d engedélyezve</item>
+        <item quantity="one">1 engedélyezve</item>
     </plurals>
     <plurals name="zen_mode_sound_summary_summary_off_info">
         <item quantity="other">%d szabály automatikusan bekapcsolhat</item>

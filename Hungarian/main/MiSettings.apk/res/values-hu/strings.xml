@@ -5,7 +5,7 @@
     <string name="calendar_sound">Esemény emlékeztetők</string>
     <string name="calendar_tip">Az eseményértesítő hangok naptári események, jegyzetek és feladatok időpontjaiban jeleznek</string>
     <string name="follow_sim1">SIM 1 beállításainak alkalmazása</string>
-    <string name="intelligent_recognition_item_summary">Azonosítja a szolgáltatóktól (pl. ételkiszállítás) érkező hívásokat és más csengőhangot használ ilyen esetekben</string>
+    <string name="intelligent_recognition_item_summary">Használjon egyedi csengőhangot futár- és taxi szolgáltatók hívásaihoz. A funkció akkor fog működni, ha a(z) %s alapértelmezett csengőhangként van beállítva.</string>
     <string name="intelligent_recognition_item_title">Azonosító szolgáltatások</string>
     <string name="mms">Üzenetkezelés</string>
     <string name="more_ringtone">Összes csengőhang</string>

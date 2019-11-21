@@ -29,6 +29,8 @@
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="search_menu_title">Keresés</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="Approval">Igénylés</string>
+    <string name="Xiaomi_account_pending_approval">Igénylés felülvizsgálata</string>
     <string name="about_title">Névjegy</string>
     <string name="access_sd_fail">Az SD-kártya nem elérhető</string>
     <string name="accessibility_shutter_button">Fénykép készítése</string>
@@ -59,6 +61,7 @@
     <string name="call_anyone">Hívás</string>
     <string name="camera_error_title">Kamera hiba</string>
     <string name="cancel">Mégse</string>
+    <string name="check_for_updates">Béta frissítések keresése</string>
     <string name="choose_open_code_app">Válasszon egy alkalmazást</string>
     <string name="choose_pay_title">Válasszon fizetési módot</string>
     <string name="choose_picture">QR-kód kép kiválasztása</string>
@@ -72,6 +75,7 @@
     <string name="contact_details">QR-kód névjegy:</string>
     <string name="continue_access_web_url">Honlap meglátogatása</string>
     <string name="continue_to_website">Honlap meglátogatása</string>
+    <string name="continue_waiting">Várjon</string>
     <string name="copy_text">Szöveg másolása</string>
     <string name="copy_text_success">A szöveg kimásolva</string>
     <string name="crop_cancel_description">Mégse</string>
@@ -96,6 +100,8 @@
     <string name="document_title">Készítsen egy képet a dokumentumról</string>
     <string name="document_top_panel_title">Dokumentum fotó</string>
     <string name="done">Kész</string>
+    <string name="download_stable_version">Stabil verzió használata</string>
+    <string name="download_use_stable_version">Stabil verzió letöltése</string>
     <string name="drag_barcode_into_frame">Igazítsa a kódot a keretbe</string>
     <string name="drag_crop_to_business_card">Mozgassa a kivágáshoz</string>
     <string name="email">E-mail:</string>
@@ -106,11 +112,28 @@
     <string name="error_media_storage_failure">Nem sikerült elmenteni a fényképet</string>
     <string name="error_permissions">A Szkenner nem kapta meg a szükséges engedélyeket. Menjen a Beállításokba és ellenőrizze az engedélyeket a folytatáshoz.</string>
     <string name="error_server_error">Kiszolgálóhiba történt.</string>
+    <string name="experience_new_feature_tips">A Béta verzió használatához szükséges engedély igényléséhez jelentkezzen be Mi Fiókjába. A Béta verziót igénylésének felülvizsgálatát követően használhatja. A Béta verzió tartalmazhat hibákat.</string>
+    <string name="experience_new_features">Béta verzió</string>
+    <string name="experiential_version_of_the_prompt_content">A Szkenner Béta verzióhoz való hozzáféréshez jelentkezzen be Mi Fiókjába. Bejelentkezik most?</string>
+    <string name="failed_to_get_xiaomi_account">Sikertelen bejelentkezés</string>
     <string name="fax">Fax</string>
     <string name="feed_search_fail">Nincs találat, próbálja újra</string>
+    <string name="feedback">Visszajelzés</string>
     <string name="feedback_description_camera_access">Nem lehet csatlakozni a kamerához</string>
     <string name="feedback_description_save_photo">Nem sikerült a fénykép vagy a videó mentése</string>
+    <string name="feedback_title">Visszajelzés</string>
     <string name="flight_mode_connecting_to_wifi">Wi-Fi manuális bekapcsolása, ha a Repülőgépmód be van kapcsolva</string>
+    <string name="food_identification_fail_tips">Gyümölcsök, zöldségek és egyéb ételek beolvasása. A funkció képekkel is működik.</string>
+    <string name="food_identification_tip_msg">Ételfelismerés…</string>
+    <string name="food_make_complaints_hint">Itt adja meg visszajelzését</string>
+    <string name="food_module_feedback_str">Visszajelzés</string>
+    <string name="food_module_get_more_info">További információ</string>
+    <string name="food_module_identification_failure">Nem lehet felismerni ezt az elemet</string>
+    <string name="food_module_send_feedback">Küldés</string>
+    <string name="food_module_step_on">Nem tetszik</string>
+    <string name="food_module_thumbs_up">Tetszik</string>
+    <string name="food_module_tip">Helyezze az ételt a keretbe</string>
+    <string name="food_module_title_food">Kalóriák</string>
     <string name="got_it">Rendben</string>
     <string name="gps">Navigálás</string>
     <string name="import_contact">Névjegy importálása</string>
@@ -145,6 +168,8 @@
     <string name="name">Név:</string>
     <string name="new_schedule">Esemény létrehozása</string>
     <string name="nickname">Becenév:</string>
+    <string name="no_has_experience_version_permission">Önnek nincs engedélye a Szkenner Béta használatához. Kérjen engedélyt vagy töltse le a stabil verziót.</string>
+    <string name="no_inner_version">A Béta verzió nem érhető el</string>
     <string name="no_network">Nem lehet csatlakozni a hálózathoz</string>
     <string name="no_storage">Nincs belső tároló</string>
     <string name="no_support_to_translate_type">Ez a nyelv nem támogatott</string>
@@ -165,9 +190,11 @@
     <string name="plant_title">Szkennelje be a meghatározni kívánt növényt</string>
     <string name="preparing_sd">Belső tárhely előkészítése…</string>
     <string name="previous">Vissza</string>
+    <string name="prompt">Figyelem</string>
     <string name="qr_code_details">QR-kód részletei:</string>
     <string name="recognize">Vizsgálat</string>
     <string name="recognize_fail">Nem sikerült beolvasni</string>
+    <string name="request_server_failed">Nem sikerült kapcsolódni a kiszolgálóhoz</string>
     <string name="scan_result">Eredmény</string>
     <string name="scan_support_type">WeChat, Alipay, QR-kód, vonalkódok</string>
     <string name="sdk_not_ready">SDK előkészítése. Próbálja újra később.</string>
@@ -192,6 +219,7 @@
     <string name="study_searching">Találatok keresése…</string>
     <string name="study_title">Olvassa be a problémát, amelyet meg szeretne oldani</string>
     <string name="study_vendor_info">Üzemeltető: Zuoyebang</string>
+    <string name="suggested_submission_success">Sikeresen elküldte visszajelzését</string>
     <string name="switch_open">Bekapcsolás</string>
     <string name="tel">Telefon</string>
     <string name="title">Cím:</string>
@@ -227,6 +255,7 @@
     <string name="translation_see_more">Definíció megtekintése</string>
     <string name="translation_type_sentence">Kifejezés</string>
     <string name="translation_type_word">Word</string>
+    <string name="uninstall_prompt">Ha probléma lép fel a telepítés során, menjen a Beállítások > Alkalmazások > Alkalmazáskezelés > Szkenner menübe, koppintson a „Törlés” opcióra és próbálja meg újra telepíteni az alkalmazást.</string>
     <string name="url_is_phish">Ez egy adathalász weboldal</string>
     <string name="url_is_safety">Ez a weboldal biztonságos</string>
     <string name="url_is_unknown">A webhely biztonsága nem ellenőrzött</string>
@@ -235,6 +264,7 @@
     <string name="web">Honlap:</string>
     <string name="website_details">Honlap:</string>
     <string name="weixin_code_tip">Olvassa be ezt a QR-kódot a WeChat alkalmazással</string>
+    <string name="welcome_to_thesweepversion">Üdvözli Önt a Szkenner Béta!</string>
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Már létezik \"%1$s\" hotspot. Törölje, majd szkennelje be újra a kódot a csatlakozáshoz.</string>
     <string name="wifi_open_fail">A Wi-Fi bekapcsolása sikertelen</string>
@@ -242,5 +272,9 @@
     <string name="wifi_pwd">Jelszó:</string>
     <string name="wifi_security">Biztonság:</string>
     <string name="wifi_ssid">SSID:</string>
+    <string name="will_be_sent_tothe_background_review">" (Hamarosan felülvizsgáljuk igénylését.)"</string>
     <string name="wx_not_installed_toast">A funkciónak használnia kell a WeChatet. Először telepítse a WeChatet.</string>
+    <string name="you_have_permission_to_download">A Béta verzió letöltéséhez koppintson</string>
+    <string name="you_id">"Az Ön azonosítója: "</string>
+    <string name="your_application_is_under_review">" (Igénylése felülvizsgálat alatt áll.)"</string>
 </resources>

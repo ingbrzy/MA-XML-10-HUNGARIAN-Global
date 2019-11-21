@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">A hálózatsebesség-gyorsítás időszakából %d nap van hátra. Újítsa meg a hálózat sebességproblémáinak elkerüléséért.</item>
+        <item quantity="one">A hálózatsebesség-gyorsítás időszakából %d nap van hátra. Újítsa meg a hálózat sebességproblémáinak elkerüléséért.</item>
+    </plurals>
+</resources>

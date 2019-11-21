@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_prompt_label">
+        <item>Ésszerű</item>
+        <item>Hosszú</item>
+        <item>Túl hosszú</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Ideje mozogni!</item>
+        <item>Tudjon meg többet</item>
+        <item>Igyon egy kis vizet és sétáljon egyet!</item>
+        <item>Tudjon meg többet</item>
+        <item>Másszon meg pár fordulónyi lépcsőt</item>
+        <item>Tudjon meg többet</item>
+        <item>Ne üljön túl sokáig</item>
+        <item>Tudjon meg többet</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 óra</item>
+        <item>2 óra</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" kcal"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" cm"</item>
+        <item>" m"</item>
+        <item>" km"</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Nap</item>
+        <item>Hét</item>
+        <item>Hónap</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Nincs korlátozás</item>
+        <item>Háttérben futó tevékenységek korlátozása</item>
+        <item>Leállítása 10 perc múlva</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" km/h"</item>
+        <item>" m/s"</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Ked</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+    </string-array>
+</resources>

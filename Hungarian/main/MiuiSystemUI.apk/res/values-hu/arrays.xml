@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -88,11 +106,11 @@
         <item>Használja a rendszer által választottat (alapértelmezett)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audió</item>
+        <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audió</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audió</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ audió</item>
         <item>A választható kodekek engedélyezése</item>
         <item>A választható kodekek tiltása</item>
     </string-array>
@@ -100,11 +118,11 @@
         <item>Használja a rendszer által választottat (alapértelmezett)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ audió</item>
         <item>Qualcomm® aptX™ HD audió</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audió</item>
-        <item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ audió</item>
         <item>A választható kodekek engedélyezése</item>
         <item>A választható kodekek tiltása</item>
     </string-array>
@@ -125,6 +143,13 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Letiltva</item>
+        <item>Engedélyezve szűréssel</item>
+        <item>Engedélyezve fejléc-szűréssel</item>
+        <item>Engedélyezve médiacsomag-szűréssel</item>
+        <item>Engedélyezve</item>
     </string-array>
     <string-array name="clock_options">
         <item>Órák, percek, másodpercek megjelenítése</item>
@@ -155,13 +180,13 @@
         <item>glGetError esetén verem hívása</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Sose használjon HDCP ellenőrzést</item>
-        <item>HDCP ellenőrzés használata csak az DRM tartalomhoz</item>
-        <item>Mindig használjon HDCP ellenőrzést</item>
+        <item>Sose használjon HDCP-ellenőrzést</item>
+        <item>HDCP-ellenőrzés használata csak DRM-tartalomhoz</item>
+        <item>Mindig használjon HDCP-ellenőrzést</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Soha ne ellenőrizze</item>
-        <item>Csak a DRM tartalom ellenőrzése</item>
+        <item>Csak a DRM-tartalom ellenőrzése</item>
         <item>Mindig ellenőrizze</item>
     </string-array>
     <string-array name="miui_volume_timer_segments_title">

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d nap</item>
+        <item quantity="one">%1$d nap</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Cél: %1$d lépés</item>
+        <item quantity="one">Cél: %1$d lépés</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" lépés"</item>
+        <item quantity="one">" lépés"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">%1$d napos menstruáció</item>
+        <item quantity="one">%1$d napos menstruáció</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d lépés</item>
+        <item quantity="one">%1$d lépés</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">Ön %1$d napja nem rögzítette menstruációit. Rögzítse a pontosabb előrejelzésekért.</item>
+        <item quantity="one">Ön %1$d napja nem rögzítette menstruációit. Rögzítse a pontosabb előrejelzésekért.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Ez a menstruáció összesen %1$d napig tart</item>
+        <item quantity="one">Ez a menstruáció összesen %1$d napig tart</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">Ennek a menstruációs ciklusnak a %1$d. napja</item>
+        <item quantity="one">Ennek a menstruációs ciklusnak a %1$d. napja</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">%1$d napos ciklus</item>
+        <item quantity="one">%1$d napos ciklus</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d alkalom</item>
+        <item quantity="one">%1$d alkalom</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">A menstruáció %1$d. napja</item>
+        <item quantity="one">A menstruáció %1$d. napja</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d nap a következő menstruációig</item>
+        <item quantity="one">%1$d nap a következő menstruációig</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">A menstruáció becsült %1$d. napja</item>
+        <item quantity="one">A menstruáció becsült %1$d. napja</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" nap"</item>
+        <item quantity="one">" nap"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d éves</item>
+        <item quantity="one">%1$d éves</item>
+    </plurals>
+</resources>

@@ -50,6 +50,8 @@
     <string name="self_device_second_space">Ez a telefon Második asztala</string>
     <string name="other_device_main_space">Első asztal</string>
     <string name="other_device_second_space">Második asztal</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" visszaállítása</string>
     <string name="size_unknown">Ismeretlen méret</string>
     <string name="recovering">%s visszaállítása</string>
@@ -133,6 +135,7 @@
     <string name="provision_error_connect_msg">Ellenőrizze a hálózatot, majd próbálja újra. Ha a készüléke offline módban van, a mentések sem érhetők el.</string>
     <string name="provision_error_connect_title">Nem tud kapcsolódni</string>
     <string name="loading_user_backup">Felhasználói mentés betöltése…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">Méretszámítás…</string>
     <string name="authentication_failed">Nem sikerült a fiókellenőrzés.</string>

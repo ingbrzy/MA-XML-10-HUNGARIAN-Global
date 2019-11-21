@@ -23,7 +23,8 @@
     <string name="app_notification_info">A Jegyzetek a háttérben működik</string>
     <string name="app_widget">Jegyzetek</string>
     <string name="application_icon">Alkalmazás ikonja</string>
-    <string name="audio_panel_time_counter_default">00:00</string>
+    <string name="audio_create_normal_state">A létrehozáshoz engedje el. A megszakításhoz csúsztassa fel ujját.</string>
+    <string name="audio_create_will_cancel_state">A megszakításhoz engedje el</string>
     <string name="audio_toast_file_invalid">Érvénytelen hangfájl</string>
     <string name="audio_toast_file_undownload">Hangfájl nincs letöltve teljesen vagy hiányzik</string>
     <string name="audio_toast_network_is_not_available">Nincs internetkapcsolat</string>
@@ -40,9 +41,6 @@
     <string name="cta_dialog_title">Engedélyek szükségesek</string>
     <string name="cta_reminder">A Hangjegyzetek normális működéséhez internetkapcsolat, audio rögzítés, és Névjegyzék-hozzáférés szükséges. Engedélyezi?</string>
     <string name="date_calculate_today">0 nap</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_time_picker_alarm_reminder">Ébresztő</string>
     <string name="date_time_picker_dialog_title">Dátum és idő beállítása</string>
     <string name="date_time_picker_has_not_set_alarm">Nincs beállítva ébresztő</string>
@@ -89,8 +87,6 @@
     <string name="error_widget_exist_for_send_to_desktop">Ez a jegyzet már az asztalon van</string>
     <string name="exceed_todo_text_limitation">A feladat leírása túl hosszú.</string>
     <string name="first_enter_custom_folder_hint">Itt átnevezhet vagy törölhet mappákat</string>
-    <string name="fmt_chinese_date">N e</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="folder_exist">Ilyen nevű mappa már létezik</string>
     <string name="folder_operation_delete">Törlés</string>
     <string name="folder_operation_rename">Átnevezés</string>
@@ -130,6 +126,10 @@
     <string name="menu_todo_show_finished_todo">Befejezett feladatok megjelenítése</string>
     <string name="menu_unhide">Elrejtés visszavonása</string>
     <string name="menu_unstick">Felold</string>
+    <string name="new_audio_create_cancel_talkback_des">Megszakítva</string>
+    <string name="new_audio_create_done_talkback_des">Létrehozva</string>
+    <string name="new_audio_create_guide_tip">Hangjegyzet létrehozásához tartsa lenyomva</string>
+    <string name="new_audio_create_talkback_des">Szöveges jegyzet létrehozásához koppintson. Hangjegyzet létrehozásához tartsa lenyomva. A felvétel leállításához és jegyzet létrehozásához engedje el a gombot vagy a megszakításhoz csúsztassa fel ujját.</string>
     <string name="not_now">Most nem</string>
     <string name="note_description_content">A Jegyzetek alkalmazás egy remek eszköz gondolataink rögzítésére. Beépített emlékeztetőkkel és felhőben történő szinkronizálással, hogy bárhonnan és bármikor elérhesse. Győződjön meg róla, hogy nélkülözni tudja ezeket a funkciókat mielőtt eltávolítaná ezt az alkalmazást.</string>
     <string name="note_description_title">A Jegyzetekről</string>
@@ -165,6 +165,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">Törlés kézmozdulattal</string>
     <string name="pref_title_todo_float_mode">Használd a feladat eszköztárat</string>
     <string name="pref_title_todo_shorcut">Eszköztár</string>
+    <string name="privacy_note_content_empty">Itt még nincsenek elemek.</string>
     <string name="recover_notes_hint">Hiba történt, kérjük látogassa meg a i.mi.com weboldalt jegyzetei helyreállításához.</string>
     <string name="redo">Újra</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Várjon, míg a megjegyzés betöltődik, majd próbálja újra.</string>
@@ -284,8 +285,6 @@ Hang felvételéhez engedélyezze a Jegyzeteket."</string>
     <string name="todo_module_name">Feladatok</string>
     <string name="todo_notify_alarm_title">Feladatemlékeztető</string>
     <string name="todo_schedule_time_expired">" (Lejárt)"</string>
-    <string name="todo_schedule_time_for_picker_hm">H mm</string>
-    <string name="todo_schedule_time_hm">HH:mm</string>
     <string name="todo_schedule_time_md">MM.dd.</string>
     <string name="todo_schedule_time_mdhm">MM.dd. HH:mm</string>
     <string name="todo_schedule_time_today">Ma</string>

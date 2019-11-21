@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accept">OK</string>
     <string name="app_name">Xiaomi aktiválás</string>
     <string name="error_device_id_message">"Érvénytelen készülékazonosító: %s
 Készülékazonosítónak egy érvényes IMEI vagy MAC címnek kell lennie. Készülékazonosító nélkül néhány Mi Fiók és Mi Cloud szolgáltatás nem lesz elérhető."</string>
@@ -11,6 +10,5 @@ Készülékazonosítónak egy érvényes IMEI vagy MAC címnek kell lennie. Kés
     <string name="pop_up_allow_notify_dialog">Engedélyezés</string>
     <string name="pop_up_deny_notify_dialog">Elutasítás</string>
     <string name="sync_notification_title_format">Szinkronizálás: %1$s</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmsf_activate_info">XMSF aktiválási információ</string>
 </resources>

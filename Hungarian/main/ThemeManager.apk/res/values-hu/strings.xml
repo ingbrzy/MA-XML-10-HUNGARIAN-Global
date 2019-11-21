@@ -8,16 +8,9 @@
     <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
     <string name="abc_capital_off">KI</string>
     <string name="abc_capital_on">BE</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Szóköz</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Keresés…</string>
     <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
     <string name="abc_searchview_description_query">Keresési lekérdezés</string>
@@ -68,11 +61,6 @@
     <string name="audio_duration_minutes_format">%1$d perc</string>
     <string name="audio_duration_seconds_format">%1$d másodperc</string>
     <string name="audition_ringtone">Lejátszás</string>
-    <string name="author_attention">Follow</string>
-    <string name="author_attention_success">Followed successfully</string>
-    <string name="author_dialog_message">Unfollow this account now?</string>
-    <string name="author_dynamic">Status</string>
-    <string name="author_dynamic_no_resource">"Couldn't find results"</string>
     <string name="automatically_update_using_theme_tips">Legközelebb frissüljön automatikusan</string>
     <string name="backup_theme_dialog_message">Az aktuális téma mentése</string>
     <string name="backup_theme_dialog_ok">Biztonsági mentés</string>
@@ -121,9 +109,6 @@
     <string name="description_version_szie">Verzió: %1$s Méret: %2$s</string>
     <string name="desktop_effects">Kezdőképernyő effektusok</string>
     <string name="desktop_wallpaper">Háttérkép</string>
-    <string name="detail_author_attention_head">Follow some of our most outstanding designers</string>
-    <string name="detail_author_fans">"Followers: "</string>
-    <string name="detail_author_works">"Items: "</string>
     <string name="detail_recommend_title">Talán ezek is tetszeni fognak neked</string>
     <string name="dev_options">Fejlesztői beállítások</string>
     <string name="dev_options_summary">Web források</string>
@@ -131,9 +116,7 @@
     <string name="download_preview_failed">Előnézet betöltése nem sikerült</string>
     <string name="download_success">Letöltve!</string>
     <string name="dynamic_video_wallpaper">24H háttérkép</string>
-    <string name="enable_all_free_mode">Redeem</string>
     <string name="enable_transparent_wallpaper">Áttetsző háttérkép használata</string>
-    <string name="enabling_all_free_mode">Redeeming…</string>
     <string name="exit_extreme_mode_dialog_agree">Elfogadom</string>
     <string name="exit_extreme_mode_dialog_cancel">Mégse</string>
     <string name="exit_extreme_mode_dialog_title">Extrém mód kikapcsolása</string>
@@ -155,7 +138,6 @@
     <string name="exo_download_failed">Nem sikerült a letöltés</string>
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">Monó</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
@@ -280,7 +262,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="miuishare_no_network">Nem sikerült kapcsolódni a hálózathoz.</string>
     <string name="miuishare_please_retry">Nem sikerült lekérni az adatokat. Ellenőrizze a hálózati beállításokat, majd próbálja újra.</string>
     <string name="miuishare_publish">Küldés</string>
-    <string name="miuishare_qzone_title">Qzone</string>
     <string name="miuishare_share_done">Sikeresen megosztva</string>
     <string name="miuishare_share_editor_title">Megosztás</string>
     <string name="miuishare_share_fail">Megosztás sikertelen</string>
@@ -288,7 +269,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="miuishare_title_more">Egyebek</string>
     <string name="miuishare_title_share">Megosztás</string>
     <string name="miuishare_wechat_timeline_title">WeChat Pillanatok</string>
-    <string name="miuishare_weibo_title">Weibo</string>
     <string name="mix_global_option">Általános</string>
     <string name="mix_global_option_des">Értesítésárnyék, telefon, üzenetváltás és egyéb rendszerelemek. Az alapértelmezett opciók használatához távolítsa el a pipát a jelölőnégyzetből.</string>
     <string name="mix_home_option_des">Háttérkép és óra. Az alapértelmezett opció használatához távolítsa el a pipát a jelölőnégyzetből.</string>
@@ -306,15 +286,12 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="my_gifts_received">Fogadott</string>
     <string name="network_exception">Nem sikerült csatlakozni a hálózathoz. Ellenőrizze hálózati beállításait, majd próbálja újra.</string>
     <string name="no_data">Hálózati hiba</string>
-    <string name="official_accounts">WeChat</string>
     <string name="online_no_network">A hálózat nem elérhető</string>
     <string name="online_precust_abstract">Absztrakt</string>
     <string name="online_precust_animal">Állatok</string>
     <string name="online_precust_building">Épületek</string>
     <string name="online_precust_creative">Kreatív</string>
-    <string name="online_precust_hatsune">Hatsune</string>
     <string name="online_precust_lifestyle">Életmód</string>
-    <string name="online_precust_museum">British Museum</string>
     <string name="online_precust_plant">Növények</string>
     <string name="online_precust_scenery">Tájak</string>
     <string name="online_search_hint">Források online keresése</string>
@@ -412,7 +389,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_detail_comment_title">Hozzászólások</string>
     <string name="resource_detail_description_pic_text">%1$d ikon összesen</string>
     <string name="resource_detail_header_theme_designer_title">Tervező: %1$s</string>
-    <string name="resource_detail_jump_to_online_title">Online</string>
     <string name="resource_detail_jump_to_same_author_title">A készítő további témái</string>
     <string name="resource_detail_recommend_desiner_other_themes">%1$s által készített további témák</string>
     <string name="resource_detail_recommend_other_themes">Akiknek még tetszett</string>
@@ -425,7 +401,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_downloaded_title">Letöltött témák</string>
     <string name="resource_downloading">Letöltés</string>
     <string name="resource_exchange">Kódbeváltás</string>
-    <string name="resource_exchange_confirm">OK</string>
     <string name="resource_exchange_empty_format">Írja be a kódot!</string>
     <string name="resource_exchange_has_bought">Már megvásárolta ezt a témát.</string>
     <string name="resource_exchange_has_expired">A kód beváltásának érvényessége lejárt.</string>
@@ -472,7 +447,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_no_result">Nincs találat</string>
     <string name="resource_notification_default">Értesítések</string>
     <string name="resource_on_trial">Próbaverzió: %1$s</string>
-    <string name="resource_online">Online</string>
     <string name="resource_online_picker">Online csengőhang kiválasztása</string>
     <string name="resource_pack_confirm">Attól függetlenül, hogy már megvásárolta az alábbi komponenst %1$d ebben a témában, még mindig olcsóbb, mint ha az egész csomagot vásárolta volna meg.</string>
     <string name="resource_pack_discount_info">%1$s elmentve!</string>
@@ -539,9 +513,7 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_trial_end_purchase">Vásárlás</string>
     <string name="resource_trial_end_restore">Próbaidőszak vége</string>
     <string name="resource_trial_end_time">(Próbaidőszak %1$s)</string>
-    <string name="resource_trial_end_time_format">hh:mma MMM d</string>
     <string name="resource_trial_end_title">A próbaidőszak lejárt</string>
-    <string name="resource_trial_fail_cancel">OK</string>
     <string name="resource_trial_fail_go_settings">Beállítások</string>
     <string name="resource_trial_fail_message">Ellenőrizze, hogy a rendszeridő a jelenlegi időt mutatja-e.</string>
     <string name="resource_trial_fail_title">A próbaidőszak beállítása nem sikerült</string>
@@ -550,7 +522,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="resource_trial_minutes">(Próbaidőszak: %1$dp)</string>
     <string name="resource_unknow_error">Ismeretlen hiba lépett fel.</string>
     <string name="resource_update">Frissítés</string>
-    <string name="resource_user_know">OK</string>
     <string name="resource_waiting_download">Várakozás</string>
     <string name="resource_waiting_pause">Szünet</string>
     <string name="resource_wallpaper_download">Háttérkép letöltése</string>
@@ -757,8 +728,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="wallpaper_loop_title">Háttérkép diavetítés</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Kezdőképernyő háttérkép diavetítés</string>
     <string name="wallpaper_loop_title_lock_walpaper">Képernyőzár háttérkép diavetítés</string>
-    <string name="wallpaper_no_favorite">No items here yet.</string>
-    <string name="wallpaper_no_record">No items here yet.</string>
     <string name="wallpaper_online">Online háttérképek</string>
     <string name="wallpaper_online_no_more">Egyelőre ennyi</string>
     <string name="wallpaper_online_tip">Csatlakozzon a hálózathoz további elemek megtekintéséhez</string>
@@ -774,7 +743,6 @@ A funkció kikapcsolásához, menjen a Beállítások > Hang &amp; rezgés > Pro
     <string name="wallpaper_settings_page_title">Háttérkép</string>
     <string name="wallpaper_static">Statikus</string>
     <string name="wechat_not_found">Először telepítse a WeChat alkalmazást</string>
-    <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Mégse</string>
     <string name="wifi_check_confirm">Megerősítés</string>
     <string name="wifi_check_message">Mobiladat-kapcsolat használata a frissítések letöltéséhez?</string>

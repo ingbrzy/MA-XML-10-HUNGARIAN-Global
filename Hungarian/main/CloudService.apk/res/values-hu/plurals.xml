@@ -1,40 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="items_unsynced">
-        <item quantity="other">%d elem vár szinkronizálásra</item>
-        <item quantity="one">%d elem vár szinkronizálásra</item>
-    </plurals>
-    <plurals name="dirty_contacts_count">
-        <item quantity="other">%d névjegy</item>
-        <item quantity="one">%d névjegy</item>
-    </plurals>
-    <plurals name="dirty_mms_count">
-        <item quantity="other">%d üzenet</item>
-        <item quantity="one">%d üzenet</item>
-    </plurals>
-    <plurals name="dirty_note_count">
-        <item quantity="other">%d jegyzet</item>
-        <item quantity="one">%d jegyzet</item>
-    </plurals>
-    <plurals name="dirty_image_count">
-        <item quantity="other">%d fénykép</item>
-        <item quantity="one">%d fénykép</item>
-    </plurals>
-    <plurals name="dirty_callog_count">
-        <item quantity="other">%d hívásnapló bejegyzés</item>
-        <item quantity="one">%d hívásnapló bejegyzés</item>
-    </plurals>
-    <plurals name="dirty_wlan_count">
-        <item quantity="other">%d Wi-Fi hálózat</item>
-        <item quantity="one">%d Wi-Fi hálózat</item>
-    </plurals>
-    <plurals name="dirty_recorder_count">
-        <item quantity="other">%d felvétel</item>
-        <item quantity="one">%d felvétel</item>
-    </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d dal</item>
-        <item quantity="one">%d dal</item>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d tiltólista bejegyzés</item>
+        <item quantity="one">%d tiltólista bejegyzés</item>
     </plurals>
     <plurals name="dirty_browser_count">
         <item quantity="other">%d böngésző elem</item>
@@ -44,9 +12,29 @@
         <item quantity="other">%d naptár elem</item>
         <item quantity="one">%d naptár elem</item>
     </plurals>
-    <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d tiltólista bejegyzés</item>
-        <item quantity="one">%d tiltólista bejegyzés</item>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d hívásnapló bejegyzés</item>
+        <item quantity="one">%d hívásnapló bejegyzés</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d névjegy</item>
+        <item quantity="one">%d névjegy</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d fénykép</item>
+        <item quantity="one">%d fénykép</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d üzenet</item>
+        <item quantity="one">%d üzenet</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d dal</item>
+        <item quantity="one">%d dal</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d jegyzet</item>
+        <item quantity="one">%d jegyzet</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d beállított Gyorselérési kártya</item>
@@ -56,21 +44,33 @@
         <item quantity="other">%d gyakori kifejezés</item>
         <item quantity="one">%d gyakori kifejezés</item>
     </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d felvétel</item>
+        <item quantity="one">%d felvétel</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d rejtett fénykép nincs szinkronizálva. Megőrzésük érdekében, szinkronizálásuk után jelentkezzen ki, ellenkező esetben az elemek törlésre kerülnek.</item>
         <item quantity="one">%d rejtett fénykép nincs szinkronizálva. Megőrzésük érdekében, szinkronizálásuk után jelentkezzen ki, ellenkező esetben az elemek törlésre kerülnek.</item>
     </plurals>
-    <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">%d perc múlva folytassa a szinkronizálást</item>
-        <item quantity="one">%d perc múlva folytassa a szinkronizálást</item>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d Wi-Fi hálózat</item>
+        <item quantity="one">%d Wi-Fi hálózat</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">%d elem vár szinkronizálásra</item>
+        <item quantity="one">%d elem vár szinkronizálásra</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">%s órája</item>
+        <item quantity="one">%s órája</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">%s perce</item>
         <item quantity="one">%s perce</item>
     </plurals>
-    <plurals name="last_sync_time_hours_ago">
-        <item quantity="other">%s órája</item>
-        <item quantity="one">%s órája</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">%d perc múlva folytassa a szinkronizálást</item>
+        <item quantity="one">%d perc múlva folytassa a szinkronizálást</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s szolgáltatás kerül Xiaomi Cloud-szinkronizálásra</item>
