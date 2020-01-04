@@ -402,7 +402,6 @@
     <string name="sort_by_not_defined">Alapértelmezett sorrend</string>
     <string name="start_activity_failed">Nem sikerült az elindítás, próbálja meg később</string>
     <string name="starting_preset_app">Kezdő...</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">Letöltve</string>
     <string name="status_downloading">Letöltés</string>
     <string name="status_installing">Telepítés</string>
