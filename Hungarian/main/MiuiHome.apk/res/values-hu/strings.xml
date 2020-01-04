@@ -100,7 +100,6 @@
     <string name="aqi_quality_index_light_pollution">Gyenge szennyezés</string>
     <string name="aqi_quality_index_moderate">Közepes</string>
     <string name="aqi_quality_index_unhealthy">Egészségtelen</string>
-    <string name="auto_add_app_shortcut">新安装应用添加到桌面</string>
     <string name="auto_delete_category_dialog_content">A jelenlegi alkalmazásik eltávolításra kerülnek a kategóriából és a kategória törlésre kerül. Törli a kategóriát most?</string>
     <string name="auto_delete_category_dialog_title">Kategória törlése</string>
     <string name="backup_fail">Nem sikerült biztonsági másolatot készíteni</string>
@@ -403,6 +402,7 @@
     <string name="sort_by_not_defined">Alapértelmezett sorrend</string>
     <string name="start_activity_failed">Nem sikerült az elindítás, próbálja meg később</string>
     <string name="starting_preset_app">Kezdő...</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">Letöltve</string>
     <string name="status_downloading">Letöltés</string>
     <string name="status_installing">Telepítés</string>

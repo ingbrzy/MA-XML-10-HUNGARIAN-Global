@@ -452,6 +452,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Keret-átlag</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Pontszerű fénymérés</string>
     <string name="pref_camera_autoexposure_title">Automata fénymérés</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Magas</string>
     <string name="pref_camera_beautify_entry_low">Alacsony</string>
     <string name="pref_camera_beautify_entry_normal">Közepes</string>

@@ -74,6 +74,7 @@
     <string name="search_menu_title">Keresés</string>
     <string name="sign_in_title">Jelentkezzen be a Mi Fiókjával</string>
     <string name="sns_sign_in">Más bejelentkezési módok</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ticket_hint">Ellenőrző kód</string>
     <string name="ticket_invalid">Az Ön által megadott kód helytelen</string>
     <string name="ticket_sign_in">Bejelentkezés SMS segítségével</string>
