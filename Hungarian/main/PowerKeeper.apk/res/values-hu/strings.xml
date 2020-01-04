@@ -32,6 +32,7 @@
     <string name="config_suggest_description">"Alkalmazások és tevékenységek azonosítása a fontos folyamatok fenntartása érdekében.
 Az akkumulátorkímélő szelektíven kezeli a fontos alkalmazásokat."</string>
     <string name="config_suggest_suffix_title">Akkumulátorkímélő (ajánlott)</string>
+    <string name="confirm">OK</string>
     <string name="current_cloud_addr_is">A felhő ellenőrzőkiszolgáló címe:</string>
     <string name="empty_title_apps_container_list">Nincs alkalmazás</string>
     <string name="enable_sleep_mode">Az Alvó mód bekapcsolása az éjszakai akkuhasználat optimalizálására</string>
@@ -91,6 +92,7 @@ Az akkumulátorkímélő szelektíven kezeli a fontos alkalmazásokat."</string>
     <string name="scenario_policies_summary">Különböző speciális módokban különböző akkumulátorkímélő-stratégiák alkalmazása.</string>
     <string name="scenario_policies_title">Speciális okos módok</string>
     <string name="scenario_policies_warmcontrol">Hőmérséklet ellenőrző</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Nem található alkalmazás</string>
     <string name="show_system_app">Rendszeralkalmazások mutatása</string>
     <string name="sleep_config_enhance_description">Amint a MIUI rendszer érzékeli, hogy Ön elaludt, bezárja a háttérben futó alkalmazásokat, korlátozza az NFC, a Bluetooth, a GPS, a Wi-Fi és a mobiladat-használatot, illetve nem engedi, hogy az értesítések felébresszék a képernyőt.</string>

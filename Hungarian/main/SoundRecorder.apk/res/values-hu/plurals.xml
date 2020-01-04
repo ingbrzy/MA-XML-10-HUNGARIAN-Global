@@ -8,6 +8,14 @@
         <item quantity="other">%d elem</item>
         <item quantity="one">%d elem</item>
     </plurals>
+    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Töröl %d felvételt a felhőből?</item>
+        <item quantity="one">Töröl %d felvételt a felhőből?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">%d felvétel törlése?</item>
+        <item quantity="one">%d felvétel törlése?</item>
+    </plurals>
     <plurals name="local_records_count">
         <item quantity="other">%d elem</item>
         <item quantity="one">%d elem</item>

@@ -52,6 +52,17 @@
         <item>25 perc</item>
         <item>30 perc</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Hétfő-péntek</item>
+        <item>Minden nap</item>
+        <item>Munkanapokon</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Minden nap</item>
+        <item>Hétfő-péntek</item>
+        <item>Munkanapokon</item>
+        <item>Egyéni</item>
+    </string-array>
     <string-array name="cities_names_miui">
         <item>Abidjan</item>
         <item>Accra</item>
@@ -633,6 +644,22 @@
         <item>Suriname</item>
         <item>Ecuador</item>
     </string-array>
+    <string-array name="days_of_week">
+        <item>Vas</item>
+        <item>Hé</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pé</item>
+        <item>Szo</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>Meghatározott időben</item>
+        <item>15 perccel előtte</item>
+        <item>30 perccel előtte</item>
+        <item>1 órával előtte</item>
+        <item>Semmikor</item>
+    </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 perc</item>
         <item>5 perc</item>
@@ -641,6 +668,15 @@
         <item>20 perc</item>
         <item>25 perc</item>
         <item>30 perc</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
     </string-array>
     <string-array name="time">
         <item>%1$s</item>
@@ -664,5 +700,10 @@
         <item>Semmit se csináljanak</item>
         <item>Szundi</item>
         <item>Elvetés</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

@@ -61,6 +61,13 @@
     <string name="call_anyone">Hívás</string>
     <string name="camera_error_title">Kamera hiba</string>
     <string name="cancel">Mégse</string>
+    <string name="carsHome_title">Autó</string>
+    <string name="cars_is_public">Elindítva</string>
+    <string name="cars_no_public">Nincs elindítva</string>
+    <string name="cars_solution">"Megoldás: "</string>
+    <string name="cars_suitability">"Egyezés: "</string>
+    <string name="cars_title">Olvasson be egy autót vagy autórészletet</string>
+    <string name="carshome_data">A technikai támogatást az Autohome Inc. biztosítja.</string>
     <string name="check_for_updates">Béta frissítések keresése</string>
     <string name="choose_open_code_app">Válasszon egy alkalmazást</string>
     <string name="choose_pay_title">Válasszon fizetési módot</string>
@@ -78,6 +85,7 @@
     <string name="continue_waiting">Várjon</string>
     <string name="copy_text">Szöveg másolása</string>
     <string name="copy_text_success">A szöveg kimásolva</string>
+    <string name="copy_tracknum">Követési kód másolása</string>
     <string name="crop_cancel_description">Mégse</string>
     <string name="crop_done_description">Kész</string>
     <string name="crop_title_study">Kép méretre vágása</string>
@@ -137,10 +145,12 @@
     <string name="got_it">Rendben</string>
     <string name="gps">Navigálás</string>
     <string name="import_contact">Névjegy importálása</string>
-    <string name="impunity_declaration_content">Az alkalmazás használata közben készített fényképek feldolgozásához adjon hozzáférést a beolvasónak a kamerájához. Ne használja a beolvasót olyan tárgyak fényképezésére, amelyeken látszódnak az Ön személyes adatai. Az alábbi „Elfogadom” gombra való koppintással Ön kijelenti, hogy elolvasta és elfogadja &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\">Adatvédelmi szabályzatunkat&lt;/a>&lt;/font> és engedélyezi a beolvasónak az internethez való csatlakozást.</string>
+    <string name="impunity_declaration_content">Az alkalmazás használata közben készített fényképek feldolgozásához adjon hozzáférést a beolvasónak a kamerájához. Ne használja a beolvasót olyan tárgyak fényképezésére, amelyeken látszódnak az Ön személyes adatai. Az alábbi „Elfogadom” gombra való koppintással Ön kijelenti, hogy elolvasta és elfogadja &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Adatvédelmi szabályzatunkat&lt;/a>&lt;/font> és engedélyezi a beolvasónak az internethez való csatlakozást.</string>
     <string name="impunity_declaration_negative_text">Kilépés</string>
     <string name="impunity_declaration_title">Adatvédelmi Irányelvek</string>
     <string name="jd_shopping_title">Keresés JD-n</string>
+    <string name="jingdong">JD</string>
+    <string name="kuaidi100_data">A Kuaidi 100 biztosítja</string>
     <string name="label_choose_picture">Válasszon egy fényképet</string>
     <string name="label_flash_light">Zseblámpa</string>
     <string name="language_entry_chinese_cn">Egyszerűsített kínai</string>
@@ -150,6 +160,7 @@
     <string name="language_entry_japanese">Japán</string>
     <string name="language_entry_korean">Koreai</string>
     <string name="language_entry_spanish">Spanyol</string>
+    <string name="logistics">Expressz szállítás</string>
     <string name="low_version_tip">Frissítse a MIUI rendszert a legújabb verzióra, hogy használni tudja a Szkennert.</string>
     <string name="miracast_connect">Kivetítés</string>
     <string name="miracast_connect_fail">Nem sikerült kivetíteni, próbálja újra</string>
@@ -158,6 +169,7 @@
     <string name="miracast_message">Kivetíti ide: %s?</string>
     <string name="miracast_switch_off">A vezeték nélküli kijelző ki van kapcsolva</string>
     <string name="miracast_switch_tip">A funkció használatához kapcsolja be a vezeték nélküli kijelzőt</string>
+    <string name="mishop">Mi Áruház</string>
     <string name="module_title_business_card">Névjegykártya</string>
     <string name="module_title_code">QR-kód</string>
     <string name="module_title_document">Dokumentum</string>
@@ -176,6 +188,7 @@
     <string name="not_insert_contact">Ne rakja be a névjegyet</string>
     <string name="not_recommend_access_web_url">Mégis</string>
     <string name="note">Megjegyzés:</string>
+    <string name="now_state">"Jelenlegi állapot: "</string>
     <string name="once">Csak egyszer</string>
     <string name="open_url">URL megnyitása</string>
     <string name="pay_no_tip">Ne jelenjen meg újra</string>
@@ -188,10 +201,16 @@
     <string name="plant_reg_fail_2">Nem lehet felismerni ezt a tárgyat. A szkenner csak növényeket tud azonosítani.</string>
     <string name="plant_support">" (Technikai támogatás)"</string>
     <string name="plant_title">Szkennelje be a meghatározni kívánt növényt</string>
+    <string name="please_try_again_later">Várjon néhány percet és próbálja újra</string>
     <string name="preparing_sd">Belső tárhely előkészítése…</string>
     <string name="previous">Vissza</string>
     <string name="prompt">Figyelem</string>
     <string name="qr_code_details">QR-kód részletei:</string>
+    <string name="queryNum">Rendelés ellenőrzése</string>
+    <string name="query_faile">A rendelés állapotát és a részleteket még nem szinkronizálták. Ellenőrizze a rendelést manuálisan.</string>
+    <string name="query_inai">Engedje, hogy a Mi AI segítsen Önnek</string>
+    <string name="query_more">További információ</string>
+    <string name="query_tracknum">Ellenőrizze az express szállítással kért rendelést</string>
     <string name="recognize">Vizsgálat</string>
     <string name="recognize_fail">Nem sikerült beolvasni</string>
     <string name="request_server_failed">Nem sikerült kapcsolódni a kiszolgálóhoz</string>
@@ -200,6 +219,7 @@
     <string name="sdk_not_ready">SDK előkészítése. Próbálja újra később.</string>
     <string name="secure_access_web_url">Honlap meglátogatása</string>
     <string name="see_app_details">Alkalmazás részletek</string>
+    <string name="see_details">Koppintson a részletek megtekintéséhez</string>
     <string name="select_dialog_confirm">Ok</string>
     <string name="send_mail">E-mail küldése</string>
     <string name="setting_alipay">AliPay</string>
@@ -214,6 +234,13 @@
     <string name="shopping_title">Készítsen egy képet a termékről</string>
     <string name="shopping_vendor_info">A Taobao erejével</string>
     <string name="spaceIsLow_content">Nincs elég tárhely. Szabadítson fel egy kis helyet.</string>
+    <string name="store_feedback_prompt">Először adja meg visszajelzését</string>
+    <string name="store_location_dialog">A szolgáltatást a Dianping biztosítja. Az Ön által, a szolgáltatás használata közben készített képek, beleértve a vonatkozó helyadatokat is, megosztásra kerülnek a Dianpinggel a még több áruházadat beszerzése érdekében.</string>
+    <string name="store_location_fail">Nem sikerült lekérni a helyadatokat</string>
+    <string name="store_location_prompt">Engedélyezze a Beolvasó számára a helyadatokhoz való hozzáférést az áruházak megkeresése érdekében</string>
+    <string name="store_module_title">Áruház</string>
+    <string name="store_no_date">Áruház azonosítása sikertelen</string>
+    <string name="store_title">Áruházjel beolvasása</string>
     <string name="study_rotate_picture">Fényképfeldolgozás…</string>
     <string name="study_scan_result">Eredmény</string>
     <string name="study_searching">Találatok keresése…</string>
@@ -221,6 +248,7 @@
     <string name="study_vendor_info">Üzemeltető: Zuoyebang</string>
     <string name="suggested_submission_success">Sikeresen elküldte visszajelzését</string>
     <string name="switch_open">Bekapcsolás</string>
+    <string name="taobao">Taobao</string>
     <string name="tel">Telefon</string>
     <string name="title">Cím:</string>
     <string name="to_install_title">Ez a QR-kód átirányítja Önt egy még nem telepített alkalmazáshoz. Letölti az alkalmazás most?</string>
@@ -261,6 +289,7 @@
     <string name="url_is_unknown">A webhely biztonsága nem ellenőrzött</string>
     <string name="url_is_unsafety">Ez a weboldal nem biztonságos</string>
     <string name="vender_info_translation_kingsoft">Kingsoft alapokon</string>
+    <string name="waybill_num">"Sorrend: "</string>
     <string name="web">Honlap:</string>
     <string name="website_details">Honlap:</string>
     <string name="weixin_code_tip">Olvassa be ezt a QR-kódot a WeChat alkalmazással</string>
@@ -274,6 +303,8 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Hamarosan felülvizsgáljuk igénylését.)"</string>
     <string name="wx_not_installed_toast">A funkciónak használnia kell a WeChatet. Először telepítse a WeChatet.</string>
+    <string name="xiaoai_dialog">"Próbálja meg elmondani, hogy
+mit szeretne beolvasni a Mi AI-val"</string>
     <string name="you_have_permission_to_download">A Béta verzió letöltéséhez koppintson</string>
     <string name="you_id">"Az Ön azonosítója: "</string>
     <string name="your_application_is_under_review">" (Igénylése felülvizsgálat alatt áll.)"</string>

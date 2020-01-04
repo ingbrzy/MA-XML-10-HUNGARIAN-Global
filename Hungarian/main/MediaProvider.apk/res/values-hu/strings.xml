@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="uid_label">Média</string>
-    <string name="storage_description">Helyi tárhely</string>
+    <string name="add_alarm_text">Ébresztés hozzáadása</string>
+    <string name="add_notification_text">Értesítés felvétele</string>
+    <string name="add_ringtone_text">Csengőhang hozzáadása</string>
+    <string name="alarm_sound_default">Alapértelmezett ébresztési hang</string>
     <string name="app_label">Médiatároló</string>
     <string name="artist_label">Előadó</string>
-    <string name="ringtone_default">Alapértelmezett csengőhang</string>
+    <string name="delete_ringtone_text">Törlés</string>
+    <string name="grant_dialog_button_allow">Engedélyezés</string>
+    <string name="grant_dialog_button_deny">Tiltás</string>
     <string name="notification_sound_default">Alapértelmezett értesítési hang</string>
-    <string name="alarm_sound_default">Alapértelmezett ébresztési hang</string>
+    <string name="permission_audio">Engedélyezi a(z) <b>^1</b> számára ennek a zeneszámnak a módosítását vagy törlését?</string>
+    <string name="permission_images">Engedélyezi a(z) <b>^1</b> számára ennek a képnek a módosítását vagy törlését?</string>
+    <string name="permission_required">Az elem módosításához és törléséhez engedélyre van szükség.</string>
+    <string name="permission_required_action">Folytatás</string>
+    <string name="permission_video">Engedélyezi a(z) <b>^1</b> számára ennek a videónak a módosítását vagy törlését?</string>
+    <string name="ringtone_default">Alapértelmezett csengőhang</string>
+    <string name="root_audio">Hang</string>
     <string name="root_images">Képek</string>
     <string name="root_videos">Videók</string>
-    <string name="root_audio">Hang</string>
     <string name="sound_name_awaken">Ébresztő</string>
     <string name="sound_name_bounce">Bounce</string>
     <string name="sound_name_drip">Drip</string>
@@ -19,8 +28,8 @@
     <string name="sound_name_rise">Rise</string>
     <string name="sound_name_sway">Sway</string>
     <string name="sound_name_wag">Wag</string>
-    <string name="add_ringtone_text">Csengőhang hozzáadása</string>
-    <string name="delete_ringtone_text">Törlés</string>
+    <string name="storage_description">Helyi tárhely</string>
+    <string name="uid_label">Média</string>
     <string name="unable_to_add_ringtone">Nem sikerült hozzáadni az egyéni csengőhangot</string>
     <string name="unable_to_delete_ringtone">Nem sikerült törölni az egyéni csengőhangot</string>
 </resources>

@@ -32,6 +32,7 @@
 3. Térjen vissza erre az oldalra és érintse meg a \"Befejezés és feltöltés\" gombot."</string>
     <string name="catch_full_log_item_content_title">Lépések:</string>
     <string name="catch_full_log_item_title_audio">Hang, hangfelvétel és hanghívás</string>
+    <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Akadozás</string>
     <string name="catch_full_log_item_title_gps">Helymeghatározó szolgáltatások</string>
     <string name="catch_full_log_item_title_sensor">Érzékelők</string>
@@ -49,6 +50,7 @@
     <string name="catch_full_log_submit_directly">Beküldés</string>
     <string name="close_feedback_main">Elrejtés</string>
     <string name="cta_cancel">Mégse</string>
+    <string name="cta_confirm">OK</string>
     <string name="cta_dialog_content">A Hibanapló normális működéséhez internetkapcsolat szükséges. Folytatja?</string>
     <string name="cta_dialog_title">Internetkapcsolat</string>
     <string name="cta_not_show_again">Ne mutassa újra</string>
@@ -66,6 +68,7 @@
     <string name="err_type">A hiba típusa</string>
     <string name="err_type_app">Alk.</string>
     <string name="err_type_appstore">Áruház</string>
+    <string name="err_type_bluetooth">Bluetooth</string>
     <string name="err_type_camera">Kamera</string>
     <string name="err_type_hardware">Hardver</string>
     <string name="err_type_hardware_summary">Gombok, töltés, szenzorok, stb.</string>
@@ -79,6 +82,8 @@
     <string name="err_type_system_summary">Memória, teljesítmény, stb.</string>
     <string name="err_type_systemapp">Rendszeralkalmazás</string>
     <string name="err_type_translate">Nyelv</string>
+    <string name="err_type_wifi">Wi-Fi</string>
+    <string name="err_type_xiaomi_family">Mi Home</string>
     <string name="err_type_xiaomi_service">Ügyfélszolgálat</string>
     <string name="error_no_connection">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s probléma \"%2$s\"</string>
@@ -182,6 +187,8 @@
     <string name="feedback_tracking">Problémák követése</string>
     <string name="feedback_version_label">Verzió</string>
     <string name="feesback_list">Jelentések</string>
+    <string name="first_position">2#</string>
+    <string name="floor">%1$s#</string>
     <string name="from">tőle: %1$s</string>
     <string name="goon_feedback_main">Tovább</string>
     <string name="hint_feedback_main">Jellemezze a problémát angolul</string>
@@ -212,6 +219,7 @@
     <string name="mi_service_dialog_content">Az összes visszajelzéssel kapcsolatos funkció áthelyezésre került „Szolgáltatások és visszajelzés” alkalmazásba. A Visszajelzés alkalmazás eltávolításra kerül a kezdőképernyőről. A „Szolgáltatások és visszajelzés” alkalmazás kipróbálásához koppintson a „Megnyitás” lehetőségre.</string>
     <string name="mi_service_dialog_title">Bemutatjuk a „Szolgáltatások és visszajelzés” alkalmazást</string>
     <string name="michat_app_name">Online támogatás</string>
+    <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">Ha nem tudja hívni a 400-as számot, hívja a %1$s-t egy másik telefonról</string>
     <string name="michat_artificial_customer_text">Támogató személyzet</string>
     <string name="michat_attach_image">Kép</string>
@@ -313,9 +321,11 @@
     <string name="network_errortip_server">Szerver hiba, próbálja később</string>
     <string name="network_errortip_timeout">Csatlakozás időtúllépés, próbálja újra később</string>
     <string name="network_errortip_unknow">Próbáljuk javítani…</string>
+    <string name="network_unavailable_dialog_button_ok">OK</string>
     <string name="network_unavailable_dialog_content">A jelentés elérhető mobilhálózat esetén lesz elküldve</string>
     <string name="network_unavailable_dialog_title">A hálózat nem elérhető</string>
     <string name="non_system_app_select">Letöltött alkalmazások</string>
+    <string name="nothing">--</string>
     <string name="open_feedback_main">Továbbiak</string>
     <string name="packaging_dialog_content">Jelentés generálása, kérem várjon…</string>
     <string name="passport_access_denied">Hozzáférés megtagadva</string>
@@ -473,6 +483,7 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="passport_wrong_phone_number_format">A beírt telefonszám formátuma nem megfelelő</string>
     <string name="passport_wrong_vcode">Hibás ellenőrzőkód</string>
     <string name="pic_not_exist">A kép nem létezik</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Visszajelzése a hibanaplókkal együtt el lesz küldve a Mi szerverére.</string>
     <string name="plus_one_submit_dialog_not_show_again">Ne jelenjen meg újra</string>
     <string name="post_miui_bbs_failed">Nem sikerült a MIUI Fórumra küldeni</string>
@@ -494,6 +505,7 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="save_pic_fail">Nem sikerült menteni a képet, ellenőrizze az SD-kártyát</string>
     <string name="save_pic_success">Kép mentve ide: %s</string>
     <string name="screen_lock">Képernyőzár</string>
+    <string name="second_position">3#</string>
     <string name="section_description">Leírás</string>
     <string name="section_err_type">A hiba típusa</string>
     <string name="section_screenshot">Képernyőkép</string>
@@ -546,6 +558,7 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="toast_screenshot_too_large">Nem tölthet fel 100 MB-nál nagyobb képet vagy videót.</string>
     <string name="toast_third_packagename_required">Írja be az alkalmazás nevét</string>
     <string name="toast_title_required">Jellemezze a problémáját angolul</string>
+    <string name="topic_author">1#</string>
     <string name="try_again">Újra</string>
     <string name="upload_log_failed">A naplózás küldése sikertelen</string>
     <string name="warning_field_empty">Adja meg %1$s</string>

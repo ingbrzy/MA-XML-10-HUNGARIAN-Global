@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accept">OK</string>
     <string name="activate">Aktiválás</string>
     <string name="activate_auto_sms_notification_desc_1_card">Az \"Készülékkeresés\" aktiválásához SMS elküldve</string>
     <string name="activate_auto_sms_notification_desc_2_cards">Az \"Készülékkeresés\" aktiválásához %s SIM-kártyáról SMS elküldve</string>
@@ -8,6 +9,7 @@
     <string name="activate_feature_default_name">Mi szolgáltatások</string>
     <string name="activate_feature_find_device">Készülékkeresés</string>
     <string name="activate_feature_live_talk">Feltöltő csomag</string>
+    <string name="activate_feature_mi_roaming">Mi Roaming</string>
     <string name="activate_feature_mms_sync">Üzenetek szinkronizálása</string>
     <string name="activate_feature_mx">Mi Üzenet</string>
     <string name="activate_feature_mx_and_voip">Mi Üzenet és Hanghívás</string>

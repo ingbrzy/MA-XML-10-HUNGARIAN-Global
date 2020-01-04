@@ -41,4 +41,5 @@
     <string name="download_queued">Várakozik</string>
     <string name="download_running">Letöltés</string>
     <string name="download_error">Nem sikerült letölteni</string>
+    <string name="download_running_percent">Letöltés %s</string>
 </resources>

@@ -22,8 +22,10 @@
     <string name="cloud_status_full_dialog_ok">Bővítés</string>
     <string name="cloud_status_full_dialog_title">A Xiaomi Cloud tárhely megtelt</string>
     <string name="data_connection_body">A mobiladat-kapcsolattal történő fájlletöltés növeli az adatforgalmat. Ha túllépi az adatforgalmazási limitet, a szolgáltató további díjakat számolhat fel.</string>
+    <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Tipp</string>
     <string name="delete">Törlés</string>
+    <string name="delete_cloud_data_at_same_time">Törlés a felhőből is</string>
     <string name="delete_dialog_message">Törölni kívánja az aktuális felvételt?</string>
     <string name="deleting_message">Törlés...</string>
     <string name="details">Részletek</string>
@@ -77,6 +79,7 @@
     <string name="loading_order_list">Egy pillanat…</string>
     <string name="loading_order_list_empty">Itt nincsenek megrendelések.</string>
     <string name="low_battery_error">5% alá csökkent az akkumulátor töltöttsége. Állítsa meg és mentse a felvételt az adatvesztés elkerülése érdekében.</string>
+    <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_title">Akkumulátor lemerült</string>
     <string name="lyric_item_point_count">%1$d - %2$d</string>
     <string name="mark_point_list_title">Jelölések</string>
@@ -105,6 +108,7 @@
     <string name="online_recognize_duration_limite">(10 perctől indul)</string>
     <string name="online_recognize_fail">Sikertelen szövegátírás</string>
     <string name="online_recognize_login_fail">Nem sikerült a bejelentkezés</string>
+    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">Belépés</string>
     <string name="online_recognize_order_duration_key">Időtartam</string>
     <string name="online_recognize_order_pay">Fizetés és eredmények megtekintése</string>
@@ -125,6 +129,7 @@
     <string name="online_recognize_service_unavailable">A szolgáltatás jelenleg nem elérhető. Várjon egy kicsit és próbálja újra.</string>
     <string name="order_item_duration">Időtartam: %s</string>
     <string name="order_item_number">Megrendelés száma: %s</string>
+    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">Rendszeralkalmazások/Hangrögzítő</string>
     <string name="pause">Szüneteltetés</string>
     <string name="pay_error_cancel">A fizetés törlésre került</string>
@@ -139,6 +144,8 @@
     <string name="preference_online_orders">Online megrendelések</string>
     <string name="preference_recog_faqs">Online szövegátirat GYIK</string>
     <string name="preference_recog_terms">Szolgáltatási feltételek</string>
+    <string name="preference_record_desktop_indicator_summary">Egy kék jelzés megjelenítése a Kezdőképernyőn, ha a Hangrögzítés a háttérben fut</string>
+    <string name="preference_record_desktop_indicator_title">Kezdőképernyő jelzés</string>
     <string name="preference_record_scenes_dialog_title">Válassza ki a felvétel módját</string>
     <string name="preference_scenes">Felvételtípus</string>
     <string name="preference_silent_mode">Csengőhang-némítás felvételkor</string>
@@ -196,6 +203,8 @@
     <string name="record_list_fm">Rádiófelvételek</string>
     <string name="record_list_item_recognize_text">Szöveg</string>
     <string name="record_mark_point">%s megjelölése</string>
+    <string name="record_name_hour">.</string>
+    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">Felvételminőség</string>
     <string name="record_resotre">Felvételek visszaállítása</string>
     <string name="recording">Rögzítés</string>
@@ -260,6 +269,9 @@
     <string name="text_play_speed_1_0">Általános visszajátszási sebesség</string>
     <string name="text_play_speed_1_5">1,5X visszajátszási sebesség</string>
     <string name="text_play_speed_2_0">2X visszajátszási sebesség</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">Alk:%1$s maximum %2$s felvételt támogat</string>
     <string name="toast_uninstall_fileexplorer">Fájlkezelő nincs telepítve</string>
     <string name="usage_description">Audió átírása és elemek szinkronizálása a felhővel</string>

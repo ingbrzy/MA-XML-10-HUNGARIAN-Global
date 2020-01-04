@@ -51,6 +51,10 @@
         <item>Régebbi üzenet</item>
         <item>Bejövő üzenetek</item>
     </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Összes</item>
+        <item>Csak a feladók</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Cím:</item>
         <item>Tel:</item>

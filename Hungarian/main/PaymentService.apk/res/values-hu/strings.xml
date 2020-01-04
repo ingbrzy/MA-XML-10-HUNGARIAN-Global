@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
     <string name="abc_action_menu_overflow_description">További lehetőségek</string>
     <string name="abc_action_mode_done">Kész</string>
@@ -17,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következővel: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="passport_access_denied">Hozzáférés megtagadva</string>
     <string name="passport_account_hint_text">E-mail cím, telefonszám vagy Mi Fiók azonosító</string>
     <string name="passport_account_identity_title">Személyazonosság igazolása</string>
@@ -46,6 +49,7 @@ A fiók aktiválásához kövesse
 a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="passport_completed">Befejezés</string>
     <string name="passport_confirm_recycle_account">Igen</string>
+    <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red>疑似&lt;/font>是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
     <string name="passport_continue">Folytatás</string>
     <string name="passport_copy_message_text_success">Másolás sikeres</string>
     <string name="passport_copy_message_vcode">Kód másolása</string>

@@ -111,6 +111,7 @@
     <string name="cast_forward">Előretekerés</string>
     <string name="cast_forward_10">Előretekerés tíz másodperccel</string>
     <string name="cast_forward_30">Előretekerés harminc másodperccel</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Némítás</string>
     <string name="cast_notification_connected_message">Csatlakozva a következőhöz: %1$s</string>
     <string name="cast_notification_connecting_message">Csatlakozás a következőhöz: %1$s</string>
@@ -168,6 +169,27 @@
     <string name="com_facebook_tooltip_default">Te irányítasz – válaszd ki, milyen adatokat szeretnél megosztani az alkalmazásokkal.</string>
     <string name="com_permission_desc">A Mi Videó nem fér hozzá a videókhoz. Engedélyezze a hozzáférést a Beállításokban.</string>
     <string name="com_permission_title">Engedélyek szükségesek</string>
+    <string name="comment_model_add_comment">Új hozzászólás</string>
+    <string name="comment_model_bg_add_comment">Oszd meg gondolatait közösségünkkel</string>
+    <string name="comment_model_bg_deleted_comment">A hozzászólás törlésre került</string>
+    <string name="comment_model_comment">Hozzászólások</string>
+    <string name="comment_model_confirm_delete">Törlöd a hozzászólást?</string>
+    <string name="comment_model_copy">Másolás</string>
+    <string name="comment_model_copy_fail">Nem másolható</string>
+    <string name="comment_model_copy_success">Másolás sikeres</string>
+    <string name="comment_model_delete">Törlés</string>
+    <string name="comment_model_delete_fail">Nem törölhető</string>
+    <string name="comment_model_delete_success">Sikeresen törölve</string>
+    <string name="comment_model_reply">Válaszok</string>
+    <string name="comment_model_reply_comment">"Válasz %s részére: "</string>
+    <string name="comment_model_report">Jelentés</string>
+    <string name="comment_model_report_fail">Nem sikerült jelenteni</string>
+    <string name="comment_model_report_success">Sikeresen jelentve</string>
+    <string name="comment_model_send_fail">Nem sikerült elküldeni</string>
+    <string name="comment_model_send_fail_frequently">Ne olyan gyorsan! Várj egy-két percet, majd próbáld újra.</string>
+    <string name="comment_model_send_forbid_desc">Több olyan hozzászólást is közzétettél, amely sérti közösségi alapelveinket. Fiókod ideiglenesen felfüggesztésre kerül. Az alkalmazáson belül adható visszajelzésen keresztül kifejtheted a véleményed a döntésünk ellen.</string>
+    <string name="comment_model_send_forbid_tips">Fiók felfüggesztve</string>
+    <string name="comment_model_send_success">Sikeresen elküldve</string>
     <string name="common_cancel">Mégsem</string>
     <string name="common_google_play_services_enable_button">Engedélyezés</string>
     <string name="common_google_play_services_enable_text">"A(z) %1$s alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
@@ -199,7 +221,7 @@
     <string name="diagnosis_log_sent_format">"A naplók sikeresen elküldésre kerültek.
 Azonosító:%s
 Küldje el ezt a kódot a vezetőjének."</string>
-    <string name="dialog_privacy_info_new2">A szolgáltatások használatához bele kell egyeznie, hogy az %1$s felhasználja és tárolja a személyes adatait. Az alábbi \"Elfogadom\" gombra koppintással kijelenti, hogy elolvasta és elfogadja az &lt;a href=%2$s>Adatvédelmi szabályzatunkat&lt;/a>.</string>
+    <string name="dialog_privacy_info_new2">A szolgáltatások használatához bele kell egyeznie, hogy az %1$s felhasználja és tárolja a személyes adatait. Az alábbi \"Elfogadom\" gombra koppintással kijelenti, hogy elolvasta és elfogadja az &lt;a href=\"%2$s\">Adatvédelmi szabályzatunkat&lt;/a>.</string>
     <string name="dialog_privacy_title">Engedélyezés</string>
     <string name="dialog_revoke_privacy_info_new2">Az engedély visszavonását követően az alkalmazás nem gyűjt több adatot, és minden érintett adatot töröl a szervereinkről. Ezt követően előfordulhat, hogy az alkalmazás virtuálisan nem lesz használható. Biztos, hogy visszavonja az engedélyt?</string>
     <string name="dialog_revoke_privacy_title">Engedély visszavonása</string>
@@ -253,6 +275,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="favorite_cancel_success">Sikeresen eltávolítva a kedvencekből</string>
     <string name="favorite_fail">Kedvencekhez adás sikertelen. Próbálja újra.</string>
     <string name="favorite_success">Sikeresen a kedvencekhez adva</string>
+    <string name="fcm_fallback_notification_channel_label">Egyéb</string>
     <string name="feedback">Visszajelzés</string>
     <string name="feedback_activity_title">Visszajelzés</string>
     <string name="feedback_contact_empty">Írja be elérhetőségeit</string>
@@ -431,7 +454,7 @@ a videókhoz"</string>
     <string name="lv_subtitle_onlinesub_loading">Feliratok betöltése…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Feliratok betöltése…</string>
     <string name="lv_subtitle_onlinesub_right_declare">Nyilatkozat</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">Feliratok lekérése &lt;br/>&lt;br/>a &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> weboldalról. &lt;br/>&lt;br/>Az összes online feliratot a &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> biztosítja.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">Feliratok lekérése &lt;br/>&lt;br/>a &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a> weboldalról. &lt;br/>&lt;br/>Az összes online feliratot a &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a> biztosítja.</string>
     <string name="lv_subtitle_onlinesub_save_failed">A feliratok hozzáadása nem sikerült</string>
     <string name="lv_subtitle_onlinesub_save_success">Feliratok sikeresen hozzáadva</string>
     <string name="lv_subtitle_onlinesub_search_keyword">Adjon meg kulcsszavakat a kereséshez</string>
@@ -501,8 +524,15 @@ a videókhoz"</string>
     <string name="no_recommend_data">Most nincs ajánlott videó</string>
     <string name="no_subscriptions">Itt nincsenek elemek</string>
     <string name="not_show">Ne mutassa újra</string>
+    <string name="notice_comment_action">%s hozzászolt a bejegyzésedhez</string>
+    <string name="notice_comment_action_deleted">A hozzászólás törlésre került</string>
+    <string name="notice_feedback_content">Frissítés érhető el az idővonaladon. Koppints a megtekintéshez.</string>
+    <string name="notice_like_action">%s kedvelte a hozzászólásodat</string>
+    <string name="notice_message_title">Értesítések</string>
+    <string name="notice_title">Üzenetek</string>
     <string name="notify_apk_installed">Sikeresen letöltve</string>
     <string name="ok">OK</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Legutóbbi feliratkozások</string>
     <string name="order_recently_updated">Nemrég frissítve</string>
     <string name="ovp_alert_dialog_download_install_task">HD beépülő letöltése…</string>
@@ -510,6 +540,7 @@ a videókhoz"</string>
     <string name="ovp_category">Kategóriák</string>
     <string name="ovp_confirm_delete_favor">Eltávolítja a kiválasztott elemeket a kedvencekből?</string>
     <string name="ovp_default_plugin_name">HD beépülő</string>
+    <string name="ovp_detail_back_to_watch_more">Fedezzen még többet a Kezdőképernyőn</string>
     <string name="ovp_detail_collapse_summary">Elrejtés</string>
     <string name="ovp_detail_collect">Kedvencekhez adás</string>
     <string name="ovp_detail_comment">Megjegyzés</string>
@@ -552,12 +583,14 @@ a videókhoz"</string>
     <string name="ovp_loading_video_netplay_label_v5">Egy pillanat…</string>
     <string name="ovp_local_videos_title">Helyi videók</string>
     <string name="ovp_navigation_category">Kategória</string>
+    <string name="ovp_navigation_content">Tartalom együttműködés</string>
     <string name="ovp_navigation_favorites">Kedvencek</string>
     <string name="ovp_navigation_feedback">Visszajelzés</string>
     <string name="ovp_navigation_history">Előzmény</string>
     <string name="ovp_navigation_home">Kezdőoldal</string>
     <string name="ovp_navigation_language">Nyelv</string>
     <string name="ovp_navigation_localvideo">Helyi</string>
+    <string name="ovp_navigation_notice">Értesítések</string>
     <string name="ovp_navigation_setting">Beállítások</string>
     <string name="ovp_navigation_subscribe">Feliratkozás</string>
     <string name="ovp_player_plugin_dlg_neg_btn">Bezár</string>
@@ -665,8 +698,8 @@ Először frissítse a Mi Videót a legújabb verzióra."</string>
     <string name="passport_unknow_error">Ismeretlen hiba lépett fel</string>
     <string name="passport_unknow_host_network_error">Ellenőrizze a hálózati beállításokat, majd próbálja újra</string>
     <string name="passport_unknow_network_error">Hálózati hiba történt</string>
-    <string name="passport_user_agreement_link">&lt;Data>Elolvastam és elfogadom a Xiaomi &lt;a href=%1$s>Felhasználói megállapodását&lt;/a> és &lt;a href=%2$s>Adatvédelmi szabályzatát&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>ELolvastam és elfogadom a következő dokumentumokat: Xiaomi &lt;a href=%1$s>Felhasználóu megállapodása&lt;/a> és &lt;a href=%4$s>Adatvédelmi szabályzata&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>Elolvastam és elfogadom a Xiaomi &lt;a href=\"%1$s\">Felhasználói megállapodását&lt;/a> és &lt;a href=\"%2$s\">Adatvédelmi szabályzatát&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>ELolvastam és elfogadom a következő dokumentumokat: Xiaomi &lt;a href=\"%1$s\">Felhasználóu megállapodása&lt;/a> és &lt;a href=\"%4$s\">Adatvédelmi szabályzata&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">Adja meg a jelszót a következőhöz: %1$s</string>
     <string name="passport_v_code_error">Az ellenőrző kód érvénytelen</string>
     <string name="passport_vcode_notification_title">A bejelentkezés ellenőrzése befejezetlen</string>
@@ -703,6 +736,7 @@ Fiókbiztonság növelése."</string>
     <string name="playlist_title">Lejátszási lista</string>
     <string name="plus_add_shortcut">Kezdőképernyő parancsikon létrehozása</string>
     <string name="plus_change_poster">Albumborító módosítása</string>
+    <string name="plus_continue_watching">Megtekintés folytatása</string>
     <string name="plus_deleting_wait">Törlés</string>
     <string name="plus_fallback">Visszajelzés</string>
     <string name="plus_gallery_allvideos">Összes videó</string>
@@ -721,6 +755,12 @@ Fiókbiztonság növelése."</string>
     <string name="plus_gallery_video_title_mediatype">Videó kategóriák</string>
     <string name="plus_gallery_video_title_othergallery">Más videók</string>
     <string name="plus_loading_text">Elemek betöltése…</string>
+    <string name="plus_menu_delete">Törlés</string>
+    <string name="plus_menu_delete_popup_text">Törlés most?</string>
+    <string name="plus_menu_properties">Tulajdonságok</string>
+    <string name="plus_menu_rename">Átnevezés</string>
+    <string name="plus_menu_rename_fail">A fájlnév nem tartalmazhat \"/\" szimbólumot</string>
+    <string name="plus_menu_share">Megosztás</string>
     <string name="plus_mine_gallery">Albumaim</string>
     <string name="plus_mine_videos">Saját videók</string>
     <string name="plus_player_8k_video_not_support">8K videókat nem tudja lejátszani a készülékén</string>
@@ -759,7 +799,7 @@ Fiókbiztonság növelése."</string>
     <string name="plus_player_subtitle_local_add_success">Feliratok sikeresen hozzáadva</string>
     <string name="plus_player_subtitle_no_file">Itt nincs felirat.</string>
     <string name="plus_player_subtitle_online">Online feliratok</string>
-    <string name="plus_player_subtitle_online_declare_content">Ön &lt;br/>felirat keresésére készül az &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> atabázisban. &lt;br/>Minden feliratot az &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> biztosít.</string>
+    <string name="plus_player_subtitle_online_declare_content">Ön &lt;br/>felirat keresésére készül az &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a> atabázisban. &lt;br/>Minden feliratot az &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a> biztosít.</string>
     <string name="plus_player_subtitle_online_declare_title">Nyilatkozat</string>
     <string name="plus_player_subtitle_online_download_fail">Feliratok letöltése nem sikerült</string>
     <string name="plus_player_subtitle_online_download_start">Feliratok letöltése…</string>
@@ -771,6 +811,31 @@ Fiókbiztonság növelése."</string>
     <string name="plus_player_unhide">Mutatás</string>
     <string name="plus_player_video_not_support">Ez a videoformátum nem támogatott.</string>
     <string name="plus_poster_reset_default">Alapborító visszaállítása</string>
+    <string name="plus_properties_bit_rate">Bitráta</string>
+    <string name="plus_properties_codec">Kodek</string>
+    <string name="plus_properties_date">Dátum</string>
+    <string name="plus_properties_file">Fájl</string>
+    <string name="plus_properties_file_name">Fájlnév</string>
+    <string name="plus_properties_finished">Befejezve</string>
+    <string name="plus_properties_format">Formátum</string>
+    <string name="plus_properties_frame_rate">Képkockasebesség</string>
+    <string name="plus_properties_last_playback_position">Utolsó pozíció</string>
+    <string name="plus_properties_last_playback_time">Utoljára játszott</string>
+    <string name="plus_properties_length">Időtartam</string>
+    <string name="plus_properties_media">Média</string>
+    <string name="plus_properties_path">Hely</string>
+    <string name="plus_properties_playback_history">Lejátszási előzmények</string>
+    <string name="plus_properties_resolution">Felbontás</string>
+    <string name="plus_properties_sample_rate">Mintavételezési frekvencia</string>
+    <string name="plus_properties_size">Méret</string>
+    <string name="plus_properties_status">Állapot</string>
+    <string name="plus_properties_stream">Közvetítés</string>
+    <string name="plus_properties_stream_title">Cím</string>
+    <string name="plus_properties_type">Típus</string>
+    <string name="plus_properties_type_audio">Hang</string>
+    <string name="plus_properties_type_subtitle">Feliratok</string>
+    <string name="plus_properties_type_video">Videó</string>
+    <string name="plus_properties_unfinish">Nincs befejezve</string>
     <string name="plus_search_barhint">Helyi videók keresése</string>
     <string name="plus_search_guide">Videók keresése</string>
     <string name="plus_search_result_empty">Nincs találat</string>
@@ -810,6 +875,11 @@ Fiókbiztonság növelése."</string>
     <string name="reload_sub_title">Újrapróbálkozáshoz érintse meg.</string>
     <string name="reload_title">Nem sikerült kapcsolódni a hálózathoz.</string>
     <string name="report">Jelentés</string>
+    <string name="report_content_fakement">Levélszemét vagy csalás</string>
+    <string name="report_content_illegal">Jogszerűtlen nyilatkozatok</string>
+    <string name="report_content_other">Egyéb</string>
+    <string name="report_content_sexy">Nyílt szexuális tartalom</string>
+    <string name="report_content_violence">Gyűlöletbeszéd</string>
     <string name="report_fail">Nem sikerült jelenteni. Próbálja újra.</string>
     <string name="report_success">Sikeresen jelentve</string>
     <string name="resend_active_email">Újraküldés</string>
@@ -862,6 +932,7 @@ Fiókbiztonság növelése."</string>
     <string name="sns_bind_limit">Túl sok próbálkozás. Próbálkozzon másféle bejelentkezési módokkal.</string>
     <string name="sns_sign_in">Más bejelentkezési módok</string>
     <string name="source">"Forrás: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD kártya</string>
     <string name="storage_internal_sdcard">Belső tárhely</string>
     <string name="submit">Küldés</string>

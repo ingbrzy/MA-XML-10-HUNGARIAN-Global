@@ -32,6 +32,22 @@
         <item quantity="other">%d másodperc</item>
         <item quantity="one">%d másodperc</item>
     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s óra</item>
+        <item quantity="one">%1$s óra</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s óra</item>
+        <item quantity="one">%1$s óra</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s perc</item>
+        <item quantity="one">%1$s perc</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s perc</item>
+        <item quantity="one">%1$s perc</item>
+    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">A szundikálás intervallumát %d percre módosította</item>
         <item quantity="one">A szundikálás intervallumát %d percre módosította</item>
