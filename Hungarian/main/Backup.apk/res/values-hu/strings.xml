@@ -131,7 +131,6 @@ https://appleid.apple.com/#!&amp;page=signin weboldalra"</string>
     <string name="dialog_backup_password_change_machine_tips">Jelszóval védett mentéseket nem tud átmásolni. A Mi Átköltözés használata előtt kapcsolja ki a mentés jelszóvédelmét.</string>
     <string name="dialog_backup_password_restore_tips">Ha a mentések jelszavas védelme aktív, akkor nem tudja visszaállítani az elemeket. Előbb kapcsolja ki a jelszóvédelmet.</string>
     <string name="dialog_backup_password_to_settings">Beállítások</string>
-    <string name="digit_percent">%</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="disable_encrypt_description">Nincs titkosítás</string>
     <string name="disable_encrypt_title">Titkosítás letiltva</string>
@@ -226,7 +225,6 @@ készítenie kell egy iCloud mentést."</string>
 2.\u0009Lépjen a Mi Talk beállításaiba és válassza a ”Névjegyek mentése a Mi Fiókba” lehetőséget"</string>
     <string name="import_from_xiaomi_account_hint2">Ha már rendelkezik mentéssel, érintse meg a Tovább-ot.</string>
     <string name="import_from_xiaomi_account_hint_title">Használja a Mi Talkot névjegyek mentéséhez.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Kompatibilitási problémák miatt adatainak csak egy részét importálhatja iOS készülékéről. Mielőtt elkezdené a Mi Átköltözést, győződjön meg róla, hogy készített iCloud mentést.</string>
     <string name="lack_perm_msg">A Mi Átköltözés alkalmazásnak a következő engedélyekre van szüksége: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Engedélyek szükségesek</string>
@@ -647,11 +645,8 @@ nyomja meg az \"Én vagyok a küldő\" gombot és válasszon egy hotspotot.
 Ne zárja be az oldalt a kapcsolat létrejötte előtt."</string>
     <string name="waiting">Egy pillanat…</string>
     <string name="wifi_title">Wi-Fi-beállítások</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Nem sikerült elindítani a letöltést. győződjön meg róla, hogy a letöltéskezelő megfelelően működik.</string>
     <string name="xiaomi_external_storage_unavailable">Az adattároló eszköz nem elérhető, ellenőrizze az SD-kártyát.</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Bemutatkozik az %1$s verzió

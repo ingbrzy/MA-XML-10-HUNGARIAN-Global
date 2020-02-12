@@ -240,7 +240,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="battery_saver">Akkumulátorkímélő</string>
     <string name="battery_saver_keywords">akkumulátorkímélő;e-mail akkumulátor</string>
     <string name="bcc">Titkos másolat</string>
-    <string name="bcc_heading">"Bcc: "</string>
     <string name="bill_center_setting">Számlázási beállítások</string>
     <string name="bill_center_setting_head">Importálás ezekről a számlákról</string>
     <string name="bill_cycle_text">Számlázási ciklus</string>
@@ -261,7 +260,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="cancel_pop3_attchemt_downloading">Nem szakítható meg a POP3-fiókok esetén a mellékletek folyamatban levő letöltései</string>
     <string name="cant_move_or_change_labels">Nem lehet több fiókból áthelyezni.</string>
     <string name="cc">Másolat</string>
-    <string name="cc_attribution">Másolat: %1$s&lt;br></string>
     <string name="cc_bcc">Másolat/Titkos másolat</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">A(z) „%s” tanúsítvány hozzáadása sikertelen</string>
@@ -288,7 +286,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="click_download_all_content">[ Érintse meg a tartalom letöltéséhez ]</string>
     <string name="click_to_reload">Érintse meg a képernyőt az újratöltéshez</string>
     <string name="collapse_recipient_details">Címzett adatainak elrejtése</string>
-    <string name="colon">:</string>
     <string name="compose">Levélírás</string>
     <string name="compose_attachment_number_limit">Maximum 10 melléklet csatolható</string>
     <string name="compose_paste_address_oob">Túl sok karakter</string>
@@ -521,7 +518,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="gmail_web_login_required_message">Bejelentkezés Gmailbe</string>
     <string name="have_auth_code">Rendelkezem kóddal</string>
     <string name="header_category_account">Fiókok</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Visszajelzés</string>
     <string name="header_label_general_preferences">Általános</string>
     <string name="help_and_info">Súgó</string>
@@ -545,7 +541,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="invalid_recipient">"A cím %s  érvénytelen."</string>
     <string name="invalid_recipient_title">Kedvezményezett hiba</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Nincs még e-mail.</string>
     <string name="load_from_remote">Levelek keresése a kiszolgálón</string>
     <string name="load_more">Több betöltése</string>
@@ -1062,10 +1057,8 @@ Várjon, amíg teljesen szinkronizálásra kerül, vagy az üzenetet a számít�
     <string name="silent_ringtone">Néma</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">A kimenő levelek kiszolgálójának jelszava helytelen</string>
     <string name="sort_attachment">Rendezés</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">Tárhely</string>
     <string name="str_select_all">Összes kijelölése</string>
     <string name="str_select_none">Összes kijelölés megszüntetése</string>
