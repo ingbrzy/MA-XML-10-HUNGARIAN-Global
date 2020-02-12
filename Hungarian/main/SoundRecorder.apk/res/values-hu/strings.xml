@@ -152,6 +152,10 @@
     <string name="preference_status_bar_indicator_prompt">A státuszsáv parancsikonjának megjelenítése felvétel alatt</string>
     <string name="preference_tip_rename">Felvétel automatikus átnevezése</string>
     <string name="privacy_policy_title">Adatvédelmi Irányelvek</string>
+    <string name="recognition_button_add_to_queue">Hozzáadás a várólistához</string>
+    <string name="recognition_button_cancel">Most nem</string>
+    <string name="recognition_button_start">Szövegátirat</string>
+    <string name="recognition_confirm_dialog_body">A szövegátirás eltarthat egy darabig. Ha a feladat elkészült, értesítést kap róla. Szeretné létrehozni most a szövegátiratot?</string>
     <string name="recognition_error_cancel">Megszakítva</string>
     <string name="recognition_error_code">Hibakód: %d</string>
     <string name="recognition_error_download_cancel">Később</string>
@@ -167,6 +171,11 @@
     <string name="recognition_error_internal">Belső hiba</string>
     <string name="recognition_error_stopped">Átírás leállítva</string>
     <string name="recognition_error_unknown">Ismeretlen hiba történt. Jelentse nekünk, majd próbálja újra.</string>
+    <string name="recognition_interrupt_current_dialog_body">A szövegátirás eltarthat egy darabig. Ha elkészült, értesítést kap róla. A(z) „%s” szövegátirata épp készül. Hozzáadja a feladatot a szövegátiratra várakozó tételek közé?</string>
+    <string name="recognition_notification_channel">Szövegátírás</string>
+    <string name="recognition_notification_complete_success">„%s” szövegátírása sikeres. A megtekintéshez koppintson.</string>
+    <string name="recognition_notification_error">Sikertelen szövegátírás „%s”</string>
+    <string name="recognition_notification_running">Szövegátírás „%s”…</string>
     <string name="recognition_process_dialog_body">Jelenleg más felvételek (%s) állnak átírás alatt. Megállítja a folyamatban lévő feladatokat és elindít egy újat?</string>
     <string name="recognition_process_dialog_cancel">Várólista</string>
     <string name="recognition_process_dialog_confirm">Kényszerített indítás</string>
@@ -174,6 +183,7 @@
     <string name="recognition_status_downloaded">A szövegátíró motor letöltése sikeres</string>
     <string name="recognition_status_downloading">"Letöltés "</string>
     <string name="recognition_status_init">"Előkészítés "</string>
+    <string name="recognition_stop_current">Folyamatban lévő feladat leállítása</string>
     <string name="recognize_choose_dialog_offline">Szövegátírás ingyen</string>
     <string name="recognize_choose_dialog_offline_desp">Felvételek szövegátírása internethez való kapcsolódás nélkül</string>
     <string name="recognize_choose_dialog_online">Szövegátírás a felhőben</string>

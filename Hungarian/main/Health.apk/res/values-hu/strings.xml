@@ -83,7 +83,7 @@ to add cards"</string>
     <string name="delete_menstruation_record_confirm">Törli ezt a bejegyzést?</string>
     <string name="dialog_abandon">Elvet</string>
     <string name="dialog_abandon_sleep_edit">Elveti az esemény módosításait?</string>
-    <string name="dialog_account_perm_desc">For accessing your Mi Account</string>
+    <string name="dialog_account_perm_desc">A rendszerfiókhoz való hozzáféréshez és bejelentkezéshez</string>
     <string name="dialog_agree_and_continue">Elfogadom</string>
     <string name="dialog_auto_start_detail">"Engedélyezze a Mi Health-nek, hogy automatikusan induljon és fogadhasson értesítéseket.
 A Mi Health csak fontos eseményekről fog értesítéseket küldeni Önnek."</string>
@@ -114,7 +114,7 @@ A Mi Health csak fontos eseményekről fog értesítéseket küldeni Önnek."</s
     <string name="dialog_permission_loading_msg">Ellenőrzés…</string>
     <string name="dialog_privacy_policy_statement">Adatvédelmi nyilatkozat</string>
     <string name="dialog_privacy_title">Felhasználási feltételek</string>
-    <string name="dialog_read_phone_perm_desc">For identifying your device</string>
+    <string name="dialog_read_phone_perm_desc">A készülékfunkciók beazonosításához OAID- vagy Android-azonosító használatával</string>
     <string name="dialog_sleep_goal_setting">Set sleep duration goal</string>
     <string name="dialog_sleep_goal_subtitle">Get 7–9 hours of sleep every day</string>
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>

@@ -10,16 +10,12 @@
     <string name="bubble_text">Felvétel indításához érintse meg</string>
     <string name="button_back">Vissza</string>
     <string name="button_clear_storage">Tárhely-felszabadítás</string>
-    <string name="button_confirm">OK</string>
     <string name="button_goon_recorder">Folytatás</string>
     <string name="cancel_edit">Mégse</string>
     <string name="cannot_change_frames">A képkockasebesség csak a rögzített képkockasebességű felvételeknél kerül testreszabásra.</string>
     <string name="cannot_change_parames">Felvétel közben nem tudja állítani a paramétereket</string>
     <string name="cannot_record">Nem sikerült a felvétel, próbálkozzon később.</string>
     <string name="close_screen_record">Befejezett felvétel</string>
-    <string name="date_day" />
-    <string name="date_month">/</string>
-    <string name="date_year">/</string>
     <string name="description_content">A Képernyővideó-felvevő biztosítja, hogy fel tudja venni a rendszerben történő eseményeket. Ha folytatja, nem lesz képes használni a Képernyővideó-felvevőt. Erősítse meg, hogy folytatja.</string>
     <string name="description_title">A Képernyővideó-felvevőről</string>
     <string name="deselect_all">Kijelölések törlése</string>
@@ -33,7 +29,6 @@
     <string name="frequently_click_toast">Egy pillanat…</string>
     <string name="gleam_led_while_recording">Értesítő LED világít a felvétel alatt</string>
     <string name="hint_back">Vissza</string>
-    <string name="hint_home">Home</string>
     <string name="hint_menu">Menü</string>
     <string name="hint_power">Bekapcsológomb</string>
     <string name="hint_volume_down">Hangerő le</string>
@@ -77,10 +72,6 @@
     <string name="show_hard_key_summary">Jelezze, ha a Home, Menü vagy Vissza gombok érintve lettek</string>
     <string name="show_screen_touch">Érintés-visszajelzés</string>
     <string name="show_screen_touch_summary">Érintési gesztusok megjelenítése fehér pontként</string>
-    <string name="size_byte">B</string>
-    <string name="size_gigabyte">GB</string>
-    <string name="size_kilobyte">KB</string>
-    <string name="size_megabyte">MB</string>
     <string name="sound_source">A rögzítés hangforrása</string>
     <string name="sound_source_summary">Rendszerhangok vagy mikrofon</string>
     <string name="sound_source_summary_without_system_sounds">Mikrofon használata vagy némítás</string>
@@ -92,7 +83,6 @@
     <string name="stop_recording">Rögzítés befejezése</string>
     <string name="storage_location">Tárhely</string>
     <string name="storage_location_summary">Válassza ki a kívánt tárolási lehetőséget</string>
-    <string name="timer_format">%s</string>
     <string name="unchecked">Nem kiválaszott</string>
     <string name="using_record_confirm_cancel">Korlátozás</string>
     <string name="using_record_confirm_ok">Engedélyezés</string>

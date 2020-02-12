@@ -483,6 +483,7 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="passport_wrong_phone_number_format">A beírt telefonszám formátuma nem megfelelő</string>
     <string name="passport_wrong_vcode">Hibás ellenőrzőkód</string>
     <string name="pic_not_exist">A kép nem létezik</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Visszajelzése a hibanaplókkal együtt el lesz küldve a Mi szerverére.</string>
     <string name="plus_one_submit_dialog_not_show_again">Ne jelenjen meg újra</string>
     <string name="post_miui_bbs_failed">Nem sikerült a MIUI Fórumra küldeni</string>

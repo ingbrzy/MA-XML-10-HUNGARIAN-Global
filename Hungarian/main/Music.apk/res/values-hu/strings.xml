@@ -54,6 +54,7 @@
     <string name="action_item_hifi">Fejhallgatók és hanghatások</string>
     <string name="action_item_play_all">Összes keverése</string>
     <string name="action_item_play_next">Lejátszás később</string>
+    <string name="action_item_play_video">Videoklip lejátszása</string>
     <string name="action_item_remove">Eltávolítás</string>
     <string name="action_item_remove_from_favorite">Eltávolítás a Kedvencek közül</string>
     <string name="action_item_share">Megosztás</string>
@@ -111,6 +112,7 @@
     <string name="artist_name">Előadó</string>
     <string name="audio_picker_title">Dal választása</string>
     <string name="auto_recommend">Automatikus (javasolt)</string>
+    <string name="auto_sound_quality">Auto</string>
     <string name="auto_update">Automatikus frissítés</string>
     <string name="auto_update_tip">A mobiladatokat használva frissítheted a rendszer-alkalmazásokat. Ez addicionális adatdíjakat generálhat.</string>
     <string name="available_playlist_name_format">Új lejátszási lista %d</string>
@@ -128,11 +130,13 @@
     <string name="button_wait_for_wifi">Várakozás</string>
     <string name="cancel">Mégse</string>
     <string name="cancel_running_download">Mégse</string>
+    <string name="cannot_download_to_sdcard_hint">Szerzői jogi korlátozások miatt nem tölthetők le az elemek az SD-kártyára. Az elemek a belső tárhelyre kerülnek letöltésre.</string>
     <string name="change_download_quality">Letöltés minőségének módosítása</string>
     <string name="checking_new_version">Frissítések keresése…</string>
     <string name="choose_download_quality">Letöltés minőségének kiválasztása</string>
     <string name="choose_music_lang_pref">Dalok preferált nyelve</string>
     <string name="choose_stream_quality">Streamelés minőségének kiválasztása</string>
+    <string name="click_and_watch_video_tip">Zene lejátszásához koppintson</string>
     <string name="click_to_add_album_cover_and_lyric">Albumborító és dalszöveg hozzáadásához koppintson</string>
     <string name="click_to_shuffle">Lejátszás keverve</string>
     <string name="close_music_time">Hátralévő idő:</string>
@@ -161,6 +165,7 @@
     <string name="connecting_apk">Csatlakozás…</string>
     <string name="create_playlist">Lejátszási lista készítése</string>
     <string name="create_playlist_failure">Nem készíthető lejátszási lista</string>
+    <string name="create_playlist_input_hint">Lejátszási lista nevének megadása</string>
     <string name="current_album">Aktuális albumborító</string>
     <string name="current_lyric">Aktuális dalszöveg</string>
     <string name="current_version">Jelenlegi verzió</string>
@@ -265,7 +270,9 @@
     <string name="download_method">Letöltés</string>
     <string name="download_no_application_title">Nem lehet megnyitni a fájlt</string>
     <string name="download_paused_in_power_save_mode">Bekapcsolt Akkumulátorkímélő esetén a letöltések szünetelnek</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Letöltés…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Letöltés minősége</string>
     <string name="download_quality_summary">További beállítások a letölteni kívánt dalokhoz</string>
     <string name="download_queued">Várólistán</string>
@@ -346,7 +353,9 @@
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -374,6 +383,7 @@
     <string name="fcm_fallback_notification_channel_label">Egyéb</string>
     <string name="feed_back">Visszajelzés</string>
     <string name="file_not_found">A fájl nem létezik</string>
+    <string name="filter_by_MP4">MP4-fájlokat tartalmazó mappák megjelenítése</string>
     <string name="filter_by_duration">Időtartam szerint</string>
     <string name="filter_by_duration_max">%d perc</string>
     <string name="filter_by_duration_min">%d mp</string>
@@ -415,6 +425,7 @@
     <string name="home_tab_local">Zenéim</string>
     <string name="home_tab_more_music">Még több zene</string>
     <string name="home_tab_online">Online zene</string>
+    <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Keresés</string>
     <string name="hot_icon_in_fast_indexer">Hot</string>
     <string name="hungama_batch_download_alert_summary">Több dalt csak PRO tagok tölthetnek le. Szeretnél PRO tagságot most?</string>
@@ -599,6 +610,7 @@
     <string name="online_apk_install_in_background">Online tartalom betöltése a háttérben…</string>
     <string name="online_apk_install_network_change_paused">Ön mobiladatforgalmat használt. A betöltés alatt álló tételek szüneteltetésre kerültek. A megtekintéshez érintse meg a következőt: %s.</string>
     <string name="online_apk_install_network_error">Nem sikerült csatlakozni a hálózathoz. Ellenőrizze hálózati beállításait, majd próbálja újra.</string>
+    <string name="online_apk_install_tips">Egyszer le kell töltenie a tartalomszolgáltató beépülő modulját. Következő alkalommal közvetlenül hozzáférhet a dalokhoz.</string>
     <string name="online_list_delete_message">Az lejátszási lista összes letöltött dala törölve lesz a belső tárhelyről.</string>
     <string name="online_playlist_category">Lejátszási listák</string>
     <string name="online_recommend">Lejátszási lista</string>
@@ -661,6 +673,7 @@
     <string name="priority_storage_summary">Fájlok automatikus mentése az SD-kártyára, ha rendelkezésre áll</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
     <string name="privacy_policy">Adatvédelmi Irányelvek</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=hu_HU</string>
     <string name="pro_member">PRO tag</string>
     <string name="project_device">Mi Telefon</string>
     <string name="prompt_grant_write_settings_permission">Rendszerbeállítások módosításának engedélyezése</string>
@@ -738,6 +751,8 @@
     <string name="service_and_settings">Szolgáltatás és beállítások</string>
     <string name="set_as_alarm_clock_ringtone">Riasztás</string>
     <string name="set_as_ring">Beállítás csengőhangnak</string>
+    <string name="set_online_home_subtitle">Online ajánlások megnyitása az alkalmazás indításakor</string>
+    <string name="set_online_home_title">Online ajánlások megjelenítése indításkor</string>
     <string name="set_ringtones_failed">Nem sikerült beállítani csengőhangnak</string>
     <string name="set_ringtones_successful">%s beállítva csengőhangnak</string>
     <string name="setting_feature_setting">Funkciók beállításai</string>
@@ -786,6 +801,7 @@
     <string name="start_to_check_new_version">Frissítések keresése…</string>
     <string name="start_to_download">Letöltés…</string>
     <string name="start_to_play">Lejátszás</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Klónozott alkalmazások tárhelye</string>
     <string name="storage_internal">Belső tárhely</string>
     <string name="storage_sd_card">SD-kártya</string>
@@ -862,6 +878,7 @@
     <string name="upgrade_music_message">Frissítések készen állnak. Indítsa újra a frissítéshez.</string>
     <string name="upgrading_in_backstage">Frissítés a háttérben…</string>
     <string name="user_agreement">Felhasználói Szerződés</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=hu_HU</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
     <string name="version_info">Verzió</string>
@@ -878,4 +895,5 @@
     <string name="wifi_required_title">Wi-Fi kapcsolat szükséges a fájl letöltéséhez</string>
     <string name="you_can_switch_mode_in_settings">A Beállításokban válthat a módok között</string>
     <string name="you_may_like">Még szintén kedvelheti</string>
+    <string name="youtube_play_history">Lejátszási előzmények</string>
 </resources>

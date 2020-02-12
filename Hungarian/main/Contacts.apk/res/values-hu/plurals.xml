@@ -105,7 +105,7 @@
         <item quantity="one">%1$d névjegy részben azonos adatokkal</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">összekapcsolva %0$d forrásból</item>
+        <item quantity="other">összekapcsolva %1$d forrásból</item>
         <item quantity="one">nincs összekapcsolva</item>
     </plurals>
     <plurals name="notification_voicemail_title">
@@ -121,7 +121,7 @@
         <item quantity="one">%1$d ember innen: %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d csoport</item>
+        <item quantity="other">%1$d csoport</item>
         <item quantity="one">1 csoport</item>
     </plurals>
     <plurals name="number_of_items_available">

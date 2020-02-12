@@ -2,5 +2,4 @@
 <resources>
     <string name="mi_wallpaper_loading">Mi háttér betöltése...</string>
     <string name="mi_wallpaper_title">Mi háttér</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

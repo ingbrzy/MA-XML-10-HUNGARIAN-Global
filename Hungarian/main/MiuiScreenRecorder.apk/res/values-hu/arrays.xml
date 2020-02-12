@@ -27,11 +27,6 @@
         <item>720p</item>
         <item>480p</item>
     </string-array>
-    <string-array name="screenrecorder_settings_resolution_values">
-        <item>1080</item>
-        <item>720</item>
-        <item>480</item>
-    </string-array>
     <string-array name="screenrecorder_settings_sound">
         <item>Némítás</item>
         <item>Mikrofon</item>
@@ -40,10 +35,5 @@
     <string-array name="screenrecorder_settings_storage_location">
         <item>Belső tárhely</item>
         <item>Külső tárhely</item>
-    </string-array>
-    <string-array name="screenrecorder_utils_support_high_frames_cpu">
-        <item>Qualcomm Technologies, Inc SDM845</item>
-        <item>Qualcomm Technologies, Inc MSM8998</item>
-        <item>Qualcomm Technologies, Inc SM8150</item>
     </string-array>
 </resources>

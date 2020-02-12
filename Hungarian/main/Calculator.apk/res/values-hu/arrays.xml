@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="height_array">
+        <item>Centiméter</item>
+        <item>Méter</item>
+        <item>Láb</item>
+        <item>Hüvelyk</item>
+    </string-array>
+    <string-array name="loan_rulers">
+        <item>@string/loan_type_summary_lpr</item>
+        <item>@string/loan_type_summary_base</item>
+    </string-array>
     <string-array name="mortgage_repayment">
         <item>Egyenlő részletekben</item>
         <item>Csökkenő részletekben</item>
@@ -29,5 +39,9 @@
         <item>HKD</item>
         <item>JPY</item>
         <item>CNY</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Kilogramm</item>
+        <item>Font</item>
     </string-array>
 </resources>

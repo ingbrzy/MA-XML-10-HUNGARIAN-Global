@@ -8,16 +8,9 @@
     <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
     <string name="abc_capital_off">KI</string>
     <string name="abc_capital_on">BE</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Szóköz</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Keresés…</string>
     <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
     <string name="abc_searchview_description_query">Keresési lekérdezés</string>
@@ -28,7 +21,6 @@
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="search_menu_title">Keresés</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="Approval">Igénylés</string>
     <string name="Xiaomi_account_pending_approval">Igénylés felülvizsgálata</string>
     <string name="about_title">Névjegy</string>
@@ -36,7 +28,7 @@
     <string name="accessibility_shutter_button">Fénykép készítése</string>
     <string name="action_search">Keresés</string>
     <string name="address">Cím:</string>
-    <string name="agree_app_use">QR-kódok beolvasása és azok más képeken való felismerése</string>
+    <string name="agree_app_use">QR-kódok és egyéb képek beolvasása (néhány funkciónak lehetséges, hogy hozzá kell férnie az Ön helyzetéhez)</string>
     <string name="agree_btn">Elfogadom</string>
     <string name="agree_camera_permission">Képek készítéséhez és videók rögzítéséhez</string>
     <string name="agree_storage_permission">A fájlokhoz és az eszközén tárolt fájlokhoz való hozzáféréshez</string>
@@ -49,7 +41,6 @@
     <string name="back">Vissza</string>
     <string name="barcode_into_rectangle">Helyezze a kódot a keretbe</string>
     <string name="birthday">Születésnap:</string>
-    <string name="blog">Weibo</string>
     <string name="business_card">Névjegykártya</string>
     <string name="business_card_result_title">Névjegykártya</string>
     <string name="business_card_title">Helyezze a névjegykártyát a kereten belülre</string>
@@ -59,6 +50,8 @@
     <string name="business_no_result">Nem sikerült felismerni a névjegykártyát. Próbálja újra.</string>
     <string name="calender">Naptár</string>
     <string name="call_anyone">Hívás</string>
+    <string name="calories_logo_text">Az AI-támogatást a Health Hope biztosítja</string>
+    <string name="calories_request_interface_text">AI-támogatás</string>
     <string name="camera_error_title">Kamera hiba</string>
     <string name="cancel">Mégse</string>
     <string name="carsHome_title">Autó</string>
@@ -95,7 +88,6 @@
     <string name="document_crop_title">Dokumentum vágása</string>
     <string name="document_grayscale">Szürkeárnyalatos</string>
     <string name="document_grayscale_tip_msg">Konvertálás szürkeárnyalatossá…</string>
-    <string name="document_ocr">OCR</string>
     <string name="document_ocr_result_copy">Szöveg másolása</string>
     <string name="document_ocr_result_save">Mentés a jegyzetekhez</string>
     <string name="document_ocr_result_title">Dokumentum fotó</string>
@@ -124,7 +116,6 @@
     <string name="experience_new_features">Béta verzió</string>
     <string name="experiential_version_of_the_prompt_content">A Szkenner Béta verzióhoz való hozzáféréshez jelentkezzen be Mi Fiókjába. Bejelentkezik most?</string>
     <string name="failed_to_get_xiaomi_account">Sikertelen bejelentkezés</string>
-    <string name="fax">Fax</string>
     <string name="feed_search_fail">Nincs találat, próbálja újra</string>
     <string name="feedback">Visszajelzés</string>
     <string name="feedback_description_camera_access">Nem lehet csatlakozni a kamerához</string>
@@ -149,7 +140,6 @@
     <string name="impunity_declaration_negative_text">Kilépés</string>
     <string name="impunity_declaration_title">Adatvédelmi Irányelvek</string>
     <string name="jd_shopping_title">Keresés JD-n</string>
-    <string name="jingdong">JD</string>
     <string name="kuaidi100_data">A Kuaidi 100 biztosítja</string>
     <string name="label_choose_picture">Válasszon egy fényképet</string>
     <string name="label_flash_light">Zseblámpa</string>
@@ -229,7 +219,6 @@
     <string name="setting_preference_pay">Előnyben részesített fizetési mód</string>
     <string name="setting_title">Beállítások</string>
     <string name="setting_use_last_choose">Előző választás megjegyzése</string>
-    <string name="setting_wechat">WeChat</string>
     <string name="shopping_searching">Keresés…</string>
     <string name="shopping_title">Készítsen egy képet a termékről</string>
     <string name="shopping_vendor_info">A Taobao erejével</string>
@@ -248,7 +237,6 @@
     <string name="study_vendor_info">Üzemeltető: Zuoyebang</string>
     <string name="suggested_submission_success">Sikeresen elküldte visszajelzését</string>
     <string name="switch_open">Bekapcsolás</string>
-    <string name="taobao">Taobao</string>
     <string name="tel">Telefon</string>
     <string name="title">Cím:</string>
     <string name="to_install_title">Ez a QR-kód átirányítja Önt egy még nem telepített alkalmazáshoz. Letölti az alkalmazás most?</string>
@@ -282,7 +270,6 @@
     <string name="translation_prompt_word">Helyezze a szavat a keretbe</string>
     <string name="translation_see_more">Definíció megtekintése</string>
     <string name="translation_type_sentence">Kifejezés</string>
-    <string name="translation_type_word">Word</string>
     <string name="uninstall_prompt">Ha probléma lép fel a telepítés során, menjen a Beállítások > Alkalmazások > Alkalmazáskezelés > Szkenner menübe, koppintson a „Törlés” opcióra és próbálja meg újra telepíteni az alkalmazást.</string>
     <string name="url_is_phish">Ez egy adathalász weboldal</string>
     <string name="url_is_safety">Ez a weboldal biztonságos</string>
@@ -294,13 +281,11 @@
     <string name="website_details">Honlap:</string>
     <string name="weixin_code_tip">Olvassa be ezt a QR-kódot a WeChat alkalmazással</string>
     <string name="welcome_to_thesweepversion">Üdvözli Önt a Szkenner Béta!</string>
-    <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Már létezik \"%1$s\" hotspot. Törölje, majd szkennelje be újra a kódot a csatlakozáshoz.</string>
     <string name="wifi_open_fail">A Wi-Fi bekapcsolása sikertelen</string>
     <string name="wifi_psd_toolong">A jelszó túl hosszú. Adja meg manuálisan a jelszót.</string>
     <string name="wifi_pwd">Jelszó:</string>
     <string name="wifi_security">Biztonság:</string>
-    <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Hamarosan felülvizsgáljuk igénylését.)"</string>
     <string name="wx_not_installed_toast">A funkciónak használnia kell a WeChatet. Először telepítse a WeChatet.</string>
     <string name="xiaoai_dialog">"Próbálja meg elmondani, hogy
