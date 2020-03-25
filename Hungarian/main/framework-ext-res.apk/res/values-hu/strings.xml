@@ -84,6 +84,7 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="handy_mode_summary">A bezáráshoz kattintson a képernyő üres részére</string>
     <string name="handy_mode_title">Egykezes használat</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Helyezze az ujját a Home gombra</string>
+    <string name="input_method_clipboard_tips">A másolt elemek 48 óra elteltével törlésre kerülnek a vágólapról</string>
     <string name="input_method_edit_phrase_text">A gyakori kifejezések szerkesztése</string>
     <string name="input_method_no_content_text">Itt nincsenek még elemek</string>
     <string name="input_method_switch_settings_text">Billentyűzetbeállítások</string>

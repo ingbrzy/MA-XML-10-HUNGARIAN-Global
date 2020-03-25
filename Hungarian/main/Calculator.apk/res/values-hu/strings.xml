@@ -103,6 +103,7 @@
     <string name="digit8">8</string>
     <string name="digit9">9</string>
     <string name="divDesc">osztás</string>
+    <string name="dob_selection_error">A születési dátumnak korábban kell lennie a mai dátumnál</string>
     <string name="dotDesc">pont</string>
     <string name="e">e</string>
     <string name="eDesc">Euler-féle szám</string>
@@ -139,6 +140,7 @@
     <string name="hint_annual_rate">Éves díj megadása</string>
     <string name="hint_enter_amount">Adja meg az összeget</string>
     <string name="hint_floatwindow_alpha_guide_text">Érintse meg az áttetszőség beállításához</string>
+    <string name="history_delete_confirmation">Törli most az előzményeket?</string>
     <string name="home_loan">Jelzáloghitel kamata</string>
     <string name="home_title_calculator">Számológép</string>
     <string name="house_rent">Bérbeadás</string>
@@ -170,14 +172,19 @@
     <string name="item_title_vel_conversion">Sebesség</string>
     <string name="item_title_volume_conversion">Térfogat</string>
     <string name="item_title_weight_conversion">Tömeg</string>
+    <string name="label_about">Bevezető</string>
+    <string name="label_clear_history">Mindent töröl</string>
     <string name="label_date_difference">Különbözet</string>
     <string name="label_days">Napok</string>
+    <string name="label_delete">Törlés</string>
     <string name="label_emi">Egyenlő havi részlet</string>
     <string name="label_first_repayment">Első részlet</string>
     <string name="label_from_date">Feladó:</string>
+    <string name="label_history">Előzmények</string>
     <string name="label_interest">Kamat</string>
     <string name="label_loan_tenure">Kölcsön futamideje</string>
     <string name="label_months">Hónapok</string>
+    <string name="label_no_history">Nincs megjeleníthető tartalom</string>
     <string name="label_principal">Kölcsöntőke</string>
     <string name="label_share">Megosztás</string>
     <string name="label_start_date">Kezdődátum</string>
@@ -427,6 +434,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="unit_data_display_currency_bnd">Brunei dollár</string>
     <string name="unit_data_display_currency_brl">Brazil real</string>
     <string name="unit_data_display_currency_byn">Belarusz rubel</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Kanadai dollár</string>
     <string name="unit_data_display_currency_chf">Svájci frank</string>
     <string name="unit_data_display_currency_clp">Chilei peso</string>
@@ -717,8 +725,11 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_connect_download_manager_fail">Nem tudott csatlakozni a letöltésekhez. Ellenőrizze, hogy ez app a megfelelő engedélyekkel rendelkezik-e a Beállítások > Telepített alkalmazásokban.</string>
     <string name="xiaomi_external_storage_unavailable">Nincs elérhető tárhely. Ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Bemutatjuk a következő verziót: %1$s
 Méret:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatjuk a következő verziót: %1$s

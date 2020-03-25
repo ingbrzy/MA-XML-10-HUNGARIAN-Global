@@ -13,6 +13,7 @@
     <string name="hint_search_all">Alkalmazások keresése</string>
     <string name="hint_search_in_disabled_apps">Alkalmazások keresése, melyek nem jeleníthetnek meg értesítéseket</string>
     <string name="hint_search_in_enabled_apps">Alkalmazások keresése, melyek értesítéseket jeleníthetnek meg</string>
+    <string name="last_sent_time_second">Épp most</string>
     <string name="list_title_disable_notification">Az értesítések nincsenek engedélyezve</string>
     <string name="loading">Egy pillanat...…</string>
     <string name="lock_screen_display_rules">Formátum</string>
@@ -25,10 +26,13 @@
     <string name="notification_fold_summary">A nem fontos értesítések egy külön mappában fognak megjelenni</string>
     <string name="notification_fold_title">Értesítési mappa</string>
     <string name="notification_manager">Alkalmazásértesítések</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
     <string name="off">Ki</string>
     <string name="on">Be</string>
     <string name="settings_guide_title">Szükségesek egyéb beállítások?</string>
     <string name="show_badge_notifications">Értesítések száma</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Állapotsor</string>
     <string name="summary_disable_float_notification">A lebegő értesítések nincsenek engedélyezve</string>
     <string name="summary_disable_lockscreen_notification">A lezáróképernyő értesítései nincsenek engedélyezve</string>

@@ -29,6 +29,7 @@
     <string name="all_apps_setting_drawer_tips_desc">Az App Drawert a Kezdőképernyőn való felhúzással nyithatja meg. Ha az App Drawerrel a Kezdőképpernyő módra vált, azzal a Tartalomközpont elérhetetlenné válik. Biztosan vált?</string>
     <string name="all_apps_setting_drawer_tips_title">Az App Drawer használatával</string>
     <string name="all_apps_setting_drawer_title">Az App Drawerrel</string>
+    <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">Eredeti elrendezés</string>
     <string name="all_apps_setting_scroll_bar">Görgetősáv</string>
     <string name="all_apps_setting_title">Kezdőképernyő</string>
@@ -41,6 +42,7 @@
     <string name="announce_for_close_folder">Mappa bezárva</string>
     <string name="announce_for_close_launcher_menu">A Menü bezárult</string>
     <string name="announce_for_create_folder_with_app">Mappa létrehozva ezzel: %1$s</string>
+    <string name="announce_for_delete_gadget_and_widget">Widget</string>
     <string name="announce_for_delete_item">%1$s eltávolításra került</string>
     <string name="announce_for_drag_enter_delete_zone">Elemeket húzott a törölt elemek zónájába</string>
     <string name="announce_for_drag_enter_folder_grid">Behúzhat elemeket a mappába</string>
@@ -64,6 +66,7 @@
     <string name="announce_for_show_uninstall_dialog">A törlést jelző párbeszédablak megjelent. Hagyja jóvá vagy utasítsa el.</string>
     <string name="announce_for_unchecked">%1$s, nincs ellenőrizve</string>
     <string name="announce_for_widget_span">Széleség %1$d, magasság %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">Már van ilyen alkalmazás</string>
     <string name="app_being_backup_message">Alkalmazás mentése folyamatban.</string>
     <string name="app_being_restored_message">Alkalmazás visszaállítása folyamatban</string>
@@ -83,6 +86,7 @@
     <string name="app_category_sport">Sport</string>
     <string name="app_category_tools">Eszközök</string>
     <string name="app_category_travel">Utazás</string>
+    <string name="app_category_vr">VR</string>
     <string name="application_name">MIUI kezdőképernyő</string>
     <string name="apply">Beállítás</string>
     <string name="apply_action">Beállítás</string>
@@ -96,7 +100,6 @@
     <string name="aqi_quality_index_light_pollution">Gyenge szennyezés</string>
     <string name="aqi_quality_index_moderate">Közepes</string>
     <string name="aqi_quality_index_unhealthy">Egészségtelen</string>
-    <string name="auto_add_app_shortcut">Helyezzen el új alkalmazásokat a Kezdőképernyőn</string>
     <string name="auto_delete_category_dialog_content">A jelenlegi alkalmazásik eltávolításra kerülnek a kategóriából és a kategória törlésre kerül. Törli a kategóriát most?</string>
     <string name="auto_delete_category_dialog_title">Kategória törlése</string>
     <string name="backup_fail">Nem sikerült biztonsági másolatot készíteni</string>
@@ -113,9 +116,6 @@
     <string name="category_cannot_empty">Először adja meg a kategóriát</string>
     <string name="category_choose_no_app_select_tip">Minden kategóriának legalább egy alkalmazást kell tartalmaznia.</string>
     <string name="category_drawer_name_hint">Adja meg a kategória nevét</string>
-    <string name="category_edit_back_confirm_dialog_content">Elmenti most a változásokat?</string>
-    <string name="category_edit_back_confirm_dialog_negative_button">Ne mentse el</string>
-    <string name="category_edit_back_confirm_dialog_positive_button">Mentés</string>
     <string name="category_group">Appok kategorizálása</string>
     <string name="category_group_summary">Appok kategorizálása az alkalmazáslistában</string>
     <string name="category_not_selected">Elérhető alkalmazások</string>
@@ -124,6 +124,7 @@
     <string name="chooser_wallpaper">Válasszon egy új háttérképet</string>
     <string name="cloud_app_restore_title">Függőben</string>
     <string name="configure_wallpaper">Beállítások</string>
+    <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">A klónozott alkalmazások ezekkel együtt el lesznek távolítva.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">A klónozott alkalmazás ezzel együtt el lesz távolítva.</string>
     <string name="confirm_uninstall_dialog_title">A klónozott alkalmazások el lesznek távolítva</string>
@@ -134,14 +135,18 @@
     <string name="current_wallpaper">Jelenlegi</string>
     <string name="custom_wallpaper_picker">Egyéni</string>
     <string name="defalut_launcher_title">Alapértelmezett kezdőképernyő</string>
+    <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Játékok</string>
     <string name="default_folder_title_meitu">Meitu appok</string>
+    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">Egyéb alkalmazások</string>
     <string name="default_folder_title_recommend">További alkalmazások</string>
     <string name="default_folder_title_security">Biztonsági központ</string>
     <string name="default_folder_title_services">Szolgáltatások</string>
+    <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Eszközök</string>
     <string name="default_screen_preview_title">Alapértelmezett képernyő beállítása</string>
+    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Törlés</string>
     <string name="delete_category_dialog_content">A kategória a törlés után nem állítható vissza. Mégis törli?</string>
     <string name="delete_category_dialog_title">Törli ezt a kategóriát?</string>
@@ -150,6 +155,8 @@
     <string name="deselect_all">Kijelölések törlése</string>
     <string name="disable_wallpaper_scroll">Háttérkép görgetés kikapcsolása</string>
     <string name="download_action">Letöltés</string>
+    <string name="drag_multiple_item_name" />
+    <string name="drag_single_item_name" />
     <string name="drawer_background">Hátterek</string>
     <string name="drawer_background_dark">Sötét</string>
     <string name="drawer_background_light">Világos</string>
@@ -254,9 +261,6 @@
     <string name="is_system_wallpaper_message">Nem törölhető a gyári háttérkép</string>
     <string name="launcher_not_exist">Hiba történt. Lépjen vissza a Kezdőképernyőre majd próbálja újra.</string>
     <string name="launcher_pull_down_title">Húzza lefelé az ujját a Kezdőképernyőn</string>
-    <string name="launcher_search_bar_title">Keresősáv a főképernyőn</string>
-    <string name="launcher_search_bar_value_disable">Ki</string>
-    <string name="launcher_search_bar_value_enable">Be</string>
     <string name="launcher_slide_up_title">Húzza felfelé az ujját a Kezdőképernyőn</string>
     <string name="launcher_sliding_up_gesture">Keresés indításához húzzon felfelé a Kezdőképernyőn</string>
     <string name="launcher_title">Kezdőképernyő és előzmények</string>
@@ -308,6 +312,7 @@
     <string name="notification_open_button">Megnyitás</string>
     <string name="notification_reset_title">Ikonok sikeresen elrendezve</string>
     <string name="one_key_call_title">Koppintson a tárcsázáshoz</string>
+    <string name="online_wallpaper">Online</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Mégse</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Kikapcsolás</string>
     <string name="open_personal_assistant_dialog_desc">Nem lesz képes használni és frissíteni a Gyorselérési kártyákat. Biztos benne, hogy kikapcsolja?</string>
@@ -396,12 +401,14 @@
     <string name="sort_by_not_defined">Alapértelmezett sorrend</string>
     <string name="start_activity_failed">Nem sikerült az elindítás, próbálja meg később</string>
     <string name="starting_preset_app">Kezdő...</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">Letöltve</string>
     <string name="status_downloading">Letöltés</string>
     <string name="status_installing">Telepítés</string>
     <string name="status_paused">Szüneteltetve</string>
     <string name="status_pending">Várakozás</string>
     <string name="switch_personal_assistant_app_vault">Gyorselérési kártyák</string>
+    <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Egyik sem</string>
     <string name="system_shortcuts_more_operation">Alkalmazásadatok</string>
     <string name="system_shortcuts_remove">Eltávolítás</string>

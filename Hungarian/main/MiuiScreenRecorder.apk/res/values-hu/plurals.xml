@@ -2,7 +2,7 @@
 <resources>
     <plurals name="delete_confirm_text">
         <item quantity="other">Töröl %1$d képernyővideót?</item>
-        <item quantity="one">Törli ezt a képernyővideót?</item>
+        <item quantity="one">Töröl %1$d képernyővideót?</item>
     </plurals>
     <plurals name="home_title_selected">
         <item quantity="other">%1$d elem kiválasztva</item>

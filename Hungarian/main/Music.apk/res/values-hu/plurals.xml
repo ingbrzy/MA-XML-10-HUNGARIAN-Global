@@ -118,6 +118,10 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
         <item quantity="other">%d dal</item>
         <item quantity="one">%d dal</item>
     </plurals>
+    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">Áttűnés a dalok között: %d másodperc</item>
+        <item quantity="one">Áttűnés a dalok között: %d másodperc</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Videók</item>
         <item quantity="one">Videó</item>

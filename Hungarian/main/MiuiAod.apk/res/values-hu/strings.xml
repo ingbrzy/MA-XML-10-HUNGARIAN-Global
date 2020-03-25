@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="above_image">Fel</string>
     <string name="accessibility_battery_level">Akkumulátor %d százalékos.</string>
     <string name="accessibility_battery_level_charging">Az akkumulátor töltődik, %d százalékos.</string>
     <string name="align_type">Igazítás</string>
@@ -42,19 +44,22 @@
     <string name="aod_mode_summary">Óra, dátum, értesítések és háttérképek megjelenítése, ha a képernyő ki van kapcsolva</string>
     <string name="aod_mode_time_summary">Az Állandóan bekapcsolva mód ki- és bekapcsolásának ütemezése</string>
     <string name="aod_mode_time_title">Ütemezés</string>
-    <string name="aod_mode_title">Állandóan bekapcsolva mód</string>
+    <string name="aod_mode_title">Always-on display funkció</string>
+    <string name="aod_show_date_and_time">Dátum és idő megjelenítése</string>
     <string name="aod_show_style_title">Tételek megjelenítése</string>
     <string name="aod_style">Téma</string>
     <string name="aod_to_close">Kikapcsolás</string>
     <string name="apply">Alkalmaz</string>
     <string name="apply_succeed">Sikeresen alkalmazva</string>
     <string name="background_icon">Háttér</string>
+    <string name="below_image">Le</string>
     <string name="cancel">Mégse</string>
     <string name="choose_aod_style">Téma kiválasztása</string>
     <string name="chosen_picture">Háttér kiválasztása</string>
     <string name="clock_panel_icon">Óralap</string>
     <string name="color_change_with_time_description">Szövegszín automatikus megváltoztatása, ahogy telik az idő</string>
     <string name="color_change_with_time_title">Szín automatikus megváltoztatása</string>
+    <string name="custom_image">Egyedi kép</string>
     <string name="deep_space_planet">Világűr</string>
     <string name="deep_space_planet_des">Ez a téma azt tükrözi, ahogy a napszakok során a fények változnak. A napkelte és napnyugta időpontja a helyadatok alapján is szinkronizálódik.</string>
     <string name="digital_clock">Digitális</string>
@@ -84,18 +89,20 @@
     <string name="show_battery_status">Memóriaállapot kijelzése</string>
     <string name="show_notification">Értesítések megjelenítése</string>
     <string name="show_notificaton">Értesítések megjelenítése</string>
+    <string name="shownone_arround_image">Egyiket sem</string>
     <string name="signature">Aláírás</string>
     <string name="signature_default_content">"Mindig higgyen abban, hogy valami
 csodálatos dolog fog történni"</string>
     <string name="standard_clock_panel">Alapértelmezett</string>
     <string name="standard_style">Standard</string>
-    <string name="summary">"Az energiafogyasztás csökkentése érdekében a tételek a következő esetekben nem fognak megjelenni:
- 1. Ha az eszköz sokáig sötétben van
-2. Ha a DND mód be van kapcsolva"</string>
+    <string name="summary">Az energiafogyasztás csökkentésének érdekében az elemek nem fognak megjelenni, ha a készülék hosszú ideig sötétben van.</string>
     <string name="temporary_style">Koppintás után 10 másodpercig</string>
     <string name="text_color">Betűszín</string>
     <string name="text_length_exceed_limit_alert">*A megadott szöveg túl hosszú</string>
     <string name="text_size">Szöveg mérete</string>
+    <string name="time_location">Órapozíció</string>
     <string name="time_style">Stílus</string>
     <string name="time_style_layout">Elrendezés</string>
+    <string name="disable_aod_in_power_save_mode">Kikapcsolás, amikor az Akkumulátorkímélő be van kapcsolva</string>
+    <string name="disable_aod_in_power_save_mode_summary">Ne jelenítse meg az elemeket energiatakarékosság miatt</string>
 </resources>

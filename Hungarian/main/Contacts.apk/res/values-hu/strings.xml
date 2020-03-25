@@ -48,6 +48,11 @@
     <string name="back_description">Vissza</string>
     <string name="back_view_description">Visszalépés</string>
     <string name="batch_delete">Több törlése egyszerre</string>
+    <string name="bind_simcard_default">Alapértelmezett SIM hívásokhoz</string>
+    <string name="bind_simcard_menu">Alapértelmezett SIM beállítása hívásokhoz</string>
+    <string name="bind_simcard_no_dual">Nem található dual-SIM</string>
+    <string name="bind_simcard_not_set">Nincs beállítva</string>
+    <string name="bind_simcard_title">Alapértelmezett SIM hívásokhoz</string>
     <string name="blacklist">Letiltás</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth kapcsolat megszakadt</string>
     <string name="blurbJoinContactDataWith">Válassza ki azt a névjegyet, amelyet össze kíván kapcsolni ezzel a névjeggyel: %s.</string>
@@ -61,7 +66,7 @@
     <string name="callAgain">Újrahívás</string>
     <string name="callBack">Korábban hívott szám visszahívása</string>
     <string name="callDetailTitle">Hívás adatai</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s perc %s másodperc</string>
+    <string name="callDetailsDurationFormat">%1$s perc %2$s másodperc</string>
     <string name="callShortcutActivityTitle">Válasszon telefonszámot a híváshoz</string>
     <string name="call_assistant">%s hívása</string>
     <string name="call_callback">Visszahívási szám hívása</string>
@@ -100,6 +105,7 @@
     <string name="call_sim_menu_title_suffix">(Elsődleges)</string>
     <string name="call_telex">Telex hívása</string>
     <string name="call_tty_tdd">TTY/TDD-szám hívása</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Munkahelyi telefon hívása</string>
     <string name="call_work_mobile">Munkahelyi mobil hívása</string>
@@ -187,6 +193,7 @@
     <string name="cloud_state_loading">Egy pillanat…</string>
     <string name="cloud_state_sync_finished">Szinkronizálva a felhővel</string>
     <string name="cloud_state_syncing">Szinkronizálás a felhővel</string>
+    <string name="cloud_upgrade_recommend">A névjegyek nem szinkronizálhatók kevés felhő tárhely miatt. Váltson nagyobb felhőtárhely csomagra.</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
@@ -194,6 +201,7 @@
     <string name="composer_has_no_exportable_contact">Nincsenek exportálható névjegyek. Ha vannak névjegyek a készülékén, akkor lehet, hogy az adatszolgáltatók megtiltották a készülékről való exportálásukat.</string>
     <string name="composer_not_initialized">A vCard-készítő elindítása nem sikerült.</string>
     <string name="conference_call_disable_tip">Nem lehet hívást kezdeményezni. Győződjön meg róla, hogy készüléke csatlakozik VoLTE támogatású 4G hálózathoz.</string>
+    <string name="confirm_delete_cloud_all_call_logs">Törli a(z) %s névjegyhez tartozó összes konferencia-adatot a felhőből és a készülékről is?</string>
     <string name="confirm_delete_contact_all_call_logs">Törli %s minden előzményét?</string>
     <string name="confirm_delete_selected_all_call_logs">Hívásnapló törlése?</string>
     <string name="confirm_delete_sim_entry_miui_title">Törlés</string>
@@ -296,12 +304,15 @@ Névjegykártyák kikapcsolva\""</string>
     <string name="date_time_set">Beállítás</string>
     <string name="date_year_toggle">Biztosít egy évet</string>
     <string name="default_ringtone">Alapértelmezett csengőhang</string>
+    <string name="deleteCloudConfirmationDetail">Törli a(z) %s névjegyhez tartozó névjegyadatokat a felhőből és a készülékről is?</string>
     <string name="deleteConfirmation">A névjegy törlésre kerül.</string>
     <string name="deleteConfirmationDetail">\"%s\" törlése?</string>
     <string name="deleteConfirmation_title">Törli a névjegyet?</string>
     <string name="delete_call_log_message">Hívásnapló törlése?</string>
     <string name="delete_call_log_selected_title">Törli a kiválasztott hívásokat?</string>
     <string name="delete_call_log_title">Hívásnapló törlése</string>
+    <string name="delete_conference_call_log_message">Törli az ehhez a névjegyhez tartozó összes konferencia-adatot?</string>
+    <string name="delete_conference_call_log_title">Konferenciahívás-adatok törlése</string>
     <string name="delete_contact_calllog_title">Hívásnapló törlése?</string>
     <string name="delete_dial_input">Törlés</string>
     <string name="delete_duplicate">Összekapcsolás</string>
@@ -378,17 +389,17 @@ Névjegykártyák kikapcsolva\""</string>
     <string name="device_paired_dialog_title">Névjegyek párosítása…</string>
     <string name="device_pairing_dialog_message">Párosítás…</string>
     <string name="device_pairing_dialog_title">Készülékek párosítása</string>
-    <string name="device_transfer_by_bluetooth_message">"1. A másik készüléken kapcsolja be a Bluetooth-t. 
+    <string name="device_transfer_by_bluetooth_message">"%1$d. A másik készüléken kapcsolja be a Bluetooth-t.
 
-- Android készülékeken a hálózati beállításokban találhatja a Bluetooth-t. 
-- iOS készülékeken a Bluetooth a Beállítások menüben található. 
+-Android készülékeken a hálózati beállításokban találhatja a Bluetooth-t.
+-iOS készülékeken a Bluetooth a Beállítások menüben található.
 
-2. Android készülékeken be kell kapcsolni a Láthatóságot is. 
+%2$d. Android készülékeken be kell kapcsolni a Láthatóság módot is.
 
-3. Érintse meg a \"Következő\" gombot és adja meg a szükséges engedélyeket a Névjegyeknek."</string>
-    <string name="device_transfer_by_sim_message">"\"1. A másik készülék névjegyeit mentse el a SIM-kártyára; 
+%3$d. Koppintson a „Következő” gombra és adja meg a szükséges engedélyeket a Névjegyek alkalmazás számára."</string>
+    <string name="device_transfer_by_sim_message">"%1$d. A másik készülék névjegyeit mentse el a SIM-kártyára;
 
-2. Nyissa meg a Névjegyek alkalmazás beállításait, ott pedig a \"Névjegyek Importálása/Exportálása\" -- \"Importálás SIM-kártyáról\" menüt, válassza ki a kívánt névjegyeket, majd érintse meg: \"Importálás\".\""</string>
+%2$d. Nyissa meg a Névjegyek alkalmazás beállításait, ott a „Névjegyek Importálása/Exportálása” -- „Importálás SIM-kártyáról” menüt, válassza ki a kívánt névjegyeket, majd koppintson az „Importálás” lehetőségre."</string>
     <string name="device_version_header_bluetooth">Importálás Bluetooth-on keresztül</string>
     <string name="device_version_header_no_bluetooth">Importálás a SIM-kártyáról</string>
     <string name="dial">Tárcsázás</string>
@@ -440,7 +451,6 @@ Hogy elkerüljük a túl gyakori lekérdezést, naponta egyszer frissítjük az 
     <string name="edit_contact">Névjegy szerkesztése</string>
     <string name="edit_contact_card_title">Elemek kiválasztása megosztáshoz</string>
     <string name="edit_contact_photo">Névjegyfénykép szerkesztése</string>
-    <string name="eight">8</string>
     <string name="eight_letter">TUV</string>
     <string name="email">E-mail</string>
     <string name="emailLabelsGroup">E-mail cím</string>
@@ -471,13 +481,13 @@ Hogy elkerüljük a túl gyakori lekérdezést, naponta egyszer frissítjük az 
 Oka: \"%s\""</string>
     <string name="exporting_contact_failed_title">Sikertelen exportálás</string>
     <string name="exporting_contact_list_message">Importálás a(z) %s fájlba.</string>
-    <string name="exporting_contact_list_progress" formatted="false">%s a %s névjegyből</string>
+    <string name="exporting_contact_list_progress">%1$s a %2$s névjegyből</string>
     <string name="exporting_contact_list_title">Névjegyadatok exportálása</string>
     <string name="exporting_vcard_canceled_title">A(z) %s exportálása megszakítva.</string>
     <string name="exporting_vcard_finished_title">A(z) %s exportálása befejeződött.</string>
     <string name="external_profile_title">%1$s profilom</string>
     <string name="fail_reason_could_not_initialize_exporter">Nem sikerült elindítani az exportálót: \"%s\".</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">\"%s fájl megnyitása sikertelen: %s.</string>
+    <string name="fail_reason_could_not_open_file">Megnyitás sikertelen \"%1$s\": %2$s.</string>
     <string name="fail_reason_error_occurred_during_export">Hiba történt az exportálás során: \"%s\"</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Nem sikerült a vCard fájlok metainformációját értelmezni.</string>
     <string name="fail_reason_failed_to_read_files">Egy vagy több fájlt nem sikerült importálni (%s).</string>
@@ -493,13 +503,12 @@ Oka: \"%s\""</string>
     <string name="favoritesFrequentContacted">Gyakran keresett</string>
     <string name="favorites_list_empty">Nincsenek kedvencek</string>
     <string name="firewall_setting">Tiltólista</string>
-    <string name="five">5</string>
     <string name="five_letter">JKL</string>
     <string name="force_touch_miprofile">Névjegykártya</string>
     <string name="force_touch_new_contact">Új névjegy</string>
-    <string name="four">4</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">Gyakori</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Név</string>
     <string name="gallery">Galéria</string>
     <string name="generic_no_account_prompt">Tartsa névjegyeit biztonságban akkor is, ha elveszíti a telefonját: szinkronizálja egy online szolgáltatással.</string>
@@ -554,8 +563,8 @@ Oka: \"%s\""</string>
     <string name="import_from_sim2">Importálás SIM2-kártyáról</string>
     <string name="import_multiple_vcard_string">Több vCard fájl importálása</string>
     <string name="import_name">Név</string>
-    <string name="import_one_vcard_string">Egyetlen vCard fájl importálása</string>
-    <string name="import_percent">0%</string>
+    <string name="import_one_vcard_string">%d vCard-fájl importálása</string>
+    <string name="import_percent">%1$d%2$s</string>
     <string name="import_selected_sim_entries_miui">Kiválasztott névjegyek importálása</string>
     <string name="import_sim_contacts_hint_title">SIM-kártya névjegyeinek importálása</string>
     <string name="import_sim_entries_finish">Névjegyek importálva a SIM-kártyáról</string>
@@ -683,6 +692,7 @@ Oka: \"%s\""</string>
     <string name="miprofile_contact_header">Névjegyek névjegykártyákkal</string>
     <string name="miprofile_contact_meaasge">Helyi névjegyek</string>
     <string name="miprofile_contact_verifying">Ellenőrzés</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profil szerkesztése</string>
     <string name="miprofile_error_accept_self">Nem tud saját magával névjegykártyát cserélni</string>
     <string name="miprofile_error_no_miaccount">Jelentkezzen be a Mi Fiókjába</string>
@@ -736,6 +746,7 @@ Oka: \"%s\""</string>
     <string name="multi_number_menu_group">Új csoport</string>
     <string name="multi_number_menu_message">Üzenet</string>
     <string name="multi_number_title">Konferenciahívás</string>
+    <string name="multi_select">Kiválasztás</string>
     <string name="multipleContactDeleteConfirmation">A névjegy törlésével több fiókból is töröl adatokat.</string>
     <string name="my_phone_not_provider_bluetooth">Nem</string>
     <string name="my_phone_provider_bluetooth">Igen</string>
@@ -756,7 +767,6 @@ Oka: \"%s\""</string>
     <string name="nickname_editor_title">Becenév szerkesztése</string>
     <string name="nickname_picker_name_column">Névjegy neve</string>
     <string name="nickname_picker_nickname_column">Elnevezés</string>
-    <string name="nine">9</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Csoportok létrehozásához szükség van egy fiókra.</string>
     <string name="noContactHelpTextAccountsInfo" />
@@ -775,6 +785,7 @@ Oka: \"%s\""</string>
     <string name="no_contacts_dialog_message">A névjegyek a SIM-kártyán lehetnek tárolva. Importálja őket a SIM-kártyáról a készülék belső tárhelyére, majd próbálja újra.</string>
     <string name="no_contacts_dialog_title">Nem található névjegy</string>
     <string name="no_contacts_selected">Nincs kijelölt névjegy.</string>
+    <string name="no_phone_no_shortcut">Nem hozható létre billentyűparancs telefonszám nélküli névjegyekhez</string>
     <string name="no_sdcard_message">Nem észlelhető SD-kártya</string>
     <string name="no_setting_menu">Nincsenek elérhető menübeállítások</string>
     <string name="non_phone_add_to_contacts">Hozzáadás meglévő névjegyhez</string>
@@ -785,7 +796,6 @@ Oka: \"%s\""</string>
     <string name="notification_action_voicemail_play">Lejátszás</string>
     <string name="notification_new_voicemail_ticker">Új hangpostaüzenet tőle: %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-    <string name="one">1</string>
     <string name="openDialKeyboard">Tárcsázó</string>
     <string name="open_contact">Névjegy megtekintése</string>
     <string name="open_dial_pad_description">Tárcsázó megnyitása</string>
@@ -800,7 +810,7 @@ Oka: \"%s\""</string>
     <string name="option_send_to_others">Továbbítás</string>
     <string name="option_view_contact">Megtekintés</string>
     <string name="option_view_group">Megtekintés</string>
-    <string name="organizationLabelsGroup">Szervezet</string>
+    <string name="organizationLabelsGroup">Pozíció</string>
     <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="other_contacts">Egyéb névjegyek</string>
     <string name="other_phone">Egyéb készülékek</string>
@@ -830,7 +840,10 @@ Oka: \"%s\""</string>
     <string name="path_wipe_data">Rendszeralkalmazások/Névjegyek/Névjegyek rendszerezése/Adatok törlése</string>
     <string name="payphone">Nyilvános telefon</string>
     <string name="people">Névjegyek</string>
+    <string name="percent_sign">%1$s</string>
+    <string name="percentage">%1$s%2$s</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Túl hosszú a telefonszám</string>
     <string name="phone_primary">Elsődleges</string>
     <string name="photoPickerNotFoundText">Nincsenek elérhető képek a készüléken.</string>
@@ -982,6 +995,10 @@ Oka: \"%s\""</string>
     <string name="ret_sign">"
 "</string>
     <string name="returnCall">Nem fogadott visszahívása</string>
+    <string name="return_call">Koppintson a híváshoz való visszatéréshez</string>
+    <string name="return_call_calling">Hívás folyamatban</string>
+    <string name="return_call_dialing">Tárcsázás</string>
+    <string name="return_call_incoming">Bejövő hívás</string>
     <string name="ringLabelsGroup">Csengőhang</string>
     <string name="save_photo_progress">Kép mentése…</string>
     <string name="savingContact">Névjegy mentése…</string>
@@ -1032,6 +1049,9 @@ Oka: \"%s\""</string>
     <string name="select_none">Nincsenek kiválasztott elemek</string>
     <string name="select_show_contacts">Névjegylista</string>
     <string name="select_vcard_title">Válassza ki a vCard fájlt</string>
+    <string name="send_contact_shortcut_todesktop_duplicate">Ez a parancsikon már létezik</string>
+    <string name="send_contact_shortcut_todesktop_failed">Nem helyezhető el parancsikon a Kezdőképernyőn</string>
+    <string name="send_contact_shortcut_todesktop_overflow">Nem helyezhető el több parancsikon a Kezdőképernyőn</string>
     <string name="send_contact_shortcut_todesktop_success">Hozzáadva a Kezdőképernyőhöz</string>
     <string name="send_to_voicemail_checkbox">A hívások a hangpostára irányítva</string>
     <string name="separatorJoinAggregateAll">Összes névjegy</string>
@@ -1042,11 +1062,10 @@ Oka: \"%s\""</string>
     <string name="set_data_package">Először állítsa be az adattervet</string>
     <string name="set_default">Beállítás alapértelmezettként</string>
     <string name="set_photo_failed_msg">Fénykép hozzárendelése nem sikerült</string>
-    <string name="seven">7</string>
     <string name="seven_letter">PQRS</string>
     <string name="share_contact_as">Névjegyek megosztása, mint</string>
     <string name="share_error">Ez a névjegy nem osztható meg.</string>
-    <string name="share_over_limit">Nem lehet 1000 névjegynél többet megosztani</string>
+    <string name="share_over_limit">Nem osztható meg több mint %d névjegy</string>
     <string name="share_qrcode">QR-kód megosztása</string>
     <string name="share_via">Küldés a következővel</string>
     <string name="share_visible_contacts">Névjegyek megosztása</string>
@@ -1063,7 +1082,7 @@ Oka: \"%s\""</string>
     <string name="simContacts_title">SIM-kártya névjegyei</string>
     <string name="sim_account_name">SIM</string>
     <string name="sim_capacity">SIM-kártyakapacitás megjelenítése</string>
-    <string name="sim_capacity_content" formatted="false">%d teljes | %d használt</string>
+    <string name="sim_capacity_content">%1$d teljes | %2$d használt</string>
     <string name="sim_card_no_free_space_message">Nincs elég szabad hely</string>
     <string name="sim_card_no_free_space_title">SIM-kártya megtelt</string>
     <string name="sim_contact_existing">Már létező névjegy</string>
@@ -1086,14 +1105,14 @@ Oka: \"%s\""</string>
     <string name="sim_unloaded">Nincs SIM-kártya a készülékbe helyezve</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nincs tag a csoportban</string>
-    <string name="six">6</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Cégek</string>
     <string name="smart_group_company_unavailable">Nincs céginformáció</string>
     <string name="smart_group_frequency_1">Az elmúlt hónapban</string>
-    <string name="smart_group_frequency_2">1-3 hónap</string>
-    <string name="smart_group_frequency_3">3-6 hónap</string>
-    <string name="smart_group_frequency_4">Több, mint 6 hónappal ezelőtt</string>
+    <string name="smart_group_frequency_2">%1$d to %2$d hónap</string>
+    <string name="smart_group_frequency_3">%1$d to %2$d hónap</string>
+    <string name="smart_group_frequency_4">Több mint %d hónappal ezelőtt</string>
     <string name="smart_group_frequency_label">Legutóbbiak</string>
     <string name="smart_group_label">Intelligens csoportosítás</string>
     <string name="smart_group_loading">Egy pillanat…</string>
@@ -1133,6 +1152,7 @@ Oka: \"%s\""</string>
     <string name="starred_contacts">Kedvencek</string>
     <string name="status_available">Elérhető</string>
     <string name="status_away">Nincs a gépnél</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Elfoglalt</string>
     <string name="strequentList">Kedvencek</string>
     <string name="success_message_import_from_account">Névjegy importálva</string>
@@ -1143,12 +1163,11 @@ Oka: \"%s\""</string>
     <string name="t9_search_empty_send_sms">Üzenet küldése</string>
     <string name="t9_search_empty_video_call">Videóhívás</string>
     <string name="t9_search_guide_pinyin_title1">Írjon be számokat a névjegyek megtalálásához</string>
-    <string name="t9_search_guide_pinyin_title2">Írjon be \"9\"-et és \"4\"-et \"<font fgcolor="">Z</font>oltán <font fgcolor="">H</font>enrik\" kereséséhez</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Adja meg a \"%d\" és a \"%d\" számokat a \"<font fgcolor="">X</font>énia <font fgcolor="">H</font>orváth név megkereséséhez</string>
     <string name="t9_search_guide_zhuyin_title1">Írjon be számokat a névjegyek megtalálásához</string>
-    <string name="t9_search_guide_zhuyin_title2">Írjon be \"5\"-öt és \"6\"-ot \"<font fgcolor="">J</font>ózsef <font fgcolor="">M</font>ária\" kereséséhez</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Adja meg az \"%d\" és a \"%d\" számokat a \"<font fgcolor="">J</font>úlia <font fgcolor="">M</font>olnár név megkereséséhez</string>
     <string name="take_new_photo">Új fénykép készítése</string>
     <string name="take_photo">Fénykép készítése</string>
-    <string name="three">3</string>
     <string name="three_letter">DEF</string>
     <string name="titleJoinContactDataWith">Névjegyek összekapcsolása</string>
     <string name="title_other_devices">Egyéb elérhető készülékek</string>
@@ -1169,7 +1188,6 @@ Oka: \"%s\""</string>
     <string name="toast_text_copied">Szöveg kimásolva</string>
     <string name="today">Ma</string>
     <string name="transfer_accounts">Fiókok átvitele</string>
-    <string name="two">2</string>
     <string name="two_letter">ABC</string>
     <string name="type_incoming">Bejövő hívás</string>
     <string name="type_missed">Nem fogadott hívás</string>
@@ -1228,6 +1246,7 @@ Válasszon az alábbi lehetőségek közül:"</string>
     <string name="voip_audio_description">VoIP hívás</string>
     <string name="voip_video_description">VoIP videóhívás</string>
     <string name="websiteLabelsGroup">Honlap</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Adattörlés</string>
     <string name="yellowPageNavigationIconLabel">Yellow pages</string>
     <string name="yellowPageNavigationLabel">Yellow pages</string>
@@ -1255,7 +1274,6 @@ Válasszon az alábbi lehetőségek közül:"</string>
     <string name="yellowpage_provider_label">Adatok kiszolgálója:</string>
     <string name="yellowpage_search_the_yellowpage">Yellow pages keresés</string>
     <string name="yellowpage_user_profile">Profil</string>
-    <string name="zero">0</string>
     <string name="zero_items_selected">Elemek kiválasztása</string>
     <string name="zero_letter">+</string>
 </resources>

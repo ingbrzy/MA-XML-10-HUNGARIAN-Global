@@ -35,6 +35,7 @@
     <string name="content_description_start">Kezdés</string>
     <string name="content_introduction">A Tartalomközpont összegyűjti a tartalmat és a szolgáltatásokat több csatornából. Itt olvashat cikkeket, nézhet videókat, megtekintheti a napi kiemelt elemeket és fogadhat tartalomajánlásokat.</string>
     <string name="continue_to_enable_accessibility">Tartsa két ujját lenyomva a kisegítő lehetőség engedélyezéséhez.</string>
+    <string name="data_traffic_enable_dialog_title">Ha most nincs Wi-Fi-re csatlakozva, készüléke mobiladatforgalmat fog használni. A mobiladatforgalom plusz szolgáltatói díjakat fog generálni.</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">Használja ujjlenyomatát a készülék feloldásához, alkalmazásokba és szolgáltatásokba való bejelentkezéshez.</string>
@@ -59,7 +60,7 @@
     <string name="font_hint_large">Alapértelmezett szövegméret</string>
     <string name="font_hint_normal">Szövegméret-növelés</string>
     <string name="framework_introduction">A Mi Szolgáltatási Keretrendszerrel használhatja a Mi Fiókot, a Mi Push-t, a Mi Statisztikákat és a MIUI BI-t.</string>
-    <string name="framwork_base_service">Annak érdekében, hogy biztosíthassuk Önnek ezeket a szolgáltatásokat, a Mi Szolgáltatási Keretrendszernek (Mi Fiók, Mi Push, Mi Statisztikák, MIUI BI) csatlakoznia kell az internethez, hozzá kell férnie az Ön telefonszámához, az IMEI-hez és az IMSI-hez, valamint engedélyeznie kell eszközén a push értesítések fogadását</string>
+    <string name="framwork_base_service">Annak érdekében, hogy biztosíthassuk Önnek ezeket a szolgáltatásokat, a Mi Szolgáltatási Keretrendszernek (Mi Fiók, Mi Push, Mi Statisztikák, MIUI BI) csatlakoznia kell az internethez, hozzá kell férnie az Ön tartózkodási helyéhez, a telefonszámához, az IMEI-hez és az IMSI-hez, valamint engedélyeznie kell eszközén a push értesítések fogadását</string>
     <string name="game_introduction">A Játékok beépülő modullal bejelentkezhet, létrehozhat megrendeléseket, végrehajthat fizetéseket, felhasználhat kuponokat és részt vehet promóciós eseményeken.</string>
     <string name="google_service_introduction">A normál működés érdekében a Google Play-nek csatlakoznia kell az internethez, hozzá kell férnie az Ön helyzetéhez, tudnia kell hangot rögzítenie és hívásokat végrehajtani, hozzá kell férnie a naptáreseményekhez, a híváselőzményekhez, a szenzorokhoz, a tárhelyhez, a kamerához, az eszközinfóhoz és a fiókokhoz.</string>
     <string name="ime_privacy_policy">A kiválasztott billentyűzet Adatvédelmi Irányelvei</string>
@@ -146,6 +147,8 @@ Mégis kikapcsolja a személyre szabott hirdetéseket?"</string>
     <string name="permission_virusscan_introduction">Víruskeresés futtatásához és eszközoptimalizáláshoz</string>
     <string name="permission_xunlei_introduction">Bejelentkezéshez és a rendszerfiókok kezeléséhez a Xunlei-szolgáltatások biztosítása érdekében</string>
     <string name="poco_agree_terms_other">(Beleértve a POCO Launcher Adatvédelmi Irányelveit és Felhasználói Szerződését)</string>
+    <string name="poco_launcher_privacy_policy">POCO launcher Adatvédelmi szabályzat</string>
+    <string name="poco_launcher_user_agreement">POCO Launcher Felhasználói megállapodás</string>
     <string name="pref_title_data_slot">Mobilnetre használt SIM</string>
     <string name="pref_title_voice_slot">Hívásra használt SIM</string>
     <string name="privacy_policy">Adatvédelmi Irányelvek</string>
@@ -214,11 +217,11 @@ A MIUI használata előtt el kell fogadnia a Felhasználói szerződést és az 
     <string name="terms_of_use_label_systemhelper">, Önállóan bejegyzett szolgáltatáshoz</string>
     <string name="terms_of_use_label_updater">, Frissítés</string>
     <string name="terms_of_use_lable_apps">A Mi szolgáltatásokhoz, a Mi SIM-aktiválási szolgáltatáshoz, a Xiaomi Cloudhoz, a Készülékkereséshez, a Kezdőképernyőhöz, a Játékközponthoz, a MIUI Daemon és MSA rendszerelemekhez, a Fordítási szolgáltatáshoz, a Gyorsalkalmazásokhoz, a Gyorselérési kártyákhoz, a statisztikákhoz, a Mi Linkhez</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">"r
-r
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
+
 A Facemoji használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Irányelveit."</string>
-    <string name="terms_of_use_lable_default_input_method_kika">"r
-r
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
 A Kika használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Irányelveit."</string>
     <string name="terms_of_use_lable_gms">, Google Play szolgáltatásokhoz</string>
     <string name="terms_of_use_lable_smart_cards">, Okoskártyákhoz</string>
@@ -227,7 +230,7 @@ A Kika használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Iránye
     <string name="terms_privacy_policy_input_method_kika">Kika Adatvédelmi Irányelvei</string>
     <string name="title_fingerprint">Állítson be jelszót</string>
     <string name="user_agreement">Felhasználói szerződés</string>
-    <string name="user_agreement_declare">A MIUI használata előtt Önnek el kell olvasnia és el kell fogadnia a Felhasználói szerződést és az Adatvédelmi irányelvet. Amíg eszköze aktiválásra kerül, a Mi SIM Aktivációs Szolgáltatások, a Kezdőképernyő, a Gyakori kifejezések, a Fordítási szolgáltatás, a MIUI Daemon és az Updater csatlakozik a hálózathoz. Az MSA csatalkozik a hálózathoz és hozzáfér az Ön helyzetéhez.</string>
+    <string name="user_agreement_declare">A MIUI használata előtt Önnek el kell olvasnia és el kell fogadnia a Felhasználói szerződést és az Adatvédelmi irányelvet. Amíg eszköze aktiválásra kerül, a Mi SIM Aktivációs Szolgáltatások, a Xiaomi Cloud, az Eszközkeresés, a Kezdőképernyő, a Gyakori kifejezések, a Fordítási szolgáltatás, a MIUI Daemon, a HTML Viewer, az AI Asszisztens, az Akkumulátor és teljesítmény, az Energiadetektor, a Joyose, az OS AI Beállítások és az Updater csatlakozik a hálózathoz. Az Okos szolgáltatások csatlakozik a hálózathoz és hozzáfér az Ön helyzetéhez.</string>
     <string name="voice_assist_advice">A Mi AI hangvezérlést biztosít Önnek, de több energiát fogyaszt (+1% óránként).</string>
     <string name="voice_assist_condition">"Ezekben az esetekben lesz képes használni a Mi AI-t:r
 1. Ha a képernyő be van kapcsolva.r

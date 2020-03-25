@@ -88,29 +88,17 @@
         <item quantity="other">(%1$d)</item>
         <item quantity="one">(%1$d)</item>
     </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">%d találat</item>
-        <item quantity="one">1 találat</item>
-    </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d névjegy</item>
-        <item quantity="one">1 névjegy</item>
-    </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d névjegy telefonszámmal</item>
-        <item quantity="one">1 névjegy telefonszámmal</item>
+        <item quantity="one">%d névjegy</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d névjegy részben azonos adatokkal</item>
         <item quantity="one">%1$d névjegy részben azonos adatokkal</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">összekapcsolva %1$d forrásból</item>
+        <item quantity="other">összekapcsolva %0$d forrásból</item>
         <item quantity="one">nincs összekapcsolva</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d hangpostaüzenet</item>
-        <item quantity="one">Hangpostaüzenet</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d kiválasztva</item>
@@ -121,8 +109,8 @@
         <item quantity="one">%1$d ember innen: %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%1$d csoport</item>
-        <item quantity="one">1 csoport</item>
+        <item quantity="other">%d csoport</item>
+        <item quantity="one">%d csoport</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d elem van hátra</item>
@@ -150,7 +138,7 @@
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">%d találat</item>
-        <item quantity="one">1 találat</item>
+        <item quantity="one">%d találat</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">Ne jelöljön ki többet, mint %1$d, nem jelölheti ki az összeset</item>

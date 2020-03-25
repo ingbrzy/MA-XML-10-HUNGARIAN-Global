@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_nfc_enabled">NFC bekapcsolva</string>
+    <string name="android_beam">Android Beam</string>
     <string name="app_name">NFC-szolgáltatás</string>
     <string name="ask_nfc_tap">A befejezéshez koppintson egy másik eszközre</string>
     <string name="beam_busy">A Beam jelenleg elfoglalt. Próbálja újra, ha az előző átvitel már befejeződött.</string>
@@ -33,6 +34,7 @@
     <string name="pairing_peripheral_failed">Nem sikerült a párosítás ezzel: %1$s</string>
     <string name="pay_with">Fizetőeszköz</string>
     <string name="prompt_connect_to_network">Csatlakozik a következő hálózathoz: %1$s?</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unable_to_connect">Nem lehet csatlakozni a hálózathoz</string>
     <string name="status_wifi_connected">Csatlakozva</string>
     <string name="tap_again_to_complete">Koppintson ismét, hogy a(z) %1$s alkalmazással fejezze be a műveletet</string>

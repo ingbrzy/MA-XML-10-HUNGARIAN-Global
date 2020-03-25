@@ -9,5 +9,6 @@
     <string name="menu_add_frequent_phrases">Hozzáadás</string>
     <string name="menu_delete">Törlés</string>
     <string name="menu_edit">Szerkesztés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sync_phrase_label">Gyakori kifejezések</string>
 </resources>

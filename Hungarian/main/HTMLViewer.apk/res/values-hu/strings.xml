@@ -14,6 +14,8 @@ egy másik készüléken nyissa meg ezt az oldalt: %s."</string>
     <string name="open_wifi_connect_summary">A részletek megtekintéséhez érintse meg.</string>
     <string name="open_wifi_connect_title">Csatlakozva ide: %1$s</string>
     <string name="permdesc_accessDrm">Engedje, hogy az alkalmazás hozzáférjen DRM-védett tartalmakhoz.</string>
+    <string name="poco_launcher_privacy_policy">POCO launcher Adatvédelmi szabályzat</string>
+    <string name="poco_launcher_user_agreement">POCO Launcher Felhasználói megállapodás</string>
     <string name="poco_privacy_policy">A POCO Launcher Adatvédelmi Irányelvei és Felhasználói Szerződése</string>
     <string name="policy_name">%s protokoll</string>
     <string name="pre_installed_apps">Előre telepített alkalmazások</string>

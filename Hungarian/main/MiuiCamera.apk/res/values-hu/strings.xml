@@ -21,6 +21,7 @@
     <string name="accessibility_camera_record_start">Videófelvétel elindítása</string>
     <string name="accessibility_camera_record_stop">Videófelvétel leállítása</string>
     <string name="accessibility_camera_shutter_finish">A fénykép sikeresen elkészült</string>
+    <string name="accessibility_camera_switch_capture_recording">Váltás kép- és videómódok között</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">A teljesalakos mód kikapcsolva</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">A teljesalakos mód bekapcsolva</string>
     <string name="accessibility_camera_video_960fps_120">120fps</string>
@@ -71,14 +72,17 @@
     <string name="accessibility_video_pause_button">Videófelvétel szüneteltetése</string>
     <string name="accessibility_video_resume_button">Videófelvétel folytatása</string>
     <string name="accessibility_zoom_button">Zoom mód</string>
-    <string name="ai_scene_mode_use_hint_text">"Az Intelligens (AI) kamera automatikusan észleli a fényképkészítés körülményeit
-és optimalizálja az Ön fényképeit ezen információk alapján"</string>
+    <string name="ai_scene_mode_use_hint_text">"Jelenetek automatikus felismerése AI-val
+és a beállítások automatikus igazítása"</string>
     <string name="ai_scene_top_moon_off">Alacsonyfényerő-mód</string>
     <string name="ai_scene_top_tip">Hold-mód</string>
     <string name="audio_focus_exit_button_text">Az Audiófókusz kikapcsolása</string>
     <string name="autozoom_click_hint">Érintse meg a fényképezni kívánt mozgó elemet, annak fókuszban tartásához. A legjobb eredmény elérése érdekében maradjon legalább 3 méterre.</string>
     <string name="autozoom_disabled_hint">A mozgó objektum követése leállítva</string>
     <string name="autozoom_hint">Mozgó objektum követése</string>
+    <string name="auxiliary_close_status">A kiegészítő effektusok ki vannak kapcsolva</string>
+    <string name="auxiliary_exposure_feedback_status">Az expozícióellenőrzés be van kapcsolva</string>
+    <string name="auxiliary_focus_peak_status">A Fókuszjelölés be van kapcsolva</string>
     <string name="back_bokeh_use_hint">Tartsa a tárgyat 1,5 méteren belül a legjobb hatás elérése érdekében</string>
     <string name="beauty_body">Alak</string>
     <string name="beauty_body_body">Vékony</string>
@@ -112,6 +116,7 @@
     <string name="camera_liveshot_on_tip">Dinamikus felvételek</string>
     <string name="camera_mode_options">Módok</string>
     <string name="camera_setting">Kamera</string>
+    <string name="camera_settings_category_development">Kísérleti funkciók</string>
     <string name="camera_settings_label">Kamera</string>
     <string name="camera_snap_mode_title">Gyorsfényképezési mód</string>
     <string name="camera_snap_mode_title_detail">A részletek megtekintéséhez érintse meg</string>
@@ -159,7 +164,7 @@
     <string name="confirm_install_scanner_message">A Szkenner QR-kódok, vonalkódok, stb olvasására használható. Nem kell csatlakoznia az internetre a telepítéséhez.</string>
     <string name="confirm_install_scanner_title">Szkenner telepítése</string>
     <string name="confirm_location_alert">Helyszínadatok tárolása</string>
-    <string name="confirm_location_message">Címkézze fel rögzítés közben fényképeit és videóit a földrajzi elhelyezkedési információval. Az elmentett képek ezen adataihoz egyéb alkalmazások is hozzáférhetnek.</string>
+    <string name="confirm_location_message">&lt;Data>Üdvözöljük, ez a Kamera! Ha felcímkézi képeit és videóit hely szerint, azzal galériája még átláthatóbbá válik és gyorsabban megtalálja az egyes fájlokat. Ha Ön korlátozza a tartózkodási helyadatokat, némelyik funkció lehetséges, hogy nem lesz elérhető.&lt;br/>&lt;br/>Megvédjük személyes adatait a vonatkozó törvényekkel, szabályozásokkal és adatvédelmi irányelvekkel összhangban.&lt;/Data></string>
     <string name="confirm_location_title">Helyszínadatok eltárolása</string>
     <string name="confirm_recording_fail_calling_alert">Nem indítható felvétel hívás közben.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">Másik alkalmazás már használja a készülék mikrofonját rögzítéshez.</string>
@@ -298,9 +303,11 @@ Portrémódban"</string>
     <string name="live_sticker_fragment_tab_name">TikTok-hatások</string>
     <string name="live_sticker_network_error_hint">Hálózati hiba</string>
     <string name="live_sticker_updating">Frissítés…</string>
+    <string name="location_access_allow">Engedélyezés</string>
     <string name="location_permission_des">A képek és videók helyszínének megjegyzése</string>
     <string name="location_permission_not_ask_again">Engedélyezze a Kamerának a helyadatokhoz való hozzáférést a Beállításokban.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Engedélyezés</string>
+    <string name="log_format">NAPLÓ</string>
     <string name="lying_direct_hint">Jelenlegi tájolás</string>
     <string name="macro_mode">Makró</string>
     <string name="macro_mode_tip">Az objektív és a fényképezni kívánt tárgy közötti távolság nem haladhatja meg a 10 cm-t</string>
@@ -381,6 +388,7 @@ nagyobbnak tűnjenek a képeken"</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_square">Négyzet</string>
     <string name="module_name_video">Videó</string>
+    <string name="moive_frame">Filmkeret</string>
     <string name="multi_window_mode_not_supported">A kamera nem működik osztott képernyőnél</string>
     <string name="network_access_user_notice_agree">Elfogadás</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data>Ahhoz, hogy a Kamera effektusokat, zenét és egyéb funkciókat tudjon biztosítani a rövid videókhoz, csatlakoznia kell az internethez.&lt;br/>&lt;br/>Az alábbi Elfogad gombra való kattintással Ön elfogadja a &lt;a href =%1$s>Felhasználói megállapodásunkat&lt;/a> és az &lt;a href =%2$s>Adatvédelmi irányelvünket&lt;/a>, valamint engedélyezi a Kamerának, hogy csatlakozzon az internethez.&lt;/Data></string>
@@ -395,8 +403,47 @@ nagyobbnak tűnjenek a képeken"</string>
     <string name="pano_how_to_use_prompt_slow_down">Lassítson…</string>
     <string name="pano_how_to_use_prompt_start">Érintse meg a mozgásának megfelelő nyilat, majd lassan mozogjon.</string>
     <string name="pano_how_to_use_prompt_to_move">Kezdje lassan az elfordulást</string>
+    <string name="parameter_description_pro_capture_title">Pro funkciók képek késítéséhez</string>
+    <string name="parameter_description_pro_video_title">Pro funkciók videók rögzítéséhez</string>
+    <string name="parameter_description_sub_title">Készítsen még kreatívabb képeket és videókat</string>
+    <string name="parameter_ef_split_description">Kihúzhatja az expozíciós gyűrűt a fókuszgyűrűből és hozzáigazíthatja a két paramétert külön-külön.</string>
+    <string name="parameter_ef_split_title">A fókusz és az expozíciómérés különválasztása</string>
+    <string name="parameter_et_description">Az automatikus zársebességet a kamera fénymérője határozza meg. Ha manuálisan választja ki a zársebességet, ne feledje, hogy minél tovább van nyitva a zár, annál több fény éri a szenzort, ezzel pedig világosabb lesz a kép.</string>
+    <string name="parameter_exposure_description">Ezzel a funkcióval kompenzálhatja az expozíciót, ha a fénymérő által ajánlottnál világosabb vagy sötétebb képet szeretne.</string>
+    <string name="parameter_exposure_feecback_description">Az alulexponált területek kék színnel, míg a túlexponált területek piros színnel vannak jelölve a megfelelő expozíció érdekében.</string>
+    <string name="parameter_exposure_feecback_title">Expozícióellenőrzés</string>
+    <string name="parameter_exposure_title">Expozíciókompenzáció</string>
+    <string name="parameter_focus_description">Manuálisan és automatikusan is fókuszálhat. Minél nagyobb fókuszértéket állít be a csúszkán, annál messzebb lesz a lencsék fókuszterülete.</string>
+    <string name="parameter_focus_title">Fókusz</string>
+    <string name="parameter_histogram_description">A hisztogram az expozíci valósághű bemutatása a kép legsötétebb részeinek bal oldalon és legvilágosabb részeinek jobb oldalon való megjelenítésével. A skála függőleges része azt mutatja meg, hogy mennyire világos vagy sötét a jelenetrész.</string>
+    <string name="parameter_histogram_title">Hisztogram</string>
+    <string name="parameter_iso_description">Az ISO-értékek automatikusan meghatárózhatók a fénymérővel. Az értéket manuálisan is módosíthatja. Ne feledje: a magasabb ISO érzékenyebbé teszi a kamerát a fényre, de több digitális zajt visz a képre.</string>
+    <string name="parameter_lens_description">Több elérhető lencse között is válthat:</string>
+    <string name="parameter_lens_marco">, MAKRÓ (makró lencsék)</string>
+    <string name="parameter_lens_st">, S-TELE (zoom lencsék)</string>
+    <string name="parameter_lens_t">, TELE (telefotó lencsék)</string>
+    <string name="parameter_lens_tele_2x">, TELE-2X (telefotó lencsék)</string>
+    <string name="parameter_lens_tele_5x">, TELE-5X (telefotó lencsék)</string>
+    <string name="parameter_lens_title">Lencsék</string>
+    <string name="parameter_lens_uw">, ULTRASZÉLES (ultraszéles látószögű lencsék)</string>
+    <string name="parameter_lens_w">SZÉLES (széles látószögű lencsék)</string>
+    <string name="parameter_log_format_description">Ez a formátum logaritmus funkcióval rögzíti a videót az expozíciós görbén annak érdekében, hogy még több részlet és árnyék jelenjen meg a felvételen. Önnek pedig ezzel több lehetősége van az utólagos feldolgozás során.</string>
+    <string name="parameter_log_format_title">LOG-formátum</string>
+    <string name="parameter_metering_description">Az átlagos fénymérés a kép minden részét számításba veszi, és a legjobb, ha az egyenlően világos területek esetén használjuk. A középsúlyos fénymérés leginkább a keret középső részére fókuszál és kellő mértékben veszi figyelembe a környező terület világosságát, amely a keret közepén elhelyezkedő objektumok felvételéhez megfelelő. A szelektív fénymérés kizárólag egy helyre fókuszál, ezzel pedig precízen irányíthatja az expozíciót.</string>
+    <string name="parameter_metering_title">Fénymérési módok</string>
+    <string name="parameter_peak_focus_description">Ha manuálisan állítja be a fókuszt, használja a Fókuszjelölőt és helyezzen el egy piros kiemelést a fókusz helyén.</string>
+    <string name="parameter_peak_focus_title">Fókuszjelölés</string>
+    <string name="parameter_peak_raw_description">Ez a képformátum kép készítésekor megörökíti a szenzor által rögzített összes képadatot. A tömörítetlen adatokkal több lehetősége van az utólagos feldolgozás során.</string>
+    <string name="parameter_peak_raw_title">RAW-formátum</string>
+    <string name="parameter_wb_description">A fehéregyensúly gyári beállításai (izzó, napfény, fluoreszkáló, felhős) mellett a fehéregyensúlyt egyedi értékre is beállíthatja 2000–8000 Kelvin közé.</string>
+    <string name="parameter_wb_title">Fehéregyensúly</string>
+    <string name="parameter_zoom_slider_description">Húzza a csúszkát fel és le közeli vagy távoli felvétel zökkenőmentes készítéséhez.</string>
+    <string name="parameter_zoom_slider_title">Kicsinyítés és nagyítás</string>
     <string name="path_settings">Rendszeralkalmazások/Kamera/Beállítások</string>
     <string name="photo_assistance_tips_title">Élő tippek</string>
+    <string name="pic_flaw_blink_more">Úgy tűnik, hogy valaki a keretben becsukta a szemét</string>
+    <string name="pic_flaw_blink_one">Úgy tűnik, hogy a keretben megtalálható személy becsukta a szemét</string>
+    <string name="pic_flaw_cover">Úgy tűnik, hogy a lencse egy része le van takarva</string>
     <string name="popup_tip_3d_beauty_intro_text">3D Szépség</string>
     <string name="portait_effect_entry_blackwhite">Fekete-fehér</string>
     <string name="portait_effect_entry_cool">Menta</string>
@@ -418,6 +465,17 @@ nagyobbnak tűnjenek a képeken"</string>
 a fényképek hátterének elmosásához"</string>
     <string name="portrait_bokeh_text">Portrémód</string>
     <string name="portrait_bokeh_tips">Helyezze a fotózandó témát 1,5 méteren belül</string>
+    <string name="portrait_india_effect_entry_memory">Emlék</string>
+    <string name="portrait_india_effect_entry_mono">Monó</string>
+    <string name="portrait_india_effect_entry_pink">Rózsaszín</string>
+    <string name="portrait_india_effect_entry_portrait">Portré</string>
+    <string name="portrait_india_effect_entry_retro">Retró</string>
+    <string name="portrait_india_effect_entry_romantic">Romantikus</string>
+    <string name="portrait_india_effect_entry_strong">Intenzív</string>
+    <string name="portrait_india_effect_entry_sunny">Napos</string>
+    <string name="portrait_india_effect_entry_sweet">Karamell</string>
+    <string name="portrait_india_effect_entry_warm">Meleg</string>
+    <string name="portrait_india_effect_entry_young">Fiatal</string>
     <string name="portrait_mode_depth_effect_success_hint">Mélységhatás</string>
     <string name="portrait_mode_lowlight_hint">Most túl sötét van hozzá</string>
     <string name="portrait_mode_too_close_hint">Menjen távolabb a lefotózni kívánt témától</string>
@@ -427,7 +485,6 @@ a fényképek hátterének elmosásához"</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Próbálja ki a Portrémódot.
 A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_960_watermark_title">960 FPS vízjel</string>
-    <string name="pref_advance_settings">További beállítások</string>
     <string name="pref_ai_detect">Intelligens felismerés</string>
     <string name="pref_audio_focus_entry_front">Előlapi</string>
     <string name="pref_audio_focus_entry_general">Szokásos</string>
@@ -452,6 +509,10 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Keret-átlag</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Pontszerű fénymérés</string>
     <string name="pref_camera_autoexposure_title">Automata fénymérés</string>
+    <string name="pref_camera_auxiliary_close">Ki</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">Expozícióellenőrzés</string>
+    <string name="pref_camera_auxiliary_focus_peak">Fókuszjelölés</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Magas</string>
     <string name="pref_camera_beautify_entry_low">Alacsony</string>
     <string name="pref_camera_beautify_entry_normal">Közepes</string>
@@ -476,6 +537,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_coloreffect_entry_vsco_a4">Analóg</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">Matt</string>
     <string name="pref_camera_coloreffect_title">Szín effektus</string>
+    <string name="pref_camera_common_settings">Általános beállítások</string>
     <string name="pref_camera_contrast_title">Kontraszt</string>
     <string name="pref_camera_delay_capture_entry_10s">10 mp késleltetés</string>
     <string name="pref_camera_delay_capture_entry_3s">3 mp</string>
@@ -484,12 +546,10 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_delay_capture_title">Időzítő</string>
     <string name="pref_camera_device_watermark_title">A készülék vízjele</string>
     <string name="pref_camera_exposuretime_entry_0_5">2 mp</string>
-    <string name="pref_camera_exposuretime_entry_1">1 mp</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000 mp</string>
     <string name="pref_camera_exposuretime_entry_125">1/125 mp</string>
     <string name="pref_camera_exposuretime_entry_15">1/15 mp</string>
     <string name="pref_camera_exposuretime_entry_16s">16 mp</string>
-    <string name="pref_camera_exposuretime_entry_2">1/2 mp</string>
     <string name="pref_camera_exposuretime_entry_250">1/250 mp</string>
     <string name="pref_camera_exposuretime_entry_30">1/30 mp</string>
     <string name="pref_camera_exposuretime_entry_32s">32 mp</string>
@@ -526,6 +586,8 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_hdr_entry_live">Élő</string>
     <string name="pref_camera_hdr_entry_normal">Pro</string>
     <string name="pref_camera_hdr_entry_off">Ki</string>
+    <string name="pref_camera_heic_image_format_description">A nagy hatékonyságú kép fájlformátum kevesebb helyet foglal, de néhány alkalmazás nem támogatja</string>
+    <string name="pref_camera_heic_image_format_title">HEIF-formátum</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
@@ -548,6 +610,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_lying_summary">Értesítsen az aktuális tájolásról, amikor a telefon a talajjal párhuzamos</string>
     <string name="pref_camera_lying_title">Tájolási figyelmeztetés</string>
     <string name="pref_camera_magic_mirror_title">Varázstükör</string>
+    <string name="pref_camera_manual_description_title">A Pro funkciók bemutatása</string>
     <string name="pref_camera_manual_mode_title">Manuális</string>
     <string name="pref_camera_movie_solid_title">Képstabilizátor</string>
     <string name="pref_camera_multilevel_entry_high">Magas</string>
@@ -571,6 +634,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_portrait_mode_title">Portrémód</string>
     <string name="pref_camera_proximity_lock_summary">Érintések megakadályozása zsebben hordás közben</string>
     <string name="pref_camera_proximity_lock_title">Zsebmód</string>
+    <string name="pref_camera_quick_settings">Gyorsbeállítások</string>
     <string name="pref_camera_recordlocation_entry_off">Ki</string>
     <string name="pref_camera_recordlocation_entry_on">Be</string>
     <string name="pref_camera_recordlocation_title">Helyinformáció mentése</string>
@@ -675,6 +739,9 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
     <string name="pref_photo_assistance_tips_off">Ki</string>
     <string name="pref_photo_assistance_tips_on">Be</string>
+    <string name="pref_pic_flaw_tip_summary">Fogadjon értesítéseket valós időben, amikor a személyek a keretben becsukják a szemüket vagy a lencse részben el van takarva felvétel közben</string>
+    <string name="pref_pic_flaw_tip_title">Értesítés fogadása a hibákról</string>
+    <string name="pref_popup_camera_title">Felugró kamera</string>
     <string name="pref_priority_storage_title">Mentés az SD-kártyára</string>
     <string name="pref_privacy_title">Adatvédelmi Irányelvek</string>
     <string name="pref_qc_focus_position_title">Fókusz</string>
@@ -814,7 +881,7 @@ Az ultraszéles látószögű mód segít abban az esetben, ha nem tud eltávolo
     <string name="video_effect_entry_polaroid">Polaroid</string>
     <string name="video_reach_size_limit">Elérte a mérethatárt.</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
-    <string name="video_ultra_clear_tip_8k">8K UHD</string>
+    <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Adatvédelmi irányelvek megtekintése</string>
     <string name="vv_duartion_hint">%1$s | %2$d szegmens | %3$s</string>
     <string name="vv_hint">Kizárólag tájkép módban vehet fel vlogot</string>

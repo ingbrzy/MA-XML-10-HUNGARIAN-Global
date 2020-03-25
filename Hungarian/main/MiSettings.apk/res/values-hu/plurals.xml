@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="last_several_days">
+        <item quantity="other">%d nap</item>
+        <item quantity="one">%d nap</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">A mai képernyő előtt töltött idő megegyezik a(z) %d napos átlaggal</item>
+        <item quantity="one">A mai képernyő előtt töltött idő megegyezik a(z) %d napos átlaggal</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">Ennyivel: %2$s kevesebb képernyő előtt töltött idő a(z) %1$d napos átlaghoz képest</item>
+        <item quantity="one">Ennyivel: %2$s kevesebb képernyő előtt töltött idő a(z) %1$d napos átlaghoz képest</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">Ennyivel: %2$s több képernyő előtt töltött idő a(z) %1$d napos átlaghoz képest</item>
+        <item quantity="one">Ennyivel: %2$s több képernyő előtt töltött idő a(z) %1$d napos átlaghoz képest</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f alkalom</item>
+        <item quantity="one">%.2f alkalom</item>
+    </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d nap</item>
+        <item quantity="one">%d nap</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Feloldva %d alkalommal</item>
         <item quantity="one">Feloldva %d alkalommal</item>
@@ -15,6 +39,10 @@
     <plurals name="usage_state_device_noti_explain_week">
         <item quantity="other">%d értesítés érkezett</item>
         <item quantity="one">%d értesítés érkezett</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d perc nagy előrelépés a tudatos jelenlét és a koncentráció felé.</item>
+        <item quantity="one">%d perc nagy előrelépés a tudatos jelenlét és a koncentráció felé.</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d óra</item>

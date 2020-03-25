@@ -10,7 +10,6 @@
     <string name="retry">Újra</string>
     <string name="cloud_app_current_device">Jelenlegi készülék</string>
     <string name="cloud_app_other_devices">Egyéb készülékek</string>
-    <string name="cloud_app_restore_app_and_data">Állítsa be készülékét</string>
     <string name="cloud_app_restore_data">A személyes adatok és az előzőleg telepített alkalmazások hamarosan automatikusan megjelennek a készülékén</string>
     <string name="cloud_app_dont_restore">Beállítás új készülékként</string>
     <string name="cloud_app_restore_wifi_prompt">Visszaállítás a Xiaomi Cloudból.</string>
@@ -50,6 +49,8 @@
     <string name="self_device_second_space">Ez a telefon Második asztala</string>
     <string name="other_device_main_space">Első asztal</string>
     <string name="other_device_second_space">Második asztal</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">\"%s\" visszaállítása</string>
     <string name="size_unknown">Ismeretlen méret</string>
     <string name="recovering">%s visszaállítása</string>
@@ -222,4 +223,5 @@ Ellenőrizze a hálózati beállításokat és próbálja újra."</string>
     <string name="restore_task_unfinished">A visszaállítás nem sikerült</string>
     <string name="restore_failed_reason_network_error">Hálózati hiba. Várjon egy kicsit és próbálja újra.</string>
     <string name="restore_failed_reason_disk_space_not_enough">Nincs elég szabad tárhely. Előbb szabadítson fel tárhelyet.</string>
+    <string name="cloud_app_restore_app_and_data">Állítsa be készülékét</string>
 </resources>
