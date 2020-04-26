@@ -120,6 +120,7 @@
     <string name="passport_change_phone_number">Telefonszám váltás</string>
     <string name="passport_forget_password"><u>Elfelejtett jelszó</u></string>
     <string name="passport_forget_password_no_underline">Elfelejtett jelszó</string>
+    <string name="passport_can_not_receive_verification_code">Nem kapja meg a hitelesítő kódot?</string>
     <string name="passport_reg_type_email">E-mail cím</string>
     <string name="passport_register_by_email"><u>Regisztrálás e-mail címmel</u></string>
     <string name="passport_international_register_by_email">Mi Fiók létrehozása e-mail használatával</string>
@@ -506,7 +507,9 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Mi fiókjába."</strin
     <string name="input_new_pwd">Adjon meg egy új jelszót</string>
     <string name="confirm_new_pwd">Erősítse meg az új jelszót</string>
     <string name="inconsistent_pwd">A jelszavak nem egyeznek</string>
-    <string name="same_new_and_old_pwd">Nem egyezhet meg a jelenlegi jelszóval</string>
+    <string name="same_new_and_old_pwd">Az új jelszónak különböznie kell a régitől</string>
+    <string name="pwd_width_phone_number_or_mail_num">Az új jelszó nem tartalmazhatja a telefonszámát, az e-mail-címét vagy a Mi Fiók azonosítóját</string>
+    <string name="risky_pwd_not_allow">Az új jelszó nem biztonságos. Állíts be egy másikat.</string>
     <string name="account_security_info_pref_title">Biztonsági információk</string>
     <string name="account_bind_settings">Fiók összekapcsolása</string>
     <string name="account_bind_devices">Készülékek</string>

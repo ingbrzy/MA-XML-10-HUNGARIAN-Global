@@ -91,7 +91,6 @@
     <string name="description_image_button_four">négy</string>
     <string name="description_image_button_hangup">Befejezés</string>
     <string name="description_image_button_message_enter">Válasz üzenettel</string>
-    <string name="description_image_button_message_exit">Üzenetek elrejtése</string>
     <string name="description_image_button_nine">kilenc</string>
     <string name="description_image_button_one">egy</string>
     <string name="description_image_button_pound">kettős kereszt</string>
@@ -206,4 +205,5 @@
     <string name="volume_boost_text">Sikeresen növelte a hangerőt</string>
     <string name="wait_prompt_str">\"Elküldi a következő hangjelzéseket? \"</string>
     <string name="waiting_close_airplane_mode">Egy pillanat…</string>
+    <string name="wifi_call">VoWifi-hívás</string>
 </resources>

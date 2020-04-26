@@ -47,6 +47,7 @@
     <string name="content_description_web_url">Böngészés</string>
     <string name="copy">Másolás</string>
     <string name="cut">Kivágás</string>
+    <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="default_device_name">Ismeretlen készülék</string>
     <string name="default_name">Alapértelmezett</string>
     <string name="description_title">Néma mód</string>
@@ -72,7 +73,7 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Most nem</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Bekapcsolás</string>
     <string name="fp_nav_center_action_choose_dlg_title">Home érintésre</string>
-    <string name="frequent_email">Gyakori e-mail</string>
+    <string name="frequent_email">Gyakran használt e-mail-cím</string>
     <string name="frequent_phrases">Gyakori kifejezések</string>
     <string name="functions_are_being_developed">Türelem! Ez a funkció hamarosan elérhetővé válik.</string>
     <string name="global_actions_airplane_mode">Repülőgépmód</string>
@@ -203,6 +204,7 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="sim_added_reboot_title">A SIM-kártya az újraindítás után fog aktiválódni.</string>
     <string name="sim_lock_non_ais_msg">SIM-kártyája nem fog teljes értékűen működni ebben a telefonban, mert nem felel meg az előfizetése feltételeinek. Ha bármilyen kérdése van, vagy további információra van szüksége ebben az ügyben, kérjük, lépjen kapcsolatba a Xiaomi szervizzel vagy a bolttal, ahol a készüléket vásárolta.</string>
     <string name="sim_lock_now_ais_title">%1$d. SIM</string>
+    <string name="slatoast">A mobiladatkapcsolat használata a gyorsabb sebesség érdekében mobiladatforgalmat generálhat</string>
     <string name="slavewifi">Kétsávos WIFI</string>
     <string name="slavewifi_disconnect">Lecsatlakozás</string>
     <string name="slavewifi_notification_title">Kétsávos WIFI használata</string>

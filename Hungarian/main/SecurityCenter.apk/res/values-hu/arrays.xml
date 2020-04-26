@@ -13,6 +13,11 @@
         <item>Hétköznapokon</item>
         <item>Egyéni</item>
     </string-array>
+    <string-array name="applock_password_types">
+        <item>Minta</item>
+        <item>PIN</item>
+        <item>Jelszó</item>
+    </string-array>
     <string-array name="date_of_app_all">
         <item>"Tegnap (mobiladat) "</item>
         <item>"Ma (mobiladat) "</item>
@@ -44,6 +49,12 @@
         <item>"Ezen a héten: "</item>
         <item>"Ma: "</item>
         <item>"Ebben a hónapban: "</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Ha a készülék zárolva van</item>

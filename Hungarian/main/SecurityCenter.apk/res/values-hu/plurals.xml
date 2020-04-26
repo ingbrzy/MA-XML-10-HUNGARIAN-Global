@@ -28,6 +28,10 @@
         <item quantity="other">%d évvel ezelőtt használva</item>
         <item quantity="one">%d évvel ezelőtt használva</item>
     </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Legalább %s alkalmazást megvédhet</item>
+        <item quantity="one">Legalább %s alkalmazást megvédhet</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d alkalmazás csatlakozhat a hálózatra a háttérben</item>
         <item quantity="one">%d alkalmazás csatlakozhat a hálózatra a háttérben</item>
@@ -99,6 +103,10 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
     <plurals name="gb_ad_ten_thousand_people_play">
         <item quantity="other">%1$d személy játszik</item>
         <item quantity="one">%1$d személy játszik</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d mp</item>
+        <item quantity="one">%d mp</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%d napja folyamatosan bejelentkezve</item>
@@ -455,6 +463,10 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
     <plurals name="uninstall_game_count_title">
         <item quantity="other">%d játék nincs hozzáadva</item>
         <item quantity="one">%d játék nincs hozzáadva</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d app</item>
+        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d megtekintés</item>

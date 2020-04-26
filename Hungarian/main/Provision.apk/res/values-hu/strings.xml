@@ -95,6 +95,7 @@ Mégis kikapcsolja a személyre szabott hirdetéseket?"</string>
     <string name="other_settings_auto_update">Automatikus rendszerfrissítések</string>
     <string name="other_settings_auto_update_summary">A MIUI kiválasztja a legalkalmasabb időpontot a frissítések letöltésére és telepítésére. A készüléke automatikusan újraindul a változtatások alkalmazásához.</string>
     <string name="other_settings_enhanced_lockscreen">Váltakozó háttérképek</string>
+    <string name="other_settings_enhanced_lockscreen_for_india">Glance a Mi számára</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Adatvédelmi Irányelvek</string>
     <string name="other_settings_enhanced_lockscreen_summary">Szerezzen válogatott képeket és történeteket naponta a képernyőzárra. %1$s és %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Végfelhasználói licencszerződés</string>
@@ -160,7 +161,7 @@ A kiválasztott billentyűzet Adatvédelmi irányelveinek megtekintése."</strin
     <string name="require_authority_statement">Annak érdekében, hogy biztosíthassuk Önnek az alapvető szolgáltatásokat, az Ön személyes adatainak begyűjtéséhez meg kell adnia a következő engedélyeket:</string>
     <string name="require_network_authority_statement">Annak érdekében, hogy biztosíthassuk Önnek az alapvető szolgáltatásokat, az Ön személyes adatainak begyűjtéséhez kapcsolódnia kell az internethez és meg kell adnia a következő engedélyeket:</string>
     <string name="screen_recording_introduction">Az alkalmazással felveheti, ami a képernyőjén történik.</string>
-    <string name="security_introduction">Ezzel az alkalmazással törölheti készülékéről a felesleges tartalmakat, megtalálhatja és eltávolíthatja a vírusokat, optimalizálhatja eszköze teljesítményét a játékokhoz, spórolhat az akkumulátorhasználattal, kezelheti az alkalmazásait és egyéb beállításokkal javíthatja készülékét.</string>
+    <string name="security_introduction">Ezzel az alkalmazással törölheti készülékéről a felesleges tartalmakat, megtalálhatja és eltávolíthatja a vírusokat, optimalizálhatja eszköze teljesítményét a játékokhoz, spórolhat az akkumulátorhasználattal, kezelheti az alkalmazásokat, az engedélyeket és egyéb beállításokkal javíthatja készülékét.</string>
     <string name="security_mobile_account_introduction">A bejelentkezéshez és a rendszerfiókok kezeléséhez</string>
     <string name="service_agreement">Elovastam és elfogadom a Felhasználási feltételeket.</string>
     <string name="service_name_album">Galéria</string>
@@ -206,7 +207,7 @@ A kiválasztott billentyűzet Adatvédelmi irányelveinek megtekintése."</strin
     <string name="summary_not_set">Nincs beállítva</string>
     <string name="system_navigation_mode">Rendszerirányítási módok</string>
     <string name="terms_of_use">Felhasználási feltételek</string>
-    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
+    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTML Viewer</string>
     <string name="terms_of_use_label">"Olvassa el a Felhasználói szerződést és az Adatvédelmi nyilatkozatot, hogy megértse, milyen információkat gyűjtünk, hogyan használjuk fel őket és milyen lehetőségei vannak.
 A MIUI használata előtt el kell fogadnia a Felhasználói szerződést és az Adatvédelmi nyilatkozatot.
 %s és a Mi Fiók elemeihez internetkapcsolat és helymeghatározás szükséges."</string>

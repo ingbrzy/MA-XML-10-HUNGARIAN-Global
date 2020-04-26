@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">Kamera</string>
     <string name="accessibility_carrier_network_change_mode">Szolgáltatói hálózat váltása.</string>
     <string name="accessibility_cast_name">%s hálózathoz csatlakoztatva.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">A képernyő kivetítése leállt.</string>
     <string name="accessibility_cell_data">Mobiladat-kapcsolat</string>
     <string name="accessibility_cell_data_off">Mobiladat-kapcsolat kikapcsolva</string>
@@ -312,6 +313,8 @@
     <string name="available_via_carrier">%1$s igénybevételével elérhető</string>
     <string name="available_via_passpoint">%1$s igénybevételével elérhető</string>
     <string name="back">Vissza</string>
+    <string name="band_24G">" (2,4 GHz-es frekvenciasáv)"</string>
+    <string name="band_5G">" (5 GHz-es frekvenciasáv)"</string>
     <string name="battery">Akkumulátor</string>
     <string name="battery_can_use_time">Megközelítőleg %s maradt</string>
     <string name="battery_detail_charging_summary">Az akkumulátorkímélő nem érhető el töltés közben</string>
@@ -442,7 +445,7 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="branded_vpn_footer">Lehetséges, hogy a hálózatot nyomon követik</string>
     <string name="broadcast_tile">Tartalomkijátszás</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI snoop napló engedélyezése</string>
-    <string name="bt_hci_snoop_log_summary">A Bluetooth HCI-csomagok rögzítése. (Bluetooth kapcsolása a beállítás megvaltoztatása után)</string>
+    <string name="bt_hci_snoop_log_summary">Bluetooth-csomagok rögzítése. (Kapcsolja be a Bluetooth-t a beállítás módosítását követően)</string>
     <string name="bt_is_off">A Bluetooth ki van kapcsolva</string>
     <string name="btn_camera">Arcbeolvasás</string>
     <string name="bugreport_in_power">Hibajelentési parancsikon</string>
@@ -773,26 +776,6 @@ Mintavételezési gyakoriság kiválasztása"</string>
     <string name="gxzw_area">Ujjlenyomat-olvasó</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">Nyomja egy kicsit erősebben</string>
-    <string name="gxzw_quick_open_add_event">Esemény hozzáadása</string>
-    <string name="gxzw_quick_open_add_event_sub">Naptár</string>
-    <string name="gxzw_quick_open_alipay_pay">Fizetési kód</string>
-    <string name="gxzw_quick_open_alipay_pay_sub">AliPay</string>
-    <string name="gxzw_quick_open_alipay_scan">Szkenner</string>
-    <string name="gxzw_quick_open_alipay_scan_sub">AliPay</string>
-    <string name="gxzw_quick_open_qr_code">QR-kód</string>
-    <string name="gxzw_quick_open_qr_code_sub">Szkenner</string>
-    <string name="gxzw_quick_open_search">Keresés</string>
-    <string name="gxzw_quick_open_search_sub">Böngésző</string>
-    <string name="gxzw_quick_open_skip_teach">A bemutató kihagyása</string>
-    <string name="gxzw_quick_open_wechat_pay">Fizetési kód</string>
-    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
-    <string name="gxzw_quick_open_wechat_scan">Szkenner</string>
-    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
-    <string name="gxzw_quick_open_xiaoai_title1">Mondja ki az alkalmazás nevét, amit meg kíván nyitni</string>
-    <string name="gxzw_quick_open_xiaoai_title2">Mondja ki a funkció nevét, amit használni kíván</string>
-    <string name="gxzw_quick_tip_press">Tartsa nyomva…</string>
-    <string name="gxzw_quick_tip_slide">Ne emelje fel az ujját. A kiválasztáshoz csúsztassa.</string>
     <string name="gxzw_try_again">Próbálja újra</string>
     <string name="gxzw_try_more_again">Próbálja újra</string>
     <string name="gxzw_use_password">Használja a jelszavát a feloldáshoz</string>
@@ -915,6 +898,10 @@ Használja a mellékelt töltőt."</string>
     <string name="keyguard_charging_back_to_lockscreen">Vissza a képernyőzárra</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">Akkumulátorról</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Merülés mértéke</string>
     <string name="keyguard_charging_info_last_charge_time">M.d. H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Ma %s</string>
@@ -942,6 +929,7 @@ Használja a mellékelt töltőt."</string>
     <string name="keyguard_missing_sim_instructions_long">A SIM-kártya hiányzik vagy nem olvasható. Helyezzen be egy SIM-kártyát.</string>
     <string name="keyguard_missing_sim_message">Nincs SIM-kártya a telefonban.</string>
     <string name="keyguard_missing_sim_message_short">Nincs SIM-kártya</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">A hálózat zárolásra került</string>
     <string name="keyguard_password_enter_password_code">Adja meg a jelszót a feloldáshoz</string>
     <string name="keyguard_password_enter_pin_code">Írja be a PIN-kódot</string>
@@ -1025,6 +1013,7 @@ Használja a mellékelt töltőt."</string>
     <string name="left_keycode">Bal billentyűkód</string>
     <string name="left_nav_bar_button_type">Az extra bal gomb típusa</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="loading_injected_setting_summary">Betöltés…</string>
     <string name="local_backup_password_summary_change">A teljes ADB-mentések jelszavának megváltoztatása vagy eltávolítása</string>
     <string name="local_backup_password_summary_none">Jelenleg nem védettek a teljes ADB-mentések</string>
@@ -1100,6 +1089,7 @@ készítéséhez érintse meg"</string>
     <string name="miui_guide_dialog_message">A médiahangok (zenék, videók, stb.) továbbra is lejátszásra kerülnek Néma módban. Ezt a Beállításokban módosíthatja.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth-eszközzel feloldva</string>
     <string name="miui_ringer_count_down">Visszaszámlálás</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Néma</string>
     <string name="miui_ringer_standard_description">Elnémítja a bejövő hívások és az értesítések hangját</string>
     <string name="miui_ringer_total">Ne zavarjanak</string>
@@ -1127,12 +1117,14 @@ készítéséhez érintse meg"</string>
 
 További információért forduljon a rendszergazdájához."</string>
     <string name="monitoring_description_ca_cert_settings">Megbízható hitelesítő adatok</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">A készülékre tanúsítványjogosultság van telepítve. Biztonságos hálózati forgalma ellenőrizhető vagy módosítható.</string>
     <string name="monitoring_description_do_body">A rendszergazdája ellenőrizheti és kezelheti a beállításokat, a vállalati hozzáférést, az alkalmazásokat, a készülékhez társított adatokat és a készülék helyinformációit.</string>
     <string name="monitoring_description_do_body_vpn">Ön %1$s alkalmazással csatlakozott, ami ellenőrizheti az Ön hálózati aktivitásait, beleértve az e-mail, alkalmazás és internetes tevékenységeit.</string>
     <string name="monitoring_description_do_header_generic">Az Ön készülékét a(z) %1$s kezeli.</string>
     <string name="monitoring_description_do_header_with_name">%1$s %2$s-t használ az Ön készülékének kezeléséhez.</string>
     <string name="monitoring_description_do_learn_more">További információ</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Az Ön cége tanúsítványjogosultságot telepített az Ön munkaprofiljába. A biztonságos hálózati forgalma figyelemmel kísérhető vagy módosítható.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Munkahelyi profilja %1$s-re csatlakoztatva, ez ellenőrizheti az Ön hálózati aktivitásait, beleértve az e-mail, alkalmazás és internetes tevékenységeit.</string>
     <string name="monitoring_description_management">"Az Ön készülékét a cége kezeli.
@@ -1164,6 +1156,7 @@ További információért forduljon a rendszergazdájához.
 
 Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevékenységét."</string>
     <string name="monitoring_description_vpn_settings">VPN-beállítások megnyitása</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA Tanúsítványok</string>
     <string name="monitoring_subtitle_network_logging">Hálózatnaplózás</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1202,6 +1195,7 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="nav_guide_message">Kézmozdulatok használata a virtuális gombok megjelenítéséhez/elrejtéséhez.</string>
     <string name="nav_guide_ok">Beállítás</string>
     <string name="nav_guide_title">Virtuális gombok elrejtése</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Nincs kijelölt</string>
     <string name="no_multi_window_app">Egyik alkalmazás sem támogatja az osztott képernyős módot</string>
     <string name="no_notification_tips">Nincsenek értesítések</string>
@@ -1354,7 +1348,7 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="power_remaining_charging_duration_only">%1$s van hátra a teljes töltöttségig</string>
     <string name="power_remaining_duration_only">Körülbelül %1$s maradt</string>
     <string name="power_remaining_duration_only_enhanced">Körülbelül %1$s van hátra az Ön használati szokásaival</string>
-    <string name="power_remaining_duration_only_short">%1$s van hátra</string>
+    <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">A telefon hamarosan kikapcsolhat</string>
     <string name="power_remaining_duration_shutdown_imminent">A telefon hamarosan kikapcsolhat (%1$s)</string>
     <string name="power_remaining_less_than_duration">Kevesebb, mint %1$s van hátra (%2$s)</string>
@@ -1374,6 +1368,7 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="private_dns_mode_provider">A Privát DNS-szolgáltató hosztneve</string>
     <string name="private_dns_mode_provider_failure">Nem lehet csatlakozni</string>
     <string name="private_dns_mode_provider_hostname_hint">Adja meg a DNS-szolgáltató hosztnevét</string>
+    <string name="process_kernel_label">Android rendszer</string>
     <string name="profile_owned_footer">Lehetséges, hogy a profilt nyomon követik</string>
     <string name="prompt_danger">Veszélyes</string>
     <string name="prompt_detecting">Érzékelés</string>
@@ -1490,6 +1485,7 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="quick_settings_wifi_not_connected">Nincs csatlakoztatva</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi kikapcsolva</string>
     <string name="quick_settings_wifi_on_label">Wi-Fi bekapcsolva</string>
+    <string name="quick_settings_wireless_label">Fordított vezeték nélküli töltés</string>
     <string name="quick_settings_work_mode_label">Munkahelyi mód</string>
     <string name="rapid_charge_mode_tip">Gyorstöltés</string>
     <string name="recent_cannot_dock">A Második asztalon nem használhatja az Osztott képernyőt</string>
@@ -1575,7 +1571,9 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="screenshot_edit">Szerkesztés</string>
     <string name="screenshot_failed_title">Nem sikerült képernyőképet rögzíteni.</string>
     <string name="screenshot_failed_to_capture_text">Képernyőkép készítése letiltva egy alkalmazás vagy az Ön cége által</string>
+    <string name="screenshot_failed_to_capture_title">Az alkalmazás nem engedélyezi a képernyőfelvételek készítését</string>
     <string name="screenshot_failed_to_save_text">Képernyőkép nem menthető kevés tárhely miatt.</string>
+    <string name="screenshot_failed_to_save_title">Nincs elegendő tárhely az új képernyőfelvételekhez</string>
     <string name="screenshot_failed_to_save_unknown_text">Hiba történt a képernyőkép mentése során.</string>
     <string name="screenshot_feedback_txt">Visszajelzés</string>
     <string name="screenshot_insert_failed">Képernyőkép betöltése sikertelen. Készítsen egy újat vagy tekintse meg a képet a Galériában.</string>
@@ -1614,7 +1612,7 @@ Szintén csatlakozik egy VPN-hez is, amely képes megfigyelni a hálózati tevé
     <string name="show_demo_mode">Demó mód megjelenítése</string>
     <string name="show_hw_layers_updates">Mutassa a hardverréteg frissítéseit</string>
     <string name="show_hw_layers_updates_summary">Frissítéskor a hardverelemek zölden fognak villogni</string>
-    <string name="show_hw_screen_updates">A nézetfrissítések megjelenítése</string>
+    <string name="show_hw_screen_updates">GPU-leképezés láthatóvá tétele</string>
     <string name="show_hw_screen_updates_summary">Villogjanak az ablakok, ahol a videóleképezést GPU végzi</string>
     <string name="show_non_rect_clip">Nem négyzetes klip műveletek hibakeresése</string>
     <string name="show_notification_channel_warnings">Értesítési csatornák figyelmeztetéseinek megjelenítése</string>
@@ -1793,7 +1791,7 @@ Készüléke a következőktől lehet forró:
     <string name="torch_closed">Lámpa kikapcsolva</string>
     <string name="torch_high_temperature_warning">Készüléke túlmelegedett. Most nem használhatja a zseblámpát.</string>
     <string name="torch_opened">Lámpa bekapcsolva</string>
-    <string name="track_frame_time">HWUI-leképezési profil</string>
+    <string name="track_frame_time">GPU leképezési profil</string>
     <string name="transition_animation_scale_title">Áttűnésanimáció tempója</string>
     <string name="tts_default_lang_summary">A felolvasott szövegnél a beállított nyelvhez specializált hangot állít be</string>
     <string name="tts_default_lang_title">Nyelv</string>
@@ -1961,6 +1959,7 @@ Minden felhasználó frissítheti az alkalmazásokat az összes többi felhaszn�
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimális</string>
     <string name="wapi_yes">Igen</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Frissítve %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">A hozzáférési pont ideiglenesen telített</string>
     <string name="wifi_auto_sel_wapi_cert">Automatikus választás</string>
@@ -1984,12 +1983,12 @@ Minden felhasználó frissítheti az alkalmazásokat az összes többi felhaszn�
     <string name="wifi_is_off">A Wi-Fi ki van kapcsolva</string>
     <string name="wifi_limited_connection">Korlátozott kapcsolat</string>
     <string name="wifi_metered_label">Mért</string>
-    <string name="wifi_no_internet">Nincs internetelérés</string>
+    <string name="wifi_no_internet">Nem lehet az internetre csatlakozni</string>
     <string name="wifi_no_internet_no_reconnect">Nem lehet az internetre csatlakozni</string>
     <string name="wifi_not_in_range">Nincs hatótávolságon belül</string>
     <string name="wifi_remembered">Mentve</string>
     <string name="wifi_scan_throttling">A Wi-Fi keresési korlátozása</string>
-    <string name="wifi_scan_throttling_summary">Csökkenti az akkumulátormerülést és javítja a hálózat teljesítményét</string>
+    <string name="wifi_scan_throttling_summary">Csökkenti az akkumulátor merülését és javítja a hálózat teljesítményét</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_none">Nincs</string>
@@ -2024,6 +2023,15 @@ Győződjön meg róla, hogy a tanúsítvány valódi."</string>
     <string name="wireless_charge_reset_device">Lassú töltés. Igazítsa meg a készülékét.</string>
     <string name="wireless_charge_reset_device_detail">Győződjön meg róla, hogy készüléke megfelelően van-e ráhelyezve a töltőlapra</string>
     <string name="wireless_charge_stop">A vezeték nélküli töltés leállt</string>
+    <string name="wireless_charging_connected_message">A fordított vezeték nélküli töltés nem használható, ha a készüléke vezeték nélkül töltődik.</string>
+    <string name="wireless_charging_low_battery_level_message">A fordított vezeték nélküli töltés nem használható, ha az akku 30%-osnál alacsonyabb töltöttségű.</string>
+    <string name="wireless_charging_ok">Rendben</string>
+    <string name="wireless_charging_saver_cancel">Kikapcsolás</string>
+    <string name="wireless_charging_saver_message">Az akkumulátorkímélő bekapcsolva. Elérhető maradjon a fordított vezeték nélküli töltés?</string>
+    <string name="wireless_charging_saver_ok">Megtartás</string>
+    <string name="wireless_charging_tips_disable">Ne emlékeztessen újra</string>
+    <string name="wireless_charging_tips_message">Helyezze a Qi vezeték nélküli töltést támogató készülékeket (telefonok, tartozékok, stb.) ennek a készüléknek a hátoldalára.</string>
+    <string name="wireless_charging_tips_title">Fordított vezeték nélküli töltés</string>
     <string name="wrong_password">Hibás jelszó</string>
     <string name="zen_alarm_warning">Nem fogja hallani a következő ébresztést %1$s</string>
     <string name="zen_alarm_warning_indef">Nem fogja hallani a következő ébresztést %1$s, hacsak ki nem kapcsolja addig a Ne zavarjanak módot</string>

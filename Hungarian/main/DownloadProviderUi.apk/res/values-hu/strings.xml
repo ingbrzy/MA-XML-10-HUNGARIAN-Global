@@ -205,7 +205,7 @@
     <string name="pref_download_settings_title">Letöltési méretkorlát</string>
     <string name="pref_summary_any_bytes_popup">Mindig várjon Wi-Fi-hálózatra a fájlok letöltéséhez</string>
     <string name="pref_summary_enable_max_bytes_popup">Mobiladat-kapcsolat esetén egy felugró ablak figyelmeztet, ha a fájl mérete meghaladja a határt</string>
-    <string name="pref_summary_max_bytes_limit_format">Várakozás Wi-Fi-re, ha a fájl meghaladja a %s méretet</string>
+    <string name="pref_summary_max_bytes_limit_format">Várakozás Wi-Fi-re, ha a fájl meghaladja a(z) %s méretet</string>
     <string name="pref_summary_no_limit_popup">Korlátlan</string>
     <string name="pref_title_enable_max_bytes_popup">Adathasználati figyelmeztető megjelenítése</string>
     <string name="preferences_title">Beállítások</string>
@@ -249,4 +249,5 @@
     <string name="toast_only_wifi_download">Kapcsolódjon Wi-Fi-hez az elem letöltéséhez</string>
     <string name="total_speedup">Sebességnövelés (összesen)</string>
     <string name="version">Verzió %s</string>
+    <string name="security_ui_title">Security ads</string>
 </resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Számlafejléc: *** Inc.</item>
+        <item>Cím: utca, apartman, város, ország/régió, tartomány, irányítószám</item>
+        <item>Kérem, hagyják a csomagot az ajtó előtt. Köszönöm!</item>
+        <item>Várjon egy percet, mindjárt visszatérek.</item>
+        <item>Megbeszélésen vagyok. Kérem, küldjön egy szöveges üzenetet.</item>
+        <item>Most nem tudok beszélni. Amint lehetséges, visszahívlak.</item>
+        <item>Köszönöm!</item>
+    </string-array>
+</resources>

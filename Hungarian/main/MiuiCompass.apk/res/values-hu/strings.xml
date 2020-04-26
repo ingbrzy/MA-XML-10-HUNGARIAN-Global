@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Fel</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="allow">Engedélyezés</string>
     <string name="altitude">%.1f</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
@@ -23,6 +50,7 @@
     <string name="cancel">Mégse</string>
     <string name="cannot_get_location">--</string>
     <string name="compass_settings">Beállítások</string>
+    <string name="copy">Másolás</string>
     <string name="cta_v2_app_purpose">útirány, koordináták, légnyomás és aktuális magasság megjelenítése</string>
     <string name="dialog_body_no_network">Csatlakozzon WIFI-hez vagy kapcsolja be a mobiladatforgalmat.</string>
     <string name="dialog_calibrat_altitude">Kalibrálás…</string>
@@ -38,6 +66,7 @@
     <string name="do_not_show_next_time">Ne jelenjen meg újra</string>
     <string name="error_camera_unavailable">Ellenőrizze hogy más alkalmazás használja-e a Kamerát.</string>
     <string name="error_camera_unavailable_title">A kamera nem elérhető</string>
+    <string name="expand_button_title">Speciális</string>
     <string name="first_using_dialog_message">Az Iránytűnek szüksége van a készülék hálózat, kamera és helyszolgáltatás engedélyére, hogy megfelelően működhessen.</string>
     <string name="first_using_dialog_title">Hozzáférés engedélyek</string>
     <string name="guide_toast">A kalibráláshoz mozgassa az eszközt az alábbiakban látható módon.</string>
@@ -54,17 +83,24 @@
     <string name="longitude">Hosszúság</string>
     <string name="mobiledata_alert_dialog_message">Csatlakozik az internetre a kalibrálás tökéletesítéséhez?</string>
     <string name="mobiledata_alert_dialog_title">Adathasználati figyelmeztetés</string>
+    <string name="not_set">Nincs beállítva</string>
     <string name="open_perm_msg">Az Iránytű számára hozzáférés szükséges a helyadatokhoz és a kamera adataihoz a koordináták meghatározása és az élő bemutatók miatt. Engedélyezi?</string>
     <string name="open_perm_title">Engedélyek szükségesek</string>
     <string name="permission_camera_desc">Vízszintező használata</string>
     <string name="permission_location_desc">Koordináták és atmoszféranyomás megjelenítése</string>
+    <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="preference_other">Egyéb</string>
     <string name="preference_privacy_title">Adatvédelmi Irányelvek</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">Nyomás</string>
     <string name="pressure_unit">hPa</string>
+    <string name="search_menu_title">Keresés</string>
     <string name="shake_enter_tip">Rázza meg a kalibráláshoz</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="unit_degree">Fok</string>
     <string name="using_camera_confirm_cancel">Kilépés</string>
     <string name="using_camera_confirm_ok">Elfogadás</string>
+    <string name="v7_preference_off">KI</string>
+    <string name="v7_preference_on">BE</string>
 </resources>

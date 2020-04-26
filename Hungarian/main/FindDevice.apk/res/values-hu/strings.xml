@@ -22,12 +22,13 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="find_device_error_access_denied">Hozzáférés megtagadva.</string>
     <string name="find_device_error_account_sys_timeout">Nem sikerült csatlakozni a Mi Fiókhoz</string>
     <string name="find_device_error_account_unknown_error">Mi Fiók hiba (%s).</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Ellenőrizze az adatkapcsolatot és próbálja újra.</string>
     <string name="find_device_error_password_changed">Fiók jelszava legutóbb megváltozott.</string>
     <string name="find_device_error_server">Szerver hiba (%s).</string>
     <string name="find_device_error_unknown">Ismeretlen hiba (%s).</string>
     <string name="find_device_noise_title">Készülékkeresés hangriasztása</string>
-    <string name="find_device_notice">Készüléke helymeghatározásához, lezárásához vagy visszaállításához menjen az&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />weboldalra.</string>
+    <string name="find_device_notice">Készüléke helyének meghatározásához, zárolásához, illetve az adatok törléséhez látogasson el az &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> oldalra.</string>
     <string name="find_device_notice_sms_alert">SIM-kártya cseréje esetén a szolgáltatás újraaktiválásához szükséges SMS automatikusan küldésre kerül.</string>
     <string name="find_device_stop_noise">OK gombra némítás</string>
     <string name="find_device_storage_corrupted">A Készülékkeresés tárhelye sérült. A telefon most nem biztonságos.</string>

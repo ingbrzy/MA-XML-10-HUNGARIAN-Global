@@ -76,6 +76,7 @@
 és a beállítások automatikus igazítása"</string>
     <string name="ai_scene_top_moon_off">Alacsonyfényerő-mód</string>
     <string name="ai_scene_top_tip">Hold-mód</string>
+    <string name="ai_watermark_title">AI vízjel</string>
     <string name="audio_focus_exit_button_text">Az Audiófókusz kikapcsolása</string>
     <string name="autozoom_click_hint">Érintse meg a fényképezni kívánt mozgó elemet, annak fókuszban tartásához. A legjobb eredmény elérése érdekében maradjon legalább 3 méterre.</string>
     <string name="autozoom_disabled_hint">A mozgó objektum követése leállítva</string>
@@ -109,6 +110,7 @@
     <string name="button_fisheye_camera_title">Halszem</string>
     <string name="button_front_camera_title">Szelfi készítése</string>
     <string name="button_normal_video_title">Videófelvétel</string>
+    <string name="camcorder_tip_8k_max_video_duration">Maximálisan 6 percet tud rögzíteni 8K-ban</string>
     <string name="camera_disabled">Biztonsági okokból a Kamera letiltva</string>
     <string name="camera_error_title">Kamerahiba</string>
     <string name="camera_label">Kamera</string>
@@ -122,9 +124,10 @@
     <string name="camera_snap_mode_title_detail">A részletek megtekintéséhez érintse meg</string>
     <string name="cannot_connect_camera_once">A kamera indítása nem sikerült, indítsa újra az alkalmazást</string>
     <string name="cannot_connect_camera_twice">A kamera indítása nem sikerült, indítsa újra a készüléket</string>
-    <string name="cannot_connect_camera_volte_call">Videóhívás van folyamatban. Próbálja meg később.</string>
     <string name="cannot_move_warning_message">Tartsa mozdulatlanul a készüléket, még készül a kép</string>
     <string name="capture_back_pressed_hint">Érintse meg újra a kilépéshez</string>
+    <string name="ccc_temperature_warning_msg">Eszköze túlmelegedett. A Kamera %d másodpercen belül bezárásra kerül. A képei és videói automatikusan elmentésre kerülnek.</string>
+    <string name="ccc_temperature_warning_title">Az eszköz túlmelegedett</string>
     <string name="close_back_flash_toast">A készüléke túlmelegedett. Most nem használhatja a vakut.</string>
     <string name="close_front_flash_toast">A készüléke túlmelegedett. Most nem használhatja a vakut.</string>
     <string name="color_effect_entry_berry">Bogyó</string>
@@ -150,6 +153,7 @@
     <string name="color_effect_live_none">Nincs effekt</string>
     <string name="color_effect_live_solar">Égszínkék</string>
     <string name="color_effect_live_years">Szépia</string>
+    <string name="color_enhance_mode">Fokozott színek</string>
     <string name="config_name_group">Csoportos szelfi</string>
     <string name="config_name_hht">Kézi szürkületi</string>
     <string name="config_name_magic">Varázslat</string>
@@ -183,6 +187,12 @@
     <string name="dialog_ok_time">OK (%ds)</string>
     <string name="dirty_tip_toast">A lencse koszos. Tisztítsa meg.</string>
     <string name="do_not_remind_me">Ne mutassa újra</string>
+    <string name="document_blackwhite">Fekete-fehér</string>
+    <string name="document_mode_use_hint_text_body">"A beolvasott dokumentumok
+automatikus sorba rendezése és javítása"</string>
+    <string name="document_mode_use_hint_text_title">Dokumentumok beolvasása</string>
+    <string name="document_origin">Eredeti</string>
+    <string name="document_strengthen">Megnövelt</string>
     <string name="dual_camera_lens_covered_toast">A lencse le van takarva.</string>
     <string name="dual_camera_lowlight_toast">Úgy néz ki túl sötét van.</string>
     <string name="dual_camera_too_close_toast">A kamera túl közel van a tárgyhoz.</string>
@@ -193,6 +203,7 @@
     <string name="edit_eyebrow_dye">Szemöldökfesték</string>
     <string name="edit_face_ruddy">Pirospozsgás</string>
     <string name="edit_face_slender">Vékony</string>
+    <string name="edit_hairline">Hajszálvonal</string>
     <string name="edit_jelly_lips">Szájfény</string>
     <string name="edit_lips">Ajkak</string>
     <string name="edit_neck">Nyak</string>
@@ -238,6 +249,7 @@
     <string name="face_beauty_smart">Intelligens</string>
     <string name="face_score_info">%.1f pont</string>
     <string name="fps960_toast">A szuperlassított felvétel a rögzítés utolsó negyedétől kezdődik majd</string>
+    <string name="fragment_tab_name_bokeh">Bokeh</string>
     <string name="front_camera_hint_text_place">"A szelfikészítés könnyebb lesz
 ha elfordítja a telefonját"</string>
     <string name="front_camera_hint_text_rotate">Fordítsa el a telefonját</string>
@@ -256,8 +268,16 @@ ahol a legjobban néz ki mindenki."</string>
     <string name="hint_groupshot_beauty">Csoportképnél nem tudja használni a Szépítést</string>
     <string name="hint_mimovie">A legjobb hatás elérése érdekében fényképezzen tájkép módban</string>
     <string name="hint_slow_motion">A felvett videó lassított lesz.</string>
+    <string name="hint_subtitle">Feliratok diktálása videofelvétel közben</string>
+    <string name="hint_subtitle_prompt">Mostantól diktálhat feliratokat</string>
     <string name="hunt_dual_water_mark">A kétkamerás vízjel automatikusan a képekhez adódik.</string>
+    <string name="id_card_mode_hint_back">Olvassa be az igazolvány hátoldalát</string>
+    <string name="id_card_mode_hint_front">Olvassa be az igazolvány elülső oldalát</string>
+    <string name="id_card_mode_use_hint_text_body">"Igazolványának mindkét oldalát egy képre mentse el.
+Nyomtassa ki vezeték nélküli kapcsolaton keresztül egy A4-es méretű papírra."</string>
+    <string name="id_card_mode_use_hint_text_title">Igazolvány beolvasása</string>
     <string name="install_confirmed">Telepítés</string>
+    <string name="kaleidoscope_fragment_tab_name">Kaleidoszkóp</string>
     <string name="lens_dirty_detected_content">"Úgy tűnik, a kameralencse koszos.
 Tisztítsa meg a lecsét a jobb hatásért."</string>
     <string name="lens_dirty_detected_title_back">A hátlapi kamera koszos</string>
@@ -391,9 +411,10 @@ nagyobbnak tűnjenek a képeken"</string>
     <string name="moive_frame">Filmkeret</string>
     <string name="multi_window_mode_not_supported">A kamera nem működik osztott képernyőnél</string>
     <string name="network_access_user_notice_agree">Elfogadás</string>
-    <string name="network_access_user_notice_message_live_video">&lt;Data>Ahhoz, hogy a Kamera effektusokat, zenét és egyéb funkciókat tudjon biztosítani a rövid videókhoz, csatlakoznia kell az internethez.&lt;br/>&lt;br/>Az alábbi Elfogad gombra való kattintással Ön elfogadja a &lt;a href =%1$s>Felhasználói megállapodásunkat&lt;/a> és az &lt;a href =%2$s>Adatvédelmi irányelvünket&lt;/a>, valamint engedélyezi a Kamerának, hogy csatlakozzon az internethez.&lt;/Data></string>
-    <string name="network_access_user_notice_message_sticker">&lt;Data>Ahhoz, hogy a Kamera biztosítani tudja a matricákat a funkcióhoz, csatlakoznia kell az internethez.&lt;br/>&lt;br/>Az alábbi Elfogad gombra való kattintással Ön elfogadja a &lt;a href =%1$s>Felhasználói megállapodásunkat&lt;/a> és az &lt;a href =%2$s>Adatvédelmi irányelvünket&lt;/a>, valamint engedélyezi a Kamerának, hogy csatlaakozzon az internethez.&lt;/Data></string>
-    <string name="network_access_user_notice_message_voice_caption">&lt;Data>Ahhoz, hogy a Kamera biztosítani tudja a beszédből szöveg előállítása funkciót, csatlakoznia kell az internethez.&lt;br/>&lt;br/>Az alábbi Elfogad gombra való kattintással Ön elfogadja a &lt;a href =%1$s>Felhasználói megállapodásunkat&lt;/a> és az &lt;a href =%2$s>Adatvédelmi irányelvünket&lt;/a>, valamint engedélyezi a Kamerának, hogy csatlaakozzon az internethez.&lt;/Data></string>
+    <string name="network_access_user_notice_message_live_video">&lt;Data>Ahhoz, hogy a Kamera effektusokat, zenét és egyéb funkciókat tudjon biztosítani a rövid videókhoz, csatlakoznia kell az internethez.&lt;br/>&lt;br/>Az alábbi \"Elfogad\" gombra való kattintással Ön elfogadja a &lt;a href =%1$s>Felhasználói megállapodásunkat&lt;/a> és az &lt;a href =%2$s>Adatvédelmi irányelvünket&lt;/a>, valamint engedélyezi a Kamerának, hogy csatlakozzon az internethez.&lt;/Data></string>
+    <string name="network_access_user_notice_message_mi_live_video">&lt;Data>Üdvözöljük, ezek itt a rövid videók! Ahhoz, hogy szolgáltatásunk zenét és egyéb funkciókat biztosíthasson Önnek, a szolgáltatásnak csatlakoznia kell a hálózathoz.&lt;br/>&lt;br/>A szolgáltatásunk használatával Ön elfogadja a &lt;a href =%1$s>Felhasználói megállapodásunkat&lt;/a> és az &lt;a href =%2$s>Adatvédelmi irányelvünket&lt;/a>, valamint engedélyezi az alkalmazásnak, hogy csatlakozzon az internethez.&lt;/Data></string>
+    <string name="network_access_user_notice_message_sticker">&lt;Data>Ahhoz, hogy a Kamera biztosítani tudja a matricákat a funkcióhoz, csatlakoznia kell az internethez.&lt;br/>&lt;br/>Az alábbi \"Elfogad\" gombra való kattintással Ön elfogadja a &lt;a href =%1$s>Felhasználói megállapodásunkat&lt;/a> és az &lt;a href =%2$s>Adatvédelmi irányelvünket&lt;/a>, valamint engedélyezi a Kamerának, hogy csatlaakozzon az internethez.&lt;/Data></string>
+    <string name="network_access_user_notice_message_voice_caption">&lt;Data>Ahhoz, hogy a Kamera biztosítani tudja a beszédből szöveg előállítása funkciót, csatlakoznia kell az internethez.&lt;br/>&lt;br/>Az alábbi \"Elfogad\" gombra való kattintással Ön elfogadja a &lt;a href =%1$s>Felhasználói megállapodásunkat&lt;/a> és az &lt;a href =%2$s>Adatvédelmi irányelvünket&lt;/a>, valamint engedélyezi a Kamerának, hogy csatlaakozzon az internethez.&lt;/Data></string>
     <string name="network_access_user_notice_title">Csatlakozás az internethez</string>
     <string name="no_storage">Kamerahasználat előtt helyezzen be egy SD-kártyát</string>
     <string name="not_enough_space">Az SD-kártya megtelt</string>
@@ -409,6 +430,7 @@ nagyobbnak tűnjenek a képeken"</string>
     <string name="parameter_ef_split_description">Kihúzhatja az expozíciós gyűrűt a fókuszgyűrűből és hozzáigazíthatja a két paramétert külön-külön.</string>
     <string name="parameter_ef_split_title">A fókusz és az expozíciómérés különválasztása</string>
     <string name="parameter_et_description">Az automatikus zársebességet a kamera fénymérője határozza meg. Ha manuálisan választja ki a zársebességet, ne feledje, hogy minél tovább van nyitva a zár, annál több fény éri a szenzort, ezzel pedig világosabb lesz a kép.</string>
+    <string name="parameter_et_title">Zársebesség</string>
     <string name="parameter_exposure_description">Ezzel a funkcióval kompenzálhatja az expozíciót, ha a fénymérő által ajánlottnál világosabb vagy sötétebb képet szeretne.</string>
     <string name="parameter_exposure_feecback_description">Az alulexponált területek kék színnel, míg a túlexponált területek piros színnel vannak jelölve a megfelelő expozíció érdekében.</string>
     <string name="parameter_exposure_feecback_title">Expozícióellenőrzés</string>
@@ -418,7 +440,8 @@ nagyobbnak tűnjenek a képeken"</string>
     <string name="parameter_histogram_description">A hisztogram az expozíci valósághű bemutatása a kép legsötétebb részeinek bal oldalon és legvilágosabb részeinek jobb oldalon való megjelenítésével. A skála függőleges része azt mutatja meg, hogy mennyire világos vagy sötét a jelenetrész.</string>
     <string name="parameter_histogram_title">Hisztogram</string>
     <string name="parameter_iso_description">Az ISO-értékek automatikusan meghatárózhatók a fénymérővel. Az értéket manuálisan is módosíthatja. Ne feledje: a magasabb ISO érzékenyebbé teszi a kamerát a fényre, de több digitális zajt visz a képre.</string>
-    <string name="parameter_lens_description">Több elérhető lencse között is válthat:</string>
+    <string name="parameter_iso_title">ISO-érzékenység</string>
+    <string name="parameter_lens_description">"Több elérhető lencse között is válthat: "</string>
     <string name="parameter_lens_marco">, MAKRÓ (makró lencsék)</string>
     <string name="parameter_lens_st">, S-TELE (zoom lencsék)</string>
     <string name="parameter_lens_t">, TELE (telefotó lencsék)</string>
@@ -512,6 +535,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_auxiliary_close">Ki</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Expozícióellenőrzés</string>
     <string name="pref_camera_auxiliary_focus_peak">Fókuszjelölés</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Magas</string>
     <string name="pref_camera_beautify_entry_low">Alacsony</string>
     <string name="pref_camera_beautify_entry_normal">Közepes</string>
@@ -544,22 +568,8 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_delay_capture_entry_audio">Hangvezérelt</string>
     <string name="pref_camera_delay_capture_title">Időzítő</string>
     <string name="pref_camera_device_watermark_title">A készülék vízjele</string>
-    <string name="pref_camera_exposuretime_entry_0_5">2 mp</string>
-    <string name="pref_camera_exposuretime_entry_1000">1/1000 mp</string>
-    <string name="pref_camera_exposuretime_entry_125">1/125 mp</string>
-    <string name="pref_camera_exposuretime_entry_15">1/15 mp</string>
-    <string name="pref_camera_exposuretime_entry_16s">16 mp</string>
-    <string name="pref_camera_exposuretime_entry_250">1/250 mp</string>
-    <string name="pref_camera_exposuretime_entry_30">1/30 mp</string>
-    <string name="pref_camera_exposuretime_entry_32s">32 mp</string>
-    <string name="pref_camera_exposuretime_entry_4">1/4 mp</string>
-    <string name="pref_camera_exposuretime_entry_4s">4 mp</string>
-    <string name="pref_camera_exposuretime_entry_500">1/500 mp</string>
-    <string name="pref_camera_exposuretime_entry_60">1/60 mp</string>
-    <string name="pref_camera_exposuretime_entry_8">1/8 mp</string>
-    <string name="pref_camera_exposuretime_entry_8s">8 mp</string>
-    <string name="pref_camera_exposuretime_entry_auto">Autom.</string>
     <string name="pref_camera_face_info_watermark_title">Életkorbélyeg hozzáadása a fotókhoz</string>
+    <string name="pref_camera_first_tag_tips">Sikeresen megjelölve</string>
     <string name="pref_camera_flashmode_entry_auto">Autom.</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">Lágy fény</string>
     <string name="pref_camera_flashmode_entry_off">Ki</string>
@@ -625,7 +635,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_panoramamode_title">Panoráma</string>
     <string name="pref_camera_peak_entry_off">Ki</string>
     <string name="pref_camera_peak_entry_on">Be</string>
-    <string name="pref_camera_peak_title">Fókuszcsúcspont</string>
+    <string name="pref_camera_peak_title">Fókuszjelölés</string>
     <string name="pref_camera_picturesize_entry_standard">Szabványos 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">Képarány</string>
     <string name="pref_camera_portrait_mode_entry_off">Portrémód kikapcsolva</string>
@@ -690,6 +700,8 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_video_duration_entry_120">Nincs korlát</string>
     <string name="pref_camera_video_duration_entry_30">30 perc</string>
     <string name="pref_camera_video_duration_entry_mms">30 mp (MMS)</string>
+    <string name="pref_camera_video_tag">Videók megjelölésének engedélyezése</string>
+    <string name="pref_camera_video_tag_description">Videofelvétel készítése közben koppintson a „Megjelölés” lehetőségre, hogy a visszajátszás közben visszatérhessen a megjelölt pillanatokhoz</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Fénykép készítése</string>
     <string name="pref_camera_volumekey_function_entry_timer">Fényképkészítési visszaszámláló</string>
     <string name="pref_camera_volumekey_function_entry_volume">Hangerő</string>
@@ -708,8 +720,8 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_zoom_mode_entry_macro">MAKRÓ</string>
     <string name="pref_camera_zoom_mode_entry_standard">SZOKÁSOS</string>
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-    <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
-    <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
+    <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
+    <string name="pref_camera_zoom_mode_entry_tele_standalone">TELE 5X</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ULTRASZÉLES</string>
     <string name="pref_camera_zoom_mode_entry_wide">SZÉLES</string>
     <string name="pref_camera_zoom_mode_title">LENCSE</string>
@@ -717,6 +729,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_zsl_entry_off">Ki</string>
     <string name="pref_camera_zsl_entry_on">Be</string>
     <string name="pref_capture_settings">Kamera</string>
+    <string name="pref_document_mode">Dokumentumok</string>
     <string name="pref_face_beauty_title">Szépítés</string>
     <string name="pref_fingerprint_capture_title">Exponálás ujjlenyomattal</string>
     <string name="pref_front_mirror_entry_auto">Arc felismerésekor</string>
@@ -778,6 +791,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_video_speed_entry_slow">Lassú</string>
     <string name="pref_video_speed_fast_title">Time-lapse</string>
     <string name="pref_video_speed_slow_title">Lassított</string>
+    <string name="pref_video_subtitle">Feliratok</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">10X (0.3 másodperces intervallum)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">120X (4 másodperces intervallum)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_150">150X (5 másodperces intervallum)</string>
@@ -796,6 +810,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_watermark_on">Be</string>
     <string name="pref_watermark_title">Vízjel</string>
     <string name="preparing_sd">SD-kártya ellenőrzése…</string>
+    <string name="pro_color_mode">Pro szín</string>
     <string name="recommend_macro_mode">Próbálja ki a Makró módot</string>
     <string name="recommend_portrait">Próbálja ki a Portré módot</string>
     <string name="recommend_soft_light_tip">Vaku bekapcsolása</string>
@@ -834,6 +849,10 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sticker_tab1">Aranyos</string>
     <string name="sticker_tab2">Vicces</string>
+    <string name="subtitle_network_exception_tips">Nem sikerült kapcsolódni a hálózathoz. Most nem tud szövegátiratot készíteni.</string>
+    <string name="super_eis">Szuperstabilizáció</string>
+    <string name="super_eis_disabled_hint">A szuperstabilizáció ki van kapcsolva</string>
+    <string name="super_night_hint">Kép optimalizálása… Gondoskodjon eszköze stabilitásáról.</string>
     <string name="super_night_toast">Fényképezés közben tartsa a telefont stabilan</string>
     <string name="tap_to_exposure">Érintse meg az exponálás kézi beállításához</string>
     <string name="tap_to_focus">Érintse meg a fókuszáláshoz</string>
@@ -846,13 +865,17 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="toast_start_audio_capture">Készítsen hangutasítással fényképet</string>
     <string name="ubi_focus_capture_fail">Nem sikerült fényképet készíteni</string>
     <string name="ubifocus_capture_warning_message">A legjobb eredményhez a képnek tartalmaznia kell közeli (kevesebb, mint 1 méterre a lencsétől) és távoli tárgyakat is</string>
+    <string name="ultra_pixel_108mp">108 MP</string>
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD kikapcsolva</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD bekapcsolva</string>
-    <string name="ultra_pixel_portrait_hint">HD-portré</string>
+    <string name="ultra_pixel_portrait_hint">Alacsony fényviszony portré</string>
     <string name="ultra_pixel_zoom_no_support_tip">A nagyítás nem működik a következő módban: %s Ultra HD</string>
+    <string name="ultra_tele_use_hint_text_body">"Használja az 50-szeres nagyítást a távoli objektumok
+részletes megjelenítéséhez"</string>
+    <string name="ultra_tele_use_hint_text_title">50-szeres nagyítás</string>
     <string name="ultra_wide_bokeh_close_tip">A teljesalakos mód kikapcsolva</string>
     <string name="ultra_wide_bokeh_open_tip">Teljesalakos mód</string>
     <string name="ultra_wide_close_tip">Az ultraszéles látószögű mód kikapcsolva</string>
@@ -871,14 +894,27 @@ Az ultraszéles látószögű mód segít abban az esetben, ha nem tud eltávolo
     <string name="user_notice_identify_summary_format">A Kamera használata előtt Önnek el kell fogadnia a következő két dokumentumot: <a href="http://www.miui.com/res/doc/eula.html?lang=hu_HU">Felhasználói Szerződés</a> és <a href="http://www.miui.com/res/doc/privacy.html?lang=hu_HU">Adatvédelmi Irányelvek</a>. A hibátlan működéshez a Kamerának internetkapcsolatra is szüksége van. Elfogadja?</string>
     <string name="user_notice_title">Felhasználási feltételek</string>
     <string name="video_beauty_tip">Szépítés videófelvételhez</string>
+    <string name="video_beauty_tip_beautification">Beautify</string>
+    <string name="video_beauty_tip_filter">Szűrők</string>
+    <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
     <string name="video_camera_label">Videókamera</string>
     <string name="video_effect_entry_blackwhite">Fekete-fehér</string>
     <string name="video_effect_entry_bygone">Bygone</string>
+    <string name="video_effect_entry_central">Központi</string>
+    <string name="video_effect_entry_color_retention">Pezsgő színek</string>
+    <string name="video_effect_entry_fantasy">Fantázia</string>
     <string name="video_effect_entry_film">Mozi</string>
     <string name="video_effect_entry_forest">Erdő</string>
     <string name="video_effect_entry_holiday">Tükröződés</string>
+    <string name="video_effect_entry_lost">Eltévedt</string>
+    <string name="video_effect_entry_meet">Találkozás</string>
+    <string name="video_effect_entry_northern_europe">Észak Európa</string>
     <string name="video_effect_entry_polaroid">Polaroid</string>
+    <string name="video_effect_entry_rome">Róma</string>
+    <string name="video_effect_entry_summer_day">Nyár</string>
+    <string name="video_effect_entry_wind_sing">Szellő</string>
     <string name="video_reach_size_limit">Elérte a mérethatárt.</string>
+    <string name="video_tag_flag_title">Megjelölés</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Adatvédelmi irányelvek megtekintése</string>
@@ -890,6 +926,11 @@ Az ultraszéles látószögű mód segít abban az esetben, ha nem tud eltávolo
 menetközben is rögzíthet és szerkeszthet videókat"</string>
     <string name="vv_use_hint_text_title">VLOG</string>
     <string name="wait">Egy pillanat…</string>
+    <string name="watermark_tab_city">Város</string>
+    <string name="watermark_tab_festival">Ünnepnap</string>
+    <string name="watermark_tab_general">Általános</string>
+    <string name="watermark_tab_scene">Képkörnyezet</string>
+    <string name="watermark_tab_spots">Weboldal</string>
     <string name="wideselfie_press_shoot_key_to_start">Érintse meg az exponálógombot</string>
     <string name="wideselfie_result_image_lossless">Nem készíthető panorámafelvétel</string>
     <string name="wideselfie_rotate_slowly">Forgassa a telefont oldalirányba</string>

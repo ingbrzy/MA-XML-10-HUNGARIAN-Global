@@ -23,7 +23,7 @@
     <string name="passport_account_hint_text">E-mail cím, telefonszám vagy Mi Fiók azonosító</string>
     <string name="passport_account_identity_title">Személyazonosság igazolása</string>
     <string name="passport_account_label">Mi Fiók</string>
-    <string name="passport_account_name">Fiók: %1$s</string>
+    <string name="passport_account_name">"Fiók: %1$s "</string>
     <string name="passport_account_not_activated">A fiók még nincs aktiválva</string>
     <string name="passport_account_not_actived">A fiók még nincs aktiválva</string>
     <string name="passport_account_set_password">Állítsa be a jelszót</string>
@@ -214,4 +214,5 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="passport_wrong_phone_number_format">A beírt telefonszám formátuma nem megfelelő</string>
     <string name="passport_wrong_vcode">Hibás ellenőrzőkód</string>
     <string name="passport_yes">Igen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

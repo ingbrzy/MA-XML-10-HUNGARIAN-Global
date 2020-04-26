@@ -41,7 +41,6 @@
     <string name="agree_camera_permission">Képek készítéséhez és videók rögzítéséhez</string>
     <string name="agree_storage_permission">A fájlokhoz és az eszközén tárolt fájlokhoz való hozzáféréshez</string>
     <string name="always">Mindig</string>
-    <string name="amazon_assistant_shopping_title">Keresés az Amazon</string>
     <string name="app_description_content">A Szkenner segít Önnek QR-kódokat, névjegykártyákat, dokumentumokat és egyebeket beolvasni. Mielőtt törölné az alkalmazást, gondolja végig, meg tudja-e oldani ezt Szkenner nélkül.</string>
     <string name="app_description_title">A Szkennerről</string>
     <string name="app_details">Alkalmazás:</string>
@@ -74,6 +73,7 @@
     <string name="choose_open_code_app">Válasszon egy alkalmazást</string>
     <string name="choose_pay_title">Válasszon fizetési módot</string>
     <string name="choose_picture">QR-kód kép kiválasztása</string>
+    <string name="choosed_title">Kiválasztva</string>
     <string name="classesNameNull_toast">Az óra neve nem lehet üres</string>
     <string name="classes_canfirmTitle">Találatok megerősítése és importálás elkezdése</string>
     <string name="classes_company">Importálás</string>
@@ -100,10 +100,16 @@
     <string name="copy_text">Szöveg másolása</string>
     <string name="copy_text_success">A szöveg kimásolva</string>
     <string name="copy_tracknum">Követési kód másolása</string>
+    <string name="create">QR-kód generálás</string>
+    <string name="createFail">Nem sikerült a QR-kód generálása. Túl hosszú az üzenet.</string>
+    <string name="createQRCode_hint">Írja be a szöveget</string>
+    <string name="createQRCode_save">Mentés</string>
+    <string name="create_again">Frissítés</string>
     <string name="crop_cancel_description">Mégse</string>
     <string name="crop_done_description">Kész</string>
     <string name="crop_title_study">Kép méretre vágása</string>
     <string name="crop_title_translation">Válassza ki a szöveget a fordításhoz</string>
+    <string name="delete">Törlés</string>
     <string name="document_color_picture">Színes</string>
     <string name="document_color_picture_tip">Konvertálás színessé…</string>
     <string name="document_crop_title">Dokumentum vágása</string>
@@ -158,6 +164,8 @@
     <string name="food_module_title_food">Kalóriák</string>
     <string name="got_it">Rendben</string>
     <string name="gps">Navigálás</string>
+    <string name="history">Előzmények</string>
+    <string name="importFailed">Importálás sikertelen</string>
     <string name="import_contact">Névjegy importálása</string>
     <string name="impunity_declaration_content">Az alkalmazás használata közben készített fényképek feldolgozásához adjon hozzáférést a beolvasónak a kamerájához. Ne használja a beolvasót olyan tárgyak fényképezésére, amelyeken látszódnak az Ön személyes adatai. Az alábbi „Elfogadom” gombra való koppintással Ön kijelenti, hogy elolvasta és elfogadja &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Adatvédelmi szabályzatunkat&lt;/a>&lt;/font> és engedélyezi a beolvasónak az internethez való csatlakozást.</string>
     <string name="impunity_declaration_negative_text">Kilépés</string>
@@ -228,6 +236,11 @@
     <string name="recognize">Vizsgálat</string>
     <string name="recognize_fail">Nem sikerült beolvasni</string>
     <string name="request_server_failed">Nem sikerült kapcsolódni a kiszolgálóhoz</string>
+    <string name="saveDone">Sikeresen elmentve</string>
+    <string name="scanHistory">Szkennerelőzmények</string>
+    <string name="scanHistory_close">Kikapcsolás</string>
+    <string name="scanHistory_isOpen">Elkezdi nyomon követni a beszkennelt elemek előzményeit?</string>
+    <string name="scanHistory_open">Bekapcsolás</string>
     <string name="scan_result">Eredmény</string>
     <string name="scan_support_type">WeChat, Alipay, QR-kód, vonalkódok</string>
     <string name="sdk_not_ready">SDK előkészítése. Próbálja újra később.</string>

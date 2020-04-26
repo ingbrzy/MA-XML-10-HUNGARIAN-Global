@@ -13,12 +13,12 @@
         <item quantity="one">%d fájl visszaállítása</item>
     </plurals>
     <plurals name="restore_app_order_prior">
-        <item quantity="other">Magas fontosságú: %d elem</item>
-        <item quantity="one">Magas fontosságú: %d elem</item>
+        <item quantity="other">Kiemelt fontosságú: %d alkalmazás</item>
+        <item quantity="one">Kiemelt fontosságú: %d alkalmazás</item>
     </plurals>
     <plurals name="restore_app_order_normal">
-        <item quantity="other">Normál fontosságú: %d elem</item>
-        <item quantity="one">Normál fontosságú: %d elem</item>
+        <item quantity="other">Normál fontosságú: %d alkalmazás</item>
+        <item quantity="one">Normál fontosságú: %d alkalmazás</item>
     </plurals>
     <plurals name="restore_app_order_installed">
         <item quantity="other">%d alkalmazás ezen a készüléken</item>

@@ -1,4 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="actionbar_button_up_description">Vissza</string>
+    <string name="app_pkg_name">com.milink.service</string>
+    <string name="app_ver_code">1</string>
+    <string name="app_ver_name">1.0</string>
+    <string name="casting_tips">Kivetítés…</string>
+    <string name="console_guide_btn_got_it">Rendben</string>
+    <string name="console_guide_subtitle_hang_up">Folytathatja a kivetítést, ha a készülék képernyője ki van kapcsolva. Ez a funkció csökkenti az energiafogyasztást.</string>
+    <string name="console_guide_subtitle_private">Ne jelenítsen meg lebegő értesítéseket, bejövő hívásokat és egyéb személyes elemeket a külső monitorokon</string>
+    <string name="console_guide_subtitle_small_window">Minimalizálja a kivetített ablakot, hogy a telefonján egyéb funkciók is használhatók legyenek</string>
+    <string name="dialog_can_not_find_device">A közelben nem található készülék</string>
+    <string name="dialog_cancle">Mégse</string>
+    <string name="dialog_connect_fail">Kapcsolódás sikertelen</string>
+    <string name="dialog_connect_retry">Az újrapróbálkozáshoz érintse meg</string>
+    <string name="dialog_connect_verify_perssion">Először engedélyezze a kivetítést a tv-jén</string>
+    <string name="dialog_connect_verify_perssion_fail">Nem sikerült a kivetítés engedélyezése a tévéjén. Várjon néhány percet és próbálja újra.</string>
+    <string name="dialog_connected">Kapcsolódva</string>
+    <string name="dialog_connecting">Kapcsolódás…</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_only_suport_content">Képek, videók vagy zene streamelése</string>
+    <string name="dialog_open_wifi_bt">Bekapcsolás</string>
+    <string name="dialog_please_make_sure_tv_ok_or_help">"Gondoskodjon róla, hogy a vezeték nélküli felvétel funkció be van kapcsolva a céleszközön.
+Ha problémája akad a csatlakozással, tekintse meg a Súgót."</string>
+    <string name="dialog_recent_connected">Legutóbbi</string>
+    <string name="dialog_retry">Próbálja újra</string>
+    <string name="dialog_scanning_device">Készülékek keresése a közelben…</string>
+    <string name="dialog_scanning_precondition">A Vezeték nélküli megjelenítés használatához kapcsolja be a WIFI-t és a Bluetooth-t.</string>
+    <string name="dialog_select_tv">Eszköz kiválasztása (%d)</string>
+    <string name="dialog_show_help">Segítség</string>
+    <string name="disconnect">Kivetítése leállítása</string>
+    <string name="hang_up">Kikapcsolt képernyős kivetítés</string>
+    <string name="hang_up_alert_dialog_content">Folytassa a kivetítést akkor is, ha eszközének képernyője ki van kapcsolva. Ez a funkció csökkenti az energiafogyasztást. A képernyő újbóli bekapcsolásához nyomja meg a Bekapcsolás gombot.</string>
+    <string name="hang_up_alert_dialog_neg">Mégse</string>
+    <string name="hang_up_alert_dialog_pos">OK</string>
+    <string name="hang_up_alert_dialog_title">Épp kikapcsolt képernyős kivetítésre készül…</string>
+    <string name="help_page_text_01">Súgó</string>
+    <string name="help_page_text_02">Mi az a kivetítés?</string>
+    <string name="help_page_text_03">A kivetítés során a telefonjának képernyőjéről kivetíthet egy nagyobb külső monitorra. Ezzel megoszthat képeket és videókat ismerőseivel és családjával anélkül, hogy mobiladatforgalmat kellene használnia.</string>
+    <string name="help_page_text_04">Hogyan vetíthetek ki dolgokat egy nagyobb képernyőre?</string>
+    <string name="help_page_text_05">1. lépés: ellenőrizze eszközeit és a hálózati környezetet</string>
+    <string name="help_page_text_06">"1. Ha Mi telefonról szeretne Mi TV-re kivetíteni, nem kell csatlakoznia az internethez.
+2. Ha nem tud kapcsolatot teremteni a két eszköz között, próbálja meg mindkét eszközt ugyanarra a WIFI-hálózatra csatlakoztatni."</string>
+    <string name="help_page_text_08">2. lépés: Kapcsolja be a kivetítést</string>
+    <string name="help_page_text_09">Koppintson telefonjának értesítési sávjában a „Kivetítés” lehetőségre. A stabilabb kapcsolat érdekében kapcsolja be a WIFI-t és a Bluetooth-t is.</string>
+    <string name="help_page_text_10">Ha a Galériából vagy a Mi Videóból szeretne kivetíteni, használhatja az ezekbe az alkalmazásokba beépített kivetítési funkciókat.</string>
+    <string name="help_page_text_11">3. lépés: Válasszon eszközt</string>
+    <string name="help_page_text_12">A kivetítés elindításához válasszon egy külső eszközt az elérhető eszközök listájából.</string>
+    <string name="help_page_text_13">Nem tud csatlakozni egy külső eszközhöz?</string>
+    <string name="help_page_text_14">"1. Ha Xiaomi-eszközt szeretne használni, de nem találja az elérhető eszközök listájában, próbálja ki a következőt:
+Csatlakoztassa a telefonját és a külső monitort (pl. tévéjét) is ugyanarra a WIFI-hálózatra vagy csatlakoztassa a külső monitort telefonjának hotspotjára. Ha nincs elérhető WIFI-hálózat vagy nem tudja mindkét eszközt ugyanarra a hálózatra csatlakoztatni, ellenőrizze, hogy a kivetítési funkció friss-e a külső monitoron, kapcsolja be a Bluetooth-t a telefonján és a külső monitoron is, valamint kapcsolja be a Miracastot a tévéjén. 
+2. Ha először vetít ki Xiaomi-eszközön, el kell végeznie a hitelesítést. 
+3. Ha nem Xiaomi-eszközt szeretne használni, de nem találja eszközét az elérhető eszközök listáján, próbálja ki a következőt:
+Csatlakoztassa a telefonját és a külső monitort (pl. tévéjét) is ugyanarra a WIFI-hálózatra vagy csatlakoztassa a külső monitort telefonjának hotspotjára. Ha ez nem oldja meg a problémát, telepítse a LeEco kivetítő alkalmazást tévéjére és kövesse az utasításokat."</string>
+    <string name="help_page_text_14_global">"1. Ha Xiaomi-eszközt szeretne használni, de nem találja az elérhető eszközök listájában, próbálja ki a következőt:
+Csatlakoztassa a telefonját és a külső monitort (pl. tévéjét) is ugyanarra a WIFI-hálózatra vagy csatlakoztassa a külső monitort telefonjának hotspotjára. Ha nincs elérhető WIFI-hálózat vagy nem tudja mindkét eszközt ugyanarra a hálózatra csatlakoztatni, ellenőrizze, hogy a kivetítési funkció friss-e a külső monitoron, kapcsolja be a Bluetooth-t a telefonján és a külső monitoron is, valamint kapcsolja be a Miracastot a tévéjén.
+2. Ha először vetít ki Xiaomi-eszközön, el kell végeznie a hitelesítést.
+3. Ha nem Xiaomi-eszközt szeretne használni, de nem találja eszközét az elérhető eszközök listáján, próbálja ki a következőt:
+Csatlakoztassa a telefonját és a külső monitort (pl. tévéjét) is ugyanarra a WIFI-hálózatra vagy csatlakoztassa a külső monitort telefonjának hotspotjára."</string>
+    <string name="help_page_text_15">A Miracast-funkció különböző eszközökön</string>
+    <string name="help_page_text_16">Mi TV/Mi Projector</string>
+    <string name="help_page_text_17">"A legtöbb Bluetooth-funkcióval rendelkező Mi TV modellre kivetíthet Mi telefonjáról anélkül, hogy manuálisan bekapcsolná a Miracastot.
+Ha be kell kapcsolnia a Miracastot, nyomja meg a [MENU] gombot és válassza az Alkalmazásaim > Kivetítés > Miracast opciót."</string>
+    <string name="help_page_text_17_1">Xiaomi ügyfélszolgálat: 400-100-5678</string>
+    <string name="help_page_text_18">Samsung TV</string>
+    <string name="help_page_text_19">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modell esetén megnyomhatja a [SOURCE] gombot a távirányítón, és kiválaszthatja a „Képernyőtükrözés” opciót. Ez a funkció bizonyos modelleken alapértelmezésként be van kapcsolva.</string>
+    <string name="help_page_text_20">Samsung ügyfélszolgálat: 400-810-5858</string>
+    <string name="help_page_text_21">LG TV</string>
+    <string name="help_page_text_22">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Ez a funkció bizonyos modelleken alapértelmezésként be van kapcsolva.</string>
+    <string name="help_page_text_23">LG ügyfélszolgálat: 400-819-9999</string>
+    <string name="help_page_text_24">Philips TV</string>
+    <string name="help_page_text_25">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Ez a funkció bizonyos modelleken alapértelmezésként be van kapcsolva.</string>
+    <string name="help_page_text_26">Philips ügyfélszolgálat: 400-880-0008</string>
+    <string name="help_page_text_27">TPV</string>
+    <string name="help_page_text_28">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modell esetén megnyomhatja a [MENU] gombot a távirányítón, és kiválaszthatja a Beállítások > Csatlakozás > Hálózat > Többképernyő opciót.</string>
+    <string name="help_page_text_29">TPV ügyfélszolgálat: 400-887-8007</string>
+    <string name="help_page_text_30">Hisense</string>
+    <string name="help_page_text_31">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modell esetén megnyomhatja a [SMART] gombot a távirányítón, és kiválaszthatja a Kivetítés > Vezeték nélküli megjelenítés opciót. Némelyik modell a játékok kivetítését is támogatja: Hi Cast > Játékok kivetítése > Android.</string>
+    <string name="help_page_text_32">Hisense ügyfélszolgálat: 400-611-1111</string>
+    <string name="help_page_text_33">Skyworth</string>
+    <string name="help_page_text_34">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modellen kiválaszthatja az Alkalmazások > Kivetítés > Android-eszköz > Miracast opciót.</string>
+    <string name="help_page_text_35">Skyworth ügyfélszolgálat: 95105555</string>
+    <string name="help_page_text_36">Sony</string>
+    <string name="help_page_text_37">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modell esetén nyomja meg a(z) [SOURCE] gombot a távirányítón és válassza ki a „Képernyőtükrözés” opciót. Némelyik modellen ezt a Hálózat és Wi-Fi Direct beállítások opcióval teheti meg. Ez a funkció bizonyos modelleken alapértelmezésként be van kapcsolva.</string>
+    <string name="help_page_text_38">Sony ügyfélszolgálat: 400-810-9000</string>
+    <string name="help_page_text_39">Panasonic</string>
+    <string name="help_page_text_40">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modellen kiválaszthatja az Alkalmazások > Képernyőtükrözés opciót.</string>
+    <string name="help_page_text_41">Panasonic ügyfélszolgálat: 400-881-1315</string>
+    <string name="help_page_text_42">Changhong</string>
+    <string name="help_page_text_43">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modellen kiválaszthatja a Rendszer > Rendszereszközök > Többképpernyő > Képernyőtükrözés opciót.</string>
+    <string name="help_page_text_44">Changhong ügyfélszolgálat: 400-811-1666</string>
+    <string name="help_page_text_45">TCL</string>
+    <string name="help_page_text_46">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modellen kiválaszthatja az Alkalmazások > Vezeték nélküli megjelenítés opciót.</string>
+    <string name="help_page_text_47">TCL ügyfélszolgálat: 400-812-3456</string>
+    <string name="help_page_text_48">AODIN</string>
+    <string name="help_page_text_49">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. A funkció bekapcsolásához menjen az Alkalmazásaim > WIFI megjelenítés opcióhoz.</string>
+    <string name="help_page_text_50">AODIN ügyfélszolgálat: 400-810-5858</string>
+    <string name="help_page_text_51">LeEco</string>
+    <string name="help_page_text_52">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modellen kiválaszthatja a Beállítások > Hálózatok > Többképpernyő > Vezeték nélküli megjelenítés.</string>
+    <string name="help_page_text_53">LeEco ügyfélszolgálat: 10109000</string>
+    <string name="help_page_text_55">"Ha nem tud csatlakozni a hálózathoz, ellenőrizze, hogy a külső monitor támogatja-e a Miracast-funkciót és hogy be van-e kapcsolva. Némelyik modell esetén ezt a funkciót Vezeték nélküli megjelenítésnek, Képernyőtükrözésnek, illetve Többképernyőnek hívják. Tekintse meg az alábbi információkat és tudja meg, hogyan kapcsolhatja be a Miracastot.
+4. Ha problémába ütközik, a „Szolgáltatások és visszajelzés” alkalmazásban jelentheti."</string>
+    <string name="help_page_text_55_global">"Ha nem tud csatlakozni a hálózathoz, ellenőrizze, hogy a külső monitor támogatja-e a Miracast-funkciót és hogy be van-e kapcsolva. Némelyik modell esetén ezt a funkciót Vezeték nélküli megjelenítésnek, Képernyőtükrözésnek, illetve Többképernyőnek hívják.
+4. Ha problémába ütközik, a „Szolgáltatások és visszajelzés” alkalmazásban jelentheti."</string>
+    <string name="help_page_text_end">Ha eszközének márkája nem látható itt, vegye fel a kapcsolatot a kivetítési funkcióval kapcsolatos további információkért.</string>
+    <string name="notification_rc_title">XiaoMi TV asszisztens</string>
+    <string name="notification_show_more">Koppintson további funkciók megtekintéséhez</string>
+    <string name="privacy_agree">Elfogadás</string>
+    <string name="privacy_text_1">"&lt;Data>Üdvözli Önt a Kivetítés! A Kivetítés funkcióval kivetíthet telefonjának képernyőjéről egy nagyobb külső monitorra.
+Mi megvédjük az Ön személyes adatait a vonatkozó törvényi rendelkezésekkel, szabályozásokkal és adatvédelmi irányelvekkel összhangban. Némelyik funkciót egy harmadik fél szolgáltató, a HappyCast biztosítja. A funkció használata előtt olvassa el és fogadja el a &lt;a href=%2$s>HappyCast jogi nyilatkozatát&lt;/a> és a &lt;a href=%1$s>HappyCast adatvédelmi irányelvét&lt;/a>.
+A normál működés érdekében az alkalmazásnak csatlakoznia kell az internethez és az Ön személyes adatainak begyűjtéséhez szükségse van a következő engedélyekre.&lt;/Data>"</string>
+    <string name="privacy_text_2">"&lt;Data>Ha nem egyezik bele ezen engedélyek megadásába vagy személyes adatainak megosztásába és feltöltésébe, nem fogja tudni használni az alkalmazást. Ilyen esetben dönthet úgy, hogy letörli az alkalmazást, kijelentkezik vagy letiltja az engedélyeket a Beállításokban.
+A funkció használata előtt olvassa el és fogadja el &lt;a href=%1$s>Felhasználói szerződésünket&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvünket&lt;/a>.&lt;/Data>"</string>
+    <string name="privacy_text_pemission">"　　•Férjen hozzá és mentsen le képeket eszközére elemek külső monitorra való kivetítéséhez
+　　•Vegyen fel hívásokat és hanganyagot hang külső eszközökre való kivetítéséhez
+　　•Férjen hozzá telefonszámokhoz, az IMEI-hez és az IMSI-hez eszközének beazonosítása érdekében
+　　•Férjen hozzá helyzetéhez közeli eszközök megkereséséhez"</string>
+    <string name="private_protect">Személyes elemek elrejtése</string>
+    <string name="san_wait_msg_1">Kapcsolja be a vezeték nélküli felvételt a céleszközön</string>
+    <string name="san_wait_msg_2">Az eszközök keresése eltarthat egy darabig…</string>
+    <string name="san_wait_msg_3">A külső eszközöket egyszerűbb megtalálni, ha ugyanarra a hálózatra vannak csatlakoztatva, mint az Ön telefonja</string>
+    <string name="san_wait_msg_4">Ha nem találja eszközeit, tekintse meg a „Súgó” opciót</string>
+    <string name="small_window">Ablakminimalizálás</string>
+    <string name="status_bar_in_casting">Kivetítés…</string>
+    <string name="status_bar_in_casting_long">További kivetítési funkciók megtekintéséhez koppintson</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tile_label">Kivetítés</string>
+    <string name="toast_guide_show_more">Bõvebben</string>
+    <string name="toast_guide_title">Fedezze fel új funkcióinkat itt</string>
+    <string name="toast_msg_for_multi_window">Ez a funkció nem használható Megosztott képernyővel</string>
+    <string name="toast_msg_for_small_window">Annak érdekében, hogy telefonja más funkcióit is használhassa, minimalizálhatja a kivetített ablak méretét anélkül, hogy zavarná a kivetítést.</string>
+    <string name="toast_title_for_small_window">Válassza az „Ablakminimalizálás” opciót az alkalmazásban</string>
 </resources>

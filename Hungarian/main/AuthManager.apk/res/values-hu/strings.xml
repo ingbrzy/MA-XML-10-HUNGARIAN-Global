@@ -97,7 +97,7 @@
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">Elutasítás és ne kérdezze meg még egyszer</string>
     <string name="location_settings">Tartózkodási hely beállítások</string>
     <string name="location_warning">%1$s a készülék tartózkodási hely szolgáltatója. A tartózkodási hely elérése módosítható a Helymeghatározásban.</string>
-    <string name="never_ask_again">Ne kérdezze újra</string>
+    <string name="never_ask_again">Ne kérdezze meg újra a korlátozást követően</string>
     <string name="ok">OK</string>
     <string name="permdesc_camera">Képkészítés és videórögzítés</string>
     <string name="permdesc_in_calls">Bejövő hívások felügyelete</string>

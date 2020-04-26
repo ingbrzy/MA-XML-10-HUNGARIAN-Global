@@ -202,7 +202,7 @@ Az alkalmazásnak csatlakoznia kell az internethez és a következő engedélyek
     <string name="usage_state_friday">Pé</string>
     <string name="usage_state_go_more">További alkalmazások</string>
     <string name="usage_state_hour_minute">%1$dó %2$dp</string>
-    <string name="usage_state_less_one_minute">&lt; 1 minute</string>
+    <string name="usage_state_less_one_minute">&lt; 1 perc</string>
     <string name="usage_state_monday">Hé</string>
     <string name="usage_state_mourth_day">Képernyőidő %s napján</string>
     <string name="usage_state_noti_mourth_day">Értesítések %s napján</string>

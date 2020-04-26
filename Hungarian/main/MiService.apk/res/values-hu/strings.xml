@@ -30,8 +30,12 @@
     <string name="mi_service_app_name">Szolgáltatások és visszajelzés</string>
     <string name="miservice_channel_update_notification_info">A „Szolgáltatások és visszajelzés” alkalmazás épp lekéri az adatokat online…</string>
     <string name="miservice_notification_boot_content">Ismerje meg jobban, mire képes a MIUI</string>
+    <string name="miservice_notification_huanji_content">Helyezze őket át a Mi Fájlátvitellel</string>
+    <string name="miservice_notification_huanji_title">Fontos fájlok vannak a régi telefonján?</string>
     <string name="miservice_notification_open_feedback_content">Minden visszajelzéssel kapcsolatos funkció áthelyezésre került az új alkalmazásba</string>
     <string name="miservice_notification_open_feedback_title">Bemutatjuk a „Szolgáltatások és visszajelzés” alkalmazást</string>
+    <string name="miservice_notification_scan_content">Használja a Szkennert és fordítson le szavakat és szófordulatokat</string>
+    <string name="miservice_notification_scan_title">Fordítás egy szempillantás alatt</string>
     <string name="miui_feedback_answer_detail_community">A kérdéseire választ találhat az Mi Communityben</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Igen</string>
     <string name="miui_feedback_answer_detail_feedback_result">Köszönjük visszajelzését!</string>
@@ -46,6 +50,7 @@
     <string name="miui_feedback_edit_add_original_images_dialog_content">Ha a probléma, amit jelenteni szeretne, a kamera képminőségével kapcsolatos, csatoljon egy érintetlen mintaképet (vágatlanul) a probléma felderítésének segítése érdekében. Csatol egy képet most?</string>
     <string name="miui_feedback_edit_choose_module">Válasszon elemet</string>
     <string name="miui_feedback_edit_choose_module_hint">Kötelező</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Idő</string>
     <string name="miui_feedback_edit_choose_reproductivity">Megismételhetőség</string>
     <string name="miui_feedback_edit_choose_third_app_name">Alkalmazás nevének kiválasztása</string>
     <string name="miui_feedback_edit_contact_info_hint">Telefonszám/E-mail</string>
@@ -58,6 +63,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">Eldobja a piszkozatot?</string>
     <string name="miui_feedback_edit_hint">Minden alkalommal jelentse azokat a problémákat, amiket tapasztal, hogy segítsen bennünket a gyorsabb megoldásukban</string>
     <string name="miui_feedback_edit_hint_gone">Lezárt üzenet</string>
+    <string name="miui_feedback_edit_hint_optional">Kiválasztás</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Várakozás Wi-Fi-re</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Feltöltés</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">Úgy tűnik, Ön fizetős hálózatra van csatlakozva. A hibanaplók feltöltése további költségeket vonhat maga után.</string>
@@ -92,6 +98,7 @@
     <string name="miui_feedback_edit_submit_dialog_not_show_again">Ne jelenjen meg újra</string>
     <string name="miui_feedback_edit_submit_dialog_title">Jelentés küldése</string>
     <string name="miui_feedback_edit_submit_directly">Küldés</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Idő kiválasztása</string>
     <string name="miui_feedback_edit_title_reproductivity">Megismételhetőség kiválasztása</string>
     <string name="miui_feedback_edit_toast_description_required">A visszajelzés rövid leírása szükséges</string>
     <string name="miui_feedback_edit_toast_module_required">Válasszon elemet</string>
