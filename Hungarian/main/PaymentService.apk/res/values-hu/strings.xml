@@ -214,5 +214,4 @@ a megadott e-mail címre küldött üzenetben leírtakat."</string>
     <string name="passport_wrong_phone_number_format">A beírt telefonszám formátuma nem megfelelő</string>
     <string name="passport_wrong_vcode">Hibás ellenőrzőkód</string>
     <string name="passport_yes">Igen</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
