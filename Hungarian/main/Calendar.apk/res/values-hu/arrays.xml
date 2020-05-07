@@ -160,13 +160,13 @@
         <item>Egész héten</item>
     </string-array>
     <string-array name="repeat_choose_weekday">
-        <item>Hét</item>
-        <item>Kedd</item>
+        <item>H</item>
+        <item>K</item>
         <item>Sze</item>
-        <item>Csü</item>
-        <item>Pén</item>
+        <item>Cs</item>
+        <item>P</item>
         <item>Szo</item>
-        <item>Vas</item>
+        <item>V</item>
     </string-array>
     <string-array name="repeat_countdown">
         <item>Soha</item>
@@ -349,12 +349,12 @@
         <item>8.23 - 9.22</item>
     </string-array>
     <string-array name="week_header_name">
-        <item>VAS</item>
-        <item>HÉT</item>
-        <item>KEDD</item>
+        <item>V</item>
+        <item>H</item>
+        <item>K</item>
         <item>SZE</item>
-        <item>CSÜ</item>
-        <item>PÉN</item>
+        <item>CS</item>
+        <item>P</item>
         <item>SZO</item>
     </string-array>
     <string-array name="widget_style_list">
@@ -362,12 +362,12 @@
         <item>Fehér háttér</item>
     </string-array>
     <string-array name="year_view_week_header_name">
-        <item>V</item>
-        <item>H</item>
-        <item>K</item>
-        <item>Sze</item>
-        <item>Cs</item>
-        <item>P</item>
-        <item>Szo</item>
+        <item>v.</item>
+        <item>h.</item>
+        <item>k.</item>
+        <item>sze.</item>
+        <item>cs.</item>
+        <item>p.</item>
+        <item>szo.</item>
     </string-array>
 </resources>
