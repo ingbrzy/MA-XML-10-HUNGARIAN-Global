@@ -325,7 +325,6 @@
     <string name="shutdown_alarm_enable_summary">Az ébresztő megszólal, ha legalább 10 perccel a készülék kikapcsolása utánra állítja be</string>
     <string name="shutdown_alarm_title">Ébresztés kikapcsolt állapotban</string>
     <string name="silent_alarm_summary">Némítás</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Egyszeri kikapcsolás %s</string>
     <string name="sleep_analysis">Statisztikák</string>
     <string name="sleep_analysis_chart_date_format">MM.dd.</string>
@@ -368,13 +367,11 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Nincs részidő</string>
     <string name="stopwatch_reset_notification">Stopper lenullázva</string>
     <string name="stopwatch_running_notification">Stopper</string>
     <string name="stopwatch_title">Stopper</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Az internethez való csatlakozás engedélyezés az alkalmazás számára az összes funkcióhoz való hozzáférés érdekében.</string>
     <string name="system_permission_main_purpose">Idő megtekintése, ébresztő/riasztás és időzítő beállítása, stopper használata</string>
     <string name="system_permission_purpose">Hétköznapi riasztások létrehozása és testreszabott csengőhangok beállítása</string>
