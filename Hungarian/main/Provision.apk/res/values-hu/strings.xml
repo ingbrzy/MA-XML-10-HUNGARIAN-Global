@@ -31,7 +31,7 @@
     <string name="congratulation_swipe">Húzza felfelé a rendszerbe való belépéshez</string>
     <string name="congratulation_title">Beállítás kész</string>
     <string name="content_description_complete">Kész</string>
-    <string name="content_description_miui_version">MIUI 11</string>
+    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">Kezdés</string>
     <string name="content_introduction">A Tartalomközpont összegyűjti a tartalmat és a szolgáltatásokat több csatornából. Itt olvashat cikkeket, nézhet videókat, megtekintheti a napi kiemelt elemeket és fogadhat tartalomajánlásokat.</string>
     <string name="continue_to_enable_accessibility">Tartsa két ujját lenyomva a kisegítő lehetőség engedélyezéséhez.</string>
@@ -76,6 +76,8 @@
     <string name="locale_picker_title">Válasszon régiót</string>
     <string name="location_introduction">A hely alapú szolgáltatások termékeket és szolgáltatásokat keresnek Önnek az Ön közelében.</string>
     <string name="lockscreen_introduction">A Váltakozó háttérképek funkcióval minden nap új képeket láthat a képernyőzáron.</string>
+    <string name="mint_keyboard_oobe_checkbox">Elolvastam és elfogadom a Mint Keyboard adatvédelmi irányelveit</string>
+    <string name="mint_keyboard_oobe_terms">Mint Keyboard adatvédelmi irányelvei</string>
     <string name="miui_privacy_policy_no_network">Nincs internetkapcsolat. Adatvédelmi Irányelvek megtekintése itt: %s.</string>
     <string name="miui_terms_no_network">Önnek nincs internetkapcsolata. Tekintse meg a Felhasználói szerződést it: %s.</string>
     <string name="multisim_settings_category">SIM-kártyák beállításai</string>
@@ -203,7 +205,7 @@ A kiválasztott billentyűzet Adatvédelmi irányelveinek megtekintése."</strin
     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
     <string name="skip_gesture_guide_dialog_title">Teljes képernyős mozdulatvezérlés</string>
     <string name="skip_underline">Lépés kihagyása</string>
-    <string name="start_up_slogan">Az élet egyre könnyebb</string>
+    <string name="start_up_slogan">Yours alone</string>
     <string name="summary_not_set">Nincs beállítva</string>
     <string name="system_navigation_mode">Rendszerirányítási módok</string>
     <string name="terms_of_use">Felhasználási feltételek</string>
@@ -224,6 +226,9 @@ A Facemoji használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Ir�
     <string name="terms_of_use_lable_default_input_method_kika">"
 
 A Kika használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Irányelveit."</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+A funkció használata előtt el kell fogadnia a Mint Keyboard adatvédelmi Irányelveit."</string>
     <string name="terms_of_use_lable_gms">, Google Play szolgáltatásokhoz</string>
     <string name="terms_of_use_lable_smart_cards">, Okoskártyákhoz</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
@@ -231,7 +236,7 @@ A Kika használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Iránye
     <string name="terms_privacy_policy_input_method_kika">Kika Adatvédelmi Irányelvei</string>
     <string name="title_fingerprint">Állítson be jelszót</string>
     <string name="user_agreement">Felhasználói szerződés</string>
-    <string name="user_agreement_declare">A MIUI használata előtt Önnek el kell olvasnia és el kell fogadnia a Felhasználói szerződést és az Adatvédelmi irányelvet. Amíg eszköze aktiválásra kerül, a Mi SIM Aktivációs Szolgáltatások, a Xiaomi Cloud, az Eszközkeresés, a Kezdőképernyő, a Gyakori kifejezések, a Fordítási szolgáltatás, a MIUI Daemon, a HTML Viewer, az AI Asszisztens, az Akkumulátor és teljesítmény, az Energiadetektor, a Joyose, az OS AI Beállítások és az Updater csatlakozik a hálózathoz. Az Okos szolgáltatások csatlakozik a hálózathoz és hozzáfér az Ön helyzetéhez.</string>
+    <string name="user_agreement_declare">A MIUI használata előtt Önnek el kell olvasnia és el kell fogadnia a Felhasználói szerződést és az Adatvédelmi irányelvet. Amíg eszköze aktiválásra kerül, a Mi SIM Aktivációs Szolgáltatások, a Xiaomi Cloud, az Eszközkeresés, a Kezdőképernyő, a Gyakori kifejezések, a Fordítási szolgáltatás, a MIUI Daemon, a HTML Viewer, az AI Asszisztens, az Akkumulátor és teljesítmény, az Energiadetektor, a Joyose, az OS AI Beállítások, az Engedélykezelő és az Updater csatlakozik a hálózathoz. Az Okos szolgáltatások csatlakozik a hálózathoz és hozzáfér az Ön helyzetéhez.</string>
     <string name="voice_assist_advice">A Mi AI hangvezérlést biztosít Önnek, de több energiát fogyaszt (+1% óránként).</string>
     <string name="voice_assist_condition">"Ezekben az esetekben lesz képes használni a Mi AI-t:r
 1. Ha a képernyő be van kapcsolva.r

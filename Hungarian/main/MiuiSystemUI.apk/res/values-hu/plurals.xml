@@ -8,6 +8,10 @@
         <item quantity="other">Előzmények megnyitva, %d elérhető alkalmazás. Csúsztassa felfelé az eltávolításhoz, csúsztassa lefelé a rögzítéshez.</item>
         <item quantity="one">Előzmények megnyitva, %d elérhető alkalmazás. Csúsztassa felfelé az eltávolításhoz, csúsztassa lefelé a rögzítéshez.</item>
     </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Leteszi %1$d másodpercen belül</item>
+        <item quantity="one">Leteszi %1$d másodpercen belül</item>
+    </plurals>
     <plurals name="fold_tips_title">
         <item quantity="other">%d nem fontos értesítés</item>
         <item quantity="one">%d nem fontos értesítés</item>

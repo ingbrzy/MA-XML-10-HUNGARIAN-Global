@@ -4,6 +4,14 @@
         <item quantity="other">%d nap</item>
         <item quantity="one">%d nap</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">%d percig használta készülékét megszakítás nélkül</item>
+        <item quantity="one">%d percig használta készülékét megszakítás nélkül</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">A mai képernyő előtt töltött idő megegyezik a(z) %d napos átlaggal</item>
         <item quantity="one">A mai képernyő előtt töltött idő megegyezik a(z) %d napos átlaggal</item>
@@ -23,6 +31,26 @@
     <plurals name="usage_days">
         <item quantity="other">%d nap</item>
         <item quantity="one">%d nap</item>
+    </plurals>
+    <plurals name="usage_new_home_avg_unlockc">
+        <item quantity="other">Átlagosan ennyiszer egy nap: %.2f</item>
+        <item quantity="one">Átlagosan ennyiszer egy nap: %.2f</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks">
+        <item quantity="other">Feloldva %d alkalommal</item>
+        <item quantity="one">Feloldva %d alkalommal</item>
+    </plurals>
+    <plurals name="usage_new_home_total_week_unlocks">
+        <item quantity="other">Feloldva %d alkalommal</item>
+        <item quantity="one">Feloldva %d alkalommal</item>
+    </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s óra</item>
+        <item quantity="one">≈%s óra</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s perc</item>
+        <item quantity="one">≈%s perc</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Feloldva %d alkalommal</item>
@@ -87,6 +115,14 @@
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">Hétköznapokon: %d perc</item>
         <item quantity="one">Hétköznapokon: %d perc</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">%s óra</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s perc</item>
+        <item quantity="one">%s perc</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" ó"</item>

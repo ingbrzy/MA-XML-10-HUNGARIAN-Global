@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="already_in_small_freeform">Néhány alkalmazás lebegő ablakokban van megnyitva</string>
+    <string name="no_avaliable_application">Nincs elérhető alkalmazás</string>
+    <string name="quick_settings_hang_label">Lebegő ablakok</string>
+    <string name="quick_settings_hang_on">Mostantól használhatja a lebegő ablakokat</string>
+    <string name="quick_settings_scanner_label">Szkenner</string>
+</resources>

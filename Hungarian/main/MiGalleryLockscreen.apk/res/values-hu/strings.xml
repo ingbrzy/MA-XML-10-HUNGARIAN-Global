@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
-    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_bar_up_description">Fel</string>
     <string name="abc_action_menu_overflow_description">További lehetőségek</string>
     <string name="abc_action_mode_done">Kész</string>
-    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
-    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
     <string name="abc_capital_off">KI</string>
     <string name="abc_capital_on">BE</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -218,6 +218,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="sns_access_token_expired_warning">Időtúllépés történt. Jelentkezzen be újra a fiók visszakapcsolásához.</string>
     <string name="sns_bind_limit">Túl sok próbálkozás. Próbálkozzon másféle bejelentkezési módokkal.</string>
     <string name="sns_sign_in">Más bejelentkezési módok</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="temporary_not_available">Ez a funkció még nem érhető el</string>
     <string name="ticket_hint">Ellenőrző kód</string>
     <string name="ticket_invalid">Az Ön által megadott kód helytelen</string>

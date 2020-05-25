@@ -88,6 +88,10 @@
         <item quantity="other">%d nap van hátra</item>
         <item quantity="one">%d nap van hátra</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d elérhető készülék</item>
+        <item quantity="one">%d elérhető készülék</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d készülék</item>
         <item quantity="one">%d készülék</item>
@@ -189,8 +193,8 @@
         <item quantity="one">Adjon meg legalább %d karaktert</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">A PIN-kód %d számjegy kell legyen</item>
-        <item quantity="one">A PIN-kód %d számjegy kell legyen</item>
+        <item quantity="other">A PIN-kód %d számjegyből kell álljon</item>
+        <item quantity="one">A PIN-kód %d számjegyből kell álljon</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
         <item quantity="other">Legfeljebb %d karaktert adhat meg</item>
@@ -303,6 +307,10 @@
     <plurals name="runtime_permissions_summary">
         <item quantity="other">%1$d/%2$d engedély megadva</item>
         <item quantity="one">%1$d/%2$d engedély megadva</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">%d elem kiválasztva</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s másodperc</item>

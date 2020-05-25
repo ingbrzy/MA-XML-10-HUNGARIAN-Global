@@ -6,6 +6,33 @@
 Az üzenetek csak a második asztalon jelennek meg."</string>
     <string name="PrivacyContactDes2">"Ha használt személyes üzeneteket az Első asztalon,
 azok automatikusan engedélyezve lesznek a Második asztalon is."</string>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Fel</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="about_ent_mode">A Vállalati módról</string>
     <string name="activate_ent_mode">A vállalati mód aktiválása</string>
     <string name="add_finger_print">Ujjlenyomat hozzáadása</string>
@@ -61,6 +88,7 @@ azok automatikusan engedélyezve lesznek a Második asztalon is."</string>
 hogy mindig láthassa"</string>
     <string name="contact_us">Kapcsolat</string>
     <string name="continueButton">Tovább</string>
+    <string name="copy">Másolás</string>
     <string name="createANewSpace">Hozzon létre egy teljesen elkülönített asztalt.</string>
     <string name="createUserFail">Létrehozás sikertelen</string>
     <string name="create_app_icon_failed">Nem lehet az ikont létrehozni</string>
@@ -149,6 +177,7 @@ Legyen biztos benne, hogy a vállalatának neve hibátlanul van beírva. Olvassa
     <string name="err_unknown">Ismeretlen hiba</string>
     <string name="err_volume_not_enough">Nincs elég szabad hely</string>
     <string name="exit_private_space">Váltás</string>
+    <string name="expand_button_title">Speciális</string>
     <string name="experience_more_features">Adjon hozzá egy készüléket, hogy megtekinthesse az összes funkciót</string>
     <string name="facebook_login">Bejelentkezés Facebook használatával</string>
     <string name="facebook_send">Megosztás a Facebookon</string>
@@ -174,10 +203,10 @@ Legyen biztos benne, hogy a vállalatának neve hibátlanul van beírva. Olvassa
     <string name="greenguard_child_des_title">Készülékhozzáadás QR-kód beolvasásával</string>
     <string name="greenguard_functional_description">"Készülékek távoli kezelése, helyadatok megtekintése,
 telepített alkalmazások vezérlése és a használat korlátozása"</string>
-    <string name="greenguard_install_cancle">No thanks</string>
-    <string name="greenguard_install_confirm">Install</string>
-    <string name="greenguard_install_message">"Family Guard is a system app. You don't need internet to install it."</string>
-    <string name="greenguard_install_title">Install Family Guard</string>
+    <string name="greenguard_install_cancle">Nem, köszönöm</string>
+    <string name="greenguard_install_confirm">Telepítés</string>
+    <string name="greenguard_install_message">A Family Guard egy rendszeralkalmazás. Nem szükséges internet a telepítéséhez.</string>
+    <string name="greenguard_install_title">Family Guard telepítése</string>
     <string name="greenguard_parent_des">Családtagok és barátok készülékeinek kezelése</string>
     <string name="greenguard_parent_des_title">Készülékhozzáadás a Kite Guard használatával</string>
     <string name="guide_contact_sub_title_desc">"A Második asztalhoz adott névjegyek személyesek lesznek.
@@ -223,6 +252,7 @@ Külön is letöltheti őket."</string>
     <string name="master_clear_apply_step_2">Legyen bizonyos benne, hogy minden fontos adatot elmentett a számítógépére. Miután megnyomta az \"OK\" gombot, a gyári adatvisszaállítás véglegesen törölni fog minden fájlt és adatot a készülékéről, beleértve a fiókadatokat, névjegyeket, fényképeket és alkalmazásokat.</string>
     <string name="master_clear_apply_title">Figyelmeztetés</string>
     <string name="master_clear_not_available">Munkáltatója letiltotta a Gyári adatok visszaállítását.</string>
+    <string name="master_clear_not_available_ep">Jelenleg nem végezhet gyári visszaállítást, illetve nem vonhathatja vissza az engedélyt. Vegye fel a kapcsolatot vezetőjével.</string>
     <string name="menu_item_about_privacy_title">Adatvédelmi irányelvek</string>
     <string name="messageData">Üzenetek</string>
     <string name="more_settings">Továbbiak</string>
@@ -240,6 +270,7 @@ Külön is letöltheti őket."</string>
     <string name="next_setp">Következő</string>
     <string name="no_match_repate_scanner">Nincs megegyező ujjlenyomat, próbálja újra</string>
     <string name="normal_app">Első asztal</string>
+    <string name="not_set">Nincs beállítva</string>
     <string name="not_support_air_space">Ez a funkció nem támogatott az ön telefonján</string>
     <string name="not_support_multiple_users">Több asztal nem támogatott</string>
     <string name="notificationSetPassword">Jelszó beállítása</string>
@@ -262,6 +293,7 @@ Külön is letöltheti őket."</string>
     <string name="passwordProtect">Jelszó</string>
     <string name="please_diff_finger_print">"Használjon különböző ujjlenyomatot az Első és a Második asztalon.
 Ellenkező esetben nem fog tudni a Második asztalra lépni a képernyőzárról."</string>
+    <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="privacyContactsSummary">Személyes elemek megjelenítése a Második asztalon</string>
     <string name="privacyContactsTitle">Személyes üzenetek és névjegyek</string>
     <string name="privacy_password_fingerprint_dialog_message">Helyezze az ujját az ujjlenyomat-olvasóra</string>
@@ -312,6 +344,7 @@ Ha nem végzi el a frissítést, néhány alkalmazás nem fog rendeltetésszerű
 Ha nem végzi el a frissítést, néhány alkalmazás nem fog rendeltetésszerűen működni."</string>
     <string name="sdcradfs_dialog_in_sec_title">Fontos frissítés</string>
     <string name="search_input_txt_na">"&lt;font color='#CC0000'>%s&lt;/font>"</string>
+    <string name="search_menu_title">Keresés</string>
     <string name="search_result_text">Nem található alkalmazás</string>
     <string name="secondSpace">Második asztal</string>
     <string name="second_owner_finger_print">Második asztal ujjlenyomat</string>
@@ -392,6 +425,7 @@ a Második asztalra lépéshez képernyőzárról"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_xspace_alert_content">Törli az összes klónozott alkalmazást a kapcsolódó fiókkal és alkalmazásadattal? A változások újraindítás után lépnek életbe.</string>
     <string name="stop_xspace_alert_title">A klónozott alkalmazások fiókjának törlése</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_switch_apps_settings">Válassza ki a Jelenlegi asztalon használt alkalmazásokat</string>
     <string name="support_desc">A Spaces Mobile által nyújtott biztonsági szolgáltatások</string>
     <string name="sure_to_use">Megerősítés</string>
@@ -441,6 +475,8 @@ a Második asztalra lépéshez képernyőzárról"</string>
     <string name="undo_success">Sikeresen visszavonva</string>
     <string name="use_google_open">Felébresztés Google Segéd használatával</string>
     <string name="use_xiaoai_open">Felébresztés Mi AI használatával</string>
+    <string name="v7_preference_off">KI</string>
+    <string name="v7_preference_on">BE</string>
     <string name="wating">Egy pillanat…</string>
     <string name="weibo_send">Küldés Weibora</string>
     <string name="weixin_pay">WeChat Pay</string>
@@ -460,6 +496,8 @@ a Második asztalra lépéshez képernyőzárról"</string>
     <string name="xspace_description">"A klónozott alkalmazások olyan alkalmazás-másolatok, amelyek fiókonként külön-külön használhatók.
 
 Néhány klónozott alkalmazás Google Szolgáltatás keretrendszer támogatást is igényel. Ilyen esetekben létrejön a kettős keretrendszer."</string>
+    <string name="xspace_disable">Nincs létrehozva</string>
+    <string name="xspace_enable">Létrehozva</string>
     <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_des">Két fiók használata váltás nélkül</string>
     <string name="xspace_guide_title">Klónozott alkalmazás létrehozása</string>
@@ -472,9 +510,12 @@ Néhány klónozott alkalmazás Google Szolgáltatás keretrendszer támogatást
     <string name="xspace_introduce">Ajánlott</string>
     <string name="xspace_label">Klónozott alkalmazások</string>
     <string name="xspace_loading_msg">Alkalmazások betöltése…</string>
+    <string name="xspace_notification">Kettős alkalmazás értesítések</string>
+    <string name="xspace_notification_error">Jelentkezzen be a kettős WeChatbe és próbálja újra</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">A Klónozott alkalmazásfiók törlése</string>
     <string name="xspace_setting_label">Klónozott alkalmazások beállításai</string>
+    <string name="xspace_settins">Beállítás</string>
     <string name="xspace_uninstall_completed">Klónozott alkalmazás eltávolítva</string>
     <string name="xspace_uninstall_dialog_content">A klónozott alkalmazás eltávolítása törölni fog minden adatot.</string>
     <string name="xspace_uninstall_dialog_title">Klónozott alkalmazás eltávolítása</string>

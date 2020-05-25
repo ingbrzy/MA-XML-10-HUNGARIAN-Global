@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="arr_prompt_label">
-        <item>Észszerű</item>
+        <item>Ésszerű</item>
         <item>Hosszú</item>
         <item>Túl hosszú</item>
     </string-array>
@@ -48,21 +48,21 @@
         <item>°F</item>
     </string-array>
     <string-array name="week">
-        <item>Vasárnap</item>
-        <item>Hétfő</item>
-        <item>Kedd</item>
-        <item>Szerda</item>
-        <item>Csütörtök</item>
-        <item>Péntek</item>
-        <item>Szombat</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
     </string-array>
     <string-array name="week_label">
-        <item>V</item>
-        <item>H</item>
-        <item>K</item>
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Ked</item>
         <item>Sze</item>
-        <item>Cs</item>
-        <item>P</item>
+        <item>Csü</item>
+        <item>Pén</item>
         <item>Szo</item>
     </string-array>
 </resources>

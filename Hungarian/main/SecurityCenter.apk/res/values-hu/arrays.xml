@@ -2,21 +2,34 @@
 <resources>
     <string-array name="alarm_repeat_type">
         <item>Egyszer</item>
-        <item>Mindennap</item>
-        <item>Munkanapokon</item>
+        <item>Minden nap</item>
+        <item>Hivatalos munkanapok</item>
         <item>Hétköznapokon</item>
         <item>Egyéni</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Egyszer</item>
-        <item>Mindennap</item>
+        <item>Minden nap</item>
         <item>Hétköznapokon</item>
         <item>Egyéni</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Összes bejegyzés</item>
+        <item>Automatikus indítás</item>
+        <item>Láncindítás</item>
+        <item>Engedélyek használata</item>
+        <item>Érzékeny műveletek</item>
     </string-array>
     <string-array name="applock_password_types">
         <item>Minta</item>
         <item>PIN</item>
         <item>Jelszó</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Egyéni</item>
+        <item>Mi Fan kártya</item>
+        <item>Xiao Tiansheng kártya</item>
+        <item>Tencent King kártya</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Tegnap (mobiladat) "</item>
@@ -50,6 +63,18 @@
         <item>"Ma: "</item>
         <item>"Ebben a hónapban: "</item>
     </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Hozzáférhet és szerkesztheti a készülékén megtalálható fájlokat számítógépről.</item>
+        <item>Az alkalmazások készülékre való telepítése engedélyezésre kerül az Ön kifejezett engedélye nélkül.</item>
+        <item>Megfigyelheti és rögzítheti távolrül a kijelzőn megtalálható tartalmakat.</item>
+        <item>Hozzáférhet készülékének részletes adataihoz.</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>Ha a készülék zárolva van</item>
         <item>Lezárt készülék vagy alkalmazásból kilépés</item>
@@ -64,9 +89,37 @@
         <item>"Mobiladat-használat "</item>
         <item>"Wi-Fi-használat "</item>
     </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Fontos: lehetséges, hogy több rendszeralkalmazás nem fog megfelelően működni.</item>
+        <item>A szövegelrendezés, a fiókok és a tartalom lehet, hogy nem fog helyesen megjelenni.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Figyelmeztetés mutatása</item>
         <item>Figyelmeztetés és mobiladat-kapcsolat kikapcsolása</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Alapértelmezett</item>
@@ -75,6 +128,24 @@
     <string-array name="pc_settings_thermal_summaries">
         <item>Az alapértelmezett hőmérséklet-ellenőrző mód használata</item>
         <item>A teljesítmény előtérbe helyezése</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Olvassa el az összes értesítést, beleértve a szöveges üzeneteinek a tartalmát és az esetlegesen személyes adatokat tartalmazó egyéb elemeket</item>
+        <item>Értesítésengedélyek korlátozása bizonyos alkalmazások számára</item>
+        <item>Az értesítésekre való koppintás és az alkalmazások megnyitásának szimulálása</item>
+        <item>DND-mód be- és kikapcsolása</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Az Ön érdeklődési körével és viselkedésével kapcsolatos adatok begyűjtése annak megismerésével, hogy Ön milyen alkalmazást és milyen gyakran használja</item>
+        <item>A szolgáltatói és nyelvi beállításokhoz, valamint az egyéb adatokhoz való hozzáférés</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>A GetApps által nem hitelesített harmadik fél alkalmazások lehetséges, hogy több problémát okoznak és csökkentik a rendszerstabilitást.</item>
+        <item>Némelyik harmadik fél alkalmazás olyan kártevőket tartalmazhat, amely veszélybe sodorja az Ön személyes adatait.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Belső tárhely</item>
+        <item>Külső tárhely</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Mindig</item>

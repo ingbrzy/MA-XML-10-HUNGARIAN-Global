@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="agree_description">Az internethez való csatlakozás engedélyezés az alkalmazás számára az összes funkció használata érdekében.</string>
     <string name="alert_message_clear_records">Törli a kiválasztott felvételt?</string>
     <string name="alert_message_delete_local_record">Törli ezt a felvételt?</string>
     <string name="alert_message_delete_record">Ha törli a felvételt a készülékéről, törölni fogja azt a Xiaomi Cloudból is. Biztosan törli most?</string>
@@ -48,6 +49,7 @@
     <string name="cloud_status_full_dialog_msg">A Mi Cloud tárhely megtelt, a felvételek nem szinkronizálhatóak. Bővítse a Mi Fiók tárhelyének kapacitását.</string>
     <string name="cloud_status_full_dialog_ok">Bővítés</string>
     <string name="cloud_status_full_dialog_title">A Xiaomi Cloud tárhely megtelt</string>
+    <string name="copy">Másolás</string>
     <string name="data_connection_body">A mobiladat-kapcsolattal történő fájlletöltés növeli az adatforgalmat. Ha túllépi az adatforgalmazási limitet, a szolgáltató további díjakat számolhat fel.</string>
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Tipp</string>
@@ -88,6 +90,7 @@
     <string name="error_filename_too_long">A fájlnév túl hosszú</string>
     <string name="error_sdcard_access">Az SD-kártya nem elérhető</string>
     <string name="error_sdcard_unmounted">Helyezzen be egy SD-kártyát</string>
+    <string name="expand_button_title">Speciális</string>
     <string name="export_to_note">Exportálás</string>
     <string name="head_set_tip_dialog_msg">Húzza ki a fülhallgatót, hogy fel tudja venni a hangot a megadott beállításokkal (pl., zene, hang).</string>
     <string name="head_set_tip_dialog_ok">Rendben</string>
@@ -122,6 +125,7 @@
     <string name="network_unavailable_tip">Csatlakozzon a hálózathoz és próbálja újra.</string>
     <string name="new_record_name">Új felvétel</string>
     <string name="no_file">Nincs felvétel</string>
+    <string name="not_set">Nincs beállítva</string>
     <string name="notification_message_all_paused">Várakozás Wi-Fi-kapcsolatra.</string>
     <string name="notification_playback">Felvétel visszajátszása…</string>
     <string name="notification_recording">Felvétel folyamatban...</string>
@@ -164,6 +168,7 @@
     <string name="pay_error_unknown">Ismeretlen hiba</string>
     <string name="playback_delete_records">Felvétel törlése</string>
     <string name="playback_share_records">Felvétel megosztása</string>
+    <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="preference_enable_earpiece_summary">Az alsó médiahangszóró kikapcsolásra kerül</string>
     <string name="preference_enable_earpiece_title">Visszajátszás a felső beszédhangszórón</string>
     <string name="preference_led_indicator">LED értesítés lezárt képernyőnél</string>
@@ -292,6 +297,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Rögzítés...</string>
     <string name="status_bar_recording_pause">A felvétel szüneteltetve.</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="text_btn_backward_3_seconds">3 másodperccel vissza</string>
     <string name="text_btn_complete">Leállítás</string>
     <string name="text_btn_forward_3_seconds">3 másodperccel előre</string>
@@ -314,6 +320,8 @@
     <string name="toast_max_record_time">Alk:%1$s maximum %2$s felvételt támogat</string>
     <string name="toast_uninstall_fileexplorer">Fájlkezelő nincs telepítve</string>
     <string name="usage_description">Audió átírása és elemek szinkronizálása a felhővel</string>
+    <string name="v7_preference_off">KI</string>
+    <string name="v7_preference_on">BE</string>
     <string name="webview_check_network">Hálózati beállítások</string>
     <string name="webview_data_error">Hiba történt</string>
     <string name="webview_locating_fail">Helymeghatározás sikertelen</string>

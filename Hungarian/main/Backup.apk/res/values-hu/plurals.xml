@@ -16,6 +16,22 @@
         <item quantity="other">%d elem</item>
         <item quantity="one">%d elem</item>
     </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%2$d/%1$d elem</item>
+        <item quantity="one">%1$d/%2$d elem</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s mentés (%2$s)</item>
+        <item quantity="one">%1$s mentés (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">Biztonsági mentés sikeresen végrehajtva. %d biztonsági mentése sikertelen.</item>
+        <item quantity="one">Biztonsági mentés sikeresen végrehajtva. %d biztonsági mentése sikertelen.</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">Helyreállítás sikeresen végrehajtva. %d helyreállítása sikertelen.</item>
+        <item quantity="one">Helyreállítás sikeresen végrehajtva. %d helyreállítása sikertelen.</item>
+    </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"%d elem importálva. "</item>
         <item quantity="one">"%d elem importálva. "</item>

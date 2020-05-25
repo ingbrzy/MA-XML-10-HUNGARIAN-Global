@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Fel</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="about_extreme_mode">Rendkívül erős akkumulátorkímélő</string>
     <string name="about_hide_mode">Az alkalmazásonkénti akkumulátorkímélőről</string>
     <string name="active_classify">Rendezés aktivitás szerint</string>
@@ -15,9 +42,6 @@
     <string name="atrace_start">ATrace-napló rögzítése…</string>
     <string name="base_info">Alapinformáció</string>
     <string name="cloud_addr_info">Felhőinformáció</string>
-    <string name="cloud_china_addr">Kínai kiszolgáló adatfrissítése</string>
-    <string name="cloud_international_addr">Nemzetközi kiszolgáló adatfrissítése</string>
-    <string name="cloud_staging_addr">Átmeneti kiszolgáló adatfrissítése</string>
     <string name="config_classify">Rendezés alkalmazásbeállítások szerint</string>
     <string name="config_description">MIUI azonosítani tudja az alkalmazásokat a különleges háttérfolyamataikkal (pl. üzenetek, navigációs alkalmazások, médialejátszók), és olyan módon alkalmazza az akkumulátorkímélést, amely nem hat ki a fontos, háttérben futó tevékenységekre.</string>
     <string name="config_mode_title">A háttérben futás beállításai</string>
@@ -33,10 +57,11 @@
 Az akkumulátorkímélő szelektíven kezeli a fontos alkalmazásokat."</string>
     <string name="config_suggest_suffix_title">Akkumulátorkímélő (ajánlott)</string>
     <string name="confirm">OK</string>
-    <string name="current_cloud_addr_is">A felhő ellenőrzőkiszolgáló címe:</string>
+    <string name="copy">Másolás</string>
     <string name="empty_title_apps_container_list">Nincs alkalmazás</string>
     <string name="enable_sleep_mode">Az Alvó mód bekapcsolása az éjszakai akkuhasználat optimalizálására</string>
     <string name="error_filename_too_long">A megadott fájlnév túl hosszú.</string>
+    <string name="expand_button_title">Speciális</string>
     <string name="extreme_add_white_list_summary">Legfeljebb 4 alkalmazást adhat hozzá</string>
     <string name="extreme_add_white_list_title">A háttérfolyamat-tiltás kivételei</string>
     <string name="extreme_mode_max_item_alert">Legfeljebb 4 alkalmazást választhat ki, amelyek akkor is futhatnak a háttérben, ha a Rendkívül erős akkumulátorkímélő be van kapcsolva</string>
@@ -60,6 +85,7 @@ Az akkumulátorkímélő szelektíven kezeli a fontos alkalmazásokat."</string>
     <string name="message_i_know">Rendben</string>
     <string name="nonui_mode_config_description">Ne kapcsolja be a képernyőt értesítések érkezésekor, kapcsolja ki a LED fényt, ujjlenyomat-olvasót és érintésvezérlőket az akkumulátor kímélése érdekében, ha a MIUI érzékeli, hogy nem használja a telefont.</string>
     <string name="nonui_mode_config_title">Nem interaktív mód</string>
+    <string name="not_set">Nincs beállítva</string>
     <string name="notification_exit_extreme_mode_text">Az akkumulátor töltöttsége több mint %s</string>
     <string name="notification_exit_extreme_mode_title">A Rendkívül erős akkumulátorkímélő kikapcsolva</string>
     <string name="notification_open_extreme_mode_text">A Rendkívül erős akkumulátorkímélő bekapcsolva</string>
@@ -90,11 +116,13 @@ Az akkumulátorkímélő szelektíven kezeli a fontos alkalmazásokat."</string>
     <string name="power_mode">Teljesítménybeállítások</string>
     <string name="power_usage">Fogyasztás</string>
     <string name="pref_config_title">Teljesítményoptimalizálás</string>
+    <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="privacy">Adatvédelmi Irányelvek</string>
     <string name="scenario_policies_summary">Különböző speciális módokban különböző akkumulátorkímélő-stratégiák alkalmazása.</string>
     <string name="scenario_policies_title">Speciális okos módok</string>
     <string name="scenario_policies_warmcontrol">Hőmérséklet ellenőrző</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_menu_title">Keresés</string>
     <string name="search_result_text">Nem található alkalmazás</string>
     <string name="show_system_app">Rendszeralkalmazások mutatása</string>
     <string name="sleep_config_enhance_description">Amint a MIUI rendszer érzékeli, hogy Ön elaludt, bezárja a háttérben futó alkalmazásokat, korlátozza az NFC, a Bluetooth, a GPS, a Wi-Fi és a mobiladat-használatot, illetve nem engedi, hogy az értesítések felébresszék a képernyőt.</string>
@@ -105,9 +133,11 @@ Az akkumulátorkímélő szelektíven kezeli a fontos alkalmazásokat."</string>
     <string name="sleepmode_privacy_content">Ez a szolgáltatás használni fogja telefonjának rendszer- és készülékinformációs adatait. Nem nem tölti fel ezeket a kiszolgálóinkra.</string>
     <string name="sleepmode_privacy_link">Tudjon meg többet az adatvédelemről és a biztonságról</string>
     <string name="sleepmode_privacy_title">Alvómód</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sucess">Kész</string>
-    <string name="update_profile_failture_not_connect_wifi">Nem frissíthető. Csatlakozzon Wi-Fi-hálózathoz, majd próbálja újra.</string>
-    <string name="update_profile_sucess">Sikeresen frissítve a kiszolgálóról</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="v7_preference_off">KI</string>
+    <string name="v7_preference_on">BE</string>
     <string name="vip_feedback">VIP visszajelzés</string>
     <string name="vip_feedback_enable">VIP visszajelzés bekapcsolása</string>
     <string name="warm_configure">Hőmérséklet ellenőrző beállításai</string>

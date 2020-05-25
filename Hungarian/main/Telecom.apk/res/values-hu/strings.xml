@@ -181,9 +181,6 @@ Kiválasztás"</string>
     <string name="bugreport_in_power">Hibabejelentési gomb</string>
     <string name="bugreport_in_power_summary">Gomb megjelenítése a bekapcsolási menüben hibajelentés készítéséhez</string>
     <string name="button_convert_fbe">Törlés és konvertálás…</string>
-    <string name="callFailed_simError">SIM-kártya hiba</string>
-    <string name="can_not_dial_vt_while_voice_prompt">Nem lehet videóhívást létesíteni, amíg hanghívás van folyamatban</string>
-    <string name="can_not_dial_while_vt_prompt">Nem lehet tárcsázni videóhívás közben</string>
     <string name="cancel">Mégse</string>
     <string name="cant_call_due_to_no_supported_service">A hívás nem indítható el, mert nincs olyan hívásra alkalmas fiók, amely támogatná az ilyen típusú hívásokat.</string>
     <string name="cant_call_due_to_ongoing_call">Nem tud hívást kezdeményezni. Egy másik %1$s hívása folyamatban van.</string>
@@ -203,7 +200,6 @@ Kiválasztás"</string>
     <string name="charge_length_format">Ennyi ideje: %1$s</string>
     <string name="choose_profile">Profil kiválasztása</string>
     <string name="clear_adb_keys">USB-s hibakeresésre vonatkozó engedélyek visszavonása</string>
-    <string name="close">Kikapcsolás</string>
     <string name="confirm_enable_oem_unlock_text">FIGYELEM! Az eszközvédelmi funkciók addig nem fognak működni ezen az eszközön, amíg ez a beállítás be van kapcsolva.</string>
     <string name="confirm_enable_oem_unlock_title">Engedélyezi az OEM-feloldást?</string>
     <string name="connected_via_app">Kapcsolódva a következőn keresztül: %1$s</string>
@@ -254,8 +250,6 @@ Kiválasztás"</string>
     <string name="development_settings_not_available">A fejlesztői beállítások nem érhetők el ennél a felhasználónál</string>
     <string name="development_settings_summary">Alkalmazásfejlesztési beállítások megadása</string>
     <string name="development_settings_title">Fejlesztői beállítások</string>
-    <string name="dial_conference_fail_prompt">Nem sikerült konferenciahívást létrehozni, mert a hálózat nem támogatja a VoLTE-t.</string>
-    <string name="dial_vt_fail_prompt">A hálózat nem támogatja a VoLTE-t. Átvált hagyományos hanghívásra?</string>
     <string name="direct_boot_unaware_dialog_message">Megjegyzés: Újraindítás után ez az alkalmazás csak a telefon feloldását követően indul el</string>
     <string name="disable_overlays">HW fedvények letiltása</string>
     <string name="disable_overlays_summary">Mindig a GPU használata képernyő-feldolgozáshoz</string>
@@ -300,9 +294,6 @@ Kiválasztás"</string>
     <string name="inactive_app_active_summary">Bekapcsolva. Koppintson ide a váltáshoz.</string>
     <string name="inactive_app_inactive_summary">Kikapcsolva. Koppintson ide a váltáshoz.</string>
     <string name="inactive_apps_title">Készenlétben lévő alkalmazások</string>
-    <string name="incall_error_call_failed">Nem sikerült hívást indítani.</string>
-    <string name="incall_error_power_off">Ha telefonálni szeretne, kapcsolja ki a repülőgépmódot.</string>
-    <string name="incall_error_supp_service_unknown">Ez a szolgáltatás nem támogatott.</string>
     <string name="install_other_apps">Új alkalmazások telepítése</string>
     <string name="keep_screen_on">Nem kapcsolódik ki</string>
     <string name="keep_screen_on_summary">A képernyő soha nem kapcsol ki töltés során</string>
@@ -318,7 +309,6 @@ Kiválasztás"</string>
     <string name="managed_user_title">Összes munkaalkalmazás</string>
     <string name="media_category">Média</string>
     <string name="media_transfer_this_device_name">Ez az eszköz</string>
-    <string name="missedcall_notification_public_version_title">Telefon</string>
     <string name="mobile_data_always_on">A mobilhálózati kapcsolat mindig aktív</string>
     <string name="mobile_data_always_on_summary">A mobiladat-kapcsolat mindig maradjon aktív, még akkor is, ha a Wi‑Fi aktív (a gyors hálózatváltás érdekében).</string>
     <string name="mock_location_app">Helyimitáló alkalmazás kiválasztása</string>
@@ -353,7 +343,6 @@ Kiválasztás"</string>
     <string name="no_vm_number_msg">Nincs hangpostaszám a SIM-kártyán.</string>
     <string name="non_primary_user">Csak a készülék tulajdonosa tudja megnézni és kezelni a tiltott számokat.</string>
     <string name="not_set">Nincs beállítva</string>
-    <string name="notification_AllMissedCallTitle">Összes nem fogadott hívás</string>
     <string name="notification_channel_call_blocking">Hívásletiltás</string>
     <string name="notification_channel_incoming_call">Bejövő hívások</string>
     <string name="notification_channel_missed_call">Nem fogadott hívások</string>
@@ -362,7 +351,6 @@ Kiválasztás"</string>
     <string name="notification_missedCallTicker">Nem fogadott hívás tőle: %s</string>
     <string name="notification_missedCallTitle">Nem fogadott hívás</string>
     <string name="notification_missedCall_call_back">Visszahívás</string>
-    <string name="notification_missedCall_call_back_miui">Hívás</string>
     <string name="notification_missedCall_message">Üzenet</string>
     <string name="notification_missedCallsMsg">%s nem fogadott hívás</string>
     <string name="notification_missedCallsTitle">Nem fogadott hívások</string>
@@ -419,6 +407,7 @@ Kiválasztás"</string>
     <string name="private_dns_mode_provider">Privát DNS-szolgáltató gazdagépneve</string>
     <string name="private_dns_mode_provider_failure">Nem sikerült kapcsolódni</string>
     <string name="private_dns_mode_provider_hostname_hint">Adja meg a DNS-szolgáltató gazdagépnevét</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="remaining_length_format">%1$s van hátra</string>
     <string name="respond_via_sms_canned_response_1">Most nem alkalmas. Mi újság?</string>
     <string name="respond_via_sms_canned_response_2">Mindjárt visszahívom.</string>
@@ -546,9 +535,6 @@ Kiválasztás"</string>
     <string name="v7_preference_on">BE</string>
     <string name="verify_apps_over_usb_summary">Az ADB/ADT útján telepített alkalmazások ellenőrzése kártékony viselkedésre.</string>
     <string name="verify_apps_over_usb_title">USB-n keresztül telepített alkalmazások ellenőrzése</string>
-    <string name="voice_dial_out">Hanghívás</string>
-    <string name="voice_report_incoming_call">Bejövő hívás</string>
-    <string name="voice_report_unknown_num">Ismeretlen telefonszám</string>
     <string name="vpn_settings_not_available">A VPN-beállítások nem érhetők el ennél a felhasználónál</string>
     <string name="wait_for_debugger">Várjon a hibakeresőre.</string>
     <string name="wait_for_debugger_summary">A javított alkalmazás a hibakeresőre vár.</string>

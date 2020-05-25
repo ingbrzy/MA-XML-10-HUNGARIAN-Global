@@ -28,6 +28,10 @@
         <item quantity="other">%d perc</item>
         <item quantity="one">%d perc</item>
     </plurals>
+    <plurals name="minute_text">
+        <item quantity="other">" p"</item>
+        <item quantity="one">" p"</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%d másodperc</item>
         <item quantity="one">%d másodperc</item>
@@ -72,6 +76,14 @@
         <item quantity="other">Szundi %d percig</item>
         <item quantity="one">Szundi %d percig</item>
     </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">A stopper ennyi ideje megy: %s nap. Koppintson ide a megtekintéshez.</item>
+        <item quantity="one">A stopper ennyi ideje megy: %s nap. Koppintson ide a megtekintéshez.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">A stopper ennyi ideje megy: %s óra. Koppintson ide a megtekintéshez.</item>
+        <item quantity="one">A stopper ennyi ideje megy: %s óra. Koppintson ide a megtekintéshez.</item>
+    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">%1$d óra</item>
         <item quantity="one">%1$d óra</item>
@@ -83,5 +95,13 @@
     <plurals name="timer_message_second">
         <item quantity="other">%1$d mp.</item>
         <item quantity="one">%1$d mp.</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%s órával korábban</item>
+        <item quantity="one">%s órával korábban</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%s órával később</item>
+        <item quantity="one">%s órával később</item>
     </plurals>
 </resources>

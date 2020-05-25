@@ -51,8 +51,10 @@
     <string name="cannot_get_location">--</string>
     <string name="compass_settings">Beállítások</string>
     <string name="copy">Másolás</string>
+    <string name="cta_agree_desc">Az alkalmazás összes funkciójának használatához engedélyezze az internethez való csatlakozást és adja meg az opcionális engedélyeket.</string>
     <string name="cta_v2_app_purpose">útirány, koordináták, légnyomás és aktuális magasság megjelenítése</string>
     <string name="dialog_body_no_network">Csatlakozzon WIFI-hez vagy kapcsolja be a mobiladatforgalmat.</string>
+    <string name="dialog_body_no_network_china">Connect to WLAN or turn on mobile data.</string>
     <string name="dialog_calibrat_altitude">Kalibrálás…</string>
     <string name="dialog_title_no_network">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="direction_east">K</string>
@@ -86,8 +88,8 @@
     <string name="not_set">Nincs beállítva</string>
     <string name="open_perm_msg">Az Iránytű számára hozzáférés szükséges a helyadatokhoz és a kamera adataihoz a koordináták meghatározása és az élő bemutatók miatt. Engedélyezi?</string>
     <string name="open_perm_title">Engedélyek szükségesek</string>
-    <string name="permission_camera_desc">Vízszintező használata</string>
-    <string name="permission_location_desc">Koordináták és atmoszféranyomás megjelenítése</string>
+    <string name="permission_camera_desc">Az azimuth megjelenítéséhez az élő előnézetben</string>
+    <string name="permission_location_desc">A koordináták megjelenítéséhez</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="preference_other">Egyéb</string>
     <string name="preference_privacy_title">Adatvédelmi Irányelvek</string>

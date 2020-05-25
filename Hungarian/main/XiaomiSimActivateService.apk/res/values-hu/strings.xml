@@ -18,8 +18,8 @@
     <string name="activate_feature_verify_mx_token">Mi Fiók ellenőrzése</string>
     <string name="activate_feature_voip">Mi VoIP Üzenet</string>
     <string name="activate_history_canceled_overview">SIM-kártya aktiválása megszakítva. Az aktiválást kiváltotta: \"%1$s\".</string>
-    <string name="activate_history_multisim_canceled_overview">SIM %2$d kártya aktiválása megszakítva. Az aktiválást kiváltotta: %1$s\".</string>
-    <string name="activate_history_multisim_success_overview">SIM %2$d kártya sikeresen aktiválva. Az aktiválást kiváltotta: %1$s\".</string>
+    <string name="activate_history_multisim_canceled_overview">SIM %2$d kártya aktiválása megszakítva. Az aktiválást kiváltotta: \"%1$s\".</string>
+    <string name="activate_history_multisim_success_overview">SIM %2$d kártya sikeresen aktiválva. Az aktiválást kiváltotta: \"%1$s\".</string>
     <string name="activate_history_sms">SMS elküldve az aktiváláshoz.</string>
     <string name="activate_history_success_overview">SIM-kártya sikeresen aktiválva. Az aktiválást kiváltotta: \"%1$s\".</string>
     <string name="activate_history_title">SIM-kártya aktiválása</string>

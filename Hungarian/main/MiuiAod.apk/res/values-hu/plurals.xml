@@ -4,4 +4,8 @@
         <item quantity="other">" %1$sóra %2$s"</item>
         <item quantity="one">" %1$sóra %2$s"</item>
     </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">%d elem kiválasztva</item>
+    </plurals>
 </resources>

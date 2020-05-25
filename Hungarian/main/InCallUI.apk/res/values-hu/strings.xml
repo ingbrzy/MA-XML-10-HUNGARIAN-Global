@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_assistant">Okoshívások</string>
+    <string name="ai_assistant_not_installed">Először telepítse az AI Hívásasszisztenst</string>
     <string name="antispam_local_marked">Helyben megjelölt</string>
     <string name="antispam_notification_title">Ismeretlen számok azonosítása</string>
     <string name="antispam_provider">%s azonosította</string>
@@ -50,14 +52,10 @@
     <string name="can_not_use">Nem használható</string>
     <string name="cancel">Mégse</string>
     <string name="card_title_answering">Hívás fogadása</string>
-    <string name="card_title_answering_time_out">Nem sikerült a hívás fogadása, próbálja újra.</string>
     <string name="card_title_call_ended">"A hívás befejeződött "</string>
     <string name="card_title_conf_call">Konferenciahívás</string>
     <string name="card_title_dialing">Tárcsázás</string>
     <string name="card_title_hanging_up">Megszakítás</string>
-    <string name="card_title_hanging_up_fail">Nem sikerült a hívást befejezni, próbálja újra.</string>
-    <string name="card_title_hanging_up_restart">Hívásbefejezés sikertelen. Indítsa újra a készüléket.</string>
-    <string name="card_title_hanging_up_weak_signal">Gyenge mobilhálózati jel. Hívás befejezése…</string>
     <string name="card_title_in_call">Hívásban</string>
     <string name="card_title_in_call_short">Hívásban</string>
     <string name="card_title_in_video">Videó</string>
@@ -117,6 +115,8 @@
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">A videóhívás nem támogatott a másik készüléken</string>
     <string name="emergency_call_dialog_number_for_display">Segélyhívó szám</string>
+    <string name="enter_ai_assistant">Használat</string>
+    <string name="enter_ai_assistant_tip">Ha épp nem tud beszélni, használja az AI Hívásasszisztenst és konvertálja át üzeneteit beszéddé hívás közben. Használja az AI Hívásasszisztenst?</string>
     <string name="inCallLabel">Telefon</string>
     <string name="incall_bubble_hangup_click_hint">Ha vissza akar térni a híváshoz, érintse meg újra</string>
     <string name="incall_call_type_label_sip">Internetes hívás</string>

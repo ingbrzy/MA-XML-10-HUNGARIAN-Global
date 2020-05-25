@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
-    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_bar_up_description">Fel</string>
     <string name="abc_action_menu_overflow_description">További lehetőségek</string>
     <string name="abc_action_mode_done">Kész</string>
-    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
-    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
     <string name="abc_capital_off">KI</string>
     <string name="abc_capital_on">BE</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -43,7 +43,7 @@
     <string name="miui_feedback_answer_detail_feedback_unresolved">Nem</string>
     <string name="miui_feedback_answer_detail_menu_online_service">Kérjen online segítséget</string>
     <string name="miui_feedback_answer_detail_menu_phone_service">Hívja Ügyfélszolgálatunkat</string>
-    <string name="miui_feedback_answer_detail_relative_tip">Ez hasznos lehet:</string>
+    <string name="miui_feedback_answer_detail_relative_tip">Ez hasznos lehet</string>
     <string name="miui_feedback_answer_detail_title">Részletek</string>
     <string name="miui_feedback_edit_action_submit">Küldés</string>
     <string name="miui_feedback_edit_add_original_images">Fénykép hozzáadása</string>
@@ -111,6 +111,7 @@
     <string name="miui_feedback_main_menu_catch_full_log">Naplók létrehozása</string>
     <string name="miui_feedback_main_menu_feedback_list">Visszajelzések előzményeinek megtekintése</string>
     <string name="miui_feedback_main_search_footer">Nem ezeket a kérdéseket keresi?</string>
+    <string name="miui_feedback_main_search_footer_submit">立即提交问题</string>
     <string name="miui_feedback_main_search_issue">Adjon meg kulcsszavakat a kereséshez</string>
     <string name="miui_feedback_main_start_submit">Visszajelzés küldése</string>
     <string name="miui_feedback_main_submit_dialog_confirm">Küldés</string>
@@ -135,6 +136,7 @@
     <string name="miui_main_update_start">Frissítés most</string>
     <string name="miui_main_update_success_sub_title">Ismerje meg az új MIUI-t</string>
     <string name="miui_main_update_success_title">Az élet egyre könnyebb</string>
+    <string name="miui_main_update_success_title_12">Yours alone</string>
     <string name="permission_agree">Elfogadás</string>
     <string name="permission_china_version_msg">&lt;Data>A \"Szolgáltatások és visszajelzés\" alkalmazás használata előtt el kell olvasnia és el kell fogadnia a &lt;a href=%1$s>Felhasználói szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi szabályzatot&lt;/a>. Az alkalmazásnak a normálsi működéshez csatlakoznia kell az internethez.&lt;/Data></string>
     <string name="permission_complete">Kész</string>

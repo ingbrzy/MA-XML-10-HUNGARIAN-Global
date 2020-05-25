@@ -83,6 +83,7 @@ Keresse fel az id.mi.com weboldalt a jelszó helyreállításához.
 Egyéb lehetőségek
 Jelentkezzen be az i.mi.com weboldalra és próbálja meg feloldani a készüléket onnan."</string>
     <string name="unlock_help_title">Feloldási segítség:</string>
+    <string name="unlock_number">Kód feloldása: %s</string>
     <string name="unlock_wrong_captcha">A megadott kód hibás</string>
     <string name="unlocking">Aktiválás…</string>
     <string name="verifing_account">Jelszó ellenőrzése…</string>

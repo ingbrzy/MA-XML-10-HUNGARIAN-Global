@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
-    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_bar_up_description">Fel</string>
     <string name="abc_action_menu_overflow_description">További lehetőségek</string>
     <string name="abc_action_mode_done">Kész</string>
-    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
-    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
     <string name="abc_capital_off">KI</string>
     <string name="abc_capital_on">BE</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -27,16 +27,19 @@
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
-    <string name="search_menu_title">Keresés</string>
     <string name="above_image">Fel</string>
     <string name="accessibility_battery_level">Akkumulátor %d százalékos.</string>
     <string name="accessibility_battery_level_charging">Az akkumulátor töltődik, %d százalékos.</string>
+    <string name="add_from_album">Hozzáadás a galériából</string>
     <string name="align_type">Igazítás</string>
     <string name="always_style">Mindig</string>
     <string name="animation_clock_panel">Hanghullám</string>
     <string name="aod_close_color_inversion">Ez a funkció nem kombinálható az invertált színekkel. Előbb kapcsolja ki a színek invertálását.</string>
     <string name="aod_lock_screen_date">MMMM d., EE</string>
     <string name="aod_lock_screen_date_12">MMMM d., EE</string>
+    <string name="aod_lock_screen_date_smartcover">"EE
+MM.dd."</string>
+    <string name="aod_lock_screen_date_smartcover_b">EE MM.dd.</string>
     <string name="aod_mode_preview">Előnézet</string>
     <string name="aod_mode_style">Óra stílusa és háttere</string>
     <string name="aod_mode_style_title">További lehetőségek</string>
@@ -52,21 +55,32 @@
     <string name="apply_succeed">Sikeresen alkalmazva</string>
     <string name="background_icon">Háttér</string>
     <string name="below_image">Le</string>
+    <string name="btn_know">Értem</string>
     <string name="cancel">Mégse</string>
     <string name="choose_aod_style">Téma kiválasztása</string>
     <string name="chosen_picture">Háttér kiválasztása</string>
     <string name="clock_panel_icon">Óralap</string>
     <string name="color_change_with_time_description">Szövegszín automatikus megváltoztatása, ahogy telik az idő</string>
     <string name="color_change_with_time_title">Szín automatikus megváltoztatása</string>
+    <string name="copy">Másolás</string>
     <string name="custom_image">Egyedi kép</string>
     <string name="deep_space_planet">Világűr</string>
     <string name="deep_space_planet_des">Ez a téma azt tükrözi, ahogy a napszakok során a fények változnak. A napkelte és napnyugta időpontja a helyadatok alapján is szinkronizálódik.</string>
+    <string name="delete">Törlés</string>
     <string name="digital_clock">Digitális</string>
+    <string name="disable_aod_in_power_save_mode">Kikapcsolás, amikor az Akkumulátorkímélő be van kapcsolva</string>
+    <string name="disable_aod_in_power_save_mode_summary">Ne jelenítse meg az elemeket energiatakarékosság miatt</string>
+    <string name="expand_button_title">Speciális</string>
     <string name="font_thickness">Félkövér</string>
     <string name="large_time">Nagy óra</string>
     <string name="letter_space">Betűtávolságok</string>
     <string name="line_space">Sortávolságok</string>
     <string name="mini_time">Kis óra</string>
+    <string name="minimalist_clock">Egyszerű óra</string>
+    <string name="modify_scheduled_time">Idő módosítása</string>
+    <string name="more_online_theme">Online elemek</string>
+    <string name="my_style_title">Témám</string>
+    <string name="not_set">Nincs beállítva</string>
     <string name="notification_anim_pulse">Pulzus</string>
     <string name="notification_anim_rhythm">Ritmus</string>
     <string name="notification_anim_star">Csillagfény</string>
@@ -74,18 +88,28 @@
     <string name="notification_screen_on">Kijelző bevilágítása</string>
     <string name="only_show_bg_description">Ne mutassa az időt, dátumot és egyéb elemeket</string>
     <string name="only_show_bg_title">Csak a háttér megjelenítése</string>
+    <string name="open_aod_mode">Bekapcsolás</string>
     <string name="panel_clock">Analóg</string>
     <string name="paper_mode_end_time_title">Kikapcsol</string>
     <string name="paper_mode_start_time_title">Bekapcsol</string>
+    <string name="photo_editor_saving">Mentés…</string>
     <string name="please_input_signature">Adja meg az aláírását</string>
+    <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
+    <string name="scheduled_mode_dialog_msg">Az elemek a következő időszakon belül megjelenítésre kerülnek az Always-in display funkcióval: %s.</string>
+    <string name="scheduled_mode_dialog_msg_12">hh:mm aa</string>
+    <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
+    <string name="scheduled_mode_msg">Aktív időszak: %s</string>
     <string name="scheduled_style">Ütemezett</string>
     <string name="scope_des">Minden kaleidoszkó 5 különböző mintát tartalmaz, amelyek váltakozva jelennek meg minden alkalommal, amikor a képernyője felvillan.</string>
     <string name="scope_icon">Kaleidoszkóp stílusa</string>
     <string name="scope_time">Kaleidoszkóp</string>
+    <string name="search_menu_title">Keresés</string>
     <string name="select_notification_animation_style">Speciális effektus kiválasztása</string>
     <string name="select_notification_notify_style">Válassza ki az értesítési effektet</string>
     <string name="show_battery">Akku állapot kijelzése</string>
     <string name="show_battery_status">Memóriaállapot kijelzése</string>
+    <string name="show_lunar">Hagyományos kínai naptár megjelenítése</string>
+    <string name="show_lunar_desc">A kettős óra nem támogatja a hagyományos kínai naptárat</string>
     <string name="show_notification">Értesítések megjelenítése</string>
     <string name="show_notificaton">Értesítések megjelenítése</string>
     <string name="shownone_arround_image">Egyiket sem</string>
@@ -94,7 +118,9 @@
 csodálatos dolog fog történni"</string>
     <string name="standard_clock_panel">Alapértelmezett</string>
     <string name="standard_style">Standard</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary">Az energiafogyasztás csökkentésének érdekében az elemek nem fognak megjelenni, ha a készülék hosszú ideig sötétben van.</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="temporary_style">Koppintás után 10 másodpercig</string>
     <string name="text_color">Betűszín</string>
     <string name="text_length_exceed_limit_alert">*A megadott szöveg túl hosszú</string>
@@ -102,6 +128,7 @@ csodálatos dolog fog történni"</string>
     <string name="time_location">Órapozíció</string>
     <string name="time_style">Stílus</string>
     <string name="time_style_layout">Elrendezés</string>
-    <string name="disable_aod_in_power_save_mode">Kikapcsolás, amikor az Akkumulátorkímélő be van kapcsolva</string>
-    <string name="disable_aod_in_power_save_mode_summary">Ne jelenítse meg az elemeket energiatakarékosság miatt</string>
+    <string name="tip_to_open_aod_mode">Az Always-on megjelenítés kikapcsolva. Bekapcsolja?</string>
+    <string name="v7_preference_off">KI</string>
+    <string name="v7_preference_on">BE</string>
 </resources>

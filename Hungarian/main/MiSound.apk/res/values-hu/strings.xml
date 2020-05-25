@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Fel</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="add_sound">Egyedi csatorna hozzáadása</string>
     <string name="app_name">Fülhallgatók</string>
     <string name="apply_sound">Alkalmaz</string>
@@ -7,6 +34,7 @@
     <string name="complete_dialog_button">Rendben</string>
     <string name="complete_dialog_message">Sikeresen befejezte a tesztet.</string>
     <string name="complete_dialog_title">Teszteredmények</string>
+    <string name="copy">Másolás</string>
     <string name="customization_complete">Kész</string>
     <string name="customization_continue">Folytatás</string>
     <string name="customization_pause_tip">Leállítja a tesztet? Csatlakoztassa a fülhallgatót a folytatáshoz.</string>
@@ -34,6 +62,7 @@
     <string name="eq_return">Vissza</string>
     <string name="eq_rock">Rock</string>
     <string name="equalizer">Hangszínszabályzó</string>
+    <string name="expand_button_title">Speciális</string>
     <string name="first_note">Tesztelje a hallásérzetét a hangerő beállításához.</string>
     <string name="four_note">A teszt elvégzése körülbelül 3 percig tart.</string>
     <string name="heard_no">Nem</string>
@@ -125,16 +154,22 @@
     <string name="music_unsupport_effect_summary">Az USB fejhallgató nem támogatott</string>
     <string name="music_upper_sixty_years">Több mint 60 éves</string>
     <string name="name">Név</string>
+    <string name="not_set">Nincs beállítva</string>
     <string name="now_here">És most?</string>
     <string name="original_sound">Eredeti hang lejátszása</string>
     <string name="personal_sound">Lejátszás alkalmazott csatornával</string>
+    <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="retry_test">Újrakezdés</string>
     <string name="save_and_apply">Mentés és alkalmazás</string>
+    <string name="search_menu_title">Keresés</string>
     <string name="second_note">Tegye fel a fülhallgatóját.</string>
     <string name="sound_test_title">Hallásérzékelés-teszt</string>
     <string name="start_test_sound">Teszt indítása</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sure_give_up_test">Ha most megszakítja a tesztet, legközelebb újra kell kezdenie. Mégis leállítja?</string>
     <string name="sure_to_back">Elveti a módosításokat?</string>
     <string name="third_note">Keressen egy csendes helyet.</string>
+    <string name="v7_preference_off">KI</string>
+    <string name="v7_preference_on">BE</string>
 </resources>

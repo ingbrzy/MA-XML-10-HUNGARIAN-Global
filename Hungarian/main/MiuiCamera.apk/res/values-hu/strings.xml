@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Fel</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="access_sd_fail">Az SD-kártya nem elérhető.</string>
     <string name="accessibility_ai_scene_off">Az Intelligens kamera kikapcsolva</string>
     <string name="accessibility_ai_scene_on">Az Intelligens (AI) kamera bekapcsolva</string>
@@ -50,8 +77,8 @@
     <string name="accessibility_intent_done_retry">Próbálja újra</string>
     <string name="accessibility_lighting_panel_off">A stúdióvilágítási sáv rejtett</string>
     <string name="accessibility_lighting_panel_on">A stúdióvilágítási sáv megjelenítésre kerül</string>
-    <string name="accessibility_mimovie_off">A Film mód ki van kapcsolva</string>
-    <string name="accessibility_mimovie_on">A Film mód be van kapcsolva</string>
+    <string name="accessibility_mimovie_off">Nem használ filmkeretet</string>
+    <string name="accessibility_mimovie_on">Filmkeretet használ</string>
     <string name="accessibility_more">Továbbiak</string>
     <string name="accessibility_open">Bekapcsolva</string>
     <string name="accessibility_portrait_button">Portrémód</string>
@@ -85,6 +112,7 @@
     <string name="auxiliary_exposure_feedback_status">Az expozícióellenőrzés be van kapcsolva</string>
     <string name="auxiliary_focus_peak_status">A Fókuszjelölés be van kapcsolva</string>
     <string name="back_bokeh_use_hint">Tartsa a tárgyat 1,5 méteren belül a legjobb hatás elérése érdekében</string>
+    <string name="background">Background</string>
     <string name="beauty_body">Alak</string>
     <string name="beauty_body_body">Vékony</string>
     <string name="beauty_body_head">Fej</string>
@@ -128,6 +156,17 @@
     <string name="capture_back_pressed_hint">Érintse meg újra a kilépéshez</string>
     <string name="ccc_temperature_warning_msg">Eszköze túlmelegedett. A Kamera %d másodpercen belül bezárásra kerül. A képei és videói automatikusan elmentésre kerülnek.</string>
     <string name="ccc_temperature_warning_title">Az eszköz túlmelegedett</string>
+    <string name="clone_don_not_move_phone">请不要移动手机</string>
+    <string name="clone_landscape_hint">分身模式仅支持横屏拍摄</string>
+    <string name="clone_no_person_found_in_viewfinder">取景区域未识别到人</string>
+    <string name="clone_offset_is_too_large">手机偏移过大，请重新拍摄</string>
+    <string name="clone_photo_mode">拍照模式</string>
+    <string name="clone_photo_mode_start_hint">请点击快门键开始拍照</string>
+    <string name="clone_preview_no_person">未识别到人,可能拍摄失败</string>
+    <string name="clone_put_phone_back_in_place">请把手机恢复原位</string>
+    <string name="clone_start_capture">开始拍摄</string>
+    <string name="clone_video_mode">视频模式</string>
+    <string name="clone_video_mode_start_hint">请点击快门键开始录制</string>
     <string name="close_back_flash_toast">A készüléke túlmelegedett. Most nem használhatja a vakut.</string>
     <string name="close_front_flash_toast">A készüléke túlmelegedett. Most nem használhatja a vakut.</string>
     <string name="color_effect_entry_berry">Bogyó</string>
@@ -157,7 +196,7 @@
     <string name="config_name_group">Csoportos szelfi</string>
     <string name="config_name_hht">Kézi szürkületi</string>
     <string name="config_name_magic">Varázslat</string>
-    <string name="config_name_mimovie">Film mód</string>
+    <string name="config_name_mimovie">Filmkeret</string>
     <string name="config_name_scene">Képkörnyezet</string>
     <string name="config_name_setting">Beállítások</string>
     <string name="config_name_sound">Hangvezérelt</string>
@@ -214,6 +253,7 @@ automatikus sorba rendezése és javítása"</string>
     <string name="edit_skin_white">Tónus</string>
     <string name="edit_slim_nose">Orr</string>
     <string name="edit_smile">Mosoly</string>
+    <string name="emoticon">Sticker pack</string>
     <string name="error_fail_to_start_audio_capture">Nem indítható el a hangvezérelt fényképkészítés</string>
     <string name="eye_light">A szem becsillanása</string>
     <string name="eye_light_angel">Angyal</string>
@@ -348,6 +388,9 @@ nagyobbnak tűnjenek a képeken"</string>
     <string name="mimoji_check_no_face">Egy arc sem észlelhető</string>
     <string name="mimoji_check_normal">Érintse meg az exponálógombot</string>
     <string name="mimoji_confirm">OK</string>
+    <string name="mimoji_create_emoticon">Create sticker pack</string>
+    <string name="mimoji_create_emoticon_error">"Couldn't create sticker pack"</string>
+    <string name="mimoji_create_emoticon_progress">Creating sticker pack…</string>
     <string name="mimoji_create_tips">Nézzen egyenesen a kamerába a saját Mimoji elkészítéséhez</string>
     <string name="mimoji_delete"><font fgcolor="#ffff0000">Törlés</font></string>
     <string name="mimoji_delete_dialog_title">Törli a Mimojit?</string>
@@ -371,6 +414,8 @@ nagyobbnak tűnjenek a képeken"</string>
     <string name="mimoji_edit_cancel_alert">Az összes változtatás el fog veszni. Mégis törli?</string>
     <string name="mimoji_edit_mimoji">Mimoji-szerkesztés</string>
     <string name="mimoji_editor">Szerkesztés</string>
+    <string name="mimoji_emoticon_save">Save sticker pack</string>
+    <string name="mimoji_emoticon_with_jpeg_save">Save images as well</string>
     <string name="mimoji_eye">Szemek</string>
     <string name="mimoji_eye_shape">Szemforma</string>
     <string name="mimoji_eyebrow">Szemöldök</string>
@@ -380,6 +425,12 @@ nagyobbnak tűnjenek a képeken"</string>
     <string name="mimoji_featured_face">Arc</string>
     <string name="mimoji_fragment_tab_name">Mimoji</string>
     <string name="mimoji_freckle">Szeplők</string>
+    <string name="mimoji_gif_accelerate">Speed</string>
+    <string name="mimoji_gif_clear_bg">Remove background</string>
+    <string name="mimoji_gif_edit_hint">Tap to add text</string>
+    <string name="mimoji_gif_edit_title">Edit GIF</string>
+    <string name="mimoji_gif_record_time_short">Recorded video is too short</string>
+    <string name="mimoji_gif_reverse">Reverse</string>
     <string name="mimoji_hairstyle">Haj</string>
     <string name="mimoji_headwear">Kalapok</string>
     <string name="mimoji_mole">Anyajegy</string>
@@ -393,7 +444,9 @@ nagyobbnak tűnjenek a képeken"</string>
     <string name="mimoji_recapture_alert">Az összes változtatás el fog veszni, ha újrakezdi. Mégis újrakezdi?</string>
     <string name="mimoji_reset">Visszaállítás</string>
     <string name="mimoji_save">Mentés</string>
+    <string name="mimoji_save_finish">Done</string>
     <string name="mimoji_save_success">Sikeresen elmentve</string>
+    <string name="mimoji_select_number_error">Select at least 1 item</string>
     <string name="mimoji_selected">Kiválasztás</string>
     <string name="mimoji_start_create">Mimoji-létrehozás…</string>
     <string name="mimoji_tips">Érintse meg fénykép, tartsa nyomva videó készítéséhez.</string>
@@ -409,7 +462,7 @@ nagyobbnak tűnjenek a képeken"</string>
     <string name="module_name_square">Négyzet</string>
     <string name="module_name_video">Videó</string>
     <string name="moive_frame">Filmkeret</string>
-    <string name="multi_window_mode_not_supported">A kamera nem működik osztott képernyőnél</string>
+    <string name="multi_window_mode_not_supported">"Camera can't be used in multi-window mode"</string>
     <string name="network_access_user_notice_agree">Elfogadás</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data>Ahhoz, hogy a Kamera effektusokat, zenét és egyéb funkciókat tudjon biztosítani a rövid videókhoz, csatlakoznia kell az internethez.&lt;br/>&lt;br/>Az alábbi \"Elfogad\" gombra való kattintással Ön elfogadja a &lt;a href =%1$s>Felhasználói megállapodásunkat&lt;/a> és az &lt;a href =%2$s>Adatvédelmi irányelvünket&lt;/a>, valamint engedélyezi a Kamerának, hogy csatlakozzon az internethez.&lt;/Data></string>
     <string name="network_access_user_notice_message_mi_live_video">&lt;Data>Üdvözöljük, ezek itt a rövid videók! Ahhoz, hogy szolgáltatásunk zenét és egyéb funkciókat biztosíthasson Önnek, a szolgáltatásnak csatlakoznia kell a hálózathoz.&lt;br/>&lt;br/>A szolgáltatásunk használatával Ön elfogadja a &lt;a href =%1$s>Felhasználói megállapodásunkat&lt;/a> és az &lt;a href =%2$s>Adatvédelmi irányelvünket&lt;/a>, valamint engedélyezi az alkalmazásnak, hogy csatlakozzon az internethez.&lt;/Data></string>
@@ -419,6 +472,7 @@ nagyobbnak tűnjenek a képeken"</string>
     <string name="no_storage">Kamerahasználat előtt helyezzen be egy SD-kártyát</string>
     <string name="not_enough_space">Az SD-kártya megtelt</string>
     <string name="object_track_enable_toast">A tárgy követéséhez kattintson két ujjal a tárgy mindkét végén.</string>
+    <string name="only_mimoji_multi_window_mode_not_supported">"This feature can't be used in multi-window mode"</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Igazítsa a nyilat a referencia vonalra</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Mozgassa tovább a kamerát…</string>
     <string name="pano_how_to_use_prompt_slow_down">Lassítson…</string>
@@ -508,6 +562,7 @@ a fényképek hátterének elmosásához"</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Próbálja ki a Portrémódot.
 A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_960_watermark_title">960 FPS vízjel</string>
+    <string name="pref_advance_settings">Additional settings</string>
     <string name="pref_ai_detect">Intelligens felismerés</string>
     <string name="pref_audio_focus_entry_front">Előlapi</string>
     <string name="pref_audio_focus_entry_general">Szokásos</string>
@@ -535,6 +590,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_auxiliary_close">Ki</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Expozícióellenőrzés</string>
     <string name="pref_camera_auxiliary_focus_peak">Fókuszjelölés</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Magas</string>
     <string name="pref_camera_beautify_entry_low">Alacsony</string>
     <string name="pref_camera_beautify_entry_normal">Közepes</string>
@@ -543,7 +599,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_coloreffect_entry_big_face">Szétszórt</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">Fekete-fehér</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Halszem</string>
-    <string name="pref_camera_coloreffect_entry_instagram_clarendon">Színdurranás</string>
+    <string name="pref_camera_coloreffect_entry_instagram_clarendon">Színfókusz</string>
     <string name="pref_camera_coloreffect_entry_instagram_crema">Rusztikus</string>
     <string name="pref_camera_coloreffect_entry_instagram_hudson">Jeges</string>
     <string name="pref_camera_coloreffect_entry_instagram_rise">Lomo</string>
@@ -635,6 +691,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_peak_entry_off">Ki</string>
     <string name="pref_camera_peak_entry_on">Be</string>
     <string name="pref_camera_peak_title">Fókuszjelölés</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Teljes képernyő</string>
     <string name="pref_camera_picturesize_entry_standard">Szabványos 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">Képarány</string>
     <string name="pref_camera_portrait_mode_entry_off">Portrémód kikapcsolva</string>
@@ -783,6 +840,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
     <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
     <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
+    <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
     <string name="pref_video_quality_title">Videóminőség</string>
     <string name="pref_video_speed_entry_fast">Gyors</string>
@@ -809,6 +867,7 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_watermark_on">Be</string>
     <string name="pref_watermark_title">Vízjel</string>
     <string name="preparing_sd">SD-kártya ellenőrzése…</string>
+    <string name="preview_back_pressed_hint">Tap again to go back to preview</string>
     <string name="pro_color_mode">Pro szín</string>
     <string name="recommend_macro_mode">Próbálja ki a Makró módot</string>
     <string name="recommend_portrait">Próbálja ki a Portré módot</string>
@@ -819,8 +878,10 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="reset_manually_parameter_hint">Visszaállítás</string>
     <string name="screen_on_proximity_sensor_hint">A funkció kikapcsolásához nyomja meg egyszerre a Hangerő fel és a Vissza gombot.</string>
     <string name="screen_on_proximity_sensor_summary">Ne takarja el a beszédhangszóró környékét</string>
+    <string name="search_menu_title">Keresés</string>
     <string name="search_settings">Kamerabeállítások;Minőség;Kép minőség;Kép tartózkodási helye;Kép tartózkodási helye;Arcfelismerés;Kamera hang</string>
     <string name="see_qrcode_detals">QR-kód részleteinek megtekintése</string>
+    <string name="share">Share</string>
     <string name="simple_mode_button_asd_flash">Vakukikapcsolás</string>
     <string name="simple_mode_button_asd_hdr">HDR-kikapcsolás</string>
     <string name="simple_mode_button_text_audio_capture">A hangvezérelt fényképkészítés kikapcsolása</string>
@@ -849,14 +910,22 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="sticker_tab1">Aranyos</string>
     <string name="sticker_tab2">Vicces</string>
     <string name="subtitle_network_exception_tips">Nem sikerült kapcsolódni a hálózathoz. Most nem tud szövegátiratot készíteni.</string>
-    <string name="super_eis">Szuperstabilizáció</string>
-    <string name="super_eis_disabled_hint">A szuperstabilizáció ki van kapcsolva</string>
+    <string name="super_eis">Folytonos videó</string>
+    <string name="super_eis_disabled_hint">Folytonos videó kikapcsolva</string>
     <string name="super_night_hint">Kép optimalizálása… Gondoskodjon eszköze stabilitásáról.</string>
+    <string name="super_night_se_tip">Éjszakai mód</string>
     <string name="super_night_toast">Fényképezés közben tartsa a telefont stabilan</string>
     <string name="tap_to_exposure">Érintse meg az exponálás kézi beállításához</string>
     <string name="tap_to_focus">Érintse meg a fókuszáláshoz</string>
     <string name="text_ai_scene_selector_text_off">SZEMBEFÉNY</string>
     <string name="text_ai_scene_selector_text_on">SZILUETT</string>
+    <string name="timbre">Voice</string>
+    <string name="timbre_baby">Kid</string>
+    <string name="timbre_gentlemen">Gent</string>
+    <string name="timbre_girl">Girl</string>
+    <string name="timbre_lady">Lady</string>
+    <string name="timbre_normal">Original</string>
+    <string name="timbre_robot">Robot</string>
     <string name="time_lapse_error">Nem használhatja ezt a videóméretet a time-lapse felvételhez</string>
     <string name="title_snap_double_confirm">Megerősítés újra</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Nem készíthető sorozatfelvétel, ha a hangvezérelt fényképkészítés be van kapcsolva</string>
@@ -887,20 +956,21 @@ Az ultraszéles látószögű mód segít abban az esetben, ha nem tud eltávolo
     <string name="ultra_wide_open_tip_sat">0.6X ultraszéles látószög</string>
     <string name="ultra_wide_recommend_tip_hint">Próbálja ki az ultraszéles látószögű módot</string>
     <string name="ultra_wide_recommend_tip_hint_sat">Váltás 0,6-szoros ultraszéles látószögre</string>
+    <string name="unknow_error">Unknown error</string>
     <string name="user_agree">Elfogadás</string>
     <string name="user_define_watermark_cancel">Mégse</string>
     <string name="user_define_watermark_save">Mentés</string>
     <string name="user_notice_identify_summary_format">A Kamera használata előtt Önnek el kell fogadnia a következő két dokumentumot: <a href="http://www.miui.com/res/doc/eula.html?lang=hu_HU">Felhasználói Szerződés</a> és <a href="http://www.miui.com/res/doc/privacy.html?lang=hu_HU">Adatvédelmi Irányelvek</a>. A hibátlan működéshez a Kamerának internetkapcsolatra is szüksége van. Elfogadja?</string>
     <string name="user_notice_title">Felhasználási feltételek</string>
     <string name="video_beauty_tip">Szépítés videófelvételhez</string>
-    <string name="video_beauty_tip_beautification">Beautify</string>
+    <string name="video_beauty_tip_beautification">Szépítés</string>
     <string name="video_beauty_tip_filter">Szűrők</string>
     <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
     <string name="video_camera_label">Videókamera</string>
     <string name="video_effect_entry_blackwhite">Fekete-fehér</string>
     <string name="video_effect_entry_bygone">Bygone</string>
     <string name="video_effect_entry_central">Központi</string>
-    <string name="video_effect_entry_color_retention">Pezsgő színek</string>
+    <string name="video_effect_entry_color_retention">Színfókusz</string>
     <string name="video_effect_entry_fantasy">Fantázia</string>
     <string name="video_effect_entry_film">Mozi</string>
     <string name="video_effect_entry_forest">Erdő</string>
@@ -913,7 +983,7 @@ Az ultraszéles látószögű mód segít abban az esetben, ha nem tud eltávolo
     <string name="video_effect_entry_summer_day">Nyár</string>
     <string name="video_effect_entry_wind_sing">Szellő</string>
     <string name="video_reach_size_limit">Elérte a mérethatárt.</string>
-    <string name="video_tag_flag_title">Megjelölés</string>
+    <string name="video_tag_flag_title">Címke</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Adatvédelmi irányelvek megtekintése</string>

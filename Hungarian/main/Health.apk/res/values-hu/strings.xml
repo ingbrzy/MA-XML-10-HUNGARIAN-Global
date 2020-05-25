@@ -42,9 +42,10 @@ to add cards"</string>
     <string name="add_record">Add</string>
     <string name="all_records">Összes bejegyzés</string>
     <string name="altitude">Altitude</string>
-    <string name="audio_permission_dialog_desc">Audio record permission has been closed, please open it.</string>
-    <string name="audio_permission_dialog_title">Grant audio record permission</string>
-    <string name="audio_record_perm_description">Record your snoring and dreams during sleep</string>
+    <string name="altitude_range">Magasság</string>
+    <string name="audio_permission_dialog_desc">Az alvásciklus elemzéséhez, valamint a beszélgetés és a horkolás rögzítéséhez a Xiaomi Healthnek engedélyre van szüksége a hangrögzítéshez.</string>
+    <string name="audio_permission_dialog_title">Hangfelvétel engedélyezése</string>
+    <string name="audio_record_perm_description">A horkolás és a beszélgetés rögzítésére az alvásciklus elemzése alatt</string>
     <string name="audio_record_permission_description">For recording talking and snoring while analyzing your sleep cycle</string>
     <string name="auto_start_fail">Nem sikerült megadni az engedélyt</string>
     <string name="auto_start_success">Az engedély sikeresen megadva</string>
@@ -101,6 +102,7 @@ to add cards"</string>
     <string name="copy">Másolás</string>
     <string name="copy_done">Másolás sikeres</string>
     <string name="copyright_statement">Copyright © Xiaomi Inc. Minden jog fenntartva.</string>
+    <string name="cousume_unit_float_format">%1$.2f Cal</string>
     <string name="cross_hiking">Hiking</string>
     <string name="cumulative_decline">Elevation loss</string>
     <string name="cumulative_rise">Elevation gain</string>
@@ -123,6 +125,7 @@ to add cards"</string>
     <string name="date_format_y_m_d_h_m_3">MM/dd/yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_4">MM/dd/yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_h_m_s">yyyy.MM.dd. HH:mm:ss</string>
+    <string name="date_format_yyyy_m_d_h_m">MM/dd/yyyy HH:mm</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">Nap</string>
     <string name="deep_light_detection_open_prompt">Your sleep cycle will be analyzed next time you go to bed</string>
@@ -172,14 +175,14 @@ A Xiaomi Health csak fontos eseményekről fog értesítéseket küldeni Önnek.
     <string name="dialog_privacy_policy_statement">Adatvédelmi nyilatkozat</string>
     <string name="dialog_privacy_title">Felhasználási feltételek</string>
     <string name="dialog_read_phone_perm_desc">A készülékfunkciók beazonosításához OAID- vagy Android-azonosító használatával</string>
-    <string name="dialog_request_network">Please agree to the Application Networking.</string>
+    <string name="dialog_request_network">Engedélyezze, hogy az alkalmazás csatlakozzon az internethez.</string>
     <string name="dialog_sleep_goal_setting">Set sleep duration goal</string>
     <string name="dialog_sleep_goal_subtitle">Get 7–9 hours of sleep every day</string>
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>
     <string name="dialog_sleep_record_auto_start">A pontosabb alvási statisztikákért engedélyezze a Xiaomi Health-nek az automatikus indítást.</string>
     <string name="dialog_sure">OK</string>
     <string name="dialog_user_agreement_purpose">Üdvözli önt a Xiaomi Health! Ez az app segít önnek számolni a lépéseket, követni az alvást, időszakokat, súlyt és szinkronizálja az adatokat a felhőbe.</string>
-    <string name="dialog_user_agreement_purpose2">Welcome to Xiaomi Health, you can use this application for sports pedometer, sleep, menstrual recording, weight tracking, Xiaomi Health Cloud service and other functions.</string>
+    <string name="dialog_user_agreement_purpose2">Üdvözli önt a Xiaomi Health! Ez az app, többek között, segít önnek számolni a lépéseket, elemezni az alvást, követni az időszakokat és súlyt rögzíteni.</string>
     <string name="disable">Off</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
@@ -189,28 +192,30 @@ A Xiaomi Health csak fontos eseményekről fog értesítéseket küldeni Önnek.
     <string name="edit_basic_info_desc">Alapinformáció</string>
     <string name="edit_sleep_record_button">Edit</string>
     <string name="enable">On</string>
-    <string name="enable_go_now">On</string>
-    <string name="enable_not_now">Off</string>
-    <string name="enable_right_now">On</string>
+    <string name="enable_go_now">Turn on</string>
+    <string name="enable_not_now">Not now</string>
+    <string name="enable_right_now">Turn on</string>
     <string name="enough">Enough</string>
     <string name="excessive">Too much</string>
     <string name="exercise">Workouts</string>
     <string name="exercise_consume">%1$d kcal elégetve</string>
     <string name="exercise_consume_description">According to Dietary Guidelines for Chinese Residents, daily physical activity should consume more than 15% of total energy expenditure. The energy spent on your daily physical activity is summarized here, but does not include basal metabolic expenditure. If you have weight management concerns, you need to focus on energy intake as well.</string>
-    <string name="exercise_consume_exercise_description">Exercise duration is the time spent on medium and high intensity activities. According to the Chinese health authorities, weekly exercise duration should be at least 150 minutes. The time spent on high-intensity activities such as brisk walking (cadence greater than 100 steps per minute), running, and climbing stairs will be added to your exercise duration.</string>
+    <string name="exercise_consume_exercise_description">This is the time you spend on moderate and high intensity activities. According to the Chinese health authorities, weekly exercise duration should be at least 150 minutes (at least 30 minutes per session). Activities such as brisk walking (cadence greater than 100 steps per minute), running, and climbing stairs will be viewed as moderate to high intensity workouts.</string>
     <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"Selected data source (%1$s) doesn't provide Calorie count info.
 You can select a different data source in More > Data sources."</string>
-    <string name="exercise_detail_no_exercise_hint">"Selected data source (%1$s) doesn't provide exercise duration info.
-You can select a different data source in More > Data sources."</string>
+    <string name="exercise_detail_no_exercise_hint">"Your current data source (%1$s) doesn't provide detailed workout stats.
+You can select another source in More > Data sources."</string>
     <string name="exercise_detail_no_steps_hint">"Selected data source (%1$s) doesn't provide step count info.
 You can select a different data source in More > Data sources."</string>
-    <string name="exercise_duration">Exercise duration</string>
+    <string name="exercise_duration">Moderate to high intensity</string>
     <string name="exercise_duration_consume">Duration: %1$s | Burned: %2$s</string>
     <string name="exercise_goal">Célkitűzés</string>
     <string name="exercise_goal_accomplished">Kitűzött cél elérve</string>
     <string name="exercise_goal_lack_exercise">Nincs elég tevékenység</string>
     <string name="exercise_goal_not_accomplished">Nem érte el a célt</string>
+    <string name="exercise_heart_rate">心率</string>
+    <string name="exercise_heart_rate_range">心率范围</string>
     <string name="exercise_info_tool_bar_title">Tevékenység</string>
     <string name="exercise_information_label">Provide your info to make stats more accurate</string>
     <string name="exercise_intensity">Intensity</string>
@@ -231,6 +236,7 @@ If az ön eszköze szerepel a listán, adatforrásokat a következő menüpontba
     <string name="exercise_reminder_unaccomplished">Még nem érte el a célját. Folytassa tovább!</string>
     <string name="exercise_setting_label_reach_standard_remind">Activity alert</string>
     <string name="exercise_setting_page_title">Activity settings</string>
+    <string name="exercise_speed">速度</string>
     <string name="exercise_strokes">Number of strokes</string>
     <string name="exercise_sum">Mozgásjelentés</string>
     <string name="exercise_walk_description">According to the Dietary Guidelines for Chinese Residents, active physical activity should last at least 40 minutes a day, which is equivalent to walking 6000 steps. The steps you take each day to walk, run, and go upstairs are summarized here.</string>
@@ -260,6 +266,9 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="go_open_sleep_detector">Start</string>
     <string name="go_setting">Beállítások</string>
     <string name="goto_setting_auto_start">Beállítások</string>
+    <string name="guide_exit">Exit Xiaomi Health</string>
+    <string name="guide_exit_description">"We can't provide services to people who haven't turned 14 yet. Make sure you're using this device with the permission of your legal guardian. Tap the button below to exit the app."</string>
+    <string name="guide_exit_title">You can start using Xiaomi Health after you turn 14</string>
     <string name="guide_setting">Adja meg a következő információt a pontos menstruációs statisztikáért</string>
     <string name="harm_learn_more">Tudjon meg többet</string>
     <string name="health_app_name">Egészség</string>
@@ -311,6 +320,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="light_sleep_time_decrease_description">Your light sleep is too short</string>
     <string name="light_sleep_time_increase_description">Your light sleep is too long</string>
     <string name="light_sleep_time_normal_description">You have a sufficient amount of light sleep</string>
+    <string name="load_failed">加载失败，请稍后重试</string>
     <string name="low_intensity">Low</string>
     <string name="manage_home">Manage start page</string>
     <string name="manual_add">Add manually</string>
@@ -356,11 +366,12 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="name_title_menstruation_today_end">A menstruációs ciklus várhatóan ma ér véget</string>
     <string name="need_auto_start_permission">A pontosabb statisztikákért engedélyezze a Xiaomi Health-nek az automatikus indítást.</string>
     <string name="need_unrestricted_permission">A pontosabb statisztikákért engedélyezze a Xiaomi Health-nek, hogy mindig fusson a háttérben.</string>
+    <string name="network_not_available">网络不可用，请联网后重试</string>
     <string name="next_step">Következő</string>
     <string name="no_data">No data</string>
     <string name="no_records">Itt még nincsenek elemek.</string>
     <string name="no_snore">"You didn't snore or talk in your sleep"</string>
-    <string name="no_snore_1">"You didn't snore or talk in your sleep"</string>
+    <string name="no_snore_1">No items here yet</string>
     <string name="normal">Normal</string>
     <string name="not_added">Not added</string>
     <string name="not_set">Nincs beállítva</string>
@@ -375,6 +386,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="page">%1$d/%2$d</string>
     <string name="passable">OK</string>
     <string name="per_time_minutes">%d per minute</string>
+    <string name="per_time_minutes1">" per minute"</string>
     <string name="permission_check_result">Sikeresen beállítva</string>
     <string name="permission_check_result_failed">Beállítás sikertelen</string>
     <string name="permission_manage">Engedélyek kezelése</string>
@@ -419,8 +431,10 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="remind_subtitle_record">Kapjon emlékeztetőket, amikor el kell kezdeni a menstruáció kezdési és befejezési napjának rögzítését</string>
     <string name="remind_title_menstruation_start">Emlékeztessen a menstruáció kezdetekor</string>
     <string name="remind_title_record">Emlékeztessen a rögzítésre</string>
+    <string name="retry">重试</string>
     <string name="revert_to_default">Alapértelmezés visszaállítása</string>
     <string name="run">Running</string>
+    <string name="save">Save</string>
     <string name="search_menu_title">Keresés</string>
     <string name="sedentary_detail_title">A túl hosszan tartó ülés káros</string>
     <string name="sedentary_enhance_remind">Rezegjen is</string>
@@ -449,6 +463,8 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="sleep_deep">Deep sleep</string>
     <string name="sleep_deep_light_analysis">Light sleep and deep sleep</string>
     <string name="sleep_deep_light_close_tip">Deep sleep analysis is off</string>
+    <string name="sleep_deep_light_no_data">No data here yet</string>
+    <string name="sleep_deep_light_no_data_improvement">"Couldn't detect sleep phases. We're improving our algorithms. Stay tuned!"</string>
     <string name="sleep_detection_enable">Analyze sleep cycle</string>
     <string name="sleep_detection_feedback">Feedback</string>
     <string name="sleep_detection_guide_four_description">Sleep tracking will consume around 1% of your battery daily.</string>
@@ -469,7 +485,11 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="sleep_detection_question_four_title">Why do different devices consume different amounts of power to track sleep?</string>
     <string name="sleep_detection_question_one_answer">"When your device is turned off, rebooted, or the battery is low, sleep tracking will be interrupted because sensors can't collect and analyze data. In such cases, sleep stats will appear incomplete.
 If this problem occurs frequently, check your device for scheduled shutdown tasks or overnight system updates."</string>
+    <string name="sleep_detection_question_one_answer_1">"Deep and light sleep phases are detected based on body movement data collected by the sensors of your device. Here's why you might not be able to see the stats:
+1. Xiaomi Health couldn't collect data. This might happen when your device powers off while you're sleeping, its battery is too low, or the app isn't allowed to work in the background. Allow Xiaomi Health to autostart, add it to Battery saver exceptions, and lock it in the background to prevent this from happening.
+2. Xiaomi Health couldn't analyze the collected data. This might happen when your phone is placed too far from your body when you sleep. Alternatively, your body movement might be too subtle to make any assumptions about your sleep cycle changes. We're constantly improving our algorithms to make Xiaomi Health analyze your sleep better."</string>
     <string name="sleep_detection_question_one_title">Why are my stats incomplete?</string>
+    <string name="sleep_detection_question_one_title_1">"Why don't I see sleep cycle stats?"</string>
     <string name="sleep_detection_question_three_answer">Your device tracks your body movement during sleep using built-in sensors. To make stats more accurate, place the device on a soft surface close to your body. Avoid placing it on bedside tables or too far away from the mattress.</string>
     <string name="sleep_detection_question_three_title">How can I make my stats more accurate?</string>
     <string name="sleep_detection_question_two_answer">"Your sleep cycles are analyzed on the device locally. Sleep tracking will work even when you aren't connected to the network or your current connection is interrupted."</string>
@@ -517,14 +537,18 @@ nem találhatók"</string>
     <string name="sleep_service">Alvás nyomon követési szolgáltatás</string>
     <string name="sleep_service_background_running">Alvás nyomon követési szolgáltatás fut a háttérben</string>
     <string name="sleep_setting_title">Sleep settings</string>
-    <string name="sleep_snore_audio_auto">Track your audio</string>
-    <string name="sleep_snore_audio_auto_desc">Records your talk when you are sleeping and store the file in your phone to protect your privacy safely.</string>
-    <string name="sleep_snore_audio_close_desc">You can disable it in sleep settings.</string>
-    <string name="sleep_snore_audio_enable">The detections is enable</string>
-    <string name="sleep_snore_audio_enable_desc">Tonight, your sleep will be tracked automatically.</string>
-    <string name="sleep_snore_audio_hight_power_desc">Make sure your device is sufficiently charged before you go to bed.</string>
+    <string name="sleep_snore_audio_auto">Record snoring and talking automatically</string>
+    <string name="sleep_snore_audio_auto_desc">Xiaomi Health can record snoring and talking automatically based on your bedtime schedule. The recording will stop when you get up.</string>
+    <string name="sleep_snore_audio_close_desc">You can turn this feature off in the Settings anytime.</string>
+    <string name="sleep_snore_audio_enable">Automatic detection is on</string>
+    <string name="sleep_snore_audio_enable_desc">Your snoring and talking will be recorded automatically when you go to sleep.</string>
+    <string name="sleep_snore_audio_file_mamagement_desc">建议开启。保留最新100MB的鼾声梦话音频，自动清理较旧音频，避免占用过多存储空间。</string>
+    <string name="sleep_snore_audio_file_mamagement_title">自动清理音频文件</string>
+    <string name="sleep_snore_audio_file_saved">音频文件保存在本地</string>
+    <string name="sleep_snore_audio_file_saved_desc">检测采用离线算法，音频文件保存在手机，个人隐私安全有保障。</string>
+    <string name="sleep_snore_audio_hight_power_desc">"Remember that using this feature consumes a substantial amount of power. It's a good idea to keep your charger connected while you sleep to avoid unexpected interruptions."</string>
     <string name="sleep_snore_detection">Detect snoring and talking</string>
-    <string name="sleep_snore_detection_desc">Track your sleep</string>
+    <string name="sleep_snore_detection_desc">Detect snoring and talking to learn more about your sleep</string>
     <string name="sleep_sober">Awake</string>
     <string name="sleep_sober_times_title">Woke up</string>
     <string name="sleep_status">Alvás állapota</string>
@@ -554,11 +578,13 @@ nem találhatók"</string>
     <string name="snore_detection_model_hint">Snoring and talking detection algorithms provided by Snail Sleep</string>
     <string name="snore_detection_running_state">Detecting…</string>
     <string name="snore_detection_running_state_description">Microphone is on. It will keep working in the background.</string>
+    <string name="snore_detection_sotp_opt_1">Stop and delete results</string>
+    <string name="snore_detection_sotp_opt_2">Stop and save results</string>
     <string name="snore_detection_stop_pop_content">"You won't be able to resume this session if you end it now. Next session will start when you go to bed next time."</string>
-    <string name="snore_detection_stop_pop_title">End session now?</string>
+    <string name="snore_detection_stop_pop_title">Stop the current session of snore detection?</string>
     <string name="snore_dream_talk">Snoring and talking</string>
-    <string name="snore_duration_label">Snore duration</string>
-    <string name="snore_label">Snore</string>
+    <string name="snore_duration_label">Duration of snoring</string>
+    <string name="snore_label">Snoring</string>
     <string name="snore_record_audio_delete_message">"This recording is stored on your device only. You won't be able to restore it if you delete it.Delete anyway?"</string>
     <string name="snore_record_audio_delete_title">Delete recording?</string>
     <string name="snore_section">Snoring %1$s</string>
@@ -603,9 +629,13 @@ nem találhatók"</string>
     <string name="title_no_record_menstruation">Még nem rögzített menstruációt.</string>
     <string name="title_run_in_background">Fusson a háttérben</string>
     <string name="title_select_birthday">Select birthday</string>
+    <string name="title_select_birthday_description">"We'll adjust our services to your age"</string>
     <string name="title_select_gender">Select gender</string>
+    <string name="title_select_gender_description">"We'll adjust our services to your gender"</string>
     <string name="title_select_height">Set height</string>
+    <string name="title_select_height_description">This will make our stats more accurate</string>
     <string name="title_select_weight">Set weight</string>
+    <string name="title_select_weight_description">This will make our stats more accurate</string>
     <string name="title_start_use">Start</string>
     <string name="title_start_use_menstruation_assistant">Rögzítse menstruációs ciklusát</string>
     <string name="title_today_exercise_detail">Mai tevékenység</string>
@@ -644,8 +674,15 @@ Frissíti most?"</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
     <string name="walk">Walking</string>
+    <string name="welcome_exercise">Track workouts</string>
+    <string name="welcome_exercise_description">Carry your device with you to track workouts automatically</string>
+    <string name="welcome_sedentary">Keep moving</string>
+    <string name="welcome_sedentary_description">"Xiaomi Health can remind you to stand up when you're sitting for a long time"</string>
+    <string name="welcome_sleep">Analyze sleep cycle</string>
+    <string name="welcome_sleep_description">Put your phone next to you to learn about your sleep cycle in the morning</string>
+    <string name="welcome_start_use">Start</string>
     <string name="well">Good</string>
-    <string name="write_strorage_perm_description">Record the problems you encountered in use</string>
+    <string name="write_strorage_perm_description">A felmerült problémákra vonatkozó információ mentésére</string>
     <string name="year">Év</string>
     <string name="yesterday">Tegnap</string>
 </resources>

@@ -28,6 +28,14 @@
         <item quantity="other">%d felvétel letöltve</item>
         <item quantity="one">%d felvétel letöltve</item>
     </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">Keresés %d felvétel között</item>
+        <item quantity="one">Keresés %d felvétel között</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Keresés %d hívásrögzítés között</item>
+        <item quantity="one">Keresés %d hívásrögzítés között</item>
+    </plurals>
     <plurals name="search_result">
         <item quantity="other">%d felvételt találtunk</item>
         <item quantity="one">%d felvételt találtunk</item>

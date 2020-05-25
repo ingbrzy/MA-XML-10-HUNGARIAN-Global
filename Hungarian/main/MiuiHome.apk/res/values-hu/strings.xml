@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
-    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_bar_up_description">Fel</string>
     <string name="abc_action_menu_overflow_description">További lehetőségek</string>
     <string name="abc_action_mode_done">Kész</string>
-    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
-    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
     <string name="abc_capital_off">KI</string>
     <string name="abc_capital_on">BE</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -170,9 +170,13 @@
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">A klónozott alkalmazások ezekkel együtt el lesznek távolítva.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">A klónozott alkalmazás ezzel együtt el lesz távolítva.</string>
     <string name="confirm_uninstall_dialog_title">A klónozott alkalmazások el lesznek távolítva</string>
+    <string name="content_description_button_add">Az aktuális alkalmazásokhoz való hozzáadáshoz koppintson</string>
+    <string name="content_description_button_disable">Nem adható hozzá több aktuális alkalmazás</string>
+    <string name="content_description_button_remove">Az aktuális alkalmazások közül való eltávolításhoz koppintson</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s，kijelölve</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s，nincs kijelölve</string>
     <string name="content_description_workspace_thumbnail_item">Képernyő előnézet, %1$s. oldal</string>
+    <string name="copy">Másolás</string>
     <string name="current_preview">Előnézet</string>
     <string name="current_wallpaper">Jelenlegi</string>
     <string name="custom_wallpaper_picker">Egyéni</string>
@@ -226,6 +230,7 @@
     <string name="emptyplaylist">A lejátszási lista üres</string>
     <string name="enable_wallpaper_scroll">Háttérkép görgetés bekapcsolása</string>
     <string name="encryption">Titkosítás</string>
+    <string name="expand_button_title">Speciális</string>
     <string name="failed_to_delete_temporary">Nem lehet törölni</string>
     <string name="failed_to_drop">Nem sikerült az áthelyezés</string>
     <string name="failed_to_drop_widget_invalid">Ez a widget érvénytelen</string>
@@ -355,6 +360,7 @@
     <string name="no_space_toast">Nincs elég szabad hely</string>
     <string name="no_space_toast_when_click_widget">Nincs elég hely ezen az oldalon. Próbálja másik oldalra húzni ezt a tételt.</string>
     <string name="normal_wallpaper">Háttérkép</string>
+    <string name="not_set">Nincs beállítva</string>
     <string name="notification_installed">Sikeresen telepítve</string>
     <string name="notification_open_button">Megnyitás</string>
     <string name="notification_reset_title">Ikonok sikeresen elrendezve</string>
@@ -367,11 +373,13 @@
     <string name="open_personal_assistant_dialog_title">Gyorselérési kártyák kikapcsolása</string>
     <string name="open_personal_assistant_title">Gyorselérési kártyák</string>
     <string name="out_of_space">Nincs több hely ezen a képernyőn.</string>
+    <string name="perfect_icons_switch_summary">Animációk megjelenítése harmadik fél alkalmazásikonjain</string>
+    <string name="perfect_icons_switch_title">Globális ikonanimációk</string>
     <string name="permdesc_install_shortcut">Lehetővé teszi az alkalmazás számára a parancsikonok létrehozását a felhasználó beavatkozása nélkül.</string>
-    <string name="permdesc_install_widget">Lehetővé teszi a Widget hozzáadást felhasználói beavatkozás nélkül.</string>
+    <string name="permdesc_install_widget">Lehetővé teszi egy alkalmazás számára, hogy minialkalmazásokat adjon hozzá a felhasználó további közreműködése nélkül.</string>
     <string name="permdesc_read_settings">Engedélyezi, hogy az alkalmazás hozzáférjen a Kezdőképernyő beállításaihoz és parancsikonjaihoz.</string>
     <string name="permdesc_uninstall_shortcut">Lehetővé teszi az alkalmazás számára a parancsikonok eltávolítását a felhasználó beavatkozása nélkül.</string>
-    <string name="permdesc_uninstall_widget">Lehetővé teszi a widgetek törlését felhasználói beavatkozás nélkül.</string>
+    <string name="permdesc_uninstall_widget">Lehetővé teszi egy alkalmazás számára, hogy minialkalmazásokat távolítson el a felhasználó további közreműködése nélkül.</string>
     <string name="permdesc_write_settings">Engedélyezi, hogy az alkalmazás változtasson a Kezdőképernyő beállításain és parancsikonjain.</string>
     <string name="permlab_install_shortcut">Parancsikonok hozzáadása</string>
     <string name="permlab_install_widget">Widgetek telepítése</string>
@@ -396,6 +404,7 @@
     <string name="pref_render_in_truecolor_title">Nagy felbontású grafika</string>
     <string name="pref_screen_transformation_type_title">Képernyők közötti átmeneti hatások</string>
     <string name="pref_wallpaper_scroll_type_title">Háttérkép mozgatás típusok</string>
+    <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="preferences_general_title">További beállítások</string>
     <string name="preferences_title">Kezdőképernyő beállításai</string>
     <string name="preferred_app_settings_not_selected">Nincs kiválasztott</string>
@@ -416,6 +425,7 @@
     <string name="recents_exit_multi_window_mode">Kilépés</string>
     <string name="recents_forbid_dock_when_screening_toast_text">Kivetítés közben nem használhatja az Osztott képernyőt</string>
     <string name="recents_incompatible_app_message">Az alkalmazás nem támogatja az Osztott képernyős módot</string>
+    <string name="recents_smallwindow_text">Engedje el a hozzáadáshoz</string>
     <string name="recents_task_screening">Kivetítés</string>
     <string name="recents_title_app_manager">Alkalmazáskezelés</string>
     <string name="recents_title_game">Játékok</string>
@@ -423,6 +433,7 @@
     <string name="recents_title_garbage_deepclean">Mélytisztítás</string>
     <string name="recents_title_market">Alkalmazáskeresés</string>
     <string name="recents_title_security_scan">Biztonsági ellenőrzés</string>
+    <string name="recents_tv_small_window_text">Lebegő ablakok</string>
     <string name="recommend_apk_size_and_desc">%1$dMB / %2$s</string>
     <string name="recommend_app">Javasolt alkalmazások</string>
     <string name="recommend_apps_default_title">Üres</string>
@@ -467,11 +478,19 @@
     <string name="show_most_popular_apps_you_used">Leggyakrabban használt alkalmazások megjelenítése a listában</string>
     <string name="show_recents_recommend_title">A Biztonság javaslatainak megjelenítése</string>
     <string name="slide_to_open_newhome">Csúsztassa fel a Tartalomközpont megnyitásához</string>
+    <string name="small_window_button_complete">Kész</string>
+    <string name="small_window_edit_content">Maximálisan %d alkalmazást adhat hozzá</string>
+    <string name="small_window_edit_title">Jelenlegi alkalmazások</string>
+    <string name="small_window_empty">Kiválasztás az elérhető alkalmazások közül</string>
+    <string name="small_window_select_title">Elérhető alkalmazások</string>
+    <string name="small_window_title_text">Lebegő ablak megnyitásához koppintson</string>
+    <string name="small_window_toast">Maximálisan %d alkalmazást adhat hozzá</string>
     <string name="sort_by_abc">Név szerint</string>
     <string name="sort_by_frequency">Haszn. gyak. szerint</string>
     <string name="sort_by_not_defined">Alapértelmezett sorrend</string>
     <string name="start_activity_failed">Nem sikerült az elindítás, próbálja meg később</string>
     <string name="starting_preset_app">Kezdő...</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_info1">%1$s B/%2$s B elérhető</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="status_downloaded">Letöltve</string>
@@ -479,6 +498,7 @@
     <string name="status_installing">Telepítés</string>
     <string name="status_paused">Szüneteltetve</string>
     <string name="status_pending">Várakozás</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="switch_personal_assistant_app_vault">Gyorselérési kártyák</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Egyik sem</string>
@@ -510,6 +530,8 @@
     <string name="uninstall_xspace_dialog_title_format">Klónozott \"%s\" eltávolítása</string>
     <string name="unknown_artist_name">Ismeretlen előadó</string>
     <string name="unnamed_folder_name">Mappa</string>
+    <string name="v7_preference_off">KI</string>
+    <string name="v7_preference_on">BE</string>
     <string name="wallpaper">Háttérkép</string>
     <string name="wallpaper_auto_change_title">Képernyőzár</string>
     <string name="wallpaper_failed_message">Nem lehet beállítani háttérképként</string>

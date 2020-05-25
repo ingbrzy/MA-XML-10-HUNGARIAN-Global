@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Fel</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Az összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="access_denied">Hozzáférés megtagadva</string>
     <string name="account_related">A készülék hozzá van rendelve egy már létező Mi Fiókhoz (%s). Csatlakozzon a hálózathoz és ellenőrizze készülékét.</string>
     <string name="activate_find_device_success">Készülékkeresés aktiválva lett.</string>
@@ -24,6 +51,7 @@
     <string name="cloud_storage_default_title">Felhő tárhely</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
+    <string name="cloud_storage_info_type_family">Család</string>
     <string name="cloud_storage_info_type_others">Egyéb</string>
     <string name="cloud_storage_info_type_pdc">Rendszerbeállítások</string>
     <string name="cloud_storage_loading_data">Egy pillanat…</string>
@@ -34,20 +62,22 @@
     <string name="confirm_save">Megtartás</string>
     <string name="connect_network">Csatlakozzon Wi-Fi-hez vagy helyezzen be egy SIM kártyát</string>
     <string name="connect_wlan">Csatlakozzon a Wi-Fi-hez</string>
+    <string name="copy">Másolás</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">A fiókot egy másik eszközön is használják. Összefűzi a több alkalmazásból (beleértve a(z) %1$s és a(z) %2$s alkalmazásokat is) származó fájlokat az ezen az eszközön megtalálható fájlokkal?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">A fiókot egy másik eszközön is használják. Összefűzi a(z) %s helyről származó fájlokat az ezen az eszközön megtalálható fájlokkal?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">A fiókot egy másik eszközön is használják. Összefűzi a(z) %1$s és a(z) %2$s helyről származó fájlokat az ezen az eszközön megtalálható fájlokkal?</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two">Az eszközön megtalálható, több alkalmazásból származó (beleértve a(z) %1$s és a(z) %2$s alkalmazásokat is) származó fájlok összevonásra kerülnek a felhőben megtalálható fájlokkal. Összefűzi most a fájlokat?</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two_pad">Az eszközön megtalálható, több alkalmazásból származó (beleértve a(z) %1$s és a(z) %2$s alkalmazásokat is) származó fájlok összevonásra kerülnek a felhőben megtalálható fájlokkal. Összefűzi most a fájlokat?</string>
-    <string name="data_merge_dialog_alert_msg_one">Az eszközön megtalálható, a(z) %s alkalmazásból származó fájlok összevonásra kerülnek a felhőben megtalálható fájlokkal. Összefűzi most a fájlokat?</string>
-    <string name="data_merge_dialog_alert_msg_one_pad">Az eszközön megtalálható, a(z) %s alkalmazásból származó fájlok összevonásra kerülnek a felhőben megtalálható fájlokkal. Összefűzi most a fájlokat?</string>
-    <string name="data_merge_dialog_alert_msg_two">Az eszközön megtalálható, a(z) %1$s és a(z) %2$s alkalmazásokból származó fájlok összevonásra kerülnek a felhőben megtalálható fájlokkal. Összefűzi most a fájlokat?</string>
-    <string name="data_merge_dialog_alert_msg_two_pad">Az eszközön megtalálható, a(z) %1$s és a(z) %2$s alkalmazásokból származó fájlok összevonásra kerülnek a felhőben megtalálható fájlokkal. Összefűzi most a fájlokat?</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two">A több forrásból, így többek között a(z) %1$s és %2$s alkalmazásokból származó elemek a Xiaomi Cloudban vannak tárolva. Szinkronizálja és összevonja őket az ezen a készüléken található elemekkel?</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two_pad">A több forrásból, így többek között a(z) %1$s és %2$s alkalmazásokból származó elemek a Xiaomi Cloudban vannak tárolva. Szinkronizálja és összevonja őket az ezen a készüléken található elemekkel?</string>
+    <string name="data_merge_dialog_alert_msg_one">A(z) %s alkalmazásból származó elemek a Xiaomi Cloudban vannak tárolva. Szinkronizálja és összevonja őket az ezen a készüléken található elemekkel?</string>
+    <string name="data_merge_dialog_alert_msg_one_pad">A(z) %s alkalmazásból származó elemek a Xiaomi Cloudban vannak tárolva. Szinkronizálja és összevonja őket az ezen a készüléken található elemekkel?</string>
+    <string name="data_merge_dialog_alert_msg_two">A(z) %1$s és %2$s alkalmazásokból származó elemek a Xiaomi Cloudban vannak tárolva. Szinkronizálja és összevonja őket az ezen a készüléken található elemekkel?</string>
+    <string name="data_merge_dialog_alert_msg_two_pad">A(z) %1$s és %2$s alkalmazásokból származó elemek a Xiaomi Cloudban vannak tárolva. Szinkronizálja és összevonja őket az ezen a készüléken található elemekkel?</string>
     <string name="data_merge_dialog_loading">Adatok ellenőrzés…</string>
+    <string name="data_merge_dialog_title">Elemek összevonása</string>
     <string name="data_protection_title">Adatvédelem</string>
     <string name="detect_sim_card">SIM-kártya keresése</string>
     <string name="disable_find_device_error">Nem lehet kikapcsolni a Készülékkeresést. %1$s</string>
-    <string name="do_not_merge">Ne fűzze össze őket</string>
+    <string name="do_not_merge">Mégse</string>
     <string name="enable_find_device_error">Nem lehet bekapcsolni a Készülékkeresést. %1$s</string>
     <string name="enable_find_device_success">Készülékkeresés bekapcsolva.</string>
     <string name="enable_micloud">A Xiaomi Cloud használatához jelentkezzen be</string>
@@ -57,8 +87,12 @@
     <string name="error_network">Nem sikerült csatlakozni a hálózathoz</string>
     <string name="error_server">Szerverhiba</string>
     <string name="error_unknown">A bejelentkezés sikertelen</string>
+    <string name="expand_button_title">Speciális</string>
+    <string name="feedback_custom_hint">Írja le a problémákat, amelyeket észlelt. Ha javaslatokat tesz, nagyra értékelnénk, ha részletekbe bocsájtkozna.</string>
     <string name="find_device">Készülékkeresés</string>
     <string name="find_device_dspt_provision">Elveszett készüléke helyének meghatározásához, zárolásához, illetve az adatok törléséhez látogasson el a(z) &lt;font color=#0097FF>%s&lt;/font> weboldalra. Ez a funkció bármikor ki- vagy bekapcsolható a Beállítások menüpontban.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Ellenőrizze az adatkapcsolatot és próbálja újra.</string>
     <string name="find_device_error_server">Szerverhiba</string>
     <string name="find_device_gdpr_prompt">A Készülékkeresés bekapcsolásával Ön elfogadja az <a href="app://com.miui.cloudservice.gdpr.license"><u>Adatvédelmi Irányelvek</u></a>-et. Ha vissza kívánja vonni ezt az engedélyt, kapcsolja ki a funkciót.</string>
@@ -115,6 +149,9 @@
     <string name="menu_add_feedback">Visszajelzés</string>
     <string name="menu_add_short_cut">Hozzon létre egy parancsikont a Kezdőképernyőn</string>
     <string name="merge">Összefűzés</string>
+    <string name="mi_drive_not_publish_toast">A Mi Drive hamarosan elérhetővé válik</string>
+    <string name="mi_drive_summary">Hozzáférés dokumentumokhoz a Xiaomi Cloudból több készüléken</string>
+    <string name="mi_drive_title">Mi Drive</string>
     <string name="micloud_alert_dialog_positive">OK</string>
     <string name="micloud_all_sub_1_intl_sms">A SIM-kártya aktiválásához nemzetközi SMS küldése szükséges. Ezt a szolgáltatója ki fogja számlázni Önnek.</string>
     <string name="micloud_all_sub_1_sms">A SIM-kártya aktiválásához normál díjas SMS küldése szükséges. Ezt a szolgáltatója ki fogja számlázni Önnek.</string>
@@ -195,15 +232,18 @@ A készüléke elvesztése esetén meghatározhatja a helyét és lezárhatja."<
     <string name="micloud_find_device_open_fail">Nem sikerült bekapcsolni a Készülékkeresést</string>
     <string name="micloud_find_device_opened">Készülékkeresés bekapcsolva</string>
     <string name="micloud_find_device_opened_content">Készülékkeresés itt: %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">A szolgáltatás aktiválásához egy kimenő SMS lehet szükséges. Ezt a szolgáltatója ki fogja Önnek számlázni. SIM-kártya cseréje esetén a szolgáltatás újraaktiválásához szükséges SMS automatikusan küldésre kerülhet.</string>
     <string name="micloud_find_device_verify_button">Készülékkeresés újraaktiválása</string>
     <string name="micloud_find_device_verify_close">Készülékkeresés kikapcsolása</string>
     <string name="micloud_find_device_verify_fail">Készülékkeresés újraaktiválása sikertelen</string>
     <string name="micloud_find_device_verify_progress">Készülékkeresés újraaktiválása…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">A szinkronizálás törölve lett. Próbálja újra.</string>
     <string name="micloud_main_head_menu_cloud_backup">Mentések</string>
-    <string name="micloud_main_head_menu_cloud_backup_summary">Kezdőképernyő-elrendezés, alkalmazás- és rendszerbeállítások</string>
-    <string name="micloud_main_head_menu_finddevice_summary">Mérje be és zárolja a készülékét, ha elveszíti</string>
+    <string name="micloud_main_head_menu_cloud_backup_summary">Rendszerbeállítások és Kezdőképernyő-elrendezés</string>
+    <string name="micloud_main_head_menu_finddevice_summary">Keresse meg és zárja le készülékét</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">A Második asztalon nem elérhető a Készülékkeresés, az Első asztalon tudja használni.</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">Törölt elemek visszaállítása</string>
     <string name="micloud_main_head_menu_recycle_bin_title">Törölt elemek</string>
@@ -340,7 +380,7 @@ A készüléke elvesztése esetén meghatározhatja a helyét és lezárhatja."<
     <string name="micloud_warn_full_title">A tárhely megtelt</string>
     <string name="micloud_warn_low_sum">Az Ön Xiaomi Cloud-tárhelye 90%-ban foglalt.</string>
     <string name="micloud_warn_low_title">A tárhely hamarosan megtelik</string>
-    <string name="micloud_web_discription_place_holder">Nyissa meg számítógépén a(z) %1$s weboldalt, hogy kezelhesse adatait.</string>
+    <string name="micloud_web_discription_place_holder">Nyissa meg számítógépén az %1$s weboldalt, hogy kezelhesse adatait.</string>
     <string name="micloud_wipe_data_confirm_label">Adateltávolítás a Xiaomi Cloudból</string>
     <string name="micloud_wipe_data_confirm_title">A kijelentkezés után a Xiaomi Clouddal már szinkronizált elemeket törli a telefonról?</string>
     <string name="micloud_wipe_data_remove">Eltávolítás</string>
@@ -364,6 +404,7 @@ Ez a szolgáltatás titkosítja és elküldi a Mi szervereire az Ön készülék
     <string name="mx_sub_dspt_provision_with_voip">Internetes (VoIP) hívás</string>
     <string name="mx_voip_dspt">Mi Hanghívás</string>
     <string name="no_sim">Nem található SIM-kártya</string>
+    <string name="not_set">Nincs beállítva</string>
     <string name="pay_info_dialog_confirm_to_pay">Fizessen %s összeget</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Hátralévő Mi kreditek felhasználása: %s</string>
     <string name="pay_info_dialog_title">Válasszon fizetési módot</string>
@@ -373,6 +414,7 @@ Ez a szolgáltatás titkosítja és elküldi a Mi szervereire az Ön készülék
     <string name="pref_summary_sync_display_photo_on_wifi_only">A névjegyzék profilképeinek szinkronizálása csak Wi-Fi-kapcsolat esetén</string>
     <string name="pref_title_sync_contacts_title">Névjegyek szinkronizálása</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Fényképek szinkronizálása csak Wi-Fi kapcsolat esetén</string>
+    <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="privacy_and_agreement">Felhasználási feltételek</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Üdvözöljük, ez a Készülékkeresés! A szolgáltatással meghatározhatja készüléke helyzetét, zárolhatja és törölheti róla az adatokat, ha elveszett.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Üdvözöljük, ez a Készülékkeresés! A szolgáltatással meghatározhatja készüléke helyzetét, zárolhatja és törölheti róla az adatokat, ha elveszett.</string>
@@ -394,6 +436,7 @@ Ez a szolgáltatás titkosítja és elküldi a Mi szervereire az Ön készülék
     <string name="search_finddevice_pref_desc">Készülékkeresés be-/kikapcsolása</string>
     <string name="search_finddevice_pref_key_words">készülékkeresés, készülék keresése</string>
     <string name="search_finddevice_pref_path">Mi Fiók/Xiaomi Cloud/Készülékkeresés</string>
+    <string name="search_menu_title">Keresés</string>
     <string name="share_cancel">Megosztás megszakítva</string>
     <string name="share_failed">Megosztás sikertelen</string>
     <string name="share_miliao_not_installed">Mi Talk nincs telepítve.</string>
@@ -404,16 +447,21 @@ Ez a szolgáltatás titkosítja és elküldi a Mi szervereire az Ön készülék
     <string name="soundrecorder_sync_only_in_wifi">Szinkronizálás csak Wi-Fi kapcsolat esetén</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">A hangrögzítő nem fogja a mobiladat-kapcsolatot használni a felvételek fel- és letöltéséhez</string>
     <string name="soundrecorder_sync_records">Szinkronizálás a Xiaomi Clouddal</string>
+    <string name="special_func_title">Speciális funkciók</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_expansion">Szerezzen többet</string>
     <string name="storage_manage_list_title">Felhőben tárolt adatok</string>
     <string name="storage_manage_list_title_action">Továbbiak megtekintése</string>
     <string name="storage_manage_renewal">Megújítás</string>
     <string name="storage_manage_title">A felhőtárhely-előfizetés módosítása</string>
     <string name="storage_manage_upgrade">Frissítés</string>
+    <string name="storage_upgrade_card_summary">Szerezzen még több tárhelyet a felhőben</string>
+    <string name="storage_upgrade_card_title">Bővítse csomagját</string>
     <string name="sub_alert_notif_content">Kapcsolja be a Xiaomi Cloud szolgáltatást</string>
     <string name="sub_alert_notif_title">Szinkronizálás a Xiaomi Clouddal</string>
     <string name="sub_sync_item_sms_summary">Képet, hangot vagy más médiát tartalmazó üzenetek szinkronizálása csak Wi-Fi-kapcsolat esetén</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS szinkronizálása csak Wi-Fi kapcsolat esetén</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_detail_summary_master_sync_off">Szinkronizálás kikapcsolva</string>
     <string name="sync_detail_summary_off">Szinkronizálás kikapcsolva</string>
     <string name="sync_detail_text">A szinkronizálás részletei</string>
@@ -426,6 +474,8 @@ Ez a szolgáltatás titkosítja és elküldi a Mi szervereire az Ön készülék
     <string name="sync_dspt_entrance_provision_network">Az alkalmazás megfelelő működéséhez internetkapcsolat szükséges. Az adatok szinkronizálása mobiladat-kapcsolatot vagy Wi-Fi kapcsolatot igényel.</string>
     <string name="sync_dspt_entrance_provision_skip">Lépés kihagyása</string>
     <string name="sync_dspt_provision">"Szinkronizálja fényképeit, névjegyeit, jegyzeteit és sok mást az összes Mi készülékére, vagy érje el őket itt "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". A szolgáltatás bármikor be- és kikapcsolható a Beállítások menüpontban.
 "</string>
     <string name="sync_item_calllog_summary">A beérkező és kimenő hívások listájának szinkronizálása</string>
@@ -455,6 +505,8 @@ Ez a szolgáltatás titkosítja és elküldi a Mi szervereire az Ön készülék
 "</string>
     <string name="user_agreement_title">A Xiaomi Cloud Felhasználási feltételei</string>
     <string name="user_storage_info_available_text_prefix">%s elérhető</string>
+    <string name="v7_preference_off">KI</string>
+    <string name="v7_preference_on">BE</string>
     <string name="waiting_for_sync">Várakozás…</string>
     <string name="warning_bar_action_add_short_cut">Hozzáadás</string>
     <string name="warning_bar_action_close">Bezárás</string>

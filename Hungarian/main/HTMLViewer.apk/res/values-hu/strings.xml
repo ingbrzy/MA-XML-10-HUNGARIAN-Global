@@ -19,6 +19,7 @@ egy másik készüléken nyissa meg ezt az oldalt: %s."</string>
     <string name="poco_privacy_policy">A POCO Launcher Adatvédelmi Irányelvei és Felhasználói Szerződése</string>
     <string name="policy_name">%s protokoll</string>
     <string name="pre_installed_apps">Előre telepített alkalmazások</string>
+    <string name="privacy_station_title">A Xiaomi adatvédelme</string>
     <string name="settings_ad_loading">Egy pillanat…</string>
     <string name="settings_ad_loading_unavailable">Az információ nem tölthető be.</string>
     <string name="settings_license_activity_loading">Egy pillanat…</string>
@@ -29,4 +30,5 @@ egy másik készüléken nyissa meg ezt az oldalt: %s."</string>
     <string name="settings_safetylegal_activity_unreachable">"Nem sikerült a hálózathoz csatlakozni. Az információ megtekintéséhez
 egy másik számítógépen nyissa meg ezt az oldalt: %s."</string>
     <string name="settings_safetylegal_title">Biztonsági információ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

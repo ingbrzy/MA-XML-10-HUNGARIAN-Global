@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="extra_photo_common_save_fail">Sikertelen mentés</string>
     <string name="extra_photo_common_saving">Mentés…</string>
-    <string name="motion_photo_re_pick_title">A legjobb fénykép kiválasztása</string>
+    <string name="motion_photo_cancel">Mégse</string>
+    <string name="motion_photo_re_pick_title">Élő kép</string>
+    <string name="motion_photo_save_fail">Sikertelen mentés</string>
+    <string name="motion_photo_save_gif">Mentés GIF-ként</string>
+    <string name="motion_photo_save_gif_ing">GIF mentése…</string>
+    <string name="motion_photo_save_image">Legjobb kép mentése</string>
+    <string name="motion_photo_save_image_ing">Legjobb kép mentése…</string>
+    <string name="motion_photo_save_video">Mentés videóként</string>
+    <string name="motion_photo_save_video_ing">Videó mentése…</string>
     <string name="motion_photo_toast_default">Alapértelmezett</string>
+    <string name="motion_photo_toast_long_press_play">A lejátszáshoz tartsa lenyomva</string>
     <string name="motion_photo_toast_suggest">Ajánlott</string>
     <string name="refocus_discard_confirm_message">Elmenti a változásokat?</string>
     <string name="refocus_discard_negative_btn">Elvetés</string>

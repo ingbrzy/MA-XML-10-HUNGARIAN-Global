@@ -28,6 +28,10 @@
         <item quantity="other">A tartalmad olyan elemeket (%1$s) tartalmaz, amelyek sértik a közösségi alapelveinket. Fiókod %2$d napig, vagyis eddig: %3$s felfüggesztésre kerül.</item>
         <item quantity="one">A tartalmad olyan elemeket (%1$s) tartalmaz, amelyek sértik a közösségi alapelveinket. Fiókod %2$d napig, vagyis eddig: %3$s felfüggesztésre kerül.</item>
     </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">A funkció %s napra kikapcsolásra kerül</item>
+        <item quantity="one">A funkció %s napra kikapcsolásra kerül</item>
+    </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d videó</item>
         <item quantity="one">%d videó</item>

@@ -4,6 +4,58 @@
         <item quantity="other">%d játék hozzáadva</item>
         <item quantity="one">%d játék hozzáadva</item>
     </plurals>
+    <plurals name="app_behavior_desc_allow">
+        <item quantity="other">%3$d időpontban, %1$s és %2$s között engedélyezve</item>
+        <item quantity="one">%3$d időpontban, %1$s és %2$s között engedélyezve</item>
+    </plurals>
+    <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">%2$d alkalommal engedélyezve %1$s időpontban.</item>
+        <item quantity="one">%2$d alkalommal engedélyezve %1$s időpontban.</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">%3$d időpontban, %1$s és %2$s között korlátozva</item>
+        <item quantity="one">%3$d időpontban, %1$s és %2$s között korlátozva</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">%2$d alkalommal megtagadva %1$s időpontban.</item>
+        <item quantity="one">%2$d alkalommal megtagadva %1$s időpontban.</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual">
+        <item quantity="other">%3$d üres üzenet visszaküldve %1$s és %2$s között</item>
+        <item quantity="one">%3$d üres üzenet visszaküldve %1$s és %2$s között</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">%2$d üres üzenet visszaküldve %1$s időpontban.</item>
+        <item quantity="one">%2$d üres üzenet visszaküldve %1$s időpontban.</item>
+    </plurals>
+    <plurals name="app_behavior_notification_audio_more">
+        <item quantity="other">%2$d alkalmazás, beleértve a(z) %1$1s alkalmazást is, hangot rögzít</item>
+        <item quantity="one">%2$d alkalmazás, beleértve a(z) %1$1s alkalmazást is, hangot rögzít</item>
+    </plurals>
+    <plurals name="app_behavior_notification_camera_more">
+        <item quantity="other">%2$d alkalmazás, beleértve a(z) %1$1s alkalmazást is, képet készít</item>
+        <item quantity="one">%2$d alkalmazás, beleértve a(z) %1$1s alkalmazást is, képet készít</item>
+    </plurals>
+    <plurals name="app_behavior_notification_location_more">
+        <item quantity="other">%2$d alkalmazás, beleértve a(z) %1$1s alkalmazást is, hozzáfér az Ön tartózkodási helyéhez</item>
+        <item quantity="one">%2$d alkalmazás, beleértve a(z) %1$1s alkalmazást is, hozzáfér az Ön tartózkodási helyéhez</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">Ha %1$d alkalmazás érzékeny műveletet hajt végre, nem értesítjük</item>
+        <item quantity="one">Ha %1$d alkalmazás érzékeny műveletet hajt végre, nem értesítjük</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">Ha %1$d alkalmazás érzékeny műveletet hajt végre, értesítjük</item>
+        <item quantity="one">Ha %1$d alkalmazás érzékeny műveletet hajt végre, értesítjük</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">A(z) %1$1s elindított %2$d alkalmazást</item>
+        <item quantity="one">A(z) %1$1s elindított %2$d alkalmazást</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">Az alkalmazás elindított %1$d másik alkalmazást</item>
+        <item quantity="one">Az alkalmazás elindított %1$d másik alkalmazást</item>
+    </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">%d jogosultságot adott</item>
         <item quantity="one">%d jogosultságot adott</item>
@@ -176,6 +228,14 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="other">%d játék hozzáadva</item>
         <item quantity="one">%d játék hozzáadva</item>
     </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">%s óra</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s perc</item>
+        <item quantity="one">%s perc</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Kössön össze legalább %d pontot</item>
         <item quantity="one">Kössön össze legalább %d pontot</item>
@@ -267,6 +327,14 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d alkalmazás fogyasztja nagyon az akkumulátort</item>
         <item quantity="one">%d alkalmazás fogyasztja nagyon az akkumulátort</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">" ó"</item>
+        <item quantity="one">" ó"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">" p"</item>
+        <item quantity="one">" p"</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s nap</item>
@@ -368,6 +436,14 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="other">%s perc van hátra</item>
         <item quantity="one">%s perc van hátra</item>
     </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Rendben (%dmp)</item>
+        <item quantity="one">Rendben (%dmp)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">Készüléke %d másodperc múlva kikapcsol. Tegye töltőre.</item>
+        <item quantity="one">Készüléke %d másodperc múlva kikapcsol. Tegye töltőre.</item>
+    </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d alkalmazásikon rejtett</item>
         <item quantity="one">%d alkalmazásikon rejtett</item>
@@ -375,6 +451,14 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
     <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">%d alkalmazásikon nincs elrejtve</item>
         <item quantity="one">%d alkalmazásikon nincs elrejtve</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s alkalmazásnak tartós hozzáférése van</item>
+        <item quantity="one">%s alkalmazásnak tartós hozzáférése van</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s alkalommal</item>
+        <item quantity="one">%s alkalommal</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d akkumulátorprobléma</item>
