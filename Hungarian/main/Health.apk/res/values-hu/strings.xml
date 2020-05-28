@@ -125,7 +125,6 @@ to add cards"</string>
     <string name="date_format_y_m_d_h_m_3">MM/dd/yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_4">MM/dd/yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_h_m_s">yyyy.MM.dd. HH:mm:ss</string>
-    <string name="date_format_yyyy_m_d_h_m">MM/dd/yyyy HH:mm</string>
     <string name="date_week_index">"yyyy 'W'ww"</string>
     <string name="day">Nap</string>
     <string name="deep_light_detection_open_prompt">Your sleep cycle will be analyzed next time you go to bed</string>
