@@ -47,7 +47,9 @@
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -62,6 +64,7 @@
     <string name="not_set">Nincs beállítva</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>

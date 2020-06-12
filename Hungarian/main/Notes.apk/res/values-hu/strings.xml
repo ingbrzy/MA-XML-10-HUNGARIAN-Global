@@ -140,8 +140,11 @@
     <string name="first_enter_custom_folder_hint">Itt átnevezhet vagy törölhet mappákat</string>
     <string name="float_todo_guide_cancel">Mégse</string>
     <string name="float_todo_guide_message">A kezdőképernyő parancsikon segítségével csúsztathat a képernyő széléről, hogy látszódjanak a feladatok és létre lehessen azokat hozni. Létrehozza most a parancsikont?</string>
+    <string name="float_todo_guide_message_v2">A Kézmozdulat parancsikonnal megtekinthet és létrehozhat feladatokat a képernyő széléről való lapozással. A Beállításokban be- és kikapcsolhatja ezt a funkciót.</string>
     <string name="float_todo_guide_ok">Létrehozás</string>
+    <string name="float_todo_guide_ok_v2">Bekapcsolás</string>
     <string name="float_todo_guide_title">Kezdőképernyő parancsikon</string>
+    <string name="float_todo_guide_title_v2">Kézmozdulat parancsikon</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -294,6 +297,7 @@
     <string name="note_sort_way">Jegyzetrendezési mód</string>
     <string name="notealert_enter">Jegyzet megnyitása</string>
     <string name="notealert_ok">Elvetés</string>
+    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">Hozzáadott egy új feladatot. Koppintson a megtekintéshez.</string>
     <string name="notify_alarm_title">Jegyzet emlékeztető</string>
     <string name="permdesc_accessNote">Engedélyezésével a rosszindulatú alkalmazások is hozzáférhetnek személyes adataihoz.</string>
@@ -313,7 +317,9 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">A jegyzetek megerősítés nélküli törléséhez húzza fel két ujjal</string>
     <string name="pref_desc_todo_float_mode">A feladat eszköztár megnyitásához seperj az ujjaddal a képernyő szélétől befelé</string>
     <string name="pref_remind_type_summary">Emlékeztető hang lejátszásra Néma üzemmódban</string>
+    <string name="pref_remind_type_summary_new">Néma mód figyelmen kívül hagyása és hang lejátszása addig, amíg az ébresztő kikapcsolásra kerül</string>
     <string name="pref_remind_type_title">Néma üzemmód figyelmen kívül hagyása</string>
+    <string name="pref_remind_type_title_new">Elsőbbségi emlékeztetők</string>
     <string name="pref_title_cloud_trash_bin">Törölt jegyzetek a felhőben</string>
     <string name="pref_title_common">Egyéb beállítás</string>
     <string name="pref_title_font_size">Betűméret</string>
@@ -473,6 +479,7 @@
     <string name="toast_reach_text_limit_truncate">A jegyzet vége automatikusan le lesz vágva, mert túl hosszú.</string>
     <string name="toast_refuse_to_record_when_in_call">Hívás közben nem használhatja ezt a funkciót</string>
     <string name="toast_refuse_to_record_when_in_multi_window">Ez a funkció nem használható a Megosztott képernyővel</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">A funkció nem használható Osztott képernyőn vagy lebegő ablakban</string>
     <string name="toast_refuse_to_use_contact">"A névjegyzék engedélyek korlátozva vannak.
 A névjegyek elolvasásához és a fiókok eszközön való megkereséséhez engedélyezze a Jegyzeteket."</string>
     <string name="toast_refuse_to_use_external_storage">"A tárolási engedélyek korlátozva vannak.
@@ -556,6 +563,7 @@ Hang felvételéhez engedélyezze a Jegyzeteket."</string>
     <string name="toolbar_voice_description">Hang</string>
     <string name="trash_folder_name">Lomtár</string>
     <string name="trash_folder_reminder">A törölt jegyzetek 30 nap után véglegesen törlésre kerülnek.</string>
+    <string name="trash_folder_reminder_new">Notes are kept in the trash for 30 days before being permanently deleted</string>
     <string name="tuesday">Kedd</string>
     <string name="tuesday_short">Ked</string>
     <string name="tuesday_shortest">Ked</string>

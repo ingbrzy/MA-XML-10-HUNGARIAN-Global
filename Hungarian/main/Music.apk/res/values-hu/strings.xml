@@ -128,6 +128,7 @@
     <string name="button_sort_by_date">Rendezés dátum szerint</string>
     <string name="button_sort_by_size">Rendezés méret szerint</string>
     <string name="button_wait_for_wifi">Várakozás</string>
+    <string name="buy_vip_skip_ad">Hirdetések eltávolítása</string>
     <string name="cancel">Mégse</string>
     <string name="cancel_running_download">Mégse</string>
     <string name="cannot_download_to_sdcard_hint">Szerzői jogi korlátozások miatt nem tölthetők le az elemek az SD-kártyára. Az elemek a belső tárhelyre kerülnek letöltésre.</string>
@@ -271,7 +272,9 @@
     <string name="download_method">Letöltés</string>
     <string name="download_no_application_title">Nem lehet megnyitni a fájlt</string>
     <string name="download_paused_in_power_save_mode">Bekapcsolt Akkumulátorkímélő esetén a letöltések szünetelnek</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Letöltés…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Letöltés minősége</string>
     <string name="download_quality_summary">További beállítások a letölteni kívánt dalokhoz</string>
     <string name="download_queued">Várólistán</string>
@@ -352,7 +355,9 @@
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -457,6 +462,46 @@
     <string name="is_scanning">Tárhely ellenőrzése…</string>
     <string name="is_scanning_support_online">"Tárhely ellenőrzése……
 (Ezzel egyidőben hallgathat zenét online)"</string>
+    <string name="joox_account_bind_mi_account">Mi Fiók hozzáadása</string>
+    <string name="joox_account_cancel_login">Mégse</string>
+    <string name="joox_account_continue_login">Bejelentkezés</string>
+    <string name="joox_account_fans_center">Rajongói központ</string>
+    <string name="joox_account_login_conflict_message">Úgy tűnik, hogy be van jelentkezve egy másik készüléken. Bejelentkezik itt?</string>
+    <string name="joox_account_login_exception">Jelentkezzen be újra</string>
+    <string name="joox_account_multi_device_login">Több eszköz</string>
+    <string name="joox_area_check_failed">Úgy tűnik, Ön olyan területen tartózkodik, ahol a szolgáltatásaink nem állnak rendelkezésre. Csatlakozzon másik hálózathoz, és indítsa újra az alkalmazást.</string>
+    <string name="joox_auth_button_acquire_vip_instantly">Tegyen szert VIP-tagságra</string>
+    <string name="joox_auth_button_login_to_acquire_vip">Jelentkezzen be és tegyen szert VIP-tagságra</string>
+    <string name="joox_auth_dialog_message">Ajánlottunk Önnek néhány dalt. A korlátozások feloldásához tegyen szert VIP-tagságra.</string>
+    <string name="joox_auth_message_connect_network">Egy ideje nem csatlakozott a kiszolgálóhoz. A letöltött dalok lejátszásához csatlakozzon a hálózathoz.</string>
+    <string name="joox_auth_message_content_for_vip_only">Az elem kizárólag a VIP-tagok számára érhető el</string>
+    <string name="joox_auth_message_content_offline">Az online szolgáltatások most nem elérhetők. Számos dolgot javítani fogunk, és hamarosan újranyitjuk a hozzáférést. Maradjon kapcsolatban!</string>
+    <string name="joox_auth_message_login_status_expired">Időtúllépés történt. Jelentkezzen be újra.</string>
+    <string name="joox_auth_message_one_hour_limit_for_one_company">Óránként maximálisan hat dalt játszhat le ugyanarról a felvételi címkéről. Addig hallgasson meg néhányat az ajánlott dalok közül.</string>
+    <string name="joox_auth_message_recommend_for_you">Ajánlott</string>
+    <string name="joox_auth_message_update_vip_to_change_playlist">A lejátszási listák szerkesztéséhez tegyen szert VIP-tagságra</string>
+    <string name="joox_auth_message_update_vip_to_download">A letöltéshez tegyen szert VIP-tagságra</string>
+    <string name="joox_auth_message_update_vip_to_listen_offline">VIP-tagsága lejárt. Mostantól online hallgatja a dalokat. A dalok letöltéséhez tegyen szert VIP-tagságra.</string>
+    <string name="joox_auth_message_update_vip_to_play_on_demand">Szerzői jogi korlátozások miatt nem játszható le ez a dal. Próbálja ki a véletlenszerű lejátszást más dalok hallgatásához vagy tegyen szert VIP-tagságra és játssza le ezt a dalt.</string>
+    <string name="joox_auth_message_update_vip_to_seek_progress">Szerzői jogi korlátozások miatt nem módosítható a visszajátszási folyamat. A korlátozások feloldásához tegyen szert VIP-tagságra.</string>
+    <string name="joox_auth_message_update_vip_to_switch_songs">A dalok közötti váltáshoz tegyen szert VIP-tagságra</string>
+    <string name="joox_auth_message_update_vip_to_use_function">A funkció használatához tegyen szert VIP-tagságra</string>
+    <string name="joox_auth_title_download_song">Dalok letöltése</string>
+    <string name="joox_auth_title_login_again">Bejelentkezés</string>
+    <string name="joox_auth_title_long_time_no_network">Úgy tűnik, hogy egy ideje nem csatlakozott a hálózathoz</string>
+    <string name="joox_auth_title_shuffle_play">Véletlenszerű</string>
+    <string name="joox_auth_title_vip_content">VIP-tartalom</string>
+    <string name="joox_auth_title_vip_expired">Tagság lejárt</string>
+    <string name="joox_auth_title_vip_function">VIP-funkciók</string>
+    <string name="joox_download_title">JOOX letöltések</string>
+    <string name="joox_privacy_desc">A JOOX adatvédelmi irányelvei (opcionális)</string>
+    <string name="joox_privacy_tips_content">Az online szolgáltatások használata előtt olvassa el és fogadja el a<a href="/link/click">JOOX adatédelmi irányelveit</a>.</string>
+    <string name="joox_privacy_tips_title">A JOOX adatvédelmi nyilatkozata</string>
+    <string name="joox_recommend_artist_title">Ajánlott eladóművészek</string>
+    <string name="joox_recommend_playlist_title">Ajánlott lejátszási listák</string>
+    <string name="joox_search_result_more">Továbbiak</string>
+    <string name="joox_vip_check_to_pay">Vásárlás</string>
+    <string name="joox_vip_expired_hint">VIP-tagsága lejárt. A JOOX-ról letöltött dalok kizárólag a letöltéseknél fognak megjelenni.</string>
     <string name="keep_queued_download">Megőrzés</string>
     <string name="ktv_playlist">KTV lejátszási lista</string>
     <string name="language_page_confirm">Megerősítés</string>
@@ -673,6 +718,7 @@
     <string name="priority_storage_summary">Fájlok automatikus mentése az SD-kártyára, ha rendelkezésre áll</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
     <string name="privacy_policy">Adatvédelmi Irányelvek</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=hu_HU</string>
     <string name="pro_member">PRO tag</string>
     <string name="project_device">Mi Telefon</string>
     <string name="prompt_grant_write_settings_permission">Rendszerbeállítások módosításának engedélyezése</string>
@@ -801,12 +847,14 @@
     <string name="start_to_check_new_version">Frissítések keresése…</string>
     <string name="start_to_download">Letöltés…</string>
     <string name="start_to_play">Lejátszás</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Klónozott alkalmazások tárhelye</string>
     <string name="storage_internal">Belső tárhely</string>
     <string name="storage_sd_card">SD-kártya</string>
     <string name="storage_usb">USB-tárhely</string>
     <string name="streamloadingtext">Csatlakozás: %s</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="supplementary_songs">További dalok</string>
     <string name="switch_success">Sikeresen átváltva</string>
     <string name="tab_album">Albumok</string>
     <string name="tab_album_list">Albumok</string>
@@ -877,6 +925,7 @@
     <string name="upgrade_music_message">Frissítések készen állnak. Indítsa újra a frissítéshez.</string>
     <string name="upgrading_in_backstage">Frissítés a háttérben…</string>
     <string name="user_agreement">Felhasználói Szerződés</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=hu_HU</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
     <string name="version_info">Verzió</string>

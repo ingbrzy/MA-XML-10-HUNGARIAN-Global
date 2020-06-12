@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következővel: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="passport_access_denied">Hozzáférés megtagadva</string>
     <string name="passport_account_hint_text">E-mail cím, telefonszám vagy Mi Fiók azonosító</string>
     <string name="passport_account_identity_title">Személyazonosság igazolása</string>

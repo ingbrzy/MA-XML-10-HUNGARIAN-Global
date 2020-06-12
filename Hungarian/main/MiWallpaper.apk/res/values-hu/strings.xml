@@ -29,14 +29,20 @@
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="actionbar_button_up_description">Vissza</string>
     <string name="afternoon">Délután</string>
+    <string name="already_newest_version">Current version is up to date</string>
     <string name="am">DE</string>
+    <string name="cancel_download">Download canceled</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="copy">Másolás</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Kínai hagyományos naptár</string>
+    <string name="download_failed">"Couldn't download"</string>
     <string name="early_morning">Reggel</string>
+    <string name="earth_summary">A Föld az emberiség bölcsője</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">Otthon</string>
     <string name="empty" />
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
@@ -81,6 +87,24 @@
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
+    <string name="install_failed">"Couldn't install"</string>
+    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_title_0">"Nilosyrtis
+Mensae régió"</string>
+    <string name="mars_position_title_1">Gale Crater</string>
+    <string name="mars_position_title_2">"Crater in
+Mawrth Vallis"</string>
+    <string name="mars_summary">A Mars végtelen sivatagjai mindig is ámulatba ejtették az emberiséget</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">A vörös bolygó</string>
     <string name="midnight">Éjjel</string>
     <string name="miuix_appcompat_cloud_state_disabled">Felhőszinkronizálás kikapcsolva</string>
     <string name="miuix_appcompat_cloud_state_finished">Felhővel sikeresen szinkronizálva</string>
@@ -127,6 +151,8 @@
     <string name="more">Továbbiak</string>
     <string name="morning">Reggel</string>
     <string name="night">Este</string>
+    <string name="no_cta_agreed">"GetApps doesn't have CTA permissions"</string>
+    <string name="no_install_permission">"You don't have permissions to install this item"</string>
     <string name="noon">Dél</string>
     <string name="not_set">Nincs beállítva</string>
     <string name="pm">DU</string>
@@ -134,12 +160,22 @@
     <string name="saturday">Szombat</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
+    <string name="saturn_summary">A Szaturnusz gyűrűi mindig is a leghihetetlenebb látványosság volt a Naprendszerben</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">Távoli gyűrűk</string>
     <string name="search_menu_title">Keresés</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
     <string name="sunday_shortest">Vas</string>
+    <string name="super_wallpaper_list_label">Szuper háttérképek</string>
+    <string name="super_wallpaper_setting_apply_success_toast">Sikeresen alkalmazva</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Alkalmaz</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">Helyszín kiválasztása</string>
+    <string name="super_wallpaper_setting_coordinate_title">Koordináták</string>
+    <string name="super_wallpaper_setting_view_height_title">Magasság</string>
+    <string name="task_already_exist">This task already exists</string>
     <string name="the_anniversary_of_lifting_martial_law">A harci törvény feloldásának évfordulója</string>
     <string name="the_anti_aggression_day">Agresszióellenes Nap</string>
     <string name="the_arbor_day">A Fák Napja</string>
@@ -191,8 +227,19 @@
     <string name="tuesday">Kedd</string>
     <string name="tuesday_short">Ked</string>
     <string name="tuesday_shortest">Ked</string>
+    <string name="update">Update</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_find_more_text">További online háttérképek</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">Kezdőképernyő</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Képernyőzár</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Online háttérképek</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">Háttérképek felfedezése</string>
+    <string name="wallpaper_setting_online_wallpaper_title">Online háttérképek</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">Szuper háttérképek</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Továbbiak</string>
+    <string name="wallpaper_setting_title">Háttérkép</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
     <string name="wednesday_shortest">Sze</string>

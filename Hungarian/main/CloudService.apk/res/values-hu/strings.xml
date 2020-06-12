@@ -91,6 +91,8 @@
     <string name="feedback_custom_hint">Írja le a problémákat, amelyeket észlelt. Ha javaslatokat tesz, nagyra értékelnénk, ha részletekbe bocsájtkozna.</string>
     <string name="find_device">Készülékkeresés</string>
     <string name="find_device_dspt_provision">Elveszett készüléke helyének meghatározásához, zárolásához, illetve az adatok törléséhez látogasson el a(z) &lt;font color=#0097FF>%s&lt;/font> weboldalra. Ez a funkció bármikor ki- vagy bekapcsolható a Beállítások menüpontban.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Ellenőrizze az adatkapcsolatot és próbálja újra.</string>
     <string name="find_device_error_server">Szerverhiba</string>
     <string name="find_device_gdpr_prompt">A Készülékkeresés bekapcsolásával Ön elfogadja az <a href="app://com.miui.cloudservice.gdpr.license"><u>Adatvédelmi Irányelvek</u></a>-et. Ha vissza kívánja vonni ezt az engedélyt, kapcsolja ki a funkciót.</string>
@@ -230,11 +232,14 @@ A készüléke elvesztése esetén meghatározhatja a helyét és lezárhatja."<
     <string name="micloud_find_device_open_fail">Nem sikerült bekapcsolni a Készülékkeresést</string>
     <string name="micloud_find_device_opened">Készülékkeresés bekapcsolva</string>
     <string name="micloud_find_device_opened_content">Készülékkeresés itt: %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">A szolgáltatás aktiválásához egy kimenő SMS lehet szükséges. Ezt a szolgáltatója ki fogja Önnek számlázni. SIM-kártya cseréje esetén a szolgáltatás újraaktiválásához szükséges SMS automatikusan küldésre kerülhet.</string>
     <string name="micloud_find_device_verify_button">Készülékkeresés újraaktiválása</string>
     <string name="micloud_find_device_verify_close">Készülékkeresés kikapcsolása</string>
     <string name="micloud_find_device_verify_fail">Készülékkeresés újraaktiválása sikertelen</string>
     <string name="micloud_find_device_verify_progress">Készülékkeresés újraaktiválása…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">A szinkronizálás törölve lett. Próbálja újra.</string>
     <string name="micloud_main_head_menu_cloud_backup">Mentések</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Rendszerbeállítások és Kezdőképernyő-elrendezés</string>
@@ -469,6 +474,8 @@ Ez a szolgáltatás titkosítja és elküldi a Mi szervereire az Ön készülék
     <string name="sync_dspt_entrance_provision_network">Az alkalmazás megfelelő működéséhez internetkapcsolat szükséges. Az adatok szinkronizálása mobiladat-kapcsolatot vagy Wi-Fi kapcsolatot igényel.</string>
     <string name="sync_dspt_entrance_provision_skip">Lépés kihagyása</string>
     <string name="sync_dspt_provision">"Szinkronizálja fényképeit, névjegyeit, jegyzeteit és sok mást az összes Mi készülékére, vagy érje el őket itt "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". A szolgáltatás bármikor be- és kikapcsolható a Beállítások menüpontban.
 "</string>
     <string name="sync_item_calllog_summary">A beérkező és kimenő hívások listájának szinkronizálása</string>

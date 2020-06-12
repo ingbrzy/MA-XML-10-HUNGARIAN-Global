@@ -27,6 +27,13 @@
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="accessibility_all_app_custom_category_finish">Done</string>
+    <string name="accessibility_all_app_custom_category_item_remove">Remove \"%1$s\" from categories</string>
+    <string name="accessibility_clear_search_bar_text">Clear search bar</string>
+    <string name="accessibility_enter_all_app_mode">Open App drawer</string>
+    <string name="accessibility_enter_all_app_settings">Open App drawer settings</string>
+    <string name="accessibility_menu_item_smallwindow_disable">Az alkalmazás nem támogatja a lebegő ablakokat</string>
+    <string name="accessibility_menu_item_smallwindow_enable">Az alkalmazás támogatja a lebegő ablakokat</string>
     <string name="accessibility_menu_item_split_disable">Az alkalmazás nem támogatja az Osztott képernyőt.</string>
     <string name="accessibility_menu_item_split_enable">Az alkalmazás támogatja az Osztott képernyőt</string>
     <string name="accessibility_recent_task_enter">Előzmények megnyitva</string>
@@ -60,6 +67,7 @@
     <string name="all_apps_no_search_results">Nincs találat</string>
     <string name="all_apps_search_app">Alkalmazások keresése</string>
     <string name="all_apps_search_market_message">Online keresés</string>
+    <string name="all_apps_setting_classic_title">Klasszikus</string>
     <string name="all_apps_setting_desktop_desc">Az összes telepített alkalmazás megjelenítése a kezdőképernyőn. Az elérhető parancsikonok megtekeintéséhez, az alkalmazás kezeléséhez, illetve törléséhez tartsa lenyomva az alkalmazás ikonját.</string>
     <string name="all_apps_setting_desktop_title">Szokásos</string>
     <string name="all_apps_setting_drawer_desc">Helyezze az összes telepített alkalmazást az App Drawerbe, amelyet a Kezdőképernyőn való felhúzással nyithat meg. A Kezdőképernyő App Drawerjébe áthelyezett alkalmazásokat továbbra is megtalálja.</string>
@@ -141,6 +149,7 @@
     <string name="auto_add_app_shortcut">Helyezzen el új alkalmazásokat a Kezdőképernyőn</string>
     <string name="auto_delete_category_dialog_content">A jelenlegi alkalmazásik eltávolításra kerülnek a kategóriából és a kategória törlésre kerül. Törli a kategóriát most?</string>
     <string name="auto_delete_category_dialog_title">Kategória törlése</string>
+    <string name="back">Back</string>
     <string name="backup_fail">Nem sikerült biztonsági másolatot készíteni</string>
     <string name="bad_wallpaper_source_prompt">A háttérkép betöltése nem sikerült</string>
     <string name="buffering">Pufferelés…</string>
@@ -165,6 +174,10 @@
     <string name="choose_wallpaper">Háttérkép kiválasztása</string>
     <string name="chooser_wallpaper">Válasszon egy új háttérképet</string>
     <string name="cloud_app_restore_title">Függőben</string>
+    <string name="common_home_search_delete">A Kezdőképernyőn megtalálható keresősáv törlése</string>
+    <string name="common_home_search_delete_cancle">Mégse</string>
+    <string name="common_home_search_delete_confirm">Törlés</string>
+    <string name="common_home_search_delete_content">Törlést követően nem fog tudni keresni a Kezdőképernyő keresősávjával. Biztosan törli?</string>
     <string name="configure_wallpaper">Beállítások</string>
     <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">A klónozott alkalmazások ezekkel együtt el lesznek távolítva.</string>
@@ -490,8 +503,11 @@
     <string name="sort_by_not_defined">Alapértelmezett sorrend</string>
     <string name="start_activity_failed">Nem sikerült az elindítás, próbálja meg később</string>
     <string name="starting_preset_app">Kezdő...</string>
-    <string name="status_bar_recent_memory_info1">%1$s B/%2$s B elérhető</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_recent_memory_giga">%1$s GB</string>
+    <string name="status_bar_recent_memory_info1">%1$s / %2$s érhető el</string>
     <string name="status_bar_recent_memory_info2" />
+    <string name="status_bar_recent_memory_mega">%1$s MB</string>
     <string name="status_downloaded">Letöltve</string>
     <string name="status_downloading">Letöltés</string>
     <string name="status_installing">Telepítés</string>

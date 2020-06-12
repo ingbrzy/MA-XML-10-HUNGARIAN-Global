@@ -61,6 +61,7 @@
     <string name="exo_track_unknown">Ismeretlen</string>
     <string name="expand_button_title">Speciális</string>
     <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>

@@ -18,6 +18,7 @@
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="search_menu_title">Keresés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ad_downloading">Letöltés…</string>
     <string name="app_name">Rendszerszolgáltatási beépülő modul</string>
     <string name="app_select_title">Gyakran használt alkalmazások hozzáadása</string>
@@ -36,6 +37,7 @@
     <string name="dialog_market_score_title_step2">Köszönjük visszajelzését!</string>
     <string name="dual_app_title">Kettős alkalmazások</string>
     <string name="dual_app_words">Minden fiók megérdemli a saját alkalmazását</string>
+    <string name="empty">" "</string>
     <string name="ew_detail_earthquake_center_title">Epicenter</string>
     <string name="ew_detail_earthquake_feel_little">Slight shaking</string>
     <string name="ew_detail_earthquake_feel_max">Very strong</string>

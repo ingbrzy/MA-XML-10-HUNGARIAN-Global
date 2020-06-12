@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Egy órával ezelőtt</item>
+        <item quantity="one">Egy órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Egy órával ezelőtt</item>
+        <item quantity="one">Egy órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Egy óra múlva</item>
+        <item quantity="one">Egy óra múlva</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Azonnal</item>
+        <item quantity="one">Azonnal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d perc múlva</item>
+        <item quantity="one">1 perc múlva</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d perce</item>
+        <item quantity="one">1 perce</item>
+    </plurals>
     <plurals name="count_duration_standard">
         <item quantity="other">%1$d-%2$d times</item>
         <item quantity="one">%1$d-%2$d time</item>
@@ -60,13 +96,37 @@
         <item quantity="other">%1$d steps</item>
         <item quantity="one">%1$d step</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d hrs</item>
         <item quantity="one">%1$d hr</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Egy óra múlva</item>
+        <item quantity="one">Egy óra múlva</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Azonnal</item>
+        <item quantity="one">Azonnal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d perc múlva</item>
+        <item quantity="one">1 perc múlva</item>
+    </plurals>
     <plurals name="length_unit_meter_format">
         <item quantity="other">%1$d méter</item>
         <item quantity="one">%1$d méter</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d napos menstruáció</item>
@@ -91,6 +151,10 @@
     <plurals name="minutes_ago">
         <item quantity="other">%1$d mins ago</item>
         <item quantity="one">%1$d min ago</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="sleep_goal_by_hour">
         <item quantity="other">Goal: %1$d hours</item>
