@@ -118,7 +118,6 @@ MM.dd."</string>
 csodálatos dolog fog történni"</string>
     <string name="standard_clock_panel">Alapértelmezett</string>
     <string name="standard_style">Standard</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary">Az energiafogyasztás csökkentésének érdekében az elemek nem fognak megjelenni, ha a készülék hosszú ideig sötétben van.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="temporary_style">Koppintás után 10 másodpercig</string>

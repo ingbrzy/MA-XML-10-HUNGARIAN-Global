@@ -932,7 +932,6 @@ Még %d próbálkozás maradt."</string>
     <string name="private_dns_mode_provider_failure">Nem sikerült kapcsolódni</string>
     <string name="private_dns_mode_provider_hostname_hint">Adja meg a DNS-szolgáltató gazdagépnevét</string>
     <string name="private_num">Magántelefonszám</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="progress_dialog_exiting_ecm">Kilépés a Segélykérő visszahívás módból</string>
     <string name="proxy_address_title">A kimenő proxy címe</string>
     <string name="pstn_connection_service_label">Beépített SIM-kártyák</string>
@@ -1168,7 +1167,6 @@ A következő időszak %2$d nap múlva kezdődik (%3$s)"</string>
     <string name="time_end_minute">time end minute</string>
     <string name="time_formate_am">DE</string>
     <string name="time_formate_pm">DU</string>
-    <string name="time_interval_char">:</string>
     <string name="time_next_day">" a következő napon "</string>
     <string name="time_start">" Ettől: "</string>
     <string name="time_start_hour">time start hour</string>
@@ -1206,7 +1204,6 @@ A következő időszak %2$d nap múlva kezdődik (%3$s)"</string>
     <string name="tts_status_ok">A(z) %1$s nyelv teljes támogatást élvez</string>
     <string name="tts_status_requires_network">A(z) %1$s nyelv használatához hálózati kapcsolatra van szükség</string>
     <string name="tts_status_title">Alapértelmezett nyelv állapota</string>
-    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">Videóhívás közben nem engedélyezett a TTY-mód váltása</string>
     <string name="tty_mode_option_summary">TTY-mód beállítása</string>
     <string name="tty_mode_option_title">TTY-mód</string>
@@ -1245,7 +1242,6 @@ A következő időszak %2$d nap múlva kezdődik (%3$s)"</string>
     <string name="voicemail">Hangposta</string>
     <string name="voicemail_abbreviated">HP:</string>
     <string name="voicemail_change_pin_dialog_title">PIN módosítás</string>
-    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">Saját szolgáltatóm</string>
     <string name="voicemail_notifications_preference_title">Értesítések</string>
     <string name="voicemail_number_not_set">&lt;Nincs megadva></string>
@@ -1254,7 +1250,6 @@ A következő időszak %2$d nap múlva kezdődik (%3$s)"</string>
     <string name="voicemail_settings">Beállítások</string>
     <string name="voicemail_settings_number_label">Hangposta-beállítások</string>
     <string name="voicemail_settings_with_label">Hangposta (%s)</string>
-    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">Vizuális hangposta</string>
     <string name="vpn_settings_not_available">A VPN-beállítások nem érhetők el ennél a felhasználónál</string>
     <string name="vvm_unsupported_message_format">Nem támogatott üzenettípus, hívja a %s számot a meghallgatáshoz.</string>
@@ -1264,7 +1259,6 @@ A következő időszak %2$d nap múlva kezdődik (%3$s)"</string>
 "</string>
     <string name="wifi_ap_unable_to_handle_new_sta">A hozzáférési pont átmenetileg megtelt</string>
     <string name="wifi_calling">Wi-Fi-hívás</string>
-    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">Wi-Fi-hívás</string>
     <string name="wifi_cant_connect">Nem lehet csatlakozni</string>
     <string name="wifi_cant_connect_to_ap">Nem lehet csatlakozni a(z) „%1$s” hálózathoz</string>
