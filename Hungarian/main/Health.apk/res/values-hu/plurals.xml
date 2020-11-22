@@ -37,28 +37,28 @@
         <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="count_duration_standard">
-        <item quantity="other">%1$d-%2$d times</item>
-        <item quantity="one">%1$d-%2$d time</item>
+        <item quantity="other">%1$d-%2$d alkalommal</item>
+        <item quantity="one">%1$d-%2$d alkalommal</item>
     </plurals>
     <plurals name="cousume_unit_format">
         <item quantity="other">%1$d Cal</item>
         <item quantity="one">%1$d Cal</item>
     </plurals>
     <plurals name="daily_suggestions_steps">
-        <item quantity="other">Walk at least %1$d steps every day</item>
-        <item quantity="one">Walk at least %1$d step every day</item>
+        <item quantity="other">Tegyen meg minden nap legalább %1$d lépést</item>
+        <item quantity="one">Tegyen meg minden nap legalább %1$d lépést</item>
     </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d nap</item>
         <item quantity="one">%1$d nap</item>
     </plurals>
     <plurals name="days_in_menstrual_period">
-        <item quantity="other">Period duration: %1$d days</item>
-        <item quantity="one">Period duration: %1$d day</item>
+        <item quantity="other">Menstruáció hossza: %1$d nap</item>
+        <item quantity="one">Menstruáció hossza: %1$d nap</item>
     </plurals>
     <plurals name="days_in_period">
-        <item quantity="other">Cycle duration: %1$d days</item>
-        <item quantity="one">Cycle duration: %1$d day</item>
+        <item quantity="other">Ciklus hossza: %1$d nap</item>
+        <item quantity="one">Ciklus hossza: %1$d nap</item>
     </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">Selected %1$d items</item>
@@ -101,20 +101,20 @@
         <item quantity="one">" lépés"</item>
     </plurals>
     <plurals name="goal_unit_with_number">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
+        <item quantity="other">%1$d lépés</item>
+        <item quantity="one">%1$d lépés</item>
     </plurals>
     <plurals name="group_unit">
-        <item quantity="other">%1$d cycles</item>
-        <item quantity="one">%1$d cycle</item>
+        <item quantity="other">%1$d ciklus</item>
+        <item quantity="one">%1$d ciklus</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
+        <item quantity="other">%1$d ó</item>
+        <item quantity="one">%1$d ó</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Egy óra múlva</item>
@@ -141,8 +141,8 @@
         <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="mens_offset_predict_menstrual_period">
-        <item quantity="other">Period will likely start in %1$d days</item>
-        <item quantity="one">Period will likely start in %1$d day</item>
+        <item quantity="other">A menstruáció várhatóan %1$d nap múlva kezdődik</item>
+        <item quantity="one">A menstruáció várhatóan %1$d nap múlva kezdődik</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d napos menstruáció</item>
@@ -153,28 +153,28 @@
         <item quantity="one">Day %1$d (expected)</item>
     </plurals>
     <plurals name="mesens_card_title_days">
-        <item quantity="other">Day %1$d</item>
-        <item quantity="one">Day %1$d</item>
+        <item quantity="other">%1$d. nap</item>
+        <item quantity="one">%1$d<. nap/item>
     </plurals>
     <plurals name="mesens_card_title_predict_date">
         <item quantity="other">Next period in %1$d days</item>
         <item quantity="one">Next period in %1$d day</item>
     </plurals>
     <plurals name="minutes">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="minutes_ago">
-        <item quantity="other">%1$d mins ago</item>
-        <item quantity="one">%1$d min ago</item>
+        <item quantity="other">%1$d perce</item>
+        <item quantity="one">%1$d perce</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="sleep_goal_by_hour">
-        <item quantity="other">Goal: %1$d hours</item>
-        <item quantity="one">Goal: %1$d hour</item>
+        <item quantity="other">Cél: %1$d óra</item>
+        <item quantity="one">Cél: %1$d óra</item>
     </plurals>
     <plurals name="sleep_management_exp_hours">
         <item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
@@ -205,32 +205,32 @@
         <item quantity="one">%1$d napos ciklus</item>
     </plurals>
     <plurals name="time_duration_compare_standard">
-        <item quantity="other">≤%1$d minutes</item>
-        <item quantity="one">≤%1$d minute</item>
+        <item quantity="other">≤%1$d perc</item>
+        <item quantity="one">≤%1$d perc</item>
     </plurals>
     <plurals name="time_duration_hour_float">
-        <item quantity="other">%1$.2f hrs</item>
-        <item quantity="one">%1$.2f hr</item>
+        <item quantity="other">%1$.2f óra/item>
+        <item quantity="one">%1$.2f óra</item>
     </plurals>
     <plurals name="time_duration_hour_int">
-        <item quantity="other">%d hrs</item>
-        <item quantity="one">%d hr</item>
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
     </plurals>
     <plurals name="time_duration_hour_standard">
-        <item quantity="other">%1$.1f-%2$.1f hours</item>
-        <item quantity="one">%1$.1f-%2$.1f hour</item>
+        <item quantity="other">%1$.1f-%2$.1f óra</item>
+        <item quantity="one">%1$.1f-%2$.1f óra</item>
     </plurals>
     <plurals name="time_duration_minute">
-        <item quantity="other">%1$d minutes</item>
-        <item quantity="one">%1$d minute</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="time_duration_minute_standard">
-        <item quantity="other">%1$d-%2$d minutes</item>
-        <item quantity="one">%1$d-%2$d minute</item>
+        <item quantity="other">%1$d-%2$d perc</item>
+        <item quantity="one">%1$d-%2$d perc</item>
     </plurals>
     <plurals name="time_duration_time">
-        <item quantity="other">%1$d times</item>
-        <item quantity="one">%1$d time</item>
+        <item quantity="other">%1$d alkalom</item>
+        <item quantity="one">%1$d alkalom</item>
     </plurals>
     <plurals name="times_format">
         <item quantity="other">%1$d alkalom</item>
@@ -249,36 +249,36 @@
         <item quantity="one">A menstruáció becsült %1$d. napja</item>
     </plurals>
     <plurals name="title_today_exercise_steps">
-        <item quantity="other">%1$d steps today</item>
-        <item quantity="one">%1$d step today</item>
+        <item quantity="other">%1$d lépés ma</item>
+        <item quantity="one">%1$d lépés ma</item>
     </plurals>
     <plurals name="unit_days">
         <item quantity="other">" nap"</item>
         <item quantity="one">" nap"</item>
     </plurals>
     <plurals name="unit_group">
-        <item quantity="other">" cycles"</item>
-        <item quantity="one">" cycle"</item>
+        <item quantity="other">" ciklus"</item>
+        <item quantity="one">" ciklus"</item>
     </plurals>
     <plurals name="unit_hours">
-        <item quantity="other">" hrs "</item>
-        <item quantity="one">" hr "</item>
+        <item quantity="other">" ó "</item>
+        <item quantity="one">" ó "</item>
     </plurals>
     <plurals name="unit_hours2">
-        <item quantity="other">" hours "</item>
-        <item quantity="one">" hour "</item>
+        <item quantity="other">" óra "</item>
+        <item quantity="one">" óra "</item>
     </plurals>
     <plurals name="unit_mins">
-        <item quantity="other">" mins "</item>
-        <item quantity="one">" min "</item>
+        <item quantity="other">" p "</item>
+        <item quantity="one">" p "</item>
     </plurals>
     <plurals name="unit_mins2">
-        <item quantity="other">" minutes "</item>
-        <item quantity="one">" minute "</item>
+        <item quantity="other">" perc "</item>
+        <item quantity="one">" perc "</item>
     </plurals>
     <plurals name="unit_seconds">
-        <item quantity="other">" secs "</item>
-        <item quantity="one">" sec "</item>
+        <item quantity="other">" mp "</item>
+        <item quantity="one">" mp "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" times"</item>
