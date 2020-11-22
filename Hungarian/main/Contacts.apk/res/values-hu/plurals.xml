@@ -48,6 +48,14 @@
         <item quantity="other">%1$d alkalommal csengett</item>
         <item quantity="one">%1$d alkalommal csengett</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d telefonszám</item>
+        <item quantity="one">%d telefonszám</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d telefonszám törlése?</item>
+        <item quantity="one">%d telefonszám törlése?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d névjegy vagy fotó nem szinkronizálódott</item>
         <item quantity="one">%1$d névjegy vagy fotó nem szinkronizálódott</item>
@@ -100,10 +108,6 @@
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d elem található</item>
-        <item quantity="one">%1$d elem található</item>
-    </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d névjegy</item>
         <item quantity="one">%1$d névjegy</item>
@@ -148,10 +152,6 @@
         <item quantity="other">%1$d névjegy részben azonos adatokkal</item>
         <item quantity="one">%1$d névjegy részben azonos adatokkal</item>
     </plurals>
-    <plurals name="merge_info">
-        <item quantity="other">összekapcsolva %0$d forrásból</item>
-        <item quantity="one">nincs összekapcsolva</item>
-    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d kiválasztva</item>
         <item quantity="one">%1$d kiválasztva</item>
@@ -160,17 +160,9 @@
         <item quantity="other">%1$d ember innen: %2$s</item>
         <item quantity="one">%1$d ember innen: %2$s</item>
     </plurals>
-    <plurals name="num_groups_in_account">
-        <item quantity="other">%d csoport</item>
-        <item quantity="one">%d csoport</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
-    </plurals>
-    <plurals name="number_of_items_available">
-        <item quantity="other">%1$d elem van hátra</item>
-        <item quantity="one">%1$d elem van hátra</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d kiválasztva</item>
@@ -195,6 +187,10 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d találat</item>
         <item quantity="one">%d találat</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s eredmény</item>
+        <item quantity="one">%s eredmény</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">Ne jelöljön ki többet, mint %1$d, nem jelölheti ki az összeset</item>

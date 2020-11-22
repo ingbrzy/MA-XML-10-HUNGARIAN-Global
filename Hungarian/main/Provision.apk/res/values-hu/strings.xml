@@ -19,6 +19,7 @@
     <string name="application_package_introduction">Az alkalmazással telepíthet külső alkalmazásokat, ellenőrizheti őket telepítés előtt, utána pedig ajánlásokat adhat velük kapcsolatban.</string>
     <string name="application_permissions">Alkalmazásengedélyek</string>
     <string name="back">Vissza</string>
+    <string name="backup_introduction">A készüléken megtalálható elemek biztonsági mentéséhez és helyreállításához használhatja ezt az alkalmazást.</string>
     <string name="calculator_introduction">Az alkalmazással számolhat, átválthat mértékegységeket és kiszámíthatja a jelzálogtörlesztőjét.</string>
     <string name="camera_introduction">A Kamera használatával készíthet képeket és felvehet videókat.</string>
     <string name="carrier_introduction">Annak érdekében, hogy még jobb szolgáltatást biztosíthassunk Önnek, eszköze időről időre elküldi szolgáltatója számára az Ön eszközadatait, eszközazonosítási adatait (beleértve az IMEI-/az IMSI-/az MSISDN-/a MAC-címet), valamint az Ön körülbelüli tartózkodási helyét (beleértve az alap állomásazonosítót is) WIFI-n, mobiladatforgalmon vagy ingyenes SMS-en keresztül. A szolgáltató ígérete szerint kizárólag a vonatkozó adatokat használja fel a szolgáltatások minőségének javítására, illetve testre szabott szolgáltatások vagy technológiák biztosítására és nem teszi közzé a vonatkozó adatokat harmadik felek számára olyan formában, hogy azok beazonosíthatóak legyenek. A szolgáltató konkrét nyilatkozata érvényes. A szolgáltatás használatának költségeiről érdeklődjön szolgáltatójánál.</string>
@@ -44,6 +45,7 @@
     <string name="disageement_abnormal_download">Ha nem szeretné megadni a szükséges engedélyeket, illetve nem szeretné megosztani vagy feltölteni személyes adatait, nem fogja tudni használni a szolgáltatást.</string>
     <string name="disagree">Mégse</string>
     <string name="disagreement_abnormal_running">Ha nem szeretné megadni a szükséges engedélyeket, illetve nem szeretné megosztani vagy feltölteni személyes adatait, nem fogja tudni használni az alkalmazást. Ilyen esetben dönthet úgy, hogy nem használja az alkalmazást vagy korlátozza az engedélyeket a Beállításokban.</string>
+    <string name="disagreement_abnormal_running_fast_pairing">Ha nem járul hozzá az ilyen jellegű engedélyek megadásához, nem fogja tudni használni az alkalmazást. Ebben az esetben a Beállítások menüben kiválaszthatja az engedélyek korlátozását és kikapcsolhatja a funkciót.</string>
     <string name="disagreement_donnot_use_application">Ha nem szeretné megadni a szükséges engedélyeket, illetve nem szeretné megosztani vagy feltölteni személyes adatait, nem fogja tudni használni az alkalmazást. Ilyen esetben dönthet úgy, hogy nem használja az alkalmazást.</string>
     <string name="disagreement_donnot_use_product">Ha nem szeretné megadni a szükséges engedélyeket, illetve nem szeretné megosztani vagy feltölteni személyes adatait, nem fogja tudni használni a terméket. Ilyen esetben dönthet úgy, hogy nem használja a terméket.</string>
     <string name="disagreement_donnot_use_service">Ha nem szeretné megadni a szükséges engedélyeket, illetve nem szeretné megosztani vagy feltölteni személyes adatait, nem fogja tudni használni a szolgáltatást. Ilyen esetben dönthet úgy, hogy nem használja a szolgáltatást.</string>
@@ -51,18 +53,22 @@
     <string name="disagreement_function">Ha nem szeretné megadni a szükséges engedélyeket, illetve nem szeretné megosztani vagy feltölteni személyes adatait, nem fogja tudni használni a funkciót. Ilyen esetben dönthet úgy, hogy nem használja a funkciót.</string>
     <string name="disagreement_location_service">Ha nem szeretné megadni a szükséges engedélyeket, illetve nem szeretné megosztani vagy feltölteni személyes adatait, nem fogja tudni használni a szolgáltatást.</string>
     <string name="disagreement_terminate_service">Ha nem szeretné megadni a szükséges engedélyeket, illetve nem szeretné megosztani vagy feltölteni személyes adatait, nem fogja tudni használni az alkalmazást. Ilyen esetben dönthet úgy, hogy törli az alkalmazást, kijelentkezik vagy korlátozza az engedélyeket a Beállításokban.</string>
-    <string name="download_introduction">Az alkalmazással kezelheti az összes letöltését, beleértve a GetApps, a Mi Videó, az Updater, a Témák és a Böngésző alkalmazásokban letöltött tartalmakat is.</string>
+    <string name="download_introduction">A „Letöltések” a Xunlei használatával tölti le az elemeket a készülékére. Ez az eszköz működik GetApps, rendszerfrissítések, témák, videók és böngészők letöltései esetén.</string>
     <string name="enable_accessibility_canceled">Kisegítő lehetőség elutasítva.</string>
     <string name="enable_accessibility_dialog_message">Két ujjával hosszan nyomta a képernyőt, így Ön aktiválta a TalkBack-et, ami hangos visszajelzést nyújt gyengénlátók számára. Ha véletlenül kapcsolta be, nyomja meg a Mégse gombot, majd érintse meg a képernyőt kétszer (dupla koppintás).</string>
     <string name="enable_accessibility_dialog_negative_btn">Mégse</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
     <string name="fast_application_introduction">A Gyorsalkalmazás keretrendszerrel szolgáltatásokat hozhat létre és biztosíthat a gyorsalkalmazásokban.</string>
+    <string name="fast_pairing_introduction">A Mi Link lehetővé teszi, hogy készüléke közeli Bluetooth készülékekhez csatlakozzon a MIUU Bluetooth-szolgáltatás használatával. A közeli készülékek kereséséhez engedélyezze, hogy a Mi Link csatlakozzon az internethez.</string>
     <string name="font_hint_large">Alapértelmezett szövegméret</string>
     <string name="font_hint_normal">Szövegméret-növelés</string>
     <string name="framework_introduction">A Mi Szolgáltatási Keretrendszerrel használhatja a Mi Fiókot, a Mi Push-t, a Mi Statisztikákat és a MIUI BI-t.</string>
     <string name="framwork_base_service">Annak érdekében, hogy biztosíthassuk Önnek ezeket a szolgáltatásokat, a Mi Szolgáltatási Keretrendszernek (Mi Fiók, Mi Push, Mi Statisztikák, MIUI BI) csatlakoznia kell az internethez, hozzá kell férnie az Ön tartózkodási helyéhez, a telefonszámához, az IMEI-hez és az IMSI-hez, valamint engedélyeznie kell eszközén a push értesítések fogadását</string>
     <string name="game_introduction">A Játékok beépülő modullal bejelentkezhet, létrehozhat megrendeléseket, végrehajthat fizetéseket, felhasználhat kuponokat és részt vehet promóciós eseményeken.</string>
     <string name="google_service_introduction">A normál működés érdekében a Google Play-nek csatlakoznia kell az internethez, hozzá kell férnie az Ön helyzetéhez, tudnia kell hangot rögzítenie és hívásokat végrehajtani, hozzá kell férnie a naptáreseményekhez, a híváselőzményekhez, a szenzorokhoz, a tárhelyhez, a kamerához, az eszközinfóhoz és a fiókokhoz.</string>
+    <string name="home_settings_miui_home">Klasszikus</string>
+    <string name="home_settings_poco_launcher">Alkalmazáslista</string>
+    <string name="home_settings_title">Alapértelmezett launcher kiválasztása</string>
     <string name="ime_privacy_policy">A kiválasztott billentyűzet Adatvédelmi Irányelvei</string>
     <string name="ime_privacy_policy_no_network">Nincs internetkapcsolat. A kiválasztott billentyűzet Adatvédelmi Irányelveinek megtekintése itt: %s.</string>
     <string name="input_method_category">Válassza ki az alapértelmezett billentyűzetet. Később lehetséges harmadik féltől származó billentyűzetek telepítése.</string>
@@ -70,16 +76,27 @@
     <string name="install_preinstall_app">Alkalmazások betöltése…</string>
     <string name="item_fingerprint">Ujjlenyomat</string>
     <string name="item_lock_screen_password">Csak képernyőzár</string>
+    <string name="ktlocation_U">(KT Service Agent)</string>
+    <string name="ktposition_header">A tartózkodási helyadatok megosztása a sürgősségi mentőegységekkel</string>
     <string name="language_picker_other_languages_title">Egyéb nyelvek</string>
     <string name="language_settings">Válasszon nyelvet</string>
     <string name="locale_picker_other_locale_title">További régiók</string>
     <string name="locale_picker_title">Válasszon régiót</string>
+    <string name="location_U">U+ GPSnWPS</string>
+    <string name="location_content">A jogszabályoknak megfelelően a mobilszolgáltatók lekérhetik mobilkészülékeinek tartózkodási hely adatait a sürgősségi mentőhatóságok (tűzoltóság és rendőrség) követelményeinek való megfelelőség érdekében, amely biztonsági és sűrgős esetekben mentéssel kapcsolatos célokat szolgálnak.</string>
     <string name="location_introduction">A hely alapú szolgáltatások termékeket és szolgáltatásokat keresnek Önnek az Ön közelében.</string>
+    <string name="location_location">A sürgősségi mentőhatóságok kérést követően lekréhetik az Ön tartózkodási hely adatait</string>
     <string name="lockscreen_introduction">A Váltakozó háttérképek funkcióval minden nap új képeket láthat a képernyőzáron.</string>
     <string name="mint_keyboard_oobe_checkbox">Elolvastam és elfogadom a Mint Keyboard adatvédelmi irányelveit</string>
     <string name="mint_keyboard_oobe_terms">Mint Keyboard adatvédelmi irányelvei</string>
     <string name="miui_privacy_policy_no_network">Nincs internetkapcsolat. Adatvédelmi Irányelvek megtekintése itt: %s.</string>
     <string name="miui_terms_no_network">Önnek nincs internetkapcsolata. Tekintse meg a Felhasználói szerződést it: %s.</string>
+    <string name="mobile_network">Mobiladat-kapcsolat használata</string>
+    <string name="move_data_dialog_box_le">Ez lehetővé teszi a mobiladat-forgalom és a GPS-kapcsolat használatát a felhasználó kérése alapján. A fiókok és az egyéb elemek szinkronizálásához mobiladat-forgalom szüksége az okostelefon specifikációitól függően.</string>
+    <string name="move_data_dialog_box_title">A mobiladat-kapcsolat használata további költségeket generálhat, kivéve, ha csomagja korlárlan adatforgalmat biztosít. Biztosan mobiladat-kapcsolatot szeretne használni?</string>
+    <string name="move_data_dialog_cancel">Mégse</string>
+    <string name="move_data_dialog_title">A Beállításokban később korlátozhatja a mobiladatkapcsolatot</string>
+    <string name="move_data_dialog_use">Alkalmaz</string>
     <string name="multisim_settings_category">SIM-kártyák beállításai</string>
     <string name="multisim_settings_title">2 SIM-kártya található</string>
     <string name="navigation_picker_gesture_guide">Mozdulatok ismertetése</string>
@@ -111,6 +128,8 @@ Mégis kikapcsolja a személyre szabott hirdetéseket?"</string>
     <string name="permission_account">Hozzáférés a készülékén lévő fiókokhoz:</string>
     <string name="permission_account_introduction">Mi Fiókkal való bejelentkezéshez</string>
     <string name="permission_application_package_introduction">A tárhelyhez való hozzáféréshez a telepítő csomagok elemzése és ellenőrzése érdekében</string>
+    <string name="permission_backup">Hozzáférés a tárhelyhez</string>
+    <string name="permission_backup_introduction">A készüléken megtalálható biztonsági mentésekhez való hozzáféréshez és azok mentéséhez</string>
     <string name="permission_call_records">A híváselőzményekhez való hozzáféréshez:</string>
     <string name="permission_call_records_introduction">A híváselőzményekhez való hozzáféréshez a tiltott elemek megjelenítése érdekében</string>
     <string name="permission_call_state_introduction">A telefonstátuszhoz való hozzáféréshez, hívások rögzítéséhez, valamint felvételek szüneteltetéséhez bejövő hívások alatt</string>
@@ -152,6 +171,8 @@ Mégis kikapcsolja a személyre szabott hirdetéseket?"</string>
     <string name="poco_agree_terms_other">(Beleértve a POCO Launcher Adatvédelmi Irányelveit és Felhasználói Szerződését)</string>
     <string name="poco_launcher_privacy_policy">POCO launcher Adatvédelmi szabályzat</string>
     <string name="poco_launcher_user_agreement">POCO Launcher Felhasználói megállapodás</string>
+    <string name="position_header">Tartózkodási hely adatok megosztása</string>
+    <string name="position_subheading">Tartózkodási hely adatok</string>
     <string name="pref_title_data_slot">Mobilnetre használt SIM</string>
     <string name="pref_title_voice_slot">Hívásra használt SIM</string>
     <string name="privacy_policy">Adatvédelmi Irányelvek</string>
@@ -168,6 +189,7 @@ A kiválasztott billentyűzet Adatvédelmi irányelveinek megtekintése."</strin
     <string name="service_agreement">Elovastam és elfogadom a Felhasználási feltételeket.</string>
     <string name="service_name_album">Galéria</string>
     <string name="service_name_application_package">Csomagtelepítő</string>
+    <string name="service_name_backup">Biztonsági mentések</string>
     <string name="service_name_calculator">Számológép</string>
     <string name="service_name_camera">Kamera</string>
     <string name="service_name_carrier">Nyilatkozat a telefonszolgáltatói szolgáltatásokról</string>
@@ -176,6 +198,7 @@ A kiválasztott billentyűzet Adatvédelmi irányelveinek megtekintése."</strin
     <string name="service_name_content_center">Tartalomközpont</string>
     <string name="service_name_download">Letöltések</string>
     <string name="service_name_fast_application">Keretrendszer gyorsalkalmazásokhoz</string>
+    <string name="service_name_fast_pairing">Mi Link</string>
     <string name="service_name_game">Beépülő játékmodul</string>
     <string name="service_name_google_service">Nyilatkozat a Google-szolgáltatásokról</string>
     <string name="service_name_location">Hely alapú szolgáltatások</string>
@@ -186,6 +209,7 @@ A kiválasztott billentyűzet Adatvédelmi irányelveinek megtekintése."</strin
     <string name="service_name_security">Biztonság</string>
     <string name="service_name_service_framework">Mi szolgáltatás keretrendszer</string>
     <string name="service_policy">&lt;Data>Olvassa el és fogadja el az &lt;a href=%1$s>Adatvédelmi irányelvet&lt;/a >.&lt;/Data></string>
+    <string name="service_policy_download">&lt;Data>A szolgáltatásaink használata előtt olvassa el és fogadja el a következőt: &lt;a href=%1$s>Xunlei Adatvédelmi irányelvek&lt;/a >.&lt;/Data></string>
     <string name="service_privacy_index">Adatvédelmi irányelv</string>
     <string name="servicestate_title">Nyilatkozat az alapvető szolgáltatásokról</string>
     <string name="setting_locale">Régió beállítása…</string>
@@ -219,7 +243,7 @@ A MIUI használata előtt el kell fogadnia a Felhasználói szerződést és az 
     <string name="terms_of_use_label_phrase">, Gyakori kifejezések</string>
     <string name="terms_of_use_label_systemhelper">, Önállóan bejegyzett szolgáltatáshoz</string>
     <string name="terms_of_use_label_updater">, Frissítés</string>
-    <string name="terms_of_use_lable_apps">A Mi szolgáltatásokhoz, a Mi SIM-aktiválási szolgáltatáshoz, a Xiaomi Cloudhoz, a Készülékkereséshez, a Kezdőképernyőhöz, a Játékközponthoz, a MIUI Daemon és MSA rendszerelemekhez, a Fordítási szolgáltatáshoz, a Gyorsalkalmazásokhoz, a Gyorselérési kártyákhoz, a statisztikákhoz, a Mi Linkhez</string>
+    <string name="terms_of_use_lable_apps">A Mi szolgáltatásokhoz, a Mi SIM-aktiválási szolgáltatáshoz, a Xiaomi Cloudhoz, a Készülékkereséshez, a Kezdőképernyőhöz, a Játékközponthoz, a MIUI Daemon és MSA rendszerelemekhez, a Fordítási szolgáltatáshoz, a MIUI SDK, a Gyorsalkalmazásokhoz, a Gyorselérési kártyákhoz, a statisztikákhoz, a Mi Linkhez</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 A Facemoji használata előtt el kell fogadnia a szolgáltatás Adatvédelmi Irányelveit."</string>
@@ -236,7 +260,7 @@ A funkció használata előtt el kell fogadnia a Mint Keyboard adatvédelmi Irá
     <string name="terms_privacy_policy_input_method_kika">Kika Adatvédelmi Irányelvei</string>
     <string name="title_fingerprint">Állítson be jelszót</string>
     <string name="user_agreement">Felhasználói szerződés</string>
-    <string name="user_agreement_declare">A MIUI használata előtt Önnek el kell olvasnia és el kell fogadnia a Felhasználói szerződést és az Adatvédelmi irányelvet. Amíg eszköze aktiválásra kerül, a Mi SIM Aktivációs Szolgáltatások, a Xiaomi Cloud, az Eszközkeresés, a Kezdőképernyő, a Gyakori kifejezések, a Fordítási szolgáltatás, a MIUI Daemon, a HTML Viewer, az AI Asszisztens, az Akkumulátor és teljesítmény, az Energiadetektor, a Joyose, az OS AI Beállítások, az Engedélykezelő és az Updater csatlakozik a hálózathoz. Az Okos szolgáltatások csatlakozik a hálózathoz és hozzáfér az Ön helyzetéhez.</string>
+    <string name="user_agreement_declare">A MIUI használata előtt Önnek el kell olvasnia és el kell fogadnia a Felhasználói szerződést és az Adatvédelmi irányelvet. Amíg eszköze aktiválásra kerül, a Mi SIM Aktivációs Szolgáltatások, a Xiaomi Cloud, az Eszközkeresés, a Kezdőképernyő, a Gyakori kifejezések, a Fordítási szolgáltatás, a MIUI Daemon, a HTML Viewer, a MIUI SDK, az AI Asszisztens, az Akkumulátor és teljesítmény, az Energiadetektor, a Joyose, az OS AI Beállítások, az Engedélykezelő és az Updater csatlakozik a hálózathoz. Az Okos szolgáltatások csatlakozik a hálózathoz és hozzáfér az Ön helyzetéhez.</string>
     <string name="voice_assist_advice">A Mi AI hangvezérlést biztosít Önnek, de több energiát fogyaszt (+1% óránként).</string>
     <string name="voice_assist_condition">"Ezekben az esetekben lesz képes használni a Mi AI-t:r
 1. Ha a képernyő be van kapcsolva.r

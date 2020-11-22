@@ -46,8 +46,8 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="passport_trust_device">Megbízható eszköz</string>
     <string name="passport_vcode_prompt_long">Adja meg az ellenőrző kódot</string>
     <string name="passport_verify">Ellenőrzés</string>
-    <string name="password">Jelszó</string>
-    <string name="phone_locked">A készülék már hozzá van rendelve egy másik Mi Fiókhoz (%s). Jelentkezzen be és aktiválja a készüléket.</string>
+    <string name="password">Jelszó megadása</string>
+    <string name="phone_locked">A készülék hozzá van rendelve egy Mi Fiókhoz (%s). A készülék aktiválásához adja meg a jelszót.</string>
     <string name="phone_locked_account_email">, társított e-mail: %s</string>
     <string name="phone_locked_account_phone">, társított telefonszám: %s</string>
     <string name="return_to_call">Visszatérés a híváshoz</string>
@@ -74,14 +74,14 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="unlock_error_unknown">A bejelentkezés sikertelen</string>
     <string name="unlock_error_user_name">Hibás felhasználónév</string>
     <string name="unlock_error_wrong_vcode">A megadott kód hibás</string>
-    <string name="unlock_help">"Maradjon csatlakozva a hálózathoz.
-Ellenőrizze, hogy a behelyezett SIM-kártya egy működő kártya (ha a készüléke támogatja) és a készülék nem egy inaktív Wi-Fi-hálózatra csatlakozott.
+    <string name="unlock_help">"Csatlakozzon a hálózathoz.
+Helyezzen be egy működő SIM-kártyát és ne csatlakozzon érvénytelen Wi-Fi-hálózatokhoz.
 
-Elfelejtette a jelszavát?
-Keresse fel az id.mi.com weboldalt a jelszó helyreállításához.
+Elfelejtette jelszavát?
+Menjen az id.mi.com-ra, válassza az „Elfelejtette jelszavát?” opciót és kövesse az utasításokat.
 
-Egyéb lehetőségek
-Jelentkezzen be az i.mi.com weboldalra és próbálja meg feloldani a készüléket onnan."</string>
+Nem tudja aktiválni készülékét?
+Menjen az i.mi.com/ss oldalra és küldje be jelentkezését a készülék feloldásához."</string>
     <string name="unlock_help_title">Feloldási segítség:</string>
     <string name="unlock_number">Kód feloldása: %s</string>
     <string name="unlock_wrong_captcha">A megadott kód hibás</string>

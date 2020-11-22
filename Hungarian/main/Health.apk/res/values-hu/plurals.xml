@@ -52,6 +52,14 @@
         <item quantity="other">%1$d nap</item>
         <item quantity="one">%1$d nap</item>
     </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Period duration: %1$d days</item>
+        <item quantity="one">Period duration: %1$d day</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Cycle duration: %1$d days</item>
+        <item quantity="one">Cycle duration: %1$d day</item>
+    </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">Selected %1$d items</item>
         <item quantity="one">Selected %1$d item</item>
@@ -96,6 +104,10 @@
         <item quantity="other">%1$d steps</item>
         <item quantity="one">%1$d step</item>
     </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d cycles</item>
+        <item quantity="one">%1$d cycle</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
@@ -127,6 +139,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Period will likely start in %1$d days</item>
+        <item quantity="one">Period will likely start in %1$d day</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d napos menstruáció</item>
@@ -239,6 +255,30 @@
     <plurals name="unit_days">
         <item quantity="other">" nap"</item>
         <item quantity="one">" nap"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" cycles"</item>
+        <item quantity="one">" cycle"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" hrs "</item>
+        <item quantity="one">" hr "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" hours "</item>
+        <item quantity="one">" hour "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" mins "</item>
+        <item quantity="one">" min "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" minutes "</item>
+        <item quantity="one">" minute "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" secs "</item>
+        <item quantity="one">" sec "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" times"</item>

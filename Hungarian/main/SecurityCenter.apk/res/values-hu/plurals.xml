@@ -320,6 +320,10 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="other">%d rögzített alkalmazás</item>
         <item quantity="one">%d rögzített alkalmazás</item>
     </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d alkalmazás</item>
+        <item quantity="one">%d alkalmazás</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>

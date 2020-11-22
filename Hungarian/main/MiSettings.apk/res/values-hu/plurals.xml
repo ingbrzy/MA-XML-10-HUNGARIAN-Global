@@ -40,6 +40,10 @@
         <item quantity="other">Feloldva %d alkalommal</item>
         <item quantity="one">Feloldva %d alkalommal</item>
     </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Feloldva %1$d alkalommal a következő dátumban: %2$s</item>
+        <item quantity="one">Feloldva %1$d alkalommal a következő dátumban: %2$s</item>
+    </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Feloldva %d alkalommal</item>
         <item quantity="one">Feloldva %d alkalommal</item>

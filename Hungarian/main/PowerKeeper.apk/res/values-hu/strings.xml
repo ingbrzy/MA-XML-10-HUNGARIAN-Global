@@ -83,6 +83,14 @@ Az akkumulátorkímélő szelektíven kezeli a fontos alkalmazásokat."</string>
     <string name="lasttime_applist_cloud">Frissített alkalmazások:</string>
     <string name="lasttime_feature_cloud">Frissített funkciók:</string>
     <string name="message_i_know">Rendben</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Húzza le a frissítéshez</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Sikeresen frissítve</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Frissítés…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Engedje el a frissítéshez</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Egyelőre ennyi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Egyelőre ennyi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Egy pillanat...…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemek betöltése sikertelen</string>
     <string name="nonui_mode_config_description">Ne kapcsolja be a képernyőt értesítések érkezésekor, kapcsolja ki a LED fényt, ujjlenyomat-olvasót és érintésvezérlőket az akkumulátor kímélése érdekében, ha a MIUI érzékeli, hogy nem használja a telefont.</string>
     <string name="nonui_mode_config_title">Nem interaktív mód</string>
     <string name="not_set">Nincs beállítva</string>

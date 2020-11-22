@@ -79,6 +79,7 @@
     <string name="location_enabled">Bármikor kikapcsolható a helyszolgáltatás a Beállítások menüben.</string>
     <string name="location_north">Északi szélesség</string>
     <string name="location_not_enabled_summary">Az Iránytűnek szüksége van tartózkodási hely-hozzáférésre a koordináták és magasság kijelzéséhez.</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">Az iránytűnek hozzá kell férnie a tartózkodási helyéhez, hogy megjelenítse az aktuális koordinátákat.</string>
     <string name="location_not_enabled_title">Helymeghatározó szolgáltatások</string>
     <string name="location_south">Déli szélesség</string>
     <string name="location_west">Nyugati hosszúság</string>

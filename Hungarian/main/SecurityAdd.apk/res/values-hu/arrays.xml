@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="app_start_setting">
-        <item>仅允许自启动白名单</item>
-        <item>全部禁止</item>
+    <string-array name="gb_gpu_custom_anisotropic">
+        <item>1X</item>
+        <item>2X</item>
+        <item>4X</item>
+        <item>8X</item>
+        <item>16X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_anti">
+        <item>1X</item>
+        <item>2X</item>
+        <item>4X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Nagy sebesség</item>
+        <item>Kiegyensúlyozott</item>
+        <item>Magas minőség</item>
     </string-array>
 </resources>

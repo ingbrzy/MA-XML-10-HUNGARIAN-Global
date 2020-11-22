@@ -83,6 +83,8 @@
     <string name="HIPS_Perm_get_tasks_Desc">Feladatok lekérése</string>
     <string name="HIPS_Perm_install_shortcut">Kezdőképernyő-parancsikonok</string>
     <string name="HIPS_Perm_install_shortcut_Desc">Parancsikonok létrehozása a kezdőképernyőn</string>
+    <string name="HIPS_Perm_mediaVolume">Média hangerejének beállítása</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">Engedélyezi az appnak, hogy beállítsa a média hangerejét</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Közeli rádiófrekvenciás kommunikáció (NFC) hardver elérése</string>
     <string name="HIPS_Perm_process_outgoing_calls">Telefon alkalmazás elérése</string>
@@ -117,6 +119,11 @@
     <string name="location_warning">%1$s a készülék tartózkodási hely szolgáltatója. A tartózkodási hely elérése módosítható a Helymeghatározásban.</string>
     <string name="never_ask_again">Ne kérdezze meg újra a korlátozást követően</string>
     <string name="ok">OK</string>
+    <string name="perm_action_allow">Engedélyezés</string>
+    <string name="perm_action_deny">Soha ne engedélyezze</string>
+    <string name="perm_modem_location">Hozzáférés a helyadataihoz</string>
+    <string name="perm_modem_location_desc">"A szolgáltatója megpróbálja elérni a helyadatait. Megosztja a helyadatokat a szolgáltatóval?
+"</string>
     <string name="permdesc_camera">Képkészítés és videórögzítés</string>
     <string name="permdesc_in_calls">Bejövő hívások felügyelete</string>
     <string name="permdesc_location">Hozzáférés a helyinformációhoz</string>

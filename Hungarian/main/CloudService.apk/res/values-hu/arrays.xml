@@ -20,6 +20,12 @@
         <item>Mentse el fontos beállításait, beleértve a Wi-Fi-t és megjelenítést is</item>
         <item>Zárja le távolról a készülékét, ha az elveszett</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Alkalmazásadatok szinkronizálása</item>
         <item>Kezdőképernyő elrendezésének mentése</item>
@@ -98,6 +104,11 @@
         <item>Szinkronizálás bekapcsolása</item>
         <item>Gyorselérési kártyák;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Gyorsválaszok szinkronizálása</item>
+        <item>Szinkronizálás bekapcsolása</item>
+        <item>Gyorsválaszok;Vágólap;Szerkesztő;Felhő;Szinkronizálás;Felhőszolgáltatások</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>Felvételszinkronizálás a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása/beállítása</item>
@@ -114,9 +125,9 @@
         <item>Felhő;Mentés;Visszaállítás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>A Biztonság szinkronizálása a Xiaomi Clouddal</item>
+        <item>Biztonsági felhőszinkronizálás</item>
         <item>Szinkr. bekapcsolása</item>
-        <item>Biztonság;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
+        <item>Biztonság;Felhő;Xiaomi Cloud;Szinkronizálás;Felhőszolgáltatások</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Üzenetszinkronizálás a Xiaomi Clouddal</item>
@@ -137,6 +148,11 @@
         <item>A Wi-Fi-beállítások szinkronizálása a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása</item>
         <item>WLAN;wifi;Wi-Fi;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Turn on sync</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>A szinkronizált elemek megtekintése</item>

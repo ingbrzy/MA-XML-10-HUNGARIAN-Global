@@ -5,8 +5,8 @@
         <item quantity="one">%d órája</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">%d perce</item>
-        <item quantity="one">%d perce</item>
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">%d napja</item>

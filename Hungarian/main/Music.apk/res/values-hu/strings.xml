@@ -61,7 +61,7 @@
     <string name="action_settings">Beállítások</string>
     <string name="ad_close">Bezárás</string>
     <string name="ad_data_exception">Hirdetés adathiba</string>
-    <string name="ad_recommend">Ajánlások fogadása</string>
+    <string name="ad_recommend">Hirdetések megjelenítése</string>
     <string name="ad_setting">További beállítások</string>
     <string name="add_music">Dalok hozzáadása</string>
     <string name="add_to_last_of_playlist">Hozzáadás a lejátszási lista végéhez</string>
@@ -110,6 +110,8 @@
     <string name="artist_home_search_hint">Előadók keresése</string>
     <string name="artist_is_empty">Az előadó neve nem lehet üres.</string>
     <string name="artist_name">Előadó</string>
+    <string name="audio_ad_countdown">Hirdetés átugrása %s másodperc múlva</string>
+    <string name="audio_ad_pass">Hirdetés átugrása</string>
     <string name="audio_picker_title">Dal választása</string>
     <string name="auto_recommend">Automatikus (javasolt)</string>
     <string name="auto_sound_quality">Automatikus</string>
@@ -209,16 +211,21 @@
     <string name="dialog_my_playlist_online_changed_merge">Megőrzés</string>
     <string name="dialog_my_playlist_online_changed_message">Úgy tűnik, ez a lejátszólista megváltozott. Felülírhatja az új változattal, vagy megtarthatja a régit.</string>
     <string name="dialog_my_playlist_online_changed_replace">Csere</string>
-    <string name="dialog_my_playlist_set_to_public">Ossza meg ezt a lejátszási listát a Mi Music és a Hungama music összes felhasználójával</string>
+    <string name="dialog_my_playlist_set_to_public">Ossza meg ezt a lejátszási listát a Mi Zene és a Hungama music összes felhasználójával</string>
     <string name="dialog_queued_body">Ez a fájl várólistára került későbbi letöltés céljából.</string>
     <string name="dialog_renew_failure">Sajnos a művelet sikertelen</string>
     <string name="dialog_renew_free_end">Az ingyenes próbaidőszak lejárt. Előfizet a Hungama PRO verzióra?</string>
     <string name="dialog_renew_positive_text">IGEN, ZÚZNI AKAROK, MINT EGY KIRÁLY</string>
     <string name="dialog_renew_success">Köszönjük, hogy megerősítetted</string>
     <string name="dialog_score_btn_good">Értékelés</string>
+    <string name="dialog_score_msg_score_explorer">Tetszik a Mi Zene?</string>
+    <string name="dialog_score_msg_score_not_good">Adna nekünk visszajelzést is?</string>
+    <string name="dialog_score_msg_score_perfect">Köszönjük! Értékelné az alkalmazást a Play Áruházban is?</string>
     <string name="dialog_score_prompt_bad">Köszönjük visszajelzését! Mindent megteszünk annak érdekében, hogy jobbá tegyük alkalmazásainkat és szolgáltatásainkat.</string>
     <string name="dialog_score_prompt_good">Köszönjük támogatását! A Google Play-ben is értékeli alkalmazásunkat?</string>
     <string name="dialog_score_title">Értékelje alkalmazásunkat</string>
+    <string name="dialog_score_toast_rate">Először értékelje az alkalmazást</string>
+    <string name="dialog_score_toast_scroll_down_score_midrop">Görgessen le az alkalmazásunk értékeléséhez</string>
     <string name="dialog_song_sort_type">Dalok rendezése</string>
     <string name="dialog_song_sort_type_name">Név szerint</string>
     <string name="dialog_song_sort_type_playing_times">Lejátszások száma szerint</string>
@@ -235,6 +242,7 @@
     <string name="dialog_title_queued_body">A fájl még nem elérhető</string>
     <string name="dialog_title_remove_tracks">Eltávolítás</string>
     <string name="disallow_add_to_fm">Nem adható dal az FM rádióhoz</string>
+    <string name="discover_more_music">További dalok felfedezése</string>
     <string name="do_not_remind_this_version">Ne emlékeztessen erről a verzióról</string>
     <string name="do_not_support_google_voice_search">A Google Voice Search nem támogatott ezen az eszközön.</string>
     <string name="download">Letöltés</string>
@@ -272,7 +280,9 @@
     <string name="download_method">Letöltés</string>
     <string name="download_no_application_title">Nem lehet megnyitni a fájlt</string>
     <string name="download_paused_in_power_save_mode">Bekapcsolt Akkumulátorkímélő esetén a letöltések szünetelnek</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Letöltés…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Letöltés minősége</string>
     <string name="download_quality_summary">További beállítások a letölteni kívánt dalokhoz</string>
     <string name="download_queued">Várólistán</string>
@@ -336,6 +346,7 @@
     <string name="error_not_support">Nem támogatott</string>
     <string name="exo_controls_fastforward_description">Előretekerés</string>
     <string name="exo_controls_fullscreen_description">Teljes képernyős mód</string>
+    <string name="exo_controls_hide">Lejátszásvezérlők elrejtése</string>
     <string name="exo_controls_next_description">Következő szám</string>
     <string name="exo_controls_pause_description">Szüneteltetés</string>
     <string name="exo_controls_play_description">Lejátszás</string>
@@ -344,8 +355,11 @@
     <string name="exo_controls_repeat_off_description">Nincs ismétlés</string>
     <string name="exo_controls_repeat_one_description">Egy szám ismétlése</string>
     <string name="exo_controls_rewind_description">Visszatekerés</string>
-    <string name="exo_controls_shuffle_description">Keverés</string>
+    <string name="exo_controls_show">Lejátszásvezérlők mutatása</string>
+    <string name="exo_controls_shuffle_off_description">Keverés kikapcsolva</string>
+    <string name="exo_controls_shuffle_on_description">Keverés bekapcsolva</string>
     <string name="exo_controls_stop_description">Leállítás</string>
+    <string name="exo_controls_vr_description">VR-mód</string>
     <string name="exo_download_completed">A letöltés befejeződött</string>
     <string name="exo_download_description">Letöltés</string>
     <string name="exo_download_downloading">Letöltés folyamatban</string>
@@ -353,7 +367,16 @@
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_media_action_repeat_all_description">Összes szám ismétlése</string>
+    <string name="exo_media_action_repeat_off_description">Nincs ismétlés</string>
+    <string name="exo_media_action_repeat_one_description">Egy szám ismétlése</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternatív</string>
+    <string name="exo_track_role_closed_captions">Felirat</string>
+    <string name="exo_track_role_commentary">Kommentár</string>
+    <string name="exo_track_role_supplementary">Kiegészítő</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -451,6 +474,8 @@
     <string name="individuation_cart_login_title">Megtekinted a többi ajánlást?</string>
     <string name="individuation_recommend_switch_message">A funkció kikapcsolása hatással lesz a személyre szabott Mi Zene szolgáltatásokra. Mégis kikapcsolja?</string>
     <string name="individuation_recommend_title">Ajánlások</string>
+    <string name="individuation_setting_summary">Tartalomra vonatkozó javaslatok fogadása az érdeklődése alapján</string>
+    <string name="individuation_setting_title">Személyre szabott ajánlatok</string>
     <string name="input_hint_prefix">Mi legyen a %1$s?</string>
     <string name="installing_apk">Telepítés…</string>
     <string name="insufficient_space">Nincs elég szabad hely a készüléke belső tárhelyén</string>
@@ -584,6 +609,7 @@
     <string name="my_playlist_create_self_playlist">Hozzon létre lejátszólistát a kedvenc dalaiból</string>
     <string name="my_playlist_set_to_private">Titkosítás</string>
     <string name="my_playlist_set_to_public">Közzététel</string>
+    <string name="network_disable">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="network_error_and_retry">Csatlakozás sikertelen, érintse meg az újrapróbálkozáshoz</string>
     <string name="network_request_error">Nem lehet csatlakozni a hálózathoz</string>
     <string name="network_settings_error">Nem lehet csatlakozni a hálózathoz</string>
@@ -712,8 +738,22 @@
     <string name="preset_music_playlist">Mi Zene lejátszási lista</string>
     <string name="priority_storage">Mentés az SD-kártyára</string>
     <string name="priority_storage_summary">Fájlok automatikus mentése az SD-kártyára, ha rendelkezésre áll</string>
+    <string name="privacy_authorize_network_error">Készülékének csatlakoznia kell a hálózathoz, hogy visszavonhassa a hozzájárulását. Ellenőrizze a hálózati beállításokat, és próbálja újra.</string>
+    <string name="privacy_authorize_revoke_failed">Nem sikerült az engedélyt visszavonni</string>
+    <string name="privacy_authorize_revoke_success">Az engedély sikeresen visszavonva</string>
+    <string name="privacy_authorize_revoking">Engedély visszavonása…</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
     <string name="privacy_policy">Adatvédelmi Irányelvek</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=hu_HU</string>
+    <string name="privacy_request_desc">"&lt;Data>A Mi Zene alkalmazásnak össze kell gyűjtenie a személyes adatokat, hogy online streamelési szolgáltatásokat nyújthasson Önnek. &lt;a href=\"%1$s\">Adatvédelmi irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. Bármikor visszavonhatja a Mi Zene Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban.
+Olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói feltételeinket&lt;/a> és &lt;a href=\"%1$s\">Adatvédelmi irányelvünket&lt;/a> a Mi Zene használata előtt.
+Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni az alkalmazás minden funkcióját használni; azonban az alapvető funkciókat továbbra is elérheti.&lt;/Data>"</string>
+    <string name="privacy_request_subtitle">"Üdvözöljük, ez a Zene! Az alkalmazás a következő szolgáltatásokat biztosítja Önnek:
+
+- Helyi hanglejátszó
+
+- Online streamelési szolgáltatások"</string>
+    <string name="privacy_request_title">Felhasználási feltételek</string>
     <string name="pro_member">PRO tag</string>
     <string name="project_device">Mi Telefon</string>
     <string name="prompt_grant_write_settings_permission">Rendszerbeállítások módosításának engedélyezése</string>
@@ -729,15 +769,20 @@
     <string name="recommended_no_file_size_download_in_mobile">Letölti ezt a fájlt mobiladat-kapcsolat használatával?</string>
     <string name="remove">Eltávolítás</string>
     <string name="remove_download">Eltávolítás</string>
+    <string name="remove_user_privacy_dialog_message">A kapcsoló kikapcsolásával visszavonja hozzájárulását a Mi Music adatvédelmi irányelveihez. Megszüntetjük személyes adatainak gyűjtését. A már összegyűjtött és megőrzött személyes adatokat az alkalmazandó jogszabályi előírások alapján meghatározott időtartamon belül töröljük. A Mi Music az alapvető szolgáltatások biztosításához személyes adatokat kell, hogy összegyűjtsön. Az adatvédelmi irányelvekhez való hozzájárulásának visszavonása az összegyűjtött személyes adatok alapján a szolgáltatások elutasítását jelenti.</string>
+    <string name="remove_user_privacy_dialog_message_canuse">A kapcsoló kikapcsolásával visszavonja hozzájárulását a Mi Music adatvédelmi irányelveihez. Megszüntetjük személyes adatainak gyűjtését. A már összegyűjtött és megőrzött személyes adatokat az alkalmazandó jogszabályi előírások alapján meghatározott időtartamon belül töröljük. A Mi Music az online stream szolgáltatások biztosításához személyes adatokat kell, hogy összegyűjtsön. Az adatvédelmi irányelvekhez való hozzájárulásának visszavonása az összegyűjtött személyes adatok alapján a fent említett online szolgáltatások elutasítását jelenti.</string>
+    <string name="remove_user_privacy_dialog_title">Beleegyezés visszavonása</string>
     <string name="repeat_all_notif">Összes dal ismétlése.</string>
     <string name="repeat_current_notif">Jelenlegi dal ismétlése.</string>
-    <string name="request_overlay_permission_desc">Engedélyezze, hogy a Mi Music lebegő ablakokat mutasson ezen funkció használatáért.</string>
+    <string name="request_overlay_permission_desc">Engedélyezze, hogy a Mi Zene lebegő ablakokat mutasson ezen funkció használatáért.</string>
+    <string name="request_privacy_permission_title">Olvassa el és fogadja el az alábbi felhasználási feltételeket, hogy minden szolgáltatást elérjen.</string>
     <string name="request_share_info">Egy pillanat…</string>
     <string name="request_subscription_status">Egy pillanat…</string>
     <string name="restart_immediate">Újraindítás</string>
     <string name="retry">Próbálja újra</string>
     <string name="retry_after_network_available">Nem lehet csatlakozni a hálózathoz. Ellenőrizze a kapcsolatot és próbálja újra.</string>
     <string name="retry_download">Próbálja újra</string>
+    <string name="revoke_upload_playlist_to_hungama_toast">Az online számok nem lesznek szinkronizálva a Hungamára</string>
     <string name="ringtone_editing">Csengőhangszerkesztő</string>
     <string name="ringtone_not_support">A dal formátuma nem támogatott</string>
     <string name="ringtone_selected">Kiválasztva</string>
@@ -815,10 +860,12 @@
     <string name="shuffle_music">Kevert lejátszás</string>
     <string name="shuffle_off_notif">Keverés kikapcsolva.</string>
     <string name="shuffle_on_notif">Keverés bekapcsolva.</string>
+    <string name="shuffle_play_toast_text">Számok keverése…</string>
     <string name="similar_albums">Hasonló albumok</string>
     <string name="similar_playlists">Hasonló lejátszási listák</string>
     <string name="similar_songs">Hasonló dalok</string>
     <string name="similar_videos">Hasonló videók</string>
+    <string name="skip">Kihagyás</string>
     <string name="sleep_mode">Elalvásidőzítő</string>
     <string name="sleep_mode_canceled">Alvó mód kikapcsolva</string>
     <string name="sleep_mode_summary">Leállítás előre megadott idő után</string>
@@ -842,6 +889,8 @@
     <string name="start_to_check_new_version">Frissítések keresése…</string>
     <string name="start_to_download">Letöltés…</string>
     <string name="start_to_play">Lejátszás</string>
+    <string name="start_update">Új verzió telepítése…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Klónozott alkalmazások tárhelye</string>
     <string name="storage_internal">Belső tárhely</string>
     <string name="storage_sd_card">SD-kártya</string>
@@ -890,6 +939,7 @@
     <string name="title_online_recommend">Kiemelt lejátszási listák</string>
     <string name="title_search_history">Keresési előzmények</string>
     <string name="title_search_hot">Népszerű</string>
+    <string name="toast_cant_commit_without_title">Írja be a szám címét</string>
     <string name="toast_download_error_by_count_limit">Elérte a maximális letöltések számát ebben a hónapban.</string>
     <string name="toast_download_error_by_not_login">Jelentkezzen be Mi Fiókjába és próbálja újra.</string>
     <string name="toast_download_error_by_vip_required">A dal letöltéséhez igényeljen Prémium Dal Csomagot.</string>
@@ -904,8 +954,13 @@
     <string name="toast_normal_songs_for_download">Normál minőségű dal letöltésére állítva</string>
     <string name="toast_normal_songs_for_stream">Streamelés minősége Normálra állítva</string>
     <string name="toast_not_pro">Ez a funkció kizárólag PRO tagok számára érhető el.</string>
+    <string name="toast_playmode_loop_playback">A jelenlegi lejátszási lista folyamatosan ismétlődik</string>
+    <string name="toast_playmode_shuffle_play">A lejátszás keverve van</string>
+    <string name="toast_playmode_single_cycle">A jelenlegi szám folyamatosan ismétlődik</string>
     <string name="toast_uhd_songs_for_download">Kiváló minőségű dal letöltésére állítva</string>
     <string name="toast_uhd_songs_for_stream">Streamelés minősége Kiválóra állítva</string>
+    <string name="toast_will_play_list_when_ad_pause">A lejátszási lista a hirdetések után indul</string>
+    <string name="toast_will_play_song_when_ad_pause">A szám lejátszása a hirdetések után indul</string>
     <string name="today">Ma</string>
     <string name="top_chart_title">Listák</string>
     <string name="track_play_history_after_login">A lejátszási előzmények megtekintéséhez jelentkezzen be</string>
@@ -918,7 +973,20 @@
     <string name="upgrade_music">Zene frissítése</string>
     <string name="upgrade_music_message">Frissítések készen állnak. Indítsa újra a frissítéshez.</string>
     <string name="upgrading_in_backstage">Frissítés a háttérben…</string>
+    <string name="upload_favorite_dialog_title">Töltse fel dalait a felhőbe, hogy más szinkronizált eszközökön is elérhesse őket. Ezt a funkciót a Beállítások menüben kapcsolhatja ki.</string>
+    <string name="upload_favorite_setting_summary">A kedvencekhez adott online zeneszámok feltöltődnek a felhőbe, és más eszközökön is hozzájuk tud férni</string>
+    <string name="upload_favorite_setting_title">Dalok szinkronizálása</string>
+    <string name="upload_playlist_to_hungama_negative_text">Ne szinkronizáld</string>
+    <string name="upload_playlist_to_hungama_positive_text">Szinkronizálás</string>
+    <string name="upload_playlist_to_hungama_title">Online számok szinkronizálása a Hungamára, hogy olyan más készülékeken is elérhetők legyenek, amelyeken az Mi Accountot használod.</string>
+    <string name="upload_playlist_to_hungama_toast">Az online számok a Hungamára lesznek szinkronizálva</string>
     <string name="user_agreement">Felhasználói Szerződés</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=hu_HU</string>
+    <string name="user_privacy_dialog_negative_text">Mégse</string>
+    <string name="user_privacy_dialog_positive_count_down_text">Visszavonás (%s)</string>
+    <string name="user_privacy_dialog_positive_text">Visszavonás</string>
+    <string name="user_privacy_setting_group_title">Beleegyezés visszavonása</string>
+    <string name="user_privacy_setting_title">A kapcsoló kikapcsolásával visszavonja beleegyezését a Mi Music adatvédelmi irányelveihez.</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
     <string name="version_info">Verzió</string>

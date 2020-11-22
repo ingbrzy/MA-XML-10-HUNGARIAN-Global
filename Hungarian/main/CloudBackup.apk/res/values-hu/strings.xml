@@ -37,7 +37,6 @@
     <string name="back_up_task_in_process">Mentés…</string>
     <string name="back_up_task_unfinished">A mentés nem sikerült</string>
     <string name="backing_up_to_micloud">Mentés…</string>
-    <string name="backup_fail_wifi_needed">Mentés nem sikerült, Wi-Fi szükséges.</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nincs elég szabad Xiaomi Cloud-tárhely. Bővítse előfizetését vagy szabadítson fel tárhelyet.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Nincs elég szabad tárhely. Előbb szabadítson fel tárhelyet.</string>
     <string name="backup_failed_reason_network_error">Hálózati hiba. Várjon egy kicsit és próbálja újra.</string>
@@ -58,6 +57,7 @@
     <string name="btn_restore_resume">Folytatás</string>
     <string name="btn_restore_retry">Újrapróbálkozás</string>
     <string name="btn_restore_wait">Várakozás a Wi-Fi-re</string>
+    <string name="btn_restore_wait_china">Wait for WLAN</string>
     <string name="btn_retry">Újraellenőrzés</string>
     <string name="btn_skip">Lépés kihagyása</string>
     <string name="button_cancel">Mégse</string>
@@ -87,10 +87,15 @@
 *  Értesítések beállításai 
 *  MIUI- és rendszerbeállítások 
 \"Figyelem: Az Ön által telepített alkalmazások adatai nem kerülnek Xiaomi Cloud mentésre."</string>
+    <string name="cloud_back_up_detail_discription_china">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
+*  Apps, Home screen layout, and wallpapers 
+*  Alarm, clock, and time settings 
+*  Notification settings 
+*  MIUI and system settings 
+Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Mentés ütemezése</string>
     <string name="cloud_back_up_frequence_long">Minden 7. napon</string>
     <string name="cloud_back_up_frequence_short">Minden nap</string>
-    <string name="cloud_back_up_no_network_warn">Nem sikerült kapcsolódni a Wi-Fi-hez</string>
     <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_opening">Egy pillanat…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Bővítés</string>
@@ -103,6 +108,7 @@
     <string name="cloud_backup_detail_manage">Mentések kezelése</string>
     <string name="cloud_backup_detail_state">Automatikus mentések</string>
     <string name="cloud_backup_detail_state_summary">A Xiaomi Cloud mentés automatikus elkészítése Wi-Fi-kapcsolat esetén.</string>
+    <string name="cloud_backup_detail_state_summary_china">Create Xiaomi Cloud backups automatically when connected to WLAN.</string>
     <string name="cloud_backup_detail_time">Utolsó mentés: %1$s</string>
     <string name="cloud_backup_detail_title">Kezdőképernyő, alkalmazások és beállítások.</string>
     <string name="cloud_backup_have_data">Mentés található a Xiaomi Cloudban</string>
@@ -138,7 +144,9 @@
     <string name="dialog_cancel_backup_title">Megszakítja a folyamatban lévő mentést?</string>
     <string name="dialog_msg_overwrite_backup">A helyi mentés különbözik egy Xiaomi Cloud mentéstől. Ha most folytatja, felül fogja írni a jelenlegi mentéssel az előzőt.</string>
     <string name="dialog_msg_restore_require_wlan">Mentések visszaállításához Wi-Fi-kapcsolat szükséges.</string>
+    <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
     <string name="dialog_title_require_wlan">Csatlakozzon Wi-Fi-hálózathoz</string>
+    <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="doing_calc_backup_data_size">Méretszámítás…</string>
     <string name="doing_restore_home">Kezdőképernyő és beállítások visszaállítása…</string>
@@ -153,6 +161,7 @@
     <string name="error_unknown">Ismeretlen hiba</string>
     <string name="expand_button_title">Speciális</string>
     <string name="get_device_id_error">Nem kérhető le a készülékazonosító</string>
+    <string name="help_and_feedback">Segítség és visszajelzés</string>
     <string name="hint_restore_cross_space">Ha az asztalok között helyez át elemeket, előfordulhat, hogy a Kezdőképernyő-elrendezés hibásan jelenik meg.</string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">Másik launcher</string>
@@ -179,11 +188,10 @@
     <string name="notification_channel_remind">Emlékeztető</string>
     <string name="notification_channel_service">Szolgáltatás</string>
     <string name="open_backup_switch">Mentés kapcsolójának átváltása</string>
-    <string name="open_wifi">Wi-Fi bekapcsolása</string>
-    <string name="open_wifi_description">Csatlakozzon Wi-Fi-hálózathoz az alkalmazás visszaállításához</string>
-    <string name="open_wifi_setting">Wi-Fi-beállítások</string>
     <string name="other_device_main_space">Első asztal</string>
     <string name="other_device_second_space">Második asztal</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="process_whole_recovery">\"%s\" visszaállítása</string>
     <string name="provision_background_restore_more_data">További elemek visszaállítása a háttérben</string>
@@ -211,7 +219,6 @@ Ellenőrizze a hálózati beállításokat és próbálja újra."</string>
     <string name="restore_app_order_search_prior">Magas fontosságú alkalmazások</string>
     <string name="restore_app_order_title">A visszaállított elemek fontossági sorrendbe állítása</string>
     <string name="restore_cloud_backup_to_phone">Elemek visszaállítása a Xiaomi Cloudból</string>
-    <string name="restore_data_summary">A szolgáltatáshoz internetkapcsolat szükséges.</string>
     <string name="restore_data_title">Adatok visszaállítása</string>
     <string name="restore_detail_category_apps">A Kezdőképernyő elrendezése és alkalmazásai</string>
     <string name="restore_detail_category_settings">Beállítások</string>

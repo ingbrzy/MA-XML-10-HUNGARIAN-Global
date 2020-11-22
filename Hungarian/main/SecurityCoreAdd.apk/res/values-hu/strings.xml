@@ -126,13 +126,6 @@ hogy mindig láthassa"</string>
     <string name="dual_animation">Indítási animáció</string>
     <string name="dual_animation_description">Animáció megjelenítése, amikor egy klónozott alkalmazás elindul</string>
     <string name="enable">Bekapcsolás</string>
-    <string name="encrypt_space_delete_dialog_click_message">*Ha nincs szüksége adatáthelyezésre, %s</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">Második asztal törlése, és új létrehozása most.</string>
-    <string name="encrypt_space_delete_dialog_message">Ön frissíteni fogja a készülék rendszerét. A frissítés után a Második asztal adatai használhatatlanná válnak. Ennek elkerülése érdekében vigye át az összes adatát az Első asztalra, törölje a Második asztalt, majd a frissítés után hozza azt létre újra.</string>
-    <string name="encrypt_space_delete_dialog_positive_text">Adatmozgatás</string>
-    <string name="encrypt_space_delete_dialog_title">Figyelmeztetés</string>
-    <string name="encrypt_space_delete_notification_message">Második asztal törlése, majd egy új létrehozása, hogy sikeresen frissíthesse készülékét.</string>
-    <string name="encrypt_space_delete_notification_title">Második asztal</string>
     <string name="ent_activating">Aktiválás…</string>
     <string name="ent_activation">Aktiválás</string>
     <string name="ent_activation_hint">Adja meg a vállalati kódját a licenckóddal együtt a Vállalati mód aktiválásához. Ezután egyedi vállalati funkciók válnak elérhetővé.</string>
@@ -217,7 +210,6 @@ Az üzenetek csak a második asztalon jelennek meg."</string>
     <string name="guide_pwd_detail_title">"Védje az adatait
 Lépjen be a Második asztalra a képernyőzárról"</string>
     <string name="guide_setting_guide_title">Második asztal engedélyezése</string>
-    <string name="guide_start_ads_text">A biztonság egy egészen új szintje</string>
     <string name="guide_start_text">Két hely. Egy készülék.</string>
     <string name="has_created_second_space">"Megnyithatja a Második asztalt is.
 Két asztal. Egy készülék."</string>
@@ -255,6 +247,14 @@ Külön is letöltheti őket."</string>
     <string name="master_clear_not_available_ep">Jelenleg nem végezhet gyári visszaállítást, illetve nem vonhathatja vissza az engedélyt. Vegye fel a kapcsolatot vezetőjével.</string>
     <string name="menu_item_about_privacy_title">Adatvédelmi irányelvek</string>
     <string name="messageData">Üzenetek</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Húzza le a frissítéshez</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Sikeresen frissítve</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Frissítés…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Engedje el a frissítéshez</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Egyelőre ennyi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Egyelőre ennyi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Egy pillanat...…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemek betöltése sikertelen</string>
     <string name="more_settings">Továbbiak</string>
     <string name="msg_switch_file">Törölje a fájlokat az Első asztalról miután át lettek helyezve?</string>
     <string name="msg_switch_file_second">Törölje a fájlokat az Második asztalról miután át lettek helyezve?</string>
@@ -286,7 +286,6 @@ Külön is letöltheti őket."</string>
     <string name="openPasswordGuard">Állítsa be a Második asztal jelszavát</string>
     <string name="openSuccess">Bekapcsolva</string>
     <string name="opened">Be</string>
-    <string name="optimize_now">Optimalizálás</string>
     <string name="other">Egyéb</string>
     <string name="otherSettings">Egyéb beállítások</string>
     <string name="passWordGuardSummary">Második asztal megnyitása képernyőzárról jelszó használatával</string>
@@ -310,8 +309,6 @@ Ellenkező esetben nem fog tudni a Második asztalra lépni a képernyőzárról
     <string name="remove_button">Törlés</string>
     <string name="remove_button_time">Törlés (%d mp)</string>
     <string name="remove_second_space_msg">Minden Második asztali alkalmazásadat törlődik. Törli a Második asztalt most?</string>
-    <string name="remove_user_click_message">*Ha Ön nem tart semmi fontos dolgot a Második asztalon, %s</string>
-    <string name="remove_user_click_message_action">egyszerűen törölheti a Második asztalt és indítsa újra a készülékét.</string>
     <string name="removingSpace">Törlés…</string>
     <string name="repeat_scanner_fingerprint">Hozzáadás újra</string>
     <string name="reset_passwd_success">A jelszó sikeresen visszaállítva</string>
@@ -335,14 +332,6 @@ a Második asztalra lépéshez képernyőzárról"</string>
     <string name="scanner_fingerprint_tips_desc">Válasszon meglévő ujjlenyomatot a Második asztalhoz. Az Első asztalon nem fogja tudni tovább használni.</string>
     <string name="scanner_fingerprint_tips_title">Második asztalra lépés meglévő ujjlenyomattal</string>
     <string name="scanner_second_space_fingerprint">Második asztal ujjlenyomatának beolvasása</string>
-    <string name="sdcardfs_dialog_message">Újfajta fájlrendszer mutatkozik be ebben a frissítésben, amivel a régi adatok nem kompatibilisek. A probléma megoldásához kövesse a frissítés telepítéseinek lépéseit. Ezalatt a frissítés alatt készüléke kétszer fog újraindulni.</string>
-    <string name="sdcardfs_dialog_title">Fontos frissítés</string>
-    <string name="sdcradfs_dialog_in_owner_message">"Újfajta fájlrendszer mutatkozik be ebben a frissítésben, amivel a régi adatok nem kompatibilisek. A frissítés előtt helyezze biztonságba fontos dolgait a Második asztalról. Majd a frissítés végeztével hozza létre újra a Második asztalt.
-Ha nem végzi el a frissítést, néhány alkalmazás nem fog rendeltetésszerűen működni."</string>
-    <string name="sdcradfs_dialog_in_owner_title">Második asztal</string>
-    <string name="sdcradfs_dialog_in_sec_message">"A frissítés során törölnie kell a Második asztalt, majd újra létrehozni azt. Első lépésként minden fontosat helyezzen át a Második asztalról az Első asztalra, majd indítsa újra készülékét a frissítés befejezéséhez.
-Ha nem végzi el a frissítést, néhány alkalmazás nem fog rendeltetésszerűen működni."</string>
-    <string name="sdcradfs_dialog_in_sec_title">Fontos frissítés</string>
     <string name="search_input_txt_na">"&lt;font color='#CC0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Keresés</string>
     <string name="search_result_text">Nem található alkalmazás</string>
@@ -353,6 +342,8 @@ Ha nem végzi el a frissítést, néhány alkalmazás nem fog rendeltetésszerű
     <string name="second_space_desktop_tips_dialog_title">Fontos frissítés</string>
     <string name="second_space_finger_printf_desc">Állítson be olyan ujjlenyomatot, amit a Második asztal elérésére fog használni</string>
     <string name="second_space_finger_printf_title">Második asztal ujjlenyomat</string>
+    <string name="secondspace_homepage">"Állítson be egy kijelölt képernyőzárat a Második asztalhoz.
+Válassza el és tegye biztonságossá az adatait."</string>
     <string name="select_existed_fingerprint">Ujjlenyomat kiválasztása</string>
     <string name="serNameSummary">Második asztal</string>
     <string name="setSecondSpacePassword">Állítsa be a Második asztal jelszavát</string>
@@ -410,7 +401,6 @@ Ha nem végzi el a frissítést, néhány alkalmazás nem fog rendeltetésszerű
     <string name="space_create_guide_title_1">Védje meg a magánéletét</string>
     <string name="space_create_guide_title_2">Bármikor létrehozható</string>
     <string name="space_create_guide_title_3">Teljesen kockázatmentes</string>
-    <string name="space_created_success">Második asztal sikeresen létrehozva</string>
     <string name="space_deleted">Ez az asztal törölve lett</string>
     <string name="space_des_default">Elkülönített tér titkosított adatokkal</string>
     <string name="space_finger_sub_text">Állítson be ujjlenyomatot a Második asztalra váltáshoz</string>
@@ -427,7 +417,6 @@ a Második asztalra lépéshez képernyőzárról"</string>
     <string name="stop_xspace_alert_title">A klónozott alkalmazások fiókjának törlése</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_switch_apps_settings">Válassza ki a Jelenlegi asztalon használt alkalmazásokat</string>
-    <string name="support_desc">A Spaces Mobile által nyújtott biztonsági szolgáltatások</string>
     <string name="sure_to_use">Megerősítés</string>
     <string name="switchDataSummary">Elemek mozgatása az asztalok közt</string>
     <string name="switch_apps_settings">Alkalmazásbeállítások</string>

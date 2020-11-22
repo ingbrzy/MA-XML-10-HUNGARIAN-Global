@@ -161,9 +161,9 @@
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_not_wlan">Jelenleg nincs csatlakozva Wi-Fi-re. Mobiladat-kapcsolat használata további díjakat vonhat maga után. Biztosan folytatja?</string>
     <string name="antivirus_privacy_dialog_cloudscan">Alkalmazások neveinek és adatainak feltöltése</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">Alkalmazások neveinek és adatainak feltöltése és átvizsgálása online adatbázisok használatával.</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">A vírusok hatékonyabb észlelése és semlegesítése érdekében feltöltjük az alkalmazáscsomagok nevét és tulajdonságait, hogy felhőmotor segítségével kereshetők legyenek.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">Ez a funkció titkosítja és feltölti készülékének azonosítóját az Avast, AVL és a Tencent szerverére (%s).</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Ezt a funkciót harmadik fél víruskereső motorja üzemelteti. További információkért olvassa el a &lt;a href=\"%1$s\">Licencszerződést&lt;/a> , melyet a harmadik fél bocsátott rendelkezésre.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Adatvédelmi Irányelvek</string>
     <string name="antivirus_privacy_dialog_title">Adatvédelmi Irányelvek</string>
     <string name="antivirus_sec_network_unavailable">A Biztonság nem tudja elvégezni a frissítést, mert Ön korlátozta az internetkapcsolatot. Engedélyezi a Biztonság alkalmazásnak, hogy kapcsolódjon az internethez?</string>
@@ -288,6 +288,8 @@
     <string name="app_behavior_start_from_notification_single">Az alkalmazást elindította egy értesítés</string>
     <string name="app_behavior_start_from_recent">A(z) %1s alkalmazás a Legutóbbiak közül került elindításra</string>
     <string name="app_behavior_start_from_recent_single">Az alkalmazás a Legutóbbiak közül került elindításra</string>
+    <string name="app_behavior_start_from_widget">A(z) %1s alkalmazást elindította egy widget</string>
+    <string name="app_behavior_start_from_widget_single">Az alkalmazást elindította egy widget</string>
     <string name="app_behavior_storage">A(z) %1s hozzáfért vagy elmentett fájlokat</string>
     <string name="app_behavior_storage_bg">A(z) %1s hozzáfért vagy elmentett fájlokat a háttérben</string>
     <string name="app_behavior_storage_bg_single">Az app hozzáfért fájlokhoz vagy elmentett fájlokat a háttérben</string>
@@ -310,7 +312,7 @@
     <string name="app_install_tips_install_success">%1$s sikeresen telepítve</string>
     <string name="app_manager_advanced_setting">További beállítások</string>
     <string name="app_manager_allow">Igen</string>
-    <string name="app_manager_anomaly_analysis">Analyze third party app problems</string>
+    <string name="app_manager_anomaly_analysis">Harmadik fél alkalmazásproblémák elemzése</string>
     <string name="app_manager_app_ifno_version">Alkalmazásverzió</string>
     <string name="app_manager_app_info_label">Alkalmazásadatok</string>
     <string name="app_manager_app_info_name">Alkalmazás neve</string>
@@ -764,6 +766,7 @@
     <string name="card_main_private_space_summary">A Második asztal használata olyan, mintha két készüléke lenne</string>
     <string name="card_main_private_space_title">Második asztal</string>
     <string name="card_main_sectool_title">Eszközök</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Létrehozás</string>
     <string name="card_main_xspace_summary">Hozzon létre két fiókot bármely alkalmazásban</string>
     <string name="card_main_xspace_title">Klónozott alkalmazások</string>
@@ -968,6 +971,7 @@ A szám a kivételek közé kerül, de a korábban letiltott számokról érkeze
     <string name="doze_optimization_title">Optimalizált érintésvezérlés</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Nincs alkalmazás</string>
     <string name="empty_title_auto_start_list">Nincs automatikusan indítható alkalmazás</string>
@@ -1019,7 +1023,9 @@ A szám a kivételek közé kerül, de a korábban letiltott számokról érkeze
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -1125,6 +1131,13 @@ A szám a kivételek közé kerül, de a korábban letiltott számokról érkeze
     <string name="first_aid_scanning_item4">Akkumulátorproblémák keresése…</string>
     <string name="first_aid_scanning_item5">Egyéb problémák keresése…</string>
     <string name="first_aid_stop_scan">Keresés leállítása</string>
+    <string name="first_settings_default_camera_title">Alapértelmezés szerint metaadatok nélküli megosztás</string>
+    <string name="first_settings_default_location_subtitle">Helyinformációk eltávolítása a megosztott képekből</string>
+    <string name="first_settings_default_location_title">Alapértelmezés szerint helyinformációk nélküli megosztás</string>
+    <string name="first_settings_share_enable">\"Biztonságos megosztás\" jelzés hozzáadása</string>
+    <string name="first_settings_share_enable_subtitle">A WeChaten megosztott elemek MIUI jelzéssel jelennek meg</string>
+    <string name="first_settings_subtitle">Itt találhatók az ön számára elérhető biztonságos megosztási opciók:</string>
+    <string name="first_settings_title">Védje adatait</string>
     <string name="five_percent_total_pkg">%s (Az adatforgalom 5%%-a)</string>
     <string name="fod_authentication_shift_button">Mégse</string>
     <string name="fod_button_finger">Használja az ujjlenyomatát</string>
@@ -1151,10 +1164,9 @@ A szám a kivételek közé kerül, de a korábban letiltott számokról érkeze
     <string name="free_traffic_settings">Ingyenes adatforgalom beállítása</string>
     <string name="function_close">Kikapcsolva</string>
     <string name="function_gwsd_detail">"A funkcióról:
- 1. Az adat SIM-kártyájára érkező bejövő hívások nem fogják megszakítani az adatkapcsolatát. Az adatkapcsolat csak akkor szakad meg, ha felveszi a hívást.
- 2. Ha bekapcsolja ezt a funkciót, a hívó nem fog hívásvárakoztatási hangot hallani. A bejövő hívások automatikusan megszakadnak, ha nem válaszol 6 másodpercen belül.
- 3. Ez a funkció csak adat SIM-kártyákkal működik. Az elsődleges SIM-kártyájára érkező hívások megszakítják a mobil adatkapcsolatot.
- 4. Ez a funkció kizárólag a China Mobile és a China Unicom használata esetén elérhető."</string>
+ 1. Ha mobiladat-forgalmat használ egy adat SIM-kártyán vagy egy VoLTE-hálózatra csatlakoztatott hagyományos SIM-kártyán, a kapcsolatot meg fogják szakítani a bejövő hívások, amíg azokat nem veszi fel.
+ 2. Ha ez a funkció be van kapcsolva, a másik fél nem fogja hallani a csengőhangot, kivéve, ha Ön hagyományos SIM-kártyát használ. A bejövő hívások 7-10 másodperces inaktivitás után automatikusan elutsításra kerülnek.
+ 3. A China Mobile és a China Unicom által kibocsájtott adat SIM-kártyákat támogatjuk. A China Mobile, a China Unicom és a China Telecom által kibocsájtott hagyományos SIM-kártyákat támogatjuk."</string>
     <string name="function_gwsd_title">Ne engedélyezzen bejövő hívásokat, ha azok megszakítanák a SIM adatkapcsolatát</string>
     <string name="function_shield_auto_bright">Az automatikus fényerőszabályzás kikapcsolása</string>
     <string name="function_shield_eye_shield">Az Olvasómód kikapcsolása</string>
@@ -1335,7 +1347,7 @@ A szám a kivételek közé kerül, de a korábban letiltott számokról érkeze
     <string name="gb_xunyou_gift_type_one">Xunyou gyorsító 1 napra</string>
     <string name="gb_xunyou_gift_type_three">Xunyou gyorsító 3 napra</string>
     <string name="gb_xunyou_gift_type_two">Xunyou gyorsító 2 napra</string>
-    <string name="gdpr_msg">&lt;Data>A Biztonság alkalmazás alapvető funkcióinak használatához el kell fogadnia, hogy a Xiaomi összegyűjti, feldolgozza és felhasználja személyes adatait, beleértve a Biztonság funkcióinak felhasználási módját (pl. mobiladat-használati statisztikák, a rosszindulatú programokról szóló információk, valamint az Ön készülékére vonatkozó alapvető információk) és az &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Adatvédelmi szabályzatában meghatározott egyéb típusú információkat&lt;/a>.&lt;/Data></string>
+    <string name="gdpr_msg"><Data>A biztonsági kockázatok felismerése és az adatai védelme érdekében össze kell gyűjtenünk a szükséges mennyiségű információt az eszközéről. Olvassa el és fogadja el az &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Adatvédelmi irányelveket&lt;/a>, mielőtt használja a szolgáltatásainkat. Amennyiben nem engedélyezi ezeknek az információknak a gyűjtését, akkor is fogja tudni használni az alkalmazást, csak néhány funkció nem lesz elérhető. </Data></string>
     <string name="get_sys_info">Adatok lekérése…</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_setting_alert_dialog_content">Akár %s helyet is felszabadíthat</string>
@@ -1394,8 +1406,15 @@ A videók a Játékgyorsító > Fontos pillanatok menübe kerülnek elmentésre.
     <string name="gs_show_way_vertical">Függőleges</string>
     <string name="gs_sign_notification">Naponta este 8-kor emlékeztessen a bejelentkezésre</string>
     <string name="gs_slip_gamebox_detail">Használja a csúszkát vagy a csúsztatást a képernyő felső szélétől, hogy megjelenjen a parancsikonpanel</string>
+    <string name="gtb_dialog_btn_close">Kikapcsolás</string>
+    <string name="gtb_dialog_btn_open">Bekapcsolás</string>
+    <string name="gtb_dialog_hint_smart_5g">A funkció bármikor ki- vagy bekapcsolható a Játékgyorsító > Beállítások menüben.</string>
+    <string name="gtb_dialog_summary_smart_5g">Ha a Játékgyorsító 5G hálózatot észlel, a hálózati késés csökkentése érdekében csatlakoztathatja az elérhető legjobb hálózathoz. Bekapcsolja a funkciót most?</string>
+    <string name="gtb_dialog_title_smart_5g">5G hálózatoptimalizáció</string>
     <string name="gtb_exit_game_to_gtb">Játékbox megnyitása</string>
     <string name="gtb_exit_game_to_home">Vissza a Kezdőlapra</string>
+    <string name="gtb_setting_item_summary_smart_5g">Ha a Játékgyorsító 5G hálózatot észlel, a hálózati késés csökkentése érdekében csatlakoztathatja az elérhető legjobb hálózathoz</string>
+    <string name="gtb_setting_item_title_smart_5g">5G hálózatoptimalizáció</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Hibás szolgáltató?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"Jelenlegi szolgáltatója: "</string>
     <string name="guide_quck_open">Bekapcsolás</string>
@@ -1486,6 +1505,7 @@ A szolgáltató további költségeket számolhat fel, ha újra adatforgalmat ha
     <string name="list_empty_text">Üres</string>
     <string name="load_only_under_wlan">Betöltés csak Wi-Fi használatával</string>
     <string name="loading">Egy pillanat…</string>
+    <string name="loading_text_format" formatted="false">Személyes adatok eltávolítása a képekről (%d/%d)…</string>
     <string name="local_ip_exception_summary">Nem kérhető le a helyi IP-cím. A hibajelentéséhez lépjen be a Visszajelzés alkalmazásba és küldje el a hibanaplót.</string>
     <string name="lock_all_title">Összes alkalmazás zárolása</string>
     <string name="lock_mode_title">Zárolási beállítások</string>
@@ -1614,6 +1634,7 @@ hogy válaszoljon"</string>
     <string name="memory_check_content">%s felszabadítva</string>
     <string name="memory_clean_memory_size_tip">Gyorsítótár</string>
     <string name="memory_clean_no_need_clean">Minden rendben van</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">%s felszabadítva. Készüléke ennyivel gyorsabb: %d%%.</string>
     <string name="memory_clear_unused">Gyorsítótártörlés (%s)</string>
     <string name="memory_title">Elérhető: %1$s\u0009\u0009Összesen: %2$s</string>
     <string name="menu_add">Hozzáadás</string>
@@ -1654,11 +1675,14 @@ hogy válaszoljon"</string>
     <string name="menu_summary_antivirus">Vírusok keresése a készüléken</string>
     <string name="menu_summary_app_manager">Frissítés és eltávolítás</string>
     <string name="menu_summary_garbage_cleanup">Nincs szemét</string>
-    <string name="menu_summary_garbage_cleanup_ex">%s szemét törölve</string>
+    <string name="menu_summary_garbage_cleanup_ex">%s felszabadítása</string>
+    <string name="menu_summary_garbage_cleanup_new">%d%% tárhely</string>
     <string name="menu_summary_networkassistants">Adatforgalom kezelése</string>
     <string name="menu_summary_networkassistants_2">Korlát túllépve</string>
     <string name="menu_summary_networkassistants_3">Elég adat maradt hátra</string>
     <string name="menu_summary_networkassistants_4">Az adatcsomag fogyóban van</string>
+    <string name="menu_summary_optimize_manage">Tárhelytisztítás</string>
+    <string name="menu_summary_optimize_manage_1">Tegye ennyivel gyorsabbá készülékét: %d%%</string>
     <string name="menu_summary_power_manager">Az Akkumulátorkímélő több időt ad Önnek két feltöltés között</string>
     <string name="menu_summary_power_manager_1">Az akkumulátor teljesen feltöltve</string>
     <string name="menu_summary_power_manager_2">%s van hátra</string>
@@ -1667,16 +1691,20 @@ hogy válaszoljon"</string>
     <string name="menu_text_antispam">Tiltólista</string>
     <string name="menu_text_antivirus">Biztonsági vizsgálat</string>
     <string name="menu_text_garbage_cleanup">Tisztító</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">Engedélyek</string>
     <string name="menu_text_networkassistants">Adatforgalom</string>
     <string name="menu_text_networkassistants_danger">%s túlforgalm.</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s elérhető</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Sebességgyorsítás</string>
+    <string name="menu_text_optimize_manage_1">Sebességgyorsítás</string>
     <string name="menu_text_power_manager">Akkumulátor és teljesítmény</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Eltávolítás a kivételek listájáról</string>
     <string name="menu_white">Hozzáadás a kivételekhez</string>
     <string name="mi_service_app_detail">Adatforgalmi részletek</string>
@@ -1836,6 +1864,8 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="om_locked_apps_summary">A rögzített alkalmazásokat figyelmen kívül hagyja a sebességgyorsítás.</string>
     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">Sebességgyorsítás szükséges</string>
+    <string name="om_optimzing_big_button_text">Sebességgyorsítás</string>
+    <string name="om_running_app_info_summary">%s felszabadítása</string>
     <string name="om_running_locked_apps">Rögzített futó alkalmazások</string>
     <string name="om_running_system_apps">Futó rendszeralkalmazások</string>
     <string name="om_running_third_apps">Futó harmadik féltől származó alkalmazások</string>
@@ -1850,6 +1880,13 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="om_settings_notify_manage">Értesítések</string>
     <string name="om_settings_speed_up_auto">Automatikus gyorsítás</string>
     <string name="om_settings_title">Beállítások</string>
+    <string name="om_shortcut_added_toast_text">Sikeresen hozzáadva</string>
+    <string name="om_shortcut_dialog_summary">A RAM Jettel felszabadíthatja a memóriát és felgyorsíthatja készülékét egyetlen érintéssel. Hozzáadja a RAM Jetet a Kezdőképernyőhöz?</string>
+    <string name="om_shortcut_dialog_title">RAM Jet</string>
+    <string name="once_settings_camera_ttile">Megosztás metaadat nélkül</string>
+    <string name="once_settings_location_title">Megosztás helyi információ nélkül</string>
+    <string name="once_settings_subtitle">Hogyan szeretné megosztani a kiválasztott elemeket?</string>
+    <string name="once_settings_title">Adatvédelem</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">Alkalmazás nem található</string>
     <string name="open_app">Megnyitás</string>
@@ -2057,6 +2094,11 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="power_center_dialog_msg_top">Ha be van kapcsolva az Akkukímélő, a MIUI a következőket optimalizálja:</string>
     <string name="power_center_hints_scan_danger_result">Most megoldhatja az akkumulátorral kapcsolatos problémákat</string>
     <string name="power_center_list_item_auto_brightness">Automatikus képernyő-fényerősségszabályzás</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ó</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth kikapcsolása</string>
     <string name="power_center_list_item_deep_save_title">Haladó beállítások</string>
@@ -2233,6 +2275,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pref_normal_traffic_limit">Amikor a tervezett adat-előfizetés elfogyott</string>
     <string name="pref_open_adjust_traffic">Adatforgalmi adatok szinkronizálása a szolgáltató szerverével</string>
     <string name="pref_operator_not_set">Szolgáltató nincs beállítva</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Ha túllépi az adatforgalmi keretet</string>
     <string name="pref_package_traffic_settings">Adat-előfizetés</string>
     <string name="pref_pkg_begin_date">Számlázási időszak kezdete</string>
@@ -2396,6 +2439,7 @@ A hitelesítéskor a MIUI szöveges üzenetet fog küldeni a szolgáltatójának
     <string name="privacy_using_record">Hangrögzítés</string>
     <string name="privacyapp_number_masked_text">Az értesítés tartalma el van rejtve</string>
     <string name="privacyapp_number_unmasked_text">Az értesítés tartalma elrejthető</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Médiaszerver</string>
     <string name="process_vpnsdkmanager_label">Játékgyorsító</string>
     <string name="promotion">Reklám</string>
@@ -2534,10 +2578,18 @@ A hitelesítéskor a MIUI szöveges üzenetet fog küldeni a szolgáltatójának
     <string name="settings">Adatforgalmi beállítások</string>
     <string name="settings_battery_consume_abnormal_summary">Értesítés küldése alacsony akkumulátorszint esetén</string>
     <string name="settings_battery_consume_abnormal_title">Akkumerülési értesítések</string>
+    <string name="settings_camera_subtitle_no">Nincsenek metaadatok</string>
     <string name="settings_category_other">Egyéb beállítások</string>
     <string name="settings_category_overheat">Értesítések</string>
     <string name="settings_choice_no_notification">Kikapcsolva</string>
+    <string name="settings_image_camera_summary">Készüléktípus, metaadatok stb.</string>
+    <string name="settings_location_subtitle_no">Nincs helyinformáció</string>
     <string name="settings_power_save_ontime_title">Ütemezés</string>
+    <string name="settings_share_enable_summary">A WeChaten megosztott elemek MIUI jelzéssel jelennek meg</string>
+    <string name="settings_share_info">Itt találhatók az elérhető biztonságos megosztási opciók a Galériából és a Fájlkezelőből megosztott elemek számára:</string>
+    <string name="settings_show_detail">Részletek megjelenítése</string>
+    <string name="settings_tip">Ugrás a Galéria > Beállítások menüpontba a további lehetőségek megtekintéséhez</string>
+    <string name="settings_title">Biztonságos megosztás</string>
     <string name="shield_keyboard_detail">Nyomja duplán a gombokat a visszakapcsolásukhoz</string>
     <string name="shield_keyboard_summary">A játékok közben korlátozza a gombokat és a vezérlőmozdulatokat</string>
     <string name="shield_keyboard_title">Gombok és vezérlőgesztusok korlátozása</string>
@@ -2997,6 +3049,8 @@ A formázás eltávolítja a tartalmakat a(z) ^2 SD-kártyáról. A tartalmak el
     <string name="text_button">Rendben</string>
     <string name="text_cycle_day">%s</string>
     <string name="text_day" />
+    <string name="text_done">OK</string>
+    <string name="text_security">Adatvédelem</string>
     <string name="thermal_tips_message">Ha a telefon Teljesítmény módban van játék közben, az erőteljes melegedést okoz.</string>
     <string name="thermal_tips_title">Figyelem</string>
     <string name="third_application">Telepített alkalmazás</string>

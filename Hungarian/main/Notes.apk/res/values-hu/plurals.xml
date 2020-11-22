@@ -37,8 +37,8 @@
         <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="alert_message_delete">
-        <item quantity="other">Törölsz %1$s elemet?</item>
-        <item quantity="one">Törölsz %1$s elemet?</item>
+        <item quantity="other">Töröl %1$s elemet?</item>
+        <item quantity="one">Töröl %1$s elemet?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$s elem nem került szinkronizálásra</item>
@@ -119,6 +119,10 @@
     <plurals name="todo_event_description_days_later">
         <item quantity="other">%1$d napon belül</item>
         <item quantity="one">%1$d napon belül</item>
+    </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s feladat</item>
+        <item quantity="one">%1$s feladat</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d karakter</item>

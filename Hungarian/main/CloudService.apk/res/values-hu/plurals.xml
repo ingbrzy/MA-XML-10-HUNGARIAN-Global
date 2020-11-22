@@ -56,6 +56,10 @@
         <item quantity="other">%d Wi-Fi hálózat</item>
         <item quantity="one">%d Wi-Fi hálózat</item>
     </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">%d elem vár szinkronizálásra</item>
         <item quantity="one">%d elem vár szinkronizálásra</item>
@@ -75,5 +79,9 @@
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s szolgáltatás kerül Xiaomi Cloud-szinkronizálásra</item>
         <item quantity="one">%s szolgáltatás kerül Xiaomi Cloud-szinkronizálásra</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">Nem választható ki több mint %d tétel</item>
+        <item quantity="one">Nem választható ki több mint %d tétel</item>
     </plurals>
 </resources>

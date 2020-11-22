@@ -25,8 +25,8 @@
         <item quantity="one">Töröl %1$d piszkozatot?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d kiválasztva</item>
-        <item quantity="one">%d kiválasztva</item>
+        <item quantity="other">%d névjegy hozzáadva</item>
+        <item quantity="one">%d névjegy hozzáadva</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> archiválva.</item>
@@ -115,6 +115,46 @@
     <plurals name="num_selected">
         <item quantity="other">%d kiválasztva</item>
         <item quantity="one">%d kiválasztva</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d nappal utána</item>
+        <item quantity="one">%1$d nappal utána</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d nappal előtte</item>
+        <item quantity="one">%1$d nappal előtte</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d órával utána</item>
+        <item quantity="one">%1$d órával utána</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d órával előtte</item>
+        <item quantity="one">%1$d órával előtte</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d perccel utána</item>
+        <item quantity="one">%1$d perccel utána</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d perccel előtte</item>
+        <item quantity="one">%1$d perccel előtte</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d másodperccel utána</item>
+        <item quantity="one">%1$d másodperccel utána</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d másodperccel előtte</item>
+        <item quantity="one">%1$d másodperccel előtte</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d héttel utána</item>
+        <item quantity="one">%1$d héttel utána</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d héttel előtte</item>
+        <item quantity="one">%1$d héttel előtte</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">Válasz %1$d embernek</item>

@@ -28,13 +28,17 @@
         <item quantity="other">%d felvétel letöltve</item>
         <item quantity="one">%d felvétel letöltve</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">%d elemet nem sikerült visszaállítani egy ismeretlen hiba miatt.</item>
+        <item quantity="one">%d elemet nem sikerült visszaállítani egy ismeretlen hiba miatt.</item>
+    </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">Keresés %d felvétel között</item>
         <item quantity="one">Keresés %d felvétel között</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">Search among %d recordings</item>
-        <item quantity="one">Search among %d recording</item>
+        <item quantity="other">Keresés %d felvétel között</item>
+        <item quantity="one">Keresés %d felvétel között</item>
     </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">Keresés %d hívásrögzítés között</item>
@@ -43,6 +47,18 @@
     <plurals name="search_result">
         <item quantity="other">%d felvételt találtunk</item>
         <item quantity="one">%d felvételt találtunk</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d nap van hátra</item>
+        <item quantity="one">%d nap van hátra</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Végleg töröl %d kiválasztott felvételt?</item>
+        <item quantity="one">Végleg töröl %d kiválasztott felvételt?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">A törölt elemek a kukában legfeljebb %d napig tárolhatók</item>
+        <item quantity="one">A törölt elemek a kukában legfeljebb %d napig tárolhatók</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d nincs szinkronizálva</item>

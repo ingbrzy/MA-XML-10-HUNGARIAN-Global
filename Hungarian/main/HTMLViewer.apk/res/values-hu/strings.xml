@@ -10,6 +10,14 @@
 egy másik készüléken nyissa meg ezt az oldalt: %s."</string>
     <string name="loading">Egy pillanat…</string>
     <string name="mibi_license">A Mi Credit Felhasználói Szerződése</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Húzza le a frissítéshez</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Sikeresen frissítve</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Frissítés…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Engedje el a frissítéshez</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Egyelőre ennyi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Egyelőre ennyi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Egy pillanat...…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemek betöltése sikertelen</string>
     <string name="open_wifi_connect_and_use_data_summary">Mobiladat-forgalom használatával. Érintse meg Wi-Fi-re váltáshoz.</string>
     <string name="open_wifi_connect_summary">A részletek megtekintéséhez érintse meg.</string>
     <string name="open_wifi_connect_title">Csatlakozva ide: %1$s</string>

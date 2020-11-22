@@ -4,6 +4,30 @@
         <item quantity="other">Összpontosítva. %d arc felismerve</item>
         <item quantity="one">Összpontosítva. %d arc felismerve</item>
     </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fénykép egy sorozatfelvételben</item>
+        <item quantity="one">%d fénykép egy sorozatfelvételben</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Időtartam: %d másodperc</item>
+        <item quantity="one">Időtartam: %d másodperc</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Duration: %d seconds</item>
+        <item quantity="one">Duration: %d second</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Maximálisan %d klónt hozhat létre egyszerre.</item>
+        <item quantity="one">Maximálisan %d klónt hozhat létre egyszerre.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s perc</item>
+        <item quantity="one">%1$s perc</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s kép</item>
+        <item quantity="one">%1$s kép</item>
+    </plurals>
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">A sorozatfelvétel elkészült, %1$s fényképpel</item>
         <item quantity="one">A sorozatfelvétel elkészült, %1$s fényképpel</item>

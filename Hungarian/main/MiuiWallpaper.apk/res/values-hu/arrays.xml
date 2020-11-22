@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Otthon</item>
+        <item>Háttérkép/Szuper háttérképek/Otthon</item>
+        <item>Föld;Szuper háttérképek;Föld kiadás;Háttérkép</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>A vörös bolygó</item>
+        <item>Háttérkép/Szuper háttérképek/A vörös bolygó</item>
+        <item>Mars;Mars kiadás;Szuper háttérképek;Háttérkép</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Szuper háttérképek</item>
+        <item>Háttérkép/Szuper háttérképek</item>
+        <item>Szuper háttérképek;Háttérkép;Dinamikus háttérkép;3D háttérkép</item>
+    </string-array>
+</resources>

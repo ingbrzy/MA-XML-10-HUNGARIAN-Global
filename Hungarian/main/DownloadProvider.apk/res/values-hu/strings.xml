@@ -10,6 +10,7 @@
     <string name="download_queued">Várakozik</string>
     <string name="download_remaining">%s van hátra</string>
     <string name="download_running">Letöltés</string>
+    <string name="download_running_percent">Letöltés %s</string>
     <string name="download_unknown_title">&lt;Névtelen></string>
     <string name="notif_title_file_size">%1$d összesen</string>
     <string name="notif_title_single_downloading">%1$s letöltése</string>
@@ -34,12 +35,12 @@
     <string name="permlab_downloadWithoutNotification">Fájlok letöltése értesítés nélkül</string>
     <string name="permlab_seeAllExternal">Az összes letöltés megjelenítése az USB háttértáron</string>
     <string name="root_downloads">Letöltések</string>
-    <string name="wifi_recommended_body" formatted="false">"Ekkora fájl (%s ) letöltése lerövidíti az akkumulátor élettartamát és/vagy a mobiladat-kapcsolat túlzott használatához vezet, ami az Ön tervezett adatfogalmától függően újabb költségeket okozhat mobilszámláján.
+    <string name="wifi_recommended_body">"Ekkora fájl (%1$s ) letöltése lerövidíti az akkumulátor élettartamát és/vagy a mobiladat-kapcsolat túlzott használatához vezet, ami az Ön tervezett adatfogalmától függően újabb költségeket okozhat mobilszámláján.
 
-Érintse meg itt %s, hogy akkor kezdődjön a letöltés, amikor legközelebb Wi-Fi-kapcsolata lesz."</string>
+Érintse meg itt %2$s, hogy akkor kezdődjön a letöltés, amikor legközelebb Wi-Fi-kapcsolata lesz."</string>
     <string name="wifi_recommended_title">Várólistához adja és letölti később?</string>
-    <string name="wifi_required_body" formatted="false">"Kapcsolódjon Wi-Fi-re eme %s letöltéshez.
+    <string name="wifi_required_body">"Kapcsolódjon Wi-Fi-re eme %1$s letöltéshez.
 
-Érintse meg a %s-t, hogy a letöltés akkor kezdődjön el, amikor legközelebb csatlakozik Wi-Fi-hálózathoz."</string>
+Érintse meg a %2$s-t, hogy a letöltés akkor kezdődjön el, amikor legközelebb csatlakozik Wi-Fi-hálózathoz."</string>
     <string name="wifi_required_title">A fájl túl nagy a mobiladat-kapcsolaton való letöltéshez</string>
 </resources>

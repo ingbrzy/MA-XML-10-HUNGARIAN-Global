@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="app_name">Értesítések</string>
+    <string name="back">Vissza</string>
     <string name="cancel">Mégse</string>
     <string name="category_other">Egyéb</string>
     <string name="confirm">OK</string>
@@ -46,6 +47,7 @@
     <string name="feedback_tip_msg">Az értesítések pontosabb csoportosításához be kell gyűjtenünk az alkalmazás nevét, az értesítést címét és leírását, valamint az értesítés küldésének idejét. Elküldi a visszajelzést?</string>
     <string name="feedback_tip_title">Visszajelzés az értesítési kategóriákról</string>
     <string name="float_notifications">Lebegő értesítések</string>
+    <string name="float_notifications_short">Lebegő</string>
     <string name="function_description">A funkcióról</string>
     <string name="hint_search_all">Alkalmazások keresése</string>
     <string name="hint_search_in_disabled_apps">Alkalmazások keresése, melyek nem jeleníthetnek meg értesítéseket</string>
@@ -56,20 +58,14 @@
     <string name="lock_screen_display_rules">Formátum</string>
     <string name="lock_screen_tip_toast">Billentyűzár értesítések bekapcsolása \"Formátumban\"</string>
     <string name="lockscreen_notifications">Lezáróképernyő értesítései</string>
-    <string name="menu_setting_recommend_to_minus">Kevesebb értesítés megjelenítése</string>
-    <string name="menu_setting_recommend_to_normal">Ne csökkentse az értesítéseket</string>
+    <string name="lockscreen_notifications_short">Képernyőzár</string>
     <string name="menu_setting_show_in_home">Ne csoportosítson</string>
-    <string name="menu_setting_tip_recommend_minus">Kevesebb értesítést fog látni a(z) %s helyről</string>
-    <string name="menu_setting_tip_recommend_normal">A(z) %s helyen megtalálható értesítések nem kerülnek csökkentésre</string>
     <string name="menu_setting_tip_show_in_home">A(z) %s helyen megtalálható értesítések nem kerülnek csoportosításra</string>
     <string name="menu_setting_tip_unfold">Az alkalmazás összes értesítése fontosnak minősül majd</string>
-    <string name="menu_setting_toast_recommend_minus">Kevesebb értesítést fog látni a(z) %s helyről</string>
-    <string name="menu_setting_toast_recommend_normal">A(z) %s helyen megtalálható értesítések nem kerülnek csökkentésre</string>
-    <string name="menu_setting_toast_show_in_home">A(z) %s helyen megtalálható értesítések nem kerülnek csoportosításra</string>
     <string name="menu_setting_unfold">Fontos</string>
     <string name="not_sent_recently">Nem mostanában</string>
     <string name="not_set">Nincs beállítva</string>
-    <string name="notch_and_status_bar_setting">Képernyőkivágás és állapotsor</string>
+    <string name="notch_and_status_bar_setting">Vezérlőközpont &amp; állapotsor</string>
     <string name="notification_aggregate_description1">A MIUI automatikusan csoportosítani tudja a push és a promóciós értesítéseket, amelynek köszönhetően az Értesítési sáv kevésbé lesz tele.</string>
     <string name="notification_aggregate_description2">Algoritmusunk elemzi az értesítés tartalmát és nem alkalmazza ezt a funkciót a fontos értesítésekre az azonnali üzenetküldőből. Ha azt észleli, hogy a fontos értesítések véletlenül csoportosításra kerültek, jelentse a problémát a „Visszajelzés” funckióval.</string>
     <string name="notification_aggregate_summary">A MIUI automatikus csoportértesítéseket küldhet</string>
@@ -80,8 +76,6 @@
     <string name="notification_fold_summary">A nem fontos értesítések automatikus csoportosítása</string>
     <string name="notification_fold_title">Értesítések csoportosítása</string>
     <string name="notification_manager">Alkalmazásértesítések</string>
-    <string name="notification_setting_menu_feedback_text">"Ennek az értesítésnek nem kellene itt lennie?
-Probléma jelentése >"</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">Ki</string>
@@ -90,6 +84,8 @@ Probléma jelentése >"</string>
     <string name="search_menu_title">Keresés</string>
     <string name="settings_guide_title">Szükségesek egyéb beállítások?</string>
     <string name="show_badge_notifications">Értesítések száma</string>
+    <string name="show_badge_notifications_short">Jelvények</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Állapotsor</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">A lebegő értesítések nincsenek engedélyezve</string>
@@ -102,8 +98,6 @@ Probléma jelentése >"</string>
     <string name="summary_lock_screen_enable_notification_first">Értesítések engedélyezése a Lezáróképernyő értesítéseinek bekapcsolásához</string>
     <string name="summary_show_badge_enable_notification_first">Értesítések engedélyezése a értesítésjelzések bekapcsolásához</string>
     <string name="swipe_to_delete">A törléshez lapozzon balra vagy jobbra</string>
-    <string name="tip_feedback_success">Sikeresen elküldve</string>
-    <string name="tip_select_category">Értesítési kategória kiválasztása</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
 </resources>

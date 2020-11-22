@@ -8,6 +8,10 @@
         <item quantity="other">Visszalépés a főoldalra %1$d másodperc múlva…</item>
         <item quantity="one">Visszalépés a főoldalra %1$d másodperc múlva…</item>
     </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d követő</item>
+        <item quantity="one">%d követő</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">A feliratok %.1f másodperccel korábban jelennek meg</item>
         <item quantity="one">A feliratok %.1f másodperccel korábban jelennek meg</item>
@@ -23,6 +27,10 @@
     <plurals name="lv_video_count">
         <item quantity="other">%d videó</item>
         <item quantity="one">%d videó</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s másodperc van hátra</item>
+        <item quantity="one">%s másodperc van hátra</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">A tartalmad olyan elemeket (%1$s) tartalmaz, amelyek sértik a közösségi alapelveinket. Fiókod %2$d napig, vagyis eddig: %3$s felfüggesztésre kerül.</item>
@@ -63,6 +71,18 @@
     <plurals name="plus_serval_videos">
         <item quantity="other">%d videó</item>
         <item quantity="one">%d videó</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Koppintson duplán a %d másodperccel való visszatekeréshez</item>
+        <item quantity="one">Koppintson duplán a %d másodperccel való visszatekeréshez</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Koppintson duplán a %d másodperccel való gyors előretekeréshez</item>
+        <item quantity="one">Koppintson duplán a %d másodperccel való gyors előretekeréshez</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s mp</item>
+        <item quantity="one">%1$s mp</item>
     </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s feliratkozó</item>

@@ -35,6 +35,11 @@
     <string name="close_panel">Lebegő labda kikapcsolása</string>
     <string name="copy">Másolás</string>
     <string name="customize_entries">A parancsikonok kiválasztása</string>
+    <string name="edge_distance_pref_summary">Koppintson a képernyő éleinek közelében lévő ébresztési területekre, hogy a Lebegő labda megjelenjen</string>
+    <string name="edge_distance_pref_title">Ébresztési területek</string>
+    <string name="edge_mode_custom_summary">Állítsa be a képernyő éleinek közelében lévő ébresztési területek méretét</string>
+    <string name="edge_mode_custom_title">Egyedi</string>
+    <string name="edge_mode_default_title">Alapértelemezett</string>
     <string name="enable_touch_assistant">A Lebegő labda bekapcsolása</string>
     <string name="expand_button_title">Speciális</string>
     <string name="function_settings">Parancsikon beállítások</string>
@@ -67,6 +72,7 @@
     <string name="name_trans_cards">Közlekedési kártya</string>
     <string name="name_wechat_payment_code">WeChat fizetés</string>
     <string name="name_wechat_scan">WeChat szkenner</string>
+    <string name="name_xiao_ai">Mi AI</string>
     <string name="nfc_all_mipay_card_not_in_use">A Mi Pay nincs aktiválva</string>
     <string name="nfc_trans_card_not_in_use">Az NFC-utazókártya nincs aktiválva</string>
     <string name="not_set">Nincs beállítva</string>

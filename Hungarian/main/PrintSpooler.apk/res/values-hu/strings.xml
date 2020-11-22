@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="activity_convert_pdf_alert_message">A fájlkonverziót a WPS Office biztosítja</string>
+    <string name="activity_convert_pdf_alert_title">Fájlkonvertálás nyomtatás előtt…</string>
+    <string name="activity_jump_market_alert_install_message">Telepítse a WPS Office-t a fájl konvertálásához és készítse elő a nyomtatáshoz. A telepítést követően újra el kell indítania a nyomtatást. Telepíti most?</string>
+    <string name="activity_jump_market_alert_install_positive_button">Telepítés</string>
+    <string name="activity_jump_market_alert_title">Figyelem</string>
+    <string name="activity_jump_market_alert_update_message">Telepítse a WPS Office-t a fájl konvertálásához és készítse elő a nyomtatáshoz. Új verzió telepítését követően újra el kell indítania a nyomtatást. Telepíti most?</string>
+    <string name="activity_jump_market_alert_update_positive_button">Frissítés</string>
     <string name="add_print_service_label">Szolgáltatás hozzáadása</string>
     <string name="all_printers">Az összes nyomtató…</string>
     <string name="all_printers_label">Az összes nyomtató</string>
@@ -16,7 +23,10 @@
     <string name="collapse_handle">„Összecsukás” fogantyú</string>
     <string name="connectio_delay_content">Lehetséges, hogy meg kell erősítenie, hogy csatlakozva van a nyomtatóhoz.</string>
     <string name="connectio_help_title">Csatlakozás egy nyomtatóhoz</string>
+    <string name="copies_decrease">Mínusz egy másolat</string>
+    <string name="copies_increase">Plusz egy másolat</string>
     <string name="could_not_create_file">Nem sikerült létrehozni a fájlt</string>
+    <string name="current_page_template">%1$d/%2$d</string>
     <string name="delete_saved_printer_content">Törli a kiválasztott nyomtatókat?</string>
     <string name="destination_default_text">Válasszon ki egy nyomtatót</string>
     <string name="disabled_services_title">Letiltott szolgáltatások</string>
@@ -45,7 +55,7 @@
     <string name="open_print_service">A nyomtatás engedélyezése</string>
     <string name="open_print_service_tips">Előbb a Beállításokban engedélyeznie kell ezt a szolgáltatást, csak utána fogja tudni használni.</string>
     <string name="open_wlan">A Wi-Fi bekapcsolása</string>
-    <string name="open_wlan_tips">A nyomtató gyorsabb megtalálásához kapcsolja be a Wi-Fit.</string>
+    <string name="open_wlan_tips">A nyomtatók megtalálásához kapcsolja be a Wi-Fit</string>
     <string name="other_printer">Egyéb nyomtatók</string>
     <string name="page_description_template">%1$d./%2$d oldal</string>
     <string name="pages_range_example">pl. 1–5, 8, 11–13</string>
@@ -62,7 +72,7 @@
     <string name="print_fail_network_error">Nem lehet nyomtatni, ellenőrizze a hálózati beállításait, majd próbálja újra.</string>
     <string name="print_forget_printer">Nyomtató elfelejtése</string>
     <string name="print_help_label">Súgó</string>
-    <string name="print_help_tip">Győződjön meg róla, hogy a telefonja és a nyomtatója is ugyanazon Wi-Fire csatlakozik és a Wi-Fi Direct be van kapcsolva. Olvassa el a következőt: %1$s.</string>
+    <string name="print_help_tip">Győződjön meg róla, hogy a telefonja és a nyomtatója is ugyanazon a Wi-Fire van csatlakozva és a Wi-Fi Direct be van kapcsolva. %1$s.</string>
     <string name="print_help_tip_reg">\"Súgó\" megtekintése</string>
     <string name="print_no_print_services">Nincs engedélyezett nyomtatási szolgáltatás</string>
     <string name="print_no_printers">Nem található nyomtató</string>
@@ -85,6 +95,7 @@
     <string name="printer_busy">A nyomtató foglalt</string>
     <string name="printer_error">Nyomtatóhiba</string>
     <string name="printer_error_msg">Nyomtatóhiba: %1$s</string>
+    <string name="printer_extended_description_template">%1$s – %2$s</string>
     <string name="printer_info_desc">További információ erről a nyomtatóról</string>
     <string name="printer_notification_error_title">Nem sikerült a nyomtatás %1$s</string>
     <string name="printer_unavailable">A nyomtató nem érhető el</string>
@@ -109,4 +120,6 @@
     <string name="template_all_pages">Összes (%1$s)</string>
     <string name="template_page_range">%1$s oldalas tartomány</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
+    <string name="wps_convert_error_toast_text">Formátumhiba miatt nem sikerült a fájl konvertálása</string>
+    <string name="wps_convert_too_large_and_wait_toast_text">A konvertálás hosszabb ideig is eltarthat a nagy fájlméret miatt. Konvertálás…</string>
 </resources>

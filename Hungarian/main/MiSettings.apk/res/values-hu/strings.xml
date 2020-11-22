@@ -30,7 +30,7 @@
     <string name="advanced_mode">További beállítások</string>
     <string name="anti_flicker_mode">Villódzásmentes mód</string>
     <string name="anti_flicker_mode_categroy">Módok</string>
-    <string name="anti_flicker_mode_summary">Csökkentse a villódzást alacsony fényviszonyok között a szemfáradtság csökkentése érdekében. Némelyik elem lehet, hogy nem fog helyesen megjelenni.</string>
+    <string name="anti_flicker_mode_summary">Megakadályozza az erős villogást és csökkenti a szem terhelését gyenge fényviszonyok esetén</string>
     <string name="anti_flicker_title">Csíkozódáscsökkentő mód</string>
     <string name="app_name">Beállítások</string>
     <string name="application_sound">Alkalmazásértesítések</string>
@@ -51,6 +51,10 @@
     <string name="created">Létrehozva</string>
     <string name="created_successfully">Sikeresen létrehozva</string>
     <string name="cu_confirm">Beállítás</string>
+    <string name="dc_light_hint_enable_title">Figyelem</string>
+    <string name="dc_light_hint_normal">A DC dimming hatással lehet egyes elemek megjelenítésére.</string>
+    <string name="dc_light_hint_other">A DC dimming befolyásolhatja a frissítési gyakoriságot és az egyes elemek megjelenítésének módját.</string>
+    <string name="dc_lignt_enable_hint">A villogásgátló mód a képernyő frissítési gyakoriságát 60 Hz-re állítja. Váltás villogásgátló módra?</string>
     <string name="display_description">Nagyobb ikonok, nagy szöveg és kevesebb vizuális zsúfoltság</string>
     <string name="display_title">Nagyobb elemek</string>
     <string name="exit_easymode">Az egyszerű üzemmód kikapcsolása</string>
@@ -66,6 +70,7 @@
     <string name="follow_sim1">SIM 1 beállításainak alkalmazása</string>
     <string name="gamma">Gamma</string>
     <string name="healthy_use_phone">Képernyőidő kezelése</string>
+    <string name="high_fps_description">Magas képernyőfrissítési sebesség. Nagyobb energiafogyasztás.</string>
     <string name="hsv_space_color">HSV színtér</string>
     <string name="hsv_space_color_hue">Hue (Színárnyalat)</string>
     <string name="hsv_space_color_saturation">Saturation (Telítettség)</string>
@@ -74,6 +79,7 @@
     <string name="intelligent_recognition_item_title">Azonosító szolgáltatások</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lock_summary">Védje meg személyes adatait</string>
+    <string name="low_fps_description">Alacsony képernyőfrissítési sebesség. Kisebb energiafogyasztás.</string>
     <string name="low_light_preview">Alacsony fény előnézet</string>
     <string name="mms">Üzenetkezelés</string>
     <string name="more_ringtone">Összes csengőhang</string>
@@ -103,7 +109,7 @@
     <string name="ringtone_slot_setting_title">Dupla SIM-es csengőhangok</string>
     <string name="ringtone_sound">Csengőhangok</string>
     <string name="ringtone_title">Csengőhangok</string>
-    <string name="screen_cancel">Mégsem</string>
+    <string name="screen_cancel">Mégse</string>
     <string name="screen_confirm">Bekapcsolás</string>
     <string name="screen_fps_summary_power_save">A rögzített ráta kevesebb energiát fogyaszt</string>
     <string name="screen_fps_summary_smooth">Némelyik alkalmazás automatikusan növeli a frissítési rátát a képminőség javítása érdekében</string>
@@ -119,6 +125,7 @@
     <string name="search_menu_title">Keresés</string>
     <string name="several_days_use_time">Képernyőidő: %2$s</string>
     <string name="shortcut_created">Ez a parancsikon már létezik</string>
+    <string name="silent_ringtone_hint">Az audió némított. Emelje fel a hangerőt és próbálja meg újra.</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
     <string name="sms_delivered_sound_title">Kézbesített üzenet</string>
@@ -158,7 +165,9 @@
     <string name="usage_app_limit_alter_title">A képernyőidő határértékének ellenőrzése</string>
     <string name="usage_app_limit_prelong">Az idő növelése</string>
     <string name="usage_app_limit_reach_summay">%s maradt</string>
+    <string name="usage_app_limit_reach_summay_new">Koppintson %d perc hozzáadásához</string>
     <string name="usage_app_limit_reach_title">A következő alkalmazás hamarosan eléri a képernyőidő határértékét: %s</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">Fennmaradó képernyő idő a következő számára: %1s: %2s</string>
     <string name="usage_app_limit_summary">A kiválasztott alkalmazások nem lesznek elérhetők, ha elérte a beállított határértéket</string>
     <string name="usage_app_limit_title">A képernyőidő korlátozása</string>
     <string name="usage_app_other_settings">További beállítások</string>
@@ -210,8 +219,12 @@ Az alkalmazásnak csatlakoznia kell az internethez és a következő engedélyek
     <string name="usage_home_premission_second_summary_double_link_prefix">Megvédjük az Ön személyes adatait a vonatkozó jogszabályokkal, szabályozásokkal és adatvédelmi irányelvekkel összhangban. Ha nem szeretné megadni ezeket az engedélyeket vagy megosztani, illetve feltölteni személyes adatait, nem fogja tudni használni az alkalmazást. A Képernyőidő > Beállítások > Képernyőidő kikapcsolása menüben visszavonhatja az engedélyt.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Az alkalmazás használata előtt olvassa el és fogadaj el a &lt;a href='%1s'>Felhasználói szerződést&lt;/a> és az &lt;a href='%2s'>Adatvédelmi irányelvet&lt;/a>.&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">Megvédjük az Ön személyes adatait a vonatkozó jogszabályokkal, szabályozásokkal és adatvédelmi irányelvekkel összhangban. Ha nem szeretné megadni ezeket az engedélyeket vagy megosztani, illetve feltölteni személyes adatait, nem fogja tudni használni az alkalmazást. A Képernyőidő > Beállítások > Képernyőidő kikapcsolása menüben visszavonhatja az engedélyt. Ha további kérdése van az adatvédelemmel kapcsolatban, írjon a privacy@xiaomi.com e-mail-címre.</string>
+    <string name="usage_new_home_app_limit_summary">Napi képernyőidő-korlát beállítása ezen alkalmazáshoz</string>
+    <string name="usage_new_home_app_limit_title">A képernyőidő korlátozása</string>
     <string name="usage_new_home_average">"Átl. "</string>
+    <string name="usage_new_home_avg_usage_day">Napi átlagos%s</string>
     <string name="usage_new_home_category">Kategória</string>
+    <string name="usage_new_home_classify_manage">Alkalmazáskategóriák kezelése</string>
     <string name="usage_new_home_compare_text1">Ennyivel többször, mint előző nap: %.2f</string>
     <string name="usage_new_home_compare_text2">Ennyivel kevesebbszer, mint előző nap: %.2f</string>
     <string name="usage_new_home_compare_text3">Ugyanaz, mint az előző napon</string>
@@ -219,15 +232,19 @@ Az alkalmazásnak csatlakoznia kell az internethez és a következő engedélyek
     <string name="usage_new_home_dashboard">Irányítópult</string>
     <string name="usage_new_home_date_day_title">%s | Használat időtartama</string>
     <string name="usage_new_home_day_category_title">Alkalmazás kategóriák</string>
+    <string name="usage_new_home_day_category_title_new">Képernyőidő az alkalmazás kategóriákhoz a következő dátumban: %s</string>
     <string name="usage_new_home_day_title">Nap</string>
     <string name="usage_new_home_day_usage_title">Egyéni alkalmazások</string>
+    <string name="usage_new_home_day_usage_title_new">Képernyőidő a következő dátumban: %s</string>
     <string name="usage_new_home_first_unlock">Első feloldás: %s</string>
     <string name="usage_new_home_name">Név</string>
     <string name="usage_new_home_show_more_data_summary">Az egyes alkalmazások képernyőidejét is korlátozhatja</string>
     <string name="usage_new_home_show_more_data_title">További statisztika megtekintése</string>
+    <string name="usage_new_home_sys_no_limit_summary">Rendszeralkalmazások esetében nem szabható meg képernyőidő-határérték</string>
     <string name="usage_new_home_unlock_equals_text">Ugyanaz, mint az előző napon</string>
     <string name="usage_new_home_unused">Nem használta</string>
     <string name="usage_new_home_update">Módosítás</string>
+    <string name="usage_new_home_usage_detail">A használat részletei</string>
     <string name="usage_new_home_week_category_title">Alkalmazás kategóriák</string>
     <string name="usage_new_home_week_compare_text1">Ennyivel többször, mint előző héten: %.2f</string>
     <string name="usage_new_home_week_compare_text2">Ennyivel kevesebbszer, mint előző héten: %.2f</string>
@@ -249,7 +266,7 @@ Az alkalmazásnak a normális működés érdekében csatlakoznia kell az intern
     <string name="usage_reach_device_limit_warning_text">Ön már elérte a képernyőidő mai napra megadott felső határát</string>
     <string name="usage_refresh">Próbálja újra</string>
     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-    <string name="usage_remain_hour_miunte">%1$s%2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">Ismeretlen hiba történt</string>
     <string name="usage_request_timeout_summary">A kérés meghaladta a rendelkezésre álló időkeretet</string>
     <string name="usage_runtime_per_des_summary">A Képernyőidő statisztikák mentéséhez</string>
@@ -273,7 +290,7 @@ Az alkalmazásnak a normális működés érdekében csatlakoznia kell az intern
     <string name="usage_state_app_usage_tip_title">A képernyőidő %1$d:00 és %2$d:00 között</string>
     <string name="usage_state_app_use_time">Az alkalmazások képernyőideje</string>
     <string name="usage_state_card_add">Hozzáadás</string>
-    <string name="usage_state_card_cancel">Mégsem</string>
+    <string name="usage_state_card_cancel">Mégse</string>
     <string name="usage_state_card_summary">Adja hozzá a \"Képernyőidő\" kártyát az Apptárhoz, hogy hatékonyabban kezelhesse az idejét.</string>
     <string name="usage_state_category">Kategóriák</string>
     <string name="usage_state_channel_mouth">Az elmúlt 30 napban</string>
@@ -363,6 +380,8 @@ Az alkalmazásnak a normális működés érdekében csatlakoznia kell az intern
     <string name="usage_stats_week_day">Hétvégéken</string>
     <string name="usage_total_days">Összes nap</string>
     <string name="usage_total_times">Összes munkamenet</string>
+    <string name="usage_week_avg_usage_title">Heti átlag</string>
+    <string name="usage_week_avg_usage_title2">Átlag idő</string>
     <string name="usage_weekly_report_summary">Tudja meg, hogyan tölti el idejét a készülékén</string>
     <string name="usage_weekly_report_title">Heti jelentés</string>
     <string name="usagestats_app_category_miui_education">Oktatás</string>

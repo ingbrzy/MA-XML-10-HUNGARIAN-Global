@@ -47,6 +47,7 @@
     <string name="content_description_web_url">Böngészés</string>
     <string name="copy">Másolás</string>
     <string name="cut">Kivágás</string>
+    <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="default_device_name">Ismeretlen készülék</string>
     <string name="default_name">Alapértelmezett</string>
     <string name="description_title">Néma mód</string>
@@ -83,6 +84,10 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="global_actions_reboot">Újraindítás</string>
     <string name="global_actions_shutdown">Kikapcsolás</string>
     <string name="global_actions_silent_mode">Némítás</string>
+    <string name="handset_text_unsupported_handset_insert">A részletek megtekintéséhez érintse meg</string>
+    <string name="handset_text_usb_handset_insert">Koppintson a további beállítások megnyitásához</string>
+    <string name="handset_title_unsupported_handset_insert">Az USB-s fejhallgató adapterek nem támogatottak</string>
+    <string name="handset_title_usb_handset_insert">Hang lejátszása USB-n keresztül</string>
     <string name="handy_mode_enter_dlg_msg">Belép az egykezes használatba?</string>
     <string name="handy_mode_enter_dlg_title">Egykezes használat</string>
     <string name="handy_mode_summary">A bezáráshoz kattintson a képernyő üres részére</string>
@@ -128,6 +133,8 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Mi Megosztás</string>
+    <string name="miaudiovisual_notification_summary">Kapcsolja be az effektusok Zárképernyőn való megjelenítéséhez</string>
+    <string name="miaudiovisual_notification_title">Hang- és vizuális effektusok</string>
     <string name="miui_forbid_poweroff_when_device_locked">Nem lehet kikapcsolni a készüléket, mert le van zárva.</string>
     <string name="miui_screen_ratio_hint">Képernyőarány-problémák</string>
     <string name="miui_screen_ratio_hint_dont_show_again">Ne mutassa újra</string>
@@ -226,6 +233,7 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="sim_added_reboot_title">A SIM-kártya az újraindítás után fog aktiválódni.</string>
     <string name="sim_lock_non_ais_msg">SIM-kártyája nem fog teljes értékűen működni ebben a telefonban, mert nem felel meg az előfizetése feltételeinek. Ha bármilyen kérdése van, vagy további információra van szüksége ebben az ügyben, kérjük, lépjen kapcsolatba a Xiaomi szervizzel vagy a bolttal, ahol a készüléket vásárolta.</string>
     <string name="sim_lock_now_ais_title">%1$d. SIM</string>
+    <string name="slatoast">A mobiladatkapcsolat használata a sebesség felgyorsítására további szolgáltatói költségeket vonhat maga után</string>
     <string name="slavewifi">Kétsávos WIFI</string>
     <string name="slavewifi_disconnect">Lecsatlakozás</string>
     <string name="slavewifi_notification_title">Kétsávos WIFI használata</string>

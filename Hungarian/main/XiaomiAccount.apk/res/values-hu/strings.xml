@@ -158,6 +158,7 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Mi fiókjába."</strin
     <string name="confirm_unbundled_phone_dialog_message">A %1$s telefonszám a %2$s Mi Fiókhoz van társítva. Ha folytatja nem lesz többé társítva a %3$s Mi Fiókhoz. Folytatja?</string>
     <string name="continue_action">Tovább</string>
     <string name="copy">Másolás</string>
+    <string name="copy_to_clipboard_successful">Másolás sikeres</string>
     <string name="delete_action">Törlés</string>
     <string name="delete_bank_card_message">Ha kijelentkezik, Mi Pay bankkártyái és NFC-kártyái törlésre kerülnek.</string>
     <string name="delete_bank_card_title">Figyelem</string>
@@ -358,6 +359,10 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="passport_get_verify_code">Kód ellenőrzése</string>
     <string name="passport_getting_activator_phone">SIM információ beolvasása…</string>
     <string name="passport_getting_verify_code">Lekérés</string>
+    <string name="passport_google_login">Bejelentkezzen a korábban használt Google fiókkal?</string>
+    <string name="passport_google_login_agree">Google fiók</string>
+    <string name="passport_google_login_disagree">Mi Fiók</string>
+    <string name="passport_google_login_failed">A Google fiókkal nem lehet bejelentkezni. Jelentkezzen be a MI fiókjába közvetlenül.</string>
     <string name="passport_i_know">OK</string>
     <string name="passport_identification_expired">Az ellenőrző kód érvényessége lejárt, kezdje újra</string>
     <string name="passport_imei_permission_denied_message">A készülék IMEI számához való hozzáférést kérünk. A Mi Fiók az IMEI számot használja a készülékről történő bejelentkezés és regisztráció azonosításához, hogy segítsen megőrizni a Mi Fiók biztonságát.</string>
@@ -482,7 +487,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="passport_use_generated_pwd_message">Jegyezze meg jelszavát. Ezzel jelentkezhet be más Mi-szolgáltatásokba.</string>
     <string name="passport_use_generated_pwd_title">Jegyezze meg jelszavát!</string>
     <string name="passport_user_agreement">Felhasználói Szerződés</string>
-    <string name="passport_user_agreement_link">&lt;Data>Ielolvastam és elfogadom a Xiaomi &lt;a href=%1$s>Felhasználói megállapodását&lt;/a> és &lt;a href=%2$s>Adatvédelmi szabályzatát&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>Elovastam és elfogadom a Xiaomi &lt;a href=%1$s>Felhasználói megállapodását&lt;/a> és &lt;a href=%2$s>Adatvédelmi szabályzatát&lt;/a>.&lt;/Data></string>
     <string name="passport_user_agreement_required">Felhasználói Szerződés (kötelező)</string>
     <string name="passport_user_id_notice">Az Ön Mi Fiók azonosítója: %s.</string>
     <string name="passport_user_reg_region">Ország/Régió</string>

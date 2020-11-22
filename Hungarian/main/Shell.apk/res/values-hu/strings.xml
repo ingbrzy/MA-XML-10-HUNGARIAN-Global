@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Héj</string>
+    <string name="app_label">Parancsértelmező</string>
     <string name="bugreport_add_details_to_zip_failed">Nem lehet hozzáadni a hibajelentés részleteit a ZIP-fájlhoz</string>
     <string name="bugreport_confirm">A programhiba-jelentések a rendszer különböző naplófájljaiból származó adatokat tartalmaznak, köztük bizalmas információkat is (például alkalmazáshasználati információkat és helyadatokat). Csak olyan alkalmazásokkal és személyekkel osszon meg programhiba-jelentéseket, amelyekben vagy akikben megbízik.</string>
     <string name="bugreport_confirm_dont_repeat">Ne jelenjen meg többé</string>
