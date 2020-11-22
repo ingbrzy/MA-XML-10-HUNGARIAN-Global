@@ -1,17 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="tips">
-        <item>"Az összes alkalmazás megtekintése.
- Érintse meg az Indító ikont. @drawable/all_apps"</item>
-        <item>"Alkalmazások elhelyezése a főoldalon.
- Tartsa az ujját az Indító egyik alkalmazásán, amíg az nem rezeg."</item>
-        <item>"A főoldal átrendezése.
- Érintsen meg egy elemet és tartsa rajta az ujját, majd amikor rezeg, húzza a kívánt helyre."</item>
-        <item>"Elemek eltávolítása.
- Érintsen meg egy elemet és tartsa rajta az ujját, majd amikor rezeg, húzza a Kuka ikonra. @drawable/trash"</item>
-        <item>"Több főoldal.
- Csúsztassa balra vagy jobbra a váltáshoz. Húzzon át elemeket egy másik képernyőkre."</item>
-        <item>"Nem használ már egy modult?
- Érintse meg és tartsa rajta az ujját, majd amikor rezeg, húzza a Kuka ikonra."</item>
-    </string-array>
 </resources>

@@ -141,7 +141,6 @@
     <string name="download_rsc_tips">Háttérhang betöltése…</string>
     <string name="dynamic_weather">Időjárás</string>
     <string name="edit_city">Városok kezelése</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Frissítés…</string>
     <string name="empty_view_net_unavailable">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="empty_view_refresh">Újra</string>
@@ -194,17 +193,13 @@
     <string name="feedback_sunny">Tiszta</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Most</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M.d.</string>
     <string name="index_item_experience_now">Telepítés most</string>
     <string name="indices_title_chance_of_rain">Eső valószínűsége</string>
     <string name="indices_title_feel">Hőérzet</string>
     <string name="indices_title_pressure">Légnyomás</string>
     <string name="indices_title_wind_speed">Szélsebesség</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">UV-sugárzás</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="life_index_title">Időjárás index</string>
     <string name="location_provider_btn_text">Kapcsolja be a helymeghatározási szolgáltatást</string>
     <string name="location_tag">Helymeghatározás</string>
@@ -298,7 +293,6 @@
     <string name="share_menu_title">Megosztás</string>
     <string name="share_subject">Megosztás</string>
     <string name="share_weather_desc">\#MIUI időjárás #Ma %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Nem sikerült képernyőképet készíteni</string>
     <string name="shortcut_short_label_24_hour_forecast">24 órás előrejelzés</string>

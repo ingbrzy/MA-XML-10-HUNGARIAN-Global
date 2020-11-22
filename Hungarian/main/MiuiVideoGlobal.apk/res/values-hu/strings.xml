@@ -123,7 +123,6 @@
     <string name="cast_forward">Előretekerés</string>
     <string name="cast_forward_10">Előretekerés tíz másodperccel</string>
     <string name="cast_forward_30">Előretekerés harminc másodperccel</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">ÉLŐ</string>
     <string name="cast_mute">Némítás</string>
     <string name="cast_notification_connected_message">Csatlakozva a következőhöz: %1$s</string>
@@ -677,7 +676,6 @@ a videókhoz"</string>
     <string name="off_tip_firework_recommend">Nem fog személyre szabott tartalomjavaslatokat fog kapni a Fireworktől</string>
     <string name="ok">OK</string>
     <string name="on_tip_firework_recommend">Személyre szabott tartalomjavaslatokat fog kapni a Fireworktől</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Legutóbbi feliratkozások</string>
     <string name="order_recently_updated">Nemrég frissítve</string>
     <string name="ovp_alert_dialog_download_install_task">HD beépülő letöltése…</string>
@@ -1105,7 +1103,6 @@ Fiókbiztonság növelése."</string>
     <string name="sns_sign_in">Más bejelentkezési módok</string>
     <string name="source">"Forrás: "</string>
     <string name="start_download_tip">Hozzáadva a sorhoz. Ellenőrizze az előrehaladást a Profil > Letöltések menüpontban.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD kártya</string>
     <string name="storage_internal_sdcard">Belső tárhely</string>
     <string name="submit">Küldés</string>

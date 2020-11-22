@@ -54,7 +54,6 @@
     <string name="dual_app_title">Kettős alkalmazások</string>
     <string name="dual_app_words">Minden fiók megérdemli a saját alkalmazását</string>
     <string name="early_morning">Reggel</string>
-    <string name="empty">" "</string>
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="evening">Délután</string>
@@ -264,7 +263,6 @@
     <string name="saturday_shortest">Szo</string>
     <string name="search_menu_title">Keresés</string>
     <string name="share">Megosztás</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
     <string name="sunday_shortest">Vas</string>

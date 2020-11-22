@@ -355,7 +355,6 @@
     <string name="note_sort_way">Jegyzetrendezési mód</string>
     <string name="notealert_enter">Jegyzet megnyitása</string>
     <string name="notealert_ok">Elvetés</string>
-    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">Hozzáadott egy új feladatot. Koppintson a megtekintéshez.</string>
     <string name="notify_alarm_title">Jegyzet emlékeztető</string>
     <string name="permdesc_accessNote">Engedélyezésével a rosszindulatú alkalmazások is hozzáférhetnek személyes adataihoz.</string>
