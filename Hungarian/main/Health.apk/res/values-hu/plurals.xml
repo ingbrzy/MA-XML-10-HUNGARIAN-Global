@@ -209,7 +209,7 @@
         <item quantity="one">≤%1$d perc</item>
     </plurals>
     <plurals name="time_duration_hour_float">
-        <item quantity="other">%1$.2f óra/item>
+        <item quantity="other">%1$.2f óra</item>
         <item quantity="one">%1$.2f óra</item>
     </plurals>
     <plurals name="time_duration_hour_int">
