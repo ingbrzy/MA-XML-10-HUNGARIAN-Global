@@ -317,11 +317,11 @@ Az alkalmazásnak a normális működés érdekében csatlakoznia kell az intern
     <string name="usage_state_focus_take_photo">Kamera</string>
     <string name="usage_state_focus_warning_text">Fókuszáljon valami fontosra</string>
     <string name="usage_state_focus_weak_summary">Tegye el a telefonját</string>
-    <string name="usage_state_friday">Pé</string>
+    <string name="usage_state_friday">P</string>
     <string name="usage_state_go_more">További alkalmazások</string>
     <string name="usage_state_hour_minute">%1$dó %2$dp</string>
     <string name="usage_state_less_one_minute">&lt; 1 perc</string>
-    <string name="usage_state_monday">Hé</string>
+    <string name="usage_state_monday">H</string>
     <string name="usage_state_mourth_day">Képernyőidő %s napján</string>
     <string name="usage_state_noti_mourth_day">Értesítések %s napján</string>
     <string name="usage_state_notification">Értesítéskezelés</string>
@@ -343,8 +343,8 @@ Az alkalmazásnak a normális működés érdekében csatlakoznia kell az intern
     <string name="usage_state_show_detail">Részletes statisztika megtekintése</string>
     <string name="usage_state_show_more">Egyebek</string>
     <string name="usage_state_statistic_data">Statisztikák</string>
-    <string name="usage_state_sunday">Vas</string>
-    <string name="usage_state_thursday">Csü</string>
+    <string name="usage_state_sunday">V</string>
+    <string name="usage_state_thursday">Cs</string>
     <string name="usage_state_time_end">Elérte a mai képernyőidő-limitet</string>
     <string name="usage_state_today">Ma</string>
     <string name="usage_state_today_total_text">A mai nap képernyőideje</string>
