@@ -50,7 +50,7 @@
     <string name="alert_title_restore">Jegyzet visszaállítása</string>
     <string name="all_folder_name">Összes jegyzet</string>
     <string name="all_terms">%1$s és %2$s</string>
-    <string name="am">DE</string>
+    <string name="am">de.</string>
     <string name="app_name">Jegyzetek</string>
     <string name="app_notification_info">A Jegyzetek a háttérben működik</string>
     <string name="app_widget">Jegyzetek</string>
@@ -181,14 +181,14 @@
     <string name="fmt_date_long_year_month_day">yyyy MMMM dd</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">MM.dd.</string>
+    <string name="fmt_date_numeric_month_day">MM. dd.</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">yyyy.MM.</string>
-    <string name="fmt_date_numeric_year_month_day">yyyy.MM.dd.</string>
+    <string name="fmt_date_numeric_year_month">yyyy. MM.</string>
+    <string name="fmt_date_numeric_year_month_day">yyyy. MM. dd.</string>
     <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">MM.dd.</string>
+    <string name="fmt_date_short_month_day">MM. dd.</string>
     <string name="fmt_date_short_year_month">yyyy. MMM</string>
-    <string name="fmt_date_short_year_month_day">yyyy.MM.dd.</string>
+    <string name="fmt_date_short_year_month_day">yyyy. MM. dd.</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
@@ -217,8 +217,8 @@
     <string name="format_move_note_out_folder">Ez a jegyzet át lett helyezve</string>
     <string name="format_move_note_to_folder">Áthelyezve ide: %1$s</string>
     <string name="friday">Péntek</string>
-    <string name="friday_short">Pén</string>
-    <string name="friday_shortest">Pén</string>
+    <string name="friday_short">P</string>
+    <string name="friday_shortest">p.</string>
     <string name="gesture_guide_cancel">Kihagyás</string>
     <string name="gesture_guide_message">Koppinthat, megnyomhat és lenyomva tarthat, valamint behúzhat elemeket jegyzetek létrehozásához és átrendezéséhez. Megismeri ezeket a kézmozdulatokat most?</string>
     <string name="gesture_guide_ok">Útmutató</string>
@@ -291,8 +291,8 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Egy pillanat...…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemek betöltése sikertelen</string>
     <string name="monday">Hétfő</string>
-    <string name="monday_short">Hét</string>
-    <string name="monday_shortest">Hét</string>
+    <string name="monday_short">H</string>
+    <string name="monday_shortest">h.</string>
     <string name="month_april">Április</string>
     <string name="month_april_short">Ápr</string>
     <string name="month_april_shortest">Ápr</string>
@@ -370,7 +370,7 @@
     <string name="permission_storage_desc">Jegyzetek képként való mentéséhez</string>
     <string name="permission_xiaoai_desc">&lt;Data>A Mi AI fogja összegyűjteni a hangfelvételeket és a készülékazonosítóját az audio átírásához és a hangjegyzetek elkészítéséhez. További információ: Mi AI &lt;a href=\"%1$s\">adatvédelmi nyilatkozata&lt;/a>.&lt;/Data></string>
     <string name="permlab_accessNote">Hozzáférés a jegyzetekhez</string>
-    <string name="pm">DU</string>
+    <string name="pm">du.</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">A jegyzetek megerősítés nélküli törléséhez húzza fel két ujjal</string>
     <string name="pref_desc_todo_float_mode">A feladat eszköztár megnyitásához seperj az ujjaddal a képernyő szélétől befelé</string>
     <string name="pref_remind_type_summary">Emlékeztető hang lejátszásra Néma üzemmódban</string>
@@ -429,7 +429,7 @@
     <string name="root_folder_name">Gyors jegyzetek</string>
     <string name="saturday">Szombat</string>
     <string name="saturday_short">Szo</string>
-    <string name="saturday_shortest">Szo</string>
+    <string name="saturday_shortest">szo.</string>
     <string name="save_to_gallery_failure_message">Sikertelen mentés</string>
     <string name="save_to_gallery_icon_name">Mentés a Galériába</string>
     <string name="save_to_gallery_success_message">Sikeresen mentve</string>
@@ -465,8 +465,8 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
-    <string name="sunday_short">Vas</string>
-    <string name="sunday_shortest">Vas</string>
+    <string name="sunday_short">V</string>
+    <string name="sunday_shortest">v.</string>
     <string name="sync_all_terms">%1$s, %2$s, és %3$s</string>
     <string name="sync_folder_todo">%1$s és %2$s</string>
     <string name="sync_note_folder">%1$s és %2$s</string>
@@ -533,8 +533,8 @@
     <string name="theme_white_description">Fehér</string>
     <string name="theme_yellow_description">Sárga</string>
     <string name="thursday">Csütörtök</string>
-    <string name="thursday_short">Csü</string>
-    <string name="thursday_shortest">Csü</string>
+    <string name="thursday_short">Cs</string>
+    <string name="thursday_shortest">cs.</string>
     <string name="time_picker_dialog_title">Időbeállítás</string>
     <string name="time_picker_label_hour">Ó</string>
     <string name="time_picker_label_minute">P</string>
@@ -563,7 +563,7 @@ Hang felvételéhez engedélyezze a Jegyzeteket."</string>
     <string name="todo_alert_title_delete">Befejezett feladatok törlése</string>
     <string name="todo_audio_default_content">"[Hangfeladat] "</string>
     <string name="todo_custom_remind_tag_pattern_with_md">MM.dd. HH:mm</string>
-    <string name="todo_custom_remind_tag_pattern_with_ymd">yyyy.MM.dd. HH:mm</string>
+    <string name="todo_custom_remind_tag_pattern_with_ymd">yyyy. MM. dd. HH:mm</string>
     <string name="todo_edit_audio_hint">Ismertesd a feladatod</string>
     <string name="todo_edit_btn_cancel_remind">Emlékeztető törlése</string>
     <string name="todo_edit_btn_custom">Emlékeztető beállítása</string>
@@ -636,8 +636,8 @@ Hang felvételéhez engedélyezze a Jegyzeteket."</string>
     <string name="trash_folder_reminder">A törölt jegyzetek 30 nap után véglegesen törlésre kerülnek.</string>
     <string name="trash_folder_reminder_new">A megjegyzéseket a lomtár %d napig tárolja a végleges törlésük előtt</string>
     <string name="tuesday">Kedd</string>
-    <string name="tuesday_short">Ked</string>
-    <string name="tuesday_shortest">Ked</string>
+    <string name="tuesday_short">K</string>
+    <string name="tuesday_shortest">k.</string>
     <string name="unclassfied_folder_name">Nem kategorizált</string>
     <string name="undo">Visszavon</string>
     <string name="unknown_source">Ismeretlen forrás</string>
@@ -645,7 +645,7 @@ Hang felvételéhez engedélyezze a Jegyzeteket."</string>
     <string name="v7_preference_on">BE</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
-    <string name="wednesday_shortest">Sze</string>
+    <string name="wednesday_shortest">sze.</string>
     <string name="widget_content_loading">Egy pillanat…</string>
     <string name="widget_havenot_content">Nem található jegyzet, érintse meg a készítéshez, az átméretezéshez érintse meg és húzza az egyik szélét.</string>
     <string name="yesterday">Tegnap</string>
