@@ -68,7 +68,7 @@
     <string name="alert_volume">Csengőhang hangereje</string>
     <string name="alert_volume_summary">Csengóhang hangerejének beállítása a riasztásokhoz és időzítőkhöz</string>
     <string name="already_exist">Ez az időzítés már létezik</string>
-    <string name="am">DE</string>
+    <string name="am">de.</string>
     <string name="analog_gadget">Analóg óra</string>
     <string name="app_label">Óra</string>
     <string name="auto_silence_never">Soha</string>
@@ -181,14 +181,14 @@
     <string name="fmt_date_long_year_month_day">yyyy MMMM dd</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">MM.dd.</string>
+    <string name="fmt_date_numeric_month_day">MM. dd.</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">yyyy.MM.</string>
-    <string name="fmt_date_numeric_year_month_day">yyyy.MM.dd.</string>
+    <string name="fmt_date_numeric_year_month">yyyy. MM.</string>
+    <string name="fmt_date_numeric_year_month_day">yyyy. MM. dd.</string>
     <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">MM.dd.</string>
+    <string name="fmt_date_short_month_day">MM. dd.</string>
     <string name="fmt_date_short_year_month">yyyy. MMM</string>
-    <string name="fmt_date_short_year_month_day">yyyy.MM.dd.</string>
+    <string name="fmt_date_short_year_month_day">yyyy. MM. dd.</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
@@ -214,8 +214,8 @@
     <string name="force_touch_enter_stopwatch">Stopper</string>
     <string name="force_touch_enter_timer">Időzítő</string>
     <string name="friday">Péntek</string>
-    <string name="friday_short">Pén</string>
-    <string name="friday_shortest">Pén</string>
+    <string name="friday_short">P</string>
+    <string name="friday_shortest">p.</string>
     <string name="go_back">Vissza</string>
     <string name="holiday_update">Az állami ünnepekhez frissítés érhető el</string>
     <string name="holiday_update_fail">Frissítés sikertelen</string>
@@ -337,8 +337,8 @@
     <string name="module_white_noise_download_wifi">Az órának audiofájlokat kell letöltenie a környezeti zajok időzítői számára. Letölti most?</string>
     <string name="module_white_noise_download_wifi_privacy">&lt;Data>A környezeti zajok időzítőinek letöltése, valamint személyre szabott szolgáltatás biztosítása érdekében az Órának kapcsolódnia kell az internethez. Az Óra használata előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználás feltételeit&lt;/a> és az &lt;a href=\"%2$s\">Adatvédelmi szabályzatot&lt;/a>. Elfogadja?&lt;/Data></string>
     <string name="monday">Hétfő</string>
-    <string name="monday_short">Hét</string>
-    <string name="monday_shortest">Hét</string>
+    <string name="monday_short">H</string>
+    <string name="monday_shortest">h.</string>
     <string name="monday_to_friday">Hétfő-péntek</string>
     <string name="month_april">Április</string>
     <string name="month_april_short">Ápr</string>
@@ -402,7 +402,7 @@
     <string name="pause">Állj</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Személyre szabott tartalom ajánlatok</string>
-    <string name="pm">DU</string>
+    <string name="pm">du.</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="privacy_policy">Adatvédelmi nyilatkozat</string>
     <string name="privacy_policy_title">Adatvédelmi nyilatkozat</string>
@@ -454,7 +454,7 @@
     <string name="silent_alarm_summary">Némítás</string>
     <string name="skip_alarm_once_hint">Egyszeri kikapcsolás %s</string>
     <string name="sleep_analysis">Statisztikák</string>
-    <string name="sleep_analysis_chart_date_format">MM.dd.</string>
+    <string name="sleep_analysis_chart_date_format">MM. dd.</string>
     <string name="sleep_date_provider_text">A Xiaomi Egészség által biztosított adat(ok)</string>
     <string name="sleep_duration">"Alvás időtartama: "</string>
     <string name="sleep_duration_avg_text_diff">Átlagos alvásidő (%1$s-%2$s)</string>
@@ -500,8 +500,8 @@
     <string name="stopwatch_title">Stopper</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
-    <string name="sunday_short">Vas</string>
-    <string name="sunday_shortest">Vas</string>
+    <string name="sunday_short">V</string>
+    <string name="sunday_shortest">v.</string>
     <string name="system_permission_agree_desc">Az internethez való csatlakozás engedélyezés az alkalmazás számára az összes funkcióhoz való hozzáférés érdekében.</string>
     <string name="system_permission_main_purpose">Idő megtekintése, ébresztő/riasztás és időzítő beállítása, stopper használata</string>
     <string name="system_permission_purpose">Hétköznapi riasztások létrehozása és testreszabott csengőhangok beállítása</string>
@@ -549,8 +549,8 @@
     <string name="the_valentines_day">Valentin nap</string>
     <string name="the_water_lantern_festival">Vízi lámpásfesztivál</string>
     <string name="thursday">Csütörtök</string>
-    <string name="thursday_short">Csü</string>
-    <string name="thursday_shortest">Csü</string>
+    <string name="thursday_short">Cs</string>
+    <string name="thursday_shortest">cs.</string>
     <string name="time">Idő</string>
     <string name="time_picker_colon">:</string>
     <string name="time_picker_dialog_title">Időbeállítás</string>
@@ -603,8 +603,8 @@
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
     <string name="tuesday">Kedd</string>
-    <string name="tuesday_short">Ked</string>
-    <string name="tuesday_shortest">Ked</string>
+    <string name="tuesday_short">K</string>
+    <string name="tuesday_shortest">k.</string>
     <string name="turn_off_a_repeat_alarm">Ismétlődő ébresztés kikapcsolása</string>
     <string name="turn_off_this_repeat_alarm">Ismétlődő ébresztés kikapcsolása</string>
     <string name="upcoming_alarm">Közelgő riasztás: %s</string>
@@ -641,9 +641,9 @@
     <string name="worldclock_title">Világóra</string>
     <string name="worldclock_world_time">Időzónák</string>
     <string name="worldcolock_date_display_prefix">Aktuális: </string>
-    <string name="worldcolock_time_date">yyyy.MM.dd.</string>
+    <string name="worldcolock_time_date">yyyy. MM. dd.</string>
     <string name="worldcolock_timezone_current">Aktuális: %1$s</string>
-    <string name="worldcolock_timezone_current_date">yyyy.MM.dd.</string>
+    <string name="worldcolock_timezone_current_date">yyyy. MM. dd.</string>
     <string name="worldcolock_timezone_date">MMM. dd.</string>
     <string name="worldcolock_timezone_gap">%s Ó</string>
     <string name="worldcolock_timezone_local">Ugyanaz, mint a helyi idő</string>
