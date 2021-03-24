@@ -18,7 +18,6 @@
     <string name="channel_service">Rendszerfrissítő háttérszolgáltatás</string>
     <string name="channel_update">Új verzió érhető el</string>
     <string name="check_new_version">Frissítés keresése</string>
-    <string name="chengelog">%1$s</string>
     <string name="default_filedownloader_notification_content">FileDownloader fut.</string>
     <string name="default_filedownloader_notification_title">FileDownloader</string>
     <string name="dialog_3g_desc">Nem javasolt mobiladat használata a frissítés letöltéséhez. A frissítés mérete miatt jelentősen csökkenhat az adatkerete.</string>
@@ -40,7 +39,6 @@ A felhasználói adatok érintetlenek maradnak."</string>
     <string name="menu_title_current_version_log">Mi változott?</string>
     <string name="menu_title_pick_rom_file">Frissítőcsomag kiválasztása</string>
     <string name="menu_title_recovery">Újraindítás helyreállító üzemmódban</string>
-    <string name="message">%1$s</string>
     <string name="message_checkbox">A Xiaomi.eu csapattól érkező üzenetek elrejtése végleg</string>
     <string name="message_checkbox_device">Ne mutassa újra</string>
     <string name="message_title">MEGJEGYZÉS</string>
@@ -69,7 +67,6 @@ Nincs az ön számára elérhető frissítés."</string>
     <string name="share_desc">A MIUI a(z) %1$s verzióra frissült. A változásokról itt olvashat: %2$s</string>
     <string name="share_title">Megosztás</string>
     <string name="stable">Végleges</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="version">Jelenlegi verzió:</string>
     <string name="weekly">Heti</string>
     <string name="wifi_recommended">Nincs WiFi kapcsolat a letöltés biztonságos megkezdéséhez.</string>
