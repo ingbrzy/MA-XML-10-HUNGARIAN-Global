@@ -38,7 +38,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
-        <item quantity="one">1 perce</item>
+        <item quantity="one">1 perce ezelőtt</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Félórával ezelőtt</item>
@@ -66,6 +66,6 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
-        <item quantity="one">1 perce</item>
+        <item quantity="one">1 perce ezelőtt</item>
     </plurals>
 </resources>

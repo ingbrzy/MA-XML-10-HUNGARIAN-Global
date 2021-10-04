@@ -26,6 +26,8 @@
     <string name="bluetooth_sap_notif_message">Ügyfél felkérése szétválasztásra?</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIM-elérés</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIM-elérés</string>
+    <string name="bt_audio_share_notification_content">Koppintson a beállítások megtekintéséhez</string>
+    <string name="bt_audio_share_notification_title">Hang megosztása</string>
     <string name="bt_enable_cancel">Mégse</string>
     <string name="bt_enable_line1">A Bluetooth-szolgáltatásokhoz használatához először be kell kapcsolnia a Bluetooth-funkciót.</string>
     <string name="bt_enable_line2">Bekapcsolja most a Bluetooth-funkciót?</string>
@@ -79,10 +81,14 @@
     <string name="incoming_line3">Méret</string>
     <string name="insert_record">Rekord beszúrása</string>
     <string name="localPhoneName">Telefon neve</string>
+    <string name="miui_transfer_history_title">Bluetooth átvitelek</string>
+    <string name="miui_transfer_inbound_title">Bejövő</string>
+    <string name="miui_transfer_outbound_title">Kimenő</string>
     <string name="no_transfers">Az átvitelek előzménye üres.</string>
     <string name="not_exist_file">Nincs fájl</string>
     <string name="not_exist_file_desc">"A fájl nem létezik. 
 "</string>
+    <string name="notice_audio_share_disconnected">A kapcsolat megszakadása miatt már nem osztja meg a hangot</string>
     <string name="notification_received">Bluetooth megosztás: %1$s fogadva</string>
     <string name="notification_received_fail">Bluetooth megosztás: %1$s fájl fogadása nem sikerült</string>
     <string name="notification_receiving">Bluetooth megosztás: %1$s fogadása</string>
@@ -95,7 +101,9 @@
     <string name="opp_notification_group">Bluetooth-megosztás</string>
     <string name="outbound_history_title">Kimenő átvitelek</string>
     <string name="outbound_noti_title">Bluetooth-megosztás: elküldött fájlok</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">Időtúllépés történt a(z) %1$s eszközhöz történő kapcsolódás során</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">Időtúllépés történt a(z) %1$s munkamenetkulcsának bevitele során</string>
     <string name="pbap_notification_group">Bluetooth-névjegymegosztás</string>
     <string name="pbap_session_key_dialog_header">Meg kell adni egy Bluetooth-munkamenetkulcsot</string>
@@ -104,6 +112,8 @@
     <string name="permdesc_bluetoothWhitelist">Lehetővé teszi az alkalmazás számára egy Bluetooth-eszköz ideiglenesen engedélyezését, amely így a felhasználó jóváhagyása nélkül küldhet fájlokat erre a készülékre.</string>
     <string name="permlab_bluetoothShareManager">Hozzáférés a letöltéskezelőhöz.</string>
     <string name="permlab_bluetoothWhitelist">Bluetooth-eszköz hozzáférésének engedélyezése.</string>
+    <string name="snapdragon_sound_notification_content">A készülék támogatja a Qualcomm® Snapdragon Sound™ technológiát</string>
+    <string name="snapdragon_sound_notification_title">Bluetooth</string>
     <string name="start_server">TCP-szerver indítása</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_canceled">A felhasználó megszakította.</string>
@@ -118,6 +128,20 @@
     <string name="status_running">A fájlátvitel folyamatban van.</string>
     <string name="status_success">A fájlátvitel sikeresen befejeződött.</string>
     <string name="status_unknown_error">Ismeretlen hiba.</string>
+    <string name="switch_audio_device_bt_a2dp">Bluetooth (Media audio)</string>
+    <string name="switch_audio_device_bt_a2dp_summary">Media audio lejátszása csatlakoztatott eszközön</string>
+    <string name="switch_audio_device_bt_hfp">Bluetooth (Hívások)</string>
+    <string name="switch_audio_device_bt_hfp_summary">Híváshang lejátszása csatlakoztatott eszközön. Ezt a funkciót manuálisan kell kikapcsolni.</string>
+    <string name="switch_audio_device_default">Alapértelmezett</string>
+    <string name="switch_audio_device_default_summary">Aktuálisan használt eszköz</string>
+    <string name="switch_audio_device_hfp_hint">Visszalépés az alapértelmezett kimenetre</string>
+    <string name="switch_audio_device_hfp_toast_hint">Válassza ki az alapértelmezett hangkimenetet, hogy ismét hangot tudjon lejátszani ezen az eszközön.</string>
+    <string name="switch_audio_device_phone">Ez a készülék</string>
+    <string name="switch_audio_device_phone_summary">Hang lejátszása ezen az eszközön</string>
+    <string name="switch_audio_device_switch_hint">A csatlakoztatott eszközökről szóló értesítéseket kikapcsolhatja itt: Beállítások > Bluetooth > További beállítások.</string>
+    <string name="switch_audio_dialog_title">Hangkimenet kiválasztása</string>
+    <string name="switch_audio_notification_content">"Aktuális hangkimeneti eszköz: "</string>
+    <string name="switch_audio_notification_title">Készülék csatlakoztatás</string>
     <string name="transfer_clear_dlg_msg">Minden elemet töröl a listáról.</string>
     <string name="transfer_clear_dlg_title">Törlés</string>
     <string name="transfer_menu_clear">Törlés a listáról</string>

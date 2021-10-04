@@ -45,22 +45,17 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="account_security_title">Eszközbiztonság</string>
     <string name="account_security_verification">Fiók ellenőrzése</string>
     <string name="account_set_up_change_type_note">Ha váltania kell a POP3 és az IMAP beállítások közt, törölje a fiókját és csináljon egy újat a megfelelő beállításokkal.</string>
-    <string name="account_setting">Fiókok</string>
-    <string name="account_setting_keywords">Fiókok;e-mail fiókok</string>
     <string name="account_setting_message_body_load_complete">Teljes üzenet</string>
     <string name="account_setting_message_body_load_head_abstract">E-mail összegzése</string>
     <string name="account_setting_message_body_load_head_only">Csak fejléc</string>
     <string name="account_setting_message_body_load_text">Csak törzs</string>
     <string name="account_settings_action">Fiókbeállítások</string>
-    <string name="account_settings_background_attachments_label">Mellékletek letöltése</string>
     <string name="account_settings_background_attachments_summary">Mellékletek letöltése WLAN használatával</string>
     <string name="account_settings_background_attachments_summary_inter">Mellékletek letöltése WLAN használatával</string>
     <string name="account_settings_data_usage">Szinkronizálási beállítások</string>
     <string name="account_settings_description_label">Fiók neve</string>
     <string name="account_settings_edit_quick_responses_label">Gyors válasz</string>
     <string name="account_settings_edit_quick_responses_summary">Rövid üzenetek szerkesztése e-mailekbe illesztéshez</string>
-    <string name="account_settings_enforced_label">Irányelvek</string>
-    <string name="account_settings_enforced_summary">Nincs</string>
     <string name="account_settings_incoming_summary">Felhasználónév, jelszó és egyéb szerverbeállítások</string>
     <string name="account_settings_login_dialog_content_fmt">Felhasználónév vagy jelszó ehhez %s helytelen. Szeretné ezeket frissíteni most?</string>
     <string name="account_settings_login_dialog_reason_fmt">Nem sikerült a bejelentkezés ide: %1$s. A kiszolgáló üzenete a következő: %2$s. Frissíti a felhasználónevét vagy a jelszavát?</string>
@@ -74,12 +69,9 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="account_settings_notify_label">E-mail-értesítések</string>
     <string name="account_settings_notify_summary">Értesítés megjelenítése új e-mail érkezésekor</string>
     <string name="account_settings_param">Fiókbeállítások</string>
-    <string name="account_settings_policies">Biztonsági irányelvek</string>
     <string name="account_settings_preference_att_save_path">A mellékletek alapértelmezett helye</string>
     <string name="account_settings_preference_head_icon">Profilképek</string>
     <string name="account_settings_preference_notify">Értesítés</string>
-    <string name="account_settings_retry_label">Szinkronizálási kísérlet</string>
-    <string name="account_settings_retry_summary">Érintse meg a fiók szinkronizálásához</string>
     <string name="account_settings_ringtone">Értesítési hang</string>
     <string name="account_settings_servers">Szerverbeállítások</string>
     <string name="account_settings_smime_title">S/MIME (Secure/Multipurpose Internet Mail Extensions) szabvány</string>
@@ -90,13 +82,9 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="account_settings_sync_contacts_summary">Kapcsolatok szinkronizálása ehhez a fiókhoz</string>
     <string name="account_settings_sync_email_enable">E-mail szinkronizálása</string>
     <string name="account_settings_sync_email_summary">E-mail szinkronizálása ehhez a fiókhoz</string>
-    <string name="account_settings_unsupported_label">Nem támogatott irányelvek</string>
-    <string name="account_settings_unsupported_summary">Nincs</string>
     <string name="account_settings_user_usage">Fiókbeállítások</string>
     <string name="account_settings_using_ringtone">Csengőhang</string>
     <string name="account_settings_vibrate_when_label">Rezgés</string>
-    <string name="account_setup_account_type_instructions">Milyen típusú ez a fiók?</string>
-    <string name="account_setup_account_type_title">Fiók beállítása</string>
     <string name="account_setup_address_label">E-mail</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Ellenőrizze a felhasználónév, jelszó és fiókbeállítások helyességét.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Fiók beállítása sikertelen</string>
@@ -114,7 +102,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="account_setup_creating_account_msg">"    Fiók létrehozása…"</string>
     <string name="account_setup_deleting_account_msg">"    Fiók eltávolítása…"</string>
     <string name="account_setup_exchange_certificate_title">Ügyféltanúsítvány</string>
-    <string name="account_setup_exchange_device_id_label">A mobil eszköz azonosítója</string>
     <string name="account_setup_exchange_no_certificate">Nincs</string>
     <string name="account_setup_failed_auth_required">Ezt a hitelesítési módot a kiszolgáló nem támogatja.</string>
     <string name="account_setup_failed_certificate_inaccessible">A tanúsítvány érvénytelen vagy nem hozzáférhető.</string>
@@ -132,7 +119,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Nem lehet kapcsolódni a szerverhez.
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">Fiók beállítása sikertelen</string>
-    <string name="account_setup_failed_dlg_todo1">Fiók beállítása az alábbiak szerint, vagy próbáljon bejelentkezni EXCHANGE segítségével.</string>
     <string name="account_setup_failed_dlg_todo2">Fiók beállítása az alábbiak szerint</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Ismeretlen hiba.</string>
     <string name="account_setup_failed_ioerror">Nem sikerült kapcsolódni a szerverhez.</string>
@@ -180,8 +166,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="account_setup_outgoing_port_label">Port</string>
     <string name="account_setup_outgoing_require_login_label">Bejelentkezés szükséges</string>
     <string name="account_setup_outgoing_smtp_server_label">SMTP szerver</string>
-    <string name="account_setup_security_policies_required_fmt">A(z) %s szerver engedélyt kér, hogy távolról vezérelhesse az Android eszköz egyes biztonsági funkcióit. Befejezi a fiók konfigurálását?</string>
-    <string name="account_setup_security_required_title">Távoli biztonságkezelés</string>
     <string name="account_setup_server_acc_manager_title">Fiókok</string>
     <string name="account_setup_username_password_toast">Adjon meg egy érvényes e-mail címet és jelszót.</string>
     <string name="account_smime">S/MIME</string>
@@ -193,25 +177,23 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="account_sync_settings_settings">Névjegyzék és naptár szinkronizálása</string>
     <string name="account_sync_settingstip_description">Szinkronizálás</string>
     <string name="account_waiting_for_folders_msg">Mappák betöltése…</string>
-    <string name="actionbar_more_option">További lehetőségek</string>
+    <string name="actionbar_button_up_description">Vissza</string>
     <string name="activity_folder_selection">Válasszon mappát</string>
     <string name="activity_mailbox_selection">Válasszon fiókot</string>
     <string name="ad_merge">Hirdetések és értesítések</string>
     <string name="add_account">Fiók hozzáadása</string>
-    <string name="add_account_keywords">Fiók hozzáadása;e-mail fiók hozzáadása</string>
-    <string name="add_account_search">Fiók hozzáadása</string>
     <string name="add_attachment">Melléklet hozzáadása</string>
     <string name="add_calendar">Emlékeztető</string>
     <string name="add_file_exception">Nem sikerült hozzáadni. Próbálja meg ezt a mellékletet egy másik helyről hozzáadni.</string>
-    <string name="add_label">Mappa hozzáadás</string>
     <string name="add_pre_message_attachments">Előző üzenet mellékleteinek csatolása?</string>
     <string name="add_pre_message_attachments_no">Ne adja hozzá</string>
     <string name="add_pre_message_attachments_yes">Hozzáadás</string>
     <string name="add_star">Kedvenc</string>
+    <string name="afternoon">Délután</string>
     <string name="all_purpose">Üdvözöl a Mail, a Xiaomi számára és igényei szerint a Kingsoft által készített levelező kliens. Ezzel az alkalmazással e-maileket készíthetsz, küldhetsz és fogadhatsz.</string>
     <string name="allread">Összes olvasása</string>
     <string name="always_bcc_myself">Mindig titkos másolat magamnak</string>
-    <string name="always_show_images">Mindig mutassa a képeket ettől a feladótól</string>
+    <string name="am">DE</string>
     <string name="app_name">E-mail</string>
     <string name="appraise_des">Kedveli az alkalmazásunkat?</string>
     <string name="appraise_good">Igen</string>
@@ -220,7 +202,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="archive">Archív</string>
     <string name="archived">Archivált</string>
     <string name="att_download_failed_content">Az üzenet melléklete nem tölthető le.</string>
-    <string name="att_download_failed_network_slow">A kapcsolat túl lassú, próbálkozzon később</string>
     <string name="att_download_failed_permission_denied">Az alkalmazásnak nincs tárhely hozzáférése</string>
     <string name="att_download_failed_title">A mellékletet nem lehet letölteni</string>
     <string name="att_file_not_exists">%s nem található</string>
@@ -271,9 +252,8 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="b_contacts_remove_tips">Eltávolítja ezt a címet a tiltólistáról?</string>
     <string name="back">Vissza</string>
     <string name="bank_card_detail">Hitelkártya adatok</string>
-    <string name="battery_saver">Akkumulátorkímélő</string>
-    <string name="battery_saver_keywords">akkumulátorkímélő;e-mail akkumulátor</string>
     <string name="bcc">Titkos másolat</string>
+    <string name="bcc_heading">"Bcc: "</string>
     <string name="bill_center_setting">Számlázási beállítások</string>
     <string name="bill_center_setting_head">Importálás ezekről a számlákról</string>
     <string name="bill_cycle_text">Számlázási ciklus</string>
@@ -295,6 +275,7 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="cancel_pop3_attchemt_downloading">Nem szakítható meg a POP3-fiókok esetén a mellékletek folyamatban levő letöltései</string>
     <string name="cant_move_or_change_labels">Nem lehet több fiókból áthelyezni.</string>
     <string name="cc">Másolat</string>
+    <string name="cc_attribution">Másolat: %1$s&lt;br></string>
     <string name="cc_bcc">Másolat/Titkos másolat</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">A(z) „%s” tanúsítvány hozzáadása sikertelen</string>
@@ -311,7 +292,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="change_sync_settings">Szinkronizálás beállításainak módosítása</string>
     <string name="changepw_dialog_auth_tips">Újra adja meg a kódot ehhez: %s</string>
     <string name="changepw_dialog_tips">Újra írja be a jelszót ehhez: %s</string>
-    <string name="changepw_dialog_tips_please_clikc_btn">Nézze meg az ellenőrző kódot itt: %s és jelentkezzen be újra.</string>
     <string name="chat_item_msg_people_unit">emberek</string>
     <string name="chat_item_msg_user_etc">stb.</string>
     <string name="check_setup_data">"    Szerverbeállítások érvényesítése…"</string>
@@ -320,11 +300,13 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="clear_display_images_whitelist_dialog_message">Állítsa le a korábban engedélyezett feladók beágyazott képeinek megjelenítését.</string>
     <string name="clear_display_images_whitelist_dialog_title">Törli a kép jóváhagyásokat?</string>
     <string name="clear_display_images_whitelist_title">Kép jóváhagyások törlése</string>
+    <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="click_download_all_content">[ Érintse meg a tartalom letöltéséhez ]</string>
     <string name="click_to_reload">Érintse meg a képernyőt az újratöltéshez</string>
+    <string name="close">Bezárás</string>
     <string name="collapse_recipient_details">Címzett adatainak elrejtése</string>
+    <string name="colon">:</string>
     <string name="compose">Levélírás</string>
-    <string name="compose_attachment_number_limit">Maximum 10 melléklet csatolható</string>
     <string name="compose_event">Meghívás</string>
     <string name="compose_paste_address_oob">Túl sok karakter</string>
     <string name="compose_picturesexceedlimits">Több képet csatolmányként adhat hozzá</string>
@@ -333,10 +315,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="confirm">OK</string>
     <string name="confirm_add_to_calendar">Hozzáadás a … naptárhoz</string>
     <string name="confirm_age">Életkor megerősítése</string>
-    <string name="confirm_before_delete">Megerősítés törlés előtt</string>
-    <string name="confirm_before_delete_keywords">megerősítés törlés előtt;törlés megerősítés</string>
-    <string name="confirm_before_send">Megerősítés küldés előtt</string>
-    <string name="confirm_before_send_keywords">megerősítés küldés előtt;küldés megerősítés</string>
     <string name="confirm_delete_attachment">Törli a mellékletet?</string>
     <string name="confirm_delete_conversation_title">Törlés</string>
     <string name="confirm_discard_text">Elveti ezt az üzenetet?</string>
@@ -357,8 +335,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="contact_edit_set_phone_contact">Névjegy szerkesztése</string>
     <string name="contact_edit_title_phone_contact">Névjegyek</string>
     <string name="contact_in_filter_title">Feladó</string>
-    <string name="contact_info_string">Kapcsolat adatainak megtekintése %1$s</string>
-    <string name="contact_info_string_default">Kapcsolati adatok megtekintése</string>
     <string name="contact_list_add_btn">Hozzáadás</string>
     <string name="contact_list_search_hint">Névjegyek keresése</string>
     <string name="contact_list_title">Kapcsolatok</string>
@@ -394,27 +370,28 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="conversation_message_encrypt_tips">Ez egy titkosított e-mail. A titkosítás feloldásához adja hozzá a szükséges tanúsítványt.</string>
     <string name="conversation_msg_header_collapsed_sent_to">"Elküldve: "</string>
     <string name="conversation_photo_welcome_text">Érintse meg a feladó képét a beszélgetés kiválasztásához.</string>
-    <string name="conversation_pull_ad_content">E-mailjeit könnyedén kezelheti</string>
     <string name="conversation_quick_button_approve">OK</string>
     <string name="conversation_quick_button_disapprove">Mégse</string>
     <string name="conversation_quick_button_received">Fogadva</string>
     <string name="conversation_report_spam">Spam jelentése</string>
     <string name="conversation_spam_dig_msg">Megjelöli ezt az üzenetet spamként? Az üzenet átkerül a \"Spam\" mappába, és a feladója tiltólistára kerül.</string>
     <string name="conversation_spam_tips">Megjelöli ezt az üzenetet spamként?</string>
-    <string name="conversation_view">Beszélgetési nézet</string>
-    <string name="conversation_view_keywords">beszélgetési nézet;e-mail beszélgetés</string>
     <string name="copied">Másolva</string>
     <string name="copy">Másolás</string>
     <string name="copy_email">E-mail cím másolása</string>
     <string name="copy_number">Telefonszám másolása</string>
     <string name="create_action">Új</string>
-    <string name="credit_limit_text">Hitelkeret</string>
     <string name="cur_debt">Számlaegyenleg</string>
     <string name="custom_from_account_label">E-mail küldése mint:</string>
     <string name="database_exception">Hiba történt, jelentkezz be újra.</string>
     <string name="date_heading">"Dátum: "</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Ma, %1$s</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="date_picker_lunar">Kínai hagyományos naptár</string>
+    <string name="date_time_picker_dialog_title">Dátum- és időbeállítás</string>
     <string name="db_error">Hiba történt, jelentkezz be újra.</string>
     <string name="debug_mode_preferencecategory">Naplózási kimenet beállítása</string>
     <string name="debug_mode_settings">Hibakeresési mód beállításai</string>
@@ -423,12 +400,9 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="default_setup">ALAPÉRTELMEZETT BEÁLLÍTÁSOK</string>
     <string name="default_signature">Küldve a Mi telefonomról</string>
     <string name="default_signature_2">Az én %s telefonomról küldve</string>
-    <string name="del_account_questionnair_hint">El tudná mondani, miért távolítja el a fiókot?</string>
     <string name="delete">Törlés</string>
     <string name="delete_contact_content">Törli ezt a kapcsolatot most?</string>
     <string name="delete_message_event">Törlöd ezt a meghívást?</string>
-    <string name="delete_message_flow">Üzenetváltás törlése</string>
-    <string name="delete_message_flow_keywords">üzenetváltás törlése;átirányítás törlése</string>
     <string name="deleted">Törölve</string>
     <string name="device_activity_btn_str">Aktiválás</string>
     <string name="device_activity_lint_str">E-mail szolgáltatás teljes frissítésének és aktív biztonsági beállítások engedélyezése</string>
@@ -436,7 +410,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="device_admin_label">E-mail</string>
     <string name="device_not_activiey_lint1">Az Eszközkezelő nincs engedélyezve</string>
     <string name="device_not_activiey_lint2">Az e-mail szolgáltatás nem működik Exchange-dzsel</string>
-    <string name="dialog_account_auto_sync_setting_no_open">Úgy döntött, hogy az e-maileket manuálisan szinkronizálja. Frissítsen a szinkronizáláshoz.</string>
     <string name="dialog_agree">Elfogadás</string>
     <string name="dialog_change_sync_lookback">%s előtt érkezett üzenetek automatikusan törlődnek. Érintse meg a módosításhoz.</string>
     <string name="dialog_disagree">Elutasítás</string>
@@ -445,7 +418,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="dialog_system_auto_sync_account_no_open">Kapcsolja be a fiók szinkronizációját az e-mailek automatikus fogadásához</string>
     <string name="dialog_system_auto_sync_master_no_open">Kapcsolja be a szinkronizációt az e-mailek automatikus fogadásához</string>
     <string name="disable_admin_warning">FIGYELMEZTETÉS: Az E-mail alkalmazás eszközfelügyelet engedélyének kikapcsolása törli az összes olyan e-mail fiókot (beleértve üzenetek, kapcsolatok, naptárbejegyzések és egyéb adatok), melyek ezt megkövetelik.</string>
-    <string name="discard">Elvetés</string>
     <string name="discard_drafts">Piszkozatok elvetése</string>
     <string name="dismiss_tip_hover_text">Tipp elutasítása</string>
     <string name="disturb_switch">Ne zavarjanak</string>
@@ -460,7 +432,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="downlaod_confirm_download">Letöltés</string>
     <string name="downlaod_nonWifi_confirm_message">Használ mobil adatforgalmat a melléklet letöltéséhez?</string>
     <string name="downlaod_nonWifi_confirm_title">Melléklet letöltése?</string>
-    <string name="download_again">Letöltés újra</string>
     <string name="download_before_sharing">" letöltése nem befejeződött be."</string>
     <string name="download_cancel_confirm_message">A letöltés leáll</string>
     <string name="download_cancel_confirm_title">Melléklet letöltése?</string>
@@ -470,7 +441,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="download_message_failed_for_too_large">Az üzenet túl nagy.</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_bank_bill">Banki nyilatkozatok</string>
-    <string name="drawer_classification">Kategóriák</string>
     <string name="drawer_close">Navigációs fiók bezárása</string>
     <string name="drawer_contacts">Kapcsolatok</string>
     <string name="drawer_open">Navigációs fiók megnyitása</string>
@@ -478,16 +448,16 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="dtstart">Kezdete</string>
     <string name="due">Esedékes</string>
     <string name="due_date_text">Utolsó visszafizetés</string>
+    <string name="early_morning">Reggel</string>
     <string name="edit_quick_response_dialog">Gyors válasz</string>
     <string name="edit_signature">Aláírás szerkesztése</string>
     <string name="editor_max_length_limit_hint">A beírt üzeneted túl hosszú</string>
     <string name="email_netease">NetEase Mail</string>
     <string name="email_qq">QQ Mail</string>
-    <string name="email_setting">E-mail</string>
-    <string name="email_setting_keywords">Fiókok;Fiók hozzáadása;e-mail fiók;e-mail fiókok;e-mail fiók hozzáadása;megerősítés törlés előtt;törlés megerősítés;megerősítés küldés előtt;küldés megerősítés;üzenetváltás törlése;átirányítás törlése;beszélgetési nézet;e-mail beszélgetés;akkumulátor kímélő;e-mail akkumulátor;visszajelzés küldése;naplók feltöltése</string>
     <string name="email_sina">Sina Mail</string>
     <string name="email_sync_failed">E-mail szinkronizálása sikertelen</string>
     <string name="eml_parse_message">EML fájl megnyitása…</string>
+    <string name="empty" />
     <string name="empty_account_tip">Fiók nem található</string>
     <string name="empty_email_tip">Üres üzenet nem küldhető</string>
     <string name="empty_spam">Spam ürítése</string>
@@ -495,7 +465,10 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="empty_trash">Lomtár ürítése</string>
     <string name="empty_trash_dialog_title">Lomtár ürítése?</string>
     <string name="enable_sync_in_account_settings">%1$s bekapcsolása.</string>
+    <string name="eras_ad">I.SZ.</string>
+    <string name="eras_bc">I.E.</string>
     <string name="error">Hiba</string>
+    <string name="evening">Délután</string>
     <string name="exception_cancel">"
         Az esemény vissza lett vonva ekkor:
         %s
@@ -509,7 +482,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="fail_get_email_message">Üzenet fogadása sikertelen.</string>
     <string name="failed">Kép betöltése sikertelen</string>
     <string name="failed_parse_eml_file">EML fájl megnyitása sikertelen, próbálja újra.</string>
-    <string name="failed_read_phone_state_permission">Eszköz állapotának elérésének engedélyezése</string>
     <string name="failed_read_write_calendar_permission">A Naptárhoz való hozzáférés letiltva</string>
     <string name="failed_read_write_contacts_permission">A névjegyekhez való hozzáférés letiltva</string>
     <string name="feedback">Visszajelzés küldése</string>
@@ -537,6 +509,58 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="filter_title_unread">%s [Olvasatlan]</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Érintse meg a gombot \"%s\" küldéséhez a beszélgetésben lévő összes embernek</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">MMMM d.</string>
+    <string name="fmt_date_long_year_month">yyyy. MMMM</string>
+    <string name="fmt_date_long_year_month_day">yyyy. MMMM d.</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">M.d.</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">yyyy-M</string>
+    <string name="fmt_date_numeric_year_month_day">yyyy-M-d</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">MMM d.</string>
+    <string name="fmt_date_short_year_month">yyyy. MMM</string>
+    <string name="fmt_date_short_year_month_day">yyyy. MMM. d.</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'perc'"</string>
+    <string name="fmt_time_minute_second">"m'perc' s'mp'"</string>
+    <string name="fmt_time_minute_second_millis">"m'perc' s.S'mp'"</string>
+    <string name="fmt_time_second">"s'mp'"</string>
+    <string name="fmt_time_second_millis">"s.S'mp'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="folder_empty_to_fresh">E-mail nincs szinkronizálva. Húzza le a szinkronizáláshoz.</string>
     <string name="folder_list_display_all">Az összes mappa megjelenítése</string>
     <string name="folder_list_display_only_import">Csak a fontos mappák megjelenítése</string>
@@ -570,6 +594,9 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="forward_download_failed_ticker">Egy vagy több melléklet továbbítása sikertelen.</string>
     <string name="forward_download_failed_title">Melléklet nincs továbbítva</string>
     <string name="free_period_text">Kamatmentes időszak</string>
+    <string name="friday">Péntek</string>
+    <string name="friday_short">Pén</string>
+    <string name="friday_shortest">Pén</string>
     <string name="from_heading">"Feladó: "</string>
     <string name="general_preference_confirm_delete_label">Megerősítés törlés előtt</string>
     <string name="general_preference_confirm_send_label">Megerősítés küldés előtt</string>
@@ -590,19 +617,16 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="gmail_login_confirm_to_use_proxy">Proxy szerver használata a Gmail Fiók eléréséhez?</string>
     <string name="gmail_login_failed_non_proxy_title">Gmail szerver nem elérhető</string>
     <string name="gmail_server_authorization_deleted">Nem sikerült hitelesíteni a fiókot. Próbálja újra hozzáadni.</string>
-    <string name="gmail_web_login_go">OK</string>
-    <string name="gmail_web_login_required_message">Bejelentkezés Gmailbe</string>
     <string name="go_to_mail_content">E-mail megtekintése</string>
     <string name="have_auth_code">Rendelkezem kóddal</string>
     <string name="header_category_account">Fiókok</string>
-    <string name="header_category_other">Visszajelzés</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">Általános</string>
     <string name="help_and_info">Súgó</string>
     <string name="help_me_get_qq_auth">Kód beszerzése</string>
     <string name="help_weixin_title">"Ha bármilyen kérdése lenne, írjon nekünk a hivatalos WeChat fiókunkban (angolul): "</string>
     <string name="hide_elided">▼ idézett szöveg elrejtése</string>
     <string name="hide_password">Jelszó elrejtése</string>
-    <string name="hint_quick_reply_all">Válasz mindenkinek</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">A bejövő levelek kiszolgálójának jelszava helytelen</string>
@@ -610,14 +634,16 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="import_from_other_account">Importálás más számlákról</string>
     <string name="info_actionbar_normal_detail">Promóciók</string>
     <string name="info_item_hide">Töröl</string>
-    <string name="info_switch_summary">Promóciója mutatása a bejövő üzenetek tetején</string>
-    <string name="info_switch_title">Promóciók</string>
     <string name="inline_picture_deleted">Hiányzó kép letöltése…</string>
     <string name="input_password_prompt">Adja meg a jelszavát</string>
+    <string name="installation_cancelled">Telepítés megszakítva.</string>
+    <string name="installation_failed">Sikertelen telepítés.</string>
+    <string name="installing_module">Telepítőmodul:</string>
     <string name="interact_with_server_error">Nem sikerült kapcsolódni a szerverhez</string>
     <string name="invalid_recipient">"A cím %s  érvénytelen."</string>
     <string name="invalid_recipient_title">Kedvezményezett hiba</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Nincs még e-mail.</string>
     <string name="load_from_remote">Levelek keresése a kiszolgálón</string>
     <string name="load_more">Több betöltése</string>
@@ -629,7 +655,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="log_save_path">Naplófájl helye</string>
     <string name="login">Bejelentkezés</string>
     <string name="login_des_126">Bejelentkezés a 126 Mailbe</string>
-    <string name="login_des_139">Bejelentkezés a 139 Mailbe</string>
     <string name="login_des_163">Bejelentkezés a 163 Mailbe</string>
     <string name="login_des_exchange">Bejelentkezés az Exchange-be</string>
     <string name="login_des_gmail">Bejelentkezés Gmailbe</string>
@@ -649,18 +674,12 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="login_failed_title">Bejelentkezés sikertelen</string>
     <string name="login_mail">Bejelentkezés</string>
     <string name="login_qq_psw">Kód megadása manuálisan</string>
-    <string name="login_support_tip_text">Az összes jelentős e-mail fiókot támogatja</string>
     <string name="long_press_to_select_tip">Egy beszélgetés kiválasztásához tartsa nyomva, majd érintéssel válasszon ki többet.</string>
     <string name="mail">E-mail</string>
     <string name="mail_body_turncated">Ez az e-mail túl nagy a betöltéshez, így csak egy része látható, a teljes tartalom megtekintéséhez nyissa meg PC-n</string>
     <string name="mail_description_content">Az E-mail olyan e-mail kliens, mellyel több fiókot kezelhet, e-maileket küldhet és fogadhat, valamint szinkronizálhatja naptáradatait és kapcsolatait. Győződjön meg róla, hogy nélkülözni tudja ezeket a funkciókat mielőtt eltávolítaná ezt az alkalmazást. Az Exchange névjegyek és a naptáradatok is törlődnek.</string>
     <string name="mail_description_title">Az E-mailről</string>
     <string name="mail_header_network_not_available">Nem rendelkezik hálózati kapcsolattal.</string>
-    <string name="mail_login_help">Hogyan jelentkezzen be</string>
-    <string name="mail_login_help_bottom_tip">"Ha elfelejtette jelszavát, vagy ellenőriznie kell fiókjának állapotát, használja a NetEase Mail webes verzióját. Segítséget is kaphat a WeChat alkalmazásban: "</string>
-    <string name="mail_login_help_details1">1. Az e-mail jelszó akkor használható, ha az e-mail kliensben nem került beállításra hitelesítési kód, és a POP3/IMAP/SMTP szolgáltatások engedélyezésre kerültek.</string>
-    <string name="mail_login_help_details2">2. A harmadik féltől származó hitelesítő kódok felhasználhatók a harmadik fél e-mail klienseibe való bejelentkezésre, ha a POP3/IMAP/SMTP szolgáltatások engedélyezésre kerültek.</string>
-    <string name="mail_login_help_title">E-mail jelszó/Harmadik féltől származó kliens:</string>
     <string name="mail_outlook_login_tips">A jelszó megadásához átirányításra kerül a Microsoft oldalára</string>
     <string name="mail_outlook_oauth_login">Bejelentkezés OAuth segítségével</string>
     <string name="mail_outlook_psw_login">Bejelentkezés jelszó használatával</string>
@@ -692,16 +711,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
         Fogadva:
         %s
     "</string>
-    <string name="meeting_allday">"
-        Idő:
-        %s
-        (minden nap)
-    "</string>
-    <string name="meeting_allday_recurring">"
-        Idő:
-        %s
-        (minden nap, ismétlődő)
-    "</string>
     <string name="meeting_canceled">"
         Megszakítva:
         %s
@@ -710,11 +719,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
         Elutasítva:
         %s
     "</string>
-    <string name="meeting_recurring">"
-        Idő:
-        %s
-        (ismétlődő)
-    "</string>
     <string name="meeting_responded_failed">Nincs válasz</string>
     <string name="meeting_tentative">"
         Függő:
@@ -722,14 +726,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     "</string>
     <string name="meeting_updated">"
         Frissítve:
-        %s
-    "</string>
-    <string name="meeting_when">"
-        Idő:
-        %s
-    "</string>
-    <string name="meeting_where">"
-        Helyszín:
         %s
     "</string>
     <string name="megabytes">%s MB</string>
@@ -746,9 +742,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="menu_folder_options">Szinkronizálási beállítások</string>
     <string name="menu_move_to">Áthelyezés ide:</string>
     <string name="menu_move_to_inbox">Áthelyezés a Bejövő üzenetekhez</string>
-    <string name="menu_photo_save_all">Összes mentése</string>
-    <string name="menu_photo_share">Megosztás</string>
-    <string name="menu_photo_share_all">Összes megosztása</string>
     <string name="menu_resend_all">Újraküldés mindenkinek</string>
     <string name="menu_search">Keresés</string>
     <string name="menu_settings">Beállítások</string>
@@ -756,7 +749,6 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="message_body_load_set_description">E-mailek betöltése mobilinterneten</string>
     <string name="message_compose_insert_quick_response_list_title">Gyors válasz beillesztése</string>
     <string name="message_decode_error">Üzenet dekódolása sikertelen</string>
-    <string name="message_details_title">Üzenet adatai</string>
     <string name="message_discarded">Piszkozat elvetése</string>
     <string name="message_invite_accept">Igen</string>
     <string name="message_invite_calendar_view">Megtekintés a naptárban</string>
@@ -767,24 +759,90 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="message_invite_state_decline">Elutasítva</string>
     <string name="message_invite_state_tentative">Várakozás</string>
     <string name="message_invite_tentative">Talán</string>
-    <string name="message_invite_title">Naptár meghívó</string>
     <string name="message_saved">Üzenet mentve piszkozatként.</string>
     <string name="message_view_attachment_background_load">Továbbított üzenetében a mellékletek letöltésre kerülnek a küldés előtt.</string>
-    <string name="mi_sync_erroe_toast">"Hálózati hiba történt: "</string>
-    <string name="mi_sync_erroe_toast_other">"Kiszolgáló hiba történt: "</string>
     <string name="mibill_privacy_policy_button1">Később</string>
     <string name="mibill_privacy_policy_button2">Elfogadás</string>
     <string name="mibill_privacy_policy_description">Mi Pénztárca engedélyezése a számlák automatikus elemzéséhez és kezeléséhez. Ez a szolgáltatás alapértelmezett beállításként ki van kacsolva.</string>
     <string name="mibill_privacy_policy_link">A szolgáltatás használatával Ön elfogadja a <a href="https://www.mipay.com/res/doc/eula/email.html">Felhasználási feltételeket</a></string>
     <string name="mibill_privacy_policy_title">Számlák automatikus kezelése</string>
+    <string name="midnight">Éjjel</string>
     <string name="min_payment_text">Minimum kifizetés</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
+    <string name="miuix_appcompat_cancel_description">Mégse</string>
+    <string name="miuix_appcompat_confirm_description">Megerősítés</string>
+    <string name="miuix_appcompat_delete_description">Törlés</string>
+    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
+    <string name="miuix_appcompat_search_input_description">Keresés</string>
+    <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
+    <string name="miuix_appcompat_select_all_description">Összes kijelölése</string>
+    <string name="miuix_appcompat_select_item">Elemek kiválasztása</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Húzza le a frissítéshez</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Sikeresen frissítve</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Frissítés…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Engedje el a frissítéshez</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Egyelőre ennyi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Egyelőre ennyi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Egy pillanat...…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemek betöltése sikertelen</string>
+    <string name="miuix_search_action_mode_cancel">Mégse</string>
+    <string name="miuix_search_history_clear">Keresési előzmények törlése</string>
+    <string name="miuix_search_history_default_title">Keresési előzmények</string>
+    <string name="miuix_search_recommendation_default_title">Ezek is érdekesek lehetnek</string>
+    <string name="miuix_search_recommendation_item_del_des">Törlés</string>
     <string name="modify_contact_address">A kapcsolat e-mail-címének szerkesztése</string>
-    <string name="more_context">Több</string>
+    <string name="monday">Hétfő</string>
+    <string name="monday_short">Hét</string>
+    <string name="monday_shortest">Hét</string>
+    <string name="month_april">Április</string>
+    <string name="month_april_short">Ápr</string>
+    <string name="month_april_shortest">Ápr</string>
+    <string name="month_august">Augusztus</string>
+    <string name="month_august_short">Aug</string>
+    <string name="month_august_shortest">Aug</string>
+    <string name="month_december">December</string>
+    <string name="month_december_short">Dec</string>
+    <string name="month_december_shortest">Dec</string>
+    <string name="month_february">Február</string>
+    <string name="month_february_short">Febr</string>
+    <string name="month_february_shortest">Febr</string>
+    <string name="month_january">Január</string>
+    <string name="month_january_short">Jan</string>
+    <string name="month_january_shortest">Jan</string>
+    <string name="month_july">Július</string>
+    <string name="month_july_short">Júl</string>
+    <string name="month_july_shortest">Júl</string>
+    <string name="month_june">Június</string>
+    <string name="month_june_short">Jún</string>
+    <string name="month_june_shortest">Jún</string>
+    <string name="month_march">Március</string>
+    <string name="month_march_short">Márc</string>
+    <string name="month_march_shortest">Márc</string>
+    <string name="month_may">Máj</string>
+    <string name="month_may_short">Máj</string>
+    <string name="month_may_shortest">Máj</string>
+    <string name="month_november">November</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
+    <string name="month_october">Október</string>
+    <string name="month_october_short">Okt</string>
+    <string name="month_october_shortest">Okt</string>
+    <string name="month_september">Szeptember</string>
+    <string name="month_september_short">Szept</string>
+    <string name="month_september_shortest">Szept</string>
+    <string name="more">Továbbiak</string>
+    <string name="morning">Reggel</string>
     <string name="move_to_selection_dialog_title">Áthelyezés másik mappába</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Némít</string>
+    <string name="nav_app_bar_navigate_up_description">Navigálás felfelé</string>
+    <string name="nav_app_bar_open_drawer_description">Navigációs fiók kinyitása</string>
     <string name="navigation_menu">Navigációs menü</string>
-    <string name="need_get_qq_mail">QQ Mail szükséges</string>
     <string name="network_error">Nincs kapcsolat</string>
     <string name="network_invaild">Nem lehet kapcsolódni a hálózathoz</string>
     <string name="network_not_available">Nem lehet kapcsolódni a hálózathoz</string>
@@ -793,6 +851,7 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="new_incoming_messages_one">Új üzenet tőle: %s. Mutatás.</string>
     <string name="new_signature_has_saved">Sikeresen mentve</string>
     <string name="next_action">Tovább</string>
+    <string name="night">Este</string>
     <string name="no">Nem</string>
     <string name="no_application_found">Nincs megfelelő alkalmazás a melléklet megnyitásához.</string>
     <string name="no_application_found_title">Melléklet megnyitása.</string>
@@ -801,16 +860,14 @@ Próbáljon meg átváltani egy másik e-mail fiókra."</string>
     <string name="no_contacts">Nincsenek névjegyek.</string>
     <string name="no_content_in_body">[No Body]</string>
     <string name="no_conversations">Nincsenek üzenetek</string>
-    <string name="no_filtrable_email_account">Nincs szűrhető fiók</string>
     <string name="no_img_application_found">A fájl megnyitásához nem található alkalmazás</string>
     <string name="no_img_application_found_title">Nem lehet megnyitni ezt a képet</string>
     <string name="no_mails">Nincs e-mail.</string>
     <string name="no_matched_attachment">Nincs eredmény.</string>
     <string name="no_more_mail">Nincs több üzenet</string>
     <string name="no_open_smime_toast">Először adja hozzá az S/MIME-tanúsítványt</string>
-    <string name="no_recognize_describe">"Nem található jegyeket vagy foglalásokat tartalmazó e-mail.
-Próbálkozzon másik beérkező mappával."</string>
     <string name="no_search_results">Keresés a szerveren</string>
+    <string name="noon">Dél</string>
     <string name="not_set">Nincs beállítva</string>
     <string name="not_subject">(Nincs tárgy)</string>
     <string name="not_synced_title">Fiók nincs szinkronizálva</string>
@@ -822,7 +879,6 @@ Próbálkozzon másik beérkező mappával."</string>
     <string name="notification_action_undo_archive">Archivált</string>
     <string name="notification_action_undo_delete">Törölve</string>
     <string name="notification_action_undo_remove_label">Címke eltávolítva</string>
-    <string name="notification_exchange_calendar_added">Exchange naptár hozzáadva</string>
     <string name="notify_channel_new_mail">Értesítés új üzenetekről</string>
     <string name="notify_channel_no_disterb">Ne zavarjanak mód</string>
     <string name="notify_channel_permission_notice">Engedélyek szükségesek</string>
@@ -843,7 +899,6 @@ Próbálkozzon másik beérkező mappával."</string>
     <string name="oauth_gmail_login_notify">Írja be a Google fiók felhasználónevét és jelszavát a következő bejelentkező oldalon.</string>
     <string name="oauth_login_continue">Folytatás</string>
     <string name="oauth_login_continue_qq">Szerezzen kódot, lépjen be és</string>
-    <string name="oauth_login_usr_proxy">Bejelentkezés proxy használatával</string>
     <string name="obtain_new_auth_code">Kérjen új kódot</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
@@ -889,7 +944,6 @@ Próbálkozzon másik beérkező mappával."</string>
     <string name="over_sixteen">Elmúltam 16 éves.</string>
     <string name="parase_setup_data">Adatok lekérése…</string>
     <string name="parse_bill_discribe">Hitelkártya számlák feldolgozása…</string>
-    <string name="parse_recognize_describe">E-mail elemzése…</string>
     <string name="password_expire_warning_content_title">Képernyőzár jelszava hamarosan lejár</string>
     <string name="password_expire_warning_dialog_content_fmt">Hamarosan meg kell változtatni a képernyőzár PIN-kódját vagy jelszavát, különben az %s adatai törlésre kerülnek. Szeretné megváltoztatni most?</string>
     <string name="password_expire_warning_dialog_title">Képernyőzár jelszava hamarosan lejár</string>
@@ -898,16 +952,6 @@ Próbálkozzon másik beérkező mappával."</string>
     <string name="password_expired_dialog_content_fmt">A fiók adatai %s törlődnek a készülékről. Képernyőzár jelszó vagy PIN-kód megváltoztatásával visszaállíthatja az adatokat. Szeretné megváltoztatni most?</string>
     <string name="password_expired_dialog_title">Képernyőzár jelszó lejárt</string>
     <string name="password_expired_ticker">Képernyőzár PIN-kód vagy jelszó lejárt.</string>
-    <string name="path_about_account_setting">E-mail/Beállítások/Fiókok</string>
-    <string name="path_about_add_account">E-mail/Beállítások/Fiók hozzáadása</string>
-    <string name="path_about_battery_saver">E-mail/Beállítások/Akkumulátorkímélő</string>
-    <string name="path_about_confirm_before_delete">E-mail/Beállítások/Megerősítés törlés előtt</string>
-    <string name="path_about_confirm_before_send">E-mail/Beállítások/Megerősítés küldés előtt</string>
-    <string name="path_about_conversation_view">E-mail/Beállítások/Beszélgetési nézet</string>
-    <string name="path_about_delete_message_flow">E-mail/Beállítások/Üzenetváltás törlése</string>
-    <string name="path_about_email_setting">E-mail/Beállítások</string>
-    <string name="path_about_send_feed_back">E-mail/Beállítások/Visszajelzés küldése</string>
-    <string name="path_about_upload_logs">E-mail/Beállítások/Naplók feltöltése</string>
     <string name="perference_change_pw_notnull_tips">Adja meg a jelszavát</string>
     <string name="perference_change_pw_ok_tips">A jelszó megváltozott</string>
     <string name="perference_setup_pop_del">E-mail törlése a szerverről</string>
@@ -922,20 +966,16 @@ Próbálkozzon másik beérkező mappával."</string>
     <string name="permission_read_attachment_label">Mellékletek olvasása</string>
     <string name="personal_data_collection_summary">A kapcsoló bekapcsolásakor Ön elfogadja, hogy személyes adatokat gyűjthessünk Önről. Bármikor kikapcsolhatja a kapcsolót, visszavonhatja az engedélyt és törölheti a szervereinkről az adatait.</string>
     <string name="personal_data_collection_title">Személyes adatok gyűjtésének engedélyezése</string>
-    <string name="phone">telefon</string>
-    <string name="photo_load_failed">Kép betöltése sikertelen</string>
     <string name="photo_view_count">%1$d/%2$d</string>
     <string name="pl_select_age">Életkor kiválasztása</string>
-    <string name="please_fill_in_your_mailbox_information2">Írja be postaládája adatait</string>
     <string name="pls_parse_bill_discribe">"Számlák és útinfók elemzése a levelezésében,
 hogy kaphasson értesítéseket a kifizetésekről és utazásokról"</string>
+    <string name="pm">DU</string>
     <string name="policy_app_blacklist">Megadott alkalmazások tiltása</string>
     <string name="policy_app_whitelist">Csak a megadott alkalmazások engedélyezése</string>
     <string name="policy_bluetooth_restricted">Bluetooth használat korlátozása</string>
-    <string name="policy_calendar_age">Szinkronizált naptáresemények számának korlátozása</string>
     <string name="policy_dont_allow_attachments">Mellékletek tiltása</string>
     <string name="policy_dont_allow_browser">Böngészők tiltása</string>
-    <string name="policy_dont_allow_camera">Kamera használatának tiltása</string>
     <string name="policy_dont_allow_consumer_email">Fogyasztói e-mailek tiltása</string>
     <string name="policy_dont_allow_html">HTML e-mail tiltása</string>
     <string name="policy_dont_allow_internet_sharing">Internetmegosztás tiltása</string>
@@ -947,37 +987,28 @@ hogy kaphasson értesítéseket a kifizetésekről és utazásokról"</string>
     <string name="policy_dont_allow_unsigned_installers">Tiltsa az aláíratlan alkalmazások telepítését</string>
     <string name="policy_dont_allow_wifi">WLAN tiltása</string>
     <string name="policy_dont_allow_wifi_inter">Ne engedélyezd a wifi használatát</string>
-    <string name="policy_email_age">Szinkronizált e-mailek számának korlátozása</string>
     <string name="policy_html_truncation">HTML e-mail szöveg hosszának korlátozása</string>
-    <string name="policy_password_expiration">Lejárati idő beállítása a jelszavakhoz</string>
-    <string name="policy_password_history">Korábbi jelszavak használatának korlátozása</string>
     <string name="policy_require_encryption">Eszköz titkosítás szükséges</string>
     <string name="policy_require_manual_sync_roaming">Csak a manuális szinkronizálás engedélyezése roamingban</string>
-    <string name="policy_require_password">Készülék jelszó előírás</string>
     <string name="policy_require_sd_encryption">SD-kártya titkosítás szükséges</string>
     <string name="policy_require_smime">SMIME üzenetek szükségesek</string>
-    <string name="policy_screen_timeout">Inaktív idő előírás a képernyőzárhoz</string>
     <string name="policy_text_truncation">E-mail szöveg hosszának korlátozása</string>
     <string name="pop3_name">POP3</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="preference_eas_tips">Érintse meg az “Aktiválás“t a levelező szerver beállításához.</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">POP3-nál a mellékletek automatikusan letöltődnek az e-maillel. Ez növeli a mobil adatforgalmat.</string>
-    <string name="preference_sender_image_description">Profilképek megjelenítése a Bejövő üzenetek mappában a feladó neve mellett</string>
-    <string name="preference_sender_image_title">Profilképek megjelenítése a Bejövő üzenetek mappában</string>
     <string name="preferences_signature_dialog_title">Aláírás</string>
-    <string name="preferences_signature_summary_not_set">Nincs beállítva</string>
     <string name="preferences_signature_title">Aláírás</string>
-    <string name="preview_attachment">Előnézet</string>
     <string name="previous_action">Vissza</string>
     <string name="print">Nyomtatás</string>
     <string name="print_scheduler_title">Összes ütemterv nyomtatása</string>
     <string name="privacy_des">A naplók tartalmazzák az e-mail kliens hibakeresési adatait és a készüléke adatait. Ez az információ a problémák gyorsabb behatárolására kerülnek felhasználásra. Az alábbi \"%1$s\" megérintésével elfogadja a következőt: \"%2$s\".</string>
     <string name="privacy_policy">Adatvédelmi irányelvek</string>
     <string name="privacy_setting_agree">Elfogadás</string>
+    <string name="progress">Folyamat:</string>
     <string name="prompt_title">Figyelmeztetés</string>
     <string name="protocol_setting_toast">Miután elfogadta, érintse meg a jobb felső sarokban a beállításokhoz</string>
-    <string name="pull_load_more">Húzza fel a többi betöltéséhez</string>
     <string name="pull_to_refresh">Húzza le a frissítéshez</string>
     <string name="push_wps_better_confirm_download">Letöltés</string>
     <string name="push_wps_better_confirm_exit">Egyéb alkalmazások</string>
@@ -998,44 +1029,19 @@ hogy kaphasson értesítéseket a kifizetésekről és utazásokról"</string>
     <string name="qq_bar_open_imap">Segítség</string>
     <string name="qq_bar_send_message">SMS küldése</string>
     <string name="qq_changepw_dialog_tips">Kérjen új kódot innen: %s a bejelentkezéshez.</string>
-    <string name="qq_login_basecode">Webes QQ Mail bejelentkezés. Írjon be önálló jelszót.</string>
-    <string name="qq_login_get_auth">Kapcsolja be a jelszavas védelmet, ha nem kapja meg üzeneteit</string>
-    <string name="qq_login_help_bottom_tip">"Ha elfelejtette jelszavát, vagy ellenőriznie kell fiókjának állapotát, használja a QQ Mail webes verzióját. Segítséget is kaphat a WeChat alkalmazásban: "</string>
-    <string name="qq_login_help_details1">1. A QQ jelszót akkor lehet használni, ha az IMAP/Exchange protokollokkal nem került beállításra független jelszó vagy hitelesítő kód.</string>
-    <string name="qq_login_help_details2">2. A független jelszó akkor használható, ha az IMAP/Exchange protokollokkal nem került beállításra hitelesítő kód.</string>
-    <string name="qq_login_help_details3">"3. A harmadik féltől származó e-mail kliensekhez generált hitelesítő kódok is használhatók a bejelentkezéshez. Ha elfelejtette a kódot, használja ezt a linket: "</string>
-    <string name="qq_login_help_title">QQ/Független jelszó/Hitelesítő kód:</string>
     <string name="qq_login_notice">Megjegyzés: Ha már beállított egy jelszót, hitelesíteni kell azt a bejelentkezéskor.</string>
-    <string name="qq_login_open_imap">IMAP/SMTP bekapcsolásához érintse meg a \"Segítség\" gombot</string>
-    <string name="qq_login_origin_setting">> belépéshez adja meg felhasználónevét és jelszavát</string>
-    <string name="qq_login_send_message">Ellenőrzőkód fogadásához érintse meg az \"SMS küldése\" gombot</string>
     <string name="qq_login_sent_setting">Elküldött üzenetek szinkronizálása</string>
-    <string name="qq_login_webview">Bejelentkezés a QQ web kliensbe, érintse meg a jelszóval való bejelentkezéshez.</string>
-    <string name="qq_next_generation_auth_toast">Kapcsolja be a jelszavas védelmet a böngészőjében</string>
     <string name="qq_pwd_or_qq_auth_code">Írja be a kódot</string>
     <string name="qq_sent_no_message">Nem találja az elküldött e-maileket? Koppintson ide, hogy megtudja, mit tehet.</string>
     <string name="qq_sent_no_message_setting">A QQ Mailből küldött üzenetek szinkronizálása</string>
     <string name="qq_uthentication_failed">Fiókellenőrzés sikertelen, jelentkezzen be újra</string>
-    <string name="qq_verify_code">(QQ ellenőrző kód szükséges)</string>
-    <string name="qq_webview_loading">Egy pillanat…</string>
-    <string name="questionnair_body_invisibility">Az üzenetek nem jelennek meg</string>
     <string name="questionnair_confirm_delete">Eltávolítja a fiókot?</string>
-    <string name="questionnair_instability">Gyakran összeomlik</string>
-    <string name="questionnair_not_send">Nem lehet elküldeni az e-mailt</string>
-    <string name="questionnair_not_sync">Instabil szinkronizálás</string>
-    <string name="questionnair_other_reasons">Egyéb</string>
-    <string name="questionnair_title">Eltávolítja a fiókot?</string>
-    <string name="questionnair_ui_not_pretty">Nem szeretem az alkalmazás dizájnját</string>
-    <string name="questionnair_waste_resource">Nincs elegendő tárhely</string>
     <string name="quick_1">Köszönöm!</string>
     <string name="quick_2">Jól hangzik!</string>
     <string name="quick_3">Később elolvasom, majd jelentkezem.</string>
     <string name="quick_4">Szervezzünk egy találkozót, hogy megbeszéljük.</string>
     <string name="quick_reply_dialog_title">Válasszon ki egy választ</string>
     <string name="quick_reply_expend">Több</string>
-    <string name="quick_reply_hint_bcc">(Titkos másolat)</string>
-    <string name="quick_reply_hint_cc">(Másolat)</string>
-    <string name="quick_reply_hint_reply_only_from">Gyors válasz (csak feladó)</string>
     <string name="quick_responses_empty_view">Nincs gyors válasz</string>
     <string name="quoted_text">Idézett szöveg beillesztése</string>
     <string name="quoted_text_label">Idézett szöveg</string>
@@ -1044,38 +1050,11 @@ hogy kaphasson értesítéseket a kifizetésekről és utazásokról"</string>
     <string name="read_string">olvasott beszélgetés</string>
     <string name="recipient_needed">Legalább 1 címzett szükséges.</string>
     <string name="recipient_needed_title">Figyelmeztetés</string>
-    <string name="recognize_hotel_check_in_date">Bejelentkezés ideje</string>
-    <string name="recognize_hotel_hotel_money">Ár: %1$s</string>
-    <string name="recognize_hotel_notification_content">Élvezze az itt-tartózkodást!</string>
-    <string name="recognize_hotel_notification_title">Ön lefoglalt egy %1$s-i szobát %2$s/%3$s napjától. Kétszer is ellenőrizze foglalását mielőtt odaérkezne.</string>
-    <string name="recognize_hotel_order_money">Összesen</string>
-    <string name="recognize_hotel_other_money">Egyéb költségek: %1$s</string>
-    <string name="recognize_hotel_reverse_date">%1$s:%2$s %3$s előtt jelentkezzen be</string>
-    <string name="recognize_hotel_room_type">Szoba</string>
-    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
-    <string name="recognize_hotel_title">Szobafoglalás</string>
-    <string name="recognize_hotel_user_names">Vendég</string>
-    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
-    <string name="recognize_setting_title">Utazási beállítások</string>
-    <string name="recognize_ticket_air_notification_content">Élvezze a repülést!</string>
-    <string name="recognize_ticket_air_notification_title">A repülő %3$s felé hamarosan (%1$s/%2$s) felszáll. Kétszer is ellenőrizze a repülési információkat.</string>
-    <string name="recognize_ticket_air_state_stopover">Útmegszakítás</string>
-    <string name="recognize_ticket_air_state_transfer">Átszállás</string>
-    <string name="recognize_ticket_air_user_name">Utas: %1$s</string>
-    <string name="recognize_ticket_title">Repülő és vonatjegyek</string>
-    <string name="recognize_ticket_train_alter">Megváltozott</string>
-    <string name="recognize_ticket_train_depart_date">Indulás %1$s.%2$s., %3$s:%4$s-kor</string>
-    <string name="recognize_ticket_train_notification_content">Jó utat!</string>
-    <string name="recognize_ticket_train_notification_title">A vonat %3$s felé hamarosan (%1$s/%2$s) indul. Kétszer is ellenőrizze a jegyét.</string>
-    <string name="recognize_ticket_train_return">Visszaküldött</string>
-    <string name="recognize_ticket_train_user_name">Utas: %1$s</string>
-    <string name="recognize_title">Utazási információk</string>
     <string name="recommend_protocal">Ajánlások használati protokoll</string>
     <string name="reduce_the_receiving_frequencye_summary">Csendes módban az e-mailek szinkronizálása ritkább</string>
     <string name="reduce_the_receiving_frequencye_title">Szinkronizálás ritkábban</string>
     <string name="refresh">Frissítés</string>
     <string name="refreshing">Frissítés…</string>
-    <string name="refreshing_done">Kész</string>
     <string name="release_to_refresh">Engedje el a frissítéshez</string>
     <string name="remind_attachment_size_limit">Az e-mailjeinek %sMB-nál kisebbnek kell lenniük</string>
     <string name="reminder">Emlékeztető</string>
@@ -1096,16 +1075,16 @@ Várjon, amíg teljesen szinkronizálásra kerül, vagy az üzenetet a számít�
     <string name="request_entity_large">Fájl túl nagy</string>
     <string name="request_permission_activity">Engedélyek szükségesek</string>
     <string name="respond_inline">"   Beágyazott válasz"</string>
+    <string name="retry">Újra</string>
     <string name="retry_login">Jelentkezzen be újra</string>
+    <string name="saturday">Szombat</string>
+    <string name="saturday_short">Szo</string>
+    <string name="saturday_shortest">Szo</string>
     <string name="save_action">Mentés</string>
-    <string name="save_attachment">Mentés</string>
     <string name="save_draft_failed">Mentés piszkozatként sikertelen</string>
     <string name="save_power_summary">Energiatakarékos idő beállítása</string>
     <string name="save_power_title">Akkumulátorkímélő</string>
-    <string name="save_this_new_signature">Menti az új aláírást?</string>
     <string name="saved">Mentve, %s</string>
-    <string name="saving">Mentés…</string>
-    <string name="sdcard_cannot_use">SD-kártya nem használható</string>
     <string name="search_bar_text">Feladók vagy névjegyek keresése</string>
     <string name="search_hint">E-mailek keresése</string>
     <string name="search_menu_title">Keresés</string>
@@ -1116,10 +1095,7 @@ Várjon, amíg teljesen szinkronizálásra kerül, vagy az üzenetet a számít�
     <string name="search_tabs_name_sender">Feladó</string>
     <string name="search_tabs_name_subject">Tárgy</string>
     <string name="search_txt_size_limit_prompt">Keresési kifejezésnek 3 karakternél többnek kell lennie</string>
-    <string name="security_changed_ticker_fmt">\"%s\" fiók biztonsági beállításai módosultak; felhasználói beavatkozás nem szükséges.</string>
     <string name="security_needed_ticker_fmt">\"%s \" fiók biztonsági beállítások frissítését igényli.</string>
-    <string name="security_notification_content_change_title">"Biztonsági irányelvek 
-         megváltoztak"</string>
     <string name="security_notification_content_unsupported_title">"Ütközik a biztonsági
          irányelvekkel"</string>
     <string name="security_notification_content_update_title">Biztonsági frissítés szükséges</string>
@@ -1132,9 +1108,6 @@ Várjon, amíg teljesen szinkronizálásra kerül, vagy az üzenetet a számít�
     <string name="send_encrypt_dialog_fail_content">Úgyy tűnik, hogy a címzett nem rendelkezik az e-mail titkosításához szükséges megbízható tanúsítvánnyal. Szokásos e-mailt küld inkább?</string>
     <string name="send_encrypt_dialog_fail_title">Nem küldhető titkosított e-mail</string>
     <string name="send_failed">Üzenet nem lett elküldve.</string>
-    <string name="send_feed_back">Visszajelzés küldése</string>
-    <string name="send_feed_back_keywords">visszajelzés küldése</string>
-    <string name="send_mail">Küldés</string>
     <string name="sender_whitelist_cleared">Képek nem jelennek meg automatikusan.</string>
     <string name="senders_split_token">, </string>
     <string name="sending">Küldés…</string>
@@ -1159,7 +1132,6 @@ Várjon, amíg teljesen szinkronizálásra kerül, vagy az üzenetet a számít�
     <string name="server_cet_cert_issuer">"Tanúsítvány kiállítója: "</string>
     <string name="server_cet_data">"Érvényességi időtartam: "</string>
     <string name="server_cet_data_exp">A szerver tanúsítványa lejárt.</string>
-    <string name="server_cet_data_to" formatted="false">%s - %s</string>
     <string name="server_cet_domain">"Domain név: "</string>
     <string name="server_cet_error_sug">"Próbálja ki a következőket:
 1. Csatlakozzon egy másik hálózathoz, vagy indítsa újra a Wi-Fi routert.
@@ -1192,47 +1164,91 @@ Várjon, amíg teljesen szinkronizálásra kerül, vagy az üzenetet a számít�
 
 
 %s"</string>
-    <string name="silent_ringtone">Néma</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">kB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="smtp_password_error">A kimenő levelek kiszolgálójának jelszava helytelen</string>
     <string name="sort_attachment">Rendezés</string>
-    <string name="storage">Tárhely</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">Összes kijelölése</string>
     <string name="str_select_none">Összes kijelölés megszüntetése</string>
     <string name="subject_and_snippet">%1$s - %2$s</string>
     <string name="subject_hint">Tárgy</string>
     <string name="successfully_obtained_authorization_code">Ellenőrző kód</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="sunday">Vasárnap</string>
+    <string name="sunday_short">Vas</string>
+    <string name="sunday_shortest">Vas</string>
     <string name="sync_calendra_fail_per_content">Érintse meg az engedélyezéshez</string>
     <string name="sync_calendra_fail_per_title">Nem sikerült szinkronizálni a naptáreseményeket</string>
     <string name="sync_calendra_fail_permission">Nem sikerült szinkronizálni a naptáreseményeket. Először engedélyezze, hogy a Mail hozzáférjen a Naptárhoz.</string>
     <string name="sync_contacts_fail_per_content">Érintse meg a névjegyek elérésenek engedélyezéséhez</string>
     <string name="sync_contacts_fail_per_title">Névjegyek szinkronizálása sikertelen</string>
-    <string name="sync_contacts_fail_permission">Névjegyek nem szinkronizálhatóak, engedélyezze az E-mailnek a névjegyek elérését a Beállításokban</string>
     <string name="sync_contacts_req_per_ignored">Engedélyezze az E-mailnek a névjegyek elérését a szinkronizáláshoz</string>
-    <string name="sync_error">Nem sikerült szinkronizálni.</string>
-    <string name="sync_error_message">Az eszköz nem rendelkezik elegendő szabad hellyel a szinkronizáláshoz.</string>
-    <string name="sync_failed_mi_authority_view_detail">Részletek megtekintése</string>
     <string name="sync_question_feed">Szinkronizálási problémák bejelentése</string>
     <string name="sync_upload_question">Visszajelzés</string>
     <string name="syncing_wait_restart">Próbálja újra</string>
     <string name="syncing_wait_restart_title">Időtúllépés a szerverhez való csatlakozás során</string>
     <string name="system_account_create_failed">Fiók létrehozása sikertelen. Próbálja újra.</string>
-    <string name="system_folders_sent_dlg">Elküldött elemek mappa kiválasztása a szerveren</string>
-    <string name="system_folders_sent_summary">Elküldött elemek mappa kiválasztása a szerveren</string>
-    <string name="system_folders_sent_title">Elküldött elemek mappa</string>
-    <string name="system_folders_title">Rendszermappák</string>
-    <string name="system_folders_trash_dlg">Lomtár mappa kiválasztása a szerveren</string>
-    <string name="system_folders_trash_summary">Lomtár mappa kiválasztása a szerveren</string>
-    <string name="system_folders_trash_title">Lomtár mappa</string>
     <string name="system_root_path">Belső tárhely</string>
     <string name="system_security_open_error">Biztonsági beállítások beállításához adja meg az E-mailnek a szükséges engedélyeket a Beállításokban</string>
     <string name="system_setup_open_error">Kapcsolja be az E-mail szinkronizálását a Beállításokban</string>
-    <string name="tablet">tablet</string>
     <string name="tap_to_configure">Érintse meg a beállításhoz.</string>
     <string name="tap_to_enable_sync">Érintse meg a bekapcsoláshoz.</string>
+    <string name="the_anniversary_of_lifting_martial_law">A harci törvény feloldásának évfordulója</string>
+    <string name="the_anti_aggression_day">Agresszióellenes Nap</string>
+    <string name="the_arbor_day">A Fák Napja</string>
+    <string name="the_armed_forces_day">Fegyveres Erők Napja</string>
+    <string name="the_armys_day">PLA Nap</string>
+    <string name="the_childrens_day">Gyermeknap</string>
+    <string name="the_chinese_youth_day">Világifjúsági Nap</string>
+    <string name="the_christmas_day">Karácsony</string>
+    <string name="the_double_ninth_festival">Két kilences ünnep</string>
+    <string name="the_dragon_boat_festival">Sárkányhajó ünnepe</string>
+    <string name="the_easter_day">Húsvét</string>
+    <string name="the_eve_of_the_spring_festival">A kínai újév estéje</string>
+    <string name="the_fifth_day">A kínai újév ötödik napja</string>
+    <string name="the_fools_day">Bolondok Napja</string>
+    <string name="the_forth_day">A kínai újév negyedik napja</string>
+    <string name="the_hksar_establishment_day">Hong Kong SAR alapításának napja</string>
+    <string name="the_international_womens_day">Nők napja</string>
+    <string name="the_laba_festival">Laba Fesztivál</string>
+    <string name="the_labour_day">A munka ünnepe</string>
+    <string name="the_lantern_festival">Lámpásfesztivál</string>
+    <string name="the_mid_autumn_festival">Őszközépünnep</string>
+    <string name="the_national_day">Nemzeti ünnep</string>
+    <string name="the_national_father_day">Szun Jat-szen születésnapja</string>
+    <string name="the_new_years_day">Újév</string>
+    <string name="the_night_of_sevens">Szerelmesek napja</string>
+    <string name="the_partys_day">CPC Nap</string>
+    <string name="the_peace_day">Emlékezés Napja</string>
+    <string name="the_retrocession_day">A visszafordulás napja</string>
+    <string name="the_second_day">A kínai újév második napja</string>
+    <string name="the_seventh_day">A kínai újév hetedik napja</string>
+    <string name="the_sixth_day">A kínai újév hatodik napja</string>
+    <string name="the_spirit_festival">Szellemek ünnepe</string>
+    <string name="the_spring_festival">Kínai újév</string>
+    <string name="the_teachers_day">Tanárok Napja</string>
+    <string name="the_third_day">A kínai újév harmadik napja</string>
+    <string name="the_tw_childrens_day">Gyermeknap</string>
+    <string name="the_tw_youth_day">Világifjúsági Nap</string>
+    <string name="the_united_nations_day">Egyesült Nemzetek Napja</string>
+    <string name="the_valentines_day">Valentin nap</string>
+    <string name="the_water_lantern_festival">Vízi lámpásfesztivál</string>
     <string name="three_day">3 nap</string>
+    <string name="thursday">Csütörtök</string>
+    <string name="thursday_short">Csü</string>
+    <string name="thursday_shortest">Csü</string>
+    <string name="time_picker_dialog_title">Időbeállítás</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
     <string name="title_activity_about">Névjegy</string>
     <string name="to">Címzett</string>
     <string name="to_heading">"Címzett: "</string>
@@ -1250,7 +1266,9 @@ Várjon, amíg teljesen szinkronizálásra kerül, vagy az üzenetet a számít�
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Kapcsolja be a naptár és a névjegyek szinkronizálását a naptár és a névjegyek szinkronizálásához</string>
     <string name="toastbar_local_calendar_sync_switch_close">Kapcsolja be a naptár szinkronizálását a naptári emlékeztetők fogadásához</string>
     <string name="toastbar_local_contacts_sync_swtich_close">A névjegyek hozzáadásához kapcsolja be a névjegyek szinkronizálását</string>
+    <string name="today">Ma</string>
     <string name="today_text">Ma</string>
+    <string name="tomorrow">Holnap</string>
     <string name="too_large_to_attach_additional">Maximális fájlméret %1$s.</string>
     <string name="too_large_to_attach_multiple">Egy vagy több fájl nem lett csatolva. Maximális fájlméret %1$s.</string>
     <string name="too_large_to_attach_single">Csatolt fájl nem lehet nagyobb, mint %1$s.</string>
@@ -1273,11 +1291,9 @@ Várjon, amíg teljesen szinkronizálásra kerül, vagy az üzenetet a számít�
     <string name="trigger_before_minute">%d perccel előbb</string>
     <string name="trigger_before_week">%d héttel előbb</string>
     <string name="try_exchange_login">Bejelentkezés EXCHANGE segítségével</string>
-    <string name="turn_auto_sync_on_dialog_body">"Módosítások minden
-    alkalmazáson és fiókon, nem csak a Gmailen, szinkronizálva lesznek
-    az egyéb eszközök és a %1$s között."</string>
-    <string name="turn_auto_sync_on_dialog_confirm_btn">Kapcsolja be</string>
-    <string name="turn_auto_sync_on_dialog_title">Autom. szinkr. bekapcsolása?</string>
+    <string name="tuesday">Kedd</string>
+    <string name="tuesday_short">Ked</string>
+    <string name="tuesday_shortest">Ked</string>
     <string name="unbind_dialog_text">"Az E-mail alkalmazás ezek után nem fogja elemezni az e-maileket.
 Eltávolítja a fiókot?"</string>
     <string name="under_16_content">Megerősíted, hogy még nem vagy 16 éves?</string>
@@ -1286,18 +1302,14 @@ Eltávolítja a fiókot?"</string>
     <string name="unknow">Ismeretlen</string>
     <string name="unread_string">olvasatlan beszélgetés</string>
     <string name="unzip_file_failed">Nem lehet kicsomagolni a fájlt</string>
-    <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
     <string name="update_domain_summary">Frissítse a rendelkezésre álló tartományok és konfigurációk listáját</string>
     <string name="update_domain_title">Domain beállítások frissítése</string>
-    <string name="updated_at">Frissítve %1$s</string>
     <string name="upload_log">Küldés</string>
     <string name="upload_log_failed">Nem sikerült elküldeni a naplókat</string>
     <string name="upload_log_no">Mégse</string>
     <string name="upload_log_success">Sikeresen elküldve, hamarosan visszajelzünk.</string>
     <string name="upload_log_title">Hibanaplók küldése az E-mail alkalmazás fejlesztésének segítéséhez</string>
     <string name="upload_log_yes">Küldés</string>
-    <string name="upload_logs">Naplók feltöltése</string>
-    <string name="upload_logs_keywords">naplók feltöltése</string>
     <string name="uploading_logs">Egy pillanat…</string>
     <string name="user_new_auth_code">Használj új kódot a bejelentkezéshez</string>
     <string name="user_privacy_settings">Adatvédelmi beállítások</string>
@@ -1307,14 +1319,12 @@ Eltávolítja a fiókot?"</string>
     <string name="user_privacy_settings_title">Mail adatvédelmi nyilatkozat</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
-    <string name="validation_failed_prompt">Fiók nem hitelesíthető, ellenőrizze a %s szerver beállításait</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
     <string name="veiled_alternate_text_unknown_person" />
     <string name="veiled_summary_unknown_person" />
     <string name="verify_code">Ellenőrző kód</string>
     <string name="version_string">Verzió: %s</string>
-    <string name="via_domain">%1$s által</string>
     <string name="view_more_conversations">További beszélgetések megtekintése</string>
     <string name="wait_for_manual_sync_body">"Fiók automatikus szinkronizálása kikapcsolva.
 Kattintson a "<b>Szinkronizálás most</b>ra az egyszeri szinkronizáláshoz, vagy módosítsa a <b>szinkronizálási beállítások</b>at az automatikus szinkronizálás bekapcsolásához.</string>
@@ -1326,18 +1336,18 @@ Kattintson a "<b>Szinkronizálás most</b>ra az egyszeri szinkronizáláshoz, va
     <string name="webview_sslerror_handle_cancel">Mégse</string>
     <string name="webview_sslerror_handle_continue">Folytatás</string>
     <string name="webview_sslerror_handle_hitmessage">Tanúsítványhiba lépett fel, mégis folytatja?</string>
+    <string name="wednesday">Szerda</string>
+    <string name="wednesday_short">Sze</string>
+    <string name="wednesday_shortest">Sze</string>
     <string name="widget_all_mail">Összes e-mail</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Egyéb</string>
     <string name="wipe_account_fail_description">Engedélyezés</string>
-    <string name="wipe_account_fail_description_remind">Az adathasználati korlátozások miatt a fiók törlése után a Naptárban és a Névjegyekben maradhatnak maradványadatok. Manuálisan törölje ezeket az elemeket.</string>
     <string name="wipe_account_fail_title">Személyes adatok törlése sikertelen</string>
-    <string name="wps_title">WPS Mail</string>
     <string name="wrong_password">A megadott jelszó érvénytelen</string>
-    <string name="xiaomi_auth_toastbar">A készülék hitelesítéséhez jelentkezzen be</string>
     <string name="xiaomi_email">Mail</string>
-    <string name="xiaomi_under_certification">Hitelesítés…</string>
     <string name="yes">Igen</string>
+    <string name="yesterday">Tegnap</string>
     <string name="you_are_in_mobile_network">Mobiladat-kapcsolat használata a naplók feltöltéséhez?</string>
     <string name="youfuli">Promóciók</string>
     <string name="zip_viewer_no_file">Nincs fájl.</string>

@@ -77,6 +77,8 @@
         <item>Hang: Qualcomm® aptX™</item>
         <item>Hang: Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>Hang: Qualcomm® aptX™ Adaptive</item>
+        <item>Hang: Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Rendszerérték (alapértelmezett)</item>
@@ -85,6 +87,8 @@
         <item>Hang: Qualcomm® aptX™</item>
         <item>Hang: Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>Hang: Qualcomm® aptX™ Adaptive</item>
+        <item>Hang: Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>

@@ -645,12 +645,12 @@
         <item>Ecuador</item>
     </string-array>
     <string-array name="days_of_week">
-        <item>V</item>
-        <item>H</item>
-        <item>K</item>
+        <item>Vas</item>
+        <item>Hé</item>
+        <item>Ke</item>
         <item>Sze</item>
-        <item>Cs</item>
-        <item>P</item>
+        <item>Csü</item>
+        <item>Pé</item>
         <item>Szo</item>
     </string-array>
     <string-array name="notification_adv_time_entries">

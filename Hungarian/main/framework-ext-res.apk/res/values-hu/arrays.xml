@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Újrapróbálkozás</item>
+        <item></item>
+        <item></item>
+        <item>Fedje le teljesen az ujjlenyomat-leolvasót és nyomja meg</item>
+        <item></item>
+        <item>Fedje le teljesen az ujjlenyomat-leolvasót és nyomja meg</item>
+        <item>Törölje meg az ujjlenyomat-érzékelőt, és próbálja újra</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Fedje le teljesen az ujjlenyomat-leolvasót és nyomja meg</item>
+        <item>Fedje le teljesen az ujjlenyomat-leolvasót és nyomja meg</item>
+        <item>Túl gyors! Nem tudta felismerni az ujjlenyomatot</item>
+        <item>Mozgassa kicsit az ujját és próbálja újra</item>
+        <item>Emelje fel az ujját, és helyezze vissza ismét az olvasóra</item>
+        <item>Tartsa az ujját az olvasón egy kicsit tovább</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Kicsit mozgassa az ujját</item>
+        <item>Ez az ujjlenyomat már hozzá van adva, válasszon másik ujjat</item>
+    </string-array>
+</resources>

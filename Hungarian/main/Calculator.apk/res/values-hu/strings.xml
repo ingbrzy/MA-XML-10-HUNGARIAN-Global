@@ -107,6 +107,7 @@
     <string name="currency_update_updating">Árfolyamok frissítése…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
+    <string name="date_format">yyyy MMM dd</string>
     <string name="dateformat">yyyy.MM.dd.</string>
     <string name="day">nap</string>
     <string name="degDesc">Szög</string>
@@ -115,6 +116,9 @@
     <string name="description_title">A Számológépről</string>
     <string name="devided_by_zero_reminder_message">Nem lehet 0-val osztani</string>
     <string name="dialog_privacy_content">&lt;Data>A számológép alapvető funkciói mellett az alkalmazás tudományos számológépet és többfunkciós átváltót is magában foglal. Néhány funkciónak a normális működéshez csatlakoznia kell az internethez. A számológép használata előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználási feltételeinket&lt;/a> és az &lt;a href=\"%2$s\">Adatvédelmi irányelveinket&lt;/a>.&lt;/Data></string>
+    <string name="dialog_privacy_disagree_msg">A kapcsoló kikapcsolásával visszavonja hozzájárulását a Számológép adatvédelmi irányelvéhez. Megszüntetjük személyes adatainak gyűjtését. A már összegyűjtött és megőrzött személyes adatokat az alkalmazandó jogszabályi előírások alapján meghatározott időtartamon belül töröljük. A Számológép az alapvető szolgáltatások biztosításához személyes adatokat kell, hogy összegyűjtsön. Az adatvédelmi irányelvekhez való hozzájárulásának visszavonása az összegyűjtött személyes adatok alapján a szolgáltatások elutasítását jelenti.</string>
+    <string name="dialog_privacy_revoke_btn_ok">Visszavonás</string>
+    <string name="dialog_privacy_revoke_title">Beleegyezés visszavonása</string>
     <string name="dialog_privacy_title">Felhasználási feltételek</string>
     <string name="dialog_rating_desc_ask">Mi a véleményed a Kalkulátorról?</string>
     <string name="dialog_rating_desc_less">Adnál nekünk visszajelzést is?</string>
@@ -164,6 +168,7 @@
     <string name="global_search_key_word_figure">Pénzügyi karakterek</string>
     <string name="golbal_search_calculator_setting">Számológép;Számológépbeállítások;Beállítások</string>
     <string name="golbal_search_path_calculator_setting">Rendszeralkalmazások/Számológép/Beállítások</string>
+    <string name="gst_percentage">%s</string>
     <string name="height_prompt">Magasság</string>
     <string name="help_content_desc">Súgó</string>
     <string name="hint_annual_rate">Éves díj megadása</string>
@@ -208,6 +213,17 @@
     <string name="item_title_vel_conversion">Sebesség</string>
     <string name="item_title_volume_conversion">Térfogat</string>
     <string name="item_title_weight_conversion">Tömeg</string>
+    <string name="l_digit0">%d</string>
+    <string name="l_digit1">%d</string>
+    <string name="l_digit2">%d</string>
+    <string name="l_digit3">%d</string>
+    <string name="l_digit4">%d</string>
+    <string name="l_digit5">%d</string>
+    <string name="l_digit6">%d</string>
+    <string name="l_digit7">%d</string>
+    <string name="l_digit8">%d</string>
+    <string name="l_digit9">%d</string>
+    <string name="l_name_discount">Kedvezmény (-%s)</string>
     <string name="label_about">Névjegy</string>
     <string name="label_clear_history">Mindent töröl</string>
     <string name="label_date_difference">Különbözet</string>
@@ -218,8 +234,10 @@
     <string name="label_from_date">Feladó:</string>
     <string name="label_history">Előzmények</string>
     <string name="label_interest">Kamat (százalék)</string>
+    <string name="label_investment_disclaimer">Háromhónapos kamatperiódust használunk az ismétlődő számításokhoz</string>
     <string name="label_investment_duration">Időtartam</string>
     <string name="label_loan_tenure">Kölcsön futamideje</string>
+    <string name="label_monthly_investment">Havi befektetés</string>
     <string name="label_months">Hónapok</string>
     <string name="label_no_history">Nincs megjeleníthető tartalom</string>
     <string name="label_powered_by">A Mi Számológép készítette</string>
@@ -266,6 +284,7 @@
     <string name="loan_type_summary_lpr">LPR</string>
     <string name="loan_type_title">Kamatláb szabvány</string>
     <string name="loan_unit">(×10K)</string>
+    <string name="localised_number">%d</string>
     <string name="lpr_ok">Értem</string>
     <string name="lpr_tips_msg">"2019. október 8-tól a személyes kereskedelmi lakáshitel kamatláb az irányadó hitelkamatláb (LPR) szerint kerül majd kiszámításra az előzőekben használt 4,9%-os irányadó kamatláb helyett. Mostantól a végső kamatláb egy LPR-bázispont hozzáadásával kerül megerősítésre.
 
@@ -327,6 +346,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="network_confirm_content">A pénznemváltónak, az adó és jelzálog kalkulátornak hálózati kapcsolat és tartózkodási hely szolgáltatás szükséges a megfelelő működéshez.</string>
     <string name="network_confirm_title">Engedélyek szükségesek</string>
     <string name="network_purpose">Üdvözöljük a Számológépben! A Számológépet bármikor használhatja devizák átváltására, jelzáloghitel-törlesztése kiszámításához, és még sok minden máshoz.</string>
+    <string name="new_privacy_string">&lt;Data>Üdvözöljük, ez a Számológép!&lt;br/>Az alkalmazás a következő funkciókat tartalmazza:&lt;br/>• Alapszintű számológép&lt;br/>• Tudományos számológép&lt;br/>• Univerzális konvertáló (pl. pénznem, mértékegység stb.)&lt;br/>•Számítási sablonok hitelekhez, befektetéshez, EMI-hez és így tovább&lt;br/>Az alapvető szolgáltatások biztosításához a Számológépnek be kell gyűjtenie a szükséges személyes adatokat. &lt;a href= \"%1$s\">Adatvédelmi Irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. A Számológép használata előtt olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói megállapodásunkat&lt;/a> és &lt;a href=\"%3$s\">Adatvédelmi Irányelvünket&lt;/a>. Bármikor visszavonhatja a Számológép Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban. Ha nem fogadja el Adatvédelmi irányelvünket, nem fogja tudni az alkalmazás minden funkcióját használni; azonban az alapvető funkcióit továbbra is elérheti.&lt;/Data></string>
     <string name="none">Nincs</string>
     <string name="not_supported_due_to_language">Ez a funkció kizárólag kínai nyelven érhető el</string>
     <string name="ok">OK</string>
@@ -359,7 +379,11 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="preference_use_voice_summary">Kapcsolja be a beszéd kimenet használatához számolások közben</string>
     <string name="preference_use_voice_title">Beszéd kimenet</string>
     <string name="preference_user_feedback_title">Visszajelzés</string>
+    <string name="privacy_dialog_title">Adatvédelem</string>
     <string name="privacy_policy">Adatvédelmi nyilatkozat</string>
+    <string name="privacy_revoke_error">Visszavonás sikertelen. Próbálja újra!</string>
+    <string name="privacy_revoke_progress">Visszavonás…</string>
+    <string name="privacy_switch">Beleegyezés visszavonása</string>
     <string name="radDesc">Radián</string>
     <string name="rate_data_provider">A kamatlábakat a hexun.com szolgáltatja</string>
     <string name="reciprocalDesc">Reciprok</string>
@@ -489,6 +513,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="unit_data_display_currency_btn">Bhutáni ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswanai pula</string>
     <string name="unit_data_display_currency_byn">Belarusz rubel</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Kanadai dollár</string>
     <string name="unit_data_display_currency_cdf">Kongói frank</string>
     <string name="unit_data_display_currency_chf">Svájci frank</string>
@@ -797,12 +822,14 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="unit_yuan">CNY</string>
     <string name="updating">Számológép frissítése…</string>
     <string name="user_agreement">Felhasználói Szerződés</string>
+    <string name="user_experience_program_title">Felhasználói visszajelzés</string>
     <string name="view_float_window_move">Lekicsinyített számológép áthelyezése</string>
     <string name="voiceDesc">Hangellenőrzés</string>
     <string name="voice_guide_text">Itt kapcsolhatja be a beszéd kimenetet</string>
     <string name="warn_locale_unsupport_for_voice">A hangkimenet ehhez a nyelvhez még nincs támogatva.</string>
     <string name="weight_prompt">Súly</string>
     <string name="wf_word_figure">Összeg betűkkel leírva</string>
+    <string name="withdraw_network_error">Készülékének csatlakoznia kell a hálózathoz, hogy visszavonhassa a hozzájárulását. Ellenőrizze a hálózati beállításokat, és próbálja újra.</string>
     <string name="word_figure_big_unit_fen">分</string>
     <string name="word_figure_big_unit_jiao">角</string>
     <string name="word_figure_big_unit_wan">"万 "</string>
@@ -824,8 +851,15 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
+    <string name="xiaomi_calculator_delete_description">A Számológép egy rendszeralkalmazás- Az alkalmazás eltávolítását követően nem fog tudni több konvertálót és további funkciókat használni.</string>
+    <string name="xiaomi_calculator_delete_title">Eltávolítja a Naptárt?</string>
+    <string name="xiaomi_calculator_remove_icon_description">A Számológép egy rendszeralkalmazás. Ha eltávolítja az alkalmazás parancsikonját a Kezdőképernyőről, nem fog tudni több konvertálót és további funkciókat használni.</string>
+    <string name="xiaomi_calculator_remove_icon_title">Eltávolítja a \"Számológép\" alkalmazást a Kezdőképernyőről?</string>
     <string name="xiaomi_connect_download_manager_fail">Nem tudott csatlakozni a letöltésekhez. Ellenőrizze, hogy ez app a megfelelő engedélyekkel rendelkezik-e a Beállítások > Telepített alkalmazásokban.</string>
     <string name="xiaomi_external_storage_unavailable">Nincs elérhető tárhely. Ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Bemutatjuk a következő verziót: %1$s
 Méret:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatjuk a következő verziót: %1$s

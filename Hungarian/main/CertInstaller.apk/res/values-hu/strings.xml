@@ -13,7 +13,6 @@
     <string name="certificate">Tanúsítvány</string>
     <string name="certificate_capabilities_warning">Megjegyzés: A tanúsítvány kibocsátója megvizsgálhatja az eszközre érkező és az eszközről kimenő összes forgalmat.</string>
     <string name="certificate_name">Tanúsítvány neve</string>
-    <string name="config_system_install_component">com.android.settings/com.android.settings.security.CredentialStorage</string>
     <string name="credential_info">A csomag tartalma:</string>
     <string name="credential_password">Adja meg a jelszót a tanúsítványok kibontásához.</string>
     <string name="credential_usage_label">Hitelesítési adatok használata:</string>

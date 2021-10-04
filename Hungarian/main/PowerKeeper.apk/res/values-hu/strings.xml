@@ -47,7 +47,7 @@
     <string name="config_mode_title">A háttérben futás beállításai</string>
     <string name="config_no_restrict_description">Az Akkumulátorkímélő nem korlátozza az alkalmazások tevékenységét</string>
     <string name="config_no_restrict_title">Nincs korlátozás</string>
-    <string name="config_restrict_function_description">Néhány funkcióra (pl. push értesítések) hatással lehet, de az alkalmazások nem lesznek bezárva</string>
+    <string name="config_restrict_function_description">Alkalmazások bezárása 10 perc háttértevékenység után</string>
     <string name="config_restrict_function_title">Háttérben futó alkalmazások korlátozása</string>
     <string name="config_restrict_running_description">Az alkalmazások be lesznek zárva az akkumulátorkímélés érdekében</string>
     <string name="config_restrict_running_title">Háttérben futó tevékenységek korlátozása</string>

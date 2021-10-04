@@ -25,11 +25,27 @@
         <item>PIN</item>
         <item>Jelszó</item>
     </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Havi csomag</item>
+        <item>Korlátlan</item>
+        <item>Napi csomag</item>
+    </string-array>
     <string-array name="daily_brand">
         <item>Egyéni</item>
         <item>Mi Fan kártya</item>
         <item>Xiao Tiansheng kártya</item>
         <item>Tencent King kártya</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Egyéni</item>
+        <item>Mi Mobil</item>
+        <item>Mi Fan kártya</item>
+        <item>Tianshen kártya</item>
+        <item>Tencent kártya</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Tegnap (mobiladat) "</item>
@@ -69,6 +85,19 @@
         <item>Megfigyelheti és rögzítheti távolrül a kijelzőn megtalálható tartalmakat.</item>
         <item>Hozzáférhet készülékének részletes adataihoz.</item>
     </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Legalacsonyabb</item>
+        <item>Alacsony</item>
+        <item>Szokásos</item>
+        <item>Magas</item>
+        <item>Legmagasabb</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>Ha a készülék zárolva van</item>
         <item>Lezárt készülék vagy alkalmazásból kilépés</item>
@@ -87,10 +116,20 @@
         <item>Fontos: lehetséges, hogy több rendszeralkalmazás nem fog megfelelően működni.</item>
         <item>A szövegelrendezés, a fiókok és a tartalom lehet, hogy nem fog helyesen megjelenni.</item>
     </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_memory_entryValues">
         <item>0</item>
@@ -100,6 +139,20 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>Figyelmeztetés mutatása</item>
         <item>Figyelmeztetés és mobiladat-kapcsolat kikapcsolása</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_consume_all_menu_item</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_consume_all_menu_item</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Alapértelmezett</item>
@@ -120,7 +173,7 @@
         <item>A szolgáltatói és nyelvi beállításokhoz, valamint az egyéb adatokhoz való hozzáférés</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>A GetApps által nem hitelesített harmadik fél alkalmazások lehetséges, hogy több problémát okoznak és csökkentik a rendszerstabilitást.</item>
+        <item>A nem ellenőrzött harmadik féltől származó alkalmazások több problémát okozhatnak és csökkenthetik a rendszer stabilitását.</item>
         <item>Némelyik harmadik fél alkalmazás olyan kártevőket tartalmazhat, amely veszélybe sodorja az Ön személyes adatait.</item>
     </string-array>
     <string-array name="priority_storage_entries">

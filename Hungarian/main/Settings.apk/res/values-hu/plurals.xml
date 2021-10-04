@@ -42,11 +42,11 @@
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">%d alkalmazásnál soha ne tiltsa le</item>
-        <item quantity="one">Never disable for %d app</item>
+        <item quantity="one">%d alkalmazásnál soha ne tiltsa le</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">%d alkalmazásnál mindig tiltsa le</item>
-        <item quantity="one">Always disable for %d app</item>
+        <item quantity="one">%d alkalmazásnál mindig tiltsa le</item>
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d automatikus indítás engedélyezve</item>
@@ -91,6 +91,10 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">%d elérhető készülék</item>
         <item quantity="one">%d elérhető készülék</item>
+    </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">MInden %d. másodperc</item>
+        <item quantity="one">MInden %d. másodperc</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d készülék</item>
@@ -244,6 +248,10 @@
         <item quantity="other">%d hozzáadva</item>
         <item quantity="one">%d hozzáadva</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">A Wi-Fi automatikusan bekapcsol, ha készüléke észleli a közelben lévő mentett hálózatokat, és %d perc után kikapcsol, ha nincs kapcsolat</item>
+        <item quantity="one">A Wi-Fi automatikusan bekapcsol, ha készüléke észleli a közelben lévő mentett hálózatokat, és %d perc után kikapcsol, ha nincs kapcsolat</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d SIM</item>
         <item quantity="one">%1$d SIM</item>
@@ -353,8 +361,8 @@
         <item quantity="one">%1$d mentett hallókészülék</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">"You're %1$d step away from opening device info."</item>
-        <item quantity="one">"You're %1$d step away from opening device info."</item>
+        <item quantity="other">%1$d lépésre van a készülékinformációs menü megnyitásától.</item>
+        <item quantity="one">%1$d lépésre van a készülékinformációs menü megnyitásától.</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">%1$d lépésre van a hibajelentéstől.</item>
@@ -403,6 +411,10 @@ Ha további információt szeretne erről a tanúsítványról, lépjen kapcsola
     <plurals name="suggestions_collapsed_title">
         <item quantity="other">%1$d javaslat</item>
         <item quantity="one">1 javaslat</item>
+    </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Figyelmeztetést kap, ha az egyik fülhallgató %d percnél tovább van távol a fülétől vagy a töltőtokjától</item>
+        <item quantity="one">Figyelmeztetést kap, ha az egyik fülhallgató %d percnél tovább van távol a fülétől vagy a töltőtokjától</item>
     </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d elem</item>

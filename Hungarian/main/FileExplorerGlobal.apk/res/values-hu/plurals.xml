@@ -37,8 +37,8 @@
         <item quantity="one">%1$d órája</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d perce</item>
-        <item quantity="one">%1$d perce</item>
+        <item quantity="other">%1$d perccel ezelőtt</item>
+        <item quantity="one">%1$d perccel ezelőtt</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d elem kiválasztva</item>

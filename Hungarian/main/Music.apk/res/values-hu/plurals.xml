@@ -86,6 +86,14 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
         <item quantity="other">%d ingyenes letöltés maradt</item>
         <item quantity="one">%d ingyenes letöltés maradt</item>
     </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="other">%d követő</item>
+        <item quantity="one">%d követő</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">%d személyt követ</item>
+        <item quantity="one">%d személyt követ</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>

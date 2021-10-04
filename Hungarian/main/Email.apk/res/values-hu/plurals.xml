@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Egy órával ezelőtt</item>
+        <item quantity="one">Egy órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Egy órával ezelőtt</item>
+        <item quantity="one">Egy órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Egy óra múlva</item>
+        <item quantity="one">Egy óra múlva</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Azonnal</item>
+        <item quantity="one">Azonnal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d perc múlva</item>
+        <item quantity="one">1 perc múlva</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d perce</item>
+        <item quantity="one">1 perce</item>
+    </plurals>
     <plurals name="actionbar_large_unread_count">
         <item quantity="other">%1$d+ olvasatlan</item>
         <item quantity="one">%1$d+ olvasatlan</item>
@@ -84,25 +120,45 @@
         <item quantity="other">%1$d üzenet véglegesen törölve.</item>
         <item quantity="one">%1$d üzenet véglegesen törölve.</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
+    </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">%1$d melléklet elrejtése</item>
         <item quantity="one">%1$d melléklet elrejtése</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Egy óra múlva</item>
+        <item quantity="one">Egy óra múlva</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Azonnal</item>
+        <item quantity="one">Azonnal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d perc múlva</item>
+        <item quantity="one">1 perc múlva</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="local_search_result">
         <item quantity="other">%s eredmény a szinkronizált üzenetek közt</item>
         <item quantity="one">%s eredmény a szinkronizált üzenetek közt</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d hónap</item>
-        <item quantity="one">%d hónap</item>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">%d elem kiválasztva</item>
     </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">%1$d melléklet maradt</item>
         <item quantity="one">%1$d melléklet maradt</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">%1$d beszélgetés áthelyezése</item>
-        <item quantity="one">Beszélgetés áthelyezése</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d új üzenet.</item>
@@ -111,6 +167,10 @@
     <plurals name="new_messages">
         <item quantity="other">%1$d új üzenet</item>
         <item quantity="one">%1$d új üzenet</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d kiválasztva</item>
@@ -155,10 +215,6 @@
     <plurals name="number_of_week_before">
         <item quantity="other">%1$d héttel előtte</item>
         <item quantity="one">%1$d héttel előtte</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">Válasz %1$d embernek</item>
-        <item quantity="one">Válasz %1$d embernek</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s találat az összes fiókban</item>

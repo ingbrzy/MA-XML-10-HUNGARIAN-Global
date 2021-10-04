@@ -167,6 +167,7 @@
     <string name="display_name">Név megjelenítése</string>
     <string name="domain">Domain</string>
     <string name="download_success">Sikeresen letöltve</string>
+    <string name="empty_by_forbid_access">Ennek a mappának a tartalma az Android 11 korlátozásai miatt nem jeleníthető meg.</string>
     <string name="enable_documentsui">Először kapcsolja be: %s, itt: Beállítások > Telepített alkalmazások</string>
     <string name="enable_sd_card">SD-kártya sérült vagy leválasztásra került</string>
     <string name="enable_usb">USB-eszköz sérült vagy leválasztásra került</string>
@@ -181,6 +182,7 @@
     <string name="error_create_dir">Mappa létrehozása sikertelen</string>
     <string name="error_create_file">Fájl létrehozása sikertelen</string>
     <string name="error_delete_failed">Fájl törlése sikertelen</string>
+    <string name="error_file_already_exists">Már van ilyen fájl.</string>
     <string name="error_filename_too_long">Túl hosszú a megadott fájlnév.</string>
     <string name="error_folder_already_exists">Ez a fájl már létezik</string>
     <string name="error_info_cant_send_folder">Nem küldhet mappákat.</string>
@@ -238,6 +240,7 @@ A hozzáadásához tartsa lenyomva a mappát és érintse meg a „Több” lehe
     <string name="favorite_photo">Fényképek</string>
     <string name="favorite_ringtone">Csengőhangok</string>
     <string name="favorite_screen_cap">Képernyőképek</string>
+    <string name="fcm_fallback_notification_channel_label">Egyéb</string>
     <string name="feedback_desc">Írja le, milyen problémával találkozott</string>
     <string name="feedback_send_email_body_extra_info">Ne törölje a következő információt. Ez segít nekünk megtalálni a problémát.</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
@@ -269,6 +272,8 @@ A hozzáadásához tartsa lenyomva a mappát és érintse meg a „Több” lehe
     <string name="homepage_tab_recent">Előzmények</string>
     <string name="host">Hoszt</string>
     <string name="hot_sticker">Matricák</string>
+    <string name="ic_remove_desc">A Fájlkezelő olyan rendszeralkalmazás, amely lehetővé teszi az eszközön lévő fájlok megtekintését és kezelését. Biztosan eltávolítja?</string>
+    <string name="ic_remove_title">Eltávolítja a \"Fájlkezelőt\" a Kezdőképernyőről?</string>
     <string name="if_cancel">Megszakítja a műveletet?</string>
     <string name="image_loading_error">Kép betöltése sikertelen</string>
     <string name="implicit">Implicit</string>
@@ -280,7 +285,7 @@ A hozzáadásához tartsa lenyomva a mappát és érintse meg a „Több” lehe
     <string name="info_system">Rendszer:</string>
     <string name="info_system_version">Rendszer verziója:</string>
     <string name="invalid_name_or_password">Hibás felhasználónév vagy jelszó</string>
-    <string name="just_now">épp most</string>
+    <string name="just_now">Épp most</string>
     <string name="kilobyteShort">KB</string>
     <string name="list_order">Listanézet</string>
     <string name="load_more">Továbbiak megtekintése</string>
@@ -297,6 +302,7 @@ A hozzáadásához tartsa lenyomva a mappát és érintse meg a „Több” lehe
     <string name="menu_item_deep_clean">Mély tisztítás</string>
     <string name="menu_item_ftp">Csatlakozás számítógéphez</string>
     <string name="menu_item_midrop">Fájlátvitel</string>
+    <string name="menu_item_midrop_desc">További alkalmazások</string>
     <string name="menu_item_router">Router</string>
     <string name="menu_item_sort">Rendezés</string>
     <string name="menu_item_sort_add_time">"Hozzáadva a kedvencekhez "</string>
@@ -339,6 +345,13 @@ A hozzáadásához tartsa lenyomva a mappát és érintse meg a „Több” lehe
     <string name="notif_server_starting">FTP szerver indítása…</string>
     <string name="notif_title">FTP szerver fut</string>
     <string name="notification_wechat_expired_empty">WeChat már törölte ezeket a videoklipeket.</string>
+    <string name="offline_notification_text">Koppintson a hirdetés megnyitásához</string>
+    <string name="offline_notification_title">Az offline mentett hirdetés megtekintése</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Linket tartalmazó értesítést kap, amikor újra online lesz</string>
+    <string name="offline_opt_in_decline">Nem</string>
+    <string name="offline_opt_in_message">Értesítést küldünk, amelyben a hirdető webhelyére mutató link szerepel.</string>
+    <string name="offline_opt_in_title">Megnyithatja a hirdetést akkor, amikor újra online lesz.</string>
     <string name="ok">OK</string>
     <string name="online_not_support">Ez a fájl jelenleg nem tekinthető meg.</string>
     <string name="open">Megnyitás</string>
@@ -417,7 +430,12 @@ A hozzáadásához tartsa lenyomva a mappát és érintse meg a „Több” lehe
     <string name="port_range">Port számának 1024 – 65535 közé kell esnie</string>
     <string name="possible_permissions">Opcionális engedélyek</string>
     <string name="privacy_accept">Elfogadás és folytatás</string>
-    <string name="privacy_message">A Fájlkezelő használata előtt fogadja el &lt;font color=\"#4086f5\">&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%1$s&amp;lang=%2$s\" style=\"color:#4086f5;\">Felhasználói szerződésünket&lt;/a>&lt;/font> és &lt;font color=\"#4086f5\">&lt;a href=\"https://privacy.mi.com/all/%2$s\" style=\"color:#4086f5;\">Adatvédelmi szabályzatunkat&lt;/a>&lt;/font>.</string>
+    <string name="privacy_cancel"><u>Nem fogadom el</u></string>
+    <string name="privacy_desc">Üdvözli a Fájlkezelő! Az alapfunkciók mellett az alkalmazás az alábbi szolgáltatásokat kínálja:</string>
+    <string name="privacy_experience_statement">Csatlakozzon User Experience programunkhoz, és ossza meg felhasználói adatait velünk, hogy javítani tudjuk termékeinket és szolgáltatásainkat.</string>
+    <string name="privacy_item1">A legutóbb használt elemek kategorizálása</string>
+    <string name="privacy_item2">Fájlok megtekintése és szerkesztése</string>
+    <string name="privacy_message">"&lt;Data>A Fájlkezelő alkalmazásnak össze kell gyűjtenie a személyes adatokat, hogy olyan szolgáltatást tudjon nyújtani, amelyekből használati statisztikák hozhatók létre.  &lt;a href=\"%1$s\">Adatvédelmi irányelvünkben&lt;/a> olvashat arról, hogy hogyan kezeljük a begyűjtött információkat. Olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói Feltételeinket&lt;/a> és &lt;a href=\"%1$s\">Adatvédelmi irányelvünket&lt;/a> a Fájlkezelő használata előtt. Bármikor visszavonhatja a Fájlkezelő Adatvédelmi Irányelvéhez adott hozzájárulását a Beállításokban. Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni az alkalmazás minden funkcióját használni; azonban alapvető funkcióit továbbra is elérheti.&lt;/Data>"</string>
     <string name="privacy_title">Üdvözöljük a Fájlkezelőben</string>
     <string name="private_files">Privát</string>
     <string name="private_folder">Privát fájlok</string>
@@ -430,7 +448,7 @@ A hozzáadásához tartsa lenyomva a mappát és érintse meg a „Több” lehe
     <string name="recommended_content">Ajánlások</string>
     <string name="remind_no_notice">Választás megjegyzése</string>
     <string name="rename_alert">Ha megváltoztatja a fájl kiterjesztését, előfordulhat, hogy nem fogja tudni megnyitni.</string>
-    <string name="rename_alert2">A fájl elrejtésre kerül a kiterjesztésének módosítása után.</string>
+    <string name="rename_alert2">A \".\"-al kezdődő fájlneveket a rendszer automatikusan elrejti. Valóban ezt a nevet szeretné használni?</string>
     <string name="rename_failed">%1$s átnevezése sikertelen</string>
     <string name="repair_done">Sikeresen visszaállítva</string>
     <string name="repair_error">Nem sikerült visszaállítani. Próbálja újra.</string>
@@ -440,9 +458,16 @@ A hozzáadásához tartsa lenyomva a mappát és érintse meg a „Több” lehe
     <string name="restoring">Visszaállítás…</string>
     <string name="revoke">Visszavonás</string>
     <string name="revoke_authorization">Engedély visszavonása</string>
+    <string name="revoke_confirm_dialog_cancel">Mégse</string>
+    <string name="revoke_confirm_dialog_content">A kapcsoló kikapcsolásával visszavonja hozzájárulását a File Manager adatvédelmi irányelveihez. Megszüntetjük személyes adatainak gyűjtését. A már összegyűjtött és megőrzött személyes adatokat az alkalmazandó jogszabályi előírások alapján meghatározott időtartamon belül töröljük. A File Manager az alapvető szolgáltatások javításához személyes adatokat kell, hogy összegyűjtsön. Az adatvédelmi irányelvekhez való hozzájárulásának visszavonása az összegyűjtött személyes adatok alapján a javított szolgáltatások elutasítását jelenti.</string>
+    <string name="revoke_desc">A kapcsoló kikapcsolásával visszavonja hozzájárulását a File Manager adatvédelmi irányelveihez.</string>
+    <string name="revoke_net_dialog_content">Készülékének csatlakoznia kell a hálózathoz, hogy visszavonhassa a hozzájárulását. Ellenőrizze a hálózati beállításokat, és próbálja újra.</string>
+    <string name="revoke_net_dialog_ok">Rendben</string>
+    <string name="revoke_net_dialog_title">Nem sikerült csatlakozni a hálózathoz</string>
     <string name="revoke_success">Az engedély sikeresen visszavonva</string>
     <string name="revoke_timer">(%1$ds)</string>
     <string name="revoke_tips">A jogosultság visszavonása után a File Manager leállítja az adatgyűjtést, és az összes kapcsolódó adat törlődik a szerverekről. Emiatt a File Manager használhatatlanná válhat. Biztosan visszavonja az engedélyt?</string>
+    <string name="revoke_title">Beleegyezés visszavonása</string>
     <string name="revoking">Engedély visszavonása…</string>
     <string name="rlv_last_refreshing_time">Frissítve %1$s</string>
     <string name="rlv_loading_more">Egy pillanat…</string>
@@ -522,6 +547,7 @@ A hozzáadásához tartsa lenyomva a mappát és érintse meg a „Több” lehe
     <string name="time_pm">DU</string>
     <string name="time_to_upgrade">Egy frissítés elérhető</string>
     <string name="tip">Figyelmeztetés</string>
+    <string name="tips_by_forbid_access">A mappa tartalma már nem érhető el az Android R által bevezetett rendszerkorlátozások miatt. Minél hamarabb távolítsa el a személyes fájlokat a mappából.</string>
     <string name="title_app_tags">Alkalmazások</string>
     <string name="title_enable_documentsui">DocumentsUI bekapcsolása</string>
     <string name="title_expire_video">Hamarosan lejár</string>
@@ -541,12 +567,15 @@ A hozzáadásához tartsa lenyomva a mappát és érintse meg a „Több” lehe
     <string name="update_use_mobile_data">Frissítés automatikus a mobiladat használatával</string>
     <string name="usb_has_removed">USB-eszköz eltávolítva</string>
     <string name="used">Felhasználva</string>
+    <string name="user_experience_desc">Osszon meg velünk felhasználói adatokat, hogy segítsen termékeink és szolgáltatásaink fejlesztésében</string>
+    <string name="user_experience_title">Felhasználói élmény program</string>
     <string name="user_not_login">Először jelentkezzen be</string>
     <string name="user_notice_privacy_policy">Adatvédelmi Irányelvek</string>
     <string name="user_notice_term_of_service">Felhasználói szerződés</string>
     <string name="utf8_summary">Alapértelmezett kódolás típusa</string>
     <string name="version_name">Verzió</string>
     <string name="video_replay_btn">Visszajátszás</string>
+    <string name="view_by_document">Megtekintés a Fájlokban</string>
     <string name="wechat_video">Videó itt: %s</string>
     <string name="wifi_state">WIFI állapota</string>
     <string name="year_month_day_format">yyyy. MMM. dd.</string>

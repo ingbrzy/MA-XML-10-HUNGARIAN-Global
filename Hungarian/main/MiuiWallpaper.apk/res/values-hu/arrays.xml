@@ -5,14 +5,34 @@
         <item>Háttérkép/Szuper háttérképek/Otthon</item>
         <item>Föld;Szuper háttérképek;Föld kiadás;Háttérkép</item>
     </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometria</item>
+        <item>Háttérkép/Szuper háttérképek/Geometria</item>
+        <item>Geometria;Absztrakt;Szuper háttérkép;Háttérkép</item>
+    </string-array>
     <string-array name="settings_search_mars">
         <item>A vörös bolygó</item>
         <item>Háttérkép/Szuper háttérképek/A vörös bolygó</item>
         <item>Mars;Mars kiadás;Szuper háttérképek;Háttérkép</item>
     </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Havas csúcsok</item>
+        <item>Háttérkép/Szuper háttérképek/Havas csúcsok</item>
+        <item>Föld;Hegyek;Szuper háttérkép;Háttérkép</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>Szuper háttérképek</item>
         <item>Háttérkép/Szuper háttérképek</item>
         <item>Szuper háttérképek;Háttérkép;Dinamikus háttérkép;3D háttérkép</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Időjárás</item>
+        <item>Háttérkép/Szuper háttérképek/Időjárás</item>
+        <item>Időjárás;Időjárás infó;Szuper háttérkép;Háttérkép</item>
     </string-array>
 </resources>

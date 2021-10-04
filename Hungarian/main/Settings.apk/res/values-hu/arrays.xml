@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="aggregate_entries">
-        <item>Csoportosítás</item>
-        <item>Csoportosítás és alacsonyabb prioritás</item>
-        <item>Ne csoportosítson</item>
-    </string-array>
-    <string-array name="aggregate_summaries">
-        <item>A promóciós és tartalmakkal kapcsolatos push értesítések csoportosítva lesznek</item>
-        <item>A push értesítések csoportosítva lesznek és az egyéb értesítések alatt fognak megjelenni</item>
-        <item>A push értesítések nem lesznek csoportosítva</item>
-    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
@@ -369,9 +359,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audió</item>
         <item>Qualcomm® aptX™ TWS+ audió</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>A választható kodekek engedélyezése</item>
         <item>A választható kodekek tiltása</item>
     </string-array>
@@ -384,9 +374,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audió</item>
         <item>Qualcomm® aptX™ TWS+ audió</item>
-        <item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>A választható kodekek engedélyezése</item>
         <item>A választható kodekek tiltása</item>
     </string-array>
@@ -414,7 +404,7 @@
         <item>map14</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (Default)</item>
+        <item>MAP 1.2 (Alapértelmezett)</item>
         <item>MAP 1.3</item>
         <item>MAP 1.4</item>
     </string-array>
@@ -436,8 +426,8 @@
         <item>Letiltva</item>
         <item>Szűrés</item>
         <item>Engedélyezve</item>
-        <item>Headers filtered</item>
-        <item>Media packets filtered</item>
+        <item>Fejléc-szűrés</item>
+        <item>Médiacsomag-szűrés</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 másodperc</item>
@@ -711,11 +701,11 @@
         <item>Fidzsi-szigetek</item>
         <item>Guam</item>
         <item>Honolulu</item>
-        <item>Karácsony-sziget</item>
+        <item>Kiritimati</item>
         <item>Nouméa</item>
         <item>Szamoa</item>
         <item>Tahiti</item>
-        <item>Antigua és Barbuda</item>
+        <item>Antigua</item>
         <item>Austin</item>
         <item>Boston</item>
         <item>Calgary</item>
@@ -799,6 +789,31 @@
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>Fokozott színek</item>
         <item>Természetes színek, ahogy a szem látja</item>
@@ -904,16 +919,6 @@
         <item>A készülék teljesítményének növelése</item>
         <item>Lassíthatják a készülék teljesítményét</item>
     </string-array>
-    <string-array name="fold_entries">
-        <item>Ajánlott</item>
-        <item>Fontos</item>
-        <item>Nem fontos</item>
-    </string-array>
-    <string-array name="fold_summaries">
-        <item>A MIUI eldönti, mely értesítések jelenjenek meg közvetlenül</item>
-        <item>Az értesítések az Értesítési felületen fognak megjelenni</item>
-        <item>Az értesítések egy külön mappában fognak megjelenni</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 hüvelyk</item>
         <item>4.0 hüvelyk</item>
@@ -943,6 +948,15 @@
     <string-array name="hide_account_list">
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>Ne ébressze fel a képernyőt</item>
@@ -987,6 +1001,43 @@
         <item>5 perc múlva</item>
         <item>Soha sem</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Rövid</item>
         <item>Közepes</item>
@@ -1054,6 +1105,14 @@
         <item>Fájlkezelőben érheti el a csatolt eszközt: mtpfs /media/mtp, mint egy helyi könyvtárat.</item>
         <item>"Távolítsa el az eszközt: fusermount -u /media/mtp
 Figyelmeztetés: Csak Ubuntu 8.04-en!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -1146,6 +1205,11 @@ Figyelmeztetés: Csak Ubuntu 8.04-en!"</item>
         <item>4K (felskálázott, biztonságos)</item>
         <item>720p, 1080p (dupla képernyő)</item>
     </string-array>
+    <string-array name="paper_color_values">
+        <item>Teljes színek</item>
+        <item>Világos színek</item>
+        <item>Fekete és fehér</item>
+    </string-array>
     <string-array name="perm_hips_action">
         <item>Engedélyezés</item>
         <item>Rákérdezés</item>
@@ -1155,6 +1219,97 @@ Figyelmeztetés: Csak Ubuntu 8.04-en!"</item>
         <item>Egymikrofonos zajcsökkentés</item>
         <item>Kétmikrofonos zajcsökkentés</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>Teljesítmény mód</item>
         <item>Kiegyensúlyozott mód</item>
@@ -1269,14 +1424,19 @@ Figyelmeztetés: Csak Ubuntu 8.04-en!"</item>
         <item>A menü megjelenítése</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Színek beállítása a jelenlegi világítás alapján</item>
+        <item>Színbeállítás a megjelenített tartalom szerint</item>
         <item>Mindig emelje ki a színeket</item>
         <item>A kontraszt állandó marad</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Automatikus (javasolt)</item>
+        <item>Élénk (ajánlott)</item>
         <item>Telített</item>
         <item>Normál</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
@@ -1314,11 +1474,11 @@ Figyelmeztetés: Csak Ubuntu 8.04-en!"</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Ki</item>
-        <item>64 KB per log buffer</item>
-        <item>256 KB per log buffer</item>
-        <item>1 MB per log buffer</item>
-        <item>4 MB per log buffer</item>
-        <item>16 MB per log buffer</item>
+        <item>64 KB naplópufferenként</item>
+        <item>256 KB naplópufferenként</item>
+        <item>1 MB naplópufferenként</item>
+        <item>4 MB naplópufferenként</item>
+        <item>16 MB naplópufferenként</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Ki</item>
@@ -1344,6 +1504,10 @@ Figyelmeztetés: Csak Ubuntu 8.04-en!"</item>
         <item>Ki</item>
         <item>Rajzolja ki a nem négyzetes klipterületet kékkel</item>
         <item>Tesztelt kirajzolási parancsok kiemelése zölddel</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Állandó</item>
@@ -1371,6 +1535,62 @@ Figyelmeztetés: Csak Ubuntu 8.04-en!"</item>
         <item>1</item>
         <item>0</item>
     </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>Éles</item>
+        <item>Alap</item>
+        <item>Pop</item>
+    </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
+    <array name="three_long_press">
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>12-órás 1:00 DU</item>
         <item>24-órás 13:00</item>
@@ -1414,12 +1634,12 @@ Figyelmeztetés: Csak Ubuntu 8.04-en!"</item>
         <item>Animáció tempója: 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>Az aktuális fényviszonyokhoz igazítsa a színeket</item>
+        <item>Színbeállítás a megjelenített tartalom szerint</item>
         <item>Mindig emelje ki a színeket</item>
         <item>A képernyőtartalom általános színének visszaállítása színkalibrálással</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Automatikus (javasolt)</item>
+        <item>Élénk (ajánlott)</item>
         <item>Telített</item>
         <item>Eredeti szín</item>
     </string-array>
@@ -1529,6 +1749,14 @@ Figyelmeztetés: Csak Ubuntu 8.04-en!"</item>
         <item>Grafikus</item>
         <item>Százalékos (az ikonon belül)</item>
         <item>Százalékos (az ikon mellett az Értesítési felületen)</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_hidden_ssid_config">
+        <item>@string/wifi_ap_ssid_off</item>
+        <item>@string/wifi_ap_ssid_on</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>

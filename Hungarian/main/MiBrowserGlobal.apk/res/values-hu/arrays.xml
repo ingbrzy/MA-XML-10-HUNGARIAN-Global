@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Férfi</item>
+        <item>Nő</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Fehér</item>
+        <item>Sárga</item>
+        <item>Szürke</item>
+        <item>Barna</item>
+        <item>Zöld</item>
+        <item>Kék</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Explicit tartalom</item>
+        <item>Hazugság</item>
+        <item>Régi hírek</item>
+        <item>Szélsőséges nézetek</item>
+        <item>Tudatosan nem észlelhető reklám</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Vissza/Tovább</item>
+        <item>Váltás a megnyitott lapok között</item>
+        <item>Nincs</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Alapértelmezett kezdőoldal</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Tablet</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Függőleges nézet</item>
+        <item>Vízszintes nézet</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Bekapcsolva</item>
+        <item>Csak Inkognitó módban</item>
+        <item>Kikapcsolva</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Apró</item>
+        <item>Kicsi</item>
+        <item>Normális</item>
+        <item>Nagy</item>
+        <item>Óriási</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Asztali gép</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>Keresés</item>
+        <item>Hírek</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Törlés</item>
+        <item>Nem, köszönöm</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Követés</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Üzenet a böngészőből</item>
+        <item>Kövesse az Olimpiát a Mi-vel</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>A jelenlegi hálózati kapcsolat nagyon lassú. Úgy tűnik, olyan területen van, ahol gyenge a hálózati lefedettség.</item>
+        <item>A jelenlegi hálózati kapcsolat lassú.</item>
+        <item>Nem találtunk problémát a hálózati kapcsolattal.</item>
+        <item>A jelenlegi hálózati kapcsolat gyors. Ez elég a filmek streameléséhez!</item>
+        <item>A jelenlegi hálózati kapcsolat nagyon gyors. A játéka élén áll.</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Videók és képek letöltése a közösségi médiából</item>
+        <item>Képek és videók mentése a WhatsApp-státuszokból</item>
+        <item>Kezelje fájljait készülékén és tegye őket priváttá</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Videók letöltése</item>
+        <item>WhatsApp-státusz mentése</item>
+        <item>Privát fájlok</item>
+    </string-array>
+</resources>

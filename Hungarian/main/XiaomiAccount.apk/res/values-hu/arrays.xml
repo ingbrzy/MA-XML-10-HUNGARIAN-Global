@@ -4,4 +4,74 @@
         <item>Férfi</item>
         <item>Nő</item>
     </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Fiókok</item>
+        <item>Harmadik féltől származó fiókok hozzáadása és kezelése</item>
+        <item>Fiókok;SNS;Facebook;Google;Mi fiók;Fiók</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Fiókok</item>
+        <item>Harmadik féltől származó fiókok hozzáadása és kezelése</item>
+        <item>Fiókok;SNS;WeChat;QQ;Mi fiók;Fiók</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Jelszó módosítása</item>
+        <item>Mi Fiók jelszavának módosítása</item>
+        <item>Jelszómódosítás;Jelszó frissítése;Mi fiók;Fiók</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Segítség</item>
+        <item>Kérje a Mi Fiók segítségét és támogatását</item>
+        <item>Mi fiók;Fiók;Fiók-súgó;Súgóközpont</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>kétlépcsős azonosítás</item>
+        <item>A Mi Fiókja kétlépcsős azonosításának beállítása</item>
+        <item>Bejelentkezés;Belépés;2-lépcsős;hitelesítés;Xiaomi;Fiók;Mi fiók;Fiók</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Fiókbiztonság</item>
+        <item>Helyreállítási telefonszám és e-mail-, jelszókezelés</item>
+        <item>Fiókbiztonság;Bejelentkezés;Helyreállítási telefon;Helyreállítási e-mail;Fiókvédelem;Telefonszám;E-mail;Jelszóváltoztatás;Telefonszám hozzáadása;E-mail hozzáadása;Mi fiók;Fiók</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Készülékek</item>
+        <item>A Mi Fiókjához társított eszközök kezelése</item>
+        <item>Készülékek kezelése;Készülékeim;Készülékek;Készüléklista;Mi fiók;Fiók</item>
+    </string-array>
+    <string-array name="settings_search_payment_information">
+        <item>Fizetési adatok</item>
+        <item>Fizetési adatok megtekintése és kezelése</item>
+        <item>Fizet;Fizetés;Fizetési mód;Mi fiók;Fiók</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Adatvédelmi irányelvek</item>
+        <item>A Mi Fiók adatvédelmi irányelveinek megtekintése</item>
+        <item>Mi fiók;Fiók;Adatvédelmi Irányelvek</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>Helyreállítási e-mail-cím</item>
+        <item>Helyreállítási e-mail hozzáadása</item>
+        <item>Helyreállítási e-mail;E-mail;E-mail hozzáadása;Mi fiók;Fiók</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Helyreállítási telefonszám</item>
+        <item>Helyreállítási telefonszám hozzáadása</item>
+        <item>Helyreállítási telefon;Telefon hozzáadása;Mi fiók;Fiók</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Hirdetések</item>
+        <item>Rendszerhirdetések kezelése</item>
+        <item>Hirdetések;Mi fiók;Fiók</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Fiókadatok</item>
+        <item>Profilfotójának megtekintése és fiókadatok kezelése</item>
+        <item>Személyes info;profilfotó;becenév;fiókinfó;Mi ID;ID;Mi fiók;Fiók</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Felhasználói szerződés</item>
+        <item>Felhasználói Szerződés</item>
+        <item>Mi fiók;Fiók;Felhasználói Szerződés;EULA</item>
+    </string-array>
 </resources>

@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Egy órával ezelőtt</item>
+        <item quantity="one">Egy órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Egy órával ezelőtt</item>
+        <item quantity="one">Egy órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Egy óra múlva</item>
+        <item quantity="one">Egy óra múlva</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Azonnal</item>
+        <item quantity="one">Azonnal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d perc múlva</item>
+        <item quantity="one">1 perc múlva</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d perce</item>
+        <item quantity="one">1 perce</item>
+    </plurals>
     <plurals name="btn_clear_records">
         <item quantity="other">%d felvétel törlése</item>
         <item quantity="one">%d felvétel törlése</item>
@@ -16,13 +52,49 @@
         <item quantity="other">%d felvétel törlése?</item>
         <item quantity="one">%d felvétel törlése?</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Egy óra múlva</item>
+        <item quantity="one">Egy óra múlva</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Azonnal</item>
+        <item quantity="one">Azonnal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d perc múlva</item>
+        <item quantity="one">1 perc múlva</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
+    </plurals>
     <plurals name="local_records_count">
         <item quantity="other">%d elem</item>
         <item quantity="one">%d elem</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">%d elem kiválasztva</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Kevés a tárhely (kevesebb, mint %d perc)</item>
         <item quantity="one">Kevés a tárhely (kevesebb, mint %d perc)</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="record_downloading_complete_count">
         <item quantity="other">%d felvétel letöltve</item>
@@ -33,16 +105,24 @@
         <item quantity="one">%d elemet nem sikerült visszaállítani egy ismeretlen hiba miatt.</item>
     </plurals>
     <plurals name="search_alll_records_hint">
-        <item quantity="other">Keresés %d felvétel között</item>
-        <item quantity="one">Keresés %d felvétel között</item>
+        <item quantity="other">%d felvétel</item>
+        <item quantity="one">%d felvétel</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">Keresés %d felvétel között</item>
-        <item quantity="one">Keresés %d felvétel között</item>
+        <item quantity="other">%d felvétel</item>
+        <item quantity="one">%d felvétel</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">Keresés %d hívásrögzítés között</item>
-        <item quantity="one">Keresés %d hívásrögzítés között</item>
+        <item quantity="other">%d hívásrögzítés</item>
+        <item quantity="one">%d hívásrögzítés</item>
+    </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d rádiófelvétel</item>
+        <item quantity="one">%d rádiófelvétel</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d hangfelvétel</item>
+        <item quantity="one">%d hangfelvétel</item>
     </plurals>
     <plurals name="search_result">
         <item quantity="other">%d felvételt találtunk</item>

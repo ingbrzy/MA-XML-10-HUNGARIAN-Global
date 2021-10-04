@@ -20,6 +20,14 @@
         <item quantity="other">%1$d óra</item>
         <item quantity="one">%1$d óra</item>
     </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d mp</item>
+        <item quantity="one">%1$d mp</item>
+    </plurals>
     <plurals name="selected_count">
         <item quantity="other">%1$d kijelölve %2$d közül</item>
         <item quantity="one">%1$d kijelölve %2$d közül</item>

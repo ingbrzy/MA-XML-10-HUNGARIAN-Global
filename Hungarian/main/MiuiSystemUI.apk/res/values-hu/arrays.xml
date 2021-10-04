@@ -17,24 +17,15 @@
         <item>Legfeljebb 3 folyamat</item>
         <item>Legfeljebb 4 folyamat</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
         <item>100%</item>
     </string-array>
     <string-array name="battery_options">
-        <item>Mindig mutassa a százalékértéket</item>
-        <item>Töltés közben mutassa a százalékértéket (alapértelmezett)</item>
-        <item>Ne jelenítse meg ezt az ikont</item>
+        <item>Százalékos érték mindig látható</item>
+        <item>Százalékos érték töltés közben látható (alapértelmezett)</item>
+        <item>Ne jelenjen meg ez az ikon</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Alapbeállítás használata (alapértelmezett)</item>
@@ -93,7 +84,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audió</item>
         <item>Qualcomm® aptX™ TWS+ audió</item>
-        <item>LHDC V3</item>
+        <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
     </string-array>
@@ -106,7 +97,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audió</item>
         <item>Qualcomm® aptX™ TWS+ audió</item>
-        <item>LHDC V3</item>
+        <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
         <item>A választható kodekek engedélyezése</item>
@@ -136,7 +127,7 @@
         <item>map14</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (Default)</item>
+        <item>MAP 1.2 (Alapértelmezett)</item>
         <item>MAP 1.3</item>
         <item>MAP 1.4</item>
     </string-array>
@@ -144,13 +135,13 @@
         <item>Letiltva</item>
         <item>Szűrés</item>
         <item>Engedélyezve</item>
-        <item>Headers filtered</item>
-        <item>Media packets filtered</item>
+        <item>Fejléc-szűrés</item>
+        <item>Médiacsomag-szűrés</item>
     </string-array>
     <string-array name="clock_options">
-        <item>Órák, percek, másodpercek megjelenítése</item>
-        <item>Órák és percek megjelenítése (alapértelmezett)</item>
-        <item>Ne jelenítse meg ezt az ikont</item>
+        <item>Óra, perc és másodperc megjelenítése</item>
+        <item>Óra és perc megjelenítése (alapértelmezett)</item>
+        <item>Ne jelenjen meg ez az ikon</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Fokozott színek</item>
@@ -162,8 +153,6 @@
         <item>Természetes</item>
         <item>Normál</item>
     </string-array>
-    <array name="data_type_name_mcc_mnc_key" />
-    <array name="data_type_name_mcc_mnc_value" />
     <string-array name="debug_hw_overdraw_entries">
         <item>Ki</item>
         <item>Tartalom-felülírási területek megjelenítése</item>
@@ -185,21 +174,18 @@
         <item>Csak a DRM-tartalom ellenőrzése</item>
         <item>Mindig ellenőrizze</item>
     </string-array>
-    <string-array name="miui_volume_timer_segments_title">
-        <item>Ki</item>
-        <item>30 percre</item>
-        <item>1 órára</item>
-        <item>2 órára</item>
-        <item>8 órára</item>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Ez ajánlott tartalom.</item>
+        <item>Ez egy reklám.</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>Vágólap</item>
         <item>Billentyűkód</item>
-        <item>Billentyűzetváltó</item>
+        <item>Forgatás megerősítése, billentyűzetváltó</item>
         <item>Nincs</item>
     </string-array>
     <string-array name="nav_bar_layouts">
-        <item>Szokásos</item>
+        <item>Normál</item>
         <item>Kompakt</item>
         <item>Bal oldali</item>
         <item>Jobb oldali</item>
@@ -218,7 +204,6 @@
         <item>4K (felskálázott, biztonságos)</item>
         <item>720p, 1080p (dupla képernyő)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>Ki</item>
         <item>64 KB</item>
@@ -227,11 +212,11 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Ki</item>
-        <item>64 KB per log buffer</item>
-        <item>256 KB per log buffer</item>
-        <item>1 MB per log buffer</item>
-        <item>4 MB per log buffer</item>
-        <item>16 MB per log buffer</item>
+        <item>64 KB naplópufferenként</item>
+        <item>256 KB naplópufferenként</item>
+        <item>1 MB naplópufferenként</item>
+        <item>4 MB naplópufferenként</item>
+        <item>16 MB naplópufferenként</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Ki</item>
@@ -301,35 +286,6 @@
         <item>RNDIS (USB Ethernet)</item>
         <item>Hangforrás</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="weather_type">
-        <item>Tiszta</item>
-        <item>Felhős</item>
-        <item>Borult</item>
-        <item>Ködös</item>
-        <item>Felhőszakadás</item>
-        <item>Felhőszakadás</item>
-        <item>Felhőszakadás</item>
-        <item>Zivatar</item>
-        <item>Zápor</item>
-        <item>Heves esőzés</item>
-        <item>Gyenge eső</item>
-        <item>Szemerkélő eső</item>
-        <item>Havas eső</item>
-        <item>Hóvihar</item>
-        <item>Havazás</item>
-        <item>Hózápor</item>
-        <item>Mérsékelt havazás</item>
-        <item>Hószállingózás</item>
-        <item>Erős homokvihar</item>
-        <item>Homokvihar</item>
-        <item>Poros</item>
-        <item>Szeles</item>
-        <item>Jégeső</item>
-        <item>Poros</item>
-        <item>Pára</item>
-        <item>Ónos eső</item>
-        <item></item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>

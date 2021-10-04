@@ -26,6 +26,7 @@
     <string name="copies_decrease">Mínusz egy másolat</string>
     <string name="copies_increase">Plusz egy másolat</string>
     <string name="could_not_create_file">Nem sikerült létrehozni a fájlt</string>
+    <string name="current_page_template">%1$d/%2$d</string>
     <string name="delete_saved_printer_content">Törli a kiválasztott nyomtatókat?</string>
     <string name="destination_default_text">Válasszon ki egy nyomtatót</string>
     <string name="disabled_services_title">Letiltott szolgáltatások</string>
@@ -94,6 +95,7 @@
     <string name="printer_busy">A nyomtató foglalt</string>
     <string name="printer_error">Nyomtatóhiba</string>
     <string name="printer_error_msg">Nyomtatóhiba: %1$s</string>
+    <string name="printer_extended_description_template">%1$s – %2$s</string>
     <string name="printer_info_desc">További információ erről a nyomtatóról</string>
     <string name="printer_notification_error_title">Nem sikerült a nyomtatás %1$s</string>
     <string name="printer_unavailable">A nyomtató nem érhető el</string>

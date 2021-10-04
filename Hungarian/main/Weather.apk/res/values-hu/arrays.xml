@@ -41,13 +41,6 @@
         <item>Súlyos</item>
         <item>Határérték-túllépési mutató</item>
     </string-array>
-    <string-array name="breeze">
-        <item>&lt;erősség 2</item>
-        <item>&lt;6.0km/h</item>
-        <item>&lt;1.7m/s</item>
-        <item>&lt;3.7mph</item>
-        <item>&lt;3.2kn</item>
-    </string-array>
     <string-array name="hot_city">
         <item>Budapest</item>
         <item>Debrecen</item>
@@ -76,6 +69,13 @@
         <item>Kiadós</item>
         <item>Közepes</item>
         <item>Enyhe</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
     </string-array>
     <string-array name="weather_type">
         <item>Tiszta</item>
