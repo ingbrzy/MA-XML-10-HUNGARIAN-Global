@@ -513,7 +513,6 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="unit_data_display_currency_btn">Bhutáni ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswanai pula</string>
     <string name="unit_data_display_currency_byn">Belarusz rubel</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Kanadai dollár</string>
     <string name="unit_data_display_currency_cdf">Kongói frank</string>
     <string name="unit_data_display_currency_chf">Svájci frank</string>
@@ -851,15 +850,12 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_calculator_delete_description">A Számológép egy rendszeralkalmazás- Az alkalmazás eltávolítását követően nem fog tudni több konvertálót és további funkciókat használni.</string>
     <string name="xiaomi_calculator_delete_title">Eltávolítja a Naptárt?</string>
     <string name="xiaomi_calculator_remove_icon_description">A Számológép egy rendszeralkalmazás. Ha eltávolítja az alkalmazás parancsikonját a Kezdőképernyőről, nem fog tudni több konvertálót és további funkciókat használni.</string>
     <string name="xiaomi_calculator_remove_icon_title">Eltávolítja a \"Számológép\" alkalmazást a Kezdőképernyőről?</string>
     <string name="xiaomi_connect_download_manager_fail">Nem tudott csatlakozni a letöltésekhez. Ellenőrizze, hogy ez app a megfelelő engedélyekkel rendelkezik-e a Beállítások > Telepített alkalmazásokban.</string>
     <string name="xiaomi_external_storage_unavailable">Nincs elérhető tárhely. Ellenőrizze az SD-kártyát.</string>
-    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Bemutatjuk a következő verziót: %1$s
 Méret:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatjuk a következő verziót: %1$s

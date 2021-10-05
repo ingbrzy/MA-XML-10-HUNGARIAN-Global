@@ -1047,7 +1047,6 @@ prioritás"</string>
     <string name="keyguard_missing_sim_instructions_long">A SIM-kártya hiányzik vagy nem olvasható. Helyezzen be SIM-kártyát.</string>
     <string name="keyguard_missing_sim_message">Nincs SIM-kártya a telefonban.</string>
     <string name="keyguard_missing_sim_message_short">Nincs SIM-kártya</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Hálózat zárolva</string>
     <string name="keyguard_password_enter_password_code">A feloldáshoz írja be a jelszót</string>
     <string name="keyguard_password_enter_pin_code">Írja be a PIN-kódot</string>
@@ -1283,14 +1282,12 @@ Csatlakoztatta továbbá a(z) %3$s alkalmazást, amely figyelheti az Ön személ
 
 További információért forduljon a rendszergazdához."</string>
     <string name="monitoring_description_ca_cert_settings">Megbízható hitelesítési adatok megnyitása</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">Az eszközre tanúsítványkibocsátó van telepítve. Ezáltal figyelhetik és befolyásolhatják az Ön biztonságos hálózati forgalmát.</string>
     <string name="monitoring_description_do_body">A rendszergazda figyelheti és kezelheti az eszköz beállításait, vállalati hozzáférését, alkalmazásait, adatait és helyadatait.</string>
     <string name="monitoring_description_do_body_vpn">Ön kapcsolódik ehhez: %1$s, amely figyelheti hálózati tevékenységét, köztük a levelezést, az alkalmazás- és webhelyhasználatot.</string>
     <string name="monitoring_description_do_header_generic">Az eszközt a(z) %1$s kezeli.</string>
     <string name="monitoring_description_do_header_with_name">A(z) %1$s a(z) %2$s alkalmazást használja az eszközkezeléshez.</string>
     <string name="monitoring_description_do_learn_more">További információ</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Szervezete tanúsítványkibocsátót telepített a munkaprofilba. Ezáltal figyelhetik és befolyásolhatják az Ön biztonságos hálózati forgalmát.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Munkaprofilja csatlakozik a(z) %1$s alkalmazáshoz, amely figyelheti hálózati tevékenységét, beleértve a levelezést, az alkalmazásokat és a webhelyeket.</string>
     <string name="monitoring_description_management">"Ez az eszköz az Ön szervezetének tulajdonában van.
@@ -1322,7 +1319,6 @@ Ha további információra van szüksége, forduljon a rendszergazdához.
 
 VPN-hez is kapcsolódik, amely szintén figyelheti hálózati tevékenységét."</string>
     <string name="monitoring_description_vpn_settings">VPN-beállítások megnyitása</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA tanúsítványok</string>
     <string name="monitoring_subtitle_network_logging">Hálózati naplózás</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1358,7 +1354,6 @@ VPN-hez is kapcsolódik, amely szintén figyelheti hálózati tevékenységét."
     <string name="nav_bar">Navigációs sáv</string>
     <string name="nav_bar_default">(alapértelmezett)</string>
     <string name="nav_bar_layout">Elrendezés</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Egyik sem</string>
     <string name="no_auto_saver_action">Nem</string>
     <string name="no_shortcut">A(z) %1$s nem támogatja a beszélgetési funkciókat</string>
@@ -1542,7 +1537,6 @@ VPN-hez is kapcsolódik, amely szintén figyelheti hálózati tevékenységét."
     <string name="private_dns_mode_provider">A Privát DNS-szolgáltató hosztneve</string>
     <string name="private_dns_mode_provider_failure">Nem tud csatlakozni</string>
     <string name="private_dns_mode_provider_hostname_hint">Adja meg a DNS-szolgáltató hosztnevét</string>
-    <string name="process_kernel_label">Android rendszer</string>
     <string name="profile_connect_timeout_subtext">Probléma a csatlakozás során. Kapcsolja ki a készüléket, majd vissza</string>
     <string name="profile_info_settings_title">Profiladatok</string>
     <string name="profile_owned_footer">Profilját felügyelhetik</string>
