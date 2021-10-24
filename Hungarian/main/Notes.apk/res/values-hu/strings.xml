@@ -437,7 +437,6 @@
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -498,7 +497,6 @@
     <string name="note_sort_way">Rendezés</string>
     <string name="notealert_enter">Jegyzet megnyitása</string>
     <string name="notealert_ok">Elvetés</string>
-    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">A Jegyzetek rendszeralkalmazás. Az eltávolítást követően nem tudja használni ezt az alkalmazást.</string>
     <string name="notes_description_title">Jegyzetek eltávolítása?</string>
     <string name="notification_content_add_todo_from_other_app">Hozzáadott egy új feladatot. Koppintson a megtekintéshez.</string>
