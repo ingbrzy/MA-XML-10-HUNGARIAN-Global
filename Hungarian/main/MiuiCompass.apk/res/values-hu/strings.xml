@@ -30,6 +30,7 @@
     <string name="actionbar_button_up_description">Vissza</string>
     <string name="afternoon">Délután</string>
     <string name="allow">Engedélyezés</string>
+    <string name="allowed">Engedély megadva</string>
     <string name="altitude">%.1f</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">Magasság</string>
@@ -142,6 +143,7 @@
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
+    <string name="get_location">Hozzáférés a tartózkodási helyhez</string>
     <string name="gradienter_title">Vízszintmérő</string>
     <string name="guide_toast">A kalibráláshoz mozgassa az eszközt az alábbiakban látható módon.</string>
     <string name="latitude">Szélesség</string>
@@ -157,6 +159,7 @@
     <string name="location_west">Nyugati hosszúság</string>
     <string name="longitude">Hosszúság</string>
     <string name="midnight">Éjjel</string>
+    <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
@@ -222,18 +225,26 @@
     <string name="month_september_shortest">Szept</string>
     <string name="more">Továbbiak</string>
     <string name="morning">Reggel</string>
+    <string name="new_cta_v2_app_purpose">Irányok, koordináták, légköri nyomás és aktuális magasság megjelenítése</string>
+    <string name="new_permission_camera_desc">Kalibrációhoz</string>
+    <string name="new_permission_location_desc">A koordináták megjelenítéséhez</string>
     <string name="night">Este</string>
     <string name="noon">Dél</string>
+    <string name="not_allowed">Az engedély nincs megadva</string>
     <string name="not_set">Nincs beállítva</string>
+    <string name="open_camera">Kamera használata</string>
     <string name="open_perm_msg">Az Iránytű számára hozzáférés szükséges a helyadatokhoz és a kamera adataihoz a koordináták meghatározása és az élő bemutatók miatt. Engedélyezi?</string>
     <string name="open_perm_msg_no_camera">Az Iránytűnek hozzá kell férnie a helyadatokhoz, hogy meghatározza a koordinátákat. Engedélyezi?</string>
     <string name="open_perm_title">Engedélyek szükségesek</string>
     <string name="permission_camera_desc">Az azimuth megjelenítéséhez az élő előnézetben</string>
+    <string name="permission_description">Engedélyek részletei</string>
     <string name="permission_location_desc">A koordináták megjelenítéséhez</string>
     <string name="pm">DU</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="preference_other">Egyéb</string>
-    <string name="preference_privacy_title">Adatvédelmi Irányelvek</string>
+    <string name="preference_privacy_policy">Adatvédelmi irányelvek megtekintése</string>
+    <string name="preference_privacy_setting">Adatvédelem</string>
+    <string name="preference_privacy_title">Adatvédelmi irányelvek</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">Nyomás</string>
     <string name="pressure_unit">hPa</string>

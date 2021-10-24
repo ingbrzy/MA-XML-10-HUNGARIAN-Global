@@ -31,6 +31,7 @@
     <string name="access_token_expired_warning">A Weibo fiók lejárt</string>
     <string name="access_token_invalid_warning">A Weibo fiók érvénytelen</string>
     <string name="account">Fiók</string>
+    <string name="account_and_password">Jelszó</string>
     <string name="account_bind_devices">Készülékek</string>
     <string name="account_bind_secure_email_title">E-mail hozzáadása</string>
     <string name="account_bind_secure_phone_title">Telefonszám hozzáadása</string>
@@ -62,7 +63,7 @@
  Az Ön fiókazonosítója: %s"</string>
     <string name="account_token_expired_title">Az azonosítás sikertelen</string>
     <string name="account_user_avatar">Profilkép</string>
-    <string name="account_user_avatar_from_album">Select photo</string>
+    <string name="account_user_avatar_from_album">Fotó kiválasztása</string>
     <string name="account_user_avatar_from_camera">Fénykép készítése</string>
     <string name="account_user_base_info">Személyes adatok</string>
     <string name="account_user_birthday">Születésnap</string>
@@ -75,7 +76,11 @@
     <string name="account_user_name_dialog_title">Írja be a felhasználónevet</string>
     <string name="account_user_other_info">Egyéb adatok</string>
     <string name="account_user_phone">Helyreállítási telefonszám</string>
+    <string name="account_user_phone_show">Telefonszám: %s</string>
     <string name="account_user_region">Régió</string>
+    <string name="account_verify_guide_bind_mail_desc">Helyreállítási e-mail hozzáadása</string>
+    <string name="account_verify_guide_bind_phone_desc">Helyreállítási telefonszám hozzáadása</string>
+    <string name="account_verify_guide_set_password_desc">Jelszó beállítása</string>
     <string name="account_xiaomi_service">Szolgáltatások</string>
     <string name="action_add_phone">Telefonszám hozzáadása</string>
     <string name="action_retry">Próbálja újra</string>
@@ -201,16 +206,17 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">Bejelentkezés Facebook használatával</string>
     <string name="failed_dup_secure_phone_number">Ez a telefonszám már hozzá van rendelve egy másik Mi Fiókhoz.</string>
+    <string name="family_share">Családi megosztás</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">Készülékkeresés</string>
     <string name="find_device_access_denied">Állapot nem elérhető, hozzáférés megtagadva</string>
     <string name="find_device_account_error">Állapot nem elérhető fiókhiba miatt</string>
     <string name="find_device_activate_account">Fiók aktiválása</string>
-    <string name="find_device_bad_response_error">A server error occurred. Wait a minute or two and try again.</string>
+    <string name="find_device_bad_response_error">Kiszolgálóhiba. Várjon egy-két percet, majd próbálja újra.</string>
     <string name="find_device_clear_data">Adatok törlése</string>
     <string name="find_device_close">Ki</string>
     <string name="find_device_error_password_not_confirmed">Nem lehet kikapcsolni a Készülékkeresést. Adja meg újra a Mi Fiók jelszavát.</string>
-    <string name="find_device_error_password_recently_changed">"You've changed your password within last %d days. Can't turn off Find device now due to security reasons."</string>
+    <string name="find_device_error_password_recently_changed">Az elmúlt %d napban megváltoztatta a jelszavát. Biztonsági okokból most nem tudja kikapcsolni a Készülékkeresés funkciót.</string>
     <string name="find_device_interrupted">A művelet megszakadt, várjon egy-két percet, majd próbálja újra</string>
     <string name="find_device_io_error">Nem lehet csatlakozni a hálózathoz</string>
     <string name="find_device_location">Helymeghatározás</string>
@@ -229,7 +235,8 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="find_device_request_prepare_error">Állapot nem elérhető, próbálja később</string>
     <string name="find_device_set_lost_model">Elveszett mód</string>
     <string name="find_device_title">Készülékkeresés</string>
-    <string name="find_device_unknown_error">"Can't get device status. Wait a minute or two and try again."</string>
+    <string name="find_device_unknown_error">Nem lehet a készülék állapotát lekérdezni. Várjon egy-két percet, majd próbálja újra.</string>
+    <string name="find_equipment">Készülékkeresés</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -286,6 +293,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
+    <string name="get_back_password">Jelszó visszaállítása</string>
     <string name="get_back_pwd">Jelszó visszaállítása</string>
     <string name="get_device_list_failed">Nem kérhető le a készüléklista</string>
     <string name="get_identity_auth_url_failed">Nem sikerült megerősíteni az azonosítót</string>
@@ -319,13 +327,14 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="loading_micloud_sync_data">Egy pillanat…</string>
     <string name="login_check_find_device">Készülék biztonsági adatainak ellenőrzése…</string>
     <string name="login_check_find_device_failed_title">A készülék biztonsági adatainak lekérése sikertelen</string>
-    <string name="login_find_device_bind">This device is associated with an existing Mi Account ID (%s).</string>
+    <string name="login_find_device_bind">Ez a készülék egy meglévő Mi Fiók azonosítóhoz (%s) tartozik.</string>
     <string name="logout_account">Kijelentkezés</string>
     <string name="logout_failed">Sikertelen kijelentkezés</string>
     <string name="mi_account_identity_title">Személyazonosság igazolása</string>
     <string name="mi_finance">Pénzügyeim</string>
     <string name="mi_finance_info">Bónuszok új felhasználók számára</string>
     <string name="mi_health">Xiaomi Health</string>
+    <string name="mi_member">Mi Közösség</string>
     <string name="mi_vip_info">Jogosultságok megtekintése</string>
     <string name="midnight">Éjjel</string>
     <string name="mipay">Mi Pay</string>
@@ -336,6 +345,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="mipay_indentity_done">Hitelesített</string>
     <string name="mipay_others">Egyéb</string>
     <string name="mipay_transit_card">Utazókártya</string>
+    <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
@@ -405,14 +415,18 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="my_device_title">Jelenlegi készülék</string>
     <string name="need_install_wechat">Előbb telepítse a WeChat alkalmazást</string>
     <string name="night">Este</string>
+    <string name="no_install">Nincs telepítve</string>
     <string name="no_network_btn">Frissítés</string>
     <string name="no_network_title">Nincs internetkapcsolat.</string>
+    <string name="no_password_set">Nincs beállítva</string>
     <string name="no_phone">Nincs telefonszám</string>
     <string name="no_response_retry">Nincs válasz, próbálja újra.</string>
     <string name="no_sim_card_or_unactivated">A SIM-kártya nincs behelyezve vagy aktiválva</string>
     <string name="nobind">Nincs hozzáadva</string>
     <string name="noon">Dél</string>
     <string name="not_set">Nincs beállítva</string>
+    <string name="notify_bind_security_phone">Helyreállítási telefonszám hozzáadása</string>
+    <string name="notify_complete_security_info">Helyreállítási információ hozzáadása</string>
     <string name="notify_network_restricted_content_bg_network">A Mi Fiók adatforgalma korlátozva van. Érintse meg az engedélyezéshez.</string>
     <string name="notify_network_restricted_content_hidden_state">A Mi Fiók háttértevékenysége korlátozva van. Érintse meg az engedélyezéshez.</string>
     <string name="notify_network_restricted_content_mobile_network">A Mi Fiók adatforgalma korlátozva van. Érintse meg az engedélyezéshez.</string>
@@ -445,6 +459,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="passport_activing_account">Aktiválás…</string>
     <string name="passport_adding_account">Fiók hozzáadása…</string>
     <string name="passport_area_code_hot">GYAKRAN HASZNÁLT</string>
+    <string name="passport_area_code_others">Más előtag használata</string>
     <string name="passport_area_code_title">Ország hívószám</string>
     <string name="passport_auto_generate_pwd">Biztonságos jelszó generálása</string>
     <string name="passport_back">Vissza</string>
@@ -637,6 +652,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="passport_title_reg">Fiók létrehozása</string>
     <string name="passport_trust_device">A készülék hozzáadása az ellenőrzött eszközökhöz</string>
     <string name="passport_trying_read_verify_code_sms">Ellenőrző kód lekérése…</string>
+    <string name="passport_tz_invalid">Biztonsági kockázatokat észleltünk. Ez a készülék lehet, hogy rootolt vagy flashelt. Próbáljon meg más bejelentkezési lehetőségeket.</string>
     <string name="passport_uplink_reg">Telefonszám használata</string>
     <string name="passport_uplink_send_sms_hint">Amint megtörtént az átirányítás az oldalra az összeállított üzenettel, koppintson a \"Küldés\"-re.</string>
     <string name="passport_uplink_slot1_reg">SIM 1 használata</string>
@@ -674,6 +690,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="permission_group_phone">Telefon</string>
     <string name="permission_group_sms">SMS</string>
     <string name="permission_group_storage">Tárhely</string>
+    <string name="personal_info_desc">Fénykép, becenév és sok más</string>
     <string name="phone_num_use_for">A telefonszám használata a következőhöz:</string>
     <string name="photoPickerNotFoundText">Nincs elérhető fénykép.</string>
     <string name="pm">DU</string>
@@ -720,6 +737,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="search_user_detail_path">Beállítások/Mi Fiók/Személyes adatok</string>
     <string name="search_user_detail_top_key_words">Személyes adatok;Profilkép megváltoztatása; Felhasználónév megváltoztatása;Becenév megváltoztatása;Születésnap módosítása;Nem megváltoztatása</string>
     <string name="select_all">Az összes kijelölése</string>
+    <string name="self_account_info">Személyes adatok</string>
     <string name="send">Küldés</string>
     <string name="send_diagnosis_log">Hibameghatározási napló küldése</string>
     <string name="send_email_activate_message">Ellenőrző e-mail elküldve</string>
@@ -789,6 +807,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="the_united_nations_day">Egyesült Nemzetek Napja</string>
     <string name="the_valentines_day">Valentin nap</string>
     <string name="the_water_lantern_festival">Vízi lámpásfesztivál</string>
+    <string name="third_party_login">Külső fél fiókok</string>
     <string name="thursday">Csütörtök</string>
     <string name="thursday_short">Csü</string>
     <string name="thursday_shortest">Csü</string>

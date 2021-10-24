@@ -285,6 +285,8 @@ A szinkronizálás leállításához kapcsolja ki."</string>
     <string name="collect_diagnosis_log">Naplók gyűjtése</string>
     <string name="collection_articles">Cikkek</string>
     <string name="collection_videos">Videók</string>
+    <string name="columbus_ad_flag_text">REKLÁM</string>
+    <string name="columbus_skip_ad">Kihagyás</string>
     <string name="com_facebook_device_auth_instructions">Keresd fel a &lt;b>facebook.com/device&lt;/b> címet, és írd be a fent megjelenített kódot.</string>
     <string name="com_facebook_image_download_unknown_error">Váratlan hiba történt a kép letöltésekor.</string>
     <string name="com_facebook_internet_permission_error_message">A WebView-bejelentkezéshez „INTERNET” jogosultság szükséges.</string>
@@ -933,7 +935,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="mw_actionbar_textselection_title">Szövegválasztás</string>
     <string name="mw_actionbar_web_search">Keresés a weben</string>
     <string name="mw_autofill_popup_content_description">Automatikusan kitöltődő felugróablak megjelenítése</string>
-    <string name="mw_chip_remove_icon_content_description">Remove \"%1$s\"</string>
+    <string name="mw_chip_remove_icon_content_description">\"%1$s\" eltávolítása</string>
     <string name="mw_color_picker_button_black">Fekete</string>
     <string name="mw_color_picker_button_blue">Kék</string>
     <string name="mw_color_picker_button_cancel">Mégse</string>
@@ -949,7 +951,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="mw_color_picker_hue">Színárnyalat</string>
     <string name="mw_color_picker_saturation">Telítettség</string>
     <string name="mw_color_picker_value">Színérték</string>
-    <string name="mw_common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="mw_common_google_play_services_install_text">%1$s nem működik a Google Play szolgáltatások nélkül. Ezek hiányoznak készülékéről.</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Nem sikerült a vágólapra másolni</string>
     <string name="mw_data_traffic_prompt_change">Videó streamelése mobiladat-kapcsolaton növeli az adatforgalmat. Ha túllépi az adatforgalmazási limitet, a szolgáltató további díjakat fog felszámolni..</string>
@@ -973,7 +975,7 @@ Leave this page now?"</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Múlt hónap</string>
     <string name="mw_license_activity_title">WebView Rendszer licenszei</string>
-    <string name="mw_link_copied">Copied URL successfully</string>
+    <string name="mw_link_copied">URL másolása sikeres</string>
     <string name="mw_low_memory_error">Kevés memória miatt nem lehet befejezni a korábbi műveletet</string>
     <string name="mw_miui_content_copy">Másolás</string>
     <string name="mw_miui_content_cut">Kivágás</string>
@@ -1078,7 +1080,7 @@ Leave this page now?"</string>
     <string name="mw_save_password_never">Soha</string>
     <string name="mw_save_password_notnow">Most nem</string>
     <string name="mw_save_password_remember">Megjegyzés</string>
-    <string name="mw_speech_recognition_service_not_found">"Couldn't find Google speech engine"</string>
+    <string name="mw_speech_recognition_service_not_found">Nem sikerült megtalálni a Google beszédmotorját</string>
     <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">DE</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
@@ -1175,6 +1177,13 @@ Leave this page now?"</string>
     <string name="notification_download_completed">Sikeresen letöltve</string>
     <string name="notification_download_failed">Nem sikerült a letöltés.</string>
     <string name="notification_wechat_expired_empty">WeChat már törölte ezeket a videóklipeket.</string>
+    <string name="offline_notification_text">Koppintson a hirdetés megnyitásához</string>
+    <string name="offline_notification_title">Az offline mentett hirdetés megtekintése</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Linket tartalmazó értesítést kap, amikor újra online lesz</string>
+    <string name="offline_opt_in_decline">Nem</string>
+    <string name="offline_opt_in_message">Értesítést küldünk, amelyben a hirdető webhelyére mutató link szerepel.</string>
+    <string name="offline_opt_in_title">Megnyithatja a hirdetést akkor, amikor újra online lesz.</string>
     <string name="ok">OK</string>
     <string name="open_app_confirm_message">Engedi, hogy ez a weboldal megnyissa: %s?</string>
     <string name="open_private_folder">Engedje el a rejtett mappák megtekintéséhez</string>
@@ -1598,6 +1607,15 @@ Egyes webhelyek nem használják a korábbi böngészési előzményeket hirdet�
     <string name="restart_phone_bind_message">Bizonyos időt igénybe vesz az SMS fogadása. Mégis újrakezdi?</string>
     <string name="restart_phone_bind_title">Helyreállító telefon módosítása</string>
     <string name="return_to_homepage">Vissza a kezdőlapra</string>
+    <string name="risk_continue">Folytatás</string>
+    <string name="risk_detail">Részletek</string>
+    <string name="risk_malicious_url">Ezen a weboldalon potenciális veszélyforrás található.</string>
+    <string name="risk_protect_browsing">A Mi Böngésző ellenőrzi, hogy a weboldalak biztonságosak-e</string>
+    <string name="risk_safe_url">Ez a weboldal biztonságos</string>
+    <string name="risk_setting_des">Engedélyezze a Mi Böngészőnek, hogy ellenőrizze, a weboldalak biztonságosak-e</string>
+    <string name="risk_setting_title">Biztonságos böngészés</string>
+    <string name="risk_stop">Leállítás</string>
+    <string name="risk_unspecified_url">Probléma történt a weboldal biztonsági tanúsítványának lekérése során.</string>
     <string name="rlv_last_refreshing_time">Frissítve %1$s</string>
     <string name="rlv_loading_more">Egy pillanat...</string>
     <string name="rlv_pull_to_refresh">Húzza le a frissítéshez</string>

@@ -437,6 +437,7 @@
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -483,6 +484,7 @@
     <string name="note_gesture_guide_step3">Jegyzet mappába való áthelyezéséhez nyomjon hosszan egy jegyzetre, majd húzza rá a mappára</string>
     <string name="note_header_first_enter_guide">Húzza le több megtekintéséhez</string>
     <string name="note_invalid_mindnote_hint">A gondolattérképek ebben a verzióban nem állnak rendelkezésre. Frissítse az alkalmazást a funkció használatához.</string>
+    <string name="note_item_default_title">Üres jegyzet</string>
     <string name="note_link_email">E-mail írása</string>
     <string name="note_link_other">Megnyitás a térképpel</string>
     <string name="note_link_select">Szöveg kiválasztása</string>
@@ -496,6 +498,7 @@
     <string name="note_sort_way">Rendezés</string>
     <string name="notealert_enter">Jegyzet megnyitása</string>
     <string name="notealert_ok">Elvetés</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">A Jegyzetek rendszeralkalmazás. Az eltávolítást követően nem tudja használni ezt az alkalmazást.</string>
     <string name="notes_description_title">Jegyzetek eltávolítása?</string>
     <string name="notification_content_add_todo_from_other_app">Hozzáadott egy új feladatot. Koppintson a megtekintéshez.</string>
@@ -554,6 +557,12 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">A jegyzetek megerősítés nélküli törléséhez húzza fel két ujjal</string>
     <string name="pref_desc_todo_float_mode">Csúsztassa ujját a képernyő szélétől a feladateszköztár megnyitásához</string>
     <string name="pref_excerpt_link_float">Emlékeztető kivonat létrehozására, ha URL-t másol</string>
+    <string name="pref_permission_allowed">Engedély megadva</string>
+    <string name="pref_permission_manage">Engedélyek részletei</string>
+    <string name="pref_permission_manage_key_contact">Hozzáférés a névjegyekhez</string>
+    <string name="pref_permission_manage_key_recording">Hanganyag rögzítése</string>
+    <string name="pref_permission_manage_key_storage">Hozzáférés a tárhelyhez</string>
+    <string name="pref_permission_not_allowed">Az engedély nincs megadva</string>
     <string name="pref_quick_note_desc">A képernyő szélén található parancsikon segítségével jegyzeteket és feladatokat hozhat létre, valamint a másolt URL-eket, szöveget és képeket a Jegyzetekbe mentheti.</string>
     <string name="pref_remind_type_summary">Emlékeztető hang lejátszásra Néma üzemmódban</string>
     <string name="pref_remind_type_summary_new">Néma mód figyelmen kívül hagyása és hang lejátszása addig, amíg a riasztás kikapcsolásra nem kerül</string>
@@ -870,6 +879,9 @@ Hang felvételéhez engedélyezze a Jegyzeteket."</string>
     <string name="widget_size_item_2x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x4">%1$d×%2$d</string>
+    <string name="widget_size_item_big">Nagy</string>
+    <string name="widget_size_item_medium">Közepes</string>
+    <string name="widget_size_item_small">Kicsi</string>
     <string name="widget_take_notes_title">Jegyzetek</string>
     <string name="yesterday">Tegnap</string>
 </resources>

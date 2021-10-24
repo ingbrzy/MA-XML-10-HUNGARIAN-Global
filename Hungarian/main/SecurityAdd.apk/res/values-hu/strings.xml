@@ -58,6 +58,7 @@
     <string name="dual_app_title">Kettős alkalmazások</string>
     <string name="dual_app_words">Minden fiók megérdemli a saját alkalmazását</string>
     <string name="early_morning">Reggel</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="evening">Délután</string>
@@ -236,6 +237,7 @@
     <string name="gb_pannel_control_mode_power_saving">Energiamegtakarítás</string>
     <string name="gb_weixinpay_can_not_complete">A fizetés nem teljesíthető. Telepítse a folytatásához.</string>
     <string name="gdpr_msg">&lt;Data>A Biztonság főbb funkcióinak használatához el kell fogadnia, hogy a Xiaomi összegyűjti, feldolgozza és felhasználja személyes adatait, beleértve a Biztonsági funkciók használatának módját (pl. mobiladat-használati statisztikák, a rosszindulatú programokról szóló információk, valamint az Ön eszközére vonatkozó alapvető információk) és az &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Adatvédelmi irányelveiben&lt;/a> meghatározott egyéb típusú információkat.&lt;/Data></string>
+    <string name="hybrid_provider">Szolgáltató: %1$s</string>
     <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">Piros borítékok</string>
     <string name="main_toolbar_purchase">Feltölt</string>
@@ -312,6 +314,7 @@
     <string name="net_booster_overdue_notification_tip">A hálózatsebesség-gyorsítás időszaka hamarosan véget ér. Megújítja?</string>
     <string name="network_not_available">Nem lehet csatlakozni a hálózathoz</string>
     <string name="night">Este</string>
+    <string name="no_network">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="no_network_btn">Próbálja újra</string>
     <string name="noon">Dél</string>
     <string name="not_set">Nincs beállítva</string>
@@ -337,6 +340,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
@@ -425,6 +429,9 @@
     <string name="usage_sorted_loading_text">Egy pillanat…</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
+    <string name="web_sso_login_fail">Újra bejelentkezés szükséges</string>
+    <string name="web_sso_login_message">Bejelentkezés…</string>
+    <string name="webview_reload">Próbálja újra</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
     <string name="wednesday_shortest">Sze</string>

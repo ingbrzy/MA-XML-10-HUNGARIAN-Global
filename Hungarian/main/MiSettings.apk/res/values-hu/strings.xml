@@ -141,6 +141,8 @@
     <string name="created_successfully">Sikeresen létrehozva</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">Beállítás</string>
+    <string name="customize_radio_btn_summary">Kiválasztott frissítési ráta előnyben részesítése</string>
+    <string name="customize_radio_btn_title">Egyéni</string>
     <string name="dall_sheep">Dall sheep</string>
     <string name="dart_frog_info">Its bright blue skin and poisonous glands are defense mechanisms to potential predators.</string>
     <string name="date_picker_label_day" />
@@ -150,9 +152,17 @@
     <string name="date_time_picker_dialog_title">Dátum- és időbeállítás</string>
     <string name="dc_light_hint_enable_title">Figyelem</string>
     <string name="dc_light_hint_normal">A DC dimming hatással lehet egyes elemek megjelenítésére.</string>
+    <string name="dc_light_hint_normal_anit">A csíkozódáscsökkentő mód befolyásolhatja egyes elemek megjelenítését.</string>
+    <string name="dc_light_hint_normal_other">A csíkozódáscsökkentő mód befolyásolhatja a frissítési rátát és egyes elemek megjelenítésének módját.</string>
     <string name="dc_light_hint_other">A DC dimming befolyásolhatja a frissítési gyakoriságot és az egyes elemek megjelenítésének módját.</string>
+    <string name="dc_light_hint_unnormal_low">A gyenge megvilágítású csíkozódáscsökkentő mód befolyásolhatja egyes elemek megjelenítését.</string>
+    <string name="dc_light_hint_unnormal_other">A gyenge megvilágítású csíkozódáscsökkentő mód befolyásolhatja a frissítési rátát és egyes elemek megjelenítésének módját.</string>
     <string name="dc_lignt_enable_hint">A villogásgátló mód a képernyő frissítési gyakoriságát 60 Hz-re állítja. Váltás villogásgátló módra?</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
+    <string name="desktop_widget_authorization">Koppintson, hogy jogosultságokat adjon a statisztikák megtekintéséhez</string>
+    <string name="desktop_widget_not_support">"Képernyőidő statisztika
+nem generálódik a Második asztalon"</string>
+    <string name="desktop_widget_screen_use_time">Képernyőidő</string>
     <string name="display_description">Nagyobb ikonok, nagy szöveg és kevesebb vizuális zsúfoltság</string>
     <string name="display_title">Nagyobb elemek</string>
     <string name="dynamic_ringtone_desc">"We've explored different ecosystems and recreated their distinct sounds. Start exploring the sounds of nature with us!"</string>
@@ -284,13 +294,19 @@
     <string name="focus_mode_timer_pick_dialog_title">Időtartam megadása</string>
     <string name="focus_time_exception_tip">Úgy tűnik, hogy a rendszeridő megváltozott. Kikapcsolta a Fókusz módot.</string>
     <string name="follow_sim1">SIM 1 beállításainak alkalmazása</string>
+    <string name="fps_high">Magas</string>
     <string name="fps_nature_summary">A maxamimum frissítési gyakoriság miatt minden éles és tiszta</string>
     <string name="fps_nature_title">Maximum</string>
+    <string name="fps_normal">Normál</string>
+    <string name="fps_radio_btn_title">Frissítési ráta</string>
+    <string name="fps_save_battery_tips">Az akkumulátorkímélő be van kapcsolva. A frissítési ráta %d Hz-re van állítva.</string>
     <string name="fps_smooth_summary">A magas frissítési gyakoriság egyértelműbbé teszi a részleteket</string>
     <string name="fps_smooth_title">Magas</string>
     <string name="fps_standard_summary">A standard frissítési gyakoriság kíméli az akkumulátort</string>
     <string name="fps_standard_title">Standard</string>
     <string name="fps_user_tip">- Tájékoztatásul, ezeket a bemutató animációkat kis sebességgel játsszuk le. A tényleges teljesítmény különböző tényezők alapján eltérő lehet.</string>
+    <string name="fps_user_tip_footer">"%1$d. A magasabb és alacsonyabb frissítési ráta közötti különbség megértéséhez a demókat itt lassabban játsszuk le. Lehet, hogy a rendszeres használat során nehezebben veszi észre a különbséget.
+%2$d. Bizonyos esetekben a frissítési ráta dinamikusan módosulhat a megjelenített elemek alapján."</string>
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
@@ -316,11 +332,14 @@
     <string name="healthy_use_phone">Képernyőidő kezelése</string>
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">Magas képernyőfrissítési sebesség. Nagyobb energiafogyasztás.</string>
+    <string name="high_fps_tip_footer">A magasabb képfrissítési ráta használata zökkenőmentesebbé teszi a megtekintést, de több energiát fogyaszt.</string>
     <string name="hippopotamus">Hippo</string>
     <string name="hsv_space_color">HSV színtér</string>
     <string name="hsv_space_color_hue">Hue (Színárnyalat)</string>
     <string name="hsv_space_color_saturation">Saturation (Telítettség)</string>
     <string name="hsv_space_color_value">Value (Érték)</string>
+    <string name="intelligent_radio_btn_summary">A frissítési ráta dinamikus beállítása a helyzetek alapján a teljesítmény és az energiafogyasztás kiegyensúlyozása érdekében</string>
+    <string name="intelligent_radio_btn_title">Automatikus (javasolt)</string>
     <string name="intelligent_recognition_item_summary">Használjon egyedi csengőhangot futár- és taxi szolgáltatók hívásaihoz. A funkció akkor fog működni, ha a(z) %s alapértelmezett csengőhangként van beállítva.</string>
     <string name="intelligent_recognition_item_title">Azonosító szolgáltatások</string>
     <string name="item_anura">Anura</string>
@@ -361,6 +380,8 @@
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
     <string name="lock_summary">Védje meg személyes adatait</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
+    <string name="low_flicker_mode">Gyenge fényviszonyok</string>
+    <string name="low_flicker_mode_summary">A villódzás megakadályozása gyenge fényviszonyok között a szem terhelésének csökkentése érdekében</string>
     <string name="low_fps_description">Alacsony képernyőfrissítési sebesség. Kisebb energiafogyasztás.</string>
     <string name="low_light_preview">Alacsony fény előnézet</string>
     <string name="lynx">Lynx</string>
@@ -370,6 +391,7 @@
     <string name="masked_palm_civet">Masked palm civet</string>
     <string name="medium_tree_finch">Medium tree finch</string>
     <string name="midnight">Éjjel</string>
+    <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
@@ -462,6 +484,7 @@
     <string name="noon">Dél</string>
     <string name="normal_mode">Szokásos</string>
     <string name="normal_mode_summary">Ne csökkentse a villódzást alacsony fényviszonyok között</string>
+    <string name="normal_mode_summary_new">Villódzás engedélyezése gyenge fényviszonyok mellett</string>
     <string name="north_white_rhinoceros">White rhinoceros</string>
     <string name="norway_lemmings">Norway lemmings</string>
     <string name="norway_lemmings_info">The Norway lemming dwells in tundra and fells, and prefers to live near water.</string>
@@ -477,7 +500,7 @@
     <string name="p3_color_region_summary">Az összes képernyőtartalom megjelenítése P3 színerősítéssel</string>
     <string name="pallas_s_cat">"Pallas's cat"</string>
     <string name="parasitic_jaeger">Parasitic jaeger</string>
-    <string name="personality_hint_ringtone">Personalized sounds</string>
+    <string name="personality_hint_ringtone">Személyre szabott hangok</string>
     <string name="petaurus_breviceps">Sugar glider</string>
     <string name="phoebastria_irrorata">Waved albatross</string>
     <string name="pied_butcherbird">Pied butcherbird</string>
@@ -541,7 +564,7 @@
     <string name="several_days_use_time">Képernyőidő: %2$s</string>
     <string name="short_eared_owl">Short-eared owl</string>
     <string name="shortcut_created">Ez a parancsikon már létezik</string>
-    <string name="silent_ringtone_hint">Az audió némított. Emelje fel a hangerőt és próbálja meg újra.</string>
+    <string name="silent_ringtone_hint">Először kapcsolja ki a Néma módot</string>
     <string name="silver_pheasant">Silver pheasant</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
@@ -553,6 +576,8 @@
     <string name="snowy_owl">Snowy owl</string>
     <string name="southern_elephant_seal">Southern elephant seal</string>
     <string name="southern_ground_hornbill">Ground hornbill</string>
+    <string name="split_page_authorization">Üdvözöli önt a Képernyőidő! Itt állíthatja be a képernyőidő-korlátokat és tekintheti meg a statisztikákat. A funkció bekapcsolásához koppintson az \"Indítás\" gombra.</string>
+    <string name="split_page_start">Indítás</string>
     <string name="spotted_hyaena">Spotted hyena</string>
     <string name="spotted_hyaena_info">Hyenas are nocturnal predators with the most complex social behaviours.</string>
     <string name="spur_winged_plover">Spur-winged lapwing</string>
@@ -653,6 +678,7 @@
     <string name="unlock_times_per_day">"Napi átlag: "</string>
     <string name="unlock_times_per_hour">"Óránkénti feloldások: "</string>
     <string name="usage_agree">Elfogadom</string>
+    <string name="usage_app_desktop_widget_limit">%s maradt</string>
     <string name="usage_app_get_it">Rendben</string>
     <string name="usage_app_holiday_limit">Szabadnapok</string>
     <string name="usage_app_limit_alter_summary">Úgy tűnik, ez a határérték alacsonyabban van, mint az az idő, amennyit ma ezt az alkalmazást használta. Beállítja ezt a határértéket?</string>

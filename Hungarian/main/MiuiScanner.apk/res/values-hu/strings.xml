@@ -100,6 +100,7 @@
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
     <string name="midnight">Éjjel</string>
+    <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>

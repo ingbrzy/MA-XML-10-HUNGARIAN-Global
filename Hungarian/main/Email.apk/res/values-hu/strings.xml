@@ -253,6 +253,7 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="back">Vissza</string>
     <string name="bank_card_detail">Hitelkártya adatok</string>
     <string name="bcc">Titkos másolat</string>
+    <string name="bcc_heading">"Bcc: "</string>
     <string name="bill_center_setting">Számlázási beállítások</string>
     <string name="bill_center_setting_head">Importálás ezekről a számlákról</string>
     <string name="bill_cycle_text">Számlázási ciklus</string>
@@ -274,6 +275,7 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="cancel_pop3_attchemt_downloading">Nem szakítható meg a POP3-fiókok esetén a mellékletek folyamatban levő letöltései</string>
     <string name="cant_move_or_change_labels">Nem lehet több fiókból áthelyezni.</string>
     <string name="cc">Másolat</string>
+    <string name="cc_attribution">Másolat: %1$s&lt;br></string>
     <string name="cc_bcc">Másolat/Titkos másolat</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">A(z) „%s” tanúsítvány hozzáadása sikertelen</string>
@@ -303,6 +305,7 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="click_to_reload">Érintse meg a képernyőt az újratöltéshez</string>
     <string name="close">Bezárás</string>
     <string name="collapse_recipient_details">Címzett adatainak elrejtése</string>
+    <string name="colon">:</string>
     <string name="compose">Levélírás</string>
     <string name="compose_event">Meghívás</string>
     <string name="compose_paste_address_oob">Túl sok karakter</string>
@@ -377,6 +380,7 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="copy">Másolás</string>
     <string name="copy_email">E-mail cím másolása</string>
     <string name="copy_number">Telefonszám másolása</string>
+    <string name="copy_toast_msg">Link vágólapra másolva</string>
     <string name="create_action">Új</string>
     <string name="cur_debt">Számlaegyenleg</string>
     <string name="custom_from_account_label">E-mail küldése mint:</string>
@@ -481,6 +485,9 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="failed_parse_eml_file">EML fájl megnyitása sikertelen, próbálja újra.</string>
     <string name="failed_read_write_calendar_permission">A Naptárhoz való hozzáférés letiltva</string>
     <string name="failed_read_write_contacts_permission">A névjegyekhez való hozzáférés letiltva</string>
+    <string name="fallback_menu_item_copy_link">Link másolása</string>
+    <string name="fallback_menu_item_open_in_browser">Megnyitás böngészőben</string>
+    <string name="fallback_menu_item_share_link">Link megosztása</string>
     <string name="feedback">Visszajelzés küldése</string>
     <string name="feedback_body">Visszajelzés</string>
     <string name="feedback_sent">Köszönjük visszajelzését</string>
@@ -617,6 +624,7 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="go_to_mail_content">E-mail megtekintése</string>
     <string name="have_auth_code">Rendelkezem kóddal</string>
     <string name="header_category_account">Fiókok</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">Általános</string>
     <string name="help_and_info">Súgó</string>
     <string name="help_me_get_qq_auth">Kód beszerzése</string>
@@ -639,6 +647,7 @@ Sok szerver nem támogatja a szóközöket tartalmazó  jelszavakat."</string>
     <string name="invalid_recipient">"A cím %s  érvénytelen."</string>
     <string name="invalid_recipient_title">Kedvezményezett hiba</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Nincs még e-mail.</string>
     <string name="load_from_remote">Levelek keresése a kiszolgálón</string>
     <string name="load_more">Több betöltése</string>
@@ -1161,6 +1170,7 @@ Várjon, amíg teljesen szinkronizálásra kerül, vagy az üzenetet a számít�
 %s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">kB</string>
@@ -1170,6 +1180,7 @@ Várjon, amíg teljesen szinkronizálásra kerül, vagy az üzenetet a számít�
     <string name="size_tera_byte">TB</string>
     <string name="smtp_password_error">A kimenő levelek kiszolgálójának jelszava helytelen</string>
     <string name="sort_attachment">Rendezés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">Összes kijelölése</string>
     <string name="str_select_none">Összes kijelölés megszüntetése</string>
     <string name="subject_and_snippet">%1$s - %2$s</string>

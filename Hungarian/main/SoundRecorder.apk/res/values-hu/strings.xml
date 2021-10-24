@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="actionbar_button_up_description">Vissza</string>
+    <string name="add_remark_hint">Megjegyzését ide írja be</string>
+    <string name="add_remark_tip">Koppintson megjegyzés hozzáadásához</string>
     <string name="afternoon">Délután</string>
     <string name="agree_description">Az internethez való csatlakozás engedélyezés az alkalmazás számára az összes funkció használata érdekében.</string>
     <string name="alert_message_clear_records">Törli a kiválasztott felvételt?</string>
@@ -88,6 +90,7 @@
     <string name="early_morning">Reggel</string>
     <string name="empty" />
     <string name="empty_recognition_tip">Üres</string>
+    <string name="empty_tips">A felvétel megkezdéséhez érintse meg a gombot</string>
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="err_msg_abandon">A megrendelés elutasításra került</string>
@@ -113,6 +116,7 @@
     <string name="error_filename_illegal_char">A fájlnév érvénytelen karaktert tartalmaz.</string>
     <string name="error_filename_too_long">A fájlnév túl hosszú</string>
     <string name="error_icon_content_description">Hiba</string>
+    <string name="error_remark_too_long">Megjegyzése túl hosszú</string>
     <string name="error_sdcard_access">Az SD-kártya nem elérhető</string>
     <string name="error_sdcard_unmounted">Helyezzen be egy SD-kártyát</string>
     <string name="evening">Délután</string>
@@ -289,6 +293,7 @@
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -326,6 +331,7 @@
     <string name="no_file">Nincs felvétel</string>
     <string name="no_network">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="no_playback_file">A részletek megtekintéséhez válasszon ki egy felvételt</string>
+    <string name="no_records">Még nincsenek itt felvételek</string>
     <string name="noon">Dél</string>
     <string name="normal_settings_pref_title">Általános beállítások</string>
     <string name="not_set">Nincs beállítva</string>
@@ -446,6 +452,9 @@
     <string name="record_downloading_notification_complete">A letöltés befejeződött</string>
     <string name="record_downloading_notification_count">%d letöltés</string>
     <string name="record_format_preference_title">Felvételformátum</string>
+    <string name="record_item_title_multi_choice">Kiválasztás</string>
+    <string name="record_item_title_remark">Megegyzés hozzáadása</string>
+    <string name="record_item_title_send">Megosztás</string>
     <string name="record_list">Felvételek listája</string>
     <string name="record_list_app">Alkalmazás felvételek</string>
     <string name="record_list_call">Hívásrögzítések</string>
@@ -532,6 +541,10 @@
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
     <string name="sunday_shortest">Vas</string>
+    <string name="tab_all">Összes</string>
+    <string name="tab_apps">Alkalmazások</string>
+    <string name="tab_call">Hívások</string>
+    <string name="tab_fm">FM</string>
     <string name="tap_to_record">A felvétel megkezdéséhez érintse meg a gombot</string>
     <string name="text_btn_backward_3_seconds">3 másodperccel vissza</string>
     <string name="text_btn_complete">Leállítás</string>

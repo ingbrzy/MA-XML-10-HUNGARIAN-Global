@@ -31,6 +31,7 @@
     <string name="actionbar_button_up_description">Vissza</string>
     <string name="afternoon">Délután</string>
     <string name="am">DE</string>
+    <string name="app_name">Kivetítés</string>
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
@@ -65,9 +66,9 @@
     <string name="dialog_miplay_permission_message">A funkció megfelelő használata érdekében engedélyezze, hogy a Casting hangot rögzítsen, fájlokat érjen el a belső tárolóban, és hozzáférjen a helyadataihoz. A folytatáshoz érintse meg a \"Beállítások\" elemet, és válassza az \"Alkalmazási engedélyek\" lehetőséget.</string>
     <string name="dialog_miplay_permission_positive">Beállítások</string>
     <string name="dialog_miplay_permission_title">Engedélyek szükségesek</string>
-    <string name="dialog_nfc_cast_wifi_off">Wi-Fi bekapcsolása kivetítéshez az NFC használatával. Bekapcsolja most?</string>
-    <string name="dialog_no_device_message">&lt;Data>1. Csatlakoztassa mind a telefont, mind a TV-t ugyanabba a Wi-Fi hálózatba.&lt;br>&lt;br>2. Néhány TV-modellnél ez a funkció csak akkor elérhető, ha a képernyő tükrözése be van kapcsolva. További információkért tekintse meg a &lt;a href=milink://com.milink.service/specification>\"Súgó\"&lt;/a> menüpontot.&lt;/Data></string>
-    <string name="dialog_no_device_message_china">&lt;Data>1. Connect both your phone and TV to the same WLAN network.&lt;br>&lt;br>2. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
+    <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
+    <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Csatlakoztassa a mobilkészülékét és a tévét is ugyanahhoz a Wi-Fi hálózathoz.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Néhány TV-modellnél ez a funkció csak akkor elérhető, ha a képernyő tükrözése be van kapcsolva. További információkért tekintse meg a &lt;a href=milink://com.milink.service/specification>\"Súgó\"&lt;/a> menüpontot.&lt;/Data></string>
+    <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_only_suport_content">Képek, videók vagy zene streamelése</string>
     <string name="dialog_open_wifi_bt">Bekapcsolás</string>
@@ -75,17 +76,17 @@
 Ha problémája akad a csatlakozással, tekintse meg a Súgót."</string>
     <string name="dialog_recent_connected">Legutóbbi</string>
     <string name="dialog_retry">Próbálja újra</string>
-    <string name="dialog_scan_message">"1. Csatlakoztassa mind a telefont, mind a TV-t ugyanabba a Wi-Fi hálózatba.
+    <string name="dialog_scan_message">"%1$d. Csatlakoztassa a mobilkészülékét és a tévét is ugyanahhoz a Wi-Fi hálózathoz.
 
-2. Néhány TV-modellnél ez a funkció csak akkor elérhető, ha a képernyő tükrözése be van kapcsolva.További információkért tekintse meg a \"Súgó\" menüpontot."</string>
-    <string name="dialog_scan_message_china">"1. Connect both your phone and TV to the same WLAN network.
+%2$d. További információért tekintse meg a „Súgó” menüpontot."</string>
+    <string name="dialog_scan_message_china">"%1$d. Connect both your mobile device and TV to the same WLAN network.
 
-2. On some TV models, this feature is only available when screen mirroring is on. View \"Help\" to learn more."</string>
+%2$d. View \"Help\" to learn more."</string>
     <string name="dialog_scanning_device">Készülékek keresése a közelben…</string>
     <string name="dialog_scanning_precondition">A Vezeték nélküli megjelenítés használatához kapcsolja be a WIFI-t és a Bluetooth-t.</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
     <string name="dialog_scanning_precondition_new_global">A Wi-Fi, a Bluetooth és a helymeghatározási szolgáltatások bekapcsolása a kivetítéshez. Bekapcsolja most?</string>
-    <string name="dialog_select_tv">Eszköz kiválasztása (%d)</string>
+    <string name="dialog_select_tv">Eszköz kiválasztása (%1$d)</string>
     <string name="dialog_show_help">Segítség</string>
     <string name="disconnect">Kivetítése leállítása</string>
     <string name="early_morning">Reggel</string>
@@ -95,42 +96,58 @@ Ha problémája akad a csatlakozással, tekintse meg a Súgót."</string>
     <string name="eras_bc">I.E.</string>
     <string name="evening">Délután</string>
     <string name="expand_button_title">Speciális</string>
-    <string name="fmt_date_day">dd</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
+    <string name="fmt_date_long_month_day">MMMM d.</string>
     <string name="fmt_date_long_year_month">yyyy. MMMM</string>
-    <string name="fmt_date_long_year_month_day">yyyy MMMM dd</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">MM.dd.</string>
+    <string name="fmt_date_long_year_month_day">yyyy. MMMM d.</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">M.d.</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">yyyy.MM.</string>
-    <string name="fmt_date_numeric_year_month_day">yyyy.MM.dd.</string>
-    <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">MM.dd.</string>
+    <string name="fmt_date_numeric_year_month">yyyy-M</string>
+    <string name="fmt_date_numeric_year_month_day">yyyy-M-d</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">MMM d.</string>
     <string name="fmt_date_short_year_month">yyyy. MMM</string>
-    <string name="fmt_date_short_year_month_day">yyyy.MM.dd.</string>
+    <string name="fmt_date_short_year_month_day">yyyy. MMM. d.</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'perc'"</string>
+    <string name="fmt_time_minute_second">"m'perc' s'mp'"</string>
+    <string name="fmt_time_minute_second_millis">"m'perc' s.S'mp'"</string>
+    <string name="fmt_time_second">"s'mp'"</string>
+    <string name="fmt_time_second_millis">"s.S'mp'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
@@ -151,30 +168,34 @@ Ha problémája akad a csatlakozással, tekintse meg a Súgót."</string>
     <string name="help_page_text_02">Mi az a kivetítés?</string>
     <string name="help_page_text_03">A kivetítés során a telefonjának képernyőjéről kivetíthet egy nagyobb külső monitorra. Ezzel megoszthat képeket és videókat ismerőseivel és családjával anélkül, hogy mobiladatforgalmat kellene használnia.</string>
     <string name="help_page_text_04">Hogyan vetíthetek ki dolgokat egy nagyobb képernyőre?</string>
-    <string name="help_page_text_05">1. lépés: ellenőrizze eszközeit és a hálózati környezetet</string>
-    <string name="help_page_text_06">"1. Ha Mi telefonról szeretne Mi TV-re kivetíteni, nem kell csatlakoznia az internethez.
-2. Ha nem tud kapcsolatot teremteni a két eszköz között, próbálja meg mindkét eszközt ugyanarra a WIFI-hálózatra csatlakoztatni."</string>
-    <string name="help_page_text_06_global">"1. Mi TV-k, Mi Boxok és Mi Projektorok:
-A legnagyobb hatékonyság érdekében telefonját és külső monitorját ugyanarra a Wi-Fi-hálózatra csatlakoztassa. Ha eltérő hálózatra vannak csatlakoztatva, lehetséges, hogy eltart egy kis ideig a külső monitor megtalálása és csatlakoztatása.
-Figyelem: A régebbi Mi TV-k lehetséges, hogy nem támogatják az eltérő hálózatokról való vetítést.
-2. Ha más márkájú tévét, set-top boxot vagy projektort használ, telefonját és külső monitorját ugyanarra a Wi-Fi-hálózatra csatlakoztassa.
+    <string name="help_page_text_05">%1$d lépés: Ellenőrizze az eszközeit és a hálózati környezetet</string>
+    <string name="help_page_text_06">"%1$d. Xiaomi TVs, set-top boxes, projectors:
+Connect both your mobile device and external monitor to the same WLAN network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
+Note: Older TV models might not support casting across different networks.
+%2$d. If you're using TVs, set-top boxes, or projectors of other brands, connect both your mobile device and external monitor to the same WLAN network.
+If the two devices can't be connected to the same network, turn on Miracast on your external monitor. The naming of Miracast functionality might vary."</string>
+    <string name="help_page_text_06_global">"%1$d Xiaomi TV-k, set-top boxok, projektorok:
+A legjobb hatás érdekében csatlakoztassa a mobilkészüléket és a külső monitort ugyanahhoz a Wi-Fi hálózathoz. Ha különböző hálózatokhoz vannak csatlakoztatva, akkor több időbe telhet a külső monitor megtalálása és a csatlakozás.
+Megjegyzés: A régebbi TV-k nem feltétlenül támogatják a különböző hálózatok közötti kivetítést.
+%2$d. Ha más márkájú tévéket, set-top-boxokat vagy kivetítőket használ, csatlakoztassa a mobilkészüléket és a külső monitort ugyanahhoz a Wi-Fi hálózathoz.
 Ha a két készülék nem csatlakoztatható ugyanarra a hálózatra, kapcsolja be a Miracastot a külső monitoron. A Miracast-funkció elnevezése változó lehet."</string>
-    <string name="help_page_text_08">2. lépés: Kapcsolja be a kivetítést</string>
-    <string name="help_page_text_09">Koppintson telefonjának értesítési sávjában a „Kivetítés” lehetőségre. A stabilabb kapcsolat érdekében kapcsolja be a WIFI-t és a Bluetooth-t is.</string>
-    <string name="help_page_text_10">Ha a Galériából vagy a Mi Videóból szeretne kivetíteni, használhatja az ezekbe az alkalmazásokba beépített kivetítési funkciókat.</string>
-    <string name="help_page_text_11">3. lépés: Válasszon eszközt</string>
+    <string name="help_page_text_08">%1$d lépés: Kapcsolja be a kivetítést</string>
+    <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
+    <string name="help_page_text_09_global">Koppintson készülékének értesítési felületén a „Kivetítés” lehetőségre. A stabilabb kapcsolat érdekében kapcsolja be a Wi-Fi-t és a Bluetooth-t is.</string>
+    <string name="help_page_text_10">Ha fotókat, videókat, játékokat vagy prezentációkat szeretne kivetíteni, használhatja az adott alkalamazásba beépített kivetítési funkciókat.</string>
+    <string name="help_page_text_11">%1$d. lépés: Válasszon eszközt</string>
     <string name="help_page_text_12">A kivetítés elindításához válasszon egy külső eszközt az elérhető eszközök listájából.</string>
     <string name="help_page_text_13">Nem tud csatlakozni egy külső eszközhöz?</string>
-    <string name="help_page_text_14">"1. Ha Xiaomi-eszközt szeretne használni, de nem találja az elérhető eszközök listájában, próbálja ki a következőt:
-Csatlakoztassa a telefonját és a külső monitort (pl. tévéjét) is ugyanarra a WIFI-hálózatra vagy csatlakoztassa a külső monitort telefonjának hotspotjára. Ha nincs elérhető WIFI-hálózat vagy nem tudja mindkét eszközt ugyanarra a hálózatra csatlakoztatni, ellenőrizze, hogy a kivetítési funkció friss-e a külső monitoron, kapcsolja be a Bluetooth-t a telefonján és a külső monitoron is, valamint kapcsolja be a Miracastot a tévéjén. 
-2. Ha először vetít ki Xiaomi-eszközön, el kell végeznie a hitelesítést. 
-3. Ha nem Xiaomi-eszközt szeretne használni, de nem találja eszközét az elérhető eszközök listáján, próbálja ki a következőt:
-Csatlakoztassa a telefonját és a külső monitort (pl. tévéjét) is ugyanarra a WIFI-hálózatra vagy csatlakoztassa a külső monitort telefonjának hotspotjára. Ha ez nem oldja meg a problémát, telepítse a LeEco kivetítő alkalmazást tévéjére és kövesse az utasításokat."</string>
-    <string name="help_page_text_14_global">"1. Ha Xiaomi-eszközt szeretne használni, de nem találja az elérhető eszközök listájában, próbálja ki a következőt:
-Csatlakoztassa a telefonját és a külső monitort (pl. tévéjét) is ugyanarra a WIFI-hálózatra vagy csatlakoztassa a külső monitort telefonjának hotspotjára. Ha nincs elérhető WIFI-hálózat vagy nem tudja mindkét eszközt ugyanarra a hálózatra csatlakoztatni, ellenőrizze, hogy a kivetítési funkció friss-e a külső monitoron, kapcsolja be a Bluetooth-t a telefonján és a külső monitoron is, valamint kapcsolja be a Miracastot a tévéjén.
-2. Ha először vetít ki Xiaomi-eszközön, el kell végeznie a hitelesítést.
-3. Ha nem Xiaomi-eszközt szeretne használni, de nem találja eszközét az elérhető eszközök listáján, próbálja ki a következőt:
-Csatlakoztassa a telefonját és a külső monitort (pl. tévéjét) is ugyanarra a WIFI-hálózatra vagy csatlakoztassa a külső monitort telefonjának hotspotjára."</string>
+    <string name="help_page_text_14">"%1$d. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
+Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If there aren't any networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your mobile device and the external monitor, and turn on Miracast on your TV.
+%2$d. If you're casting on a Xiaomi device for the first time, you need to complete verification.
+%3$d. If you want to use a non-Xiaomi device, but can't find it in the list of available devices, try the following:
+Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If this doesn't help, install the HappyCast app on your TV and follow the instructions."</string>
+    <string name="help_page_text_14_global">"%1$d. Ha Xiaomi-készüléket szeretne használni, de nem találja az elérhető készülékek listájában, próbálja ki a következőt:
+Csatlakoztassa a mobilkészülékét és a külső monitort (pl. tévéjét) is ugyanarra a hálózatra, vagy csatlakoztassa a külső monitort mobilkészülékének a hotspotjára. Ha nincs elérhető hálózat, vagy nem tudja mindkét készüléket ugyanarra a hálózatra csatlakoztatni, ellenőrizze, hogy a kivetítési funkció frissítve van-e a külső monitoron, kapcsolja be a Bluetooth-t a mobilkészülékén és a külső monitoron is, valamint kapcsolja be a Miracastot a tévéjén.
+%2$d. Ha először vetít ki Xiaomi-készüléken, el kell végeznie a hitelesítést.
+%3$d. Ha nem Xiaomi-készüléket szeretne használni, de nem találja az elérhető eszközök listáján, próbálja ki a következőt:
+Csatlakoztassa a mobilkészülékét és a külső monitort (pl. tévéjét) is ugyanarra a hálózatra, vagy csatlakoztassa a külső monitort mobilkészülékének a hotspotjára."</string>
     <string name="help_page_text_15">A Miracast-funkció különböző eszközökön</string>
     <string name="help_page_text_16">Mi TV/Mi Projector</string>
     <string name="help_page_text_17">"A legtöbb Bluetooth-funkcióval rendelkező Mi TV modellre kivetíthet Mi telefonjáról anélkül, hogy manuálisan bekapcsolná a Miracastot.
@@ -199,7 +220,7 @@ Ha be kell kapcsolnia a Miracastot, nyomja meg a [MENU] gombot és válassza az 
     <string name="help_page_text_34">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modellen kiválaszthatja az Alkalmazások > Kivetítés > Android-eszköz > Miracast opciót.</string>
     <string name="help_page_text_35">Skyworth ügyfélszolgálat: 95105555</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modell esetén nyomja meg a(z) [SOURCE] gombot a távirányítón és válassza ki a „Képernyőtükrözés” opciót. Némelyik modellen ezt a Hálózat és Wi-Fi Direct beállítások opcióval teheti meg. Ez a funkció bizonyos modelleken alapértelmezésként be van kapcsolva.</string>
+    <string name="help_page_text_37">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\". On some other models, you can turn this feature on in Networks > WLAN Direct. This feature is turned on by default on various models.</string>
     <string name="help_page_text_38">Sony ügyfélszolgálat: 400-810-9000</string>
     <string name="help_page_text_39">Panasonic</string>
     <string name="help_page_text_40">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modellen kiválaszthatja az Alkalmazások > Képernyőtükrözés opciót.</string>
@@ -217,9 +238,9 @@ Ha be kell kapcsolnia a Miracastot, nyomja meg a [MENU] gombot és válassza az 
     <string name="help_page_text_52">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modellen kiválaszthatja a Beállítások > Hálózatok > Többképpernyő > Vezeték nélküli megjelenítés.</string>
     <string name="help_page_text_53">LeEco ügyfélszolgálat: 10109000</string>
     <string name="help_page_text_55">"Ha nem tud csatlakozni a hálózathoz, ellenőrizze, hogy a külső monitor támogatja-e a Miracast-funkciót és hogy be van-e kapcsolva. Némelyik modell esetén ezt a funkciót Vezeték nélküli megjelenítésnek, Képernyőtükrözésnek, illetve Többképernyőnek hívják. Tekintse meg az alábbi információkat és tudja meg, hogyan kapcsolhatja be a Miracastot.
-4. Ha problémába ütközik, a „Szolgáltatások és visszajelzés” alkalmazásban jelentheti."</string>
+%1$d. Ha problémába ütközik, a „Szolgáltatások és visszajelzés” alkalmazásban jelentheti."</string>
     <string name="help_page_text_55_global">"Ha nem tud csatlakozni a hálózathoz, ellenőrizze, hogy a külső monitor támogatja-e a Miracast-funkciót és hogy be van-e kapcsolva. Némelyik modell esetén ezt a funkciót Vezeték nélküli megjelenítésnek, Képernyőtükrözésnek, illetve Többképernyőnek hívják.
-4. Ha problémába ütközik, a „Szolgáltatások és visszajelzés” alkalmazásban jelentheti."</string>
+%1$d. Ha problémába ütközik, a „Szolgáltatások és visszajelzés” alkalmazásban jelentheti."</string>
     <string name="help_page_text_end">Ha eszközének márkája nem látható itt, vegye fel a kapcsolatot a kivetítési funkcióval kapcsolatos további információkért.</string>
     <string name="keyguard_security_setting_privacy_policy">Adatvédelmi Irányelvek</string>
     <string name="midnight">Éjjel</string>
@@ -339,6 +360,7 @@ A funkció használata előtt olvassa el és fogadja el &lt;a href=%1$s>Felhaszn
 　　•Férjen hozzá helyzetéhez közeli eszközök megkereséséhez"</string>
     <string name="privacy_title">Figyelem</string>
     <string name="private_protect">Személyes elemek elrejtése</string>
+    <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;</string>
     <string name="san_wait_msg_1">Kapcsolja be a vezeték nélküli felvételt a céleszközön</string>
     <string name="san_wait_msg_2">Az eszközök keresése eltarthat egy darabig…</string>
     <string name="san_wait_msg_3">A külső eszközöket egyszerűbb megtalálni, ha ugyanarra a hálózatra vannak csatlakoztatva, mint az Ön telefonja</string>
@@ -423,8 +445,10 @@ A funkció használata előtt olvassa el és fogadja el &lt;a href=%1$s>Felhaszn
     <string name="time_picker_dialog_title">Időbeállítás</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="title_activity_permission">PermissionActivity</string>
     <string name="toast_guide_show_more">Bõvebben</string>
     <string name="toast_guide_title">Fedezze fel új funkcióinkat itt</string>
+    <string name="toast_invisible_mode">"You're incognito. Can't use casting now."</string>
     <string name="toast_msg_for_multi_window">Ez a funkció nem használható Megosztott képernyővel</string>
     <string name="toast_msg_for_small_window">Annak érdekében, hogy telefonja más funkcióit is használhassa, minimalizálhatja a kivetített ablak méretét anélkül, hogy zavarná a kivetítést.</string>
     <string name="toast_nfc_dont_move">Ne tegye el a telefonját</string>

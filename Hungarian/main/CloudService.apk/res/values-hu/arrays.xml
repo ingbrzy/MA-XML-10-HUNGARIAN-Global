@@ -21,20 +21,20 @@
         <item>Zárja le távolról a készülékét, ha az elveszett</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Szinkronizálja névjegyeit, üzeneteit, jegyzeteit, naptárát és minden mást</item>
+        <item>Alkalmazások, kezdőképernyő elrendezése és háttérkép biztonsági mentése</item>
         <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>Zárolja távolról a készüléket, ha elveszett</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Szinkronizálja névjegyeit, üzeneteit, jegyzeteit, naptárát és minden mást</item>
+        <item>Alkalmazások, kezdőképernyő elrendezése és háttérkép biztonsági mentése</item>
         <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>Zárolja távolról a készüléket, ha elveszett</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
         <item>Szinkronizálja fényképeit, jegyzeteit, felvételeit és egyéb adatait</item>
-        <item>Zárja le távolról a készülékét, ha az elveszett</item>
+        <item>Zárolja távolról a készüléket, ha elveszett</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>Szinkronizálja névjegyeit, üzeneteit, jegyzeteit, naptárát és minden mást</item>
@@ -147,7 +147,7 @@
     <string-array name="settings_search_recycle_bin_pad">
         <item>Törölt elemek a Xiaomi Cloudban</item>
         <item>Fényképek, jegyzetek és egyebek visszaállítása</item>
-        <item>Lomtár,Kuka,Törölt elemek,Szemét;Visszaállítás;Felhőszolgáltatás;Xiaomi Cloud</item>
+        <item>Kuka,Törölt elemek,Lomtár;Visszaállítás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_restore_device">
         <item>Elemek visszaállítása a Xiaomi Cloudból</item>
@@ -182,7 +182,7 @@
     <string-array name="settings_search_sync_manage_pad">
         <item>Xiaomi Cloud. Az összes Mi szolgáltatás egy helyen.</item>
         <item>Bárhonnan hozzáférhet fényképeihez, jegyzeteihez és készülékeihez</item>
-        <item>Elégtelen tárhely;Tagság;Tárhely;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud;Lomtár;Kuka;Törölt elemek;Biztonság</item>
+        <item>Elégtelen tárhely;Tagság;Tárolás;Tárhely;Felhő;Szinkronizálás;Felhőszolgáltatások;Xiaomi Cloud;Kuka;Törölt elemek;Biztonság</item>
     </string-array>
     <string-array name="settings_search_wlan">
         <item>A Wi-Fi-beállítások szinkronizálása a Xiaomi Clouddal</item>

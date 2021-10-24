@@ -228,11 +228,13 @@ A megtekintéshez koppintson"</string>
     <string name="not_set">Nincs beállítva</string>
     <string name="operation_delete">Törlés</string>
     <string name="operation_send">Küldés</string>
+    <string name="permission_desc">Permissions details</string>
     <string name="permission_intro_microphone">Hang rögzítéséhez, ha a hangforrás mikrofonra van állítva</string>
     <string name="permission_intro_storage">Képernyő-felvételek mentéséhez</string>
     <string name="permission_microphone_desc">A mikrofon használata a képernyővideó-felvételek audióforrásaként</string>
     <string name="pm">DU</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
+    <string name="privacy_settings">Privacy</string>
     <string name="quit_recording">Kilépés a Képernyővideó-felvevőből</string>
     <string name="recording_failure">Nem sikerült a felvétel, kezdje elölről</string>
     <string name="recording_max_size">A felvétel leállításra és mentésre került a felső mérethatár elérése miatt. Ha még nem fejezte be, indítsa onnan újra a felvételt, ahol leállt.</string>
@@ -337,6 +339,7 @@ A megtekintéshez koppintson"</string>
     <string name="using_record_confirm_ok">Engedélyezés</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
+    <string name="view_privacy">View Privacy Policy</string>
     <string name="view_recorded_file">Érintse meg a rögzített fájl megtekintéséhez</string>
     <string name="view_recorded_videos">Felvételek megtekintése</string>
     <string name="warning_recording_when_a2dp_connect">Az Ön készüléke nem támogatja a hangfelvételeket Bluetooth-fejhallgató használata közben.</string>
