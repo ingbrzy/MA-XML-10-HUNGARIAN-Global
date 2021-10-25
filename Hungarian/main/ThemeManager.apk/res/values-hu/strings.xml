@@ -186,9 +186,7 @@
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatikus</string>
     <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Hang</string>
@@ -312,7 +310,6 @@
     <string name="incompatible_dialog_ok">Rendben</string>
     <string name="incompatible_dialog_title">Kompatibilitási problémák</string>
     <string name="is_setting_wallpaper_message">Háttérkép beállítása…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ébresztés/Riasztás</string>
     <string name="item_resource_audio_optional_color_ring">Hívásvárakoztatás hangja</string>
     <string name="item_resource_audio_optional_notification_ring">Értesítések</string>
@@ -668,7 +665,6 @@
     <string name="resource_pack_price_info">%1$s eredeti</string>
     <string name="resource_pack_warning">Figyelmeztetés! Már megvásárolt %1$d témát, az aktuális ár már nem érvényes, kérjük vásárolja meg őket külön-külön.</string>
     <string name="resource_present">Ajándék</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Ingyenes</string>
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_purchase_common_error">Hiba történt, próbálja újra</string>
@@ -797,7 +793,6 @@
     <string name="sim_one">SIM 1</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">Hasonló témák</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_file">A letöltött elemek mentéséhez</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
@@ -908,7 +903,6 @@
     <string name="theme_is_external_priority_storage">Mentés az SD-kártyára</string>
     <string name="theme_is_external_priority_storage_summary">A beállítás alkalmazásához a Téma alkalmazás újra fog indulni</string>
     <string name="theme_multiple_button_title_customize">Testreszabás</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">Nem</string>
     <string name="theme_on_the_phone_alert">Hívás alatt nem lehet lejátszani</string>
     <string name="theme_select_others">Egyéb</string>

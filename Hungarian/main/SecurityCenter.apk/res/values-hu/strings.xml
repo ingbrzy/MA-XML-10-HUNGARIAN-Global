@@ -849,7 +849,6 @@
     <string name="card_main_private_space_summary">A Második asztal használata olyan, mintha két készüléke lenne</string>
     <string name="card_main_private_space_title">Második asztal</string>
     <string name="card_main_sectool_title">Eszközök</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Létrehozás</string>
     <string name="card_main_xspace_summary">Hozzon létre két fiókot bármely alkalmazásban</string>
     <string name="card_main_xspace_title">Klónozott alkalmazások</string>
@@ -1100,7 +1099,6 @@ A szám a kivételek közé kerül, de a korábban letiltott számokról érkeze
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">Reggel</string>
-    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty" />
     <string name="empty_app">Nincs alkalmazás</string>
@@ -1174,9 +1172,7 @@ A szám a kivételek közé kerül, de a korábban letiltott számokról érkeze
     <string name="exo_download_notification_channel_name">Letöltések</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatív</string>
     <string name="exo_track_role_closed_captions">Felirat</string>
     <string name="exo_track_role_commentary">Kommentár</string>
@@ -2028,7 +2024,6 @@ Készüléke ennyivel gyorsabb: %d%%."</string>
     <string name="menu_text_license_manager">Engedélyek</string>
     <string name="menu_text_networkassistants">Adatforgalom</string>
     <string name="menu_text_networkassistants_danger">%s túlforgalm.</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s elérhető</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2037,7 +2032,6 @@ Készüléke ennyivel gyorsabb: %d%%."</string>
     <string name="menu_text_optimize_manage">Sebességgyorsítás</string>
     <string name="menu_text_optimize_manage_1">Sebességgyorsítás</string>
     <string name="menu_text_power_manager">Akkumulátor</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Eltávolítás a kivételek listájáról</string>
     <string name="menu_white">Hozzáadás a kivételekhez</string>
     <string name="mi_ime_not_used">Használja a Xiaomi által engedélyezett billentyűzetet</string>
@@ -2650,11 +2644,6 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="power_center_dialog_msg_top">Ha be van kapcsolva az Akkukímélő, a MIUI a következőket optimalizálja:</string>
     <string name="power_center_hints_scan_danger_result">Most megoldhatja az akkumulátorral kapcsolatos problémákat</string>
     <string name="power_center_list_item_auto_brightness">Automatikus képernyő-fényerősségszabályzás</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ó</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth kikapcsolása</string>
     <string name="power_center_list_item_deep_save_title">Haladó beállítások</string>
@@ -2880,7 +2869,6 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pref_normal_traffic_limit">Amikor a tervezett adat-előfizetés elfogyott</string>
     <string name="pref_open_adjust_traffic">Adatforgalmi adatok szinkronizálása a szolgáltató szerverével</string>
     <string name="pref_operator_not_set">Szolgáltató nincs beállítva</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Ha túllépi az adatforgalmi keretet</string>
     <string name="pref_package_traffic_settings">Adat-előfizetés</string>
     <string name="pref_pkg_begin_date">Számlázási időszak kezdete</string>
@@ -3122,7 +3110,6 @@ A hitelesítéskor a MIUI szöveges üzenetet fog küldeni a szolgáltatójának
     <string name="privacy_using_record">Hangrögzítés</string>
     <string name="privacyapp_number_masked_text">Az értesítés tartalma el van rejtve</string>
     <string name="privacyapp_number_unmasked_text">Az értesítés tartalma elrejthető</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Médiaszerver</string>
     <string name="process_vpnsdkmanager_label">Játékgyorsító</string>
     <string name="promotion">Reklám</string>

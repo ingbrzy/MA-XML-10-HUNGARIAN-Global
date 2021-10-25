@@ -256,7 +256,6 @@
     <string name="settings_guide_title">Szükségesek egyéb beállítások?</string>
     <string name="show_badge_notifications">Értesítések száma</string>
     <string name="show_badge_notifications_short">Jelvények</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Állapotsor</string>
     <string name="summary_aggregate_default">A promóciós és tartalmakkal kapcsolatos push értesítések csoportosítva lesznek</string>
     <string name="summary_aggregate_home">A push értesítések nem lesznek csoportosítva</string>
