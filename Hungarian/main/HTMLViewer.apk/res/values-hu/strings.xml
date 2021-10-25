@@ -37,7 +37,7 @@
     <string name="autoconnect">Automatikus csatlakozás</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="close">Bezárás</string>
-    <string name="copyright">Copyright</string>
+    <string name="copyright">Szerzői jog</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -104,7 +104,7 @@
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
     <string name="ime_privacy_policy">Billentyűzet kiválasztása</string>
-    <string name="instruction">Important safety information</string>
+    <string name="instruction">Fontos biztonsági információk</string>
     <string name="license_host_unreachable">"Nem sikerült a hálózathoz csatlakozni. Az információ megtekintéséhez
 egy másik készüléken nyissa meg ezt az oldalt: %s."</string>
     <string name="loading">Egy pillanat…</string>
@@ -185,9 +185,9 @@ egy másik készüléken nyissa meg ezt az oldalt: %s."</string>
     <string name="poco_privacy_policy">A POCO Launcher Adatvédelmi Irányelvei és Felhasználói Szerződése</string>
     <string name="policy_name">%s protokoll</string>
     <string name="pre_installed_apps">Előre telepített alkalmazások</string>
-    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy">Adatvédelmi irányelvek</string>
     <string name="privacy_station_title">A Xiaomi adatvédelme</string>
-    <string name="sar">RF Exposure Information</string>
+    <string name="sar">Rádiófrekvenciás sugárzás információ</string>
     <string name="saturday">Szombat</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
@@ -265,9 +265,9 @@ egy másik számítógépen nyissa meg ezt az oldalt: %s."</string>
     <string name="tuesday">Kedd</string>
     <string name="tuesday_short">Ked</string>
     <string name="tuesday_shortest">Ked</string>
-    <string name="user_agreement">Terms of Service</string>
-    <string name="user_experience_program">User Experience Program</string>
-    <string name="user_manual">User guide</string>
+    <string name="user_agreement">Szolgáltatási feltételek</string>
+    <string name="user_experience_program">Felhasználói visszajelzés</string>
+    <string name="user_manual">Felhasználói útmutató</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
     <string name="wednesday_shortest">Sze</string>

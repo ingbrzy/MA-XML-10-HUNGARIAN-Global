@@ -35,17 +35,8 @@
     <string name="avl_dialog_policy">Adatvédelmi Irányelvek</string>
     <string name="avl_dialog_title">Az AVL Adatvédelmi irányelvei</string>
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-    <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
     <string name="hello_world">Helló világ!</string>
     <string name="menu_settings">Beállítások</string>
-    <string name="size_byte">B</string>
-    <string name="size_giga_byte">GB</string>
-    <string name="size_kilo_byte">kB</string>
-    <string name="size_mega_byte">MB</string>
-    <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
-    <string name="size_tera_byte">TB</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tencent_dialog_cloudscan">Alkalmazások neveinek és adatainak feltöltése és átvizsgálása online adatbázisok használatával.</string>
     <string name="tencent_dialog_dbupdate">Automatikus vírus adatbázis frissítés</string>
     <string name="tencent_dialog_header">Ez a funkció titkosítja és feltölti a készülék azonosítóját a Tencent szerverére (%s).</string>

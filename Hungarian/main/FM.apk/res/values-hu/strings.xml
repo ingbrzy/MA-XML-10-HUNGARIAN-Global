@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FM Rádiószolgáltatás</string>
+    <string name="frequency_mhz_fomart">%sMHz</string>
+    <string name="notification_rec_title">Érintse meg a felvételek megtekintéséhez</string>
+    <string name="record_completed">A rögzítés befejeződött</string>
+    <string name="station_freq_format">%sMHz</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

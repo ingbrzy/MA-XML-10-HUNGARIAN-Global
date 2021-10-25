@@ -36,7 +36,6 @@
     <string name="captcha">Robotszűrő kód</string>
     <string name="change_find_device_status_failed">Nem sikerült kinyit. %s.</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
-    <string name="close">Bezárás</string>
     <string name="copy">Másolás</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -62,10 +61,10 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="evening">Délután</string>
     <string name="expand_button_title">Speciális</string>
     <string name="find_device">Készülékkeresés</string>
-    <string name="find_device_capture_done_notification_content">View the photo on i.mi.com</string>
-    <string name="find_device_capture_done_notification_title">Find device took a photo remotely</string>
-    <string name="find_device_capture_notification_content">A request to take a photo remotely with this device was submitted by your account</string>
-    <string name="find_device_capture_notification_title">Find device is about to take a photo</string>
+    <string name="find_device_capture_done_notification_content">A fénykép megtekintése az i.mi.com oldalon</string>
+    <string name="find_device_capture_done_notification_title">A Készülékkeresés távolról készített egy fényképet</string>
+    <string name="find_device_capture_notification_content">Az Ön fiókja kérést küldött a készülékkel történő távoli fényképkészítésre</string>
+    <string name="find_device_capture_notification_title">A Készülékkeresés fényképkészítésre készül</string>
     <string name="find_device_crash">A Készülékkeresés váratlanul leállt.</string>
     <string name="find_device_error_access_denied">Hozzáférés megtagadva.</string>
     <string name="find_device_error_account_sys_timeout">Nem sikerült csatlakozni a Mi Fiókhoz</string>
@@ -76,16 +75,14 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="find_device_error_server">Szerver hiba (%s).</string>
     <string name="find_device_error_unknown">Ismeretlen hiba (%s).</string>
     <string name="find_device_noise_title">Készülékkeresés hangriasztása</string>
-    <string name="find_device_notice">Lépjen be az &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> oldalra a készülék megkereséséhez és zárolásához, elveszettként való megjelöléséhez, adatok törléséhez vagy fényképek távolról történő készítéséhez.</string>
+    <string name="find_device_notice">Ha a készülék elveszett, látogasson el az &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> oldalra, hogy távolról megkeresse, zárolja vagy törölje az adatokat.</string>
     <string name="find_device_notice_sms_alert_with_common_charge_hint">A SIM állapotának frissítése és az összes szolgáltatás normális működésének biztosítása érdekében a SIM-kártya cseréje után egy &lt;font color=#0097FF>&lt;b>fizetett szöveges üzenetet&lt;/b>&lt;/font> küldünk. Az üzenetért a szolgáltatója díjat fog önnek felszámolni.</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">A SIM állapotának frissítése és az összes szolgáltatás normális működésének biztosítása érdekében a SIM-kártya cseréje után egy &lt;font color=#0097FF>&lt;b>belföldi fizetett szöveges üzenetet&lt;/b>&lt;/font> küldünk. Az üzenetért a szolgáltatója díjat fog önnek felszámolni.</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">A SIM állapotának frissítése és az összes szolgáltatás normális működésének biztosítása érdekében a SIM-kártya cseréje után egy &lt;font color=#0097FF>&lt;b>nemzetközi fizetett szöveges üzenetet&lt;/b>&lt;/font> küldünk. Az üzenetért a szolgáltatója díjat fog önnek felszámolni.</string>
     <string name="find_device_stop_noise">OK gombra némítás</string>
-    <string name="find_device_storage_corrupted">A Készülékkeresés tárhelye sérült. A telefon most nem biztonságos.</string>
+    <string name="find_device_storage_corrupted">A Készülékkeresés tárhelye sérült. A készülék most nem biztonságos.</string>
     <string name="find_device_success_title">Készülékkeresés bekapcsolva</string>
     <string name="find_device_telephony_fault">Készülékkeresés: telefonálás hiba (%s).</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">MMMM dd</string>
@@ -101,11 +98,7 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="fmt_date_short_month_day">MM.dd.</string>
     <string name="fmt_date_short_year_month">yyyy. MMM</string>
     <string name="fmt_date_short_year_month_day">yyyy.MM.dd.</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -124,18 +117,8 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
@@ -229,7 +212,6 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
     <string name="search_menu_title">Keresés</string>
-    <string name="send">Küldés</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">A Robotszűrő kód nem lehet üres</string>
     <string name="stop_on_empty_password">A jelszó nem lehet üres</string>

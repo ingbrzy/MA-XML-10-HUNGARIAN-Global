@@ -109,7 +109,7 @@
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d.</string>
     <string name="fmt_date_short_year_month">yyyy. MMM</string>
-    <string name="fmt_date_short_year_month_day">yyyy. MMM. d.</string>
+    <string name="fmt_date_short_year_month_day">yyyy. MMM d.</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -128,11 +128,11 @@
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'perc'"</string>
-    <string name="fmt_time_minute_second">"m'perc' s'mp'"</string>
-    <string name="fmt_time_minute_second_millis">"m'perc' s.S'mp'"</string>
-    <string name="fmt_time_second">"s'mp'"</string>
-    <string name="fmt_time_second_millis">"s.S'mp'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -264,6 +264,7 @@
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>

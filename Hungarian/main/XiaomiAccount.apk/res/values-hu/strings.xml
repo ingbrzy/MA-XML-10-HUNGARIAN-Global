@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
     <string name="about_device_info">Készülék adatainak megtekintése</string>
+    <string name="accept">Engedélyezés</string>
     <string name="access_token_expired_warning">A Weibo fiók lejárt</string>
     <string name="access_token_invalid_warning">A Weibo fiók érvénytelen</string>
     <string name="account">Fiók</string>
@@ -107,6 +108,7 @@
     <string name="binded_description" formatted="false">"A következö: %s hozzá lett kapcsolva az Ön Mi fiókjához.
 Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Mi fiókjába."</string>
     <string name="button_unbind">Lecsatlakozás</string>
+    <string name="cancel">Mégse</string>
     <string name="change_activate_email">E-mail cím módosítása</string>
     <string name="change_email_address">E-mail cím módosítása</string>
     <string name="change_password">Jelszó módosítása</string>
@@ -180,6 +182,7 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Mi fiókjába."</strin
     <string name="delete_device_btn">Eltávolítás</string>
     <string name="delete_device_failed">Nem távolítható el a készülék</string>
     <string name="delete_device_notice">A készülék eltávolítása után automatikusan ki lesz jelentkezve a Mi Fiókból. Nem fog tudni hozzáférni a fiókban tárolt fényképekhez, üzenetekhez és az egyéb ott tárolt tartalmakhoz.</string>
+    <string name="deny">Elutasítás</string>
     <string name="device_delete_success_message">Ha nem jelentkezett be erről a készülékről, azonnal változtassa meg a jelszavát.</string>
     <string name="device_delete_success_title">Kijelentkezve</string>
     <string name="device_list__header">Készülékeim</string>
@@ -193,6 +196,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="early_morning">Reggel</string>
     <string name="empty" />
     <string name="empty_device_list_notice">Nincsenek készülékek</string>
+    <string name="enable">Beállítások</string>
     <string name="ep_unsupported">Nem tud bejelentkezni a Mi Fiókjába a készülékével</string>
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
@@ -301,6 +305,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="get_phone_verifycode_exceed_limit">Túl sok ellenőrző kód lett elküldve erre a telefonszámra. Várjon 24 órát és próbálja újra.</string>
     <string name="google">Google</string>
     <string name="google_login">Jelentkezzen be a Google-lal</string>
+    <string name="goto_accept">OK</string>
     <string name="guest_account_label">MI Vendég fiók</string>
     <string name="health_action_activate">Aktiválás</string>
     <string name="health_action_install">Telepítés</string>
@@ -325,9 +330,11 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="kr_permission_sms_desc">A hitelesítőkódok automatikus kitöltéséhez</string>
     <string name="kr_permission_storage_desc">A diagnosztikák mentéséhez</string>
     <string name="loading_micloud_sync_data">Egy pillanat…</string>
+    <string name="login_3rd_app_with_system_account">Bejelentkezés ide: %s</string>
     <string name="login_check_find_device">Készülék biztonsági adatainak ellenőrzése…</string>
     <string name="login_check_find_device_failed_title">A készülék biztonsági adatainak lekérése sikertelen</string>
     <string name="login_find_device_bind">Ez a készülék egy meglévő Mi Fiók azonosítóhoz (%s) tartozik.</string>
+    <string name="login_with_other">További lehetőségek</string>
     <string name="logout_account">Kijelentkezés</string>
     <string name="logout_failed">Sikertelen kijelentkezés</string>
     <string name="mi_account_identity_title">Személyazonosság igazolása</string>
@@ -459,7 +466,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="passport_activing_account">Aktiválás…</string>
     <string name="passport_adding_account">Fiók hozzáadása…</string>
     <string name="passport_area_code_hot">GYAKRAN HASZNÁLT</string>
-    <string name="passport_area_code_others">Más előtag használata</string>
     <string name="passport_area_code_title">Ország hívószám</string>
     <string name="passport_auto_generate_pwd">Biztonságos jelszó generálása</string>
     <string name="passport_back">Vissza</string>
@@ -686,10 +692,14 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="passport_yes">Igen</string>
     <string name="password_view_hide_password">Jelszó elrejtése</string>
     <string name="password_view_show_password">Jelszó megjelenítése</string>
+    <string name="permission_desc_read_sms">Az ellenőrzőkódok automatikus kitöltéséhez</string>
+    <string name="permission_desc_write_external_storage">A visszajelzésekhez tartozó naplók feltöltéséhez</string>
     <string name="permission_group_contacts">Névjegyek</string>
     <string name="permission_group_phone">Telefon</string>
     <string name="permission_group_sms">SMS</string>
     <string name="permission_group_storage">Tárhely</string>
+    <string name="permission_read_sms">Hozzáférés az üzenetekhez</string>
+    <string name="permission_write_external_storage">Tárhely-hozzáférés és elemek mentése a tárhelyre</string>
     <string name="personal_info_desc">Fénykép, becenév és sok más</string>
     <string name="phone_num_use_for">A telefonszám használata a következőhöz:</string>
     <string name="photoPickerNotFoundText">Nincs elérhető fénykép.</string>
@@ -708,6 +718,12 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="recycle_phone_notification_title">Mi Fiók biztonsági kockázat</string>
     <string name="removing_account">Kijelentkezés…</string>
     <string name="replace_binded_phone">Telefon lecserélése</string>
+    <string name="request_open_permission">Engedély szükséges</string>
+    <string name="request_use_camera_message">Engedélyezi a Mi Fióknak, hogy hozzáférjen telefonja kamerájához?</string>
+    <string name="request_use_camera_title">Hozzáférés a kamerához</string>
+    <string name="request_use_gallery_message">Engedélyezi a Mi Fióknak, hogy hozzáférjen a Galériához?</string>
+    <string name="request_use_gallery_title">Hozzáférés a Galériához</string>
+    <string name="request_use_writing_clipboard_message">A Mi Fiók azonosító másolásához engedélyezze a Mi Fióknak, hogy elemeket mentsen a vágólapra.</string>
     <string name="resend_active_email">Újraküldés</string>
     <string name="resend_email_reach_limit_message">Túl sok ellenőrző e-mail kérelem érkezett. Ellenőrizze, hogy az ellenőrző e-mail nem a Spam mappába került.</string>
     <string name="resend_email_reach_limit_title">Nem küldhető el az e-mail</string>
@@ -840,6 +856,10 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="used_cloud_storage_info">Felhasznált: %s</string>
     <string name="user_avatar_update_title">Profilkép módosítása</string>
     <string name="user_avatar_uploading">Egy pillanat…</string>
+    <string name="user_instruction_all_purpose">Üdvözöljük a Mi Fiókban! Fiókjával hozzáférhet a Xiaomi és társvállalatai által kínált szolgáltatásokhoz, mint például a Mi.com, a Xiaomi Cloud, vagy a GetApps. Mi Coins-t szerezhet, virtuális termékeket vásárolhat, és élvezheti az értékkel növelt szolgáltatásokat, így játékokat, témákat és e-könyveket.</string>
+    <string name="user_instruction_tip">Olvassa el és fogadja el a Felhasználási feltételeket a bejelentkezéshez.</string>
+    <string name="user_license_with_3rd_app">&lt;Data>A Mi Fiókkal történő bejelentkezéssel megerősítem, hogy elolvastam és elfogadtam a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelveket&lt;/a>, valamint a Mi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelveit&lt;/a>.&lt;/Data></string>
+    <string name="user_license_without_3rd_app">&lt;Data>Elovastam és elfogadom a Mi Fiók &lt;a href=%1$s>Felhasználói szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelveit&lt;/a>.&lt;/Data></string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
     <string name="vip_account_settings">VIP beállítások</string>

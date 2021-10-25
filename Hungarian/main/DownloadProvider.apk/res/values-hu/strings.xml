@@ -10,6 +10,7 @@
     <string name="download_queued">Várakozik</string>
     <string name="download_remaining">%s van hátra</string>
     <string name="download_running">Letöltés</string>
+    <string name="download_running_percent">Letöltés %s</string>
     <string name="download_unknown_title">&lt;Névtelen></string>
     <string name="notif_title_file_size">%1$d összesen</string>
     <string name="notif_title_single_downloading">%1$s letöltése</string>
