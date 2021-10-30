@@ -1,3 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+      <string name="app_name">Rendszerfrissítő</string>
+    <string name="battery_islow">&lt;font color=#f37981>Csatlakoztassa a töltőt&lt;/font></string>
+    <string name="battery_islow_desc">Az akkumulátor töltöttsége alacsony a folyamat biztonságos elvégzéséhez. Kérem, csatlakoztassa a töltőt és próbálja újra!</string>
+    <string name="btn_changelog">Változásnapló</string>
+    <string name="btn_download">Letöltés (%1$s)</string>
+    <string name="btn_error">Hiba történt. Megpróbálja újra?</string>
+    <string name="btn_install">Ellenőrzés és telepítés</string>
+    <string name="btn_no">Mégse</string>
+    <string name="btn_ok">Rendben</string>
+    <string name="btn_pause">Felfüggesztés</string>
+    <string name="btn_share">Megosztás</string>
+    <string name="btn_stop">Megszakítás</string>
+    <string name="btn_wrong_md5">Hibás ellenőrzőösszeg. Kattintson a frissítőcsomag törléséhez!</string>
+    <string name="btn_yes">Igen</string>
+    <string name="channel_downloading">Letöltési folyamat</string>
+    <string name="channel_service">Rendszerfrissítő háttérszolgáltatás</string>
+    <string name="channel_update">Új verzió érhető el</string>
+    <string name="check_new_version">Frissítés keresése</string>
+    <string name="default_filedownloader_notification_content">FileDownloader fut.</string>
+    <string name="default_filedownloader_notification_title">FileDownloader</string>
+    <string name="dialog_3g_desc">Nem javasolt mobiladat használata a frissítés letöltéséhez. A frissítés mérete miatt jelentősen csökkenhat az adatkerete.</string>
+    <string name="dialog_3g_title">Figyelem!</string>
+    <string name="dialog_btn_3g">Folytatás mindenképp</string>
+    <string name="dialog_btn_wifi">Váltás Wi-Fi hálózatra</string>
+    <string name="dialog_stop_desc">A frissítés letöltését felfüggesztheti vagy megszakíthatja.</string>
+    <string name="dialog_stop_title">Megszakítja a letöltést?</string>
+    <string name="dialog_twrp">A telefon tárhelye titkosított. Újraindítást követően helyreállítási üzemmódban szükséges lesz jelszava megadása a folytatáshoz.</string>
+    <string name="download_done">Letöltés befejeződött.</string>
+    <string name="download_fail">Hiba történt a letöltés során.</string>
+    <string name="download_fail_desc">Az ellenőrzőösszeg eltér…</string>
+    <string name="downloading">Letöltés:</string>
+    <string name="downloading_desc">Letöltés folyamatban, állapotát nyomonkövetheti az értesítési sávon.</string>
+    <string name="fetching_data">Letöltési hivatkozás visszafejzése, kérem, várjon…</string>
+    <string name="install_desc">Az eszköz hamarosan újraindul helyreállítási üzemmódban és folytatja az alábbi csomag telepítését: <b>%1$s</b>"
+A felhasználói adatok érintetlenek maradnak."</string>
+    <string name="install_title">Valóban folytatja?</string>
+    <string name="menu_title_current_version_log">Mi változott?</string>
+    <string name="menu_title_pick_rom_file">Frissítőcsomag kiválasztása</string>
+    <string name="menu_title_recovery">Újraindítás helyreállító üzemmódban</string>
+    <string name="message_checkbox">A Xiaomi.eu csapattól érkező üzenetek elrejtése végleg</string>
+    <string name="message_checkbox_device">Ne mutassa újra</string>
+    <string name="message_title">MEGJEGYZÉS</string>
+    <string name="new_version">Új verzió érhető el!</string>
+    <string name="no_info">Nem áll rendelkezésre információ.</string>
+    <string name="no_mirror">Jelenleg egyetlen kiszolgáló sem érhető el. Próbálja újra később…</string>
+    <string name="no_network">Nincs internet-kapcsolat.</string>
+    <string name="no_update">Az eszköz naprakész.</string>
+    <string name="no_xioamieu">"Ön nem a Xiaomi.eu csapata által kiadott szoftvert használja.
+Nincs az ön számára elérhető frissítés."</string>
+    <string name="notif_cancel">Mégse</string>
+    <string name="notif_install">Telepítés</string>
+    <string name="notif_new_summary">Érintse meg a részletek megtekintéséhez</string>
+    <string name="notif_new_title">Új verzió érhető el.</string>
+    <string name="notif_service_summary">Tartsa nyomva a \"háttérszolgáltatás\" értesítéseinek letiltásához!</string>
+    <string name="notif_service_title">Az alkalmazás háttérben fut…</string>
+    <string name="notifications_switch">Értesítések megjelenítése</string>
+    <string name="permdesc_cache_filesystem">Engedélyezi az alkalmazás számára a /cache partíció írását.</string>
+    <string name="permdesc_reboot">Újraindítás engedélyezése az alkalmazás számára.</string>
+    <string name="permlab_cache_filesystem">Gyorsítótár írási engedély</string>
+    <string name="permlab_reboot">Újraindítási engedély</string>
+    <string name="pick_not_found">Nem található megfelelő fájlkezelő.</string>
+    <string name="pick_title">Válasszon az alábbiak közül:</string>
+    <string name="recovery_desc">Az eszköz hamarosan újraindul helyreállító üzemmódban. Ha nem ismeri ezt az üzemmódot javasolt a művelet megszakítása. Folytatja?</string>
+    <string name="server_error">A kiszolgáló nem elérhető. Lehetséges, hogy az alkalmazás hibás.</string>
+    <string name="share_desc">A MIUI a(z) %1$s verzióra frissült. A változásokról itt olvashat: %2$s</string>
+    <string name="share_title">Megosztás</string>
+    <string name="stable">Végleges</string>
+    <string name="version">Jelenlegi verzió:</string>
+    <string name="weekly">Heti</string>
+    <string name="wifi_recommended">Nincs WiFi kapcsolat a letöltés biztonságos megkezdéséhez.</string>
 </resources>
