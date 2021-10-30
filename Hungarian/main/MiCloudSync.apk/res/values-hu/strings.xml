@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">MiCloudSync</string>
+    <string name="error_data_in_transfer">Szinkronizálás befejeződik %s órán belül.</string>
+    <string name="error_forbidden">Szinkronizálás kikapcsolásra került a Mi Fiókkal kapcsolatos hibák miatt.</string>
+    <string name="error_not_acceptable">Szinkronizálás kikapcsolva.</string>
+    <string name="error_title">Szinkronizálás sikertelen</string>
+    <string name="error_unauthorized">Szinkronizálás kikapcsolásra került a túl sok bejelentkezési kísérlet miatt.</string>
+    <string name="micloud_downloading_clipboard_message_from_web">Vágólap: Üzenet érkezett a számítógépről</string>
+    <string name="micloud_send_message_desc">Mi Üzenet küldése</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
