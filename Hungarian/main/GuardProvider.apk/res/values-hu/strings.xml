@@ -12,8 +12,8 @@
     <string name="avast_dialog_cloudscan" />
     <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_header">Ez a funkció titkosítja és feltölti a készülék azonosítóját az Avast szerverére (%s).</string>
-    <string name="avast_dialog_policy">Adatvédelmi Irányelvek</string>
-    <string name="avast_dialog_title">Az Avast Adatvédelmi irányelvei</string>
+    <string name="avast_dialog_policy">Adatvédelmi irányelvek</string>
+    <string name="avast_dialog_title">Az Avast adatvédelmi irányelvei</string>
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">A vírus egy adware. Automatikusan reklámokat jelenít meg.</string>
     <string name="avast_virus_type_cryportor_description">A vírus egy cryptor. Ez egy rosszindulatú szoftver, mely lemásolja magát a tárhelyen.</string>
@@ -35,13 +35,30 @@
     <string name="avl_dialog_policy">Adatvédelmi Irányelvek</string>
     <string name="avl_dialog_title">Az AVL Adatvédelmi irányelvei</string>
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
+    <string name="common_ids_permission_label">Avast common ids permission</string>
+    <string name="default_sdcard_volume_path" />
+    <string name="default_web_client_id">484664152262-6lfq5kfidvg0o6jrnr26kf5ueijooli4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId">484664152262</string>
+    <string name="google_api_key">AIzaSyDaFcvaCIcen1MFnR8VIUpuEnJsKpsKYJA</string>
+    <string name="google_app_id">1:484664152262:android:bbb10594123b82ad1247c7</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDaFcvaCIcen1MFnR8VIUpuEnJsKpsKYJA</string>
+    <string name="google_storage_bucket">guardprovider-c3e77.appspot.com</string>
     <string name="hello_world">Helló világ!</string>
     <string name="menu_settings">Beállítások</string>
+    <string name="project_id">guardprovider-c3e77</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">kB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="tencent_dialog_cloudscan">Alkalmazások neveinek és adatainak feltöltése és átvizsgálása online adatbázisok használatával.</string>
     <string name="tencent_dialog_dbupdate">Automatikus vírus adatbázis frissítés</string>
     <string name="tencent_dialog_header">Ez a funkció titkosítja és feltölti a készülék azonosítóját a Tencent szerverére (%s).</string>
-    <string name="tencent_dialog_policy">Adatvédelmi Irányelvek</string>
-    <string name="tencent_dialog_title">A Tencent Adatvédelmi irányelvei</string>
+    <string name="tencent_dialog_policy">Adatvédelmi irányelvek</string>
+    <string name="tencent_dialog_title">A Tencent adatvédelmi irányelvei</string>
     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
     <string name="title_activity_main">MainActivity</string>
 </resources>
