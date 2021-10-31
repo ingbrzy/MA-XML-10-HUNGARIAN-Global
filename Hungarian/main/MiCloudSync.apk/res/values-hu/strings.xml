@@ -9,5 +9,4 @@
     <string name="micloud_downloading_clipboard_message_from_web">Vágólap: Üzenet érkezett a számítógépről</string>
     <string name="micloud_send_message_desc">Mi Üzenet küldése</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
