@@ -6814,7 +6814,7 @@ A szolgáltatásaink használata előtt olvassa el és fogadja el a következőt
     <string name="sound_category_system_title">Rendszer</string>
     <string name="sound_dashboard_summary">Hangerő, rezgés, Ne zavarjanak</string>
     <string name="sound_effects_enable_title">Az érintés hangja</string>
-    <string name="sound_haptic_settings">Hang&amp; érintés</string>
+    <string name="sound_haptic_settings">Hang és érintés</string>
     <string name="sound_mode">Néma mód</string>
     <string name="sound_settings">Hang</string>
     <string name="sound_settings_example_summary">Csörgetés és értesítések hangereje 80%-on</string>
