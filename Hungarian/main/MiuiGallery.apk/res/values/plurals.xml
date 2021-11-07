@@ -62,8 +62,8 @@
         <item quantity="one">Shared to %d person</item>
     </plurals>
     <plurals name="album_count">
-        <item quantity="other">%d photos</item>
-        <item quantity="one">%d photo</item>
+        <item quantity="other">%d fotó</item>
+        <item quantity="one">%d fotó</item>
     </plurals>
     <plurals name="album_count_and_size">
         <item quantity="other">%1$d items | %2$s</item>
@@ -74,7 +74,7 @@
         <item quantity="one">(%d item)</item>
     </plurals>
     <plurals name="album_item_msg_format_new">
-        <item quantity="other">%d albums</item>
+        <item quantity="other">%d album</item>
         <item quantity="one">%d album</item>
     </plurals>
     <plurals name="album_member">
@@ -110,16 +110,16 @@
         <item quantity="one">Pause syncing photos, videos, contacts, notes, and other items with the cloud for %d minute.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
-        <item quantity="other">%1$d photos and videos | %2$s</item>
-        <item quantity="one">%1$d photo or video | %2$s</item>
+        <item quantity="other">%1$d fotó és videó | %2$s</item>
+        <item quantity="one">%1$d fotó és videó | %2$s</item>
     </plurals>
     <plurals name="backuping_desc_normal">
-        <item quantity="other">%1$d photos and videos</item>
-        <item quantity="one">%1$d photo or video</item>
+        <item quantity="other">%1$d fotó és videó</item>
+        <item quantity="one">%1$d fotó és videó</item>
     </plurals>
     <plurals name="burst_image_download_item_title_count">
-        <item quantity="other">%d photos</item>
-        <item quantity="one">%d photo</item>
+        <item quantity="other">%d fotó</item>
+        <item quantity="one">%d fotó</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
         <item quantity="other">"Delete %d photos that you didn't select?"</item>
@@ -134,12 +134,12 @@
         <item quantity="one">Keep %d selected photo</item>
     </plurals>
     <plurals name="cloud_storage_photo_num">
-        <item quantity="other">%d photos</item>
-        <item quantity="one">%d photo</item>
+        <item quantity="other">%d fotó</item>
+        <item quantity="one">%d fotó</item>
     </plurals>
     <plurals name="cloud_storage_video_num">
-        <item quantity="other">%d videos</item>
-        <item quantity="one">%d video</item>
+        <item quantity="other">%d videó</item>
+        <item quantity="one">%d videó</item>
     </plurals>
     <plurals name="cloud_storage_warn_title_link">
         <item quantity="other">"Couldn't sync %d items due to insufficient cloud storage"</item>
