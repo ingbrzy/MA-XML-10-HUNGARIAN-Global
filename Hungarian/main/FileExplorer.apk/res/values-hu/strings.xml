@@ -100,6 +100,12 @@
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
+    <string name="home_action_up">Vissza</string>
+    <string name="home_title">Fájlkezelő</string>
+    <string name="homepage_tab_category">Kategóriák</string>
+    <string name="homepage_tab_file_view_phone">Tárhely</string>
+    <string name="homepage_tab_recent">Előzmények</string>
+    <string name="hot_sticker">Matricák</string>
     <string name="midnight">Éjjel</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
