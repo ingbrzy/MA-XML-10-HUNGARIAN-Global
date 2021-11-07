@@ -11,8 +11,8 @@
         <item>Szürke</item>
     </string-array>
     <string-array name="acc_magic_matting_background_description">
-        <item>Select image</item>
-        <item>Transparent background</item>
+        <item>Kép kiválasztása</item>
+        <item>Átlátszó háttérkép</item>
     </string-array>
     <string-array name="activities_title">
         <item>Special day</item>
@@ -83,8 +83,8 @@
         <item>@string/pm</item>
     </string-array>
     <string-array name="baby_sexy">
-        <item>Boy</item>
-        <item>Girl</item>
+        <item>fiú</item>
+        <item>lány</item>
     </string-array>
     <string-array name="baby_sexy_value">
         <item>male</item>
