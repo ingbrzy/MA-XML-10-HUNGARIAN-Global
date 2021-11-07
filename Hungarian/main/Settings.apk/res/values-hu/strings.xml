@@ -2625,6 +2625,7 @@ A létrehozott naplókat a Fájlkezelőben tekintheti meg."</string>
     <string name="emergency_address_title">Vészhelyzeti cím</string>
     <string name="emergency_info_summary">Adatok és névjegyek: %1$s</string>
     <string name="emergency_info_title">Segélyhívási információk</string>
+    <string name="emergency_settings_preference_title">Biztonság és segélyhívás</string>
     <string name="emergency_sos_title">Vészhelyzeti segélykérés</string>
     <string name="emergency_tone_alert">Hangjelzések</string>
     <string name="emergency_tone_silent">Néma</string>
