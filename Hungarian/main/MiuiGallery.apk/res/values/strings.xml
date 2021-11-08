@@ -214,7 +214,6 @@
     <string name="art_still_download_sdk_without_wifi_msg_china">"Looks like your device isn't connected to Wi-Fi. Download the plug-in using mobile data?"</string>
     <string name="art_still_download_sdk_without_wifi_title">Download \"Art\" plug-in</string>
     <string name="art_still_load_data_fail">"Couldn't load data"</string>
-    <string name="art_still_module_failed">@string/error_install_connect_fail</string>
     <string name="art_still_module_finish">Downloaded \"Art\" plug-in successfully</string>
     <string name="art_still_module_loading">Downloading \"Art\" plug-in…</string>
     <string name="assistant_page_community">Community</string>
@@ -331,7 +330,6 @@
     <string name="blackshark_phone">Black Shark</string>
     <string name="blank_app_name" />
     <string name="blur_refocus_enter" />
-    <string name="both_stroke_and_substrate_are_not_supported">@string/text_edit_dialog_style_toast</string>
     <string name="browse_category_title">Browse</string>
     <string name="btn_cancel">Mégse</string>
     <string name="btn_cancel_send">Cancel this transfer</string>
@@ -359,7 +357,6 @@
     <string name="by_sms">SMS</string>
     <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">Camera album must be synced</string>
-    <string name="camera_path">/DCIM/Camera</string>
     <string name="can_authorize_owner_albums_share_to_tv">Authorize viewing albums on your TV</string>
     <string name="can_not_transfer_when_screening">"Can't cast during transfers"</string>
     <string name="cancel">Mégse</string>
@@ -381,7 +378,6 @@
     <string name="card_description_annual_peoples">Faces, stories, places</string>
     <string name="card_description_annual_pets">Tails, paws, and whiskers</string>
     <string name="card_description_annual_travel">Things you saw while on the road</string>
-    <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_activities">Events</string>
     <string name="card_title_annual_babys">The cutie in %1$s</string>
     <string name="card_title_annual_events">My parties in %1$s</string>
@@ -396,7 +392,6 @@
     <string name="card_title_pastyear_party">Last-year parties</string>
     <string name="card_title_pastyear_sports">Last-year workouts</string>
     <string name="card_title_recent_memory">Recent memories</string>
-    <string name="card_title_somewhere">%1$s</string>
     <string name="card_title_sports">Workouts</string>
     <string name="card_title_three_month_baby">Time flies</string>
     <string name="cast_devices_unavailable_desc">Make sure both this device and the projector are connected to the same Wi-Fi network</string>
@@ -1269,7 +1264,6 @@ Take more photos of your friends!"</string>
     <string name="face_name_edit">Edit</string>
     <string name="face_name_input">Enter name</string>
     <string name="face_recommend">Recommendations</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Couldn't complete operation"</string>
     <string name="fail_to_pick_email">Invalid email address</string>
     <string name="fail_to_sync_album">"Couldn't sync album. Check your data connection and try again."</string>
@@ -1280,7 +1274,6 @@ Take more photos of your friends!"</string>
     <string name="feature_guidance_photo_effects">"New photo effects
 are available"</string>
     <string name="feature_guidance_video_editor_smart_effects">New effects are available</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">"Can't print this item."</string>
     <string name="file_cannot_screen_throw">"Can't cast this item."</string>
     <string name="file_sending">Transferring files…</string>
@@ -1530,7 +1523,6 @@ are available"</string>
     <string name="grant_permission_go_and_set">Set</string>
     <string name="grant_permission_go_and_set_2">Settings</string>
     <string name="grant_permission_go_and_set_3">Settings</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_shortcut">Allow this app to create Home screen shortcuts first.</string>
     <string name="grant_permission_storage">Allow this app to access storage first.</string>
     <string name="grant_permission_storage_unlock">Unlock your device and allow this app to access storage first.</string>
@@ -1602,7 +1594,6 @@ are available"</string>
     <string name="id_photo_download_sdk_without_wifi_msg_china">"Looks like your device isn't connected to Wi-Fi. Download the plug-in using mobile data?"</string>
     <string name="id_photo_download_sdk_without_wifi_title">Download \"ID\" plug-in</string>
     <string name="id_photo_load_data_fail">"Couldn't load data"</string>
-    <string name="id_photo_module_failed">@string/error_install_connect_fail</string>
     <string name="id_photo_module_finish">Downloaded \"ID\" plug-in successfully</string>
     <string name="id_photo_module_loading">Downloading \"ID\" plug-in…</string>
     <string name="ignore_album">"Don't show"</string>
@@ -1745,7 +1736,6 @@ are available"</string>
     <string name="magic_matting_error_px">"This image size isn't supported"</string>
     <string name="magic_matting_face_fail">"Couldn't process face"</string>
     <string name="magic_matting_load_data_fail">"Couldn't load data"</string>
-    <string name="magic_matting_module_failed">@string/error_install_connect_fail</string>
     <string name="magic_matting_module_finish">Downloaded \"Magic\" plug-in successfully</string>
     <string name="magic_matting_module_loading">Downloading \"Magic\" plug-in…</string>
     <string name="magic_max_px">This image is too big</string>
@@ -1793,9 +1783,6 @@ are available"</string>
     <string name="manual_hide_state">Added \".nomedia\" files successfully</string>
     <string name="map_album">Map</string>
     <string name="map_album_detail_page_title">Location</string>
-    <string name="map_common_download_failed_for_network_msg">@string/magic_matting_download_failed_for_notwork</string>
-    <string name="map_common_download_failed_msg">@string/magic_matting_load_data_fail</string>
-    <string name="map_common_library_loading_msg">@string/loading</string>
     <string name="map_enable_position_service_message">To view photos and videos on the map, turn on location services first.</string>
     <string name="map_enable_position_service_title">Turn on location services</string>
     <string name="map_grant_position_permission_after_declined_twice_message">To view photos and videos on the map, allow Gallery to access your location first.</string>
@@ -2162,7 +2149,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="people_mark_mode_title_no_mark_name">Select a person</string>
     <string name="people_page_label">People</string>
     <string name="people_page_unname">Unnamed</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">For signing in and managing system account</string>
     <string name="permission_account_name">Access accounts</string>
     <string name="permission_clipboard_desc">For accessing and saving items to clipboard</string>
@@ -2176,7 +2162,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="permission_phone_name">Phone</string>
     <string name="permission_require_category">Mandatory permissions</string>
     <string name="permission_storage_desc">For storing, displaying, editing, syncing, and downloading your photos and videos</string>
-    <string name="permission_storage_desc_2">@string/permission_storage_desc</string>
     <string name="permission_storage_name">Storage</string>
     <string name="permission_storage_name_2">Access and save photos and files on device</string>
     <string name="permission_use_desc">Permissions</string>
@@ -2189,7 +2174,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="photo_editor_beautify_auto">Auto</string>
     <string name="photo_editor_beauty_compare">Original</string>
     <string name="photo_editor_common_download_failed">"Couldn't download plug-in. Check your network settings and try again."</string>
-    <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">Downloaded plug-in successfully</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">"Looks like you aren't connected to Wi-Fi. Download plug-in (%1$d MB) using mobile data?"</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Download plug-in</string>
@@ -2275,7 +2259,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="photo_editor_talkback_crop_9_18">Nine by eighteen</string>
     <string name="photo_editor_talkback_crop_free">Free</string>
     <string name="photo_editor_talkback_crop_mirror">Mirror</string>
-    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">Original</string>
     <string name="photo_editor_talkback_crop_reset">Reset</string>
     <string name="photo_editor_talkback_crop_right_rotate">Rotate 90 degrees</string>
@@ -2299,14 +2282,11 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="photo_editor_talkback_sky_audio_open">Play sound</string>
     <string name="photo_editor_talkback_undo">Undo</string>
     <string name="photo_editor_text">Text</string>
-    <string name="photo_editor_transition_image_view">photo_view</string>
     <string name="photo_font_cancel_download">Cancel</string>
     <string name="photo_font_download">Download</string>
     <string name="photo_font_download_failed_for_notwork">"Couldn't download. Connect to the network and try again."</string>
     <string name="photo_font_download_without_wifi_msg">"Using mobile data connection to download files will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
     <string name="photo_font_download_without_wifi_title">Data usage warning</string>
-    <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
-    <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
     <string name="photo_movie_module_finish">Loaded Clips successfully</string>
     <string name="photo_movie_module_loading">Loading Clips…</string>
     <string name="photo_movie_select_image_range">Clips can contain %1$d-%2$d photos</string>
@@ -2330,8 +2310,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="photo_save_to_msg">Saved to %s</string>
     <string name="photo_size_not_support">"This image resolution isn't supported"</string>
     <string name="photo_video_count">%1$s and %2$s</string>
-    <string name="photo_vlog_menu_loading">@string/photo_print_menu_loading</string>
-    <string name="photo_vlog_module_failed">@string/error_install_connect_fail</string>
     <string name="photo_vlog_module_finish">Downloaded video editor successfully</string>
     <string name="photo_vlog_module_loading">Downloading video editor…</string>
     <string name="photodetail_failed_already_exist">This file already exists</string>
@@ -2439,7 +2417,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="projection_switch_title">Switch to</string>
     <string name="projection_video_quit">Tap to exit</string>
     <string name="prompt_not_support_format">"Can't use this image to create a magic vignette"</string>
-    <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
     <string name="public_url_descript">Anyone can view your album using this URL</string>
     <string name="publish_failed">"Couldn't publish"</string>
     <string name="publish_succeeded">Album published</string>
@@ -2565,18 +2542,13 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="screen_editor_btn_save">Save</string>
     <string name="screen_editor_btn_shell_off">Remove device frame</string>
     <string name="screen_editor_btn_shell_on">Add device frame</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">"Can't crop screenshots with device frame"</string>
     <string name="screen_editor_delete_dialog_msg">Delete this screenshot?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Done</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">"Can't add device frame to cropped screenshots"</string>
     <string name="screen_editor_shell_net_error">Connect to the network to download device frame</string>
     <string name="screen_editor_shell_res_downloading">Downloading device frame…</string>
     <string name="screen_editor_shell_storage_insufficient">"Can't download device frame due to insufficient storage space"</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Cancel</string>
     <string name="screen_save_dialog_btn_delete">Delete screenshot</string>
     <string name="screen_save_dialog_btn_save">Save to Gallery</string>
@@ -2652,9 +2624,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="search_title_recommend">Recommended</string>
     <string name="search_title_suggestion">Suggestions</string>
     <string name="search_title_tag">Objects</string>
-    <string name="search_transition_element_icon">search_icon</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Looking for projector…</string>
     <string name="secret_album_card_description">The best place for all your little secrets</string>
     <string name="secret_album_card_title">Try private album</string>
@@ -2721,7 +2690,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="share_with_family">Share with family</string>
     <string name="sharer_quota_fulfiled">"You've already shared this album with the maximum number of people."</string>
     <string name="show_cloud_albumlist_summary">"New items from selected albums won't be uploaded to the cloud after you turn off sync."</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">View and manage hidden albums</string>
     <string name="show_hidden_album_title">View hidden albums</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Moved successfully, go to Other albums to view</string>
@@ -3119,7 +3087,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="to_enable_sync_dialog_message">Turn on sync first</string>
     <string name="to_enable_sync_dialog_positive_button_text">Go to Settings</string>
     <string name="to_enable_sync_dialog_title">Sync</string>
-    <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="toast_download_with_metered_network_btn_continue">Download</string>
     <string name="toast_download_with_metered_network_msg">"Looks like your device isn't connected to Wi-Fi. Download items using mobile data?"</string>
     <string name="toast_download_with_metered_network_title">Data usage warning</string>
@@ -3299,7 +3266,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="video_post_download_sdk_without_wifi_msg_china">"Looks like your device isn't connected to Wi-Fi. Download the plug-in using mobile data?"</string>
     <string name="video_post_download_sdk_without_wifi_title">Download \"Video effects\" plug-in</string>
     <string name="video_post_load_data_fail">"Couldn't load data"</string>
-    <string name="video_post_module_failed">@string/error_install_connect_fail</string>
     <string name="video_post_module_finish">Downloaded \"Video effects\" plug-in successfully</string>
     <string name="video_post_module_loading">Downloading \"Video effects\" plug-in…</string>
     <string name="video_quality_1080p">1080P</string>
@@ -3550,7 +3516,6 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Welcome to Xiaomi Cloud</string>
     <string name="where_is_barcode">"Where's the QR code?"</string>
     <string name="who_is_this">Who is it?</string>
