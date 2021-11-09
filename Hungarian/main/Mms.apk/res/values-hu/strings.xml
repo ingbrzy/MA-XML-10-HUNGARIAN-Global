@@ -404,7 +404,6 @@
     <string name="file_size">Méret:</string>
     <string name="file_title">Név:</string>
     <string name="file_width_height">Méret:</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -828,9 +827,6 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
     <string name="play">Play</string>
     <string name="playing_failed">"Can't play"</string>
     <string name="pm">PM</string>
-    <string name="prefDefault_vibrateWhen">never</string>
-    <string name="prefDefault_vibrate_false">never</string>
-    <string name="prefDefault_vibrate_true">always</string>
     <string name="pref_advanced_settings_title">Additional settings</string>
     <string name="pref_allow_network_access_summary">Get the latest info on delivery and other services</string>
     <string name="pref_cell_broadcast">Emergency alerts</string>
@@ -1244,7 +1240,6 @@ Take a look at the recommended ones!"</string>
     <string name="send_signature_confirm_dialog_title">Send message</string>
     <string name="send_sms">Send message</string>
     <string name="send_to">To:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Sent at: %1s</string>
     <string name="sent_label">"Sent: "</string>
     <string name="service_message_not_found">Message expired or unavailable</string>
