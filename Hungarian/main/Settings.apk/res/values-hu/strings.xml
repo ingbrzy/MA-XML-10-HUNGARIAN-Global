@@ -443,6 +443,7 @@ A rendszergazda képes a beállítások, hozzáférések, alkalmazások és a fe
     <string name="alarm_volume_title">Ébresztő</string>
     <string name="all_volume_title">Hangerő</string>
     <string name="allow">Engedélyezés</string>
+    <string name="allow_all_rotations_title">Forgatás mindenfelé</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Miután létrehozta a modult, a(z) %1$s hozzáférhet az összes általa megjelenített adathoz.</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Létrehozza a modult, és engedélyezi a hozzáférést?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Mindig engedélyezem a(z) %1$s számára a modulok létrehozását és az adatokhoz való hozzáférést.</string>
@@ -2317,6 +2318,12 @@ Ez a beállítás a készülék összes felhasználójára hatással van."</stri
     <string name="device_cpu4_info">Négymagos</string>
     <string name="device_cpu6_info">Hatmagos</string>
     <string name="device_cpu8_info">Nyolcmagos</string>
+    <string name="device_description_battery">Akku kapacitás</string>
+    <string name="device_description_camera">Hátsó kamera</string>
+    <string name="device_description_cpu">Processzor</string>
+    <string name="device_description_ram">Memória</string>
+    <string name="device_description_resolution">Felbontás</string>
+    <string name="device_description_screen">Kijelző méret</string>
     <string name="device_details_title">Eszközadatok</string>
     <string name="device_display_layout_title">Speciális funkciók</string>
     <string name="device_edit_title">Készülék átnevezése</string>
@@ -3149,6 +3156,10 @@ Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos 
     <string name="game_booster_title">Játékgyorsító</string>
     <string name="game_controller_settings_category">Játékvezérlő</string>
     <string name="game_storage_settings">Játékok</string>
+    <string name="gd_setting_title">Okos eszköztár</string>
+    <string name="general_category_title">Általános</string>
+    <string name="general_notification_header">Kezelés</string>
+    <string name="general_text">Szövegmező</string>
     <string name="gentle_notifications_also_display">Megjelenítés itt:</string>
     <string name="gentle_notifications_display_lock">Lezárási képernyő</string>
     <string name="gentle_notifications_display_status">Állapotsor</string>
@@ -7552,6 +7563,7 @@ A mentett ujjlenyomatokat a rendszer szintén eltávolítja ebből a profilból,
     <string name="unlogin_account_summary">Az összes Mi-szolgáltatás egy Mi Fiókban.</string>
     <string name="unlogin_account_title">Jelentkezzen be a Mi Fiókba</string>
     <string name="unmount_inform_text">Az USB-tár leválasztásra kerül.</string>
+    <string name="unmute_sound_title">Némítás feloldásának hangja</string>
     <string name="unrestrict_max_aspect_ratio_title">Ezek az alkalmazások optimalizálva lettek teljes képernyős módhoz</string>
     <string name="unrestricted_app_summary">Adatforgalom-csökkentővel korlátlan adathozzáférés</string>
     <string name="unrestricted_app_title">Korlátlan adathasználat</string>
