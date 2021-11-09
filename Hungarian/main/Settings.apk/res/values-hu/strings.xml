@@ -3855,6 +3855,8 @@ Nyissa meg a Xiaomi Cloudot és állítsa helyre az elemeket."</string>
     <string name="location_scanning_screen_title">Wi‑Fi- és Bluetooth-alapú keresés</string>
     <string name="location_scanning_wifi_always_scanning_description">Engedélyezi az alkalmazásoknak és szolgáltatásoknak, hogy Wi-Fi-hálózatokat keressenek még akkor is, ha ki van kapcsolva a Wi-Fi. Ez például a helyalapú funkciók és szolgáltatások javítására használható.</string>
     <string name="location_scanning_wifi_always_scanning_title">Wi‑Fi-keresés</string>
+    <string name="location_services_preference_title">Helyszolgáltatások</string>
+    <string name="location_services_screen_title">Helyszolgáltatások</string>
     <string name="location_settings_loading_app_permission_stats">Betöltés…</string>
     <string name="location_settings_master_switch_title">Helyadatok használata</string>
     <string name="location_settings_summary_location_off">Ki</string>
