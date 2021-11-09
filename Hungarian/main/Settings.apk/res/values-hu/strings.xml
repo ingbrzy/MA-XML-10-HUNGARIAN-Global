@@ -3861,6 +3861,7 @@ Nyissa meg a Xiaomi Cloudot és állítsa helyre az elemeket."</string>
     <string name="location_settings_title">Tartózkodási hely</string>
     <string name="location_sources_heading">Forráshelyek</string>
     <string name="location_street_level">Engedélyezze az alkalmazások számára a GPS használatát a telefonján a tartózkodási helyének meghatározásához</string>
+    <string name="location_time_zone_detection_toggle_title">Időzóna beállítása helymeghatározás alapján</string>
     <string name="location_title">Saját pozíció</string>
     <string name="lock_after_timeout">Zárolás a képernyő időkorlátja után</string>
     <string name="lock_after_timeout_summary">Az időkorlát után ennyivel: %1$s</string>
