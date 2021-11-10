@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="contact_entries">
-        <item>Name</item>
-        <item>Nickname</item>
-        <item>Phone</item>
+        <item>Név</item>
+        <item>Becenév</item>
+        <item>Telefon</item>
         <item>Email</item>
-        <item>Organization</item>
+        <item>Szervezet</item>
         <item>IM</item>
-        <item>SIP Phone</item>
-        <item>Birthday</item>
-        <item>Website</item>
-        <item>Address</item>
-        <item>Note</item>
-        <item>Relation</item>
+        <item>SIP telefon</item>
+        <item>Születésnap</item>
+        <item>Weboldal</item>
+        <item>Cím</item>
+        <item>Megjegyzés</item>
+        <item>Kapcsolat</item>
     </string-array>
      <string-array name="dialog_choice_specific_correct_as_normal">
-        <item>Promotional messages from %s</item>
+        <item>Promóciós üzenetek tőle: %s</item>
         <item>Carrier service messages from %s</item>
         <item>Financial messages from %s</item>
     </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Maximum</item>
-        <item>2 days</item>
+        <item>2 nap</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
-        <item>Not set</item>
-        <item>1 hour</item>
-        <item>6 hours</item>
-        <item>12 hours</item>
-        <item>1 day</item>
+        <item>Nincs beállítva</item>
+        <item>1 óra</item>
+        <item>6 óra</item>
+        <item>12 óra</item>
+        <item>1 nap</item>
         <item>Maximum</item>
     </string-array>
     <string-array name="message_sending_method">
@@ -37,19 +37,19 @@
         <item>RCS chat, RCS File Transfer</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>Always</item>
-        <item>Only in Silent mode</item>
-        <item>Never</item>
+        <item>Mindig</item>
+        <item>Csak néma módban</item>
+        <item>Soha</item>
     </string-array>
     <string-array name="rcs_ft_fallback">
         <item>Never ask and always send as SMS Link</item>
         <item>Never ask and never send as SMS Link</item>
-        <item>Always ask</item>
+        <item>Mindig rákérdez</item>
     </string-array>
     <string-array name="rcs_message_fallback">
         <item>Never ask and always send as SMS</item>
         <item>Never ask and never send as SMS</item>
-        <item>Always ask</item>
+        <item>Mindig rákérdez</item>
     </string-array>
     <string-array name="rcs_picture_quality_setting">
         <item>always ask</item>
@@ -63,27 +63,27 @@
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
-        <item>Mi Message</item>
+        <item>Mi üzenet</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
-        <item>Mi Message</item>
+        <item>Mi üzenet</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 second</item>
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
-        <item>10 seconds</item>
-        <item>Other</item>
+        <item>1 másodperc</item>
+        <item>2 másodperc</item>
+        <item>3 másodperc</item>
+        <item>4 másodperc</item>
+        <item>5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>7 másodperc</item>
+        <item>8 másodperc</item>
+        <item>9 másodperc</item>
+        <item>10 másodperc</item>
+        <item>Egyéb</item>
     </string-array>
     <string-array name="switch_sdk">
-        <item>Mi Message</item>
+        <item>Mi üzenet</item>
         <item>CMCC Smart SMS</item>
     </string-array>
 </resources>
