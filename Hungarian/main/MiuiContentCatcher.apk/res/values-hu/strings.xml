@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application Extension Service</string>
+    <string name="auth_activity_label">Verification codes</string>
+    <string name="auth_fingerprint_content">Ujjlenyomat olvasása…</string>
+    <string name="auth_fingerprint_content_message">Tegye az ujját a leolvasóra</string>
+    <string name="auth_fingerprint_content_message_error">"Ujjlenyomat olvasás sikertelen, próbálja újra"</string>
+    <string name="auth_fingerprint_title">Ujjlenyomat ellenőrzése</string>
+    <string name="autofill_description">"MIUI can encrypt and store your passwords so you could enter them whenever you need automatically. Xiaomi won't be able to read your encrypted passwords."</string>
+    <string name="autofill_hint_email_address">Email</string>
+    <string name="autofill_hint_name">Név</string>
+    <string name="autofill_hint_password">Jelszó</string>
+    <string name="autofill_hint_phone">Telefonszám</string>
+    <string name="autofill_hint_username">Felhasználónév</string>
+    <string name="autofill_item_activity_label">Alkalmazás jelszavak</string>
+    <string name="autofill_list_activity_label">Alkalmazás jelszavak</string>
+    <string name="autofill_list_title">Jelszavak kezelése</string>
+    <string name="autofill_password">Jelszavak automatikus kitöltése</string>
+    <string name="autofill_password_activity_label">Verification codes</string>
+    <string name="autofill_service_label">Jelszavak kezelése</string>
+    <string name="autofill_setting_activity_label">Jelszavak kezelése</string>
+    <string name="cancel">Mégse</string>
+    <string name="change_passwork_dialog_content">"You've already saved a password for this account. Update the password now?"</string>
+    <string name="change_passwork_dialog_title">Jelszó frissítése?</string>
+    <string name="delete">Törlés</string>
+    <string name="invalid_package_signature">Invalid app signature</string>
+    <string name="login_mi_account_alert">Prompt</string>
+    <string name="login_mi_account_summary">To turn on the password manager, you need to log in to the Xiaomi account, whether to log in?</string>
+    <string name="ok">OK</string>
+    <string name="password_manager">Jelszó kezelő</string>
+    <string name="password_manager_summary">Cloud password manager, back up to Xiaomi account</string>
+    <string name="preference_copied">\"%1$s\" másolva a vágólapra.</string>
+    <string name="save_content_tip">"The following items will be saved: "</string>
+    <string name="search">Keresés</string>
+    <string name="search_menu_title">Keresés</string>
+    <string name="send">Küldés</string>
+    <string name="settings_clear_data_confirmation_description">"If you delete passwords now, you'll have to enter them manually next time you sign in.
+Delete the password?"</string>
+    <string name="settings_clear_data_confirmation_title">Jelszavak törlése</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+</resources>
