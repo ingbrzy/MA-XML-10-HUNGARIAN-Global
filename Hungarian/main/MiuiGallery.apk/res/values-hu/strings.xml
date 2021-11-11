@@ -795,7 +795,6 @@ are available"</string>
     <string name="file_cannot_print">"Can't print this item."</string>
     <string name="file_cannot_screen_throw">"Can't cast this item."</string>
     <string name="file_sending">Transferring files…</string>
-    <item type="string" name="filter_bg_color_component">0.0</item>
     <string name="filter_category_black_white">B&amp;W</string>
     <string name="filter_category_classic">Klasszikus</string>
     <string name="filter_category_fresh">Friss</string>
