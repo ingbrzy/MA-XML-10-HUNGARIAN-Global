@@ -156,6 +156,8 @@
     <string name="aqi_quality_index_light_pollution">Gyenge szennyezés</string>
     <string name="aqi_quality_index_moderate">Közepes</string>
     <string name="aqi_quality_index_unhealthy">Egészségtelen</string>
+	<string name="assistant_edge_gesture_summary">Csúsztassa az újját a bal vagy a jobb alsó sarokból felfelé a Google aszisztens indításához</string>
+    <string name="assistant_edge_gesture_title">Csúsztassa felfelé a sarokból a Google aszisztens indításához</string>
     <string name="auto_add_app_shortcut">Helyezzen el új alkalmazásokat a Kezdőképernyőn</string>
     <string name="auto_delete_category_dialog_content">A jelenlegi alkalmazásik eltávolításra kerülnek a kategóriából és a kategória törlésre kerül. Törli a kategóriát most?</string>
     <string name="auto_delete_category_dialog_title">Kategória törlése</string>
@@ -388,6 +390,7 @@
     <string name="guide_install_app_msg">Ez az alkalmazás nincs telepítve a készülékén. Megkeresi most és telepíti az alkalmazást?</string>
     <string name="guide_install_app_title">Megkeresi és telepíti az alkalmazást?</string>
     <string name="guide_tips_editing_mode">Nyomja és tartsa a widgetet a felvételéhez</string>
+	<string name="hide_apps_title">Alkalmazások elrejtése</string>
     <string name="home_gesture_content_center">Tartalomközpont</string>
     <string name="home_gesture_global_search">Keresés</string>
     <string name="home_gesture_no_action">Egyik sem</string>
