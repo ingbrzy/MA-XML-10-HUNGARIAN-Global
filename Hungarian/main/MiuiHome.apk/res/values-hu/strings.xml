@@ -234,6 +234,7 @@
     <string name="deleted_system_applications">Törölt rendszeralkalmazások</string>
     <string name="deselect_all">Kijelölések törlése</string>
     <string name="disable_wallpaper_scroll">Háttérkép görgetés kikapcsolása</string>
+	<string name="double_tap_to_lock_title">Képernyő zárolása dupla koppintással</string>
     <string name="download_action">Letöltés</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
@@ -410,6 +411,7 @@
     <string name="launcher_not_exist">Hiba történt. Lépjen vissza a Kezdőképernyőre majd próbálja újra.</string>
     <string name="launcher_pull_down_title">Húzza lefelé az ujját a Kezdőképernyőn</string>
     <string name="launcher_search">Keresés a kezdőképernyőn</string>
+	<string name="launcher_search_bar_provider_title">Keresési szolgáltató</string>
     <string name="launcher_search_bar_title">Keresősáv a főképernyőn</string>
     <string name="launcher_search_bar_value_disable">Ki</string>
     <string name="launcher_search_bar_value_enable">Be</string>
