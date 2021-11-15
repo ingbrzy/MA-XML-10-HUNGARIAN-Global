@@ -90,6 +90,12 @@
     <string name="HIPS_Perm_install_shortcut_Desc">Parancsikonok létrehozása a kezdőképernyőn</string>
     <string name="HIPS_Perm_mediaVolume">Média hangerejének beállítása</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Engedélyezi az appnak, hogy beállítsa a média hangerejét</string>
+	<string name="HIPS_Perm_NEARBY_DEVICES">Közeli eszközök csatlakoztatása</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Közeli eszközök keresése és csatlakoztatása</string>
+	<string name="HIPS_Perm_operator_get_phonenumbner">Access phone number for signing in</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Acquire phone number from the carrier for signing in</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"If you weren't able to sign in with one tap now, go back to the sign-in page and try again."</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Message">This app wants to acquire your phone number from the carrier for signing in. Allow?</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">Közeli rádiófrekvenciás kommunikáció (NFC) hardver elérése</string>
     <string name="HIPS_Perm_process_outgoing_calls">Telefon alkalmazás elérése</string>
@@ -154,6 +160,10 @@
     <string name="blur_location_is_on_tip">%1$s has started the approximate location service. Whether to keep the approximate location service on?</string>
     <string name="blur_location_now_tip">A körülbelüli helyzet megadása be van kapcsolva</string>
     <string name="blur_location_title">Hozzávetőleges hely</string>
+	<string name="cetus_invisible_mode_notice_audio">"You're incognito. Can't use microphone now."</string>
+    <string name="cetus_invisible_mode_notice_camera">"You're incognito. Can't use camera now."</string>
+    <string name="cetus_invisible_mode_notice_location">"You're incognito. Can't use location services now."</string>
+    <string name="cetus_invisible_mode_notice_tip">Tap to turn off Incognito mode in the Settings</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="clipboard_ai_allow_once">Engedélyeztem %1$s számára a vágólapon lévő elemek automatikus elérését</string>
     <string name="clipboard_data">"Tartalom: "</string>
@@ -166,6 +176,8 @@
     <string name="clipboard_read_allow_once">%1$s hozzáfért a vágólapon lévő elemekhez</string>
     <string name="clipboard_read_deny_dialog_title">Korlátozott hozzáférés a vágólaphoz: %1$s</string>
     <string name="close">Bezárás</string>
+	<string name="copy">Másolás</string>
+    <string name="current_permission_template">%1$s(%2$d/%3$d)</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -177,6 +189,8 @@
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="evening">Délután</string>
+	<string name="expand_button_title">Továbbiak</string>
+	<string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">MMMM dd</string>
@@ -192,6 +206,12 @@
     <string name="fmt_date_short_month_day">MM.dd.</string>
     <string name="fmt_date_short_year_month">yyyy. MMM</string>
     <string name="fmt_date_short_year_month_day">yyyy.MM.dd.</string>
+	<string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
@@ -211,8 +231,16 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
+	<string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+	<string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="forbid_notice_me">Értesítések leállítása</string>
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
@@ -239,6 +267,8 @@
     <string name="location_settings">Tartózkodási hely beállítások</string>
     <string name="location_warning">%1$s a készülék tartózkodási hely szolgáltatója. A tartózkodási hely elérése módosítható a Helymeghatározásban.</string>
     <string name="midnight">Éjjel</string>
+	<string name="miuix_access_state_desc">Kiválasztva</string>
+	<string name="miuix_alphabet_indexer_name">Index bar</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
@@ -253,6 +283,7 @@
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
     <string name="miuix_appcompat_select_all_description">Összes kijelölése</string>
     <string name="miuix_appcompat_select_item">Elemek kiválasztása</string>
+	<string name="miuix_indexer_selected">Kiválasztva: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Húzza le a frissítéshez</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Sikeresen frissítve</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Frissítés…</string>
@@ -306,6 +337,7 @@
     <string name="night">Este</string>
     <string name="no">Nem</string>
     <string name="noon">Dél</string>
+	<string name="not_set">Nincs beállítva</string>
     <string name="notification_click_tip">Koppintson a részletek megtekintéséhez</string>
     <string name="ok">OK</string>
     <string name="perm_action_allow">Engedélyezés</string>
@@ -350,6 +382,8 @@
     <string name="permission_warning_template_ask">Megadja %1$s számára a következő engedélyeket?</string>
     <string name="permisson_reject_notice_toast_text2">nincs engedélye, hogy %1$s.</string>
     <string name="pm">DU</string>
+	<string name="pp_privacy_lab_operator_introduction">Figyelem</string>
+    <string name="preference_copied">\"%1$s\" másolva a vágólapra.</string>
     <string name="real_location_off">A körülbelüli helyzet megadása be van kapcsolva</string>
     <string name="real_location_on">A körülbelüli helyzet megadása ki van kapcsolva</string>
     <string name="saturday">Szombat</string>
