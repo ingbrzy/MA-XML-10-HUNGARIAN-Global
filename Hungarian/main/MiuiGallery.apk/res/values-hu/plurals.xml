@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">1 órája</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">1 órája</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">fél órája</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">In 1 hour</item>
@@ -16,62 +16,62 @@
         <item quantity="other">In half an hour</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Azonnal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">in %d mins</item>
         <item quantity="one">in 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d perce</item>
+        <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">Add these items to private album?</item>
-        <item quantity="one">Add this item to private album?</item>
+        <item quantity="other">Elrejti ezeket a fájlokat?</item>
+        <item quantity="one">Elrejti ezt a fájlt?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
-        <item quantity="other">Added %d cloud photos, turn off \"Only show local albums\" to view.</item>
-        <item quantity="one">Added %d cloud photo, turn off \"Only show local albums\" to view.</item>
+        <item quantity="other">%d fénykép hozzáadva a felhőhöz, megtekintéshez kapcsolja ki: \"Csak helyi albumok megjelenítése\".</item>
+        <item quantity="one">%d fénykép hozzáadva a felhőhöz, megtekintéshez kapcsolja ki: \"Csak helyi albumok megjelenítése\".</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">" %2$d items can't be added to album. %1$s."</item>
-        <item quantity="one">" %2$d item can't be added to album. %1$s."</item>
+        <item quantity="other">%2$d elem nem adható hozzá az albumhoz. %1$s.</item>
+        <item quantity="one">%2$d elem nem adható hozzá az albumhoz. %1$s.</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d items can't be added to private album. %1$s."</item>
-        <item quantity="one">"%2$d item can't be added to private album. %1$s."</item>
+        <item quantity="other">%2$d elem nem adható hozzá rejtett albumhoz. %1$s.</item>
+        <item quantity="one">%2$d elem nem adható hozzá rejtett albumhoz. %1$s.</item>
     </plurals>
     <plurals name="age_day">
-        <item quantity="other">%d days</item>
-        <item quantity="one">%d day</item>
+        <item quantity="other">%d napos</item>
+        <item quantity="one">%d napos</item>
     </plurals>
     <plurals name="age_month">
-        <item quantity="other">%d months</item>
-        <item quantity="one">%d month</item>
+        <item quantity="other">%d hónapos</item>
+        <item quantity="one">%d hónapos</item>
     </plurals>
     <plurals name="age_year">
-        <item quantity="other">%d years</item>
-        <item quantity="one">%d year</item>
+        <item quantity="other">%d éves</item>
+        <item quantity="one">%d éves</item>
     </plurals>
     <plurals name="album_already_share_user_count">
-        <item quantity="other">Shared to %d people</item>
-        <item quantity="one">Shared to %d person</item>
+        <item quantity="other">Megosztva %d személlyel</item>
+        <item quantity="one">Megosztva %d személlyel</item>
     </plurals>
     <plurals name="album_count">
-        <item quantity="other">%d fotó</item>
-        <item quantity="one">%d fotó</item>
+        <item quantity="other">%d fénykép</item>
+        <item quantity="one">%d fénykép</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d items | %2$s</item>
-        <item quantity="one">%1$d item | %2$s</item>
+        <item quantity="other">%1$d elem | %2$s</item>
+        <item quantity="one">%1$d elem | %2$s</item>
     </plurals>
     <plurals name="album_item_msg_format">
-        <item quantity="other">(%d items)</item>
-        <item quantity="one">(%d item)</item>
+        <item quantity="other">(%d elem)</item>
+        <item quantity="one">(%d elem)</item>
     </plurals>
     <plurals name="album_item_msg_format_new">
         <item quantity="other">%d album</item>
@@ -82,60 +82,60 @@
         <item quantity="one">%s person can view this album</item>
     </plurals>
     <plurals name="album_photo_count_text">
-        <item quantity="other">%1$d items</item>
-        <item quantity="one">%1$d item</item>
+        <item quantity="other">%1$d elem</item>
+        <item quantity="one">%1$d elem</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d photos of %2$s will be added</item>
-        <item quantity="one">%1$d photo of %2$s will be added</item>
+        <item quantity="other">%2$s %1$d fényképe lesz hozzáadva</item>
+        <item quantity="one">%2$s %1$d fényképe lesz hozzáadva</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d photos of %2$s will be added</item>
-        <item quantity="one">%1$d photo of %2$s will be added</item>
+        <item quantity="other">%2$s %1$d fényképe lesz hozzáadva</item>
+        <item quantity="one">%2$s %1$d fényképe lesz hozzáadva</item>
     </plurals>
     <plurals name="backup_after_hours">
-        <item quantity="other">Resume backup in %d hours</item>
-        <item quantity="one">Resume backup in %d hour</item>
+        <item quantity="other">Mentés folytatása %d óra múlva</item>
+        <item quantity="one">Mentés folytatása %d óra múlva</item>
     </plurals>
     <plurals name="backup_file_over_size_title">
-        <item quantity="other">%d items are too big to back up</item>
-        <item quantity="one">%d item is too big to back up</item>
+        <item quantity="other">%d tétel túl nagy a biztonsági mentéshez</item>
+        <item quantity="one">%d tétel túl nagy a biztonsági mentéshez</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">Will resume in %d mins</item>
-        <item quantity="one">Will resume in %d min</item>
+        <item quantity="other">%d perc múlva folytatódik</item>
+        <item quantity="one">%d perc múlva folytatódik</item>
     </plurals>
     <plurals name="backup_pause_dialog_message">
-        <item quantity="other">Pause syncing photos, videos, contacts, notes, and other items with the cloud for %d minutes.</item>
-        <item quantity="one">Pause syncing photos, videos, contacts, notes, and other items with the cloud for %d minute.</item>
+        <item quantity="other">A képek, videók, névjegyek, jegyzetek és egyéb elemek felhővel való szinkronizálásának szüneteltetése %d percre.</item>
+        <item quantity="one">A képek, videók, névjegyek, jegyzetek és egyéb elemek felhővel való szinkronizálásának szüneteltetése %d percre.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
-        <item quantity="other">%1$d fotó és videó | %2$s</item>
-        <item quantity="one">%1$d fotó és videó | %2$s</item>
+        <item quantity="other">%1$d fénykép és videó | %2$s</item>
+        <item quantity="one">%1$d fénykép és videó | %2$s</item>
     </plurals>
     <plurals name="backuping_desc_normal">
-        <item quantity="other">%1$d fotó és videó</item>
-        <item quantity="one">%1$d fotó és videó</item>
+        <item quantity="other">%1$d fénykép és videó</item>
+        <item quantity="one">%1$d fénykép és videó</item>
     </plurals>
     <plurals name="burst_image_download_item_title_count">
-        <item quantity="other">%d fotó</item>
-        <item quantity="one">%d fotó</item>
+        <item quantity="other">%d fénykép</item>
+        <item quantity="one">%d fénykép</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">"Delete %d photos that you didn't select?"</item>
-        <item quantity="one">"Delete %d photo that you didn't select?"</item>
+        <item quantity="other">Törli azt a(z) %d fotót, amit nem választott ki?</item>
+        <item quantity="one">Törli azt a(z) %d fotót, amit nem választott ki?</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_title">
-        <item quantity="other">Delete %d photos</item>
-        <item quantity="one">Delete %d photo</item>
+        <item quantity="other">%d kép törlése</item>
+        <item quantity="one">%d kép törlése</item>
     </plurals>
     <plurals name="burst_save_selected">
-        <item quantity="other">Keep %d selected photos</item>
-        <item quantity="one">Keep %d selected photo</item>
+        <item quantity="other">%d kiválasztott kép megtartása</item>
+        <item quantity="one">%d kiválasztott kép megtartása</item>
     </plurals>
     <plurals name="cloud_storage_photo_num">
-        <item quantity="other">%d fotó</item>
-        <item quantity="one">%d fotó</item>
+        <item quantity="other">%d fénykép</item>
+        <item quantity="one">%d fénykép</item>
     </plurals>
     <plurals name="cloud_storage_video_num">
         <item quantity="other">%d videó</item>
@@ -146,36 +146,36 @@
         <item quantity="one">"Couldn't sync %d item due to insufficient cloud storage"</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Collages can contain %1$d-%2$d photos</item>
-        <item quantity="one">Collages can contain %1$d-%2$d photo</item>
+        <item quantity="other">A kollázsok 1-%d képből állhatnak</item>
+        <item quantity="one">A kollázsok 1-%d képből állhatnak</item>
     </plurals>
     <plurals name="creation_max_image">
-        <item quantity="other">Select up to %d photos</item>
-        <item quantity="one">Select up to %d photo</item>
+        <item quantity="other">Válasszon ki max. %d képet</item>
+        <item quantity="one">Válasszon ki max. %d képet</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">%d elem kiválasztva</item>
     </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d burst shots from Xiaomi Cloud and all synced devices?</item>
-        <item quantity="one">Delete %d burst shot from Xiaomi Cloud and all synced devices?</item>
+        <item quantity="other">%d sorozatkép törlése a Xiaomi Cloudból és az összes szinkronizált eszközről?</item>
+        <item quantity="one">%d sorozatkép törlése a Xiaomi Cloudból és az összes szinkronizált eszközről?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
-        <item quantity="other">Delete %d burst shots?</item>
-        <item quantity="one">Delete %d burst shot?</item>
+        <item quantity="other">%d sorozatkép törlése?</item>
+        <item quantity="one">%d sorozatkép törlése?</item>
     </plurals>
     <plurals name="delete_finish_format">
-        <item quantity="other">%d items deleted</item>
-        <item quantity="one">%d item deleted</item>
+        <item quantity="other">%d elem törölve</item>
+        <item quantity="one">%d elem törölve</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d items from all devices and Xiaomi Cloud?</item>
-        <item quantity="one">Delete %d item from all devices and Xiaomi Cloud?</item>
+        <item quantity="other">Töröl %d tételt az összes készülékéről és a Xiaomi Cloudból is?</item>
+        <item quantity="one">Töröl %d tételt az összes készülékéről és a Xiaomi Cloudból is?</item>
     </plurals>
     <plurals name="delete_media_from_local">
-        <item quantity="other">Delete %d items?</item>
-        <item quantity="one">Delete %d item?</item>
+        <item quantity="other">Töröl %d elemet?</item>
+        <item quantity="one">Töröl %d elemet?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Delete %d photos from all devices and Xiaomi Cloud?</item>
@@ -190,32 +190,32 @@
         <item quantity="one">Delete %d video from all devices and Xiaomi Cloud?</item>
     </plurals>
     <plurals name="download_error">
-        <item quantity="other">"Couldn't download %1$d files"</item>
-        <item quantity="one">"Couldn't download %1$d file"</item>
+        <item quantity="other">Nem sikerült letölteni %1$d fájlt</item>
+        <item quantity="one">Nem sikerült letölteni %1$d fájlt</item>
     </plurals>
     <plurals name="download_retry_message">
         <item quantity="other">"Couldn't download %1$d files, check network connection and try again"</item>
         <item quantity="one">"Couldn't download %1$d file, check network connection and try again"</item>
     </plurals>
     <plurals name="downloading_title_link">
-        <item quantity="other">Downloading items from the cloud (%2$d/%1$d)</item>
-        <item quantity="one">Downloading items from the cloud (%2$d/%1$d)</item>
+        <item quantity="other">(%2$d/%1$d) elem letöltése a felhőből</item>
+        <item quantity="one">(%2$d/%1$d) elem letöltése a felhőből</item>
     </plurals>
     <plurals name="face_count">
-        <item quantity="other">Total %d photos</item>
-        <item quantity="one">Total %d photo</item>
+        <item quantity="other">Összesen %d fénykép</item>
+        <item quantity="one">Összesen %d fénykép</item>
     </plurals>
     <plurals name="fail_reason_processing_file">
-        <item quantity="other">Processing photos…</item>
-        <item quantity="one">Processing photo…</item>
+        <item quantity="other">Fényképfeldolgozás…</item>
+        <item quantity="one">Fényképfeldolgozás…</item>
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"Skipped %1$d photos which couldn't be rendered."</item>
         <item quantity="one">"Skipped %1$d photo which couldn't be rendered."</item>
     </plurals>
     <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d files</item>
-        <item quantity="one">%1$d file</item>
+        <item quantity="other">%1$d fájl</item>
+        <item quantity="one">%1$d fájl</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
@@ -227,7 +227,7 @@
         <item quantity="other">In half an hour</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Azonnal</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">in %d minutes</item>
@@ -245,44 +245,44 @@
         <item quantity="one">1 minute ago</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d items waiting to sync</item>
-        <item quantity="one">%1$d item waiting to sync</item>
+        <item quantity="other">%1$d elem vár szinkronizálásra</item>
+        <item quantity="one">%1$d elem vár szinkronizálásra</item>
     </plurals>
     <plurals name="number_of_images_synced">
-        <item quantity="other">%1$d photos</item>
-        <item quantity="one">%1$d photo</item>
+        <item quantity="other">%1$d fénykép</item>
+        <item quantity="one">%1$d fénykép</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d photos waiting to sync</item>
-        <item quantity="one">%1$d photo waiting to sync</item>
+        <item quantity="other">%1$d fénykép vár szinkronizálásra</item>
+        <item quantity="one">%1$d fénykép vár szinkronizálásra</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Syncing %1$d photos…</item>
-        <item quantity="one">Syncing %1$d photo…</item>
+        <item quantity="other">%1$d fénykép szinkronizálása…</item>
+        <item quantity="one">%1$d fénykép szinkronizálása…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Syncing %1$d items…</item>
-        <item quantity="one">Syncing %1$d item…</item>
+        <item quantity="other">%1$d elem szinkronizálása…</item>
+        <item quantity="one">%1$d elem szinkronizálása…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Syncing %1$d videos…</item>
-        <item quantity="one">Syncing %1$d video…</item>
+        <item quantity="other">%1$d videó szinkronizálása…</item>
+        <item quantity="one">%1$d videó szinkronizálása…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
-        <item quantity="other">%1$d videos</item>
-        <item quantity="one">%1$d video</item>
+        <item quantity="other">%1$d videó</item>
+        <item quantity="one">%1$d videó</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d videos waiting to sync</item>
-        <item quantity="one">%1$d video waiting to sync</item>
+        <item quantity="other">%1$d videó vár szinkronizálásra</item>
+        <item quantity="one">%1$d videó vár szinkronizálásra</item>
     </plurals>
     <plurals name="photo_count">
-        <item quantity="other">%d photos</item>
-        <item quantity="one">%d photo</item>
+        <item quantity="other">%d fénykép</item>
+        <item quantity="one">%d fénykép</item>
     </plurals>
     <plurals name="photo_count_format">
-        <item quantity="other">Total %1$d items</item>
-        <item quantity="one">Total %1$d item</item>
+        <item quantity="other">Összesen %1$d elem</item>
+        <item quantity="one">Összesen %1$d elem</item>
     </plurals>
     <plurals name="photo_editor_talkback_crop_scale_value">
         <item quantity="other">Rotate %d degrees</item>
@@ -349,12 +349,12 @@
         <item quantity="one">"Skipped %d photo which isn't on device."</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
-        <item quantity="other">Found %1$d new photos</item>
-        <item quantity="one">Found %1$d new photo</item>
+        <item quantity="other">%1$d új fénykép található</item>
+        <item quantity="one">Új fénykép található</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
-        <item quantity="other">Total %d photos</item>
-        <item quantity="one">Total %d photo</item>
+        <item quantity="other">Összesen %d fénykép</item>
+        <item quantity="one">Összesen %d fénykép</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d items can't be removed from private album. %1$s."</item>
@@ -521,8 +521,8 @@
         <item quantity="one">%d item is too big to back up</item>
     </plurals>
     <plurals name="sync_total_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">%d elem</item>
+        <item quantity="one">%d elem</item>
     </plurals>
     <plurals name="synced_photo_count">
         <item quantity="other">Synced %d photos</item>
