@@ -30,26 +30,26 @@
         <item quantity="one">1 min ago</item>
     </plurals>
     <plurals name="batch_delete_confirm_dialog_message">
-        <item quantity="other">Delete %1$s messages?</item>
-        <item quantity="one">Delete %1$s message?</item>
+        <item quantity="other">Töröl %1$s üzenetet?</item>
+        <item quantity="one">Töröl %1$s üzenetet?</item>
     </plurals>
     <plurals name="cloud_sms_count">
-        <item quantity="other">%d messages</item>
-        <item quantity="zero">%d messages</item>
-        <item quantity="one">%d message</item>
+        <item quantity="other">%d üzenet</item>
+        <item quantity="zero">%d üzenet</item>
+        <item quantity="one">%d üzenet</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%d messages haven't been synced"</item>
-        <item quantity="one">"%d message hasn't been synced"</item>
+        <item quantity="other">%d üzenet nem szinkronizálódott</item>
+        <item quantity="one">%d üzenet nem szinkronizálódott</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Delete %1$s selected conversations?</item>
-        <item quantity="one">Delete %1$s selected conversation?</item>
+        <item quantity="other">Törli a kiválasztott %1$s beszélgetést?</item>
+        <item quantity="one">Törli a kiválasztott %1$s beszélgetést?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">%d selected</item>
+        <item quantity="other">%d kiválasztva</item>
         <item quantity="zero">Select items</item>
-        <item quantity="one">%d selected</item>
+        <item quantity="one">%d kiválasztva</item>
     </plurals>
     <plurals name="delivery_toast_body_more_plurals">
         <item quantity="other">Message received by %1$s and %2$d other people</item>
@@ -63,9 +63,9 @@
         <item quantity="other">Half an hour ago</item>
     </plurals>
     <plurals name="hint_search_sms">
-        <item quantity="other">%d messages</item>
-        <item quantity="zero">%d messages</item>
-        <item quantity="one">%d message</item>
+        <item quantity="other">%d üzenet</item>
+        <item quantity="zero">%d üzenet</item>
+        <item quantity="one">%d üzenet</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 hour</item>
@@ -116,29 +116,29 @@
         <item quantity="one">%1$s result for \"%2$s\"</item>
     </plurals>
     <plurals name="send_to_count">
-        <item quantity="other">Sent %1$s messages</item>
-        <item quantity="one">Sent %1$s message</item>
+        <item quantity="other">%1$s üzenet elküldve</item>
+        <item quantity="one">%1$s üzenet elküldve</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%d secs</item>
-        <item quantity="one">%d sec</item>
-        <item quantity="few">%d secs</item>
+        <item quantity="other">%d mp</item>
+        <item quantity="one">%d mp</item>
+        <item quantity="few">%d mp</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%d secs</item>
-        <item quantity="one">%d sec</item>
-        <item quantity="few">%d secs</item>
+        <item quantity="other">%d mp</item>
+        <item quantity="one">%d mp</item>
+        <item quantity="few">%d mp</item>
     </plurals>
     <plurals name="timed_message_expired_title">
-        <item quantity="other">"%d timed messages haven't been sent"</item>
-        <item quantity="one">"%d timed message haven't been sent"</item>
+        <item quantity="other">%d időzített üzenet nem lett elküldve</item>
+        <item quantity="one">%d időzített üzenet nem lett elküldve</item>
     </plurals>
     <plurals name="timed_message_in_total">
-        <item quantity="other">(%d messages)</item>
-        <item quantity="one">(%d message)</item>
+        <item quantity="other">(%d üzenet)</item>
+        <item quantity="one">(%d üzenet)</item>
     </plurals>
     <plurals name="to_count">
-        <item quantity="other">%d recipients</item>
-        <item quantity="one">%d recipient</item>
+        <item quantity="other">%d címzett</item>
+        <item quantity="one">%d címzett</item>
     </plurals>
 </resources>
