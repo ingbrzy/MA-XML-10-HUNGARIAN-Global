@@ -288,7 +288,7 @@ aren't generated in Second space"</string>
     <string name="focus_mode_timer_pick_dialog_title">Időtartam megadása</string>
     <string name="focus_time_exception_tip">Úgy tűnik, hogy a rendszeridő megváltozott. Kikapcsolta a Fókusz módot.</string>
     <string name="follow_sim1">SIM 1 beállításainak alkalmazása</string>
-    <string name="fps_nature_summary">A maxamimum frissítési gyakoriság miatt minden éles és tiszta</string>
+    <string name="fps_nature_summary">A maximum frissítési gyakoriság miatt minden éles és tiszta</string>
     <string name="fps_nature_title">Maximum</string>
     <string name="fps_smooth_summary">A magas frissítési gyakoriság egyértelműbbé teszi a részleteket</string>
     <string name="fps_smooth_title">Magas</string>
