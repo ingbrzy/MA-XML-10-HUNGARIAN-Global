@@ -2312,7 +2312,7 @@ Ez a beállítás a készülék összes felhasználójára hatással van."</stri
     <string name="device_controls_sentence">Eszközvezérlők</string>
     <string name="device_controls_setting_subtitle">A csatlakoztatott eszközök vezérlőihez való hozzáféréshez tartsa lenyomva a bekapcsológombot</string>
     <string name="device_controls_setting_toggle">Eszközvezérlők megjelenítése</string>
-    <string name="device_cpu">CPU</string>
+    <string name="device_cpu">Processzor</string>
     <string name="device_cpu10_info">Tízmagos</string>
     <string name="device_cpu2_info">Kétmagos</string>
     <string name="device_cpu4_info">Négymagos</string>
@@ -2332,7 +2332,7 @@ Ez a beállítás a készülék összes felhasználójára hatással van."</stri
     <string name="device_info_default">Ismeretlen</string>
     <string name="device_info_not_available">Nem érhető el</string>
     <string name="device_internal_memory">Belső tárhely</string>
-    <string name="device_memory">RAM</string>
+    <string name="device_memory">Memória</string>
     <string name="device_miui_more">Továbbiak megtekintése</string>
     <string name="device_miui_version">MIUI-verzió</string>
     <string name="device_miui_version_for_POCO">MIUI-verzió (POCO-hoz)</string>
