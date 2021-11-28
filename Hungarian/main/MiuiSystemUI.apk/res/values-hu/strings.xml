@@ -808,6 +808,9 @@ Ha a folytatást választja, szolgáltatója adathasználati díjat számíthat 
     <string name="force_rtl_layout_all_locales_summary">Jobbról-balra elrendezési irány kényszerítése az összes területen</string>
     <string name="forced_resizable_secondary_display">Előfordulhat, hogy az alkalmazás nem működik másodlagos kijelzőn.</string>
     <string name="forget_password_string">Elfelejtett jelszó</string>
+	<string name="friday">Péntek</string>
+    <string name="friday_short">Pén.</string>
+    <string name="friday_shortest">P</string>
     <string name="fs_gesture_back_home_summary">Gyorsan húzza alulról fölfelé</string>
     <string name="fs_gesture_back_ready_title">Visszalépés</string>
     <string name="fs_gesture_final_over">Készen állok</string>
@@ -1250,6 +1253,9 @@ EEEE"</string>
     <string name="mock_location_app">Helyimitáló alkalmazás kiválasztása</string>
     <string name="mock_location_app_not_set">Nincs kiválasztott helyimitáló alkalmazás</string>
     <string name="mock_location_app_set">Helyimitáló alkalmazás: %1$s</string>
+	<string name="monday">Hétfő</string>
+    <string name="monday_short">Hét.</string>
+    <string name="monday_shortest">H</string>
     <string name="monitoring_button_view_policies">Házirendek megtekintése</string>
     <string name="monitoring_description_app">Ön csatlakozik a(z) %1$s alkalmazáshoz, amely figyelheti hálózati tevékenységét, beleértve az e-maileket, az alkalmazásokat és a webhelyeket.</string>
     <string name="monitoring_description_app_personal">Csatlakoztatta a(z) %1$s alkalmazást, amely figyelheti személyes hálózati tevékenységét, beleértve az e-maileket, az alkalmazásokat és a webhelyeket.</string>
@@ -1878,6 +1884,9 @@ E"</string>
     <string name="structure_face_data_input_error_overly_light">Most túl erős a háttérvilágítás</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_separator">" / "</string>
+	<string name="sunday">Vasárnap</string>
+    <string name="sunday_short">Vas.</string>
+    <string name="sunday_shortest">V</string>
     <string name="switch_bar_off">Ki</string>
     <string name="switch_bar_on">Be</string>
     <string name="switch_system_user">Visszatérés az Első asztalra</string>
@@ -1900,6 +1909,9 @@ A telefon akkor melegedhet túl, ha Ön:
 \u0009• Melegben használja a telefonját"</string>
     <string name="thermal_shutdown_message">A telefon most már megfelelően működik</string>
     <string name="thermal_shutdown_title">A meleg miatt kikapcsolt</string>
+	<string name="thursday">Csütörtök</string>
+    <string name="thursday_short">Csü.</string>
+    <string name="thursday_shortest">Cs</string>
     <string name="tile_unavailable">Nem használható</string>
     <string name="time_unit_just_now">Épp most</string>
     <string name="title_convert_fbe">Átalakítás fájlalapú titkosításhoz…</string>
@@ -1936,6 +1948,9 @@ A telefon akkor melegedhet túl, ha Ön:
     <string name="tts_status_ok">%1$s teljes mértékben támogatott</string>
     <string name="tts_status_requires_network">%1$s hálózati kapcsolatot igényel</string>
     <string name="tts_status_title">Alapértelmezett nyelvi állapot</string>
+	<string name="tuesday">Kedd</string>
+    <string name="tuesday_short">Ke.</string>
+    <string name="tuesday_shortest">K</string>
     <string name="tuner_app">%1$s alkalmazás</string>
     <string name="tuner_circle">Kör</string>
     <string name="tuner_full_importance_settings">Teljes körű értesítésvezérlők</string>
@@ -2083,6 +2098,9 @@ Bármely felhasználó frissítheti az alkalmazásokat valamennyi felhasználó 
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimális</string>
     <string name="wapi_yes">Igen</string>
+	<string name="wednesday">Szerda</string>
+    <string name="wednesday_short">Sze.</string>
+    <string name="wednesday_shortest">Sze</string>
     <string name="wifi_ap_unable_to_handle_new_sta">A hozzáférési pont ideiglenesen telített</string>
     <string name="wifi_auto_sel_wapi_cert">Automatikus választás</string>
     <string name="wifi_cant_connect">Nem tud csatlakozni</string>

@@ -1645,7 +1645,13 @@ Ez hatással lehet a többi olyan alkalmazásra vagy beszélgetésre is, amelyek
     <string name="change_wifi_state_title">Wi-Fi-vezérlés</string>
     <string name="channel_group_notifications_off_desc">Kérésére az Android letiltotta az értesítések jelen csoportjának megjelenését ezen az eszközön</string>
     <string name="channel_notifications_off_desc">Kérésére az Android letiltotta a jelen értesítési kategória megjelenését ezen az eszközön</string>
-    <string name="charge_length_format">%1$s óta</string>
+    <string name="charge_animation_style_lollipop">Flow</string>
+    <string name="charge_animation_style_none">Nincs</string>
+    <string name="charge_animation_style_summary">Choose your preferred lock screen charging animation style</string>
+    <string name="charge_animation_style_title">Töltési animáció</string>
+    <string name="charge_animation_style_video">Glow</string>
+    <string name="charge_animation_style_wave">Hullám</string>
+	<string name="charge_length_format">%1$s óta</string>
     <string name="charging_sounds_title">Töltési hangok és rezgés</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="check_update">Frissítések keresése</string>
