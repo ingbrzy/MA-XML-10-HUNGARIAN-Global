@@ -127,7 +127,7 @@ You'll be able to track your workouts and activity."</string>
     <string name="body_sport_permission_title">Access health and activity data</string>
     <string name="body_water">Water</string>
     <string name="body_water_descripe_content">Body water percentage refers to the proportion of water in the total weight of the human body. Usually, muscle tissue contains more water than other body parts.</string>
-    <string name="body_weight">Weight</string>
+    <string name="body_weight">Testsúly</string>
     <string name="body_weight_2fkg">%1$.2f KG</string>
     <string name="body_weight_descripe_content">Body mass index (BMI) is the body mass divided by the square of the body height (kg/㎡).</string>
     <string name="body_weight_extremely_obesity">Morbidly obese</string>
@@ -305,7 +305,7 @@ A Xiaomi Health csak fontos eseményekről fog értesítéseket küldeni Önnek.
     <string name="enable_not_now">Not now</string>
     <string name="enable_right_now">Turn on</string>
     <string name="engrgy_format">%1$d W</string>
-    <string name="enough">Enough</string>
+    <string name="enough">Elegendő</string>
     <string name="environment_detection_again">Try again</string>
     <string name="environment_detection_fail">"Looks like it's too noisy here"</string>
     <string name="environment_detection_fail_hint">Move to a quiet place and try again.</string>
@@ -316,7 +316,7 @@ A Xiaomi Health csak fontos eseményekről fog értesítéseket küldeni Önnek.
     <string name="eras_bc">I.E.</string>
     <string name="evening">Délután</string>
     <string name="excessive">Too much</string>
-    <string name="exercise">Workouts</string>
+    <string name="exercise">Edzések</string>
     <string name="exercise_consume">%1$d kcal elégetve</string>
     <string name="exercise_consume_description">According to Dietary Guidelines for Chinese Residents, daily physical activity should consume more than 15% of total energy expenditure. The energy spent on your daily physical activity is summarized here, but does not include basal metabolic expenditure. If you have weight management concerns, you need to focus on energy intake as well.</string>
     <string name="exercise_consume_exercise_description">This is the time you spend on moderate and high intensity activities. According to the Chinese health authorities, weekly exercise duration should be at least 150 minutes (at least 30 minutes per session). Activities such as brisk walking (cadence greater than 100 steps per minute), running, and climbing stairs will be viewed as moderate to high intensity workouts.</string>
@@ -391,6 +391,8 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="fewer">Little</string>
     <string name="find_new_verision">A(z) %s verzió már elérhető</string>
     <string name="finish">Befejezés</string>
+	<string name="finish_stand">Igen</string>
+    <string name="finish_stand2">Standing up</string>
     <string name="finished_rate">Completed %1$d%%</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -474,7 +476,8 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="health_score_tips">Az egészségügyi pontszámának kiszámítása a BMI-n (testtömeg-index), valamint az alvásán és tevékenységi lépésein alapul. Minél közelebb van a céljához, annál magasabb az egészségügyi pontszáma.</string>
     <string name="health_uninstall_dialog_content">A Xiaomi Health egy rendszeralkalmazás. Ezzel az alkalmazással számolhatja a lépéseket, nyomon követheti az alvást, az menstruációt és a súlyát, valamint szinkronizálhatja a statisztikákat a felhőben. Az eltávolítást követően nem tudja használni ezt az alkalmazást.</string>
     <string name="health_uninstall_dialog_title">Xiaomi Health eltávolítása?</string>
-    <string name="heart_rate">Pulzus</string>
+    <string name="hearing">Hallás</string>
+	<string name="heart_rate">Pulzus</string>
 	<string name="height">Hight</string>
     <string name="high">Magas</string>
     <string name="high2">Magas</string>
@@ -514,7 +517,7 @@ Wait until the circle turns red."</string>
     <string name="hr_fp_detect_principle_desc">"Blood isn't completely opaque; therefore, light can pass through it. With every heartbeat, blood flows to your fingers, blocking more light than between the heartbeats. Bright light in the fingerprint scanner area under the screen allows us to track the changes in your blood flow, analyze the patterns, and convert them into heart rate values."</string>
     <string name="hr_fp_detect_principle_desc_2">"Note: Make sure your finger fully covers the fingerprint icon during the measurement. Don't apply force, as it might block blood flow in your fingertip and make the results inaccurate. This measurement is provided for your reference only. It can't replace medical tests."</string>
     <string name="hr_fp_detect_principle_desc_3">Our tests show that this method measures your heart rate with an error of only ≤3 BPM.</string>
-    <string name="hr_fp_detect_start_desc">Tartsa az űjját a leolvasón</string>
+    <string name="hr_fp_detect_start_desc">Tartsa az újját a leolvasón</string>
     <string name="hr_fp_detecting">Ne mozdítsa el az újját</string>
     <string name="hr_fp_not_put_well">"Your finger moved.
 Start over."</string>
@@ -664,7 +667,7 @@ Start over."</string>
     <string name="menses_auto_start_description">Az emlékeztetők bekapcsolásával a Xiaomi Health automatikusan újraindul.</string>
     <string name="menses_features_description">Record your periods and receive reminders</string>
     <string name="menstrual_assistant">Menstruáció</string>
-    <string name="menstruation">Menstruation</string>
+    <string name="menstruation">Menstruáció</string>
     <string name="menstruation_cycle">Menstruációs ciklus</string>
     <string name="menstruation_cycle_description">2 egymást követő ciklus első napjának között eltelt idő</string>
     <string name="menstruation_days">Menstruáció időtartama</string>
@@ -790,8 +793,8 @@ Start over."</string>
     <string name="open_unrestricted_permissions">Az alvás pontosabb nyomon követéséhez engedélyezze a Xiaomi Health-nek, hogy mindig fusson a háttérben.</string>
     <string name="outdoor_hiking">Hiking</string>
     <string name="outdoor_riding">Outdoor cycle</string>
-    <string name="outdoor_running">Running</string>
-    <string name="outdoor_walking">Walking</string>
+    <string name="outdoor_running">Futás</string>
+    <string name="outdoor_walking">Séta</string>
     <string name="page">%1$d/%2$d</string>
     <string name="passable">OK</string>
     <string name="passport_oauth_actionbar_title">Mi Fiók</string>
@@ -864,7 +867,7 @@ Start over."</string>
     <string name="revert_to_default">Alapértelmezés visszaállítása</string>
     <string name="rope_skipping">Jump rope</string>
     <string name="rowing_machine">Rower</string>
-    <string name="run">Running</string>
+    <string name="run">Futás</string>
     <string name="saturday">Szombat</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
@@ -1060,7 +1063,25 @@ nem találhatók"</string>
     <string name="snore_record_audio_delete_title">Delete recording?</string>
     <string name="snore_section">Snoring %1$s</string>
     <string name="snore_write_description">For saving audio recordings to your device</string>
-    <string name="sport_type">Workout type</string>
+    <string name="sport_settings_title">Edzések</string>
+	<string name="sport_type">Workout type</string>
+	<string name="stand">Standing up</string>
+    <string name="stand_assistant">Standing up</string>
+    <string name="stand_detection">Track standing up</string>
+    <string name="stand_guide_page_title1">Keep standing up regularly to avoid the risks of sedentary lifestyle</string>
+    <string name="stand_guide_page_title2">Track, record, and receive reminders</string>
+    <string name="stand_notice">Remind to stand up</string>
+    <string name="stand_notice_subtitle1">"Looks like you haven't stood up between %1$s and %2$s. If you have, add a record manually."</string>
+    <string name="stand_notice_subtitle2">"If you've stood up, add a record manually. If you haven't, stand up and move a little."</string>
+    <string name="stand_notice_title1">Stand up and move a little</string>
+    <string name="stand_notice_title2">Time to stand up</string>
+    <string name="stand_notice_title3">"You've been sitting for too long"</string>
+    <string name="stand_notice_title4">Stand up and do stretch a little</string>
+    <string name="stand_notice_title5">"Looks like you haven't stood up within the last hour"</string>
+    <string name="stand_notice_title6">Have you stood up within the last hour?</string>
+    <string name="stand_remind_setting_desc">Receive a reminder to stand up after 1 hour of inactivity</string>
+    <string name="stand_setting">Beállítások</string>
+    <string name="stand_stop_reminding">"Ne mutassa újra"</string>
     <string name="standard_format">(standard: %1s)</string>
     <string name="state_agree">Engedélyezés</string>
     <string name="state_auto_run_disenable">Ki</string>
@@ -1076,7 +1097,7 @@ nem találhatók"</string>
     <string name="subtitle_record_and_start_predict">Rögzítsen egy menstruációt a következő kezdetének becsléséhez</string>
     <string name="subtitle_run_in_background">Válassza a \"Nincs korlátozás\" opciót a pontos statisztikákért</string>
     <string name="subtitle_stick_record">Rögzítse a menstruációit a pontosabb előrejelzésekért</string>
-    <string name="sufficient">Enough</string>
+    <string name="sufficient">Elegendő</string>
     <string name="suggestion_drink_content">Figyeljen oda a testének feszültségére és próbálja meg elengedni magát.</string>
     <string name="suggestion_drink_title">Igyon egy kis vizet és pihenjen</string>
     <string name="suggestion_move_content">Gyalogoljon 100 lépést, vagy másszon meg fordulónyi lépcsőt.</string>
@@ -1214,7 +1235,7 @@ Frissíti most?"</string>
     <string name="value_error_correct">Felvétel szerkesztése</string>
     <string name="view_step_and_progress">View your current step count</string>
     <string name="voice_remind">"We've increased the volume so you hear the instructions better."</string>
-    <string name="walk">Walking</string>
+    <string name="walk">Séta</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
     <string name="wednesday_shortest">Sze</string>
