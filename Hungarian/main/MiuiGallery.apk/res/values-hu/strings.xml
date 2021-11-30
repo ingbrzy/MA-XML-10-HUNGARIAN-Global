@@ -2149,7 +2149,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="security_share_subtitle_default">Privacy protection</string>
     <string name="security_share_subtitle_hide">Location info was removed</string>
     <string name="security_share_subtitle_no_hide">Helyszín adatokat tartalmaz</string>
-    <string name="see_ignore_faces">"A már figyelmen kívül hagyottak megtekintéseg>
+    <string name="see_ignore_faces">"A már figyelmen kívül hagyottak megtekintése</string>
     <string name="select_all">Összes kiválaszása</string>
     <string name="select_image_operation">Fényképek hozzáadása</string>
     <string name="select_item_face">"Is this '%s'?"</string>
