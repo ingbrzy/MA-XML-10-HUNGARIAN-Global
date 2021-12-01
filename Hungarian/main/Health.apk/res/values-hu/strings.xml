@@ -85,9 +85,11 @@ You'll be able to track your workouts and activity."</string>
     <string name="awake_duration_description">Night awakenings might occur while you sleep. Frequent awakenings or difficulty falling back asleep might result in sleep fragmentation and seriously affect sleep quality.</string>
     <string name="awake_duration_good_description">"You didn't have any night awakenings."</string>
     <string name="awake_duration_normal_description">You experienced some night awakenings.</string>
-    <string name="back_stroke">Backstroke</string>
+    <string name="back">Vissza</string>
+	<string name="back_stroke">Backstroke</string>
     <string name="background_run_tips">Koppintson az alábbi \"Beállításokra\" és engedélyezze a Xiaomi Health-nek, hogy mindig fusson a háttérben.</string>
-    <string name="basic_info_label_age">Életkor</string>
+    <string name="backtrack">Vissza</string>
+	<string name="basic_info_label_age">Életkor</string>
     <string name="basic_info_label_birthday">Születésnap</string>
     <string name="basic_info_label_gender">Nem</string>
     <string name="basic_info_label_height">Magasság</string>
@@ -172,6 +174,7 @@ You'll be able to track your workouts and activity."</string>
     <string name="cross_hiking">Hiking</string>
     <string name="cumulative_decline">Elevation loss</string>
     <string name="cumulative_rise">Elevation gain</string>
+	<string name="current_phone">Jelenlegi készülék</string>
     <string name="cycle">Kerékpározás</string>
     <string name="daily_consumption_label">Kalória</string>
     <string name="daily_distance_label">Távolság</string>
@@ -225,7 +228,9 @@ If you decide to delete your health data after you choose to keep it, you can do
     <string name="deep_sleep_duration_increase_description">Your deep sleep is too long</string>
     <string name="deep_sleep_duration_normal_description">You have a sufficient amount of deep sleep</string>
     <string name="default_notification_channel_name">Most lejátszott</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Törlés</string>
+	<string name="delete_aid_file">Törlés</string>
+	<string name="delete_contact">Törlés</string>
     <string name="delete_menstruation_record_confirm">Törli ezt a bejegyzést?</string>
     <string name="description">Details</string>
     <string name="detection_has_no_data">Nincs adat</string>
@@ -296,8 +301,11 @@ A Xiaomi Health csak fontos eseményekről fog értesítéseket küldeni Önnek.
     <string name="drink_water">Igyon egy kis vizet és sétáljon egyet!</string>
     <string name="early">Early</string>
     <string name="early_morning">Reggel</string>
+	<string name="earphone_listening_duration">Fejhallgató</string>
+	<string name="edit_aid_file">Szerkesztés</string>
     <string name="edit_basic_info_desc">Alapinformáció</string>
-    <string name="edit_sleep_record_button">Edit</string>
+	<string name="edit_immediately">Adatok megadása</string>
+    <string name="edit_sleep_record_button">Szerkesztés</string>
     <string name="elliptical_machine">Elliptical</string>
     <string name="empty" />
     <string name="enable">On</string>
@@ -315,6 +323,7 @@ A Xiaomi Health csak fontos eseményekről fog értesítéseket küldeni Önnek.
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="evening">Délután</string>
+	<string name="every_day">Mindennap</string>
     <string name="excessive">Too much</string>
     <string name="exercise">Edzések</string>
     <string name="exercise_consume">%1$d kcal elégetve</string>
@@ -451,6 +460,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
+	<string name="full_name">Név</string>
     <string name="gender_female">Nő</string>
     <string name="gender_male">Férfi</string>
     <string name="gender_other">Egyéb</string>
@@ -460,8 +470,10 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="getUp_time_late_description">"You got up late. Oversleeping doesn't bring any substantial benefits to your health."</string>
     <string name="getUp_time_normal_description">You got up on time. Keep it up!</string>
     <string name="go_back_to_today">Vissza a mai naphoz</string>
+	<string name="go_on">Folytatás</string>
     <string name="go_open_sleep_detector">Indítás</string>
     <string name="go_setting">Beállítások</string>
+	<string name="go_to_close">Beállítások</string>
     <string name="go_to_upgrade">Frissítés</string>
     <string name="goto_setting_auto_start">Beállítások</string>
     <string name="group">Cycles</string>
