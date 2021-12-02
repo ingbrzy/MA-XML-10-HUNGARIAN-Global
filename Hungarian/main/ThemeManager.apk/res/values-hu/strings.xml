@@ -471,6 +471,17 @@
     <string name="payment_method">Fizetési mód</string>
     <string name="personal_recommend_desc">Tartalomra vonatkozó ajánlások fogadása a preferenciái alapján</string>
     <string name="personal_recommend_title">Személyre szabott ajánlások</string>
+	<string name="personalize">Személyre szabás</string>
+	<string name="personalize_alarm_ringtone_title">Ébresztések</string>
+	<string name="personalize_call_ringtone_title">Csengőhangok</string>
+	<string name="personalize_fingerprint_style_title">Ujjlenyomat</string>
+	<string name="personalize_icon_title">Ikonok</string>
+    <string name="personalize_notify_ringtone_title">Értesítések</string>
+    <string name="personalize_notify_style_title">Effektek</string>
+    <string name="personalize_theme_entrance">Témák</string>
+    <string name="personalize_third_font">Betűtípusok</string>
+	<string name="personalize_title">Háttérkép és személyre szabás</string>
+	<string name="personalize_wallpaper_title">Háttérkép</string>
     <string name="peyment_pay_now_btn">Fizetés</string>
     <string name="peyment_theme_detail_buy_btn">Vásárlás %1s</string>
     <string name="phone_ringtone">Csengőhang</string>
@@ -858,6 +869,7 @@
     <string name="theme_changed_failed_message">A téma beállítása nem sikerült.</string>
     <string name="theme_changed_message">Téma beállítva</string>
     <string name="theme_changing_dialog_title">Téma alkalmazása. Kérjük, várjon...</string>
+	<string name="theme_component_icon">Ikonok</string>
     <string name="theme_component_title_alarm">Riasztások</string>
     <string name="theme_component_title_alarmstyle">Riasztás</string>
     <string name="theme_component_title_all">Témák</string>
@@ -907,6 +919,7 @@
     <string name="theme_on_the_phone_alert">Hívás alatt nem lehet lejátszani</string>
     <string name="theme_select_others">Egyéb</string>
     <string name="theme_setting">Beállítások</string>
+	<string name="theme_settings_title">Témák</string>
     <string name="theme_user_agreement_allow">Elfogadás</string>
     <string name="theme_user_agreement_content1">"Elolvastam és megértettem a "</string>
     <string name="theme_user_agreement_content2">Felhasználói Szerződés</string>
@@ -991,6 +1004,8 @@
     <string name="wallpaper_set_as_both">Beállítás mindkettőnek</string>
     <string name="wallpaper_set_as_desktop">Beállítás Kezdőképernyőnek</string>
     <string name="wallpaper_set_as_lockscreen">Beállítás képernyőzárra</string>
+	<string name="wallpaper_setting_library">Könyvtár</string>
+	<string name="wallpaper_setting_title">Háttérkép</string>
     <string name="wallpaper_settings">Háttérkép beállítások</string>
     <string name="wallpaper_settings_loading_text">Egy pillanat…</string>
     <string name="wallpaper_settings_no_history">Nincs előzmény</string>

@@ -524,13 +524,13 @@ Wait until the circle turns red."</string>
     <string name="hr_disable_in_split_screen">"Can't measure heart rate while using Split screen"</string>
     <string name="hr_disturb_detect">Detection interrupt</string>
     <string name="hr_finger_permission_desc">To measure your heart rate, this feature needs to access fingerprint scanner to be able to detect changes in your blood flow. Allow?</string>
-    <string name="hr_fp_area">Újjlenyomat olvasó</string>
+    <string name="hr_fp_area">Ujjlenyomat olvasó</string>
     <string name="hr_fp_detect_desc">Blood flows to your fingers with every heartbeat. Bright light in the fingerprint scanner area under the screen allows us to track the changes in your blood flow, analyze the patterns, and convert them into heart rate values.</string>
     <string name="hr_fp_detect_principle_desc">"Blood isn't completely opaque; therefore, light can pass through it. With every heartbeat, blood flows to your fingers, blocking more light than between the heartbeats. Bright light in the fingerprint scanner area under the screen allows us to track the changes in your blood flow, analyze the patterns, and convert them into heart rate values."</string>
     <string name="hr_fp_detect_principle_desc_2">"Note: Make sure your finger fully covers the fingerprint icon during the measurement. Don't apply force, as it might block blood flow in your fingertip and make the results inaccurate. This measurement is provided for your reference only. It can't replace medical tests."</string>
     <string name="hr_fp_detect_principle_desc_3">Our tests show that this method measures your heart rate with an error of only ≤3 BPM.</string>
-    <string name="hr_fp_detect_start_desc">Tartsa az újját a leolvasón</string>
-    <string name="hr_fp_detecting">Ne mozdítsa el az újját</string>
+    <string name="hr_fp_detect_start_desc">Tartsa az ujját a leolvasón</string>
+    <string name="hr_fp_detecting">Ne mozdítsa el az ujját</string>
     <string name="hr_fp_not_put_well">"Your finger moved.
 Start over."</string>
     <string name="hr_fp_report_common_desc">Normal heart rate ranges from 60 to 100 beats per minute. A heart rate lower than 60 BPM is a sign of bradycardia, while a heart rate over 100 BPM is accepted as tachycardia in adults.</string>

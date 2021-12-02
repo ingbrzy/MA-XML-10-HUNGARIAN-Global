@@ -167,6 +167,12 @@
     <string name="context_menu_send_sms">Üzenet küldése</string>
     <string name="context_menu_view_contact">Névjegy megtekintése</string>
     <string name="context_menu_view_mms">MMS megtekintése</string>
+	<string name="conv_content_defraud_tip">Report fraud</string>
+    <string name="conv_content_risk">Sent from unknown number</string>
+    <string name="conv_head_link_tip">Report fraud</string>
+    <string name="conv_head_risk_tip">Might be overseas fraud</string>
+    <string name="conv_item_official">Official</string>
+    <string name="conv_item_risk_tip">Risk</string>
     <string name="conversation">Üzenetek</string>
     <string name="conversation_listitem_avatar">Avatar</string>
     <string name="converting_to_picture_message">Konvertálás multimédiás üzenetté…</string>
@@ -287,7 +293,7 @@
     <string name="fake_cell_timeout_hint">"Couldn't check safety"</string>
     <string name="favorite_at_time">Added to favorites at: %1s</string>
     <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>
-    <string name="feature_mx">Mi Message</string>
+    <string name="feature_mx">Mi Üzenet</string>
     <string name="feature_mx_summary"><b>Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges</b>. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our <font color="#B3000000"><a href="http://url1">User Agreement</a></font> and <font color="#B3000000"><a href="http://url2">Adatvédelmi Irányelvek</a></font> before using this feature.</string>
     <string name="feature_smart_sms">Smart Messaging</string>
     <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Adatvédelmi Irányelvek</a></font> before using this feature.</string>
@@ -386,16 +392,6 @@
     <string name="guild_add_recipients">Tap to add recipients from contacts</string>
     <string name="guild_msim_switcher">Tap to switch SIM cards</string>
     <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s></string>
-    <string name="heavenly_stems_bing">丙</string>
-    <string name="heavenly_stems_ding">丁</string>
-    <string name="heavenly_stems_geng">庚</string>
-    <string name="heavenly_stems_gui">癸</string>
-    <string name="heavenly_stems_ji">己</string>
-    <string name="heavenly_stems_jia">甲</string>
-    <string name="heavenly_stems_ren">壬</string>
-    <string name="heavenly_stems_wu">戊</string>
-    <string name="heavenly_stems_xin">辛</string>
-    <string name="heavenly_stems_yi">乙</string>
     <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">Hidden sender address</string>
     <string name="hold_to_talk">Hold to talk</string>
@@ -458,6 +454,7 @@
     <string name="menu_new_manual">Enter phone number</string>
     <string name="menu_pick_from_contact">Select from contacts</string>
     <string name="menu_preferences">Beállítások</string>
+	<string name="menu_report">Feedback</string>
     <string name="menu_send_as_common">Küldés SMS-ként</string>
     <string name="menu_sms_block">Tiltólista</string>
     <string name="menu_traffic_destination">Destination</string>
@@ -498,6 +495,8 @@ Check your SIM card."</string>
     <string name="mi_message_title">Mi üzenet</string>
     <string name="midnight">Night</string>
     <string name="millionbyte">MB</string>
+	<string name="miuix_access_state_desc">Selected</string>
+    <string name="miuix_alphabet_indexer_name">Index bar</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselect</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
@@ -515,6 +514,8 @@ Check your SIM card."</string>
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
+	<string name="miuix_indexer_collect">Collections</string>
+    <string name="miuix_indexer_selected">Selected %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Frissítés…</string>
@@ -1127,13 +1128,16 @@ Take a look at the recommended ones!"</string>
     <string name="send_message_notification_tickerText">Device is requesting permission</string>
     <string name="send_message_notification_title">Permission request</string>
     <string name="send_rms_editor_hints">5G Messaging</string>
-    <string name="send_rms_editor_hints_omit">Mi Message</string>
+    <string name="send_rms_editor_hints_omit">Mi üzenet</string>
     <string name="send_signature_confirm_dialog_message">No content found. Send only your signature?</string>
     <string name="send_signature_confirm_dialog_title">Send message</string>
     <string name="send_sms">Send message</string>
     <string name="send_to">To:</string>
     <string name="sent_at_time">Sent at: %1s</string>
     <string name="sent_label">"Sent: "</string>
+	<string name="service_abandon_alert">Attention</string>
+     <string name="service_abandon_retry_deny">Vissza</string>
+     <string name="service_abandon_retry_setting">Beállítások</string>
     <string name="service_message_not_found">Message expired or unavailable</string>
     <string name="service_network_problem">"Couldn't send due to network problem"</string>
     <string name="service_not_activated">Service not activated on network</string>
@@ -1147,6 +1151,7 @@ Take a look at the recommended ones!"</string>
     <string name="show_sender">Show sender info</string>
     <string name="sim1">Sim 1</string>
     <string name="sim2">Sim 2</string>
+	<string name="sim_activation_service_retry_main_purpose">SIM activation must be turned on for Mi Message to work normally. You can turn on SIM activation in Settings > Manage apps.</string>
     <string name="sim_card1">SIM card 1</string>
     <string name="sim_card2">SIM card 2</string>
     <string name="sim_card_cloud">%s (Mi Message)</string>
@@ -1444,6 +1449,7 @@ Attempt made: %s."</string>
     <string name="wednesday_shortest">Sze</string>
     <string name="wild_msg_processing">Working…</string>
     <string name="wild_msg_title">Choose phone numbers to sync</string>
+	<string name="xiaomi_account_service_retry_main_purpose">Mi Account services must be turned on for this feature to work normally. You can turn on Mi Account services in Settings > Manage apps.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Most nem</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Frissítés</string>
     <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
