@@ -31,6 +31,7 @@
     <string name="download_fail_desc">Az ellenőrzőösszeg eltér…</string>
     <string name="downloading">Letöltés:</string>
     <string name="downloading_desc">Letöltés folyamatban, állapotát nyomon követheti az értesítési sávon.</string>
+	<string name="fastboot_update_warning">Ez a frissítés csak Fastboot módban telepíthető!</string>
     <string name="fetching_data">Letöltési hivatkozás visszafejzése, kérem, várjon…</string>
     <string name="install_desc">Az eszköz hamarosan újraindul helyreállítási üzemmódban és folytatja az alábbi csomag telepítését: <b>%1$s</b>"
 A felhasználói adatok érintetlenek maradnak."</string>

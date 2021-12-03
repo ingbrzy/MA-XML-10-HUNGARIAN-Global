@@ -378,6 +378,8 @@
     <string name="pay_error_cancel">A fizetés törlésre került</string>
     <string name="pay_error_null">Fizetés végrehajtása sikertelen. Ellenőrizze fiókját.</string>
     <string name="pay_error_unknown">Ismeretlen hiba</string>
+	<string name="permission_dialog_cancel">Mégse</string>
+	<string name="permission_dialog_ok">Beállítások</string>
     <string name="play_speed">%1$.1fX sebesség</string>
     <string name="playback_delete_records">Felvétel törlése</string>
     <string name="playback_share_records">Felvétel megosztása</string>
@@ -399,6 +401,7 @@
     <string name="preference_status_bar_indicator_prompt">Jelenjen meg kék jelző a Képernyőzáron felvétel közben</string>
     <string name="preference_tip_rename">Felvétel automatikus átnevezése</string>
     <string name="privacy_policy_title">Adatvédelmi Irányelvek</string>
+	<string name="privacy_settings">Adatvédelem</string>
     <string name="recognition_button_add_to_queue">Hozzáadás a várólistához</string>
     <string name="recognition_button_cancel">Most nem</string>
     <string name="recognition_button_start">Szövegátirat</string>
@@ -498,6 +501,10 @@
     <string name="rename_no_more_tip">Ne jelenjen meg újra</string>
     <string name="retry">Újra</string>
     <string name="runtime_permission_ungranted">Nem tudja használni a Hangrögzítőt nem megadott engedélyek miatt</string>
+	<string name="saf_permission_dialog_grant_permission_immediately">Beállítások</string>
+	<string name="saf_permission_dialog_later">Köszönöm nem</string>
+    <string name="saf_permission_dialog_no_more_tip">"Ne mutassa újra"</string>
+    <string name="saf_permission_dialog_title">Engedély szükséges</string>
     <string name="saturday">Szombat</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
@@ -625,6 +632,7 @@
     <string name="user_feedback">Visszajelzés</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
+	<string name="view_privacy">Adatvédelmi irányelvek</string>
     <string name="webview_check_network">Hálózati beállítások</string>
     <string name="webview_data_error">Hiba történt</string>
     <string name="webview_locating_fail">Helymeghatározás sikertelen</string>
@@ -637,5 +645,7 @@
     <string name="wednesday_shortest">Sze</string>
     <string name="wifi_recommended_body" formatted="false">Ha (%s) fájlt mobilinterneten tölti le, megnőhet a forgalma. Ha túlhaladja a havi korlátot, a szolgáltatója plusz díjat számolhat fel. Ha Wi-Fi-vel szeretné letölteni, koppintson %s.</string>
     <string name="wifi_recommended_title">Adatforgalmi figyelmeztetés</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Most nem</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Frissítés</string>
     <string name="yesterday">Tegnap</string>
 </resources>

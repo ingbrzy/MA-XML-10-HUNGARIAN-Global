@@ -8704,6 +8704,12 @@ Győződjön meg róla, hogy a tanúsítvány valódi."</string>
     <string name="wifi_wps_onstart_pin">Írja be a %1$s kódot a Wi-Fi routerébe. A beállítás két percet vesz igénybe.</string>
     <string name="wifi_wps_overlap_error">Másik védett Wi-Fi folyamat érzékelhető. Próbálja újra pár perc múlva.</string>
     <string name="wifi_wps_setup_title">WPS (Wi-Fi védett beállítás)</string>
+	<string name="wifitrackerlib_wifi_connected_cannot_provide_internet">"Csatlakozva. Nincs internet."</string>
+	<string name="wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect">"Nem lehet csatlakozni. Próbálja később."</string>
+	<string name="wifitrackerlib_wifi_network_not_found">"Nem lehet csatlakozni. Próbálja később."</string>
+	<string name="wifitrackerlib_wifi_no_internet">Nincs internet</string>
+	<string name="wifitrackerlib_wifi_remembered">Mentve</string>
+	<string name="wifitrackerlib_wifi_security_none">Nincs</string>
     <string name="window_animation_scale_title">Ablakanimáció tempója</string>
     <string name="winscope_trace_quick_settings_title">Winscope Trace</string>
     <string name="wireless_connected">Csatlakozva</string>

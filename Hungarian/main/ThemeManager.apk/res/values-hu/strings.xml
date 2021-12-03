@@ -42,6 +42,11 @@
     <string name="actionbar_button_up_description">Vissza</string>
     <string name="ad_app_download_start">Letöltés indítása…</string>
     <string name="ad_app_is_downloading">Letöltés…</string>
+	<string name="ad_begin_to_install_tip">Telepítés…</string>
+	<string name="ad_download_download">Letöltés</string>
+    <string name="ad_download_download_now">Letöltés</string>
+    <string name="ad_download_install">Telepítés</string>
+    <string name="ad_download_now">Letöltés</string>
     <string name="ad_service">Hirdetések megjelenítése</string>
     <string name="add_resource_detail_fail">Téma hozzáadása nem sikerült</string>
     <string name="afternoon">Délután</string>
@@ -138,6 +143,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Kínai hagyományos naptár</string>
     <string name="date_time_picker_dialog_title">Dátum- és időbeállítás</string>
+	<string name="de_icon_text_favorite">Hozzáadás a kedvencekhez</string>
     <string name="deleting">Törlés…</string>
     <string name="description_author">Készítő:</string>
     <string name="description_designer">Tervező:</string>
@@ -880,6 +886,7 @@
     <string name="theme_component_title_contact">Tárcsázó</string>
     <string name="theme_component_title_font">Betűtípus</string>
     <string name="theme_component_title_framework">Téma</string>
+	<string name="theme_component_title_homepage">Kezdőlap</string>
     <string name="theme_component_title_icon">Ikonok</string>
     <string name="theme_component_title_launcher">Asztal</string>
     <string name="theme_component_title_lockstyle">Zár stílusa</string>

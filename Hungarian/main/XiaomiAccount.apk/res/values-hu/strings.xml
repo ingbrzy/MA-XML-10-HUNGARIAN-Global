@@ -107,7 +107,10 @@
     <string name="binded">Hozzáadva</string>
     <string name="binded_description" formatted="false">"A következö: %s hozzá lett kapcsolva az Ön Mi fiókjához.
 Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Mi fiókjába."</string>
-    <string name="button_unbind">Lecsatlakozás</string>
+    <string name="button_agree">Elfogadás</string>
+    <string name="button_close">Bezárás</string>
+    <string name="button_refuse">"Elutasítás"</string>
+	<string name="button_unbind">Lecsatlakozás</string>
     <string name="cancel">Mégse</string>
     <string name="change_activate_email">E-mail cím módosítása</string>
     <string name="change_email_address">E-mail cím módosítása</string>
@@ -690,6 +693,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="passport_wrong_voice">Az Ön által megadott kód helytelen</string>
     <string name="passport_wx_bind_account_limit">Most nem tud fiókot létrehozni. Próbáljon meg más bejelentkezési módszereket.</string>
     <string name="passport_yes">Igen</string>
+	<string name="password_toggle_content_description">Jelszó megjelenítése</string>
     <string name="password_view_hide_password">Jelszó elrejtése</string>
     <string name="password_view_show_password">Jelszó megjelenítése</string>
     <string name="permission_desc_read_sms">Az ellenőrzőkódok automatikus kitöltéséhez</string>
