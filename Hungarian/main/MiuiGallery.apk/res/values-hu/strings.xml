@@ -749,7 +749,6 @@ Készítsen több fotót a barátairól!"</string>
     <string name="face_name_edit">Szerkesztés</string>
     <string name="face_name_input">Írja be a nevet</string>
     <string name="face_recommend">Ajánlások</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Nem sikerült befejezni a műveletet</string>
     <string name="fail_to_pick_email">Érvénytelen e-mail cím</string>
     <string name="fail_to_sync_album">Album szinkronizálása sikertelen. Ellenőrizze a hálózat állapotát és próbálja újra.</string>
@@ -760,7 +759,6 @@ Készítsen több fotót a barátairól!"</string>
     <string name="feature_guidance_photo_effects">"Új fényképeffektek 
 érhetők el"</string>
     <string name="feature_guidance_video_editor_smart_effects">Új effektek érhetők el</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">Ez az elem nem nyomtatható.</string>
     <string name="file_cannot_screen_throw">Ez az elem nem vetíthető ki.</string>
     <string name="file_sending">Fájlátvitel…</string>
@@ -1012,7 +1010,6 @@ Készítsen több fotót a barátairól!"</string>
     <string name="grant_permission_go_and_set">Beállítáa</string>
     <string name="grant_permission_go_and_set_2">Beállítások</string>
     <string name="grant_permission_go_and_set_3">Beállítások</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_shortcut">Engedélyezze, hogy az alkalmazás először a Kezdőképernyő parancsikon parancsikonjait hozza létre.</string>
     <string name="grant_permission_storage">Engedélyezze, hogy ez az alkalmazás először hozzáférjen a tárhelyhez.</string>
     <string name="grant_permission_storage_unlock">Oldja fel a készülékét, és engedélyezze, hogy ez az alkalmazás először hozzáférjen a tárhelyhez.</string>
@@ -1626,7 +1623,6 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="people_mark_mode_title_no_mark_name">Válasszon ki egy személyt</string>
     <string name="people_page_label">Személyek</string>
     <string name="people_page_unname">Névtelen</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">A bejelentkezéshez és a rendszerfiók kezeléséhez</string>
     <string name="permission_account_name">Hozzáférés a fiókokhoz</string>
     <string name="permission_clipboard_desc">Az elemek eléréséhez és a vágólapra mentéséhez</string>
@@ -1652,7 +1648,6 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="photo_editor_beautify_auto">Automatikus</string>
     <string name="photo_editor_beauty_compare">Eredeti</string>
     <string name="photo_editor_common_download_failed">A plug-in letöltése sikertelen. Ellenőrizze a hálózati beállításokat, majd próbálja újra.</string>
-    <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">A plug-in letöltése sikeres</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">Úgy tűnik, hogy nem csatlakozik Wi-Fi-re. Letölti a beépülő modult (%1$d MB) mobiladat-kapcsolat használatával?</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">Beépülő modul letöltése</string>
@@ -1738,7 +1733,6 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="photo_editor_talkback_crop_9_18">9 x 18</string>
     <string name="photo_editor_talkback_crop_free">Szabad</string>
     <string name="photo_editor_talkback_crop_mirror">Tükör</string>
-    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">Eredeti</string>
     <string name="photo_editor_talkback_crop_reset">Visszaállítás</string>
     <string name="photo_editor_talkback_crop_right_rotate">90 fokos elforgatás</string>
@@ -2016,18 +2010,13 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="screen_editor_btn_save">Mentés</string>
     <string name="screen_editor_btn_shell_off">Eszközkeret eltávolítása</string>
     <string name="screen_editor_btn_shell_on">Eszközkeret hozzáadása</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">Eszközkerettel nem tud képernyőképeket kivágni</string>
     <string name="screen_editor_delete_dialog_msg">Törli ezt a képernyőképet?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Kész</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Nem lehet eszközkeretet hozzáadni a kivágott képernyőképekhez</string>
     <string name="screen_editor_shell_net_error">Csatlakozzon a hálózathoz az eszközkeret letöltéséhez</string>
     <string name="screen_editor_shell_res_downloading">Eszközkeret letöltése…</string>
     <string name="screen_editor_shell_storage_insufficient">Nem lehet letölteni az eszközkeretet, mert nincs elég tárhely</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Mégse</string>
     <string name="screen_save_dialog_btn_delete">Képernyőkép törlése</string>
     <string name="screen_save_dialog_btn_save">Mentés a Galériába</string>
