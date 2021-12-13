@@ -827,12 +827,14 @@
     <string name="card_main_applock_summary">Védje meg kiválasztott alkalmazásait egy jelszóval.</string>
     <string name="card_main_applock_title">Alkalmazások zárolása</string>
     <string name="card_main_deepclean_action">Tisztítás</string>
+	<string name="card_main_deepclean_facebook_title">Facebook tisztító</string>
     <string name="card_main_deepclean_qq_title">QQ tisztító</string>
     <string name="card_main_deepclean_summary">Szükségtelen fájlok törlése</string>
     <string name="card_main_deepclean_title">Mély tisztítás</string>
     <string name="card_main_deepclean_wechat_action">Törlés</string>
     <string name="card_main_deepclean_wechat_summary">Tárhely felszabadításához törölje a WeChat gyorsítótárat</string>
     <string name="card_main_deepclean_wechat_title">WeChat gyorsítótár</string>
+	<string name="card_main_deepclean_whatsapp_title">WhatsApp tisztító</string>
     <string name="card_main_gamebooster_summary">Hálózati stabilitás javítása játékok számára</string>
     <string name="card_main_gamebooster_title">Játékgyorsító</string>
     <string name="card_main_hbassistant_summary">Használja ezt a segédet, hogy mihamarabb hozzájuthasson a borítékokhoz</string>
@@ -1653,6 +1655,9 @@ fontos pillanatait"</string>
     <string name="gb_xunyou_gift_type_one">Xunyou gyorsító 1 napra</string>
     <string name="gb_xunyou_gift_type_three">Xunyou gyorsító 3 napra</string>
     <string name="gb_xunyou_gift_type_two">Xunyou gyorsító 2 napra</string>
+	<string name="gd_setting_group_custom_gtb_apps">Játékok</string>
+	<string name="gd_setting_group_smart_tool_box">Oldalsáv</string>
+	<string name="gd_setting_title">Oldalsáv</string>
     <string name="gdpr_msg">&lt;Data>A biztonsági kockázatok felismerése és az adatai védelme érdekében össze kell gyűjtenünk a szükséges mennyiségű információt az eszközéről. Olvassa el és fogadja el az &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Adatvédelmi irányelveket&lt;/a>, mielőtt használja a szolgáltatásainkat. Amennyiben nem engedélyezi ezeknek az információknak a gyűjtését, akkor is fogja tudni használni az alkalmazást, csak néhány funkció nem lesz elérhető. &lt;/Data></string>
     <string name="get_detail_by_click">Koppintson a részletek megtekintéséhez</string>
     <string name="get_sys_info">Adatok lekérése…</string>

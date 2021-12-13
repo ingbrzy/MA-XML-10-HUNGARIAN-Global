@@ -3162,7 +3162,7 @@ Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos 
     <string name="game_booster_title">Játékgyorsító</string>
     <string name="game_controller_settings_category">Játékvezérlő</string>
     <string name="game_storage_settings">Játékok</string>
-    <string name="gd_setting_title">Okos eszköztár</string>
+    <string name="gd_setting_title">Oldalsáv</string>
     <string name="general_category_title">Általános</string>
     <string name="general_notification_header">Kezelés</string>
     <string name="general_text">Szövegmező</string>
