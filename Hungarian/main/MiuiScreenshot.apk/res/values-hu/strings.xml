@@ -104,10 +104,13 @@
     <string name="friday_shortest">Pén</string>
     <string name="long_screenshot_guide_text">"Görgethető képernyőkép
 készítéséhez érintse meg"</string>
-    <string name="long_screenshot_out_of_memory_error">A kép mérete túl nagy</string>
+    <string name="long_screenshot_intercepted_error">"Képernyőkép sikertelen. Próbálja újra."</string>
+	<string name="long_screenshot_out_of_memory_error">A kép mérete túl nagy</string>
     <string name="long_screenshot_processing">Folyamatban…</string>
+	<string name="long_screenshot_processing_description_accessibility">Folyamatban</string>
     <string name="long_screenshot_stop">Kész</string>
     <string name="long_screenshot_top_msg">Képernyőkép készítése…</string>
+	<string name="long_screenshot_top_msg_description_accessibility">Képernyőkép készítése</string>
     <string name="long_screenshot_top_msg_manual">Vágja ki a képernyőképet és érintse meg a gombot a befejezéshez</string>
     <string name="midnight">Éjjel</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
@@ -187,11 +190,13 @@ készítéséhez érintse meg"</string>
     <string name="saturday">Szombat</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
+	<string name="save_success">Sikeresen mentve</string>
     <string name="screenshot_edit">Szerkesztés</string>
     <string name="screenshot_failed_in_landscape_mode">Fekvő üzemmódban nem tehetők görgethetővé a képernyőfelvételek</string>
     <string name="screenshot_feedback_txt">Visszajelzés</string>
     <string name="screenshot_insert_failed">Képernyőkép betöltése sikertelen. Készítsen egy újat vagy tekintse meg a képet a Galériában.</string>
     <string name="screenshot_long_screenshot">Görgetés</string>
+	<string name="screenshot_save">Mentés</string>
     <string name="screenshot_send">Küldés</string>
     <string name="screenshot_thumbnail">Képernyőkép miniatűr</string>
     <string name="search_menu_title">Keresés</string>

@@ -458,6 +458,7 @@
     <string name="menu_launcher_setting">Kezdőképernyő beállításai</string>
     <string name="menu_lock">Kezdőképernyő-elrendezés zárolása</string>
     <string name="menu_more">Továbbiak</string>
+	<string name="menu_no_word">"Ikon nevek elrejtése"</string>
     <string name="menu_picktheme">Válasszon témát</string>
     <string name="menu_reset_scene">Visszaállítás az alapértelmezettre</string>
     <string name="menu_search">Keresés</string>

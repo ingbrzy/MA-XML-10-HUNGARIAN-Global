@@ -1026,6 +1026,7 @@ Készítsen több fotót a barátairól!"</string>
     <string name="grant_permission_unlock_and_set_2">Feloldás</string>
     <string name="grant_permission_write_clipboard">Az elemek másolásához engedélyezze, hogy ez az alkalmazás elemeket mentsen a vágólapra.</string>
     <string name="group_header_title_immutable_album">Fényképek rendezése</string>
+	<string name="group_header_title_media_group">Média típusok</string>
     <string name="group_header_title_third_album">Több album</string>
     <string name="group_header_title_user_create_album">Albumaim</string>
     <string name="has_invalid_recipient">Érvénytelen címzett(ek): %1$s</string>
@@ -1283,7 +1284,13 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="mark_operation_processing">Folyamatban…</string>
     <string name="mark_operation_succeeded">Sikeresen hozzáadva</string>
     <string name="mark_people_ignore_info_message">Ha egy személyt a csoporthoz szeretne adni, tartsa nyomva a fényképét</string>
-    <string name="megabyteShort">MB</string>
+    <string name="media_type_burst_photo">Sorozat</string>
+	<string name="media_type_doc_photo">Dokumentum</string>
+	<string name="media_type_front_photo">Szelfi</string>
+	<string name="media_type_motion_photo">Dinamikus</string>
+    <string name="media_type_pano_photo">Panoráma</string>
+    <string name="media_type_portrait_photo">Portré</string>
+	<string name="megabyteShort">MB</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
     <string name="member_menu_vipname_free">Ingyenes</string>
@@ -2000,6 +2007,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="rubbish_nomedia_manager_button_text">A „.nomedia” fájlokat tartalmazó albumok kezelése</string>
     <string name="runtime_permission_ungranted">Galéria zárva, adja meg a szükséges engedélyeket</string>
 	<string name="saf_requester_cancel">Mégse</string>
+	<string name="saf_secret_album">Privát album</string>
     <string name="same_name_album_exist_and_toast">"Már van ilyen nevű album. '%s' létrehozva helyette."</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Samsung telefon</string>
@@ -2838,6 +2846,7 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="vlog_improt_encode_video_error">Kódolási hiba történt. Próbálja újra.</string>
     <string name="vlog_load_data_fail">Nem lehet adatokat betölteni</string>
     <string name="vlog_mi_clip">Videószerkesztő</string>
+	<string name="vlog_mi_clip_cn">Videószerkesztő</string>
     <string name="vlog_min_resolution_hint">Az aktuális felbontás a lehető legalacsonyabb</string>
     <string name="vlog_nav_title_audio">Hangfelvétel</string>
     <string name="vlog_nav_title_caption">Képfeliratok</string>
@@ -2997,6 +3006,9 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>
     <string name="xiaomi_cc_9e">Mi CC9e</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Ne most</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Frissítés</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Frissítés elérhető</string>
     <string name="xiaomi_max_3">Mi MAX 3</string>
     <string name="xiaomi_mix_2">Mi MIX 2</string>
     <string name="xiaomi_mix_2s">Mi MIX 2S</string>
