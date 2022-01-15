@@ -1712,7 +1712,10 @@ VPN-hez is kapcsolódik, amely szintén figyelheti hálózati tevékenységét."
     <string name="running_process_item_user_label">Felhasználó: %1$s</string>
     <string name="runningservices_settings_summary">A jelenleg futó alkalmazások megtekintése és ellenőrzése</string>
     <string name="runningservices_settings_title">Futó szolgáltatások</string>
-    <string name="save">Mentés</string>
+    <string name="saturday">Szombat</string>
+    <string name="saturday_short">Szo.</string>
+    <string name="saturday_shortest">Szo</string>
+	<string name="save">Mentés</string>
     <string name="saved_network">%1$s mentette</string>
     <string name="screen_pinning_can_open_other_apps">A kitűzött alkalmazás megnyithat más alkalmazásokat.</string>
     <string name="screen_pinning_description">Megjelenítve tartja addig, amíg Ön fel nem oldja a rögzítést. A feloldáshoz tartsa lenyomva a Vissza és az Áttekintés lehetőséget.</string>
