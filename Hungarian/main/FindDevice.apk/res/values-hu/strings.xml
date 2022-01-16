@@ -36,6 +36,7 @@
     <string name="captcha">Robotszűrő kód</string>
     <string name="change_find_device_status_failed">Nem sikerült kinyit. %s.</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
+	<string name="close">Bezárás</string>
     <string name="copy">Másolás</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -212,6 +213,7 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
     <string name="search_menu_title">Keresés</string>
+	<string name="send">Küldés</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">A Robotszűrő kód nem lehet üres</string>
     <string name="stop_on_empty_password">A jelszó nem lehet üres</string>
@@ -223,7 +225,10 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="sys_notification_async_open_failed_title">Készülékkeresés bekapcsolása sikertelen</string>
     <string name="sys_notification_async_verify_content">A frissített Biztonsági irányelvek megkövetelik, hogy a Készölékkeresés újra aktiválva legyen.</string>
     <string name="sys_notification_async_verify_title">Készülékkeresés újraaktiválása</string>
-    <string name="the_anniversary_of_lifting_martial_law">A harci törvény feloldásának évfordulója</string>
+    <string name="talkback_back">Vissza</string>
+    <string name="talkback_hide_pwd">Jelszó elrejtése</string>
+    <string name="talkback_show_pwd">Jelszó megjelenítése</string>
+	<string name="the_anniversary_of_lifting_martial_law">A harci törvény feloldásának évfordulója</string>
     <string name="the_anti_aggression_day">Agresszióellenes Nap</string>
     <string name="the_arbor_day">A Fák Napja</string>
     <string name="the_armed_forces_day">Fegyveres Erők Napja</string>
