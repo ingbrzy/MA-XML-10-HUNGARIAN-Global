@@ -18,7 +18,7 @@
     <string name="channel_service">Rendszerfrissítő háttérszolgáltatás</string>
     <string name="channel_update">Új verzió érhető el</string>
     <string name="check_new_version">Frissítés keresése</string>
-    <string name="dialog_3g_desc">Nem javasolt mobiladat használata a frissítés letöltéséhez. A frissítés mérete miatt jelentősen csökkenhat az adatkerete.</string>
+    <string name="dialog_3g_desc">Nem javasolt mobiladat használata a frissítés letöltéséhez. A frissítés mérete miatt jelentősen csökkenhet az adatkerete.</string>
     <string name="dialog_3g_title">Figyelem!</string>
     <string name="dialog_btn_3g">Folytatás mindenképp</string>
     <string name="dialog_btn_wifi">Váltás Wi-Fi hálózatra</string>
