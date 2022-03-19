@@ -78,12 +78,12 @@
         <item quantity="one">%1$s m</item>
     </plurals>
     <plurals name="common_unit_step">
-        <item quantity="other">" steps"</item>
-        <item quantity="one">" step"</item>
+        <item quantity="other">" lépés"</item>
+        <item quantity="one">" lépés"</item>
     </plurals>
     <plurals name="common_unit_step_desc">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
+        <item quantity="other">%1$d lépés</item>
+        <item quantity="one">%1$d lépés</item>
     </plurals>
     <plurals name="common_unit_time">
         <item quantity="other">times</item>
@@ -138,8 +138,8 @@
         <item quantity="one">%1$d event</item>
     </plurals>
     <plurals name="device_settings_common_minute">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="device_settings_common_unit_heart_rate_desc">
         <item quantity="other">%1$d BPM</item>
@@ -154,8 +154,8 @@
         <item quantity="one">You can add up to %1$d event</item>
     </plurals>
     <plurals name="device_settings_heart_rate_monitor_freq">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="device_settings_heart_rate_warning_freq">
         <item quantity="other">%1$d BPM</item>
@@ -174,8 +174,8 @@
         <item quantity="one">%1$d%%</item>
     </plurals>
     <plurals name="device_settings_spo2_freq_freq">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="device_settings_unit_heart_rate">
         <item quantity="other">BPM</item>
@@ -229,20 +229,20 @@
         <item quantity="other">Half an hour ago</item>
     </plurals>
     <plurals name="health_common_minute_unit">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="health_common_unit_calorie_desc">
         <item quantity="other">%1$d kcal</item>
         <item quantity="one">%1$d kcal</item>
     </plurals>
     <plurals name="health_common_unit_step">
-        <item quantity="other">steps</item>
-        <item quantity="one">step</item>
+        <item quantity="other">lépés</item>
+        <item quantity="one">lépés</item>
     </plurals>
     <plurals name="health_common_unit_step_desc">
-        <item quantity="other">%1$d steps</item>
-        <item quantity="one">%1$d step</item>
+        <item quantity="other">%1$d lépés</item>
+        <item quantity="one">%1$d lépés</item>
     </plurals>
     <plurals name="health_common_unit_step_desc2">
         <item quantity="other">%1$d</item>
@@ -329,28 +329,28 @@
         <item quantity="one">Blood oxygen %1$d%%</item>
     </plurals>
     <plurals name="health_stand_count_desc">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
+        <item quantity="other">%1$d óra</item>
+        <item quantity="one">%1$d óra</item>
     </plurals>
     <plurals name="health_stand_count_desc_no_value">
-        <item quantity="other">hrs</item>
-        <item quantity="one">hr</item>
+        <item quantity="other">óra</item>
+        <item quantity="one">óra</item>
     </plurals>
     <plurals name="health_stand_unit_time">
-        <item quantity="other">hrs</item>
-        <item quantity="one">hr</item>
+        <item quantity="other">óra</item>
+        <item quantity="one">óra</item>
     </plurals>
     <plurals name="health_target_calories_unit">
         <item quantity="other">%1$d kcal</item>
         <item quantity="one">%1$d kcal</item>
     </plurals>
     <plurals name="health_target_mhs_unit">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="health_target_stand_times_unit">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
+        <item quantity="other">%1$d óra</item>
+        <item quantity="one">%1$d óra</item>
     </plurals>
     <plurals name="health_target_step_unit">
         <item quantity="other">%1$d</item>
@@ -377,8 +377,8 @@
         <item quantity="one">%1$d sec remaining</item>
     </plurals>
     <plurals name="hour_in_simplify">
-        <item quantity="other">%1$d h</item>
-        <item quantity="one">%1$d h</item>
+        <item quantity="other">%1$d ó</item>
+        <item quantity="one">%1$d ó</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 hour</item>
@@ -401,12 +401,12 @@
         <item quantity="one">Total: %1$d | Recent: %2$d</item>
     </plurals>
     <plurals name="min_in_simplify">
-        <item quantity="other">%1$d m</item>
-        <item quantity="one">%1$d m</item>
+        <item quantity="other">%1$d p</item>
+        <item quantity="one">%1$d p</item>
     </plurals>
     <plurals name="min_in_simplify_2">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d items selected</item>
@@ -443,12 +443,12 @@ It takes about %1$d min. "&lt;/Data></item>
         <item quantity="one">1 minute ago</item>
     </plurals>
     <plurals name="provider_exercise_goal_unit">
-        <item quantity="other">steps</item>
-        <item quantity="one">step</item>
+        <item quantity="other">lépés</item>
+        <item quantity="one">lépés</item>
     </plurals>
     <plurals name="provider_step_goal_unit">
-        <item quantity="other">steps</item>
-        <item quantity="one">step</item>
+        <item quantity="other">lépés</item>
+        <item quantity="one">lépés</item>
     </plurals>
     <plurals name="sport_local_sport_setting_speed">
         <item quantity="other">%1$d km/h</item>
@@ -475,16 +475,16 @@ It takes about %1$d min. "&lt;/Data></item>
         <item quantity="one">m</item>
     </plurals>
     <plurals name="trail_hint_unit_minute">
-        <item quantity="other">mins</item>
-        <item quantity="one">min</item>
+        <item quantity="other">perc</item>
+        <item quantity="one">perc</item>
     </plurals>
     <plurals name="trail_hint_unit_step">
         <item quantity="other"></item>
         <item quantity="one"></item>
     </plurals>
     <plurals name="trail_label_step">
-        <item quantity="other">steps</item>
-        <item quantity="one">step</item>
+        <item quantity="other">lépés</item>
+        <item quantity="one">lépés</item>
     </plurals>
     <plurals name="trail_label_times">
         <item quantity="other">workouts</item>
@@ -507,12 +507,12 @@ It takes about %1$d min. "&lt;/Data></item>
         <item quantity="one">Sets: %d</item>
     </plurals>
     <plurals name="trail_sport_hour_unit">
-        <item quantity="other">%d hrs</item>
-        <item quantity="one">%d hr</item>
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
     </plurals>
     <plurals name="trail_sport_hour_unit_only">
-        <item quantity="other">hrs</item>
-        <item quantity="one">hr</item>
+        <item quantity="other">óra</item>
+        <item quantity="one">óra</item>
     </plurals>
     <plurals name="trail_sport_times">
         <item quantity="other">%d workouts</item>
@@ -531,20 +531,20 @@ It takes about %1$d min. "&lt;/Data></item>
         <item quantity="one"></item>
     </plurals>
     <plurals name="unit_hour_1">
-        <item quantity="other">hrs</item>
-        <item quantity="one">hr</item>
+        <item quantity="other">óra</item>
+        <item quantity="one">óra</item>
     </plurals>
     <plurals name="unit_hour_2">
-        <item quantity="other">hrs</item>
-        <item quantity="one">hr</item>
+        <item quantity="other">óra</item>
+        <item quantity="one">óra</item>
     </plurals>
     <plurals name="unit_hour_desc">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
+        <item quantity="other">%1$d óra</item>
+        <item quantity="one">%1$d óra</item>
     </plurals>
     <plurals name="unit_hour_desc2">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
+        <item quantity="other">%1$d óra</item>
+        <item quantity="one">%1$d óra</item>
     </plurals>
     <plurals name="unit_kilometer_space">
         <item quantity="other">" km"</item>
@@ -563,28 +563,28 @@ It takes about %1$d min. "&lt;/Data></item>
         <item quantity="one">m</item>
     </plurals>
     <plurals name="unit_min_1">
-        <item quantity="other">" mins"</item>
-        <item quantity="one">" min"</item>
+        <item quantity="other">" perc"</item>
+        <item quantity="one">" perc"</item>
     </plurals>
     <plurals name="unit_min_2">
-        <item quantity="other">" mins"</item>
-        <item quantity="one">" min"</item>
+        <item quantity="other">" perc"</item>
+        <item quantity="one">" perc"</item>
     </plurals>
     <plurals name="unit_min_desc">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="unit_min_desc2">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="unit_min_desc2_with_space">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="unit_min_desc3">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="unit_point_desc">
         <item quantity="other">%1$d</item>
@@ -611,8 +611,8 @@ It takes about %1$d min. "&lt;/Data></item>
         <item quantity="one">(%1$d)</item>
     </plurals>
     <plurals name="userinfo_common_unit_age">
-        <item quantity="other">%1$d years old</item>
-        <item quantity="one">%1$d year old</item>
+        <item quantity="other">%1$d éves</item>
+        <item quantity="one">%1$d éves</item>
     </plurals>
     <plurals name="userinfo_common_unit_calorie">
         <item quantity="other">kcal</item>
@@ -623,24 +623,24 @@ It takes about %1$d min. "&lt;/Data></item>
         <item quantity="one">" BPM"</item>
     </plurals>
     <plurals name="userinfo_common_unit_step">
-        <item quantity="other">" steps"</item>
-        <item quantity="one">" step"</item>
+        <item quantity="other">" lépés"</item>
+        <item quantity="one">" lépés"</item>
     </plurals>
     <plurals name="userinfo_common_unit_time">
-        <item quantity="other">hrs</item>
-        <item quantity="one">hr</item>
+        <item quantity="other">óra</item>
+        <item quantity="one">óra</item>
     </plurals>
     <plurals name="userinfo_target_calories_unit">
         <item quantity="other">%1$d kcal</item>
         <item quantity="one">%1$d kcal</item>
     </plurals>
     <plurals name="userinfo_target_mhs_unit">
-        <item quantity="other">%1$d mins</item>
-        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">%1$d perc</item>
     </plurals>
     <plurals name="userinfo_target_stand_times_unit">
-        <item quantity="other">%1$d hrs</item>
-        <item quantity="one">%1$d hr</item>
+        <item quantity="other">%1$d óra</item>
+        <item quantity="one">%1$d óra</item>
     </plurals>
     <plurals name="userinfo_target_step_unit">
         <item quantity="other">%1$d</item>
@@ -651,8 +651,8 @@ It takes about %1$d min. "&lt;/Data></item>
         <item quantity="one">%1$d BPM</item>
     </plurals>
     <plurals name="userinfo_unit_min">
-        <item quantity="other">mins</item>
-        <item quantity="one">min</item>
+        <item quantity="other">perc</item>
+        <item quantity="one">perc</item>
     </plurals>
     <plurals name="userinfo_user_age_display_format_year">
         <item quantity="other">%1$d岁</item>

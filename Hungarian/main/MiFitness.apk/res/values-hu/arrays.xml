@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="account_user_gender_name">
-        <item>Male</item>
-        <item>Female</item>
+        <item>Férfi</item>
+        <item>Nő</item>
     </string-array>
     <string-array name="aivs_huami_command_list">
-        <item>"What's the weather?"</item>
-        <item>"How many steps I've taken?"</item>
-        <item>Find my phone.</item>
+        <item>"Milyen az időjárás?"</item>
+        <item>"Mennyi lépést tettem meg?"</item>
+        <item>Keresd meg a telefonom.</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>\#</item>
@@ -516,204 +516,204 @@
         <item>C325</item>
     </string-array>
     <string-array name="cities_tz_miui">
-        <item>Africa/Abidjan</item>
-        <item>Africa/Accra</item>
-        <item>Africa/Addis_Ababa</item>
-        <item>Africa/Algiers</item>
-        <item>Africa/Blantyre</item>
-        <item>Africa/Brazzaville</item>
-        <item>Africa/Cairo</item>
-        <item>Africa/Casablanca</item>
-        <item>Africa/Conakry</item>
-        <item>Africa/Dakar</item>
-        <item>Africa/Dar_es_Salaam</item>
-        <item>Africa/Djibouti</item>
-        <item>Africa/Freetown</item>
-        <item>Africa/Gaborone</item>
-        <item>Africa/Harare</item>
-        <item>Africa/Johannesburg</item>
-        <item>Africa/Kampala</item>
-        <item>Africa/Khartoum</item>
-        <item>Africa/Kigali</item>
-        <item>Africa/Kinshasa</item>
-        <item>Africa/Lagos</item>
-        <item>Africa/Maseru</item>
-        <item>Africa/Mogadishu</item>
-        <item>Africa/Nairobi</item>
-        <item>Africa/Sao_Tome</item>
-        <item>Africa/Timbuktu</item>
-        <item>Africa/Tripoli</item>
-        <item>Africa/Tunis</item>
-        <item>America/Anchorage</item>
-        <item>America/Argentina/Mendoza</item>
-        <item>America/Aruba</item>
-        <item>America/Asuncion</item>
-        <item>America/Barbados</item>
-        <item>America/Belize</item>
-        <item>America/Bogota</item>
-        <item>America/Buenos_Aires</item>
-        <item>America/Cancun</item>
-        <item>America/Caracas</item>
-        <item>America/Cayman</item>
-        <item>America/Chicago</item>
-        <item>America/Costa_Rica</item>
-        <item>America/Curacao</item>
-        <item>America/Dawson_Creek</item>
-        <item>America/Denver</item>
-        <item>America/Detroit</item>
-        <item>America/Dominica</item>
-        <item>America/Edmonton</item>
-        <item>America/El_Salvador</item>
-        <item>America/Fortaleza</item>
-        <item>America/Grand_Turk</item>
-        <item>America/Grenada</item>
-        <item>America/Guatemala</item>
-        <item>America/Guyana</item>
-        <item>America/Halifax</item>
-        <item>America/Havana</item>
-        <item>America/Indiana/Indianapolis</item>
-        <item>America/Indiana/Knox</item>
-        <item>America/Indiana/Marengo</item>
-        <item>America/Indiana/Petersburg</item>
-        <item>America/Indiana/Tell_City</item>
-        <item>America/Indiana/Vevay</item>
-        <item>America/Indiana/Vincennes</item>
-        <item>America/Indiana/Winamac</item>
-        <item>America/Jamaica</item>
-        <item>America/La_Paz</item>
-        <item>America/Lima</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Louisville</item>
-        <item>America/Managua</item>
-        <item>America/Martinique</item>
-        <item>America/Metlakatla</item>
-        <item>America/Mexico_City</item>
-        <item>America/Monterrey</item>
-        <item>America/Montevideo</item>
-        <item>America/Montreal</item>
-        <item>America/Nassau</item>
-        <item>America/New_York</item>
-        <item>America/North_Dakota/Beulah</item>
-        <item>America/North_Dakota/Center</item>
-        <item>America/North_Dakota/New_Salem</item>
-        <item>America/Panama</item>
-        <item>America/Phoenix</item>
-        <item>America/Port_of_Spain</item>
-        <item>America/Port-au-Prince</item>
-        <item>America/Puerto_Rico</item>
-        <item>America/Santo_Domingo</item>
-        <item>America/Sao_Paulo</item>
-        <item>America/St_Johns</item>
-        <item>America/St_Kitts</item>
-        <item>America/St_Lucia</item>
-        <item>America/St_Thomas</item>
-        <item>America/Tijuana</item>
-        <item>America/Toronto</item>
-        <item>America/Vancouver</item>
-        <item>America/Winnipeg</item>
+        <item>Afrika/Abidjan</item>
+        <item>Afrika/Accra</item>
+        <item>Afrika/Addis_Ababa</item>
+        <item>Afrika/Algiers</item>
+        <item>Afrika/Blantyre</item>
+        <item>Afrika/Brazzaville</item>
+        <item>Afrika/Cairo</item>
+        <item>Afrika/Casablanca</item>
+        <item>Afrika/Conakry</item>
+        <item>Afrika/Dakar</item>
+        <item>Afrika/Dar_es_Salaam</item>
+        <item>Afrika/Djibouti</item>
+        <item>Afrika/Freetown</item>
+        <item>Afrika/Gaborone</item>
+        <item>Afrika/Harare</item>
+        <item>Afrika/Johannesburg</item>
+        <item>Afrika/Kampala</item>
+        <item>Afrika/Khartoum</item>
+        <item>Afrika/Kigali</item>
+        <item>Afrika/Kinshasa</item>
+        <item>Afrika/Lagos</item>
+        <item>Afrika/Maseru</item>
+        <item>Afrika/Mogadishu</item>
+        <item>Afrika/Nairobi</item>
+        <item>Afrika/Sao_Tome</item>
+        <item>Afrika/Timbuktu</item>
+        <item>Afrika/Tripoli</item>
+        <item>Afrika/Tunis</item>
+        <item>Amerika/Anchorage</item>
+        <item>Amerika/Argentina/Mendoza</item>
+        <item>Amerika/Aruba</item>
+        <item>Amerika/Asuncion</item>
+        <item>Amerika/Barbados</item>
+        <item>Amerika/Belize</item>
+        <item>Amerika/Bogota</item>
+        <item>Amerika/Buenos_Aires</item>
+        <item>Amerika/Cancun</item>
+        <item>Amerika/Caracas</item>
+        <item>Amerika/Cayman</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Costa_Rica</item>
+        <item>Amerika/Curacao</item>
+        <item>Amerika/Dawson_Creek</item>
+        <item>Amerika/Denver</item>
+        <item>Amerika/Detroit</item>
+        <item>Amerika/Dominica</item>
+        <item>Amerika/Edmonton</item>
+        <item>Amerika/El_Salvador</item>
+        <item>Amerika/Fortaleza</item>
+        <item>Amerika/Grand_Turk</item>
+        <item>Amerika/Grenada</item>
+        <item>Amerika/Guatemala</item>
+        <item>Amerika/Guyana</item>
+        <item>Amerika/Halifax</item>
+        <item>Amerika/Havana</item>
+        <item>Amerika/Indiana/Indianapolis</item>
+        <item>Amerika/Indiana/Knox</item>
+        <item>Amerika/Indiana/Marengo</item>
+        <item>Amerika/Indiana/Petersburg</item>
+        <item>Amerika/Indiana/Tell_City</item>
+        <item>Amerika/Indiana/Vevay</item>
+        <item>Amerika/Indiana/Vincennes</item>
+        <item>Amerika/Indiana/Winamac</item>
+        <item>Amerika/Jamaica</item>
+        <item>Amerika/La_Paz</item>
+        <item>Amerika/Lima</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Louisville</item>
+        <item>Amerika/Managua</item>
+        <item>Amerika/Martinique</item>
+        <item>Amerika/Metlakatla</item>
+        <item>Amerika/Mexico_City</item>
+        <item>Amerika/Monterrey</item>
+        <item>Amerika/Montevideo</item>
+        <item>Amerika/Montreal</item>
+        <item>Amerika/Nassau</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/North_Dakota/Beulah</item>
+        <item>Amerika/North_Dakota/Center</item>
+        <item>Amerika/North_Dakota/New_Salem</item>
+        <item>Amerika/Panama</item>
+        <item>Amerika/Phoenix</item>
+        <item>Amerika/Port_of_Spain</item>
+        <item>Amerika/Port-au-Prince</item>
+        <item>Amerika/Puerto_Rico</item>
+        <item>Amerika/Santo_Domingo</item>
+        <item>Amerika/Sao_Paulo</item>
+        <item>Amerika/St_Johns</item>
+        <item>Amerika/St_Kitts</item>
+        <item>Amerika/St_Lucia</item>
+        <item>Amerika/St_Thomas</item>
+        <item>Amerika/Tijuana</item>
+        <item>Amerika/Toronto</item>
+        <item>Amerika/Vancouver</item>
+        <item>Amerika/Winnipeg</item>
         <item>Antarctica/South_Pole</item>
         <item>Arctic/Longyearbyen</item>
-        <item>Asia/Almaty</item>
-        <item>Asia/Amman</item>
-        <item>Asia/Anadyr</item>
-        <item>Asia/Aqtau</item>
-        <item>Asia/Baghdad</item>
-        <item>Asia/Bahrain</item>
-        <item>Asia/Baku</item>
-        <item>Asia/Bangkok</item>
-        <item>Asia/Beirut</item>
-        <item>Asia/Calcutta</item>
-        <item>Asia/Damascus</item>
-        <item>Asia/Dhaka</item>
-        <item>Asia/Dubai</item>
-        <item>Asia/Gaza</item>
-        <item>Asia/Hebron</item>
-        <item>Asia/Ho_Chi_Minh</item>
-        <item>Asia/Hong_Kong</item>
-        <item>Asia/Jakarta</item>
-        <item>Asia/Jerusalem</item>
-        <item>Asia/Kabul</item>
-        <item>Asia/Karachi</item>
-        <item>Asia/Kathmandu</item>
-        <item>Asia/Kuala_Lumpur</item>
-        <item>Asia/Kuwait</item>
-        <item>Asia/Macau</item>
-        <item>Asia/Manila</item>
-        <item>Asia/Muscat</item>
-        <item>Asia/Phnom_Penh</item>
-        <item>Asia/Pyongyang</item>
-        <item>Asia/Qatar</item>
-        <item>Asia/Rangoon</item>
-        <item>Asia/Riyadh</item>
-        <item>Asia/Seoul</item>
-        <item>Asia/Shanghai</item>
-        <item>Asia/Singapore</item>
-        <item>Asia/Taipei</item>
-        <item>Asia/Tehran</item>
-        <item>Asia/Tel_Aviv</item>
-        <item>Asia/Tokyo</item>
-        <item>Asia/Ulaanbaatar</item>
+        <item>Ázsia/Almaty</item>
+        <item>Ázsia/Amman</item>
+        <item>Ázsia/Anadyr</item>
+        <item>Ázsia/Aqtau</item>
+        <item>Ázsia/Baghdad</item>
+        <item>Ázsia/Bahrain</item>
+        <item>Ázsia/Baku</item>
+        <item>Ázsia/Bangkok</item>
+        <item>Ázsia/Beirut</item>
+        <item>Ázsia/Calcutta</item>
+        <item>Ázsia/Damascus</item>
+        <item>Ázsia/Dhaka</item>
+        <item>Ázsia/Dubai</item>
+        <item>Ázsia/Gaza</item>
+        <item>Ázsia/Hebron</item>
+        <item>Ázsia/Ho_Chi_Minh</item>
+        <item>Ázsia/Hong_Kong</item>
+        <item>Ázsia/Jakarta</item>
+        <item>Ázsia/Jerusalem</item>
+        <item>Ázsia/Kabul</item>
+        <item>Ázsia/Karachi</item>
+        <item>Ázsia/Kathmandu</item>
+        <item>Ázsia/Kuala_Lumpur</item>
+        <item>Ázsia/Kuwait</item>
+        <item>Ázsia/Macau</item>
+        <item>Ázsia/Manila</item>
+        <item>Ázsia/Muscat</item>
+        <item>Ázsia/Phnom_Penh</item>
+        <item>Ázsia/Pyongyang</item>
+        <item>Ázsia/Qatar</item>
+        <item>Ázsia/Rangoon</item>
+        <item>Ázsia/Riyadh</item>
+        <item>Ázsia/Seoul</item>
+        <item>Ázsia/Shanghai</item>
+        <item>Ázsia/Singapore</item>
+        <item>Ázsia/Taipei</item>
+        <item>Ázsia/Tehran</item>
+        <item>Ázsia/Tel_Aviv</item>
+        <item>Ázsia/Tokyo</item>
+        <item>Ázsia/Ulaanbaatar</item>
         <item>Atlantic/Bermuda</item>
         <item>Atlantic/Canary</item>
         <item>Atlantic/Cape_Verde</item>
         <item>Atlantic/Reykjavik</item>
         <item>Atlantic/Stanley</item>
-        <item>Australia/Adelaide</item>
-        <item>Australia/Brisbane</item>
-        <item>Australia/Canberra</item>
-        <item>Australia/Darwin</item>
-        <item>Australia/Melbourne</item>
-        <item>Australia/NSW</item>
-        <item>Australia/Perth</item>
-        <item>Australia/Queensland</item>
-        <item>Australia/Sydney</item>
-        <item>Australia/Victoria</item>
+        <item>Ausztrália/Adelaide</item>
+        <item>Ausztrália/Brisbane</item>
+        <item>Ausztrália/Canberra</item>
+        <item>Ausztrália/Darwin</item>
+        <item>Ausztrália/Melbourne</item>
+        <item>Ausztrália/NSW</item>
+        <item>Ausztrália/Perth</item>
+        <item>Ausztrália/Queensland</item>
+        <item>Ausztrália/Sydney</item>
+        <item>Ausztrália/Victoria</item>
         <item>Canada/Newfoundland</item>
         <item>Canada/Saskatchewan</item>
         <item>Chile/EasterIsland</item>
-        <item>Europe/Amsterdam</item>
-        <item>Europe/Andorra</item>
-        <item>Europe/Athens</item>
-        <item>Europe/Belfast</item>
-        <item>Europe/Belgrade</item>
-        <item>Europe/Berlin</item>
-        <item>Europe/Bratislava</item>
-        <item>Europe/Brussels</item>
-        <item>Europe/Bucharest</item>
-        <item>Europe/Budapest</item>
-        <item>Europe/Chisinau</item>
-        <item>Europe/Copenhagen</item>
-        <item>Europe/Dublin</item>
-        <item>Europe/Gibraltar</item>
-        <item>Europe/Helsinki</item>
-        <item>Europe/Isle_of_Man</item>
-        <item>Europe/Istanbul</item>
-        <item>Europe/Lisbon</item>
-        <item>Europe/London</item>
-        <item>Europe/Luxembourg</item>
-        <item>Europe/Madrid</item>
-        <item>Europe/Malta</item>
-        <item>Europe/Minsk</item>
-        <item>Europe/Monaco</item>
-        <item>Europe/Moscow</item>
-        <item>Europe/Oslo</item>
-        <item>Europe/Paris</item>
-        <item>Europe/Prague</item>
-        <item>Europe/Riga</item>
-        <item>Europe/Rome</item>
-        <item>Europe/San_Marino</item>
-        <item>Europe/Sarajevo</item>
-        <item>Europe/Simferopol</item>
-        <item>Europe/Skopje</item>
-        <item>Europe/Sofia</item>
-        <item>Europe/Stockholm</item>
-        <item>Europe/Tallinn</item>
-        <item>Europe/Vatican</item>
-        <item>Europe/Vienna</item>
-        <item>Europe/Vilnius</item>
-        <item>Europe/Warsaw</item>
-        <item>Europe/Zagreb</item>
-        <item>Europe/Zurich</item>
+        <item>Európa/Amsterdam</item>
+        <item>Európa/Andorra</item>
+        <item>Európa/Athens</item>
+        <item>Európa/Belfast</item>
+        <item>Európa/Belgrade</item>
+        <item>Európa/Berlin</item>
+        <item>Európa/Bratislava</item>
+        <item>Európa/Brussels</item>
+        <item>Európa/Bucharest</item>
+        <item>Európa/Budapest</item>
+        <item>Európa/Chisinau</item>
+        <item>Európa/Copenhagen</item>
+        <item>Európa/Dublin</item>
+        <item>Európa/Gibraltar</item>
+        <item>Európa/Helsinki</item>
+        <item>Európa/Isle_of_Man</item>
+        <item>Európa/Istanbul</item>
+        <item>Európa/Lisbon</item>
+        <item>Európa/London</item>
+        <item>Európa/Luxembourg</item>
+        <item>Európa/Madrid</item>
+        <item>Európa/Malta</item>
+        <item>Európa/Minsk</item>
+        <item>Európa/Monaco</item>
+        <item>Európa/Moscow</item>
+        <item>Európa/Oslo</item>
+        <item>Európa/Paris</item>
+        <item>Európa/Prague</item>
+        <item>Európa/Riga</item>
+        <item>Európa/Rome</item>
+        <item>Európa/San_Marino</item>
+        <item>Európa/Sarajevo</item>
+        <item>Európa/Simferopol</item>
+        <item>Európa/Skopje</item>
+        <item>Európa/Sofia</item>
+        <item>Európa/Stockholm</item>
+        <item>Európa/Tallinn</item>
+        <item>Európa/Vatican</item>
+        <item>Európa/Vienna</item>
+        <item>Európa/Vilnius</item>
+        <item>Európa/Warsaw</item>
+        <item>Európa/Zagreb</item>
+        <item>Európa/Zurich</item>
         <item>Indian/Antananarivo</item>
         <item>Indian/Maldives</item>
         <item>Indian/Mauritius</item>
@@ -721,159 +721,159 @@
         <item>Pacific/Fiji</item>
         <item>Pacific/Guam</item>
         <item>Pacific/Honolulu</item>
-        <item>Australia/Kiritimati</item>
+        <item>Ausztrália/Kiritimati</item>
         <item>Pacific/Noumea</item>
         <item>Pacific/Samoa</item>
         <item>Pacific/Tahiti</item>
-        <item>America/Antigua</item>
-        <item>America/Chicago</item>
-        <item>America/New_York</item>
-        <item>America/Denver</item>
-        <item>America/New_York</item>
-        <item>America/Chicago</item>
-        <item>America/New_York</item>
-        <item>America/Chicago</item>
-        <item>America/New_York</item>
-        <item>America/Chicago</item>
-        <item>America/New_York</item>
-        <item>America/New_York</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Denver</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Guatemala</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Chicago</item>
-        <item>America/New_York</item>
-        <item>America/Chicago</item>
-        <item>America/Chicago</item>
-        <item>America/New_York</item>
-        <item>America/New_York</item>
-        <item>America/Chicago</item>
-        <item>America/Chicago</item>
-        <item>America/Chicago</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Denver</item>
+        <item>Amerika/Antigua</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Denver</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Denver</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Guatemala</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Denver</item>
         <item>MST</item>
-        <item>America/Los_Angeles</item>
-        <item>America/New_York</item>
-        <item>America/New_York</item>
-        <item>America/Chicago</item>
-        <item>America/New_York</item>
-        <item>America/New_York</item>
-        <item>America/New_York</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Los_Angeles</item>
-        <item>Asia/Riyadh</item>
-        <item>Asia/Shanghai</item>
-        <item>Asia/Kolkata</item>
-        <item>Asia/Kolkata</item>
-        <item>Asia/Tokyo</item>
-        <item>Asia/Karachi</item>
-        <item>Asia/Riyadh</item>
-        <item>Europe/Madrid</item>
-        <item>Europe/Berlin</item>
-        <item>Europe/Rome</item>
-        <item>Europe/Berlin</item>
-        <item>Asia/Bangkok</item>
-        <item>Europe/Istanbul</item>
-        <item>Asia/Kolkata</item>
-        <item>America/Sao_Paulo</item>
-        <item>Africa/Johannesburg</item>
-        <item>Asia/Karachi</item>
-        <item>America/Sao_Paulo</item>
-        <item>America/Detroit</item>
-        <item>America/Denver</item>
-        <item>Europe/London</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Chicago</item>
-        <item>Asia/Shanghai</item>
-        <item>Asia/Kolkata</item>
-        <item>America/New_York</item>
-        <item>America/Sao_Paulo</item>
-        <item>America/Santiago</item>
-        <item>Africa/Monrovia</item>
-        <item>Asia/Colombo</item>
-        <item>America/Chihuahua</item>
-        <item>Asia/Kolkata</item>
-        <item>Europe/London</item>
-        <item>Europe/Bucharest</item>
-        <item>Europe/Moscow</item>
-        <item>Europe/Warsaw</item>
-        <item>Europe/Warsaw</item>
-        <item>Europe/Berlin</item>
-        <item>Europe/Bucharest</item>
-        <item>Asia/Jerusalem</item>
-        <item>America/Puerto Rico</item>
-        <item>America/Tegucigalpa</item>
-        <item>America/Paramaribo</item>
-        <item>America/Panama</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Ázsia/Riyadh</item>
+        <item>Ázsia/Shanghai</item>
+        <item>Ázsia/Kolkata</item>
+        <item>Ázsia/Kolkata</item>
+        <item>Ázsia/Tokyo</item>
+        <item>Ázsia/Karachi</item>
+        <item>Ázsia/Riyadh</item>
+        <item>Európa/Madrid</item>
+        <item>Európa/Berlin</item>
+        <item>Európa/Rome</item>
+        <item>Európa/Berlin</item>
+        <item>Ázsia/Bangkok</item>
+        <item>Európa/Istanbul</item>
+        <item>Ázsia/Kolkata</item>
+        <item>Amerika/Sao_Paulo</item>
+        <item>Afrika/Johannesburg</item>
+        <item>Ázsia/Karachi</item>
+        <item>Amerika/Sao_Paulo</item>
+        <item>Amerika/Detroit</item>
+        <item>Amerika/Denver</item>
+        <item>Európa/London</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Chicago</item>
+        <item>Ázsia/Shanghai</item>
+        <item>Ázsia/Kolkata</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Sao_Paulo</item>
+        <item>Amerika/Santiago</item>
+        <item>Afrika/Monrovia</item>
+        <item>Ázsia/Colombo</item>
+        <item>Amerika/Chihuahua</item>
+        <item>Ázsia/Kolkata</item>
+        <item>Európa/London</item>
+        <item>Európa/Bucharest</item>
+        <item>Európa/Moscow</item>
+        <item>Európa/Warsaw</item>
+        <item>Európa/Warsaw</item>
+        <item>Európa/Berlin</item>
+        <item>Európa/Bucharest</item>
+        <item>Ázsia/Jerusalem</item>
+        <item>Amerika/Puerto Rico</item>
+        <item>Amerika/Tegucigalpa</item>
+        <item>Amerika/Paramaribo</item>
+        <item>Amerika/Panama</item>
         <item>Pacific/Honolulu</item>
-        <item>America/Anchorage</item>
-        <item>America/Phoenix</item>
-        <item>America/Jamaica</item>
+        <item>Amerika/Anchorage</item>
+        <item>Amerika/Phoenix</item>
+        <item>Amerika/Jamaica</item>
         <item>Atlantic/Cape_Verde</item>
         <item>Atlantic/Reykjavik</item>
-        <item>Europe/Zurich</item>
-        <item>Europe/Windhoek</item>
-        <item>Europe/Sofia</item>
-        <item>Europe/Athens</item>
-        <item>Europe/Kaliningrad</item>
-        <item>Africa/Khartoum</item>
-        <item>Africa/Nairobi</item>
-        <item>Asia/Aden</item>
+        <item>Európa/Zurich</item>
+        <item>Európa/Windhoek</item>
+        <item>Európa/Sofia</item>
+        <item>Európa/Athens</item>
+        <item>Európa/Kaliningrad</item>
+        <item>Afrika/Khartoum</item>
+        <item>Afrika/Nairobi</item>
+        <item>Ázsia/Aden</item>
         <item>Indian/Antananarivo</item>
-        <item>Asia/Kuwait</item>
-        <item>Asia/Dubai</item>
-        <item>Europe/Samara</item>
-        <item>Asia/Kolkata</item>
-        <item>Asia/Novosibirsk</item>
-        <item>Asia/Taipei</item>
-        <item>Asia/Irkutsk</item>
-        <item>Asia/Chita</item>
-        <item>Asia/Vladivostok</item>
-        <item>Asia/Magadan</item>
-        <item>Asia/Kamchatka</item>
+        <item>Ázsia/Kuwait</item>
+        <item>Ázsia/Dubai</item>
+        <item>Európa/Samara</item>
+        <item>Ázsia/Kolkata</item>
+        <item>Ázsia/Novosibirsk</item>
+        <item>Ázsia/Taipei</item>
+        <item>Ázsia/Irkutsk</item>
+        <item>Ázsia/Chita</item>
+        <item>Ázsia/Vladivostok</item>
+        <item>Ázsia/Magadan</item>
+        <item>Ázsia/Kamchatka</item>
         <item>Pacific/Fiji</item>
         <item>Pacific/Auckland</item>
     </string-array>
     <string-array name="common_week_array">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Vas</item>
+        <item>Hé</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Cs</item>
+        <item>Pé</item>
+        <item>Szo</item>
     </string-array>
     <string-array name="date_week">
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
-        <item>Sunday</item>
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szombat</item>
+        <item>Vasárnap</item>
     </string-array>
     <string-array name="date_week_simple">
-        <item>M</item>
-        <item>T</item>
-        <item>W</item>
-        <item>T</item>
-        <item>F</item>
-        <item>S</item>
-        <item>S</item>
+        <item>H</item>
+        <item>K</item>
+        <item>Sze</item>
+        <item>Cs</item>
+        <item>P</item>
+        <item>Szo</item>
+        <item>V</item>
     </string-array>
     <string-array name="date_week_simple1">
-        <item>M</item>
-        <item>T</item>
-        <item>W</item>
-        <item>T</item>
-        <item>F</item>
-        <item>S</item>
-        <item>S</item>
+        <item>H</item>
+        <item>K</item>
+        <item>Sze</item>
+        <item>Cs</item>
+        <item>P</item>
+        <item>Szo</item>
+        <item>V</item>
     </string-array>
     <string-array name="device_settings_cities_names_miui">
         <item>Abidjan</item>
@@ -1200,25 +1200,25 @@
         <item>Wellington</item>
     </string-array>
     <string-array name="device_settings_common_every_week_array">
-        <item>Every Sunday</item>
-        <item>Every Monday</item>
-        <item>Every Tuesday</item>
-        <item>Every Wednesday</item>
-        <item>Every Thursday</item>
-        <item>Every Friday</item>
-        <item>Every Saturday</item>
+        <item>Minden vasárnap</item>
+        <item>Minden hétfő</item>
+        <item>Minden kedd</item>
+        <item>Minden szerda</item>
+        <item>Minden csütörtök</item>
+        <item>Minden péntek</item>
+        <item>Minden szombat</item>
     </string-array>
     <string-array name="device_settings_countries_names_miui">
         <item>"Côte d'Ivoire"</item>
-        <item>Ghana</item>
-        <item>Ethiopia</item>
-        <item>Algeria</item>
+        <item>Ghána</item>
+        <item>Etiópia</item>
+        <item>Algéria</item>
         <item>Malawi</item>
         <item>Republic of the Congo</item>
-        <item>Egypt</item>
-        <item>Morocco</item>
+        <item>Egyiptom</item>
+        <item>Marokkó</item>
         <item>Guinea</item>
-        <item>Senegal</item>
+        <item>Szenegál</item>
         <item>Tanzania</item>
         <item>Djibouti</item>
         <item>Sierra Leone</item>
@@ -1236,79 +1236,79 @@
         <item>Sao Tome and Principe</item>
         <item>Mali</item>
         <item>Libya</item>
-        <item>Tunis</item>
-        <item>United States</item>
-        <item>Argentina</item>
+        <item>Tunézia</item>
+        <item>Egyesült Államok</item>
+        <item>Argentína</item>
         <item>Aruba</item>
         <item>Paraguay</item>
         <item>Barbados</item>
         <item>Belize</item>
-        <item>Colombia</item>
-        <item>Argentina</item>
-        <item>Mexico</item>
+        <item>Kolumbia</item>
+        <item>Argentína</item>
+        <item>Mexikó</item>
         <item>Venezuela</item>
         <item>Cayman Islands</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
         <item>Costa Rica</item>
         <item>Curaçao</item>
-        <item>Canada</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Kanada</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
         <item>Dominican Republic</item>
-        <item>Canada</item>
+        <item>Kanada</item>
         <item>El Salvador</item>
         <item>Brazil</item>
         <item>Turks and Caicos Islands</item>
         <item>Grenada</item>
         <item>Guatemala</item>
         <item>Guyana</item>
-        <item>Canada</item>
+        <item>Kanada</item>
         <item>Cuba</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
         <item>Jamaica</item>
         <item>Bolivia</item>
         <item>Peru</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
         <item>Nicaragua</item>
         <item>Martinique</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
         <item>Mexico</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
         <item>Uruguay</item>
-        <item>Canada</item>
+        <item>Kanada</item>
         <item>Bahamas</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
         <item>Panama</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
         <item>Trinidad and Tobago</item>
         <item>Haiti</item>
         <item>Puerto Rico</item>
         <item>Dominican Republic</item>
         <item>Brazil</item>
-        <item>Canada</item>
+        <item>Kanada</item>
         <item>Saint Kitts and Nevis</item>
         <item>Saint Lucia</item>
         <item>U.S. Virgin Islands</item>
         <item>Mexico</item>
-        <item>Canada</item>
-        <item>Canada</item>
-        <item>Canada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
         <item>South Pole</item>
         <item>Svalbard and Jan Mayen</item>
         <item>Kazakhstan</item>
         <item>Jordan</item>
-        <item>Russia</item>
+        <item>Oroszország</item>
         <item>Kazakhstan</item>
         <item>Iraq</item>
         <item>Bahrain</item>
@@ -1322,7 +1322,7 @@
         <item>Palestine</item>
         <item>Palestine</item>
         <item>Vietnam</item>
-        <item>China</item>
+        <item>Kína</item>
         <item>Indonesia</item>
         <item>Israel</item>
         <item>Afghanistan</item>
@@ -1330,7 +1330,7 @@
         <item>Nepal</item>
         <item>Malaysia</item>
         <item>Kuwait</item>
-        <item>China</item>
+        <item>Kína</item>
         <item>Philippines</item>
         <item>Oman</item>
         <item>Cambodia</item>
@@ -1339,9 +1339,9 @@
         <item>Myanmar</item>
         <item>Saudi Arabia</item>
         <item>South Korea</item>
-        <item>China</item>
+        <item>Kína</item>
         <item>Singapore</item>
-        <item>China</item>
+        <item>Kína</item>
         <item>Iran</item>
         <item>Israel</item>
         <item>Japan</item>
@@ -1351,36 +1351,36 @@
         <item>Cape Verde</item>
         <item>Iceland</item>
         <item>Falkland Islands</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Australia</item>
-        <item>Canada</item>
-        <item>Canada</item>
-        <item>Canada</item>
+        <item>Ausztrália</item>
+        <item>Ausztrália</item>
+        <item>Ausztrália</item>
+        <item>Ausztrália</item>
+        <item>Ausztrália</item>
+        <item>Ausztrália</item>
+        <item>Ausztrália</item>
+        <item>Ausztrália</item>
+        <item>Ausztrália</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
         <item>Chile</item>
         <item>Netherlands</item>
         <item>Andorra</item>
-        <item>Greece</item>
+        <item>Görögország</item>
         <item>United Kingdom</item>
-        <item>Serbia</item>
-        <item>Germany</item>
-        <item>Slovakia</item>
+        <item>Szerbia</item>
+        <item>Németország</item>
+        <item>Szlovákia</item>
         <item>Belgium</item>
-        <item>Romania</item>
-        <item>Hungary</item>
+        <item>Románia</item>
+        <item>Magyarország</item>
         <item>Moldova</item>
         <item>Denmark</item>
         <item>Ireland</item>
         <item>Gibraltar</item>
         <item>Finland</item>
         <item>Isle of Man</item>
-        <item>Turkey</item>
+        <item>Törökország</item>
         <item>Portugal</item>
         <item>United Kingdom</item>
         <item>Luxembourg</item>
@@ -1388,7 +1388,7 @@
         <item>Malta</item>
         <item>Belarus</item>
         <item>Monaco</item>
-        <item>Russia</item>
+        <item>Oroszország</item>
         <item>Norway</item>
         <item>France</item>
         <item>Czechia</item>
@@ -1413,54 +1413,54 @@
         <item>New Zealand</item>
         <item>Fiji</item>
         <item>Guam</item>
-        <item>United States</item>
-        <item>Australia</item>
+        <item>Egyesült Államok</item>
+        <item>Ausztrália</item>
         <item>New Caledonia</item>
         <item>Samoa</item>
         <item>French Polynesia</item>
         <item>Antigua and Barbuda</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Canada</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Canada</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Kanada</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Kanada</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
         <item>El Salvador</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
         <item>Qatar</item>
-        <item>China</item>
+        <item>Kína</item>
         <item>India</item>
         <item>India</item>
         <item>Japan</item>
@@ -1477,23 +1477,23 @@
         <item>South Africa</item>
         <item>Pakistan</item>
         <item>Brazil</item>
-        <item>United States</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
         <item>United Kingdom</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>China</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Kína</item>
         <item>India</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
         <item>Brazil</item>
-        <item>United States</item>
+        <item>Egyesült Államok</item>
         <item>Liberia</item>
         <item>Sri Lanka</item>
         <item>Mexico</item>
         <item>India</item>
         <item>United Kingdom</item>
         <item>Ukraine</item>
-        <item>Russia</item>
+        <item>Oroszország</item>
         <item>Poland</item>
         <item>Poland</item>
         <item>Germany</item>
@@ -1503,64 +1503,64 @@
         <item>Honduras</item>
         <item>Suriname</item>
         <item>Ecuador</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>United States</item>
-        <item>Canada</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Egyesült Államok</item>
+        <item>Kanada</item>
         <item>Cape Verde</item>
         <item>Iceland</item>
         <item>Switzerland</item>
         <item>Namibia</item>
         <item>Bulgaria</item>
         <item>Greece</item>
-        <item>Russia</item>
+        <item>Oroszország</item>
         <item>Sudan</item>
         <item>Kenya</item>
         <item>Yemen</item>
         <item>Madagascar</item>
         <item>Kuwait</item>
         <item>United Arab Emirates</item>
-        <item>Russia</item>
+        <item>Oroszország</item>
         <item>India</item>
-        <item>Russia</item>
-        <item>China</item>
-        <item>Russia</item>
-        <item>Russia</item>
-        <item>Russia</item>
-        <item>Russia</item>
-        <item>Russia</item>
+        <item>Oroszország</item>
+        <item>Kína</item>
+        <item>Oroszország</item>
+        <item>Oroszország</item>
+        <item>Oroszország</item>
+        <item>Oroszország</item>
+        <item>Oroszország</item>
         <item>Fiji</item>
         <item>New Zealand</item>
     </string-array>
     <string-array name="device_settings_date_week">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Hé</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pé</item>
+        <item>Szo</item>
+        <item>Va</item>
     </string-array>
     <string-array name="device_settings_date_week_simple1">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Hé</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pé</item>
+        <item>Szo</item>
+        <item>Va</item>
     </string-array>
     <string-array name="device_settings_reminder_period_array">
-        <item>One-time event</item>
-        <item>Daily</item>
-        <item>Weekly</item>
-        <item>Monthly</item>
-        <item>Yearly</item>
-        <item>Custom</item>
+        <item>Egyszeri esemény</item>
+        <item>Naponta</item>
+        <item>Hetente</item>
+        <item>Havonta</item>
+        <item>Évente</item>
+        <item>Egyéni</item>
     </string-array>
     <string-array name="device_settings_unlock_phone_distance_list">
-        <item>Very close</item>
-        <item>Close</item>
+        <item>Nagyon közel</item>
+        <item>Közel</item>
         <item>Less close</item>
     </string-array>
     <integer-array name="exo_speed_multiplied_by_100">
@@ -1573,36 +1573,36 @@
         <item>200</item>
     </integer-array>
     <string-array name="habit_date_week">
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
-        <item>Sunday</item>
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szombat</item>
+        <item>Vasárnap</item>
     </string-array>
     <string-array name="habit_date_week_simple1">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Hé</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pé</item>
+        <item>Szo</item>
+        <item>Va</item>
     </string-array>
     <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
-        <item>Mon, Wed, Fri</item>
-        <item>Tue, Thu, Sat</item>
-        <item>Wed, Fri, Sun</item>
+        <item>Hé, Sze, Pé</item>
+        <item>Ke, Csü, Szo</item>
+        <item>Sze, Pé, Va</item>
     </string-array>
     <string-array name="health_blood_pressure_repeat_mode_week_array">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Hé</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pé</item>
+        <item>Szo</item>
+        <item>Va</item>
     </string-array>
     <string-array name="health_deep_shallow_sleep_guide_descriptions">
         <item>Place your phone next to you when you sleep to track body movements and generate sleep cycle stats.</item>
@@ -1667,11 +1667,11 @@
         <item>Fitful sleep. Set a schedule and stick to it.</item>
     </string-array>
     <string-array name="health_sleep_evaluation_stage_arr">
-        <item>No data</item>
-        <item>Not bad</item>
+        <item>Nincs adat</item>
+        <item>Nem rossz</item>
         <item>Moderate</item>
-        <item>Good</item>
-        <item>Excellent</item>
+        <item>Jó</item>
+        <item>Kitünő</item>
         <item>No night-time data</item>
     </string-array>
     <string-array name="health_sleep_evaluation_weekly_sleep_arr">
@@ -1697,31 +1697,31 @@
         <item>Keep your phone charged</item>
     </string-array>
     <string-array name="settingitem_date_week">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Hé</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pé</item>
+        <item>Szo</item>
+        <item>Va</item>
     </string-array>
     <string-array name="settingitem_date_week_simple">
-        <item>M</item>
-        <item>T</item>
-        <item>W</item>
-        <item>T</item>
-        <item>F</item>
-        <item>S</item>
-        <item>S</item>
+        <item>H</item>
+        <item>K</item>
+        <item>Sze</item>
+        <item>Cs</item>
+        <item>P</item>
+        <item>Szo</item>
+        <item>V</item>
     </string-array>
     <string-array name="settingitem_date_week_simple1">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Hé</item>
+        <item>Ke</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pé</item>
+        <item>Szo</item>
+        <item>Va</item>
     </string-array>
     <string-array name="userinfo_Height_unit">
         <item>cm</item>
@@ -1741,38 +1741,38 @@
         <item>O(+)</item>
     </string-array>
     <string-array name="userinfo_contact_relation_array">
-        <item>Not set</item>
-        <item>Parent</item>
-        <item>Sister</item>
+        <item>Nincs beállítva</item>
+        <item>Szülő</item>
+        <item>Lánytestvér</item>
         <item>Brother</item>
         <item>Spouse</item>
         <item>Couple</item>
-        <item>Friend</item>
-        <item>Colleague</item>
-        <item>Classmate</item>
-        <item>Child</item>
+        <item>Barát</item>
+        <item>Munkatárs</item>
+        <item>Osztálytárs</item>
+        <item>Gyermek</item>
         <item>Partner</item>
-        <item>Assistant</item>
-        <item>Boss</item>
-        <item>Roommate</item>
-        <item>Doctor</item>
+        <item>Aszisztens</item>
+        <item>Főnök</item>
+        <item>Szobatárs</item>
+        <item>Orvos</item>
         <item>Family member</item>
-        <item>Teacher</item>
+        <item>Tanár</item>
         <item>Caretaker</item>
         <item>Guardian</item>
         <item>Social worker</item>
-        <item>School</item>
+        <item>Iskola</item>
         <item>Daycare</item>
-        <item>Other</item>
+        <item>Egyéb</item>
     </string-array>
     <string-array name="userinfo_energy_unit">
         <item>kcal</item>
         <item>kJ</item>
     </string-array>
     <string-array name="userinfo_gender_array">
-        <item>Not set</item>
-        <item>Male</item>
-        <item>Female</item>
+        <item>Nincs beállítva</item>
+        <item>Férfi</item>
+        <item>Nő</item>
     </string-array>
     <string-array name="userinfo_length_unit">
         <item>cm</item>
@@ -1780,32 +1780,32 @@
         <item>km</item>
     </string-array>
     <string-array name="userinfo_normal_blood_array">
-        <item>Not set</item>
+        <item>Nincs beállítva</item>
         <item>A</item>
         <item>B</item>
         <item>AB</item>
         <item>O</item>
     </string-array>
     <string-array name="userinfo_rh_blood_array">
-        <item>Not set</item>
-        <item>Negative</item>
-        <item>Positive</item>
+        <item>Nincs beállítva</item>
+        <item>Negatív</item>
+        <item>Pozitív</item>
     </string-array>
     <string-array name="userinfo_weight_unit">
         <item>kg</item>
     </string-array>
     <string-array name="userinfo_yes_no_array">
-        <item>Not set</item>
-        <item>Yes</item>
-        <item>No</item>
+        <item>Nincs beállítva</item>
+        <item>Igen</item>
+        <item>Nem</item>
     </string-array>
     <string-array name="week_label">
-        <item>S</item>
-        <item>M</item>
-        <item>T</item>
-        <item>W</item>
-        <item>T</item>
-        <item>F</item>
-        <item>S</item>
+        <item>V</item>
+        <item>H</item>
+        <item>K</item>
+        <item>Sze</item>
+        <item>Cs</item>
+        <item>P</item>
+        <item>Szo</item>
     </string-array>
 </resources>

@@ -3,7 +3,7 @@
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
-    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_action_mode_done">Kész</string>
     <string name="abc_activity_chooser_view_see_all">See all</string>
     <string name="abc_activitychooserview_choose_application">Choose an app</string>
     <string name="abc_capital_off">OFF</string>
@@ -21,7 +21,7 @@
     <string name="abc_search_hint">Search…</string>
     <string name="abc_searchview_description_clear">Clear query</string>
     <string name="abc_searchview_description_query">Search query</string>
-    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_search">Keresés</string>
     <string name="abc_searchview_description_submit">Submit query</string>
     <string name="abc_searchview_description_voice">Voice search</string>
     <string name="abc_shareactionprovider_share_with">Share with</string>
@@ -112,14 +112,14 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="about_sync_status_never_done">Not synced</string>
     <string name="about_time_format_hh_mm">HH:mm</string>
     <string name="about_weekly_report">Weekly summary</string>
-    <string name="access_common_allow">Allow</string>
+    <string name="access_common_allow">Engedélyez</string>
     <string name="access_common_cancel">Mégse</string>
     <string name="access_common_confirm">OK</string>
     <string name="access_common_load_data_failed">"Couldn't load info"</string>
     <string name="access_common_reject">Deny</string>
     <string name="access_common_save_fail">"Couldn't save"</string>
     <string name="access_common_save_success">Saved successfully</string>
-    <string name="access_common_waiting">Just a sec…</string>
+    <string name="access_common_waiting">Egy pillanat…</string>
     <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
     <string name="access_mine_thirdparty_access">Connected apps</string>
     <string name="access_misport">Mi Fit</string>
@@ -148,10 +148,10 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="access_permission_not_agree_tips">"You won't be able to use this service unless you grant the required permissions, but it won't affect your use of other services. You can always restrict permissions in the Settings."</string>
     <string name="access_permission_storage_save_qrcode">To be able to save images, allow this app to access storage.</string>
     <string name="access_permission_to_grant_authorization">OK</string>
-    <string name="access_setting_done">Done</string>
+    <string name="access_setting_done">Kész</string>
     <string name="access_thirdparty_alipay">Alipay</string>
     <string name="access_thirdparty_alipay_bind">Connect</string>
-    <string name="access_thirdparty_alipay_bind_error">Try again</string>
+    <string name="access_thirdparty_alipay_bind_error">Próbálja újra</string>
     <string name="access_thirdparty_alipay_bind_success_desc">To stop sharing data from Mi Fitness to Alipay, tap Disconnect and confirm in the app. Alternatively, change privacy settings in Alipay.</string>
     <string name="access_thirdparty_alipay_bind_success_title">You can now view your steps in Alipay > Sports.</string>
     <string name="access_thirdparty_alipay_confirm_bind_msg">This Alipay account is associated with another Mi Account in Mi Fitness. Would you like to connect your Alipay account with your current Mi Account?</string>
@@ -175,7 +175,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="access_thirdparty_wechat_bound">You can view your steps in WeChat.</string>
     <string name="access_thirdparty_wechat_help_1">To share data with WeChat, save the QR code below, scan it in WeChat, and tap \"Link device\".</string>
     <string name="access_thirdparty_wechat_help_2">To scan the QR code, tap Scan in WeChat, choose the Album icon on the lower right corner, and tap the QR code image.</string>
-    <string name="access_thirdparty_wechat_save_qr">Save</string>
+    <string name="access_thirdparty_wechat_save_qr">Mentés</string>
     <string name="access_unbind_dialog_msg">"Your step data won't be synced to WeChat."</string>
     <string name="access_unbind_success">Disconnected successfully</string>
     <string name="account_bind_secure_email_title">Add recovery email</string>
@@ -190,16 +190,16 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="account_error_user_name">This nickname is invalid. Try a different one.</string>
     <string name="account_invalid_user_avatar">This photo is invalid. Try a different one.</string>
     <string name="account_limit_update_birthday">"Can't update birthday right now"</string>
-    <string name="account_no_set">None</string>
-    <string name="account_none_bind_info">None</string>
-    <string name="account_none_user_name">None</string>
+    <string name="account_no_set">Nincs</string>
+    <string name="account_none_bind_info">Nincs</string>
+    <string name="account_none_user_name">Nincs</string>
     <string name="account_secure_info_pref_title">Account info</string>
     <string name="account_security_info_pref_title">Security info</string>
     <string name="account_user_avatar">Profile photo</string>
-    <string name="account_user_avatar_from_album">Gallery</string>
-    <string name="account_user_avatar_from_camera">Camera</string>
+    <string name="account_user_avatar_from_album">Galéria</string>
+    <string name="account_user_avatar_from_camera">Kamera</string>
     <string name="account_user_base_info">Basic info</string>
-    <string name="account_user_birthday">Birthday</string>
+    <string name="account_user_birthday">Születésnap</string>
     <string name="account_user_details">Personal info</string>
     <string name="account_user_email">Recovery email</string>
     <string name="account_user_gender">Gender</string>
@@ -208,7 +208,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="account_user_name_dialog_title">Enter username</string>
     <string name="account_user_other_info">Details</string>
     <string name="account_user_phone">Recovery phone</string>
-    <string name="account_user_region">Region</string>
+    <string name="account_user_region">Régió</string>
     <string name="action_add_phone">Add phone number</string>
     <string name="action_update_phone">Change phone number</string>
     <string name="actionbar_button_up_description">Back</string>
@@ -221,7 +221,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="add_wifi_desc">To connect your wearable device to Wi-Fi, enter the password for \"%1$s\".</string>
     <string name="add_wifi_title">Enter password</string>
     <string name="afternoon">Afternoon</string>
-    <string name="agree">Agree</string>
+    <string name="agree">Elfogadás</string>
     <string name="aivs_huami_operate_on_app">Continue in the app on your phone</string>
     <string name="aivs_huami_timer_limit">You can set a timer for up to 99 mins 59 secs</string>
     <string name="am">AM</string>
@@ -232,7 +232,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="bank_card_not_supported">Not supported</string>
     <string name="bank_card_type_credit">Credit</string>
     <string name="bank_card_type_debit">Debit</string>
-    <string name="bank_card_unit">cards</string>
+    <string name="bank_card_unit">Kártyák</string>
     <string name="bank_card_user_account_expire">Account has expired</string>
     <string name="bank_card_user_not_reserve_phone">You have not reserved phone number for the bank account, please contact bank customer service</string>
     <string name="bank_card_verify_failed">Card info is incorrect</string>
@@ -259,21 +259,21 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="choose_to_signup">"No, I'll create one"</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Clear</string>
-    <string name="close">Close</string>
+    <string name="close">Bezár</string>
     <string name="collect_diagnosis_log">Collect logs</string>
-    <string name="common_allow">Allow</string>
+    <string name="common_allow">Engedélyez</string>
     <string name="common_am">AM</string>
     <string name="common_apply">Discard</string>
-    <string name="common_cancel">Cancel</string>
-    <string name="common_complete">Done</string>
-    <string name="common_data_empty">No data</string>
+    <string name="common_cancel">Mégse</string>
+    <string name="common_complete">Kész</string>
+    <string name="common_data_empty">Nincs adat</string>
     <string name="common_data_manual_input">Manual entry</string>
     <string name="common_delete">Delete</string>
     <string name="common_delete_failure">"Couldn't delete"</string>
     <string name="common_delete_success">Deleted successfully</string>
     <string name="common_deleting">Deleting…</string>
     <string name="common_download_fail">"Couldn't download"</string>
-    <string name="common_download_use">Apply</string>
+    <string name="common_download_use">Alkalmaz</string>
     <string name="common_exit">Exit</string>
     <string name="common_exoplay_play_retry">Play again</string>
     <string name="common_exoplay_player_3g_tip_title">"You're using mobile data. Data charges may apply. Continue?"</string>
@@ -319,20 +319,20 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="common_pm">PM</string>
     <string name="common_progress">%d%%</string>
     <string name="common_reject">Deny</string>
-    <string name="common_retry">Try again</string>
+    <string name="common_retry">Próbálja újra</string>
     <string name="common_save_fail">"Couldn't save"</string>
     <string name="common_save_success">Saved successfully</string>
     <string name="common_set_error">"Couldn't set"</string>
     <string name="common_set_success">Applied successfully</string>
-    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text">Bejelentkezés</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="common_time_join_str">%1$s %2$s</string>
     <string name="common_time_join_str1">%1$s %2$s %3$s</string>
     <string name="common_update">Update</string>
-    <string name="common_use">Apply</string>
+    <string name="common_use">Alkalmaz</string>
     <string name="common_week">Week</string>
     <string name="common_year">Year</string>
-    <string name="confirm">Continue</string>
+    <string name="confirm">Folytatás</string>
     <string name="confirm_activate_email">Verified</string>
     <string name="confirm_bundled_phone_dialog_title">Confirm associated phone number</string>
     <string name="confirm_new_pwd">Confirm new password</string>
@@ -424,7 +424,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="course_attention">Important</string>
     <string name="course_audio_dialog_disconnect_content">%1$s is disconnected. End your workout now?</string>
     <string name="course_audio_dialog_disconnect_title">%1$s disconnected</string>
-    <string name="course_audio_dialog_training_btn">Cancel</string>
+    <string name="course_audio_dialog_training_btn">Mégse</string>
     <string name="course_audio_disconnect_content">The course will stop playing. Your workout data will be saved.</string>
     <string name="course_audio_error_desc">"Couldn't load audio. End your workout now?"</string>
     <string name="course_audio_error_title">Attention</string>
@@ -434,7 +434,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="course_cast_desc">Help</string>
     <string name="course_cast_stop_content">Stop casting now?</string>
     <string name="course_cast_stop_title">Attention</string>
-    <string name="course_cast_stop_yes">Stop</string>
+    <string name="course_cast_stop_yes">Állj</string>
     <string name="course_close_show_more">Collapse</string>
     <string name="course_content">Sessions</string>
     <string name="course_continue">Mégse</string>
@@ -488,7 +488,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="course_record_summary">%1$s %2$s</string>
     <string name="course_reset">Reset</string>
     <string name="course_share_calorie_desc">Calories</string>
-    <string name="course_start">Start</string>
+    <string name="course_start">Indít</string>
     <string name="course_stop">End and delete the workout?</string>
     <string name="course_stop_desc">End your workout now?</string>
     <string name="course_stop_title">Workout paused</string>
@@ -513,7 +513,7 @@ If you change your mind, before using our services, you need to agree to our Pri
 9. Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians. Ann Intern Med. 2016 Jul 19;165(2):125-33."</string>
     <string name="data_type_energy">Energy</string>
     <string name="data_type_heart_rate">Heart rate</string>
-    <string name="data_type_sleep">Sleep</string>
+    <string name="data_type_sleep">Alvás</string>
     <string name="data_type_spo2">Blood oxygen</string>
     <string name="data_type_stress">Stress</string>
     <string name="data_xaxis_time_0">00:00</string>
@@ -553,11 +553,11 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="device_application_settings">Apps</string>
     <string name="device_bind_add_success">Added successfully</string>
     <string name="device_bind_adding">Adding device</string>
-    <string name="device_bind_agree">Agree</string>
+    <string name="device_bind_agree">Elfogadás</string>
     <string name="device_bind_bind_account">Add account</string>
     <string name="device_bind_ble_pair_failure">"Couldn't pair"</string>
-    <string name="device_bind_click_retry">Try again</string>
-    <string name="device_bind_complete">Done</string>
+    <string name="device_bind_click_retry">Próbálja újra</string>
+    <string name="device_bind_complete">Kész</string>
     <string name="device_bind_connect_device">Connect to device</string>
     <string name="device_bind_connect_device_failure">"Couldn't connect"</string>
     <string name="device_bind_connect_failure">"&lt;Data>Couldn't connect. &lt;a href=\"%1$s\">View help&lt;/a>.&lt;/Data>"</string>
@@ -570,7 +570,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="device_bind_hm_verify_success">Verified</string>
     <string name="device_bind_legal_information">Legal information</string>
     <string name="device_bind_no_device">No paired devices</string>
-    <string name="device_bind_other_des"><u>Searching</u></string>
+    <string name="device_bind_other_des"><u>Keresés</u></string>
     <string name="device_bind_out_region">"This device's version isn't supported in current region"</string>
     <string name="device_bind_pair">Pair</string>
     <string name="device_bind_pair_code">Code</string>
@@ -592,11 +592,11 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="device_bond_miss_alert">"&lt;Data>1. Turn Bluetooth off and on again.&lt;br\\>2. Reboot your device. If it's updating, try again when the update is complete.&lt;br\\>3. If the problem persists, &lt;a href=\"%1$s\">view help&lt;/a>.&lt;/Data>"</string>
     <string name="device_bond_miss_title">"Couldn't connect to the device"</string>
     <string name="device_call_notify">Incoming calls</string>
-    <string name="device_cancel">Cancel</string>
+    <string name="device_cancel">Mégse</string>
     <string name="device_cancel_bind_confirm">Cancel adding %s?</string>
     <string name="device_cannot_open_bluetooth">"Couldn't turn on Bluetooth"</string>
-    <string name="device_card_and_pay">Cards</string>
-    <string name="device_card_and_payment">Cards</string>
+    <string name="device_card_and_pay">Kártyák</string>
+    <string name="device_card_and_payment">Kártyák</string>
     <string name="device_charged_none">Not charged after pairing</string>
     <string name="device_charged_status">%1$s | %2$s</string>
     <string name="device_charged_today">Charged today</string>
@@ -614,7 +614,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="device_contact_error_no_network">"Couldn't sync. Connect to the network and try again."</string>
     <string name="device_current_connected">Connected</string>
     <string name="device_current_not_connected">Disconnected</string>
-    <string name="device_determine">Continue</string>
+    <string name="device_determine">Folytatás</string>
     <string name="device_disconnect">Disconnected</string>
     <string name="device_ecg_measure">Record your ECG</string>
     <string name="device_ecg_measure_des">Find out how your body copes with stress</string>
@@ -636,7 +636,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="device_helper_keep_alive">Background permissions</string>
     <string name="device_huami_guide_tip">Follow on-device instructions to add your device</string>
     <string name="device_kongming_name">Mi Smart Band 5</string>
-    <string name="device_laboratory_setting">Beta</string>
+    <string name="device_laboratory_setting">Béta</string>
     <string name="device_language_setting">Nyelv</string>
     <string name="device_location_dialog_message">"You won't be able to use this service unless you grant the required permissions, but it won't affect your use of other services. You can always restrict permissions in the Settings."</string>
     <string name="device_location_dialog_title">Permissions required</string>
@@ -652,14 +652,14 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="device_notification">App notifications</string>
     <string name="device_notification_setting">Notifications and calls</string>
     <string name="device_notification_settings">Notifications and calls</string>
-    <string name="device_other">Other</string>
-    <string name="device_other_settings">Other</string>
+    <string name="device_other">Egyéb</string>
+    <string name="device_other_settings">Egyéb</string>
     <string name="device_others">Other devices</string>
     <string name="device_permission_location_ble_scan">To be able to search for Bluetooth devices, allow this app to access location.</string>
     <string name="device_permission_location_desc">Your location is used to track your workouts, show local weather, and pair with your trackers.</string>
     <string name="device_permission_location_info">Allow this app to access your location to be able to use this service.</string>
     <string name="device_permission_not_agree_tips">"You won't be able to use this service unless you grant the required permissions, but it won't affect your use of other services. You can always restrict permissions in the Settings."</string>
-    <string name="device_photograph_setting">Camera</string>
+    <string name="device_photograph_setting">Kamera</string>
     <string name="device_please_to_connect">Connect your device</string>
     <string name="device_privacy_message">"&lt;Data>I've read and agreed to &lt;a href=\"%1$s\">Privacy Policy&lt;/a>.&lt;/Data>"</string>
     <string name="device_rebind_fail_alert">Unpair the device and try again.</string>
@@ -670,18 +670,18 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="device_remove_device_in_other">Go to Device page and tap Unpair.</string>
     <string name="device_remove_fail">"Couldn't remove"</string>
     <string name="device_remove_fail_many_time">To unpair the device, go to Device page and tap Unpair.</string>
-    <string name="device_retry">Try again</string>
+    <string name="device_retry">Próbálja újra</string>
     <string name="device_scan_login">Scanner</string>
     <string name="device_scan_qr_add_device">Add device</string>
     <string name="device_scan_qr_code_into_box">Position the QR code in the frame</string>
     <string name="device_search_add_immediately">Add</string>
-    <string name="device_search_again">Search</string>
+    <string name="device_search_again">Keresés</string>
     <string name="device_search_failed_help">Fix connection problems</string>
     <string name="device_search_help"><u>Having trouble? View help</u></string>
     <string name="device_search_not_mine">Not mine</string>
     <string name="device_search_open_location">To add new devices, allow access to location.</string>
     <string name="device_search_select_tips">Select your device</string>
-    <string name="device_searching_nearby">Searching</string>
+    <string name="device_searching_nearby">Keresés</string>
     <string name="device_searching_tips">Keep the device close to your phone.</string>
     <string name="device_security_setting">Security</string>
     <string name="device_settings__common_unopen">Off</string>
@@ -697,7 +697,7 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="device_settings_add_new_vibrate_new_title_hint">Enter name</string>
     <string name="device_settings_add_new_vibrate_rename">Rename</string>
     <string name="device_settings_add_new_vibrate_reset">Record</string>
-    <string name="device_settings_add_new_vibrate_stop">Stop</string>
+    <string name="device_settings_add_new_vibrate_stop">Állj</string>
     <string name="device_settings_aivs_voice_optimise">Optimize voice recognition</string>
     <string name="device_settings_aivs_voice_optimise_desc">Allow Mi AI to use your voice data to improve AI efficiency and better recognize your commands</string>
     <string name="device_settings_alarm">Alarms</string>
@@ -716,7 +716,7 @@ You can add up to %1$s."</string>
     <string name="device_settings_alarm_select_please">Select alarms</string>
     <string name="device_settings_alarm_update_failed">"Couldn't add alarm"</string>
     <string name="device_settings_app_layout_setting">App layout</string>
-    <string name="device_settings_app_notify">Notifications</string>
+    <string name="device_settings_app_notify">Értesítések</string>
     <string name="device_settings_app_sort_setting">Sort apps</string>
     <string name="device_settings_app_sort_toptips">"Hold the Sort button to rearrange items
 To apply your changes to your wearable device, go to App layout and choose Grid."</string>
@@ -726,7 +726,7 @@ To apply your changes to your wearable device, go to App layout and choose Grid.
     <string name="device_settings_appsort_more_empty_tips">⁣Drag less frequently used items here.</string>
     <string name="device_settings_appsort_quit_dialog_title">You have unsaved changes</string>
     <string name="device_settings_appsort_saving">Saving…</string>
-    <string name="device_settings_appsort_setting">Settings</string>
+    <string name="device_settings_appsort_setting">Beállítások</string>
     <string name="device_settings_appsort_sync_failed">"Couldn't sync"</string>
     <string name="device_settings_appsort_sync_success">Synced successfully</string>
     <string name="device_settings_assist_sleep_open_msg">Turning on this feature will affect battery life, continue anyway?</string>
@@ -748,10 +748,10 @@ To apply your changes to your wearable device, go to App layout and choose Grid.
     <string name="device_settings_button_app_list_view">Sort apps</string>
     <string name="device_settings_button_breath_view">Breathing</string>
     <string name="device_settings_button_calendar_view">Events</string>
-    <string name="device_settings_button_card_view">Cards</string>
+    <string name="device_settings_button_card_view">Kártyák</string>
     <string name="device_settings_button_energy_view">Energy</string>
     <string name="device_settings_button_headrate_view">Heart rate</string>
-    <string name="device_settings_button_music_view">Music</string>
+    <string name="device_settings_button_music_view">Zene</string>
     <string name="device_settings_button_pay_view">Payment</string>
     <string name="device_settings_button_pressure_view">Stress</string>
     <string name="device_settings_button_setting_view">Watch face</string>
@@ -761,7 +761,7 @@ To apply your changes to your wearable device, go to App layout and choose Grid.
     <string name="device_settings_button_time_keeping_view">Timer</string>
     <string name="device_settings_button_wake_voice">Wake up Mi AI</string>
     <string name="device_settings_button_weather_view">Weather</string>
-    <string name="device_settings_cancel">Cancel</string>
+    <string name="device_settings_cancel">Mégse</string>
     <string name="device_settings_cannot_hide_item">Change your exercise shortcut first</string>
     <string name="device_settings_click_find_device">This will affect battery life</string>
     <string name="device_settings_close">Turn off</string>
@@ -774,9 +774,9 @@ To apply your changes to your wearable device, go to App layout and choose Grid.
     <string name="device_settings_common_ble_pair">Pair</string>
     <string name="device_settings_common_breath">Breathing</string>
     <string name="device_settings_common_calendar">Calendar</string>
-    <string name="device_settings_common_card">Cards</string>
+    <string name="device_settings_common_card">Kártyák</string>
     <string name="device_settings_common_clock">Watch face</string>
-    <string name="device_settings_common_complete">Done</string>
+    <string name="device_settings_common_complete">Kész</string>
     <string name="device_settings_common_countdown">Timer</string>
     <string name="device_settings_common_custom">Custom</string>
     <string name="device_settings_common_delete_going">Deleting…</string>
@@ -793,7 +793,7 @@ To apply your changes to your wearable device, go to App layout and choose Grid.
     <string name="device_settings_common_flash_light">Flashlight</string>
     <string name="device_settings_common_go_open">Not set</string>
     <string name="device_settings_common_goto_set">Beállítások</string>
-    <string name="device_settings_common_has_open">Done</string>
+    <string name="device_settings_common_has_open">Kész</string>
     <string name="device_settings_common_heart_rate">Heart rate</string>
     <string name="device_settings_common_hint">Attention</string>
     <string name="device_settings_common_hint_device_removed">The device has been removed</string>
@@ -805,16 +805,16 @@ To apply your changes to your wearable device, go to App layout and choose Grid.
     <string name="device_settings_common_music">Music</string>
     <string name="device_settings_common_not_selected">"You haven't selected any items yet"</string>
     <string name="device_settings_common_not_set">Not set</string>
-    <string name="device_settings_common_notification">Notifications</string>
-    <string name="device_settings_common_null">None</string>
+    <string name="device_settings_common_notification">Értesítések</string>
+    <string name="device_settings_common_null">Nincs</string>
     <string name="device_settings_common_oxygen_saturation">SpO₂</string>
     <string name="device_settings_common_pai">PAI</string>
     <string name="device_settings_common_period">Repeat</string>
     <string name="device_settings_common_phone_mute">Silent</string>
-    <string name="device_settings_common_photograph">Camera</string>
+    <string name="device_settings_common_photograph">Kamera</string>
     <string name="device_settings_common_pomodoro">Pomodoro timer</string>
     <string name="device_settings_common_pressure">Stress</string>
-    <string name="device_settings_common_remark">Name</string>
+    <string name="device_settings_common_remark">Név</string>
     <string name="device_settings_common_repeat">Repeat</string>
     <string name="device_settings_common_schdule">Events</string>
     <string name="device_settings_common_sleep">Sleep</string>
@@ -823,7 +823,7 @@ To apply your changes to your wearable device, go to App layout and choose Grid.
     <string name="device_settings_common_status">Stats</string>
     <string name="device_settings_common_stopwatch">Stopwatch</string>
     <string name="device_settings_common_telephony">Phone</string>
-    <string name="device_settings_common_today">Today</string>
+    <string name="device_settings_common_today">Ma</string>
     <string name="device_settings_common_voice">Mi AI</string>
     <string name="device_settings_common_weather">Weather</string>
     <string name="device_settings_common_wechat_pay">WeChat</string>
@@ -975,7 +975,7 @@ This step is required to pay with your device."</string>
     <string name="device_settings_mastercard_pwd_upgrading_desc">"It takes about 2 mins. Don't leave this page."</string>
     <string name="device_settings_music_requeire_permission">Turn on Notification access for the app</string>
     <string name="device_settings_nap_end">End</string>
-    <string name="device_settings_nap_start">Start</string>
+    <string name="device_settings_nap_start">Indít</string>
     <string name="device_settings_night_end_time">End</string>
     <string name="device_settings_night_model">Night mode</string>
     <string name="device_settings_night_model_afternone">PM</string>
@@ -987,7 +987,7 @@ This step is required to pay with your device."</string>
     <string name="device_settings_night_model_setting">Night mode</string>
     <string name="device_settings_night_model_sunset_open">Off until sunset</string>
     <string name="device_settings_night_model_tomorrow">Tomorrow</string>
-    <string name="device_settings_night_start_time">Start</string>
+    <string name="device_settings_night_start_time">Indít</string>
     <string name="device_settings_not_open_for_now">Not now</string>
     <string name="device_settings_notify_permission_is_not_enabled">Allow Notification access</string>
     <string name="device_settings_nromal_alarm">Regular</string>
@@ -1000,7 +1000,7 @@ This step is required to pay with your device."</string>
     <string name="device_settings_permission_location_weather_msg">To be able to update weather info, allow this app to access your location.</string>
     <string name="device_settings_permission_not_agree_tips">"You won't be able to use this service unless you grant the required permissions, but it won't affect your use of other services. You can always restrict permissions in the Settings."</string>
     <string name="device_settings_photograph_pair_tips">To use this feature, tap Pair and confirm on your wearable device.</string>
-    <string name="device_settings_photograph_set">Camera</string>
+    <string name="device_settings_photograph_set">Kamera</string>
     <string name="device_settings_photograph_unpair_tips">"Tap Unpair
 to unpair the phone and band"</string>
     <string name="device_settings_pin_update_title">Advanced protection</string>
@@ -1033,10 +1033,10 @@ to unpair the phone and band"</string>
 The related device data will be cleared within 7 days."</string>
     <string name="device_settings_revoke_authorization_dialog_title">Attention</string>
     <string name="device_settings_revoke_authorization_dialog_title_oversea">Revoke authorization?</string>
-    <string name="device_settings_revoke_authorization_ensure_revoke">Continue</string>
+    <string name="device_settings_revoke_authorization_ensure_revoke">Folytatás</string>
     <string name="device_settings_revoke_authorization_failed">"Couldn't revoke authorization"</string>
     <string name="device_settings_right_handle">Right</string>
-    <string name="device_settings_save">Save</string>
+    <string name="device_settings_save">Mentés</string>
     <string name="device_settings_schedule">Events</string>
     <string name="device_settings_schedule_time_zone">%1$s–%2$s</string>
     <string name="device_settings_sedentary__stretch_guide">Stretching</string>
@@ -1078,7 +1078,7 @@ The related device data will be cleared within 7 days."</string>
     <string name="device_settings_sportsort_ice_sports">Winter sports</string>
     <string name="device_settings_sportsort_leisure_sports">Recreational sports</string>
     <string name="device_settings_sportsort_normal_sports">General</string>
-    <string name="device_settings_sportsort_other_sports">Other</string>
+    <string name="device_settings_sportsort_other_sports">Egyéb</string>
     <string name="device_settings_sportsort_outdoor_sports">Outdoor activities</string>
     <string name="device_settings_sportsort_water_sports">Water sports</string>
     <string name="device_settings_stand_detect_title">Remind to stand up</string>
@@ -1196,10 +1196,10 @@ The related device data will be cleared within 7 days."</string>
     <string name="device_settings_wrist_bright_sensitive_normal">Default</string>
     <string name="device_settings_wrist_bright_sensitive_top">High</string>
     <string name="device_settings_wrist_bright_sensitive_top_notice">High (It affects battery life)</string>
-    <string name="device_settings_wrist_bright_start_time">Start</string>
+    <string name="device_settings_wrist_bright_start_time">Indít</string>
     <string name="device_settings_wrist_lock_cannot_off">"Couldn't turn off. Paying with your device requires a PIN."</string>
     <string name="device_settings_wrist_screen_wake_end">End</string>
-    <string name="device_settings_wrist_screen_wake_start">Start</string>
+    <string name="device_settings_wrist_screen_wake_start">Indít</string>
     <string name="device_settings_xiaoai_skill">Mi AI</string>
     <string name="device_status_connecting">Connecting…</string>
     <string name="device_switch">Connect</string>
@@ -1246,7 +1246,7 @@ The related device data will be cleared within 7 days."</string>
 ID:%s
 Send this code to the supervisor."</string>
     <string name="dialog_exit_use">Exit</string>
-    <string name="dialog_loanding">Just a sec…</string>
+    <string name="dialog_loanding">Egy pillanat…</string>
     <string name="dialog_tb_current_select">%1$s</string>
     <string name="discard_update">No thanks</string>
     <string name="distance_custom_target">Check your goal</string>
@@ -1287,18 +1287,18 @@ Send this code to the supervisor."</string>
     <string name="exo_controls_pause_description">Pause</string>
     <string name="exo_controls_play_description">Play</string>
     <string name="exo_controls_playback_speed">Speed</string>
-    <string name="exo_controls_playback_speed_normal">Normal</string>
+    <string name="exo_controls_playback_speed_normal">Normális</string>
     <string name="exo_controls_previous_description">Previous</string>
     <string name="exo_controls_repeat_all_description">Repeat all</string>
     <string name="exo_controls_repeat_off_description">Repeat none</string>
     <string name="exo_controls_repeat_one_description">Repeat one</string>
     <string name="exo_controls_rewind_description">Rewind</string>
     <string name="exo_controls_seek_bar_description">Playback progress</string>
-    <string name="exo_controls_settings_description">Settings</string>
+    <string name="exo_controls_settings_description">Beállítások</string>
     <string name="exo_controls_show">Show player controls</string>
     <string name="exo_controls_shuffle_off_description">Shuffle off</string>
     <string name="exo_controls_shuffle_on_description">Shuffle on</string>
-    <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_controls_stop_description">Állj</string>
     <string name="exo_controls_time_placeholder">00:00:00</string>
     <string name="exo_controls_vr_description">VR mode</string>
     <string name="exo_download_completed">Download completed</string>
@@ -1316,7 +1316,7 @@ Send this code to the supervisor."</string>
     <string name="exo_track_role_commentary">Commentary</string>
     <string name="exo_track_role_supplementary">Supplementary</string>
     <string name="exo_track_selection_auto">Auto</string>
-    <string name="exo_track_selection_none">None</string>
+    <string name="exo_track_selection_none">Nincs</string>
     <string name="exo_track_selection_title_audio">Audio</string>
     <string name="exo_track_selection_title_text">Text</string>
     <string name="exo_track_selection_title_video">Video</string>
@@ -1335,10 +1335,10 @@ Send this code to the supervisor."</string>
     <string name="face_author">Author: %1$s</string>
     <string name="face_bg_img">Custom photo</string>
     <string name="face_common_apn_tip">Data usage warning</string>
-    <string name="face_common_download_install">Apply</string>
+    <string name="face_common_download_install">Alkalmaz</string>
     <string name="face_common_download_now">Download</string>
     <string name="face_common_download_waiting">Pending</string>
-    <string name="face_common_downloading">Just a sec…</string>
+    <string name="face_common_downloading">Egy pillanat…</string>
     <string name="face_common_free">Free</string>
     <string name="face_common_hint_apn_size">%.2f MB of mobile data will be used to download this item. Download anyway?</string>
     <string name="face_common_hint_apn_unknown">Mobile data will be used to download this item.</string>
@@ -1349,9 +1349,9 @@ Send this code to the supervisor."</string>
     <string name="face_common_img_replace">Back</string>
     <string name="face_common_install_fail">"Couldn't apply"</string>
     <string name="face_common_latest_version">Current version is up to date</string>
-    <string name="face_common_null">None</string>
+    <string name="face_common_null">Nincs</string>
     <string name="face_common_progress">%d%%</string>
-    <string name="face_common_retry">Try again</string>
+    <string name="face_common_retry">Próbálja újra</string>
     <string name="face_common_upload_failure">"Couldn't upload"</string>
     <string name="face_common_upload_part">Upload incomplete</string>
     <string name="face_common_upload_success">Uploaded successfully</string>
@@ -1383,7 +1383,7 @@ Send this code to the supervisor."</string>
     <string name="face_repick_photo_watch">Choose another photo</string>
     <string name="face_replace">"Can't add more band displays. Downloading a new band display will replace the previous one."</string>
     <string name="face_save_fail_same_photo">This photo was added before.</string>
-    <string name="face_save_use">Apply</string>
+    <string name="face_save_use">Alkalmaz</string>
     <string name="face_screen_off">Always-on display</string>
     <string name="face_screen_off_tips">To use Always-on display on your wearable device, go to Settings > Display and turn on Always-on display.</string>
     <string name="face_select_del">"You haven't selected any items yet"</string>
@@ -1392,7 +1392,7 @@ Send this code to the supervisor."</string>
     <string name="face_spirit_color">Text color</string>
     <string name="face_style">Style</string>
     <string name="face_used_not_edit">"Editing isn't supported"</string>
-    <string name="face_wearos_install">Just a sec…</string>
+    <string name="face_wearos_install">Egy pillanat…</string>
     <string name="facebook_application_id" />
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
@@ -1404,19 +1404,19 @@ Send this code to the supervisor."</string>
     <string name="feedback_comment_desc">Enjoying our app?</string>
     <string name="feedback_comment_ok">Yes! Rate it!</string>
     <string name="feedback_comment_title">Rate our app</string>
-    <string name="feedback_common_allow">Allow</string>
+    <string name="feedback_common_allow">Engedélyez</string>
     <string name="feedback_common_hint_network_unavailable">Check your network settings and try again</string>
-    <string name="feedback_common_loading_cancel">Cancel</string>
+    <string name="feedback_common_loading_cancel">Mégse</string>
     <string name="feedback_common_more">More</string>
     <string name="feedback_common_reject">Deny</string>
-    <string name="feedback_common_waiting">Just a sec…</string>
+    <string name="feedback_common_waiting">Egy pillanat…</string>
     <string name="feedback_confirm_upload">Submit</string>
     <string name="feedback_connect_tip">Enter your info so we could contact you</string>
     <string name="feedback_connect_way">Contact info</string>
     <string name="feedback_contact_info">Enter your phone number and email</string>
     <string name="feedback_crop_tip">Upload the screenshots to help us locate the problem</string>
     <string name="feedback_device_problem">Eszköz</string>
-    <string name="feedback_device_uploading">Just a sec…</string>
+    <string name="feedback_device_uploading">Egy pillanat…</string>
     <string name="feedback_failed">"Couldn't submit"</string>
     <string name="feedback_health_monitoring">Health monitoring</string>
     <string name="feedback_health_monitoring_title">Health monitoring</string>
@@ -1425,7 +1425,7 @@ Send this code to the supervisor."</string>
     <string name="feedback_log">Upload logs to help us locate and solve this problem</string>
     <string name="feedback_mail">Email</string>
     <string name="feedback_mine_feedback">Feedback</string>
-    <string name="feedback_other_type">Other</string>
+    <string name="feedback_other_type">Egyéb</string>
     <string name="feedback_permission_location_desc">Your location is used to track your workouts, show local weather, and pair with your devices.</string>
     <string name="feedback_permission_not_agree_tips">"You won't be able to use this service unless you grant the required permissions, but it won't affect your use of other services. You can always restrict permissions in the Settings."</string>
     <string name="feedback_permission_storage_feedback_log">To be able to upload device logs, allow this app to access storage.</string>
@@ -1434,7 +1434,7 @@ Send this code to the supervisor."</string>
     <string name="feedback_select_please">Select a category</string>
     <string name="feedback_select_problem_title">Select a category</string>
     <string name="feedback_select_type">Select a category</string>
-    <string name="feedback_setting_done">Done</string>
+    <string name="feedback_setting_done">Kész</string>
     <string name="feedback_sport_related">Edzés</string>
     <string name="feedback_success">Submitted successfully</string>
     <string name="feedback_toast_less_than_word">Enter at least 10 characters</string>
@@ -1446,7 +1446,7 @@ Send this code to the supervisor."</string>
     <string name="feedback_upload_device_log_message">Submitting the device log helps us locate the issue. It may take a 1 to 2 minutes.</string>
     <string name="feedback_upload_device_log_message_sync">Submitting the device log helps us locate the issue.</string>
     <string name="feedback_upload_device_log_title">Upload device log?</string>
-    <string name="feedback_wearable_experience">Mi Fitness</string>
+    <string name="feedback_wearable_experience">Mi Fitnesz</string>
     <string name="find_new_verision">Version %s is available now</string>
     <string name="find_psw">Forgot password</string>
     <string name="firmware_bracelet">Firmware update</string>
@@ -1562,7 +1562,7 @@ Send this code to the supervisor."</string>
     <string name="fitness_group_gymnastics">Mass gymnastics</string>
     <string name="fitness_gymnastics">Gymnastics</string>
     <string name="fitness_handball">Handball</string>
-    <string name="fitness_health_walk">Walking</string>
+    <string name="fitness_health_walk">Gyaloglás</string>
     <string name="fitness_high_intensity_gap_training">HIIT</string>
     <string name="fitness_high_intensity_interval_training">HIIT</string>
     <string name="fitness_hiking_outdoor">Hiking</string>
@@ -1594,7 +1594,7 @@ Send this code to the supervisor."</string>
     <string name="fitness_muay_thai">Muay Thai</string>
     <string name="fitness_national_dance">Folk dance</string>
     <string name="fitness_on_foot">Hiking</string>
-    <string name="fitness_others">Other</string>
+    <string name="fitness_others">Egyéb</string>
     <string name="fitness_outdoor_boating">Boating</string>
     <string name="fitness_outdoor_skating">Ice skating</string>
     <string name="fitness_paddle_board">Paddleboarding</string>
@@ -1663,7 +1663,7 @@ Send this code to the supervisor."</string>
     <string name="fitness_volleyball">Volleyball</string>
     <string name="fitness_waist_training">Abs</string>
     <string name="fitness_walk">Race walk</string>
-    <string name="fitness_walk_outdoor">Walking</string>
+    <string name="fitness_walk_outdoor">Gyaloglás</string>
     <string name="fitness_walking">Walks</string>
     <string name="fitness_wall_ball">Wall ball</string>
     <string name="fitness_water_polo">Water polo</string>
@@ -1744,13 +1744,13 @@ Send this code to the supervisor."</string>
     <string name="habit_calendar_event_reminder_location">View in Mi Fitness</string>
     <string name="habit_calendar_sync_alert">Add to Calendar</string>
     <string name="habit_common_add_failed">"Couldn't add"</string>
-    <string name="habit_common_cancel">Cancel</string>
+    <string name="habit_common_cancel">Mégse</string>
     <string name="habit_common_confirm">OK</string>
     <string name="habit_common_known">Got it</string>
     <string name="habit_common_load_data_failed">"Couldn't load data"</string>
-    <string name="habit_common_loading">Just a sec…</string>
+    <string name="habit_common_loading">Egy pillanat…</string>
     <string name="habit_common_ok">OK</string>
-    <string name="habit_common_save">Save</string>
+    <string name="habit_common_save">Mentés</string>
     <string name="habit_continues_assist">%1$s</string>
     <string name="habit_days_0">"You're all set!"</string>
     <string name="habit_delete_confirm_my_habit">"Remove this habit? You'll lose your streak."</string>
@@ -1761,7 +1761,7 @@ Send this code to the supervisor."</string>
     <string name="habit_edit_finish">Back</string>
     <string name="habit_edit_not_all">Deselect All</string>
     <string name="habit_go_and_add_one">Create your first habit</string>
-    <string name="habit_item_not_start">Start</string>
+    <string name="habit_item_not_start">Indít</string>
     <string name="habit_item_punch">Check in</string>
     <string name="habit_item_punched">Checked in</string>
     <string name="habit_list_my_title">My habits</string>
@@ -1780,7 +1780,7 @@ Send this code to the supervisor."</string>
     <string name="habit_recommend">Recommended</string>
     <string name="habit_share">Share</string>
     <string name="habit_share_app_name">%1$s</string>
-    <string name="habit_today">Today</string>
+    <string name="habit_today">Ma</string>
     <string name="habit_today_empty">No habits</string>
     <string name="habit_world_clock_select_none">Select items first</string>
     <string name="habit_world_clock_select_world">Select items</string>
@@ -1820,7 +1820,7 @@ Send this code to the supervisor."</string>
     <string name="health_blood_pressure_mild_abnormal_tip">3 days a week after getting up and before going to bed</string>
     <string name="health_blood_pressure_min_high_pressure">Min systolic</string>
     <string name="health_blood_pressure_min_low_pressure">Min diastolic</string>
-    <string name="health_blood_pressure_normal">Normal</string>
+    <string name="health_blood_pressure_normal">Normális</string>
     <string name="health_blood_pressure_normal_tip">Once a week after getting up</string>
     <string name="health_blood_pressure_notice_subtitle1">"Don't forget to record this measurement"</string>
     <string name="health_blood_pressure_notice_subtitle2">"Don't forget to record this measurement"</string>
@@ -1839,7 +1839,7 @@ Send this code to the supervisor."</string>
     <string name="health_blood_pressure_severe_abnormal_tip">Every day after getting up, after lunch, and before going to bed</string>
     <string name="health_blood_pressure_status_high">High</string>
     <string name="health_blood_pressure_status_low">Low</string>
-    <string name="health_blood_pressure_status_normal">Normal</string>
+    <string name="health_blood_pressure_status_normal">Normális</string>
     <string name="health_blood_pressure_systolic_pressure">Systolic</string>
     <string name="health_blood_pressure_understand">Learn more</string>
     <string name="health_blood_pressure_understand_first_desc">"Blood pressure is the pressure of blood pushing against the walls of your arteries as it's pumped around your body. It's written as two numbers: Systolic pressure, the upper number, the pressure in your arteries when your heart beats. Diastolic pressure, the lower number, the pressure in your arteries between beats."</string>
@@ -1911,12 +1911,12 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
     <string name="health_common_panel_button_closed">Expand</string>
     <string name="health_common_panel_button_opened">Collapse</string>
     <string name="health_common_record_detail">Details</string>
-    <string name="health_common_save">Save</string>
+    <string name="health_common_save">Mentés</string>
     <string name="health_common_select_null">Not selected</string>
-    <string name="health_common_today">Today</string>
+    <string name="health_common_today">Ma</string>
     <string name="health_common_unit_percent">%</string>
     <string name="health_common_view_record">All data</string>
-    <string name="health_current">Today</string>
+    <string name="health_current">Ma</string>
     <string name="health_curse">Period</string>
     <string name="health_curse_action">Edit period</string>
     <string name="health_curse_action_end">End</string>
@@ -1933,7 +1933,7 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
     <string name="health_curse_days">Period duration</string>
     <string name="health_curse_delete">Delete</string>
     <string name="health_curse_delete_confirm">Delete this record?</string>
-    <string name="health_curse_desc_empty">No data</string>
+    <string name="health_curse_desc_empty">Nincs adat</string>
     <string name="health_curse_desc_in">Period day %d</string>
     <string name="health_curse_end_future">Period ends</string>
     <string name="health_curse_end_label">End</string>
@@ -1950,7 +1950,7 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
     <string name="health_curse_interval">Cycle length</string>
     <string name="health_curse_lover_health">Cycles</string>
     <string name="health_curse_motion">Mood</string>
-    <string name="health_curse_notice">Notifications</string>
+    <string name="health_curse_notice">Értesítések</string>
     <string name="health_curse_notify_ahead">Reminders</string>
     <string name="health_curse_notify_device">Show on wearable device</string>
     <string name="health_curse_notify_ovum">Ovulation notifications</string>
@@ -1966,20 +1966,20 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
     <string name="health_curse_qa_start">Last period</string>
     <string name="health_curse_qa_start_her">Last period</string>
     <string name="health_curse_recent_empty">No recent data</string>
-    <string name="health_curse_recent_start">Start</string>
+    <string name="health_curse_recent_start">Indít</string>
     <string name="health_curse_record">Period history</string>
     <string name="health_curse_setting">Adjust cycles</string>
     <string name="health_curse_start">Track cycles</string>
-    <string name="health_curse_start_label">Start</string>
+    <string name="health_curse_start_label">Indít</string>
     <string name="health_curse_start_notify">Period notifications</string>
-    <string name="health_curse_start_time_empty">Start</string>
+    <string name="health_curse_start_time_empty">Indít</string>
     <string name="health_curse_state">Edit period</string>
     <string name="health_curse_state_end">Ended</string>
     <string name="health_curse_state_tip">"How you're doing?"</string>
     <string name="health_curse_symptom">Symptoms</string>
     <string name="health_curse_time_tip">The start date should be earlier than the end date</string>
     <string name="health_curse_to_now">Started %1$s</string>
-    <string name="health_curse_today">Today</string>
+    <string name="health_curse_today">Ma</string>
     <string name="health_curse_understand_tip1">Keeping a log of symptoms throughout cycles can help you identify patterns and understand what happens during cycles.</string>
     <string name="health_curse_understand_tip2">Based on the logged information about previous periods and cycle length, you can get predictions of future periods, fertile windows, and ovulation days.</string>
     <string name="health_curse_understand_tip3">The more you log, the more accurate predictions you get.</string>
@@ -1988,7 +1988,7 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
     <string name="health_daily_sleep_target">Goal</string>
     <string name="health_data_active_model_date">%s</string>
     <string name="health_data_active_model_info">Activities</string>
-    <string name="health_data_day_empty">No data</string>
+    <string name="health_data_day_empty">Nincs adat</string>
     <string name="health_data_detail_day">Daily summary</string>
     <string name="health_data_detail_month">Monthly summary</string>
     <string name="health_data_detail_week">Weekly summary</string>
@@ -1996,7 +1996,7 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
     <string name="health_data_device_list_current_device">%1$s</string>
     <string name="health_data_device_list_source">Data source</string>
     <string name="health_data_devices_unbind_title">Removed devices</string>
-    <string name="health_data_empty">No data</string>
+    <string name="health_data_empty">Nincs adat</string>
     <string name="health_data_energy_consumption_detail">"1. Moderate or severe stress; 
 2. Moderate and high-intensity workouts; 
 3. Daily activities."</string>
@@ -2014,13 +2014,13 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
     <string name="health_data_heart_last_rate_desc">%1$s BPM</string>
     <string name="health_data_heart_last_rate_home_desc">%1$s</string>
     <string name="health_data_heart_rate_desc">Avg: %1$s</string>
-    <string name="health_data_heart_rate_setting">Settings</string>
+    <string name="health_data_heart_rate_setting">Beállítások</string>
     <string name="health_data_hrm_distribute">Heart rate zone</string>
     <string name="health_data_last_update_time">Updated: %s</string>
     <string name="health_data_manual_record_date">%s</string>
     <string name="health_data_manual_record_title">Manual measurements</string>
     <string name="health_data_manual_record_title_in_menu">Manual measurements</string>
-    <string name="health_data_month_empty">No data</string>
+    <string name="health_data_month_empty">Nincs adat</string>
     <string name="health_data_pai_home_desc">%1$s PAI</string>
     <string name="health_data_rate_distribute1">Light</string>
     <string name="health_data_rate_distribute2">Intensive</string>
@@ -2028,7 +2028,7 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
     <string name="health_data_rate_distribute4">Anaerobic</string>
     <string name="health_data_rate_distribute5">VO₂ max</string>
     <string name="health_data_rate_unit_only">BPM</string>
-    <string name="health_data_sleep_empty">No data</string>
+    <string name="health_data_sleep_empty">Nincs adat</string>
     <string name="health_data_sort_label">Hidden items</string>
     <string name="health_data_sort_label_kit">Hidden widgets</string>
     <string name="health_data_sport_record_empty">Log your workout.</string>
@@ -2067,7 +2067,7 @@ To counteract sitting all day, stand and move during 12 or more hours of the day
     <string name="health_data_type_vo2_max">VO₂ max</string>
     <string name="health_data_type_week_record">Weekly summary</string>
     <string name="health_data_type_weight">Weight</string>
-    <string name="health_data_week_empty">No data</string>
+    <string name="health_data_week_empty">Nincs adat</string>
     <string name="health_data_weight_rest_home_desc">Weight %1$s kg</string>
     <string name="health_date">Date</string>
     <string name="health_date_range">%1$s–%2$s</string>
@@ -2076,7 +2076,7 @@ To counteract sitting all day, stand and move during 12 or more hours of the day
     <string name="health_deep_shallow_sleep_detection">Analyze sleep cycle</string>
     <string name="health_deep_sleep_percentage">Deep sleep</string>
     <string name="health_delete_record">Delete record</string>
-    <string name="health_dialog_cancel">Cancel</string>
+    <string name="health_dialog_cancel">Mégse</string>
     <string name="health_dialog_clear">Clear</string>
     <string name="health_dialog_data_delete_check_subtitle">Delete this record?</string>
     <string name="health_dialog_data_delete_check_title">Delete record</string>
@@ -2143,7 +2143,7 @@ To protect your hearing during loud activities, consider wearing earplugs, using
     <string name="health_hrm_abnormal_low">Low heart rate</string>
     <string name="health_hrm_add">Add data</string>
     <string name="health_hrm_fibrillation">Irregular heartbeats</string>
-    <string name="health_hrm_fibrillation_none">No data</string>
+    <string name="health_hrm_fibrillation_none">Nincs adat</string>
     <string name="health_hrm_phone_record">Measure with phone</string>
     <string name="health_hrm_understand">Learn more</string>
     <string name="health_hrm_understand_abnormal_high_detail">"Your wearable device notifies you when your heart rate goes above a set level while you're inactive. Sometimes, it's normal for your heart rate to rise as a response to stress, caffeine intake, or a cold. However, people experiencing dizziness, shortness of breath, or palpitations should seek medical advice.
@@ -2157,7 +2157,7 @@ Note that the low heart rate data is not intended for medical purposes, nor is i
     <string name="health_keep_sporting">Resume</string>
     <string name="health_light_sleep_percentage">Light sleep</string>
     <string name="health_login_no_desc">Sign in to sync your device</string>
-    <string name="health_login_no_title">Sign in</string>
+    <string name="health_login_no_title">Bejelentkezés</string>
     <string name="health_login_open">OK</string>
     <string name="health_login_part_desc">Every bit of info helps improve the accuracy of workout data.</string>
     <string name="health_login_part_title">Complete your profile</string>
@@ -2170,7 +2170,7 @@ Note that the low heart rate data is not intended for medical purposes, nor is i
 
 You'll see your \"Moving\" progress when your cadence exceeds 100 SPM or when your heart rate exceeds 65% of your max heart rate."</string>
     <string name="health_mh_total_time">Total</string>
-    <string name="health_motion_recognizer">Settings</string>
+    <string name="health_motion_recognizer">Beállítások</string>
     <string name="health_open">OK</string>
     <string name="health_pai_acquire_desc">%2$s PAI (On %1$s)</string>
     <string name="health_pai_content_0">Earn PAI by doing any activity that gets your heart pumping.</string>
@@ -2201,12 +2201,12 @@ You'll see your \"Moving\" progress when your cadence exceeds 100 SPM or when yo
     <string name="health_phone_sleep_assistant_title">Phone</string>
     <string name="health_press_distribute">Details</string>
     <string name="health_press_mild">Mild</string>
-    <string name="health_press_mild_huami">Normal</string>
+    <string name="health_press_mild_huami">Normális</string>
     <string name="health_press_moderate">Moderate</string>
     <string name="health_press_moderate_huami">Moderate</string>
     <string name="health_press_relax">Relaxed</string>
     <string name="health_press_relax_huami">Relaxed</string>
-    <string name="health_press_setting">Settings</string>
+    <string name="health_press_setting">Beállítások</string>
     <string name="health_press_severe">Severe</string>
     <string name="health_press_severe_huami">Severe</string>
     <string name="health_rapid_eye_movement_percentage">REM</string>
@@ -2235,8 +2235,8 @@ Typical range: Below 5%"</string>
     <string name="health_sleep_awake_title">Awake</string>
     <string name="health_sleep_bad">Not bad</string>
     <string name="health_sleep_bedtime">Fell asleep</string>
-    <string name="health_sleep_best">Excellent</string>
-    <string name="health_sleep_better">Excellent</string>
+    <string name="health_sleep_best">Kitünő</string>
+    <string name="health_sleep_better">Kitünő</string>
     <string name="health_sleep_breath_essay1_content">The rating is based on the monitoring of your night-time blood oxygen levels, indicating how well you breathe during sleep. Poor breathing at night may leave you fatigued and sleepy during the day. To breathe better at night, refer to the following tips.</string>
     <string name="health_sleep_breath_essay1_title">About Breathing score</string>
     <string name="health_sleep_breath_essay2_content">"1. Sleep on your side.
@@ -2292,7 +2292,7 @@ Typical range: 10%–30%"</string>
     <string name="health_sleep_regular">Bedtime routine</string>
     <string name="health_sleep_schedule">Bedtime</string>
     <string name="health_sleep_segment_distribute">Sleep distribution</string>
-    <string name="health_sleep_setting">Settings</string>
+    <string name="health_sleep_setting">Beállítások</string>
     <string name="health_sleep_settings_disabled">Off</string>
     <string name="health_sleep_settings_enabled">On</string>
     <string name="health_sleep_settings_faq">FAQ</string>
@@ -2347,13 +2347,13 @@ Typical range: 10%–30%"</string>
     <string name="health_sport_app_exit">Resume your workout?</string>
     <string name="health_sport_list_record">Show all</string>
     <string name="health_sport_sao2">Blood oxygen</string>
-    <string name="health_sport_sao2_setting">Settings</string>
+    <string name="health_sport_sao2_setting">Beállítások</string>
     <string name="health_sport_v02max_name">VO₂ max</string>
     <string name="health_stand_count_avg_day">Average</string>
     <string name="health_stand_manu_set_title">Have you stood up within the last hour?</string>
-    <string name="health_stand_setting">Settings</string>
-    <string name="health_stand_setting_sedentary">Settings</string>
-    <string name="health_start_date">Start</string>
+    <string name="health_stand_setting">Beállítások</string>
+    <string name="health_stand_setting_sedentary">Beállítások</string>
+    <string name="health_start_date">Indít</string>
     <string name="health_step_active_find_more">Show all</string>
     <string name="health_step_count_name">Steps</string>
     <string name="health_steps_detail_avg">Avg steps</string>
@@ -2372,12 +2372,12 @@ Severe: 81–100."</string>
     <string name="health_stress_detection_principle_title">Stress evaluation</string>
     <string name="health_stress_dist_title">Details</string>
     <string name="health_stress_distribute">Details</string>
-    <string name="health_stress_empty">No data</string>
+    <string name="health_stress_empty">Nincs adat</string>
     <string name="health_stress_highlight" />
     <string name="health_stress_home_desc">Stress %1$s</string>
     <string name="health_stress_manual_record_title">Manual measurements</string>
     <string name="health_stress_mild">Mild</string>
-    <string name="health_stress_mild_huami">Normal</string>
+    <string name="health_stress_mild_huami">Normális</string>
     <string name="health_stress_moderate">Moderate</string>
     <string name="health_stress_moderate_huami">Moderate</string>
     <string name="health_stress_problem_explanation_detail">"1. Your wearable device measures your stress level when you're inactive.
@@ -2432,7 +2432,7 @@ Severe: 81–100."</string>
     <string name="health_target_dynamic_indicators">Stats</string>
     <string name="health_target_edit_desc">Apart from Steps and Calories, choose another goal.</string>
     <string name="health_target_function_desc1">"Your wearable device doesn't count %s. Set another goal?"</string>
-    <string name="health_target_go_exercise">Start</string>
+    <string name="health_target_go_exercise">Indít</string>
     <string name="health_target_go_setting">Set</string>
     <string name="health_target_health_tips_desc">Start a workout, move around, and track progress towards your goals.</string>
     <string name="health_target_health_tips_title">Tip</string>
@@ -2473,9 +2473,9 @@ Severe: 81–100."</string>
     <string name="health_vo2max_composite_grade">Level</string>
     <string name="health_vo2max_content">VO₂ max represents the max volume of oxygen uptake measured during incremental exercise at maximal effort. It’s an indicator of aerobic endurance and capacity. Generally, a high VO₂ max value means you are able to exercise at a higher intensity than those who are not as well conditioned.</string>
     <string name="health_vo2max_grade">Level</string>
-    <string name="health_vo2max_level_excellent">Excellent</string>
-    <string name="health_vo2max_level_good">Normal</string>
-    <string name="health_vo2max_level_great">Good</string>
+    <string name="health_vo2max_level_excellent">Kitünő</string>
+    <string name="health_vo2max_level_good">Normális</string>
+    <string name="health_vo2max_level_great">Jó</string>
     <string name="health_vo2max_level_normal">Fair</string>
     <string name="health_vo2max_level_perfect">Outstanding</string>
     <string name="health_vo2max_level_poor">Poor</string>
@@ -2525,9 +2525,9 @@ Wait until the circle turns red."</string>
     <string name="heartrate_fp_detect_start_desc">Tartsa az ujját a leolvasón</string>
     <string name="heartrate_fp_detecting">"Ne mozdítsa el az ujját"</string>
     <string name="heartrate_fp_not_put_well">"Ujj elmozdítva.
-Start over."</string>
+Kezdje elölről."</string>
     <string name="heartrate_fp_report_common_desc">Normal heart rate ranges from 60 to 100 beats per minute. A heart rate lower than 60 BPM is a sign of bradycardia, while a heart rate over 100 BPM is accepted as tachycardia in adults.</string>
-    <string name="heartrate_heart_rate_unit">Heart rate (BPM)</string>
+    <string name="heartrate_heart_rate_unit">Pulzus (BPM)</string>
     <string name="heartrate_in_detect">"Ne mozdítsa el az ujját"</string>
     <string name="heartrate_input_heart_rate">Record heart rate</string>
     <string name="heartrate_instructions_provider">Instructions provided by Miao Health</string>
@@ -2537,8 +2537,8 @@ Start over."</string>
     <string name="heartrate_per_time_minutes_heart_rate">" BPM"</string>
     <string name="heartrate_phone_detect_records">Phone measurement history</string>
     <string name="heartrate_pre_detect">Fully cover flash and camera with one finger</string>
-    <string name="heartrate_pre_detect_finger">Measuring…</string>
-    <string name="heartrate_re_detect_title">Start over</string>
+    <string name="heartrate_pre_detect_finger">Mérés…</string>
+    <string name="heartrate_re_detect_title">Kezdés elölről</string>
     <string name="heartrate_reference">Bibliography</string>
     <string name="heartrate_report_active_desc">Measuring your heart rate immediately after working out can help you adjust your exercising habits, as workouts of different intensity have different optimal heart rate zones. If your heart rate is too high, the activity might be detrimental to your health, leading to dizziness, chest tightness, and other risks. Low heart rate might be a sign of low effectiveness of a particular workout.</string>
     <string name="heartrate_report_active_high_desc">"Your heart rate tells us that you're engaging in physical activity of relatively high intensity. Your heart and lungs are working hard."</string>
@@ -2556,7 +2556,7 @@ Start over."</string>
     <string name="heartrate_resting_heart_rate">Resting heart rate</string>
     <string name="heartrate_resting_heart_rate_desc">"Resting heart rate is the number of times your heart beats per minute when you're at rest. Typically, a resting heart rate ranges from 55 to 80 BPM. However, it varies with age, gender, and other factors."</string>
     <string name="heartrate_see_report">View report</string>
-    <string name="heartrate_start_detect">Start</string>
+    <string name="heartrate_start_detect">Indít</string>
     <string name="heartrate_state">Állapot</string>
     <string name="heartrate_state_active">Edzés</string>
     <string name="heartrate_state_fast">Gyors</string>
@@ -2578,7 +2578,7 @@ Start over."</string>
     <string name="input_new_pwd">Enter new password</string>
     <string name="isornot_your_mi_account">Is this your Mi Account?</string>
     <string name="item_view_role_description">Tab</string>
-    <string name="just_a_second">Just a sec…</string>
+    <string name="just_a_second">Egy pillanat…</string>
     <string name="keep_alive_notification_channel">Device connection</string>
     <string name="keep_alive_notification_content_connected">Connected</string>
     <string name="keep_alive_notification_content_connecting">Connecting…</string>
@@ -2587,35 +2587,35 @@ Start over."</string>
     <string name="languages_de">Deutsch</string>
     <string name="languages_el">Eλληνικά</string>
     <string name="languages_en">English</string>
-    <string name="languages_es">Español</string>
+    <string name="languages_es">Spanyol</string>
     <string name="languages_fi">Suomi</string>
-    <string name="languages_fr">Français</string>
+    <string name="languages_fr">Francia</string>
     <string name="languages_he">עברית</string>
     <string name="languages_in">Indonesia</string>
-    <string name="languages_it">Italiano</string>
-    <string name="languages_nl">Nederlands</string>
+    <string name="languages_it">Olasz</string>
+    <string name="languages_nl">Holland</string>
     <string name="languages_no">Norsk bokmål</string>
     <string name="languages_pl">Polski</string>
     <string name="languages_pt">Português (Portugal)</string>
     <string name="languages_pt_br">Português (Brasil)</string>
-    <string name="languages_ro">Română</string>
+    <string name="languages_ro">Román</string>
     <string name="languages_ru">Русский</string>
     <string name="languages_sv">Svenska</string>
     <string name="languages_th">ไทย</string>
     <string name="languages_tr">Türkçe</string>
     <string name="languages_uk">Українська</string>
     <string name="languages_vi">Tiếng Việt</string>
-    <string name="loading">Just a sec…</string>
+    <string name="loading">Egy pillanat…</string>
     <string name="lock_support_description2">"Can't find Medical card on your lock screen?"</string>
     <string name="log_off_account_failure">"Couldn't delete account"</string>
     <string name="log_off_account_success">Account deleted successfully</string>
     <string name="login_account_desc">This feature requires signing in to Mi Account. Sign in now?</string>
     <string name="login_by_local_phone_long_text">Sign in now</string>
-    <string name="login_by_local_phone_short_text">Sign in</string>
+    <string name="login_by_local_phone_short_text">Bejelentkezés</string>
     <string name="login_camera_title">Take photos and record videos</string>
     <string name="login_camera_title_des">For obtaining blood flow changes for heart rate detection</string>
     <string name="login_cn_region">Mainland China</string>
-    <string name="login_common_agree_and_continue">Agree</string>
+    <string name="login_common_agree_and_continue">Elfogadás</string>
     <string name="login_common_all">All</string>
     <string name="login_common_exit">Exit</string>
     <string name="login_common_hint">Note</string>
@@ -2623,18 +2623,18 @@ Start over."</string>
     <string name="login_common_hint_unkonwn_error">A system error occurred. Try again later.</string>
     <string name="login_common_not_selected">"You haven't selected any items yet"</string>
     <string name="login_common_open">OK</string>
-    <string name="login_common_region">Region</string>
+    <string name="login_common_region">Régió</string>
     <string name="login_common_skip">Skip</string>
     <string name="login_common_step_next">Next</string>
     <string name="login_concise_desc_sub">You can remove or add the character in Profile > Settings.</string>
     <string name="login_concise_mode">Simple</string>
     <string name="login_concise_title">Profile character</string>
-    <string name="login_enter_app">Start</string>
-    <string name="login_immediate_experience">Start</string>
+    <string name="login_enter_app">Indít</string>
+    <string name="login_immediate_experience">Indít</string>
     <string name="login_kr_region">South Korea</string>
     <string name="login_location_title">Access location</string>
     <string name="login_location_title_des">For tracking your workout distance and routes</string>
-    <string name="login_login">Sign in</string>
+    <string name="login_login">Bejelentkezés</string>
     <string name="login_next_step">Next</string>
     <string name="login_open_sport_health_cloud_sync">Turn on sync?</string>
     <string name="login_open_sport_health_cloud_sync_des">Sync your workout and fitness data on all your devices.</string>
@@ -2646,8 +2646,8 @@ Start over."</string>
     <string name="login_privacy_agree_protocol_and_policy">&lt;Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>.&lt;/Data></string>
     <string name="login_privacy_agree_tips">You can always adjust your permissions preferences in the Settings.</string>
     <string name="login_privacy_agree_to_terms_kr">Terms and conditions</string>
-    <string name="login_privacy_common_agree">Agree</string>
-    <string name="login_privacy_common_cancel">Cancel</string>
+    <string name="login_privacy_common_agree">Elfogadás</string>
+    <string name="login_privacy_common_cancel">Mégse</string>
     <string name="login_privacy_necessary_authority">"To provide you with additional services while you're using the app, we might need the following permissions:"</string>
     <string name="login_privacy_optional_agree_use_location">&lt;Data>I agree to &lt;a href=\"%1$s\">Collection of Location Information&lt;/a> (optional).&lt;/Data></string>
     <string name="login_privacy_required_agree_collect_info">&lt;Data>I agree to &lt;a href=\"%1$s\">Collection and Use of Personal Information&lt;/a> (mandatory).&lt;/Data></string>
@@ -2661,9 +2661,9 @@ Start over."</string>
     <string name="login_record_title_des">For recording snoring and talking while analyzing sleep cycle</string>
     <string name="login_region_auto_getting">Locating…</string>
     <string name="login_region_change_des">If you change your region, this app might stop working properly and some of your devices might disconnect from your phone.</string>
-    <string name="login_region_change_ok">Continue</string>
+    <string name="login_region_change_ok">Folytatás</string>
     <string name="login_region_change_service_title">Attention</string>
-    <string name="login_region_country_select">Region</string>
+    <string name="login_region_country_select">Régió</string>
     <string name="login_region_recommend_lable">(Recommended)</string>
     <string name="login_region_select_des">Choose your location carefully. Features and sync services are customized to your current region.</string>
     <string name="login_region_server_switch_des">"You won't be able to view health metrics on your paired devices or manage device settings using this app. Continue anyway?"</string>
@@ -2673,10 +2673,10 @@ Start over."</string>
     <string name="login_userinfo_desc">To make workout data more accurate, complete profile info.</string>
     <string name="login_welcome">Time to tone up</string>
     <string name="login_welcome_desc_second_text">New design</string>
-    <string name="login_welcome_desc_text">Mi Fitness</string>
+    <string name="login_welcome_desc_text">Mi Fitnesz</string>
     <string name="login_with_sns">Other ways to sign in</string>
     <string name="logout_account">Sign out</string>
-    <string name="main_cancel">Cancel</string>
+    <string name="main_cancel">Mégse</string>
     <string name="main_common_open">OK</string>
     <string name="main_go_now">Open</string>
     <string name="main_goto_common_app">Connect your device</string>
@@ -2697,7 +2697,7 @@ Start over."</string>
     <string name="mapbox_attributionTelemetryMessage">You are helping to make OpenStreetMap and Mapbox maps better by contributing anonymous usage data.</string>
     <string name="mapbox_attributionTelemetryNegative">Disagree</string>
     <string name="mapbox_attributionTelemetryNeutral">More info</string>
-    <string name="mapbox_attributionTelemetryPositive">Agree</string>
+    <string name="mapbox_attributionTelemetryPositive">Elfogadás</string>
     <string name="mapbox_attributionTelemetryTitle">Make Mapbox Maps Better</string>
     <string name="mapbox_attributionsDialogTitle">Mapbox Maps SDK for Android</string>
     <string name="mapbox_attributionsIconContentDescription">Attribution icon. Activate to show attribution dialog.</string>
@@ -2727,7 +2727,7 @@ Start over."</string>
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Select time</string>
     <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
-    <string name="medal_access_common_cancel">Cancel</string>
+    <string name="medal_access_common_cancel">Mégse</string>
     <string name="medal_close_show_more">Hide</string>
     <string name="medal_data_type_medal">Recent</string>
     <string name="medal_go_challenge">Get</string>
@@ -2756,7 +2756,7 @@ Earn this award"</string>
     <string name="mine_activity">Challenges</string>
     <string name="mine_agree">OK</string>
     <string name="mine_bugreport">Feedback</string>
-    <string name="mine_cancle">Cancel</string>
+    <string name="mine_cancle">Mégse</string>
     <string name="mine_common_open">OK</string>
     <string name="mine_data_type_medal">My awards</string>
     <string name="mine_device_authorization">Device permissions</string>
@@ -2765,12 +2765,12 @@ Earn this award"</string>
     <string name="mine_medal">My awards</string>
     <string name="mine_medal_entrance_got">"Award for
 %1$s"</string>
-    <string name="mine_medal_user_id">Mi Account:</string>
+    <string name="mine_medal_user_id">Mi fiók:</string>
     <string name="mine_misport_data_importing">Transferring…</string>
     <string name="mine_misport_import_faile">"Couldn't transfer. Try again."</string>
     <string name="mine_misport_last_import_time">Transferred: %1$s</string>
     <string name="mine_my_course_list_title">Courses</string>
-    <string name="mine_no_agree">Cancel</string>
+    <string name="mine_no_agree">Mégse</string>
     <string name="mine_no_medal_default_desc">Complete your profile and get an award</string>
     <string name="mine_not_login">Not signed in</string>
     <string name="mine_open_sport_health_cloud_sync">Turn on sync?</string>
@@ -2806,13 +2806,13 @@ Earn this award"</string>
     <string name="miuix_appcompat_action_mode_select_all">Select all</string>
     <string name="miuix_appcompat_action_mode_title_empty">Select items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
-    <string name="miuix_appcompat_cancel_description">Cancel</string>
+    <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Confirm</string>
     <string name="miuix_appcompat_delete_description">Delete</string>
     <string name="miuix_appcompat_deselect_all">Deselect</string>
     <string name="miuix_appcompat_deselect_all_description">Deselect all</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">Cancel</string>
-    <string name="miuix_appcompat_search_input_description">Search</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
+    <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
@@ -2822,9 +2822,9 @@ Earn this award"</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Egy pillanat…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
-    <string name="monday">Monday</string>
+    <string name="monday">Hétfő</string>
     <string name="monday_short">Mon</string>
     <string name="monday_shortest">Mon</string>
     <string name="month"/>
@@ -2890,7 +2890,7 @@ Earn this award"</string>
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Select Range</string>
     <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
-    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_save">Mentés</string>
     <string name="mtrl_picker_text_input_date_hint">Date</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
@@ -2904,7 +2904,7 @@ Earn this award"</string>
     <string name="network_error_info">A network error occurred. Check your network settings and try again.</string>
     <string name="network_timeout_info">"Couldn't connect to the network. Try again."</string>
     <string name="nfc_activate_interrupt_dialog">You can always continue in the app.</string>
-    <string name="nfc_active_bank_card_title_continue">Continue</string>
+    <string name="nfc_active_bank_card_title_continue">Folytatás</string>
     <string name="nfc_active_bank_code_success">Card added</string>
     <string name="nfc_active_card_result_tips">"Tips:
 1. To pay with your device, go to Cards, swipe to choose a card, and hold near the card reader. It takes 1 min to load a card.
@@ -2998,7 +2998,7 @@ Earn this award"</string>
     <string name="nfc_card_detail_recharge_now">Top up</string>
     <string name="nfc_card_detail_recharge_record_empty">No items here.</string>
     <string name="nfc_card_detail_refresh_now">Refresh</string>
-    <string name="nfc_card_holder_name">Name</string>
+    <string name="nfc_card_holder_name">Név</string>
     <string name="nfc_card_holder_name_desc">Enter name</string>
     <string name="nfc_card_info_is_null">"Couldn't read card information. Try again later."</string>
     <string name="nfc_card_info_verify_fail">Check the card details</string>
@@ -3007,8 +3007,8 @@ Earn this award"</string>
     <string name="nfc_card_issue_complete_back_to_others">Back</string>
     <string name="nfc_card_issue_dialog_content_device_bluetooth_closed">"Can't connect to the device. Turn on Bluetooth and try again."</string>
     <string name="nfc_card_issue_dialog_milock_no_mihome_app_msg">Download Mi Home and complete key card setup in the app</string>
-    <string name="nfc_card_issue_dialog_milock_support_msg">None</string>
-    <string name="nfc_card_issue_dialog_milock_support_ok">Continue</string>
+    <string name="nfc_card_issue_dialog_milock_support_msg">Nincs</string>
+    <string name="nfc_card_issue_dialog_milock_support_ok">Folytatás</string>
     <string name="nfc_card_issue_dialog_milock_support_title">Supported</string>
     <string name="nfc_card_issue_fail">"Couldn't add"</string>
     <string name="nfc_card_issue_hint_connect">Keep the wearable device close to your phone</string>
@@ -3021,8 +3021,8 @@ Earn this award"</string>
     <string name="nfc_card_issuing_global">Just a sec</string>
     <string name="nfc_card_list_cloud_trans_group_name">My cards</string>
     <string name="nfc_card_list_has_issue_order">"Couldn't add"</string>
-    <string name="nfc_card_list_has_transferin_order">Continue</string>
-    <string name="nfc_card_list_has_transferout_order">Continue</string>
+    <string name="nfc_card_list_has_transferin_order">Folytatás</string>
+    <string name="nfc_card_list_has_transferout_order">Folytatás</string>
     <string name="nfc_card_list_install_now">Add</string>
     <string name="nfc_card_list_installed">Added</string>
     <string name="nfc_card_list_notice_dialog_title">Attention</string>
@@ -3060,8 +3060,8 @@ Earn this award"</string>
     <string name="nfc_cnv2_help_info">The CVN2 is the last 3 digits on the back of the card</string>
     <string name="nfc_common_agree">OK</string>
     <string name="nfc_common_back">Back</string>
-    <string name="nfc_common_cancle">Cancel</string>
-    <string name="nfc_common_complete">Done</string>
+    <string name="nfc_common_cancle">Mégse</string>
+    <string name="nfc_common_complete">Kész</string>
     <string name="nfc_common_confirm">OK</string>
     <string name="nfc_common_copid">Copied successfully</string>
     <string name="nfc_common_hint">Attention</string>
@@ -3072,32 +3072,32 @@ Earn this award"</string>
     <string name="nfc_common_known">Got it</string>
     <string name="nfc_common_more_setting">More</string>
     <string name="nfc_common_not_support_version">"Current version isn't supported"</string>
-    <string name="nfc_common_notification">Notifications</string>
-    <string name="nfc_common_null">None</string>
+    <string name="nfc_common_notification">Értesítések</string>
+    <string name="nfc_common_null">Nincs</string>
     <string name="nfc_common_ok">OK</string>
     <string name="nfc_common_page_not_find">Page not found</string>
-    <string name="nfc_common_retry">Try again</string>
+    <string name="nfc_common_retry">Próbálja újra</string>
     <string name="nfc_common_step_next">Next</string>
-    <string name="nfc_common_success">Done</string>
+    <string name="nfc_common_success">Kész</string>
     <string name="nfc_common_time_out">Session timed out. Try again.</string>
     <string name="nfc_common_tsm_card_service_cost">Service fee</string>
     <string name="nfc_common_unit_rmb">CNY</string>
-    <string name="nfc_common_waiting">Just a sec…</string>
+    <string name="nfc_common_waiting">Egy pillanat…</string>
     <string name="nfc_consume_amount">-%1$.2f</string>
     <string name="nfc_contact_us_url">&lt;Data>&lt;a href=\"%1$s\">Contact us&lt;/a>&lt;/Data></string>
     <string name="nfc_cvc2">CVC2</string>
     <string name="nfc_cvc2_help_info">The CVC2 is the last 3 digits on the back of the card</string>
     <string name="nfc_cvc2_protocl">"&lt;Data>I've read and agreed to the &lt;a href=\"%1$s\">terms and conditions&lt;/a>.&lt;/Data>"</string>
-    <string name="nfc_data_empty">No data</string>
+    <string name="nfc_data_empty">Nincs adat</string>
     <string name="nfc_default_card">Default</string>
     <string name="nfc_default_card_set_failure">"Couldn't set"</string>
-    <string name="nfc_default_card_set_ing">Just a sec…</string>
+    <string name="nfc_default_card_set_ing">Egy pillanat…</string>
     <string name="nfc_default_card_set_success">Set successfully</string>
     <string name="nfc_delete_card_confim_hint">Delete card?</string>
     <string name="nfc_delete_card_confim_hint_bank">"You can't use this card for payment anymore. Continue anyway?"</string>
     <string name="nfc_delete_card_msg">It takes about 2 mins.</string>
     <string name="nfc_deleting">Removing…</string>
-    <string name="nfc_device_card_and_pay">Cards</string>
+    <string name="nfc_device_card_and_pay">Kártyák</string>
     <string name="nfc_device_card_number_mul">Device account number</string>
     <string name="nfc_device_status_connected">Connected</string>
     <string name="nfc_door_card">Key cards</string>
@@ -3111,15 +3111,11 @@ Earn this award"</string>
     <string name="nfc_entrance_card_emulation">Key cards</string>
     <string name="nfc_entrance_card_install_success">Added successfully</string>
     <string name="nfc_entrance_card_name_company">Company</string>
-    <string name="nfc_entrance_card_name_company_tsm">公司</string>
     <string name="nfc_entrance_card_name_gate">Community</string>
-    <string name="nfc_entrance_card_name_gate_tsm">小区</string>
     <string name="nfc_entrance_card_name_home">Home</string>
-    <string name="nfc_entrance_card_name_home_tsm">家</string>
     <string name="nfc_entrance_card_name_invalid">Enter label</string>
     <string name="nfc_entrance_card_name_kingsoft">Kingsoft employee badge</string>
     <string name="nfc_entrance_card_name_unit">Unit</string>
-    <string name="nfc_entrance_card_name_unit_tsm">单元</string>
     <string name="nfc_entrance_card_name_xiaomi">Xiaomi employee badge</string>
     <string name="nfc_entrance_card_read_desc">Keep still</string>
     <string name="nfc_entrance_card_read_success">Start adding your card</string>
@@ -3139,7 +3135,7 @@ Earn this award"</string>
     <string name="nfc_lin_nan_card_location_dialog_msg">Allow access to location first</string>
     <string name="nfc_loading_cards">Loading…</string>
     <string name="nfc_locale_not_support">Mastercard is not accepted in your region</string>
-    <string name="nfc_manager_card">Cards</string>
+    <string name="nfc_manager_card">Kártyák</string>
     <string name="nfc_master_card_2000_expired_session">Session expired. Remove your card and add it again.</string>
     <string name="nfc_master_card_2000_incorrect_code_retries_exceeded">Too many unsuccessful attempts. Contact the card issuer to add your card. Alternatively, remove your card and add it again.</string>
     <string name="nfc_master_card_2000_incorrect_tav">Your request is declined by the bank. Contact the card issuer or try again later.</string>
@@ -3158,7 +3154,7 @@ Earn this award"</string>
     <string name="nfc_master_error_9006">9006 Bad request. Contact our customer support.</string>
     <string name="nfc_master_error_other">%1$s An error occurred. Contact our customer support.</string>
     <string name="nfc_master_support_tips">During the process, wear your device.</string>
-    <string name="nfc_master_translations_empty">No data</string>
+    <string name="nfc_master_translations_empty">Nincs adat</string>
     <string name="nfc_mastercard_add_number_dialog_msg">It takes about 2 mins.</string>
     <string name="nfc_mi_pay_not_support">This feature is only supported on phones with Android 6.0 or later</string>
     <string name="nfc_mi_pay_proto_new">"&lt;Data>I've read and agreed to &lt;a href=\"%1$s\">%2$s Privacy Policy&lt;/a>.&lt;/Data>"</string>
@@ -3227,7 +3223,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="nfc_phone_num_captcha_btn_title">Send</string>
     <string name="nfc_phone_num_captcha_desc">SMS verification</string>
     <string name="nfc_phone_num_captcha_input_hint">Enter code</string>
-    <string name="nfc_phone_num_captcha_waitting">Just a sec…</string>
+    <string name="nfc_phone_num_captcha_waitting">Egy pillanat…</string>
     <string name="nfc_phone_num_input_error">Check the phone number</string>
     <string name="nfc_phone_num_input_hint">Phone number</string>
     <string name="nfc_phone_num_verify_desc">Adding Guangzhou transport card requires SMS verification</string>
@@ -3277,11 +3273,11 @@ Get one on Mi Wallet official account in WeChat"</string>
 3. If your refund does not arrive, check your Alipay account.
 4. Make sure the info you entered is correct. Such info is provided to your card issuer for refund to your account."</string>
     <string name="nfc_retrun_card_user_info_attention_title">Important</string>
-    <string name="nfc_retrun_card_user_info_btn_title">Continue</string>
+    <string name="nfc_retrun_card_user_info_btn_title">Folytatás</string>
     <string name="nfc_retrun_card_user_info_confirm_dialog_content">Make sure the account info is correct.</string>
     <string name="nfc_retrun_card_user_info_confirm_dialog_title">Check the details</string>
     <string name="nfc_retrun_card_user_info_hint">Enter name</string>
-    <string name="nfc_retrun_card_user_info_name">Name</string>
+    <string name="nfc_retrun_card_user_info_name">Név</string>
     <string name="nfc_retrun_card_user_info_phone_num">Phone number</string>
     <string name="nfc_retrun_card_user_info_phone_num_hint">Enter phone number</string>
     <string name="nfc_safe_keyboard_title">Your system is secure</string>
@@ -3291,7 +3287,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="nfc_set_default_card">Set as default</string>
     <string name="nfc_set_default_card_already">Set</string>
     <string name="nfc_set_default_card_global">Set as default</string>
-    <string name="nfc_setting_done">Done</string>
+    <string name="nfc_setting_done">Kész</string>
     <string name="nfc_settings_mastercard_pwd_upgrade_desc">"Secure your PIN.
 This step is required to pay with your device."</string>
     <string name="nfc_settings_mastercard_pwd_upgrade_failed">"Something's wrong"</string>
@@ -3304,11 +3300,11 @@ This step is required to pay with your device."</string>
     <string name="nfc_settings_update_card_failed">"Couldn't update"</string>
     <string name="nfc_settings_update_card_succeed">Updated successfully</string>
     <string name="nfc_show_unset_wear_pwd">To secure payment, set a PIN for your device.</string>
-    <string name="nfc_syncese_btn_txt_global">Start</string>
+    <string name="nfc_syncese_btn_txt_global">Indít</string>
     <string name="nfc_syncese_content">"If you can't add a card to your account, we can attempt to fix this issue."</string>
     <string name="nfc_syncese_content_mastercard_url">"If you're having trouble with your card, we can attempt to fix the issue. If the problem persists, contact our &lt;a href=\"%1$s\">customer support&lt;/a>."</string>
     <string name="nfc_syncese_dialog_content">"It takes about 1 minute. Keep your phone connected to the network and don't leave this page."</string>
-    <string name="nfc_syncese_loading_content_global">Just a sec…</string>
+    <string name="nfc_syncese_loading_content_global">Egy pillanat…</string>
     <string name="nfc_syncese_sync_success">Fixed successfully</string>
     <string name="nfc_syncese_title_global">Help</string>
     <string name="nfc_text_separator">|</string>
@@ -3355,14 +3351,14 @@ This step is required to pay with your device."</string>
     <string name="nick_name">Nickname</string>
     <string name="night">Evening</string>
     <string name="no_account">Not signed in</string>
-    <string name="no_data">No data</string>
-    <string name="no_data2">No data</string>
+    <string name="no_data">Nincs adat</string>
+    <string name="no_data2">Nincs adat</string>
     <string name="no_network">Check your network settings and try again</string>
     <string name="no_phone">No phone number</string>
     <string name="no_remind">"Don't show again"</string>
     <string name="noon">Midday</string>
     <string name="not_set">Not set</string>
-    <string name="notify_app_full_name">Mi Fitness</string>
+    <string name="notify_app_full_name">Mi Fitnesz</string>
     <string name="notify_app_remind_manager">App notifications</string>
     <string name="notify_call_log_permission">Set app permissions to view call number</string>
     <string name="notify_call_notify_delay_notice">Delay alerts</string>
@@ -3399,15 +3395,15 @@ This step is required to pay with your device."</string>
     <string name="notify_guide_permission_remind_title">Recommended features</string>
     <string name="notify_incoming_call">Call</string>
     <string name="notify_message_remind_cancel">Back</string>
-    <string name="notify_message_remind_continue_to_open">Settings</string>
-    <string name="notify_message_remind_finish">Done</string>
+    <string name="notify_message_remind_continue_to_open">Beállítások</string>
+    <string name="notify_message_remind_finish">Kész</string>
     <string name="notify_message_remind_has_open">On</string>
     <string name="notify_message_remind_ignore">Dismiss</string>
     <string name="notify_message_remind_no_open">Off</string>
     <string name="notify_message_remind_not_allow">Not allowed</string>
     <string name="notify_message_remind_subtitle">Turn on to forward notifications from your phone to your wearable device</string>
     <string name="notify_message_remind_title">App notifications</string>
-    <string name="notify_message_remind_to_open">Settings</string>
+    <string name="notify_message_remind_to_open">Beállítások</string>
     <string name="notify_notice_permission_alert">To get notifications on your wearable device, turn on Notification access for the app.</string>
     <string name="notify_notification_close_alert">"You won't be able to view notifications on your wearable device. Turn off anyway?"</string>
     <string name="notify_notification_item_open_alert">Notifications that appear on your phone are forwarded to your wearable device</string>
@@ -3431,7 +3427,7 @@ This step is required to pay with your device."</string>
     <string name="notify_sms_reply_highest_limit_tips">You can add up to 10 responses</string>
     <string name="notify_sms_reply_lowest_limit_tips">Keep at least 1 response</string>
     <string name="ok">OK</string>
-    <string name="open_settings">Settings</string>
+    <string name="open_settings">Beállítások</string>
     <string name="otp_info_reverify">Your card has been verified</string>
     <string name="passport_access_denied">Access denied</string>
     <string name="passport_account_label">Mi fiók</string>
@@ -3444,7 +3440,7 @@ This step is required to pay with your device."</string>
     <string name="passport_can_not_receive_verification_code">"Can't receive verification code?"</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Checking password…</string>
-    <string name="passport_close">Close</string>
+    <string name="passport_close">Bezár</string>
     <string name="passport_delete_account">Sign out</string>
     <string name="passport_email">Email address</string>
     <string name="passport_empty_password">"Password can't be empty"</string>
@@ -3468,7 +3464,7 @@ This step is required to pay with your device."</string>
     <string name="passport_error_user_name">The username you entered is invalid</string>
     <string name="passport_forget_password"><u>Forgot password</u></string>
     <string name="passport_get_verify_code">Get code</string>
-    <string name="passport_getting_verify_code">Just a sec…</string>
+    <string name="passport_getting_verify_code">Egy pillanat…</string>
     <string name="passport_identification_expired">Verification code expired. Start over.</string>
     <string name="passport_input_captcha_hint">Enter code</string>
     <string name="passport_input_password_hint">Enter password</string>
@@ -3497,7 +3493,7 @@ This step is required to pay with your device."</string>
     <string name="passport_sending_vcode">Sending code…</string>
     <string name="passport_set_password">Set password</string>
     <string name="passport_set_password_no_phone_msg">Add your phone number to protect your account.</string>
-    <string name="passport_sign_in">Sign in</string>
+    <string name="passport_sign_in">Bejelentkezés</string>
     <string name="passport_sign_in_or_sign_up">Sign in/Create account</string>
     <string name="passport_sms_phone_intro">Sent code to %1$s</string>
     <string name="passport_talkback_image_captcha">Image verification code</string>
@@ -3555,7 +3551,7 @@ This step is required to pay with your device."</string>
     <string name="picker_year">Selected year: %1$d. Swipe vertically to select.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
-    <string name="privacy_agree">Allow</string>
+    <string name="privacy_agree">Engedélyez</string>
     <string name="privacy_log_off_account">Delete Mi Fitness service</string>
     <string name="privacy_no_agree">Deny</string>
     <string name="privacy_permission_answer_phone_calls">Phone</string>
@@ -3605,9 +3601,9 @@ This step is required to pay with your device."</string>
     <string name="register_by_local_phone_long_text">Create account</string>
     <string name="register_by_local_phone_short_text">Create account</string>
     <string name="reject">Deny</string>
-    <string name="request_agree">Allow</string>
+    <string name="request_agree">Engedélyez</string>
     <string name="request_camera_permission_message">"We shall protect your personal information in accordance with the relevant laws and regulations. This app needs the following permissions to work normally:&lt;br>&lt;br>&lt;b>Using camera (for setting your profile photo)&lt;/b>&lt;br>&lt;br>If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
-    <string name="request_cancel">Cancel</string>
+    <string name="request_cancel">Mégse</string>
     <string name="request_error_invalid_token">"Couldn't verify"</string>
     <string name="request_error_network">A network error occurred. Check your network settings and try again.</string>
     <string name="request_error_unknown">A system error occurred. Go back and try again.</string>
@@ -3624,7 +3620,7 @@ This step is required to pay with your device."</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
     <string name="scan_qrcode">Scanner</string>
-    <string name="search_menu_title">Search</string>
+    <string name="search_menu_title">Keresés</string>
     <string name="send">Send</string>
     <string name="send_diagnosis_log">Send logs</string>
     <string name="send_email_activate_message">Sent verification email successfully</string>
@@ -3641,7 +3637,7 @@ This step is required to pay with your device."</string>
     <string name="settingitem_common_comma">,</string>
     <string name="settingitem_common_custom">Custom</string>
     <string name="settingitem_common_unopen">Off</string>
-    <string name="share_download">Save</string>
+    <string name="share_download">Mentés</string>
     <string name="share_errcode_cancel">Canceled</string>
     <string name="share_errcode_deny">"Couldn't share"</string>
     <string name="share_errcode_success">Shared successfully</string>
@@ -3705,7 +3701,7 @@ This step is required to pay with your device."</string>
     <string name="sport_advise1">Exercise outdoors in the fresh air</string>
     <string name="sport_advise2">Try indoor exercise</string>
     <string name="sport_advise3">Limit outdoor activities</string>
-    <string name="sport_agree">Allow</string>
+    <string name="sport_agree">Engedélyez</string>
     <string name="sport_analyze">Try again later</string>
     <string name="sport_app_not_install">Set up automation</string>
     <string name="sport_apparatus">Gym workouts</string>
@@ -3727,14 +3723,14 @@ This step is required to pay with your device."</string>
     <string name="sport_common_confirm">OK</string>
     <string name="sport_common_download_succeed">Downloaded successfully</string>
     <string name="sport_common_error">A system error occurred. Try again later.</string>
-    <string name="sport_common_goto_set">Settings</string>
+    <string name="sport_common_goto_set">Beállítások</string>
     <string name="sport_common_law_info">Terms and conditions</string>
-    <string name="sport_common_loading">Just a sec…</string>
+    <string name="sport_common_loading">Egy pillanat…</string>
     <string name="sport_common_personal_settings">Personalization</string>
     <string name="sport_common_set_title">General</string>
-    <string name="sport_common_setting">Settings</string>
+    <string name="sport_common_setting">Beállítások</string>
     <string name="sport_complete_operation">Complete in 20s</string>
-    <string name="sport_config">Settings</string>
+    <string name="sport_config">Beállítások</string>
     <string name="sport_confirm_on_device">Confirm on your device</string>
     <string name="sport_confirm_on_device_detail">Put your phone on the holder and press the button in 20 secs.</string>
     <string name="sport_confirm_time_out">Session expired. Try again.</string>
@@ -3771,8 +3767,8 @@ This step is required to pay with your device."</string>
     <string name="sport_get_fitness_authorization">To be able to view your step count, allow this app to access your activity info.</string>
     <string name="sport_get_location_authorization">To be able to track your workouts, allow this app to access your location.</string>
     <string name="sport_go">GO</string>
-    <string name="sport_go_experience">Start</string>
-    <string name="sport_go_install">Start</string>
+    <string name="sport_go_experience">Indít</string>
+    <string name="sport_go_install">Indít</string>
     <string name="sport_go_install_desc">Download Mi Home to connect to your treadmill.</string>
     <string name="sport_go_sport">GO</string>
     <string name="sport_goal">Goal</string>
@@ -3812,7 +3808,7 @@ This step is required to pay with your device."</string>
     <string name="sport_local_sport_setting_max_speed_des">"Your treadmill won't go faster when it's disconnected to your phone"</string>
     <string name="sport_local_sport_setting_ownerless_record">Sync activities</string>
     <string name="sport_local_sport_setting_screen_on_des">Keep your phone always on</string>
-    <string name="sport_local_sport_setting_speed_nolimit">None</string>
+    <string name="sport_local_sport_setting_speed_nolimit">Nincs</string>
     <string name="sport_local_sport_setting_voice_speech_des">Voice-over your distance every kilometer</string>
     <string name="sport_location_fail_info">Allow this app to access your location to be able to use this service.</string>
     <string name="sport_location_permission">Permissions required</string>
@@ -3846,7 +3842,7 @@ This step is required to pay with your device."</string>
     <string name="sport_position_fun">Location is off</string>
     <string name="sport_press_gym_button">Press the button</string>
     <string name="sport_privacy_agreement">Privacy Policy</string>
-    <string name="sport_privacy_risk_dialog_negative_text">Cancel</string>
+    <string name="sport_privacy_risk_dialog_negative_text">Mégse</string>
     <string name="sport_rate_dist_aerobic_new">Aerobic</string>
     <string name="sport_rate_dist_anaerobic_new">Anaerobic</string>
     <string name="sport_rate_dist_extreme">VO₂ max</string>
@@ -3862,7 +3858,7 @@ This step is required to pay with your device."</string>
     <string name="sport_reject">Deny</string>
     <string name="sport_revoke_authorization_dialog_content">"If you continue, you'll withdraw your consent to our Privacy Policy. The account currently signed in on your paired device will be removed. To delete your data stored in Mi Fitness, delete your Mi Fitness service. To delete data on your paired device, refer to Withdrawal of consent in our Privacy Policy. If you're using a wearable device, a factory reset erases all your data on it. If you change your mind, you won't be able to recover your data. You'll need to agree to our Privacy Policy again and pair your device if you decide you use it."</string>
     <string name="sport_revoke_authorization_dialog_title">Attention</string>
-    <string name="sport_revoke_authorization_ensure_revoke">Continue</string>
+    <string name="sport_revoke_authorization_ensure_revoke">Folytatás</string>
     <string name="sport_run_distance">Distance</string>
     <string name="sport_run_indoor">Treadmill</string>
     <string name="sport_run_outdoor">Outdoor running</string>
@@ -3882,7 +3878,7 @@ This step is required to pay with your device."</string>
     <string name="sport_speed_remind_detail">Speed</string>
     <string name="sport_speed_remind_detail_alert">Speed alert</string>
     <string name="sport_speed_reminder_info">"Notify when you're below the set speed"</string>
-    <string name="sport_start_adjust">Start</string>
+    <string name="sport_start_adjust">Indít</string>
     <string name="sport_start_connect">Connect</string>
     <string name="sport_step">Steps</string>
     <string name="sport_step_rate">SPM</string>
@@ -3894,7 +3890,7 @@ This step is required to pay with your device."</string>
     <string name="sport_target_distance">Goal: %s km</string>
     <string name="sport_target_run">Targeted runs</string>
     <string name="sport_time_duration">Time</string>
-    <string name="sport_today">Today</string>
+    <string name="sport_today">Ma</string>
     <string name="sport_treadmill_sourse">Mi Treadmill</string>
     <string name="sport_turn_on_permission_of_running_background">Background permissions</string>
     <string name="sport_unknow_error">Unknown error</string>
@@ -3906,12 +3902,12 @@ This step is required to pay with your device."</string>
     <string name="sport_voice_broadcast">Audio feedback</string>
     <string name="sport_waist_bag">Fanny pack</string>
     <string name="sport_walk_distance">Distance</string>
-    <string name="sport_walking_outdoor">Walking</string>
+    <string name="sport_walking_outdoor">Gyaloglás</string>
     <string name="sport_wear_device_sport_record">Your wearable device is tracking your workout</string>
     <string name="sport_whole_kilo">Distance alert</string>
     <string name="stand">Standing</string>
     <string name="stand_finish_stand">Yes</string>
-    <string name="stand_notice">Settings</string>
+    <string name="stand_notice">Beállítások</string>
     <string name="stand_notice_not_show_today">"Don't show today"</string>
     <string name="stand_notice_subtitle1">"Looks like you haven't stood up between %1$s and %2$s. If you have, add a record."</string>
     <string name="stand_notice_subtitle2">"If you've stood up, add a record. If you haven't, stand up and move a little."</string>
@@ -3990,7 +3986,7 @@ This step is required to pay with your device."</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_update_just_now">Just now</string>
     <string name="time_update_time_before">%1$s ago</string>
-    <string name="today">Today</string>
+    <string name="today">Ma</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="total_apply_num_exceed_limit">You have no room to open another card</string>
     <string name="trail_add">Add</string>
@@ -4016,7 +4012,7 @@ This step is required to pay with your device."</string>
     <string name="trail_bicycle_level3">Heavy</string>
     <string name="trail_bicycle_level4">Intense</string>
     <string name="trail_calori_best">Calories</string>
-    <string name="trail_camera">Camera</string>
+    <string name="trail_camera">Kamera</string>
     <string name="trail_choose_posture">Style</string>
     <string name="trail_complete_operation">Complete in 20s</string>
     <string name="trail_data_activity_calorie">Active kcal</string>
@@ -4042,7 +4038,7 @@ This step is required to pay with your device."</string>
     <string name="trail_data_sport_row_freq">SPM</string>
     <string name="trail_data_sport_sport_duration">Moving</string>
     <string name="trail_data_sport_sport_intensity">Intensity</string>
-    <string name="trail_data_sport_sport_start_time">Start</string>
+    <string name="trail_data_sport_sport_start_time">Indít</string>
     <string name="trail_data_sport_total_count">Jumps</string>
     <string name="trail_data_sport_total_duration">Time</string>
     <string name="trail_data_step_summary_steps">Steps</string>
@@ -4054,7 +4050,7 @@ This step is required to pay with your device."</string>
     <string name="trail_duration_best">Time</string>
     <string name="trail_fastest">Max</string>
     <string name="trail_feedback_dialog_desc">Upload the workout to help us improve our services?</string>
-    <string name="trail_feedback_dialog_nagtive_btn">Cancel</string>
+    <string name="trail_feedback_dialog_nagtive_btn">Mégse</string>
     <string name="trail_feedback_dialog_positive_btn">Upload</string>
     <string name="trail_feedback_failed">"Couldn't submit"</string>
     <string name="trail_feedback_success">Submitted successfully</string>
@@ -4067,7 +4063,7 @@ This step is required to pay with your device."</string>
     <string name="trail_height_descent">Downhill</string>
     <string name="trail_height_flat">Flat</string>
     <string name="trail_high_intensity_description">"Couldn't talk without pausing for breath"</string>
-    <string name="trail_img_gallery">Gallery</string>
+    <string name="trail_img_gallery">Galéria</string>
     <string name="trail_indoor_cycling_avg">Avg</string>
     <string name="trail_indoor_cycling_best">Max</string>
     <string name="trail_indoor_cycling_feq">Cadence (RPM)</string>
@@ -4137,7 +4133,7 @@ This step is required to pay with your device."</string>
     <string name="trail_skiing_time">Time</string>
     <string name="trail_skiing_times">Lap</string>
     <string name="trail_speed_best">Speed</string>
-    <string name="trail_sport_another_data">Other</string>
+    <string name="trail_sport_another_data">Egyéb</string>
     <string name="trail_sport_avg_back_swing_duration">Back</string>
     <string name="trail_sport_avg_down_swing_duration">Down</string>
     <string name="trail_sport_avg_resistance">Resistance</string>
@@ -4181,10 +4177,10 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_detail_swim_avg_pace">Pace</string>
     <string name="trail_sport_detail_value_with_unit">%1$s (%2$s)</string>
     <string name="trail_sport_duration_expend">Time</string>
-    <string name="trail_sport_extra_basic_info">Other</string>
+    <string name="trail_sport_extra_basic_info">Egyéb</string>
     <string name="trail_sport_fast_desc">Fast</string>
     <string name="trail_sport_feedback_dialog_desc">Upload the workout to help us improve our services?</string>
-    <string name="trail_sport_feedback_dialog_nagtive_btn">Cancel</string>
+    <string name="trail_sport_feedback_dialog_nagtive_btn">Mégse</string>
     <string name="trail_sport_feedback_dialog_positive_btn">Upload</string>
     <string name="trail_sport_feedback_edit_hint_new">Enter feedback</string>
     <string name="trail_sport_feedback_lable1">Distance</string>
@@ -4194,12 +4190,12 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_feedback_lable5">Interrupted workout on phone</string>
     <string name="trail_sport_feedback_lable6">Interrupted workout on your wearable device</string>
     <string name="trail_sport_feedback_lable7">Poor design</string>
-    <string name="trail_sport_feedback_lable8">Other</string>
+    <string name="trail_sport_feedback_lable8">Egyéb</string>
     <string name="trail_sport_feedback_lable_title_new">What went wrong?</string>
     <string name="trail_sport_feedback_level">Tap a star</string>
     <string name="trail_sport_feedback_level_common">Average</string>
-    <string name="trail_sport_feedback_level_good">Good</string>
-    <string name="trail_sport_feedback_level_nice">Excellent</string>
+    <string name="trail_sport_feedback_level_good">Jó</string>
+    <string name="trail_sport_feedback_level_nice">Kitünő</string>
     <string name="trail_sport_feedback_level_poor">Poor</string>
     <string name="trail_sport_feedback_level_verypoor">Very poor</string>
     <string name="trail_sport_feedback_phone_num">Phone number</string>
@@ -4217,7 +4213,7 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_golf_swing_time">Back</string>
     <string name="trail_sport_golf_total_score">Swings</string>
     <string name="trail_sport_group_info_rest">Rest</string>
-    <string name="trail_sport_group_info_title1">Name</string>
+    <string name="trail_sport_group_info_title1">Név</string>
     <string name="trail_sport_group_info_title2">Time</string>
     <string name="trail_sport_group_info_title3">BPM</string>
     <string name="trail_sport_group_info_title4">Active kcal</string>
@@ -4328,7 +4324,7 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_triathlon_change_duration">Transition</string>
     <string name="trail_sport_triathlon_info_first_change">T1</string>
     <string name="trail_sport_triathlon_info_second_change">T2</string>
-    <string name="trail_sport_triathlon_title1">Name</string>
+    <string name="trail_sport_triathlon_title1">Név</string>
     <string name="trail_sport_triathlon_title2">Distance</string>
     <string name="trail_sport_triathlon_title3">Time</string>
     <string name="trail_sport_type_title_name">%1$s | Mi Fitness</string>
@@ -4338,7 +4334,7 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_v02max_name">VO₂ max</string>
     <string name="trail_sport_v02max_unit">ml/kg/min</string>
     <string name="trail_sport_v02max_unit_desc">%d ml/kg/min</string>
-    <string name="trail_sport_walk">Walking</string>
+    <string name="trail_sport_walk">Gyaloglás</string>
     <string name="trail_sport_weeks_desc">Week %1$d</string>
     <string name="trail_step_length">Stride (cm)</string>
     <string name="trail_stress">Stress</string>
@@ -4378,7 +4374,7 @@ This step is required to pay with your device."</string>
     <string name="trail_time_duration">Time</string>
     <string name="trail_time_statistic">Time analysis</string>
     <string name="trail_to_now">Started %1$s</string>
-    <string name="trail_today_single">Today</string>
+    <string name="trail_today_single">Ma</string>
     <string name="trail_total_active_calorie">Calories</string>
     <string name="trail_total_distance">Distance</string>
     <string name="trail_total_time">Time</string>
@@ -4390,8 +4386,8 @@ This step is required to pay with your device."</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
     <string name="ui_back">Back</string>
-    <string name="ui_cancel">Cancel</string>
-    <string name="ui_save">Save</string>
+    <string name="ui_cancel">Mégse</string>
+    <string name="ui_save">Mentés</string>
     <string name="unknown_error_info">Unknown error</string>
     <string name="update_discover_new_version">An update is available</string>
     <string name="update_download_failed">"Couldn't download. Try again."</string>
@@ -4413,7 +4409,7 @@ This step is required to pay with your device."</string>
     <string name="user_agreement_hint_with_telecom"><Data>"I've read and agreed to the &lt;a href=%1$s>User Agreement&lt;/a>, &lt;a href=%2$s>Privacy Policy&lt;/a>, and &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
     <string name="user_agreement_hint_with_unicom"><Data>"I've read and agreed to the &lt;a href=%1$s>User Agreement&lt;/a>, &lt;a href=%2$s>Privacy Policy&lt;/a>, and &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
     <string name="user_avatar_update_title">Change profile photo</string>
-    <string name="user_avatar_uploading">Just a sec…</string>
+    <string name="user_avatar_uploading">Egy pillanat…</string>
     <string name="user_id_hint">Email/Phone/Mi Account ID</string>
     <string name="user_identity_verify_failed">The account info you entered is incorrect</string>
     <string name="user_name_phone_number">Phone number</string>
@@ -4428,12 +4424,12 @@ This step is required to pay with your device."</string>
     <string name="userinfo_blood_type">Blood type</string>
     <string name="userinfo_blood_type_select">%1$s</string>
     <string name="userinfo_camera_permission_desc">For setting profile photos</string>
-    <string name="userinfo_choose_from_album">Gallery</string>
+    <string name="userinfo_choose_from_album">Galéria</string>
     <string name="userinfo_chronic">Chronic conditions</string>
     <string name="userinfo_chronic_hint">Describe your chronic conditions (e.g. high blood pressure, asthma, etc.)</string>
     <string name="userinfo_click_to_solve">View help</string>
     <string name="userinfo_common_cm">cm</string>
-    <string name="userinfo_common_complete">Done</string>
+    <string name="userinfo_common_complete">Kész</string>
     <string name="userinfo_common_confirm">OK</string>
     <string name="userinfo_common_edit">Edit</string>
     <string name="userinfo_common_exit">Exit</string>
@@ -4444,7 +4440,7 @@ This step is required to pay with your device."</string>
     <string name="userinfo_common_inch">"'"</string>
     <string name="userinfo_common_male">Male</string>
     <string name="userinfo_common_not_set">Not set</string>
-    <string name="userinfo_common_save">Save</string>
+    <string name="userinfo_common_save">Mentés</string>
     <string name="userinfo_common_skip">Skip</string>
     <string name="userinfo_common_step_next">Next</string>
     <string name="userinfo_common_step_pre">Back</string>
@@ -4464,7 +4460,7 @@ This step is required to pay with your device."</string>
     <string name="userinfo_delete_avatar">Delete current photo</string>
     <string name="userinfo_delete_contact">Delete</string>
     <string name="userinfo_device_stock">Stocks</string>
-    <string name="userinfo_dialog_cancel">Cancel</string>
+    <string name="userinfo_dialog_cancel">Mégse</string>
     <string name="userinfo_dialog_clear">Clear</string>
     <string name="userinfo_dialog_delete_aid_file">Delete Medical card?</string>
     <string name="userinfo_dialog_exit">Exit</string>
@@ -4474,13 +4470,13 @@ This step is required to pay with your device."</string>
     <string name="userinfo_ecg_heart_rate_unit">BPM</string>
     <string name="userinfo_edit_aid_file">Edit</string>
     <string name="userinfo_edit_immediately">Get started</string>
-    <string name="userinfo_edit_or_delete_settings">Settings</string>
+    <string name="userinfo_edit_or_delete_settings">Beállítások</string>
     <string name="userinfo_emergency_contact">Emergency contact</string>
     <string name="userinfo_first_aid_card">Medical card</string>
-    <string name="userinfo_full_name_hint">Name</string>
+    <string name="userinfo_full_name_hint">Név</string>
     <string name="userinfo_gender_female">Female</string>
     <string name="userinfo_gender_male">Male</string>
-    <string name="userinfo_gender_other">Other</string>
+    <string name="userinfo_gender_other">Egyéb</string>
     <string name="userinfo_gender_unknown">Unknown</string>
     <string name="userinfo_go">OK</string>
     <string name="userinfo_goal">Default</string>
@@ -4492,7 +4488,7 @@ This step is required to pay with your device."</string>
     <string name="userinfo_lock_screen_show_not_on_guide">To make your Medical card available from the lock screen, tap More, choose Edit, and turn on Show when locked.</string>
     <string name="userinfo_lock_screen_show_solve_title">View Medical card on lock screen</string>
     <string name="userinfo_lock_show_solve_description">To be able to show Medical card on your lock screen, allow this app to be shown on the Lock screen.</string>
-    <string name="userinfo_lock_show_solve_go">Settings</string>
+    <string name="userinfo_lock_show_solve_go">Beállítások</string>
     <string name="userinfo_lock_show_solve_path">Tap Settings below, choose Show on Lock screen, and select Always allow.</string>
     <string name="userinfo_max_heart_rate">Max heart rate</string>
     <string name="userinfo_medical_file_desc1">Important medical information essential in case of emergency</string>
@@ -4515,7 +4511,7 @@ If you don't want to share your information, you can turn this feature off."</st
     <string name="userinfo_permission_check_result">Set successfully</string>
     <string name="userinfo_permission_check_result_failed">"Couldn't set"</string>
     <string name="userinfo_personal_info">My profile</string>
-    <string name="userinfo_photograph">Camera</string>
+    <string name="userinfo_photograph">Kamera</string>
     <string name="userinfo_picker_day">Selected day: %1$d. Swipe vertically to select.</string>
     <string name="userinfo_picker_month">Selected month: %1$d. Swipe vertically to select.</string>
     <string name="userinfo_picker_year">Selected year: %1$d. Swipe vertically to select.</string>
@@ -4524,8 +4520,8 @@ If you don't want to share your information, you can turn this feature off."</st
     <string name="userinfo_preference_not_set">Not set</string>
     <string name="userinfo_previous_step">Back</string>
     <string name="userinfo_relationship_with_contact">Relationship</string>
-    <string name="userinfo_remarks">Name</string>
-    <string name="userinfo_remarks_hint">Name</string>
+    <string name="userinfo_remarks">Név</string>
+    <string name="userinfo_remarks_hint">Név</string>
     <string name="userinfo_rh_blood_type">Rh factor</string>
     <string name="userinfo_set_emergency_contact">Emergency contact</string>
     <string name="userinfo_set_target_dynamic_indicators">Create goals</string>
@@ -4580,7 +4576,7 @@ If you don't want to share your information, you can turn this feature off."</st
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="v_code_title">Enter verification code</string>
-    <string name="web_continue">Continue</string>
+    <string name="web_continue">Folytatás</string>
     <string name="web_not_find_app">"Couldn't find app."</string>
     <string name="web_share_des">A message from your friend.</string>
     <string name="web_ssl_error_msg">"There's a problem with the website's security certificate, continue to this website?"</string>
@@ -4596,10 +4592,10 @@ If you don't want to share your information, you can turn this feature off."</st
     <string name="widget_line_chart_unit_desc">(mins)</string>
     <string name="widget_rainbow_label">Stats</string>
     <string name="widget_sleep_label">Sleep</string>
-    <string name="widget_sleep_no_data">No data</string>
+    <string name="widget_sleep_no_data">Nincs adat</string>
     <string name="widget_sleep_open_trace">Turn on Track sleep in Mi Fitness</string>
     <string name="widget_sleep_target">Goal: %1$s</string>
-    <string name="widget_tb_rainbow_has_no_data">No data</string>
+    <string name="widget_tb_rainbow_has_no_data">Nincs adat</string>
     <string name="widget_tb_rainbow_has_stand">%1$d of %2$d kcal burnt. %3$d of %4$d steps taken. %5$d of %6$d hours standing and moving around.</string>
     <string name="widget_tb_rainbow_has_strength">%1$d of %2$d kcal burnt. %3$d of %4$d steps taken. %5$d of %6$d moving minutes.</string>
     <string name="widget_tb_sleep_multi_segment">Session %1$d: %2$s to %3$s.</string>
@@ -4613,7 +4609,7 @@ If you don't want to share your information, you can turn this feature off."</st
     <string name="xms_third_app_developer">Developer</string>
     <string name="xms_third_app_download">Download</string>
     <string name="xms_third_app_downloading">Downloading…</string>
-    <string name="xms_third_app_empty_data">No data</string>
+    <string name="xms_third_app_empty_data">Nincs adat</string>
     <string name="xms_third_app_info">About this app</string>
     <string name="xms_third_app_install_success">Installed successfully</string>
     <string name="xms_third_app_introduce">Summary</string>
