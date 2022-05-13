@@ -314,7 +314,7 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="wifi_assistant_wifi_no_internet">Ez a Wi-Fi-hálózat nem ad internet-hozzáférést</string>
     <string name="wifi_assistant_wifi_no_internet_detail">A részletek megtekintéséhez érintse meg</string>
     <string name="wireless_charging_notification_message1">Nem találhatók feltölthető vezeték nélküli készülékek. A fordított vezeték nélküli töltés most le van tiltva.</string>
-    <string name="wireless_charging_notification_message2">Az akku 30%-osnál alacsonyabb feltöltöttségű. A fordított vezeték nélküli töltés most le van tiltva.</string>
+    <string name="wireless_charging_notification_message2">Az akku %s-osnál alacsonyabb feltöltöttségű. A fordított vezeték nélküli töltés most le van tiltva.</string>
     <string name="wireless_charging_notification_message3">Hiba történ töltés közben. A fordított vezeték nélküli töltés most le van tiltva.</string>
     <string name="wireless_charging_notification_titile">A fordított vezeték nélküli töltés kikapcsolásra került </string>
     <string name="xiaomi">Xiaomi</string>
