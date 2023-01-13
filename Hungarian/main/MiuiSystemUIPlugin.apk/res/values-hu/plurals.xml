@@ -37,8 +37,8 @@
         <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="controls_number_of_favorites">
-        <item quantity="other">%s controls added.</item>
-        <item quantity="one">%s control added.</item>
+        <item quantity="other">%s vezérlő hozzáadva.</item>
+        <item quantity="one">%s vezérlő hozzáadva.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
@@ -63,6 +63,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">%d elem kiválasztva</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>

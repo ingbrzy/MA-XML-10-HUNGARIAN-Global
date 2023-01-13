@@ -36,6 +36,10 @@
         <item quantity="other">%d perce</item>
         <item quantity="one">1 perce</item>
     </plurals>
+    <plurals name="current_page_number">
+        <item quantity="other">%d oldal megtekintése</item>
+        <item quantity="one">%d oldal megtekintése</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
@@ -67,5 +71,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
+    </plurals>
+    <plurals name="total_pages">
+        <item quantity="other">Összesen%d oldal</item>
+        <item quantity="one">Összesen %d oldal</item>
     </plurals>
 </resources>

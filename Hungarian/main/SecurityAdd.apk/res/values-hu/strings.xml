@@ -58,6 +58,7 @@
     <string name="dual_app_title">Kettős alkalmazások</string>
     <string name="dual_app_words">Minden fiók megérdemli a saját alkalmazását</string>
     <string name="early_morning">Reggel</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="evening">Délután</string>
@@ -112,7 +113,7 @@
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d.</string>
     <string name="fmt_date_short_year_month">yyyy. MMM</string>
-    <string name="fmt_date_short_year_month_day">yyyy. MMM d.</string>
+    <string name="fmt_date_short_year_month_day">yyyy. MMM. d.</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -131,11 +132,11 @@
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_minute">"m'perc'"</string>
+    <string name="fmt_time_minute_second">"m'perc' s'mp'"</string>
+    <string name="fmt_time_minute_second_millis">"m'perc' s.S'mp'"</string>
+    <string name="fmt_time_second">"s'mp'"</string>
+    <string name="fmt_time_second_millis">"s.S'mp'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -148,15 +149,18 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="free_send_net_booster">Ingyenes hálózatsebesség-gyorsítás</string>
-    <string name="free_send_net_booster_busniess">Szerezzen ingyenes Xunlei-sebességgyorsítást</string>
-    <string name="free_send_net_booster_busniess_tip">Érintse meg a fogadáshoz</string>
-    <string name="free_send_net_booster_tip">Élvezze a simábban futó játékokat az ingyenes hálózatsebesség-gyorsítással.</string>
+    <string name="free_send_net_booster">Próbálja ki a Játékgyorsítót ingyen</string>
+    <string name="free_send_net_booster_busniess">Próbálja ki a Játékgyorsítót ingyen</string>
+    <string name="free_send_net_booster_busniess_tip">Dobja fel a játékélményt és nyerjen egy játékbőrt. Ez az ajánlat csak ma érhető el!</string>
+    <string name="free_send_net_booster_tip">Dobja fel a játékélményt és nyerjen egy Xiaomi készüléket!</string>
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
     <string name="game_booster">Játékteljesítmény-növelő</string>
-    <string name="gamebooster_network_dialog_message">A Játékgyorsító összes szolgáltatásának eléréséhez engedélyezi a Biztonság alkalmazásnak a hálózati kapcsolatot?</string>
+    <string name="gamebooster_dialog_recover">Megújítás</string>
+    <string name="gamebooster_dialog_start_booster">Indít</string>
+    <string name="gamebooster_network_dialog_message">A Játékgyorsító összes szolgáltatásának elérése érdekében engedélyezi a Biztonság alkalmazásnak a hálózati kapcsolatot?</string>
+    <string name="gamebooster_network_dialog_message_pad">Engedélyezze a Biztonságnak a hálózathoz való csatlakozást a Játékgyorsító összes funkciójának használatához?</string>
     <string name="gamebooster_network_dialog_title">Néhány funkció nem elérhető</string>
     <string name="gamebox_no_network_btn">Újratöltés</string>
     <string name="gb_adv_touch_adv_title">Klasszikus mód (alapértelmezett)</string>
@@ -203,6 +207,7 @@
     <string name="gb_game_speed_closed_fail">Nem sikerült kikapcsolni a Fénysebesség üzemmódot</string>
     <string name="gb_game_speed_open">Fénysebesség üzemmód bekapcsolva</string>
     <string name="gb_game_speed_open_fail">Nem sikerült bekapcsolni a Fénysebesség üzemmódot</string>
+    <string name="gb_global_settings">Általános beállítások</string>
     <string name="gb_gpu_control_anisotropic_filtering">Anizotróp szűrés</string>
     <string name="gb_gpu_control_anti_aliasing">Élsimítás</string>
     <string name="gb_gpu_control_fps">Képkockasebesség</string>
@@ -234,8 +239,15 @@
     <string name="gb_pannel_control_mode_high_quality">Magas minőség</string>
     <string name="gb_pannel_control_mode_normal">Alapértelemezett</string>
     <string name="gb_pannel_control_mode_power_saving">Energiamegtakarítás</string>
+    <string name="gb_webwindow_schemedialog_accept">Megnyitás</string>
+    <string name="gb_webwindow_schemedialog_cancel">Mégse</string>
+    <string name="gb_webwindow_schemedialog_title">Megnyitja a Játékokat most?</string>
     <string name="gb_weixinpay_can_not_complete">A fizetés nem teljesíthető. Telepítse a folytatásához.</string>
     <string name="gdpr_msg">&lt;Data>A Biztonság főbb funkcióinak használatához el kell fogadnia, hogy a Xiaomi összegyűjti, feldolgozza és felhasználja személyes adatait, beleértve a Biztonsági funkciók használatának módját (pl. mobiladat-használati statisztikák, a rosszindulatú programokról szóló információk, valamint az Ön eszközére vonatkozó alapvető információk) és az &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Adatvédelmi irányelveiben&lt;/a> meghatározott egyéb típusú információkat.&lt;/Data></string>
+    <string name="gtb_dialog_privacy_speed_message">Ön épp a Xunyou Game Boostert készül használni. A szolgáltatás begyűjti a Mi Fiók azonosítóját a tagság idejének rögzítéséhez.</string>
+    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>Elolvastam és elfogadom a Xunyou Game Booster &lt;a href=\"%1$s\">Adatvédelmi irányelvét&lt;/a>&lt;/Data></string>
+    <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
+    <string name="hybrid_provider">Szolgáltató: %1$s</string>
     <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">Piros borítékok</string>
     <string name="main_toolbar_purchase">Feltölt</string>
@@ -244,6 +256,7 @@
     <string name="miuishare_title_share">Megosztás</string>
     <string name="miuishare_wechat_timeline_title">WeChat Pillanatok</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
@@ -309,9 +322,10 @@
     <string name="morning">Reggel</string>
     <string name="net_booster_expire_notification">A hálózatsebesség-gyorsítás időszaka hamarosan véget ér</string>
     <string name="net_booster_overdue_notification">A hálózatsebesség-gyorsítás időszaka hamarosan véget ér</string>
-    <string name="net_booster_overdue_notification_tip">A hálózatsebesség-gyorsítás időszaka hamarosan véget ér. Megújítja?</string>
+    <string name="net_booster_overdue_notification_tip">A hálózati sebességgyorsító munkamenet véget ért. Előfordulhat, hogy hálózati késések lépnek fel. Megújítja a munkamenetet most?</string>
     <string name="network_not_available">Nem lehet csatlakozni a hálózathoz</string>
     <string name="night">Este</string>
+    <string name="no_network">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="no_network_btn">Próbálja újra</string>
     <string name="noon">Dél</string>
     <string name="not_set">Nincs beállítva</string>
@@ -320,6 +334,8 @@
     <string name="pc_activity_title">Akkumulátor optimalizálása</string>
     <string name="pm">DU</string>
     <string name="pm_lable_name">A root jogosultságokról</string>
+    <string name="power_center_battery_duration_screen_on">Hátralévő képernyőidő</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s a hátralévő képernyőidőből</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="privacy_declare_dialog_title">Szolgáltatási feltételek</string>
     <string name="privacy_prompt_traffic_purchase_message">A telefonszáma és a szolgáltató adatai fel lesznek töltve a Xiaomi szerverére a vásárlások részletes adatainak lekéréséhez.</string>
@@ -337,6 +353,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
@@ -425,6 +442,9 @@
     <string name="usage_sorted_loading_text">Egy pillanat…</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
+    <string name="web_sso_login_fail">Újra bejelentkezés szükséges</string>
+    <string name="web_sso_login_message">Bejelentkezés…</string>
+    <string name="webview_reload">Próbálja újra</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
     <string name="wednesday_shortest">Sze</string>

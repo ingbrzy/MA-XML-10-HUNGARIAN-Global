@@ -27,22 +27,28 @@
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
-    <string name="actionbar_button_up_description">Vissza</string>
     <string name="afternoon">Délután</string>
-    <string name="already_newest_version">A jelenlegi verzió naprakész</string>
     <string name="am">DE</string>
-    <string name="cancel_download">Letöltés megszakítva</string>
-    <string name="clearable_edittext_clear_description">Törlés</string>
-    <string name="close">Bezárás</string>
-    <string name="copy">Másolás</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">Kínai hagyományos naptár</string>
-    <string name="date_time_picker_dialog_title">Dátum- és időbeállítás</string>
-    <string name="download_button">Letöltés gomb</string>
-    <string name="download_failed">A letöltés sikertelen</string>
     <string name="early_morning">Reggel</string>
+    <string name="earth_position_content_0">Vitathatatlanul a horvátországi Kamenjak-foki Természetvédelmi területen tapasztalhatjuk a leginkább lélegzetelállító látványt a Földközi-tengeri partvidéken. A látványos földrajzi képződményeknek köszönhetően, ez a hely a búvárok paradicsoma. A vakító napfény és a Földközi-tenger meleg vize minden nyáron számtalan természetrajongót vonz.</string>
+    <string name="earth_position_content_1">"A rizsteraszok az emberi tevékenység eredményei, azonban kivételes természeti látványnak is számítanak.
+In A kínai rizsteraszok főleg a Jangce-folyótól délre találhatók, ahol a számtalan hegyvonulaton gyakoriak az esőzések. A longshengi teraszok már hozzávetőleg több mint 700 éve léteznek, és a közeli falvakban csupán néhány történelmi műemlék lelhető fel."</string>
+    <string name="earth_position_content_2">Ilulissat Grönland nyugati részén, az Északi sarkkörtől 200 kilométerre, észak irányban helyezkedik el. A káprázatos 56 kilométeres Ilulissat jégfjord a Jakobshavn Isbræ gleccser közvetlen közelében húzódik. Az északi félteke legnagyobb gleccsereként minden évben 2 milliárd tonna jéghegy forrása. Egy rövid északi kitérő után, a jéghegyek balra fordulnak és az Atlanti-óceánba áramlanak.</string>
+    <string name="earth_position_content_3">A Navagio az egyik legszebb strand Zakynthos partján, a görögországi Jón-szigeteken. A legenda szerint egy híres hajótörés helyszíne volt, ezért a strandot \"Smugglers Cove\"-nak (Csempész öbölnek) is nevezik.</string>
+    <string name="earth_position_content_4">A Dolomitok Olaszország északkeleti részén található hegység. A Seceda-hegy káprázatos szépségű hely.</string>
+    <string name="earth_position_title_0">"Croatia
+Kamenjak fok"</string>
+    <string name="earth_position_title_1">"Guangxi, China
+Longji rizsteraszok"</string>
+    <string name="earth_position_title_2">"Grönland
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Görögország
+Navagio strand"</string>
+    <string name="earth_position_title_4">"Olaszország
+Dolomitok"</string>
     <string name="earth_summary">A Föld az emberiség bölcsője</string>
     <string name="earth_super_wallpaper_label">earth</string>
     <string name="earth_title">Otthon</string>
@@ -50,7 +56,6 @@
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="evening">Délután</string>
-    <string name="expand_button_title">Speciális</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -67,7 +72,7 @@
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">MMM d.</string>
     <string name="fmt_date_short_year_month">yyyy. MMM</string>
-    <string name="fmt_date_short_year_month_day">yyyy. MMM d.</string>
+    <string name="fmt_date_short_year_month_day">yyyy. MMM. d.</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -86,11 +91,11 @@
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_minute">"m'perc'"</string>
+    <string name="fmt_time_minute_second">"m'perc' s'mp'"</string>
+    <string name="fmt_time_minute_second_millis">"m'perc' s.S'mp'"</string>
+    <string name="fmt_time_second">"s'mp'"</string>
+    <string name="fmt_time_second_millis">"s.S'mp'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -109,47 +114,32 @@
     <string name="geometry_summary">Formák, fények és színek</string>
     <string name="geometry_super_wallpaper_label">Geometria</string>
     <string name="geometry_title">Geometria</string>
-    <string name="install_failed">Telepítés sikertelen</string>
-    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
+    <string name="mars_position_content_0">"Itt a vélekedés szerint hordalékkal borított gleccserek által kialakított sziklák, fennsíkok és széles, lapos völgyek lelhetők. Agyagos ásványokat is észleltek, amelyek jelentősek az ősi Marson az élet bizonyítékai iránt folytatott kutatásban.
 
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+NASA/JPL/Arizonai Egyetem"</string>
+    <string name="mars_position_content_1">"A Marsjáró Curiosity akkor fényképezte, amikor a Pahrump-hegységet kutatta a Gale-kráterben. A terület üledékes kőzeteket tartalmaz, amelyekről a tudósok azt feltételezik, hogy víz jelenlétében alakultak ki, és a sötét területek homokot mutatnak.
 
-NASA/JPL/University of Arizona"</string>
-    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+NASA/JPL/Arizonai Egyetem"</string>
+    <string name="mars_position_content_2">"A Marson található Mawrth Vallis egy jellemzően világos színű agyagos sziklákkal körülvett ősi kifolyási csatorna. Az agyag ásványai könnyen megőrzik a Föld mikroszkopikus életformáit, ezért a Mawrth területén talán fellelhetők az ősi élet nyomai.
 
-NASA/JPL/University of Arizona"</string>
+NASA/JPL/Arizonai Egyetem"</string>
+    <string name="mars_position_content_3">"Ezeket a képeket akkor készítették, amikor a Curiosity Mars rover felfedezte a Pahrump-hegységet a Gale-kráterben. Ez a régió üledékes kőzeteket tartalmaz, amelyek a tudósok szerint víz jelenlétében képződtek. A sötétebb területek homokot jelölnek.
+
+NASA/JPL/Arizonai Egyetem"</string>
+    <string name="mars_position_content_4">"A Bahram Vallis egyetlen vízfolyásban lévő völgy, néhány helyen csipkézett falakkal. A mederben található áramvonalas eróziós lenyomatok jelzik, hogy folyadék részt vett a kialakulásában.
+
+NASA/JPL/Arizonai Egyetem"</string>
     <string name="mars_position_title_0">"Nilosyrtis
 Mensae régió"</string>
-    <string name="mars_position_title_1">Gale Crater</string>
-    <string name="mars_position_title_2">"Crater in
-Mawrth Vallis"</string>
+    <string name="mars_position_title_1">Gale-kráter</string>
+    <string name="mars_position_title_2">"Kráter a
+Mawrth völgyben"</string>
+    <string name="mars_position_title_3">Pahrump-hegység</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
     <string name="mars_summary">A Mars végtelen sivatagjai mindig is ámulatba ejtették az emberiséget</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">A vörös bolygó</string>
     <string name="midnight">Éjjel</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
-    <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
-    <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
-    <string name="miuix_appcompat_cancel_description">Mégse</string>
-    <string name="miuix_appcompat_confirm_description">Megerősítés</string>
-    <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
-    <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
-    <string name="miuix_appcompat_search_input_description">Keresés</string>
-    <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
-    <string name="miuix_appcompat_select_all_description">Összes kijelölése</string>
-    <string name="miuix_appcompat_select_item">Elemek kiválasztása</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Húzza le a frissítéshez</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Sikeresen frissítve</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Frissítés…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Engedje el a frissítéshez</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Egyelőre ennyi</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">Egyelőre ennyi</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Egy pillanat...…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemek betöltése sikertelen</string>
     <string name="monday">Hétfő</string>
     <string name="monday_short">Hét</string>
     <string name="monday_shortest">Hét</string>
@@ -189,15 +179,10 @@ Mawrth Vallis"</string>
     <string name="month_september">Szeptember</string>
     <string name="month_september_short">Szept</string>
     <string name="month_september_shortest">Szept</string>
-    <string name="more">Továbbiak</string>
     <string name="morning">Reggel</string>
     <string name="night">Este</string>
-    <string name="no_cta_agreed">A GetApps nem rendelkezik CTA jogosultsággal</string>
-    <string name="no_install_permission">Nincs jogosultsága ezt az elemet telepíteni</string>
     <string name="noon">Dél</string>
-    <string name="not_set">Nincs beállítva</string>
     <string name="pm">DU</string>
-    <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="saturday">Szombat</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
@@ -205,90 +190,23 @@ Mawrth Vallis"</string>
     <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">Távoli gyűrűk</string>
     <string name="search_menu_title">Keresés</string>
-    <string name="send">Küldés</string>
     <string name="snowmountain_summary">A Siguniang-hegy napsütötte hegylejtői</string>
     <string name="snowmountain_super_wallpaper_label">Havas csúcsok</string>
     <string name="snowmountain_title">Havas csúcsok</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
     <string name="sunday_shortest">Vas</string>
     <string name="super_wallpaper_list_label">Szuper háttérképek</string>
-    <string name="super_wallpaper_setting_apply_success_toast">Sikeresen alkalmazva</string>
-    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Alkalmaz</string>
-    <string name="super_wallpaper_setting_choose_position_btn_text">Helyszín kiválasztása</string>
-    <string name="super_wallpaper_setting_coordinate_title">Koordináták</string>
-    <string name="super_wallpaper_setting_view_height_title">Magasság</string>
-    <string name="task_already_exist">Ez a feladat már létezik</string>
-    <string name="the_anniversary_of_lifting_martial_law">A harci törvény feloldásának évfordulója</string>
-    <string name="the_anti_aggression_day">Agresszióellenes Nap</string>
-    <string name="the_arbor_day">A Fák Napja</string>
-    <string name="the_armed_forces_day">Fegyveres Erők Napja</string>
-    <string name="the_armys_day">PLA Nap</string>
-    <string name="the_childrens_day">Gyermeknap</string>
-    <string name="the_chinese_youth_day">Világifjúsági Nap</string>
-    <string name="the_christmas_day">Karácsony</string>
-    <string name="the_double_ninth_festival">Két kilences ünnep</string>
-    <string name="the_dragon_boat_festival">Sárkányhajó ünnepe</string>
-    <string name="the_easter_day">Húsvét</string>
-    <string name="the_eve_of_the_spring_festival">A kínai újév estéje</string>
-    <string name="the_fifth_day">A kínai újév ötödik napja</string>
-    <string name="the_fools_day">Bolondok Napja</string>
-    <string name="the_forth_day">A kínai újév negyedik napja</string>
-    <string name="the_hksar_establishment_day">Hong Kong SAR alapításának napja</string>
-    <string name="the_international_womens_day">Nők napja</string>
-    <string name="the_laba_festival">Laba Fesztivál</string>
-    <string name="the_labour_day">A munka ünnepe</string>
-    <string name="the_lantern_festival">Lámpásfesztivál</string>
-    <string name="the_mid_autumn_festival">Őszközépünnep</string>
-    <string name="the_national_day">Nemzeti ünnep</string>
-    <string name="the_national_father_day">Szun Jat-szen születésnapja</string>
-    <string name="the_new_years_day">Újév</string>
-    <string name="the_night_of_sevens">Szerelmesek napja</string>
-    <string name="the_partys_day">CPC Nap</string>
-    <string name="the_peace_day">Emlékezés Napja</string>
-    <string name="the_retrocession_day">A visszafordulás napja</string>
-    <string name="the_second_day">A kínai újév második napja</string>
-    <string name="the_seventh_day">A kínai újév hetedik napja</string>
-    <string name="the_sixth_day">A kínai újév hatodik napja</string>
-    <string name="the_spirit_festival">Szellemek ünnepe</string>
-    <string name="the_spring_festival">Kínai újév</string>
-    <string name="the_teachers_day">Tanárok Napja</string>
-    <string name="the_third_day">A kínai újév harmadik napja</string>
-    <string name="the_tw_childrens_day">Gyermeknap</string>
-    <string name="the_tw_youth_day">Világifjúsági Nap</string>
-    <string name="the_united_nations_day">Egyesült Nemzetek Napja</string>
-    <string name="the_valentines_day">Valentin nap</string>
-    <string name="the_water_lantern_festival">Vízi lámpásfesztivál</string>
     <string name="thursday">Csütörtök</string>
     <string name="thursday_short">Csü</string>
     <string name="thursday_shortest">Csü</string>
-    <string name="time_picker_dialog_title">Időbeállítás</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="title_system_wallpaper_resource">Rendszer háttérképek</string>
-    <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
     <string name="tuesday">Kedd</string>
     <string name="tuesday_short">Ked</string>
     <string name="tuesday_shortest">Ked</string>
-    <string name="update">Frissítés</string>
-    <string name="v7_preference_off">KI</string>
-    <string name="v7_preference_on">BE</string>
-    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
-    <string name="wallpaper_setting_find_more_text">További online háttérképek</string>
-    <string name="wallpaper_setting_home_wallpaper_banner_button_text">Kezdőképernyő</string>
-    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Képernyőzár</string>
-    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Online háttérképek</string>
-    <string name="wallpaper_setting_online_wallpaper_none_title">Háttérképek felfedezése</string>
-    <string name="wallpaper_setting_online_wallpaper_title">Online háttérképek</string>
-    <string name="wallpaper_setting_super_wallpaper_banner_title">Szuper háttérképek</string>
-    <string name="wallpaper_setting_super_wallpaper_more_button_text">Továbbiak</string>
-    <string name="wallpaper_setting_title">Háttérkép</string>
-    <string name="weather_summary">Helyi időjárás információ</string>
-    <string name="weather_super_wallpaper_label">Időjárás</string>
-    <string name="weather_title">Időjárás</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
     <string name="wednesday_shortest">Sze</string>

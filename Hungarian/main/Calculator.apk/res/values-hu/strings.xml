@@ -72,24 +72,6 @@
     <string name="close">Bezárás</string>
     <string name="combine_loan">Kombinált hitel</string>
     <string name="commercial_loan">Kereskedelmi hitel</string>
-    <string name="common_google_play_services_enable_button">Engedélyezés</string>
-    <string name="common_google_play_services_enable_text">"A(z) %1$s alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
-    <string name="common_google_play_services_enable_title">Google Play-szolgáltatások engedélyezése</string>
-    <string name="common_google_play_services_install_button">Telepítés</string>
-    <string name="common_google_play_services_install_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről.</string>
-    <string name="common_google_play_services_install_title">A Google Play-szolgáltatások beszerzése</string>
-    <string name="common_google_play_services_notification_channel_name">Google Play-szolgáltatások elérhetősége</string>
-    <string name="common_google_play_services_notification_ticker">Google Play-szolgáltatások – hiba</string>
-    <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
-    <string name="common_google_play_services_unsupported_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat.</string>
-    <string name="common_google_play_services_update_button">Frissítés</string>
-    <string name="common_google_play_services_update_text">A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
-    <string name="common_google_play_services_update_title">A Google Play-szolgáltatások frissítése</string>
-    <string name="common_google_play_services_updating_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van.</string>
-    <string name="common_google_play_services_wear_update_text">A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát.</string>
-    <string name="common_open_on_phone">Megnyitás a telefonon</string>
-    <string name="common_signin_button_text">Bejelentkezés</string>
-    <string name="common_signin_button_text_long">Bejelentkezés Google-fiókkal</string>
     <string name="convert_currency">Pénznemváltó</string>
     <string name="convertion_unit">Mértékegységváltó</string>
     <string name="convertion_unit_area">Területváltó</string>
@@ -111,13 +93,13 @@
     <string name="currency_update_updating">Árfolyamok frissítése…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
-    <string name="date_format">yyyy MMM dd</string>
+    <string name="date_format">yyyy. MMM. dd.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Kínai hagyományos naptár</string>
     <string name="date_time_picker_dialog_title">Dátum- és időbeállítás</string>
-    <string name="dateformat">yyyy.MM.dd.</string>
+    <string name="dateformat">yyyy. MM. dd.</string>
     <string name="day">nap</string>
     <string name="degDesc">Szög</string>
     <string name="deleteDesc">törlés</string>
@@ -364,6 +346,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="menuDesc">menü</string>
     <string name="midnight">Éjjel</string>
     <string name="minusDesc">mínusz</string>
+    <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
@@ -480,7 +463,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="network_confirm_content">A pénznemváltónak, az adó és jelzálog kalkulátornak hálózati kapcsolat és tartózkodási hely szolgáltatás szükséges a megfelelő működéshez.</string>
     <string name="network_confirm_title">Engedélyek szükségesek</string>
     <string name="network_purpose">Üdvözöljük a Számológépben! A Számológépet bármikor használhatja devizák átváltására, jelzáloghitel-törlesztése kiszámításához, és még sok minden máshoz.</string>
-    <string name="new_privacy_string">&lt;Data>Üdvözöljük, ez a Számológép!&lt;br/>Az alkalmazás a következő funkciókat tartalmazza:&lt;br/>• Alapszintű számológép&lt;br/>• Tudományos számológép&lt;br/>• Univerzális konvertáló (pl. pénznem, mértékegység stb.)&lt;br/>•Számítási sablonok hitelekhez, befektetéshez, EMI-hez és így tovább&lt;br/>Az alapvető szolgáltatások biztosításához a Számológépnek be kell gyűjtenie a szükséges személyes adatokat. &lt;a href= \"%1$s\">Adatvédelmi Irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. A Számológép használata előtt olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói megállapodásunkat&lt;/a> és &lt;a href=\"%3$s\">Adatvédelmi Irányelvünket&lt;/a>. Bármikor visszavonhatja a Számológép Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban. Ha nem fogadja el Adatvédelmi irányelvünket, nem fogja tudni az alkalmazás minden funkcióját használni; azonban az alapvető funkcióit továbbra is elérheti.&lt;/Data></string>
+    <string name="new_privacy_string">&lt;Data>Üdvözli a Számológép!&lt;br/>Az alkalmazás a következő funkciókat tartalmazza:&lt;br/>• Alapszintű számológép&lt;br/>• Tudományos számológép&lt;br/>• Univerzális konvertáló (pl. pénznem, mértékegység stb.)&lt;br/>•Számítási sablonok, többek között hitelekhez, befektetéshez, EMI-hez&lt;br/>. Az &lt;a href=\"%1$s\">Adatvédelmi Irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. A Számológép használata előtt olvassa el és fogadja el a &lt;a href=\"%2$s\">Felhasználói szerződésünket&lt;/a> és &lt;a href=\"%3$s\">Adatvédelmi Irányelvünket&lt;/a>. Bármikor visszavonhatja a Számológép Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban. Ha nem fogadja el Adatvédelmi irányelvünket, nem fogja tudni az alkalmazás minden funkcióját használni; azonban az alapvető funkcióit továbbra is elérheti.&lt;/Data></string>
     <string name="night">Este</string>
     <string name="none">Nincs</string>
     <string name="noon">Dél</string>
@@ -509,7 +492,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="preference_follow_weibo_title">Sina Weibo</string>
     <string name="preference_help">Segítség és visszajelzés</string>
     <string name="preference_other">Egyéb</string>
-    <string name="preference_privacy_title">Adatvédelmi Irányelvek</string>
+    <string name="preference_privacy_title">Adatvédelmi irányelvek</string>
     <string name="preference_rating_title">Értékeld alkalmazásunkat</string>
     <string name="preference_settings">Beállítások</string>
     <string name="preference_use_degress_summary">Radiánok helyettesítése szögekkel a trigonometrikus függvényekben</string>
@@ -519,7 +502,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="preference_use_voice_title">Beszéd kimenet</string>
     <string name="preference_user_feedback_title">Visszajelzés</string>
     <string name="privacy_dialog_title">Adatvédelem</string>
-    <string name="privacy_policy">Adatvédelmi nyilatkozat</string>
+    <string name="privacy_policy">Adatvédelmi irányelvek</string>
     <string name="privacy_revoke_error">Visszavonás sikertelen. Próbálja újra!</string>
     <string name="privacy_revoke_progress">Visszavonás…</string>
     <string name="privacy_switch">Beleegyezés visszavonása</string>
@@ -619,6 +602,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="tax_total_insurance_provident_fund">Biztosítás és lakásalap</string>
     <string name="tax_unemployment">Munkanélküliség</string>
     <string name="tax_update_time_format">Az adatokat a HeXun (%s) szolgáltatja</string>
+    <string name="tenure_year_month">%1$s és %2$s</string>
     <string name="the_anniversary_of_lifting_martial_law">A harci törvény feloldásának évfordulója</string>
     <string name="the_anti_aggression_day">Agresszióellenes Nap</string>
     <string name="the_arbor_day">A Fák Napja</string>
@@ -712,6 +696,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="unit_data_display_currency_btn">Bhutáni ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswanai pula</string>
     <string name="unit_data_display_currency_byn">Belarusz rubel</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Kanadai dollár</string>
     <string name="unit_data_display_currency_cdf">Kongói frank</string>
     <string name="unit_data_display_currency_chf">Svájci frank</string>
@@ -1019,7 +1004,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="unit_year_format">Év %s</string>
     <string name="unit_yuan">CNY</string>
     <string name="updating">Számológép frissítése…</string>
-    <string name="user_agreement">Felhasználói Szerződés</string>
+    <string name="user_agreement">Felhasználói szerződés</string>
     <string name="user_experience_program_title">Felhasználói visszajelzés</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
@@ -1054,12 +1039,15 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_calculator_delete_description">A Számológép egy rendszeralkalmazás- Az alkalmazás eltávolítását követően nem fog tudni több konvertálót és további funkciókat használni.</string>
     <string name="xiaomi_calculator_delete_title">Eltávolítja a Naptárt?</string>
     <string name="xiaomi_calculator_remove_icon_description">A Számológép egy rendszeralkalmazás. Ha eltávolítja az alkalmazás parancsikonját a Kezdőképernyőről, nem fog tudni több konvertálót és további funkciókat használni.</string>
     <string name="xiaomi_calculator_remove_icon_title">Eltávolítja a \"Számológép\" alkalmazást a Kezdőképernyőről?</string>
     <string name="xiaomi_connect_download_manager_fail">Nem tudott csatlakozni a letöltésekhez. Ellenőrizze, hogy ez app a megfelelő engedélyekkel rendelkezik-e a Beállítások > Telepített alkalmazásokban.</string>
     <string name="xiaomi_external_storage_unavailable">Nincs elérhető tárhely. Ellenőrizze az SD-kártyát.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_update_dialog_message">"Bemutatjuk a következő verziót: %1$s
 Méret:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Bemutatjuk a következő verziót: %1$s

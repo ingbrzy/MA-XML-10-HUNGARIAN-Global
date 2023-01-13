@@ -168,6 +168,10 @@
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d nem fogadott hívás</item>
+        <item quantity="one">%d nem fogadott hívás</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d kiválasztva</item>
         <item quantity="one">%1$d kiválasztva</item>

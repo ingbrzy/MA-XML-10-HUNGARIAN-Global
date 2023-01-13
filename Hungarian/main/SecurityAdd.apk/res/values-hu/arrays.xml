@@ -19,6 +19,14 @@
         <item>2X</item>
         <item>4X</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_anti">
+        <item>2X</item>
+        <item>4X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Kiegyensúlyozott</item>
+        <item>Kiváló minőség</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Nagy sebesség</item>
         <item>Kiegyensúlyozott</item>

@@ -153,12 +153,12 @@
         <item quantity="one">A stopper ennyi ideje megy: %s óra. Koppintson ide a megtekintéshez.</item>
     </plurals>
     <plurals name="timer_message_hour">
-        <item quantity="other">%1$d óra</item>
-        <item quantity="one">%1$d óra</item>
+        <item quantity="other">"%1$d óra "</item>
+        <item quantity="one">"%1$d óra "</item>
     </plurals>
     <plurals name="timer_message_minute">
-        <item quantity="other">%1$d perc</item>
-        <item quantity="one">%1$d perc</item>
+        <item quantity="other">"%1$d perc "</item>
+        <item quantity="one">"%1$d perc "</item>
     </plurals>
     <plurals name="timer_message_second">
         <item quantity="other">%1$d mp.</item>

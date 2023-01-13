@@ -44,6 +44,42 @@ Szeretnéd, hogy segítsünk a megújításában?"</item>
         <item quantity="other">%d hasonló dal</item>
         <item quantity="one">%d hasonló dal</item>
     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Egy órával ezelőtt</item>
+        <item quantity="one">Egy órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Egy órával ezelőtt</item>
+        <item quantity="one">Egy órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Egy óra múlva</item>
+        <item quantity="one">Egy óra múlva</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Azonnal</item>
+        <item quantity="one">Azonnal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d perc múlva</item>
+        <item quantity="one">1 perc múlva</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d perce</item>
+        <item quantity="one">1 perce</item>
+    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d hozzászólás</item>
         <item quantity="one">%d hozzászólás</item>
@@ -70,6 +106,10 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
         <item quantity="other">Eltávolít %d dalt?</item>
         <item quantity="one">Eltávolít %d dalt?</item>
     </plurals>
+    <plurals name="dialog_request_delete_permission_descript">
+        <item quantity="other">A kiválasztott dalok közül %d egy külső mappában tárolódik. Adja meg a törlésükhöz szükséges jogosultságokat.</item>
+        <item quantity="one">A kiválasztott dalok közül %d egy külső mappában tárolódik. Adja meg a törlésükhöz szükséges jogosultságokat.</item>
+    </plurals>
     <plurals name="download_finished">
         <item quantity="other">&lt;font color==\"red\">%d dal&lt;/font> letöltve</item>
         <item quantity="one">&lt;font color==\"red\">%d dal&lt;/font> letöltve</item>
@@ -82,9 +122,45 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
         <item quantity="other">&lt;font color==\"red\">%d dal&lt;/font> letöltése</item>
         <item quantity="one">&lt;font color==\"red\">%d dal&lt;/font> letöltése</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Előretekerés %d másodperccel</item>
+        <item quantity="one">Előretekerés %d másodperccel</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Visszatekerés %d másodperccel</item>
+        <item quantity="one">Visszatekerés %d másodperccel</item>
+    </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s megtekintés</item>
+        <item quantity="one">%s megtekintés</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d ingyenes letöltés maradt</item>
         <item quantity="one">%d ingyenes letöltés maradt</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Egy óra múlva</item>
+        <item quantity="one">Egy óra múlva</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Azonnal</item>
+        <item quantity="one">Azonnal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d perc múlva</item>
+        <item quantity="one">1 perc múlva</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="list_header_fans_count">
         <item quantity="other">%d követő</item>
@@ -93,6 +169,14 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
     <plurals name="list_header_follow_count">
         <item quantity="other">%d személyt követ</item>
         <item quantity="one">%d személyt követ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">%d elem kiválasztva</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d elem kiválasztva</item>
@@ -105,6 +189,10 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
     <plurals name="notification_download_failed_more">
         <item quantity="other">%1$d elem letöltése sikertelen</item>
         <item quantity="one">%1$d elem letöltése sikertelen</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d követő</item>
@@ -129,6 +217,10 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
     <plurals name="sound_fade_duration_in_seconds">
         <item quantity="other">Áttűnés a dalok között: %d másodperc</item>
         <item quantity="one">Áttűnés a dalok között: %d másodperc</item>
+    </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Tegyen szert %1$d érmére még ma</item>
+        <item quantity="one">Tegyen szert %1$d érmére még ma</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">Videók</item>

@@ -40,6 +40,20 @@
         <item quantity="other">" %1$sóra %2$s"</item>
         <item quantity="one">" %1$sóra %2$s"</item>
     </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">Csökkentett karaktertávolság. Karaktertávolság %s.</item>
+        <item quantity="one">Csökkentett karaktertávolság. Karaktertávolság %s.</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Megnövelt karaktertávolság. Karaktertávolság %s.</item>
+        <item quantity="one">Megnövelt karaktertávolság. Karaktertávolság %s.</item>
+    </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"Az animációk lejátszásának időtartama nem lehet hosszabb %d másodpercnél.
+Az ennél hosszabb animációk lejátszása megáll ennél a pontnál."</item>
+        <item quantity="one">"Az animációk lejátszásának időtartama nem lehet hosszabb %d másodpercnél.
+Az ennél hosszabb animációk lejátszása megáll ennél a pontnál."</item>
+    </plurals>
     <plurals name="count_selected">
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>
@@ -68,9 +82,21 @@
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
     </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Megnövelt sortávolság. Sortávolság %s.</item>
+        <item quantity="one">Megnövelt sortávolság. Sortávolság %s.</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Csökkentett sortávolság. Sortávolság %s.</item>
+        <item quantity="one">Csökkentett sortávolság. Sortávolság %s.</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>

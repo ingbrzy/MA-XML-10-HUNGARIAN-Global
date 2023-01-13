@@ -36,6 +36,10 @@
         <item quantity="other">%d perce</item>
         <item quantity="one">1 perce</item>
     </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d fájl</item>
+        <item quantity="one">%1$d fájl</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
@@ -67,5 +71,101 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d telepítőcsomag (%3$s) ebből: %1$s</item>
+        <item quantity="one">%2$d telepítőcsomag (%3$s) ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%2$d fogadott telepítőcsomag (%3$s) ebből: %1$s</item>
+        <item quantity="one">%2$d fogadott telepítőcsomag (%3$s) ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%2$d telepítőcsomag fogadása (%3$s) ebből: %1$s…</item>
+        <item quantity="one">%2$d telepítőcsomag fogadása (%3$s) ebből: %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d hangfájl (%3$s) ebből: %1$s</item>
+        <item quantity="one">%2$d hangfájl (%3$s) ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%2$d fogadott hangfájl (%3$s) ebből %1$s</item>
+        <item quantity="one">%2$d fogadott hangfájl (%3$s) ebből %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%2$d hangfájl fogadása (%3$s) ebből: %1$s…</item>
+        <item quantity="one">%2$d hangfájl fogadása (%3$s) ebből: %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s fájl (%4$s) ebből: %1$s</item>
+        <item quantity="one">%2$d %3$s fájl (%4$s) ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%2$d %3$s fogadott fájl (%4$s) ebből: %1$s</item>
+        <item quantity="one">%2$d %3$s fogadott fájl (%4$s) ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%2$d %3$s fájl fogadása (%4$s) ebből: %1$s…</item>
+        <item quantity="one">%2$d %3$s fájl fogadása (%4$s) ebből: %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d kép ebből: %1$s</item>
+        <item quantity="one">%2$d kép ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%2$d fogadott kép ebből: %1$s</item>
+        <item quantity="one">%2$d fogadott kép ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%2$d kép fogadása ebből: %1$s…</item>
+        <item quantity="one">%2$d kép fogadása ebből: %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d kép és videó ebből: %1$s</item>
+        <item quantity="one">%2$d kép és videó ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%2$d fogadott kép és videó ebből: %1$s</item>
+        <item quantity="one">%2$d fogadott kép és videó ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%2$d kép és videó fogadása ebből: %1$s…</item>
+        <item quantity="one">%2$d kép és videó fogadása ebből: %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d fájl ebből: %1$s</item>
+        <item quantity="one">%2$d fájl ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%2$d fogadott fájl ebből: %1$s</item>
+        <item quantity="one">%2$d fogadott fájl ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%2$d fájl fogadása ebből: %1$s…</item>
+        <item quantity="one">%2$d fájl fogadása ebből: %1$s…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d videó ebből: %1$s</item>
+        <item quantity="one">%2$d videó ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%2$d fogadott videó ebből: %1$s</item>
+        <item quantity="one">%2$d fogadott videó ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%2$d videó fogadása ebből: %1$s…</item>
+        <item quantity="one">%2$d videó fogadása ebből: %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d archívum (%3$s) ebből: %1$s</item>
+        <item quantity="one">%2$d archívum (%3$s) ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%2$d fogadott archívum (%3$s) ebből: %1$s</item>
+        <item quantity="one">%2$d fogadott archívum (%3$s) ebből: %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%2$d archívum fogadása (%3$s) ebből: %1$s…</item>
+        <item quantity="one">%2$d archívum fogadása (%3$s) ebből: %1$s…</item>
     </plurals>
 </resources>

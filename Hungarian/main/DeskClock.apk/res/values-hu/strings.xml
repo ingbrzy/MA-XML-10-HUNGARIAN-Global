@@ -36,12 +36,16 @@
     <string name="add_alarm">Ébresztés hozzáadása</string>
     <string name="add_clock">Óra hozzáadása</string>
     <string name="add_common_timer">Időzítő hozzáadása</string>
+    <string name="add_new_sound">Csengőhang hozzáadása</string>
     <string name="add_timer">Gyakori időzítés</string>
+    <string name="add_timer_dialog_title">Időzítő hozzáadása</string>
     <string name="add_timezone_title">Időzóna hozzáadása</string>
     <string name="afternoon">Délután</string>
     <string name="agree">Elfogadás</string>
     <string name="alarm_alert_alert_silenced">Ébresztés elhalkul %1$s perc múlva.</string>
     <string name="alarm_alert_disabled">Ki</string>
+    <string name="alarm_alert_now">%s ébresztő</string>
+    <string name="alarm_alert_snooze_button">Szundi</string>
     <string name="alarm_ascending_mode_summary">Az ébresztés hangereje fokozatosan emelkedik</string>
     <string name="alarm_ascending_mode_title">Emelkedő hangerő</string>
     <string name="alarm_clock_more_setting">További beállítások</string>
@@ -63,10 +67,12 @@
     <string name="alarmclock_empty_text">Nincs ébresztés beállítva</string>
     <string name="alarmclock_silent_hint">Az Ébresztő lehalkított állapotban van</string>
     <string name="alert">Csengőhang</string>
+    <string name="alert_page_desc">Nyomja meg és tartsa lenyomva, majd húzza felfelé az ébresztő kikapcsolásához</string>
     <string name="alert_ringtone">Riasztási csengőhang</string>
     <string name="alert_vibrate_enable_summary">Rezgés az ébresztőhang alatt</string>
     <string name="alert_volume">Csengőhang hangereje</string>
     <string name="alert_volume_summary">Csengóhang hangerejének beállítása a riasztásokhoz és időzítőkhöz</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi AI beszél…</string>
     <string name="already_exist">Ez az időzítés már létezik</string>
     <string name="am">DE</string>
     <string name="analog_gadget">Analóg óra</string>
@@ -110,8 +116,10 @@
     <string name="channel_name_timer">Időzítő</string>
     <string name="check_theme_app_install">Ellenőrizd, hogy a Témák alkalmazás telepítve van az eszközödön.</string>
     <string name="check_voice_assist_app_version">Frissítse a Mi AI-t a legújabb verzióra.</string>
+    <string name="cities_show_limit_desc">Nem lehet megjeleníteni több órát</string>
     <string name="city_time_contrast_desc">A különböző városok időinek összehasonlításához koppintson</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
+    <string name="click_to_cancel_alarm">Koppintson a kikapcsoláshoz</string>
     <string name="clock_bg_button_setting_summary_common">Ön választhatja ki az Óra alkalmazás háttérszínét</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Amennyiben Sötét módra vált, a háttérszín automatikusan fekete lesz</string>
     <string name="clock_bg_button_setting_title">Háttérszín</string>
@@ -122,6 +130,7 @@
     <string name="common_timer_selector">Időzítő kiválasztása</string>
     <string name="confirm">Megerősítés</string>
     <string name="confirm_abort">Elvetés</string>
+    <string name="confirm_remove_custom_ringtone">Ha törli ezt a csengőhangot, az azt használó riasztások és időzítők helyett az alapértelmezett csengőhangot játssza le. Törli most?</string>
     <string name="content_desc_keep_screen">\"Képernyő bekapcsolva tartása\" gomb</string>
     <string name="continue_operation">Folytatás</string>
     <string name="continue_step">Következő</string>
@@ -129,6 +138,7 @@
     <string name="control_set_alarm_with_existing">Riasztás beállítva:%s</string>
     <string name="copy">Másolás</string>
     <string name="current_stopwatch_time">Aktuális időzítés</string>
+    <string name="custom_ringtone_lost_permissions">Nem fér hozzá ehhez a hanghoz.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -144,6 +154,7 @@
     <string name="delete_timer_item_title">Időzítés törlése</string>
     <string name="delete_timezone_title">Időzóna törlése</string>
     <string name="deskclock_sleep_no_disturbance">Óra - Alvásidő kezelése - Ne zavarj mód</string>
+    <string name="device_sounds">Készülékhangok</string>
     <string name="dialog_confirm_abort">Elveti a módosításokat?</string>
     <string name="dialog_legal_off_day">&lt;Data>Úgy tűnik, hogy Ön hétvégi ébresztést használ. A funkció normál működéséhez csatalkoznia kell az internethez. A funkció használata előtt el kell fogadnia a &lt;a href=\"%1$s\">Felhasználói szerződést&lt;/a> és az &lt;a href=\"%2$s\">Adatvédelmi szabályzatot&lt;/a>. Elfogadja?&lt;/Data></string>
     <string name="dialog_legal_off_day_desc">Az órának nincs engedélyezve az internethez való kapcsolódás a hétköznapokkal kapcsolatos adatok frissítéséhez. A hétvégi ébresztés szombaton és vasárnap aktív.</string>
@@ -228,6 +239,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="force_start_permission_desc">Engedélyezze a riasztások normális működését még akkor is, ha bezárta az alkalmazást</string>
+    <string name="force_start_permission_title">Automatikus indítás</string>
     <string name="force_touch_add_alarm">Új ébresztés</string>
     <string name="force_touch_enter_stopwatch">Stopper</string>
     <string name="force_touch_enter_timer">Időzítő</string>
@@ -294,6 +307,23 @@
     <string name="menu_item_sort_by_gmt_offset">Rendezés idő szerint</string>
     <string name="menu_item_sort_by_name">Rendezés név szerint</string>
     <string name="midnight">Éjjel</string>
+    <string name="miui_clock_city_name_local">Helyi</string>
+    <string name="miui_clock_city_name_second">A második óra</string>
+    <string name="miui_lock_screen_date">MMM. dd., EEE</string>
+    <string name="miui_lock_screen_date_12">MMM. dd., EEE</string>
+    <string name="miui_lock_screen_date_two_lines">"MMM. dd.
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"MMM. dd.
+EEE"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+M. d."</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+M. d."</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+    <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
@@ -356,7 +386,7 @@
     <string name="module_white_noise_download_data">Az Órának audiofájlokat kell letöltenie a környezeti zajok időzítőihez. ≈30MB mobil adatforgalom szükséges a letöltéshez. Letölti most?</string>
     <string name="module_white_noise_download_data_privacy">&lt;Data>A környezeti zajok időzítőinek letöltése (≈30MB), valamint személyre szabott szolgáltatást biztosítása érdekében az Órának kapcsolódnia kell az internethez. Az Óra használata előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználás feltételeit&lt;/a> és az &lt;a href=\"%2$s\">Adatvédelmi szabályzatot&lt;/a>. Jelenleg mobil adatforgalmat használ. Elfogadja?&lt;/Data></string>
     <string name="module_white_noise_download_wifi">Az órának audiofájlokat kell letöltenie a környezeti zajok időzítői számára. Letölti most?</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data>A környezeti zajok időzítőinek letöltése, valamint személyre szabott szolgáltatás biztosítása érdekében az Órának kapcsolódnia kell az internethez. Az Óra használata előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználás feltételeit&lt;/a> és az &lt;a href=\"%2$s\">Adatvédelmi szabályzatot&lt;/a>. Elfogadja?&lt;/Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>A környezeti zajok időzítőihez szükséges hangfájlok letöltéséhez és a személyre szabott szolgáltatások nyújtásához az Órának csatlakoznia kell az internethez. Az Óra használata előtt olvassa el és fogadja el a &lt;a href=\"%1$s\">Felhasználói szerződésünket&lt;/a> és az &lt;a href=\"%2$s\">Adatvédelmi irányelveinket&lt;/a>. Elfogadja?&lt;/Data></string>
     <string name="monday">Hétfő</string>
     <string name="monday_short">Hét</string>
     <string name="monday_shortest">Hét</string>
@@ -430,13 +460,17 @@
     <string name="personal_recommend">Személyre szabott tartalom ajánlatok</string>
     <string name="pm">DU</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
-    <string name="privacy_policy">Adatvédelmi nyilatkozat</string>
-    <string name="privacy_policy_title">Adatvédelmi nyilatkozat</string>
+    <string name="privacy_policy">Adatvédelmi irányelvek</string>
+    <string name="privacy_policy_title">Adatvédelmi irányelvek</string>
     <string name="privacy_settings_title">Adatvédelem</string>
     <string name="query_privacy_policy">Adatvédelmi irányelvek megtekintése</string>
     <string name="reach_upper_limit">Nem lehet több időzítőt hozzáadni</string>
     <string name="read_external_storage_permission_desc">Egyéni csengőhangok beállításához</string>
     <string name="read_internal_storage">Hozzáférés a tárhelyhez</string>
+    <string name="read_phone_state">Hozzáférés a készülékinfókhoz</string>
+    <string name="read_phone_state_desc">Hozzáférés a hívásállapothoz ébresztés közben</string>
+    <string name="read_phone_state_desc_when_request">A hívásállapot eléréséhez, hogy hívásfogadáskor automatikusan szüneteltesse az ébresztést</string>
+    <string name="remark_hint">Címke hozzáadása</string>
     <string name="remind_ringtone">Figyelmeztető hang</string>
     <string name="repeat_count">Alkalommal</string>
     <string name="repeat_count_value_five">5</string>
@@ -444,6 +478,7 @@
     <string name="repeat_count_value_ten">10</string>
     <string name="repeat_count_value_three">3</string>
     <string name="repeat_count_value_two">2</string>
+    <string name="repeat_type">Ismétlés</string>
     <string name="reset">Visszaállítás</string>
     <string name="revert">Visszaállítás</string>
     <string name="ringtone_all">Összes csengőhang</string>
@@ -463,7 +498,9 @@
     <string name="search_stopwatch_keywords">Stopper</string>
     <string name="search_timer_keywords">Időzítő</string>
     <string name="search_worldclock_keywords">Idő; Világóra; Óra</string>
+    <string name="select_all">Összes kiválasztása</string>
     <string name="select_operation">Kiválasztás</string>
+    <string name="selected">Kiválasztva</string>
     <string name="send">Küldés</string>
     <string name="set_alarm">Idő választása</string>
     <string name="set_alarm_choose_ringtone">Csengőhang kiválasztása</string>
@@ -478,6 +515,8 @@
     <string name="shortcut_new_alarm">Riasztás beállítása</string>
     <string name="shortcut_start_timer">Időzítő elindítása</string>
     <string name="shortcut_stop_watch">Stopperóra elindítása</string>
+    <string name="show_life_post_desc">A reggeli jelentések nem jelennek meg, ha kikapcsolja ezt a funkciót</string>
+    <string name="show_life_post_lable">Reggeli jelentés mutatása</string>
     <string name="shut_down_keep_screen">Képernyő nem marad bekapcsolva</string>
     <string name="shutdown_alarm_alert_enable_summary">Ébresztések kikapcsolt állapotban legalább 10 perccel a készülék kikapcsolását követően kapcsolnak be</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Kapcsolja be a beállított ébresztéseknek a készülék kikapcsolt állapotában történő működtetéséhez. Csak azok az ébresztések működnek, amelyek a készülék kikapcsolása után számított legalább %d percre vannak beállítva.</string>
@@ -486,10 +525,12 @@
     <string name="shutdown_alarm_enable_summary">Az ébresztő megszólal, ha legalább 10 perccel a készülék kikapcsolása utánra állítja be</string>
     <string name="shutdown_alarm_title">Ébresztés kikapcsolt állapotban</string>
     <string name="silent_alarm_summary">Némítás</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Egyszeri kikapcsolás %s</string>
     <string name="sleep_analysis">Statisztikák</string>
-    <string name="sleep_analysis_chart_date_format">MM.dd.</string>
+    <string name="sleep_analysis_chart_date_format">MM. dd.</string>
     <string name="sleep_date_provider_text">A Xiaomi Egészség által biztosított adat(ok)</string>
+    <string name="sleep_date_provider_text_new">Az alvási adatokat a Mi Fitness szolgáltatja</string>
     <string name="sleep_duration">"Alvás időtartama: "</string>
     <string name="sleep_duration_avg_text_diff">Átlagos alvásidő (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Alvásidő: %1$s %2$s</string>
@@ -505,6 +546,7 @@
     <string name="sleep_record">Alvás nyomon követése</string>
     <string name="sleep_record_desc">Kapcsolja be az alvásadatok rögzítését</string>
     <string name="sleep_record_desc_detailed">Az alvás nyomon követése funkciót a Xiaomi Egészség biztosítja. A funkció bekapcsolását követően a Xiaomi Egészség automatikusan rögzíti az Ön alvását a telefonja használata, tevékenységi statisztikái, valamint a beállított alvás- és ébredési idő alapján, amelyet aztán diagrammos formában tekinthet meg. Az alvásidő pontosabb nyomon követéséhez engedélyezze a Xiaomi Egészség alkalmazás számára az automatikus indítást. Minden vonatkozó adat helyileg az Ön készülékén kerül eltárolásra, amelynek köszönhetően könnyen kezelheti az adatokat.</string>
+    <string name="sleep_record_desc_detailed_new">Az alváskövetést a Mi Fitness Sleep funkció biztosítja. Ha bekapcsolja ezt a funkciót, a Mi Fitness automatikusan gyűjti és megjeleníti az alvás adatait a telefonhasználat, az aktivitás, valamint az Ön által beállított lefekvési és ébredési idő alapján. Az alvás pontosabb nyomon követése érdekében engedélyezze a Mi Fitness automatikus indítását.</string>
     <string name="sleep_record_no_data">A statisztikák itt fognak megjelenni, miután a Xiaomi Egészség elég adatot elemzett</string>
     <string name="sleep_remind">Alvásidő emlékeztető</string>
     <string name="sleep_time">Alvásidő</string>
@@ -529,6 +571,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Nincs részidő</string>
     <string name="stopwatch_reset_notification">Stopper lenullázva</string>
     <string name="stopwatch_running_notification">Stopper</string>
@@ -537,6 +580,7 @@
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
     <string name="sunday_shortest">Vas</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Az internethez való csatlakozás engedélyezés az alkalmazás számára az összes funkcióhoz való hozzáférés érdekében.</string>
     <string name="system_permission_main_purpose">Idő megtekintése, ébresztő/riasztás és időzítő beállítása, stopper használata</string>
     <string name="system_permission_purpose">Hétköznapi riasztások létrehozása és testreszabott csengőhangok beállítása</string>
@@ -604,6 +648,7 @@
     <string name="timer_alert_type_beach">Strand</string>
     <string name="timer_alert_type_forest">Erdő</string>
     <string name="timer_alert_type_mute">Alapértelmezett</string>
+    <string name="timer_alert_type_no">Egyik sem</string>
     <string name="timer_alert_type_rain">Szitálás</string>
     <string name="timer_alert_type_spring_rain">Nyári eső</string>
     <string name="timer_alert_type_stove_fire">Kályhatűz</string>
@@ -615,14 +660,18 @@
     <string name="timer_continue">Folytatás</string>
     <string name="timer_continue_timer">Időzítő folytatása</string>
     <string name="timer_created">Időzítő sikeresen hozzáadva</string>
+    <string name="timer_desc_use_brush_teeth">Fogmosás</string>
+    <string name="timer_desc_use_facial_mask">Arcmaszk</string>
+    <string name="timer_desc_use_sleep">Szundi</string>
     <string name="timer_end_time">Az időmérő a következő időpontban fog megállni %s</string>
-    <string name="timer_end_time_format">HH:mm MMM dd</string>
+    <string name="timer_end_time_format">HH:mm MMM. dd.</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">Rendben</string>
     <string name="timer_got_it_new">Elhalkul</string>
     <string name="timer_is_paused">A stopperóra szünetel</string>
     <string name="timer_item_delete">Törlés</string>
     <string name="timer_item_duration_display">%1$d perc %2$d mp</string>
+    <string name="timer_item_edit">Szerkeszt</string>
     <string name="timer_item_label_hint">Időzítő neve</string>
     <string name="timer_item_picker_hour">Ó</string>
     <string name="timer_item_picker_minute">P</string>
@@ -643,14 +692,22 @@
     <string name="tuesday_shortest">Ked</string>
     <string name="turn_off_a_repeat_alarm">Ismétlődő ébresztés kikapcsolása</string>
     <string name="turn_off_this_repeat_alarm">Ismétlődő ébresztés kikapcsolása</string>
+    <string name="tv_blank_list_other_text">Egyelőre itt nincs semmi</string>
+    <string name="tv_blank_list_show_text">Egyelőre itt nincs semmi. Keressen egy helyet, hogy hozzáadhassa a világórához.</string>
+    <string name="tv_world_clock_edit_title1">A Kezdőképernyőn megjelenített helyek</string>
+    <string name="tv_world_clock_edit_title2">Egyéb mentett helyek</string>
+    <string name="unknown_ringtone_title">Ismeretlen</string>
+    <string name="unselect_all">Összes kijelölés törlése</string>
     <string name="upcoming_alarm">Közelgő riasztás: %s</string>
     <string name="upcoming_alarm_hint">Most kikapcsolhatja ezt a riasztást</string>
     <string name="update_health_app">Xiaomi Egészség frissítése</string>
     <string name="update_health_app_desc">Az alvás nyomon követése funkciót a Xiaomi Egészség biztosítja. Frissítse a Xiaomi Egészség alkalmazást a legújabb verzióra és férjen hozzá az ezzel kapcsolatos funkciókhoz.</string>
+    <string name="update_health_app_desc_new">Az alváskövetési funkciót a Mi Fitness biztosítja. Frissítsen a Mi Fitness legújabb verziójára a kapcsolódó funkciók eléréséhez.</string>
+    <string name="update_health_app_new">Mi Fitness frissítése</string>
     <string name="update_it">Frissítés</string>
     <string name="update_notification_info">Adatok frissítése a háttérben…</string>
     <string name="usage_start">Indítás</string>
-    <string name="user_agreement">Felhasználói Szerződés</string>
+    <string name="user_agreement">Felhasználói szerződés</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
     <string name="version_update_dialog_negative_desc">Most nem</string>
@@ -670,8 +727,13 @@
     <string name="wednesday_short">Sze</string>
     <string name="wednesday_shortest">Sze</string>
     <string name="week_ringtone_recommend_desc">A Természet hangjai értesítő különböző természeti hangokat játszik le az adott dátumtól függően. Beállítja ezt alapértelmezett értesítésként?</string>
+    <string name="white_noise">Külső zaj</string>
+    <string name="white_noise_guide_desc">Adjon hozzá háttérhangot és maradjon fókuszban</string>
+    <string name="white_noise_not_selected">Nem kiválaszott</string>
+    <string name="white_noise_selected">Kiválasztott</string>
     <string name="white_noise_selector">Hanganyag kiválasztása</string>
     <string name="workday_alarm_clock">Munkanapi ébresztő</string>
+    <string name="worldclock_edit_label">Világóra</string>
     <string name="worldclock_empty_text">Nincs Világóra beállítva</string>
     <string name="worldclock_input_hint_text">Ország vagy város keresése</string>
     <string name="worldclock_local_time">Helyi idő</string>
@@ -680,14 +742,19 @@
     <string name="worldclock_search_city">Válasszon várost</string>
     <string name="worldclock_second_time">Idő itt: %s</string>
     <string name="worldclock_second_time_desc">"%s: "</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">Világóra</string>
     <string name="worldclock_world_time">Időzónák</string>
     <string name="worldcolock_date_display_prefix">Aktuális: </string>
-    <string name="worldcolock_time_date">yyyy.MM.dd.</string>
+    <string name="worldcolock_time_date">yyyy. MM. dd.</string>
     <string name="worldcolock_timezone_current">Aktuális: %1$s</string>
-    <string name="worldcolock_timezone_current_date">yyyy.MM.dd.</string>
+    <string name="worldcolock_timezone_current_date">yyyy. MM. dd.</string>
     <string name="worldcolock_timezone_date">MMM. dd.</string>
     <string name="worldcolock_timezone_gap">%s Ó</string>
     <string name="worldcolock_timezone_local">Ugyanaz, mint a helyi idő</string>
+    <string name="xiaoai_ringtone_title">Mi AI csengőhangok</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">Az Óra egy rendszeralkalmazás. Ha eltávolítja az alkalmazást, nem fogja tudni megnézni az időt, nem tud ébresztőt beállítani vagy az Óra egyéb funkcióit használni.</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">Eltávolítja az Órát?</string>
     <string name="yesterday">Tegnap</string>
+    <string name="your_sounds">Hangjaim</string>
 </resources>

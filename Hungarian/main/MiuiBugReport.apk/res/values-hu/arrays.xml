@@ -4,4 +4,69 @@
         <item>Férfi</item>
         <item>Nő</item>
     </string-array>
+    <string-array name="customer_service">
+        <item>@string/customer_service_apply</item>
+        <item>@string/customer_service_complain</item>
+        <item>@string/customer_service_station</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>Gyenge Wi-Fi-kapcsolat. Váltson vezeték nélküli sávot, vagy indítsa újra a routert.</item>
+        <item>Nem lehet elérni a hálózatot. Csatlakozzon újra a Wi-Fi-hez, vagy indítsa újra a routert.</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Poor WLAN connection. Switch wireless bands or reboot the router.</item>
+        <item>"Can't access network. Reconnect to WLAN or reboot the router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>A hálózati hozzáféréshez hitelesítés szükséges</item>
+        <item>A hálózati hozzáférés korlátozott. Állítsa be az időt a készüléken, és ellenőrizze a router hálózati beállításait.</item>
+        <item>Hálózati hiba. Ellenőrizze a HTTP-proxy beállításait.</item>
+        <item>Hálózati hiba. Ellenőrizze, hogy a router hozzáfér-e az internethez.</item>
+        <item>Nem lehet csatlakozni a hálózathoz. Csatlakozzon újra a Wi-Fi-hez, vagy indítsa újra a routert.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>A hálózati hozzáféréshez hitelesítés szükséges</item>
+        <item>A hálózati hozzáférés korlátozott. Állítsa be az időt a készüléken, és ellenőrizze a router hálózati beállításait.</item>
+        <item>Hálózati hiba. Ellenőrizze a HTTP-proxy beállításait.</item>
+        <item>Hálózati hiba. Ellenőrizze, hogy a router hozzáfér-e az internethez.</item>
+        <item>"Can't connect to the network. Reconnect to WLAN or reboot the router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>DNS-kiszolgáló hiba. Ellenőrizze a router DNS-konfigurációját.</item>
+        <item>Jelentős késések a DNS-kiszolgáló miatt. Ellenőrizze a router DNS-konfigurációját.</item>
+        <item>Nem lehet elérni az átjárót. Csatlakozzon újra a Wi-Fi-hez, vagy indítsa újra a routert.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>DNS-kiszolgáló hiba. Ellenőrizze a router DNS-konfigurációját.</item>
+        <item>Jelentős késések a DNS-kiszolgáló miatt. Ellenőrizze a router DNS-konfigurációját.</item>
+        <item>"Can't access gateway. Reconnect to WLAN or reboot the router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>Jelentős késések a helyi hálózat miatt. Indítsa újra a routert, vagy csatlakozzon egy másik hálózathoz.</item>
+        <item>Jelentős késések az internet miatt. Ellenőrizze a szolgáltató hálózati beállításait, vagy csatlakozzon egy másik hálózathoz.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Váltson statikus IP-ről DHCP-re</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Hálózati protokoll hiba. Csatlakozzon újra a Wi-Fi-hez, vagy indítsa újra a készüléket.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Network protocol error. Reconnect to WLAN or reboot the device.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Menjen jobb Wi-Fi-lefedettségű területre</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Move to an area with better WLAN coverage</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>Ellenőrizze a router DHCP-beállításait és a vezetékes kapcsolatot</item>
+    </string-array>
+    <string-array name="reproductivity">
+        <item>@string/feedback_reproductivity_everytime</item>
+        <item>@string/feedback_reproductivity_often</item>
+        <item>@string/feedback_reproductivity_occasionally</item>
+        <item>@string/feedback_reproductivity_once</item>
+    </string-array>
 </resources>

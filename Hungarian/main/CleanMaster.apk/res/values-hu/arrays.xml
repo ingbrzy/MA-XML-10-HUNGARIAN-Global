@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_process_mode">
+        <item>Értesítés</item>
+        <item>Tisztítás</item>
+        <item>Értesítés és tisztítás</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Méret</item>
+        <item>Név</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Gyakran használt</item>
+        <item>Méret</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Méret</item>
+        <item>Név</item>
+    </string-array>
+    <string-array name="uninstalled_app_sort_type">
+        <item>Méret</item>
+        <item>Használat gyakorisága</item>
+        <item>Telepítés ideje</item>
+    </string-array>
+    <string-array name="wechat_sort">
+        <item>Dátum</item>
+        <item>Méret</item>
+    </string-array>
+</resources>

@@ -128,6 +128,10 @@
         <item quantity="other">%d felvételt találtunk</item>
         <item quantity="one">%d felvételt találtunk</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d új felvétel</item>
+        <item quantity="one">%d új felvétel</item>
+    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">%d nap van hátra</item>
         <item quantity="one">%d nap van hátra</item>

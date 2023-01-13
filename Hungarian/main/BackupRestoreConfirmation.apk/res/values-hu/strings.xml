@@ -7,7 +7,6 @@
 Ha nem Ön kérte a mentést, ne engedélyezze a művelet folytatását."</string>
     <string name="backup_confirm_title">Teljes biztonsági mentés</string>
     <string name="backup_enc_password_optional">Ha minden mentett adatot szeretne titkosítani, adjon meg egy jelszót alább:</string>
-    <string name="backup_enc_password_required">Mivel az eszköz titkosítva van, a biztonsági mentést is titkosítani kell. Kérjük, alább adjon meg egy jelszót:</string>
     <string name="backup_enc_password_text">Kérjük, írjon be egy jelszót a teljes biztonsági mentés adatainak titkosításához. Ha üresen hagyja, jelenlegi biztonsági jelszavát fogjuk használni:</string>
     <string name="current_password_text">Kérjük, adja meg a jelenlegi biztonsági jelszót alább:</string>
     <string name="deny_backup_button_label">Ne mentsen</string>

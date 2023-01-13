@@ -36,6 +36,10 @@
         <item quantity="other">%d perce</item>
         <item quantity="one">1 perce</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">\"%1$s\" számára %2$d perc maradt ma</item>
+        <item quantity="one">\"%1$s\" számára %2$d perc maradt ma</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
@@ -76,9 +80,21 @@
         <item quantity="other">%d percig használta készülékét megszakítás nélkül</item>
         <item quantity="one">%d percig használta készülékét megszakítás nélkül</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Pihenjen %d percig</item>
+        <item quantity="one">Pihenjen %d percig</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d perc</item>
         <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">Már %d perce használja ezt a készüléket</item>
+        <item quantity="one">Már %d perce használja ezt a készüléket</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Legfeljebb %d szünetet adhat hozzá</item>
+        <item quantity="one">Legfeljebb %d szünetet adhat hozzá</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">A mai képernyő előtt töltött idő megegyezik a(z) %d napos átlaggal</item>

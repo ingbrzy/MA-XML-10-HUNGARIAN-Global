@@ -37,6 +37,12 @@
         <item>Mikrofon</item>
         <item>Rendszerhangok</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Egyik sem</item>
+        <item>Mikrofon</item>
+        <item>Rendszer</item>
+        <item>Mindkettő</item>
+    </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>Belső tárhely</item>
         <item>Külső tárhely</item>

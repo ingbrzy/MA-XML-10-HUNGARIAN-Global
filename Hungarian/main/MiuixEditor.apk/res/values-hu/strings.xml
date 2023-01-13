@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Gyakori kifejezések hozzáadása</string>
+    <string name="edit_frequent_phrases">A gyakori kifejezések szerkesztése</string>
+    <string name="frequent_phrases">Gyakori kifejezések</string>
+    <string name="query">Keresés</string>
+    <string name="select">Kiválasztás</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

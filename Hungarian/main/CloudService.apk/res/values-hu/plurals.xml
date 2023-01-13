@@ -36,10 +36,6 @@
         <item quantity="other">%d perce</item>
         <item quantity="one">1 perce</item>
     </plurals>
-    <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">Nem sikerült szinkronizálni %s elemet</item>
-        <item quantity="one">Nem sikerült szinkronizálni %s elemet</item>
-    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d tiltólista bejegyzés</item>
         <item quantity="one">%d tiltólista bejegyzés</item>
@@ -68,10 +64,6 @@
         <item quantity="other">%d üzenet</item>
         <item quantity="one">%d üzenet</item>
     </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d dal</item>
-        <item quantity="one">%d dal</item>
-    </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d jegyzet</item>
         <item quantity="one">%d jegyzet</item>
@@ -92,10 +84,6 @@
         <item quantity="other">%d felvétel</item>
         <item quantity="one">%d felvétel</item>
     </plurals>
-    <plurals name="dirty_secretphoto_count">
-        <item quantity="other">%d rejtett fénykép nincs szinkronizálva. Megőrzésük érdekében, szinkronizálásuk után jelentkezzen ki, ellenkező esetben az elemek törlésre kerülnek.</item>
-        <item quantity="one">%d rejtett fénykép nincs szinkronizálva. Megőrzésük érdekében, szinkronizálásuk után jelentkezzen ki, ellenkező esetben az elemek törlésre kerülnek.</item>
-    </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d Wi-Fi hálózat</item>
         <item quantity="one">%d Wi-Fi hálózat</item>
@@ -104,9 +92,25 @@
         <item quantity="other">%d WLAN networks</item>
         <item quantity="one">%d WLAN network</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">%s óra</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s perc</item>
+        <item quantity="one">%s perc</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s másodperc</item>
+        <item quantity="one">%s másodperc</item>
+    </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Próbálja újra %d másodperc múlva</item>
         <item quantity="one">Próbálja újra %d másodperc múlva</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">Nem sikerült szinkronizálni %s elemet</item>
+        <item quantity="one">Nem sikerült szinkronizálni %s elemet</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>

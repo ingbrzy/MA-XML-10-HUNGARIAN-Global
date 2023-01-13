@@ -36,6 +36,10 @@
         <item quantity="other">%d perce</item>
         <item quantity="one">1 perce</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">Úgy tűnik, hogy %s hete nem készített mentést az elemekről. Készítsen mentéseket, hogy ne vesszen el semmi fontos.</item>
+        <item quantity="one">Úgy tűnik, hogy %s hete nem készített mentést az elemekről. Készítsen mentéseket, hogy ne vesszen el semmi fontos.</item>
+    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s mentés (%2$s)</item>
         <item quantity="one">%1$s mentés (%2$s)</item>
@@ -72,16 +76,16 @@
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d alkalmazás ezen a készüléken</item>
-        <item quantity="one">%d alkalmazás ezen a készüléken</item>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">%d alkalmazás biztonsági mentése megtörtént</item>
+        <item quantity="one">%d alkalmazás biztonsági mentése megtörtént</item>
     </plurals>
-    <plurals name="restore_app_order_normal">
-        <item quantity="other">Normál fontosságú: %d alkalmazás</item>
-        <item quantity="one">Normál fontosságú: %d alkalmazás</item>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">%d alkalmazás visszaállítva</item>
+        <item quantity="one">%d alkalmazás visszaállítva</item>
     </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">Kiemelt fontosságú: %d alkalmazás</item>
-        <item quantity="one">Kiemelt fontosságú: %d alkalmazás</item>
+    <plurals name="session_time_remain">
+        <item quantity="other">Nagyjából %s perc maradt</item>
+        <item quantity="one">Nagyjából %s perc maradt</item>
     </plurals>
 </resources>

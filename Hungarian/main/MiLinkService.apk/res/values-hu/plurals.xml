@@ -36,6 +36,14 @@
         <item quantity="other">%d perce</item>
         <item quantity="one">1 perce</item>
     </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d készülék</item>
+        <item quantity="one">%1$d készülék</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d készülék</item>
+        <item quantity="one">%1$d készülék</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
@@ -63,6 +71,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>

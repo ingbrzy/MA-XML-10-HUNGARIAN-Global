@@ -60,10 +60,6 @@
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
     </plurals>
-    <plurals name="miui_guide_accessibility_page_current_count">
-        <item quantity="other">%1$d/%2$d oldal</item>
-        <item quantity="one">%1$d/%2$d oldal</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>

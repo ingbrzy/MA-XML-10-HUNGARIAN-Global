@@ -23,6 +23,5 @@
     <string name="holiday_update_summary">Érintse meg a naptár adatainak frissítéséhez.</string>
     <string name="holiday_update_title">Frissítés érhető el</string>
     <string name="provider_label">Naptár</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">Naptár adatbázisának frissítése…</string>
 </resources>

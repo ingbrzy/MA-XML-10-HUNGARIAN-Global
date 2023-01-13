@@ -16,10 +16,6 @@
         <item>Kos</item>
         <item>21/3 - 19/4</item>
     </string-array>
-    <string-array name="bundesliga">
-        <item>2</item>
-        <item>Bundesliga</item>
-    </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>Rák</item>
@@ -37,39 +33,6 @@
     <string-array name="date_calculate_spinner">
         <item>Utána</item>
         <item>Előtte</item>
-    </string-array>
-    <string-array name="dates">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>Esemény idejében</item>
@@ -106,10 +69,6 @@
         <item>Dhul-Qadah</item>
         <item>Dhul-Hijjah</item>
     </string-array>
-    <string-array name="la_liga">
-        <item>3</item>
-        <item>La Liga</item>
-    </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>Oroszlán</item>
@@ -119,10 +78,6 @@
         <item>libra</item>
         <item>Mérleg</item>
         <item>23/9 - 23/10</item>
-    </string-array>
-    <string-array name="ligue_1">
-        <item>5</item>
-        <item>Ligue 1</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>Vasárnap</item>
@@ -137,6 +92,11 @@
         <item>pisces</item>
         <item>Halak</item>
         <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Ki</item>
+        <item>Minden eseményhez</item>
+        <item>Időérzékeny eseményekhez</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Mindig</item>
@@ -286,10 +246,6 @@
         <item>Skorpió</item>
         <item>24/10 - 22/11</item>
     </string-array>
-    <string-array name="serie_a">
-        <item>1</item>
-        <item>Serie A</item>
-    </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>Bika</item>
@@ -382,13 +338,6 @@
         <item>Auckland</item>
         <item>Fiji-szigetek</item>
         <item>Tonga</item>
-    </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>3 órával előtte</item>
-        <item>4 órával előtte</item>
-        <item>5 órával előtte</item>
-        <item>6 órával előtte</item>
-        <item>1 nappal előtte</item>
     </string-array>
     <string-array name="vikrami_samvat_month_names">
         <item>Chaitra</item>

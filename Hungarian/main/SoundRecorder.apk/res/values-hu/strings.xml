@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="access_denied_info">Túl sok próbálkozás. Várjon egy-két percet, majd próbálja újra.</string>
     <string name="actionbar_button_up_description">Vissza</string>
     <string name="add_remark_hint">Megjegyzését ide írja be</string>
     <string name="add_remark_tip">Koppintson megjegyzés hozzáadásához</string>
@@ -37,6 +38,7 @@
     <string name="alert_message_delete_record">Ha törli a felvételt a készülékéről, törölni fogja azt a Xiaomi Cloudból is. Biztosan törli most?</string>
     <string name="alert_message_delete_record_title">Törli a felvételt?</string>
     <string name="all_record">Összes felvétel</string>
+    <string name="allowed">Engedély megadva</string>
     <string name="am">DE</string>
     <string name="app_name">Hangrögzítő</string>
     <string name="app_record">Alkalmazás felvételek</string>
@@ -84,6 +86,8 @@
     <string name="dialog_privacy_revoke_tips">Miután visszavonta az engedélyt, az alkalmazás nem gyűjt többé adatokat, és az összes kapcsolódó adatot törli a kiszolgálókról. Ez gyakorlatilag használhatatlanná teheti az alkalmazást. Mégis visszavonja az engedélyt? A fiókbiztonság érdekében jelentkezzen be az i.mi.com weboldalra, mielőtt visszavonja a Xiaomi Cloud szolgáltatás engedélyét.</string>
     <string name="dialog_title_storage_full">Nincs elég tárhely</string>
     <string name="download">Letöltés</string>
+    <string name="download_pause">Letöltés megállítva. A folytatáshoz koppintson.</string>
+    <string name="downloading">Letöltés alatt. A megállításhoz koppintson.</string>
     <string name="duration_format_hour">%só</string>
     <string name="duration_format_minute">%sp</string>
     <string name="duration_format_second">%smp</string>
@@ -184,6 +188,7 @@
     <string name="head_set_tip_dialog_title">Belső mikrofon használata</string>
     <string name="icon_content_description">Párbeszédpanel ikonja</string>
     <string name="invalid_argument">Érvénytelen parancs</string>
+    <string name="invisible_mode_error_tip">Inkognitó mód kikapcsolása a Beállításokban a mikrofon használatához</string>
     <string name="item_view_role_description">Lap</string>
     <string name="keywords_search_call_record">Rögzítse a hívásokat, Rögzítse a hívást, Hívásrögzítés, Hívásrögzítések</string>
     <string name="keywords_search_record">Új felvétel;Rögzítés hozzáadása;Felvétel;Felvételek;Rögzítés;Rögzítések;Másolat;Másolás;Felvevő;Rögzítő;Beszédfelvevő;Beszédrögzítő;Hangrögzítő;Rögzítő alkalmazás;Felvevő alkalmazás;Hogyan készíthetek felvételt;Hogyan rögzíthetek hangot;Hol találom a hangrögzítőt;MIUI Hangrögzítő</string>
@@ -202,6 +207,7 @@
     <string name="low_battery_error_for_pad">%s alá csökkent az akkumulátor töltöttsége. Állítsa meg és mentse a felvételt az adatvesztés elkerülése érdekében.</string>
     <string name="low_battery_error_title">Akkumulátor lemerült</string>
     <string name="lyric_item_point_count">%1$d - %2$d</string>
+    <string name="manage_external_storage">Hozzáférés az összes fájlhoz</string>
     <string name="mark_point_list_title">Jelölések</string>
     <string name="material_clock_toggle_content_description">Válassza ki, hogy délelőtt vagy délután</string>
     <string name="material_hour_selection">Óra kiválasztása</string>
@@ -217,10 +223,11 @@
     <string name="material_timepicker_text_input_mode_description">Időbevitelhez váltson szövegbeviteli módba.</string>
     <string name="menu">Menü</string>
     <string name="message_file_size_error">A felvétel elérte a maximálisan %s támogatott hosszúságot</string>
-    <string name="mi_account_msg">Jelentkezzen be Mi-fiókkal fájljainak átírásához a felhőben és az első 60 perc ingyenes.</string>
+    <string name="mi_account_msg">Jelentkezzen be Xiaomi-fiókkal fájljainak átírásához a felhőben és az első 60 perc ingyenes.</string>
     <string name="mi_account_ok">Bejelentkezés</string>
-    <string name="mi_account_title">Bejelentkezés Mi-fiókkal</string>
+    <string name="mi_account_title">Bejelentkezés Xiaomi-fiókkal</string>
     <string name="midnight">Éjjel</string>
+    <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
@@ -293,6 +300,7 @@
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -319,12 +327,19 @@
     <string name="mtrl_picker_toggle_to_day_selection">Koppintson a nap kiválasztásához</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Váltás szövegbeviteli módra</string>
     <string name="mtrl_picker_toggle_to_year_selection">Koppintson az év kiválasztásához</string>
+    <string name="network_error_info">Hálózati hiba történt. Ellenőrizze hálózati beállításait és próbálja újra.</string>
+    <string name="network_timeout_info">Nem sikerült kapcsolódni a hálózathoz. Próbálja újra.</string>
     <string name="network_tip_dialog_cancel">Elutasítás</string>
     <string name="network_tip_dialog_content">A hangrögzítő megfelelő működéséhez internetkapcsolat szükséges. Folytatja?</string>
     <string name="network_tip_dialog_ok">Engedélyezés</string>
     <string name="network_tip_dialog_title">Internetkapcsolat szükséges</string>
     <string name="network_unavailable_tip">Csatlakozzon a hálózathoz és próbálja újra.</string>
     <string name="new_record_name">Új felvétel</string>
+    <string name="new_saf_permission_dialog_content">"A rögzítési jogosultságokat frisítettük. Adjon hozzáférést a Hangrögzítőnek a rögzített hívásokhoz.
+
+Hogyan adhatok jogousltságot?
+Koppintson a(z) \"%1$s\" parancsra, majd válassza ki a(z) \"%2$s\" elemet."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Következő</string>
     <string name="night">Este</string>
     <string name="no_content">Nincs megjeleníthető tartalom</string>
     <string name="no_file">Nincs felvétel</string>
@@ -333,6 +348,7 @@
     <string name="no_records">Még nincsenek itt felvételek</string>
     <string name="noon">Dél</string>
     <string name="normal_settings_pref_title">Általános beállítások</string>
+    <string name="not_allowed">Az engedély nincs megadva</string>
     <string name="not_set">Nincs beállítva</string>
     <string name="notification_message_all_paused">Várakozás Wi-Fi-kapcsolatra.</string>
     <string name="notification_playback">Felvétel visszajátszása…</string>
@@ -378,8 +394,17 @@
     <string name="pay_error_cancel">A fizetés törlésre került</string>
     <string name="pay_error_null">Fizetés végrehajtása sikertelen. Ellenőrizze fiókját.</string>
     <string name="pay_error_unknown">Ismeretlen hiba</string>
-	<string name="permission_dialog_cancel">Mégse</string>
-	<string name="permission_dialog_ok">Beállítások</string>
+    <string name="permission_desc">Engedélyek részletei</string>
+    <string name="permission_dialog_cancel">Mégse</string>
+    <string name="permission_dialog_ok">Beállítások</string>
+    <string name="permission_read_phone_state">Hozzáférés a készülékinfókhoz</string>
+    <string name="permission_read_phone_state_description">A hívásállapot eléréséhez, hogy hívásfogadáskor automatikusan leállíthassa a felvételt</string>
+    <string name="permission_record">Hanganyag rögzítése</string>
+    <string name="permission_record_description">A hangrögzítési szolgáltatások biztosításához</string>
+    <string name="permission_storage">Hozzáférés a tárhelyhez</string>
+    <string name="permission_storage_description">Felvételek kezeléséhez, valamint letöltésükhöz a felhőből</string>
+    <string name="permission_storage_description_for_download">Felvételek letöltéséhez a felhőből</string>
+    <string name="permission_storage_description_for_manage_files">Felvételek kezeléséhez</string>
     <string name="play_speed">%1$.1fX sebesség</string>
     <string name="playback_delete_records">Felvétel törlése</string>
     <string name="playback_share_records">Felvétel megosztása</string>
@@ -400,8 +425,10 @@
     <string name="preference_silent_mode">Csengőhang-némítás felvételkor</string>
     <string name="preference_status_bar_indicator_prompt">Jelenjen meg kék jelző a Képernyőzáron felvétel közben</string>
     <string name="preference_tip_rename">Felvétel automatikus átnevezése</string>
-    <string name="privacy_policy_title">Adatvédelmi Irányelvek</string>
-	<string name="privacy_settings">Adatvédelem</string>
+    <string name="privacy_policy_title">Adatvédelmi irányelvek</string>
+    <string name="privacy_settings">Adatvédelem</string>
+    <string name="progress">Lejátszási folyamatjelző sáv</string>
+    <string name="progressbar_title">Biztonsági problémák keresése…</string>
     <string name="recognition_button_add_to_queue">Hozzáadás a várólistához</string>
     <string name="recognition_button_cancel">Most nem</string>
     <string name="recognition_button_start">Szövegátirat</string>
@@ -469,6 +496,7 @@
     <string name="record_mark_point">%s megjelölése</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute">​</string>
+    <string name="record_permission_dialog_title">Mikrofon engedélyek szükségesek</string>
     <string name="record_quliaty_preference_title">Felvételminőség</string>
     <string name="record_resotre">Felvételek visszaállítása</string>
     <string name="recorder_record">Hang</string>
@@ -501,10 +529,11 @@
     <string name="rename_no_more_tip">Ne jelenjen meg újra</string>
     <string name="retry">Újra</string>
     <string name="runtime_permission_ungranted">Nem tudja használni a Hangrögzítőt nem megadott engedélyek miatt</string>
-	<string name="saf_permission_dialog_grant_permission_immediately">Beállítások</string>
-	<string name="saf_permission_dialog_later">Köszönöm nem</string>
-    <string name="saf_permission_dialog_no_more_tip">"Ne mutassa újra"</string>
-    <string name="saf_permission_dialog_title">Engedély szükséges</string>
+    <string name="saf_permission_dialog_content">Az Android korlátozásai miatt a Hangrögzítőnek engedélyre van szüksége más alkalmazások által készített felvételek eléréséhez. Engedélyezze a Hangrögzítő számára, hogy megtekintés céljából hozzáférjen ezekhez a felvételekhez.</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Beállítások</string>
+    <string name="saf_permission_dialog_later">Nem, köszönöm</string>
+    <string name="saf_permission_dialog_no_more_tip">Ne jelenjen meg újra</string>
+    <string name="saf_permission_dialog_title">Engedélyek szükségesek</string>
     <string name="saturday">Szombat</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
@@ -523,6 +552,7 @@
     <string name="search_tip_rename">Felvétel automatikus átnevezése</string>
     <string name="send">Küldés</string>
     <string name="service_instructions">Az iflyrec.com bemutatása</string>
+    <string name="settings_saf_permission">Fájlkezelési engedélyek</string>
     <string name="share">Megosztás</string>
     <string name="share_dialog_title">Megosztás az alábbival</string>
     <string name="shortcut_records">Felvételek</string>
@@ -543,10 +573,13 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Rögzítés…</string>
     <string name="status_bar_recording_pause">A felvétel szüneteltetve.</string>
+    <string name="storage_permission_dialog_title">Tárhely engedélyek szükségesek</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
     <string name="sunday_shortest">Vas</string>
+    <string name="sync_desc_state_complete">Szinkronizálás a felhővel: %1$s</string>
+    <string name="system_error_info">A rendszer túlterhelt. Várjon 1-2 percet, majd próbálja újra.</string>
     <string name="tab_all">Összes</string>
     <string name="tab_apps">Alkalmazások</string>
     <string name="tab_call">Hívások</string>
@@ -608,6 +641,7 @@
     <string name="the_united_nations_day">Egyesült Nemzetek Napja</string>
     <string name="the_valentines_day">Valentin nap</string>
     <string name="the_water_lantern_festival">Vízi lámpásfesztivál</string>
+    <string name="this_folder">Jelenlegi mappa használata</string>
     <string name="thursday">Csütörtök</string>
     <string name="thursday_short">Csü</string>
     <string name="thursday_shortest">Csü</string>
@@ -628,11 +662,12 @@
     <string name="tuesday_shortest">Ked</string>
     <string name="uninstall_warning_content">A Hangrögzítő egy rendszeralkalmazás. Ha törli, nem tud majd hangot és hanghívásokat rögzíteni és átírni.</string>
     <string name="uninstall_warning_title">Törli a Hangrögzítőt?</string>
+    <string name="unknown_error_info">Ismeretlen hiba</string>
     <string name="usage_description">Audió átírása és elemek szinkronizálása a felhővel</string>
     <string name="user_feedback">Visszajelzés</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
-	<string name="view_privacy">Adatvédelmi irányelvek</string>
+    <string name="view_privacy">Adatvédelmi irányelvek megtekintése</string>
     <string name="webview_check_network">Hálózati beállítások</string>
     <string name="webview_data_error">Hiba történt</string>
     <string name="webview_locating_fail">Helymeghatározás sikertelen</string>
@@ -645,7 +680,5 @@
     <string name="wednesday_shortest">Sze</string>
     <string name="wifi_recommended_body" formatted="false">Ha (%s) fájlt mobilinterneten tölti le, megnőhet a forgalma. Ha túlhaladja a havi korlátot, a szolgáltatója plusz díjat számolhat fel. Ha Wi-Fi-vel szeretné letölteni, koppintson %s.</string>
     <string name="wifi_recommended_title">Adatforgalmi figyelmeztetés</string>
-	<string name="xiaomi_market_sdk_update_dialog_cancel">Most nem</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Frissítés</string>
     <string name="yesterday">Tegnap</string>
 </resources>

@@ -30,9 +30,4 @@
         <item>Háttérkép/Szuper háttérképek</item>
         <item>Szuper háttérképek;Háttérkép;Dinamikus háttérkép;3D háttérkép</item>
     </string-array>
-    <string-array name="settings_search_weather">
-        <item>Időjárás</item>
-        <item>Háttérkép/Szuper háttérképek/Időjárás</item>
-        <item>Időjárás;Időjárás infó;Szuper háttérkép;Háttérkép</item>
-    </string-array>
 </resources>

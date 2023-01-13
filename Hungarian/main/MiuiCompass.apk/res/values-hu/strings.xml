@@ -47,10 +47,12 @@
     <string name="calibrate_failed">A magasság kalibrálása sikertelen</string>
     <string name="calibrate_failed_no_location">Sikertelen kalibrálás</string>
     <string name="calibrate_failed_timeout">Nem sikerült csatlakozni a szerverhez</string>
+    <string name="calibrate_new_tip">Döntse meg a készüléket élésen, hogy a labda a kör szélén guruljon</string>
     <string name="calibrate_rotate_again">Próbálja újra</string>
     <string name="calibrate_success">Kalibrálva</string>
     <string name="calibrate_tip">Döntse meg a telefont, hogy a labda a kör szélén guruljon</string>
     <string name="calibrate_title">Iránytű kalibrálása</string>
+    <string name="calibrating">Iránytű kalibrálása</string>
     <string name="cancel">Mégse</string>
     <string name="cannot_get_location">--</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
@@ -225,8 +227,9 @@
     <string name="month_september_shortest">Szept</string>
     <string name="more">Továbbiak</string>
     <string name="morning">Reggel</string>
+    <string name="new_cta_app_purpose">útvonalak és koordináták megtekintése</string>
     <string name="new_cta_v2_app_purpose">Irányok, koordináták, légköri nyomás és aktuális magasság megjelenítése</string>
-    <string name="new_permission_camera_desc">Kalibrációhoz</string>
+    <string name="new_permission_camera_desc">Élő előnézetek megjelenítéséhez</string>
     <string name="new_permission_location_desc">A koordináták megjelenítéséhez</string>
     <string name="night">Este</string>
     <string name="noon">Dél</string>
@@ -236,6 +239,7 @@
     <string name="open_perm_msg">Az Iránytű számára hozzáférés szükséges a helyadatokhoz és a kamera adataihoz a koordináták meghatározása és az élő bemutatók miatt. Engedélyezi?</string>
     <string name="open_perm_msg_no_camera">Az Iránytűnek hozzá kell férnie a helyadatokhoz, hogy meghatározza a koordinátákat. Engedélyezi?</string>
     <string name="open_perm_title">Engedélyek szükségesek</string>
+    <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">Az azimuth megjelenítéséhez az élő előnézetben</string>
     <string name="permission_description">Engedélyek részletei</string>
     <string name="permission_location_desc">A koordináták megjelenítéséhez</string>

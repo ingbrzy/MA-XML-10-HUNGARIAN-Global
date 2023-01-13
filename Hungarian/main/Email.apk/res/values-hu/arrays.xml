@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="all_month_str">
-        <item>Jan</item>
-        <item>Febr</item>
-        <item>Márc</item>
-        <item>Ápr</item>
-        <item>Máj</item>
-        <item>Jún</item>
-        <item>Júl</item>
-        <item>Aug</item>
-        <item>Szept</item>
-        <item>Okt</item>
-        <item>Nov</item>
-        <item>Dec</item>
-    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Ma este</item>
         <item>Holnap</item>
@@ -22,29 +8,12 @@
         <item>Jövő hónapban</item>
         <item>Válassza ki a dátumot</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>Apró</item>
-        <item>Kicsi</item>
-        <item>Normális</item>
-        <item>Nagy</item>
-        <item>Óriási</item>
-    </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Legutóbb megtekintett</item>
         <item>Formátum</item>
         <item>Név</item>
         <item>Küldő</item>
         <item>Beérkezés dátuma</item>
-    </string-array>
-    <string-array name="moveto_folder_sections">
-        <item>Rendszer</item>
-        <item>Gyakran használt</item>
-        <item>Összes mappa</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
-        <item>Újabb üzenet</item>
-        <item>Régebbi üzenet</item>
-        <item>Bejövő üzenetek</item>
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>Összes</item>

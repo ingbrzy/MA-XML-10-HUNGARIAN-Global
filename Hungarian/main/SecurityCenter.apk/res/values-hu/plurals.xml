@@ -40,6 +40,14 @@
         <item quantity="other">%d játék hozzáadva</item>
         <item quantity="one">%d játék hozzáadva</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d alkalmazás</item>
+        <item quantity="one">%d alkalmazás</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d alkalmazás</item>
+        <item quantity="one">%d alkalmazás</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">%3$d időpontban, %1$s és %2$s között engedélyezve</item>
         <item quantity="one">%3$d időpontban, %1$s és %2$s között engedélyezve</item>
@@ -55,6 +63,18 @@
     <plurals name="app_behavior_desc_deny_minute">
         <item quantity="other">%2$d alkalommal megtagadva %1$s időpontban.</item>
         <item quantity="one">%2$d alkalommal megtagadva %1$s időpontban.</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Engedélyezett %3$d alkalommal %1$s és %2$s között</item>
+        <item quantity="one">Engedélyezett %3$d alkalommal %1$s és %2$s között</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Használva %1$d percet</item>
+        <item quantity="one">Használva %1$d percet</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Használva %1$d percet eddig: %2$s</item>
+        <item quantity="one">Használva %1$d percet eddig: %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">%3$d üres üzenet visszaküldve %1$s és %2$s között</item>
@@ -132,6 +152,14 @@
         <item quantity="other">%s alkalmazást az Alkalmazások zárolása védi</item>
         <item quantity="one">%s alkalmazást az Alkalmazások zárolása védi</item>
     </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d alkalmazás, ideértve: %1$s</item>
+        <item quantity="one">%2$d alkalmazás, ideértve: %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d alkalommal</item>
+        <item quantity="one">%d alkalommal</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d alkalmazás csatlakozhat a hálózatra a háttérben</item>
         <item quantity="one">%d alkalmazás csatlakozhat a hálózatra a háttérben</item>
@@ -163,6 +191,10 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">%1$d percen belül</item>
         <item quantity="one">%1$d percen belül</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">A készülék teljesítménye alacsonyabb, mint %d pont. Optimalizálja most?</item>
+        <item quantity="one">A készülék teljesítménye alacsonyabb, mint %d pont. Optimalizálja most?</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Előretekerés %d másodperccel</item>
@@ -224,6 +256,10 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
         <item quantity="other">%2$d játék törlése (beleértve a következőt is: %1$s)</item>
         <item quantity="one">%2$d játék törlése (beleértve a következőt is: %1$s)</item>
     </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Automatikusan rögzítheti a legfontosabb pillanatokat, és videót készíthet a menet legjobb részeiről. Akár véglegesen is elmentheti őket minden egyes játékmenet után. A nem mentett videók %1$d nap után automatikusan törlődnek.</item>
+        <item quantity="one">Automatikusan rögzítheti a legfontosabb pillanatokat, és videót készíthet a menet legjobb részeiről. Akár véglegesen is elmentheti őket minden egyes játékmenet után. A nem mentett videók %1$d nap után automatikusan törlődnek.</item>
+    </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">%d AI-felvétel mentve a Játékgyorsítóba</item>
         <item quantity="one">%d AI-felvétel mentve a Játékgyorsítóba</item>
@@ -235,6 +271,14 @@ Ha újra bekapcsolja a mobiladat-kapcsolatot, a szolgáltatója további díjaka
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%d napja folyamatosan bejelentkezve</item>
         <item quantity="one">%d alkalommal bejelentkezve</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Rendben (%dmp)</item>
@@ -267,6 +311,22 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Szerezzen %d-napos próbaidőszakot</item>
         <item quantity="one">Szerezzen %d-napos ingyenes próbaidőszakot</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Legfeljebb %d alkalmazást adhat hozzá. Újrarendezéshez tartsa lenyomva.</item>
+        <item quantity="one">Legfeljebb %d alkalmazást adhat hozzá. Újrarendezéshez tartsa lenyomva.</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Ez a funkció a képernyő fényerejét %d perc inaktivitás után automatikusan csökkenti az energiatakarékosság érdekében. Bekapcsolva hagyja ezt a funkciót?</item>
+        <item quantity="one">Ez a funkció a képernyő fényerejét %d perc inaktivitás után automatikusan csökkenti az energiatakarékosság érdekében. Bekapcsolva hagyja ezt a funkciót?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">A képernyő fényerejének automatikus csökkentése az energiatakarékosság érdekében %d perc inaktivitás után</item>
+        <item quantity="one">A képernyő fényerejének automatikus csökkentése az energiatakarékosság érdekében %d perc inaktivitás után</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
@@ -321,8 +381,8 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
         <item quantity="one">%d alkalmazás megtalálva</item>
     </plurals>
     <plurals name="hints_scan_danger_result_with_number">
-        <item quantity="other">%d kockázat található! Javítsa azonnal!</item>
-        <item quantity="one">%d kockázat található! Javítsa azonnal!</item>
+        <item quantity="other">%d kockázat található</item>
+        <item quantity="one">%d kockázat található</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">Adathasználat követése %d alkalmazás esetén</item>
@@ -411,6 +471,10 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">Adjon meg legalább %d karaktert</item>
         <item quantity="one">Adjon meg legalább %d karaktert</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">A Hálózati sebesség gyorsítás időszakából %d nap van hátra. Újítsa meg a hálózat sebességproblémáinak elkerüléséért.</item>
@@ -632,6 +696,10 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
         <item quantity="other">elem</item>
         <item quantity="one">elem</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Mégse (%ds)</item>
+        <item quantity="one">Mégse (%ds)</item>
+    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s nap van hátra</item>
         <item quantity="one">%s nap van hátra</item>
@@ -671,6 +739,10 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
     <plurals name="privacy_permission_summary">
         <item quantity="other">%s alkalmazásnak tartós hozzáférése van</item>
         <item quantity="one">%s alkalmazásnak tartós hozzáférése van</item>
+    </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Engedélyezve %s alkalmazáshoz</item>
+        <item quantity="one">Engedélyezve %s alkalmazáshoz</item>
     </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s alkalommal</item>
@@ -745,8 +817,8 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
         <item quantity="one">%d nem hivatalos alkalmazás található</item>
     </plurals>
     <plurals name="result_virus_header">
-        <item quantity="other">%d vírus található</item>
-        <item quantity="one">%d vírus található</item>
+        <item quantity="other">%d rosszindulatú alkalmazás észlelve</item>
+        <item quantity="one">%d rosszindulatú alkalmazás észlelve</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Keresés %d alkalmazás között</item>
@@ -784,6 +856,10 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
         <item quantity="other">%d telefonszám</item>
         <item quantity="one">%d telefonszám</item>
     </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> töredék</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> töredék</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Frissítés érhető el %d alkalmazáshoz.</item>
         <item quantity="one">Frissítés érhető el %d alkalmazáshoz.</item>
@@ -791,6 +867,10 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
     <plurals name="summary_flow_verify">
         <item quantity="other">Az adatforgalmi kimutatás %d napja nem volt szinkronizálva a szolgáltatóval</item>
         <item quantity="one">Az adatforgalmi kimutatás %d napja nem volt szinkronizálva a szolgáltatóval</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%dmp)</item>
+        <item quantity="one">(%dmp)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elem biztonságos</item>
@@ -824,9 +904,19 @@ Most beszerezhet egy %d-napos próbaidőszakot!"</item>
         <item quantity="other">%d app</item>
         <item quantity="one">%d app</item>
     </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Már %d órája néz videókat.
+Tartson szünetet!"</item>
+        <item quantity="one">"Már %d órája néz videókat.
+Tartson szünetet!"</item>
+    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d megtekintés</item>
         <item quantity="one">%1$d megtekintés</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">%d kiválasztott alkalmazás törlése?</item>
+        <item quantity="one">%d kiválasztott alkalmazás törlése?</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">%d veszélyes alkalmazás</item>

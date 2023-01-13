@@ -56,6 +56,14 @@
         <item quantity="other">Maximálisan %d klónt hozhat létre egyszerre.</item>
         <item quantity="one">Maximálisan %d klónt hozhat létre egyszerre.</item>
     </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>Nem lehet csatlakozni a kamerához.&lt;br>Ez az alkalmazás &lt;font color=#FFCE16>&lt;b>%1$d másodpercen belül bezáródik&lt;/b>&lt;/font>. Ezután várjon egy vagy két percet, és próbálkozzon újra.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Nem lehet csatlakozni a kamerához.&lt;br>Ez az alkalmazás &lt;font color=#FFCE16>&lt;b>%1$d másodpercen belül bezáródik&lt;/b>&lt;/font>. Ezután várjon egy vagy két percet, és próbálkozzon újra.&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Ez a készülék túl forró most.&lt;br>The app will be closed in &lt;font color=#FFCE16>&lt;b>%1$d másodpercen belül bezáródik&lt;/b>&lt;/font>. A jelenlegi előrehaladás automatikusan el lett mentve.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ez a készülék túl forró most.&lt;br>Az alkalmazás &lt;font color=#FFCE16>&lt;b>%1$d másodpercen belül bezáródik&lt;/b>&lt;/font>. A jelenlegi előrehaladás automatikusan el lett mentve.&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d perc</item>
         <item quantity="one">%1$d perc</item>
@@ -99,6 +107,10 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
+    </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">A készülék túlmelegedett. A kamera %d másodperc múlva bezáródik. A fényképek vagy videók automatikusan mentésre kerülnek.</item>
+        <item quantity="one">A készülék túlmelegedett. A kamera %d másodperc múlva bezáródik. A fényképek vagy videók automatikusan mentésre kerülnek.</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s perc</item>

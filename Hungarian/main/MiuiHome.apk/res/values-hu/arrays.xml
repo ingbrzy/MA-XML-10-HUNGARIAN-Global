@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="animation_rate_entries">
+        <item>Nyugodt</item>
+        <item>Kiegyensúlyozott</item>
+        <item>Gyors</item>
+    </string-array>
     <string-array name="cell_layout_size_entries">
         <item>4x4</item>
         <item>4x5</item>
@@ -43,6 +48,13 @@
     <string-array name="gadget_weather_theme_type_entries">
         <item>Alapértelmezett</item>
         <item>Klasszikus</item>
+    </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Alapértelmezett</item>
+        <item>Kék</item>
+        <item>Zöld</item>
+        <item>Lila</item>
+        <item>Barna</item>
     </string-array>
     <string-array name="transformation_entries">
         <item>Csúsztatás</item>

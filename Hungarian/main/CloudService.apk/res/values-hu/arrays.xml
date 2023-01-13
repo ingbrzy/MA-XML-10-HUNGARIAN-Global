@@ -52,17 +52,10 @@
         <item>Alkalmazásadatok szinkronizálása</item>
         <item>Készülékkeresés</item>
     </string-array>
-    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
-        <item>Készüléke azonosításához</item>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
         <item>Készüléke megkereséséhez és elveszett módba való váltáshoz</item>
-    </string-array>
-    <string-array name="privacy_dialog_sync_runtime_perm_desc">
-        <item>Események szinkronizálásához</item>
-        <item>Üzenetek szinkronizálásához</item>
-        <item>Üzenetek szinkronizálásához</item>
-        <item>Névjegyek szinkronizálásához</item>
-        <item>Névjegyek szinkronizálásához</item>
-        <item>Fájlok eszközre való mentéséhez (pl. képek, videók, zeneszámok)</item>
+        <item>A készülék helyének meghatározásához, ha nincs csatlakoztatva az internethez</item>
+        <item>A telefonszám eléréséhez, amellyel a készüléket meg lehet találni, ha az nincs csatlakoztatva az internethez</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Mentések</item>
@@ -108,11 +101,6 @@
         <item>Galériaszinkronizálás a Xiaomi Clouddal</item>
         <item>Szinkronizálás bekapcsolása/beállítása</item>
         <item>Galéria;Fényképek;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_music">
-        <item>Zeneszinkronizálás a Xiaomi Clouddal</item>
-        <item>Szinkronizálás bekapcsolása</item>
-        <item>Zene;Felhő;Szinkronizálás;Felhőszolgáltatás;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
         <item>Jegyzetszinkronizálás a Xiaomi Clouddal</item>
@@ -193,9 +181,5 @@
         <item>Sync WLAN settings with Xiaomi Cloud</item>
         <item>Turn on sync</item>
         <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
-    </string-array>
-    <string-array name="user_detail_fixed_items">
-        <item>A szinkronizált elemek megtekintése</item>
-        <item>A tárhely részletei</item>
     </string-array>
 </resources>

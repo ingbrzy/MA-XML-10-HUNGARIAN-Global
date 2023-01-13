@@ -36,6 +36,14 @@
         <item quantity="other">%d perce</item>
         <item quantity="one">1 perce</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">%d eredményt találtunk</item>
+        <item quantity="one">%d eredményt találtunk</item>
+    </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d személy</item>
+        <item quantity="one">%d személy</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>

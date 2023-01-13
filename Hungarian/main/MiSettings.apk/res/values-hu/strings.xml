@@ -65,6 +65,7 @@
     <string name="australian_magpie">Australian magpie</string>
     <string name="authorization_btn_text">Indítás</string>
     <string name="authorization_tips">Engedélyek szükségesek</string>
+    <string name="avalible_per_day">Munkamenet időtartama</string>
     <string name="baboon_info">The olive baboon lives in groups with developed social ranking depending on the dominance of each individual.</string>
     <string name="back">Vissza</string>
     <string name="bear_info">Bears are the largest land carnivores. They live in cold regions and are known for their keen sense of smell.</string>
@@ -114,6 +115,9 @@
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Capybaras are semiaquatic herbivore rodents who can hold their breath underwater for up to five minutes at a time.</string>
+    <string name="category_limit_notify_title">Figyelmeztetés a képernyőidőre</string>
+    <string name="category_list_expand">Továbbiak</string>
+    <string name="category_list_packup">Elrejtés</string>
     <string name="category_other">Egyéb</string>
     <string name="chacma_baboon">Chacma baboon</string>
     <string name="cheetah">Cheetah</string>
@@ -125,11 +129,14 @@
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="click_to_save">Tap \"Done\" to set a general ringtone.</string>
     <string name="close">Bezárás</string>
+    <string name="closed_high_refresh_options">Nagy frissítési frekvenciát nem használó alkalmazások</string>
     <string name="color_gamut">Színerősítés</string>
     <string name="common_brushtail">Brushtail possum</string>
     <string name="common_ostrich">Ostrich</string>
+    <string name="compulsor_tip">Kezdőképernyő</string>
     <string name="contact_description">Hívásindításhoz koppintson a Kezdőképernyő parancsikonra</string>
     <string name="contact_title">Névjegy parancsikonok</string>
+    <string name="continue_time">Munkamenet időtartama</string>
     <string name="contrast_ratio">Kontraszt</string>
     <string name="control_center_title">A mai nap képernyőideje</string>
     <string name="control_center_title_new">Ma használva</string>
@@ -141,6 +148,10 @@
     <string name="created_successfully">Sikeresen létrehozva</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">Beállítás</string>
+    <string name="customize_high_refresh_summary">Ez a funkció legfeljebb %d Hz frissítési frekvenciát támogat. A megfelelő frissítési sebesség automatikusan kiválasztható a készülék preferenciái szerint.</string>
+    <string name="customize_high_refresh_title">Nagy frissítési frekvenciát használó alkalmazások</string>
+    <string name="customize_radio_btn_summary">Kiválasztott frissítési ráta előnyben részesítése</string>
+    <string name="customize_radio_btn_title">Egyéni</string>
     <string name="dall_sheep">Dall sheep</string>
     <string name="dart_frog_info">Its bright blue skin and poisonous glands are defense mechanisms to potential predators.</string>
     <string name="date_picker_label_day" />
@@ -150,13 +161,20 @@
     <string name="date_time_picker_dialog_title">Dátum- és időbeállítás</string>
     <string name="dc_light_hint_enable_title">Figyelem</string>
     <string name="dc_light_hint_normal">A DC dimming hatással lehet egyes elemek megjelenítésére.</string>
+    <string name="dc_light_hint_normal_anit">A csíkozódáscsökkentő mód befolyásolhatja egyes elemek megjelenítését.</string>
+    <string name="dc_light_hint_normal_other">A csíkozódáscsökkentő mód befolyásolhatja a frissítési rátát és egyes elemek megjelenítésének módját.</string>
     <string name="dc_light_hint_other">A DC dimming befolyásolhatja a frissítési gyakoriságot és az egyes elemek megjelenítésének módját.</string>
-    <string name="dc_lignt_enable_hint">A villogásgátló mód a képernyő frissítési gyakoriságát 60 Hz-re állítja. Váltás villogásgátló módra?</string>
+    <string name="dc_light_hint_unnormal_low">A gyenge megvilágítású csíkozódáscsökkentő mód befolyásolhatja egyes elemek megjelenítését.</string>
+    <string name="dc_light_hint_unnormal_other">A gyenge megvilágítású csíkozódáscsökkentő mód befolyásolhatja a frissítési rátát és egyes elemek megjelenítésének módját.</string>
+    <string name="dc_lignt_enable_hint">A csíkozódáscsökkentő mód a képernyő frissítési gyakoriságát 60 Hz-re állítja. Váltás csíkozódáscsökkentő módra?</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
-    <string name="desktop_widget_authorization">Tap to grant permissions to be able to view stats</string>
-    <string name="desktop_widget_not_support">"Screen time stats
-aren't generated in Second space"</string>
-    <string name="desktop_widget_screen_use_time">Screen time</string>
+    <string name="desktop_widget_authorization">Koppintson, hogy jogosultságokat adjon a statisztikák megtekintéséhez</string>
+    <string name="desktop_widget_authorization_new">Koppintson a képernyőidő statisztikák megtekintéséhez</string>
+    <string name="desktop_widget_not_support">"Képernyőidő statisztika
+nem generálódik a Második asztalon"</string>
+    <string name="desktop_widget_screen_use_time">Képernyőidő</string>
+    <string name="device_limit_enable">Be</string>
+    <string name="device_limit_un_enable">Ki</string>
     <string name="display_description">Nagyobb ikonok, nagy szöveg és kevesebb vizuális zsúfoltság</string>
     <string name="display_title">Nagyobb elemek</string>
     <string name="dynamic_ringtone_desc">"We've explored different ecosystems and recreated their distinct sounds. Start exploring the sounds of nature with us!"</string>
@@ -287,14 +305,24 @@ aren't generated in Second space"</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d to %d perc</string>
     <string name="focus_mode_timer_pick_dialog_title">Időtartam megadása</string>
     <string name="focus_time_exception_tip">Úgy tűnik, hogy a rendszeridő megváltozott. Kikapcsolta a Fókusz módot.</string>
+    <string name="follow_apps_settings">Az alkalmazás beállításai alapján</string>
     <string name="follow_sim1">SIM 1 beállításainak alkalmazása</string>
-    <string name="fps_nature_summary">A maximum frissítési gyakoriság miatt minden éles és tiszta</string>
+    <string name="force_rest">Munkamenetek közti szünetek beépítése</string>
+    <string name="force_rest_summary">Kötelező szünetek tartása, ha a munkamenetek elérik a megadott limitet</string>
+    <string name="force_rest_time">Szünet időtartama</string>
+    <string name="fps_high">Magas</string>
+    <string name="fps_nature_summary">A maxamimum frissítési gyakoriság miatt minden éles és tiszta</string>
     <string name="fps_nature_title">Maximum</string>
+    <string name="fps_normal">Normál</string>
+    <string name="fps_radio_btn_title">Frissítési ráta</string>
+    <string name="fps_save_battery_tips">Az akkumulátorkímélő be van kapcsolva. A frissítési ráta %d Hz-re van állítva.</string>
     <string name="fps_smooth_summary">A magas frissítési gyakoriság egyértelműbbé teszi a részleteket</string>
     <string name="fps_smooth_title">Magas</string>
     <string name="fps_standard_summary">A standard frissítési gyakoriság kíméli az akkumulátort</string>
     <string name="fps_standard_title">Standard</string>
     <string name="fps_user_tip">- Tájékoztatásul, ezeket a bemutató animációkat kis sebességgel játsszuk le. A tényleges teljesítmény különböző tényezők alapján eltérő lehet.</string>
+    <string name="fps_user_tip_footer">"%1$d. A magasabb és alacsonyabb frissítési ráta közötti különbség megértéséhez a demókat itt lassabban játsszuk le. Lehet, hogy a rendszeres használat során nehezebben veszi észre a különbséget.
+%2$d. Bizonyos esetekben a frissítési ráta dinamikusan módosulhat a megjelenített elemek alapján."</string>
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
@@ -314,17 +342,33 @@ aren't generated in Second space"</string>
     <string name="green_peafowl">Green peafowl</string>
     <string name="green_warbler_finch">Green warbler-finch</string>
     <string name="grey_headed_flying_fox">Grey-headed flying fox</string>
+    <string name="guard_item_app_summary">Alkalmazások eltávolítása távolról</string>
+    <string name="guard_item_app_title">Alkalmazáskezelés</string>
+    <string name="guard_item_browser_summary">Az alkalmazásokhoz és tartalmakhoz való hozzáférés ellenőrzése</string>
+    <string name="guard_item_browser_title">Korlátozások</string>
+    <string name="guard_item_call_summary">Hívások engedélyezése bizonyos névjegyek számára</string>
+    <string name="guard_item_call_title">Kommunikáció</string>
+    <string name="guard_item_eye_protect_summary">A testtartás figyelése</string>
+    <string name="guard_item_eye_protect_title">Szemkomfort</string>
+    <string name="guard_range_from">Ettől</string>
+    <string name="guard_range_to">Eddig</string>
     <string name="harp_seal">Harp seal</string>
     <string name="harpy_eagle">Harpy eagle</string>
     <string name="has_applied">Applied</string>
     <string name="healthy_use_phone">Képernyőidő kezelése</string>
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">Magas képernyőfrissítési sebesség. Nagyobb energiafogyasztás.</string>
+    <string name="high_fps_tip_footer">A magasabb képfrissítési ráta használata zökkenőmentesebbé teszi a megtekintést, de több energiát fogyaszt.</string>
+    <string name="high_refresh_options_title">Támogatott alkalmazások</string>
     <string name="hippopotamus">Hippo</string>
+    <string name="holiday_limit">Szabadnapok</string>
     <string name="hsv_space_color">HSV színtér</string>
     <string name="hsv_space_color_hue">Hue (Színárnyalat)</string>
     <string name="hsv_space_color_saturation">Saturation (Telítettség)</string>
     <string name="hsv_space_color_value">Value (Érték)</string>
+    <string name="in_forbidden_period">A használat most korlátozott</string>
+    <string name="intelligent_radio_btn_summary">A frissítési ráta dinamikus beállítása a helyzetek alapján a teljesítmény és az energiafogyasztás kiegyensúlyozása érdekében</string>
+    <string name="intelligent_radio_btn_title">Alapértelmezett (ajánlott)</string>
     <string name="intelligent_recognition_item_summary">Használjon egyedi csengőhangot futár- és taxi szolgáltatók hívásaihoz. A funkció akkor fog működni, ha a(z) %s alapértelmezett csengőhangként van beállítva.</string>
     <string name="intelligent_recognition_item_title">Azonosító szolgáltatások</string>
     <string name="item_anura">Anura</string>
@@ -363,8 +407,11 @@ aren't generated in Second space"</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lion">Lion</string>
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
+    <string name="loading_error">Elemek betöltése sikertelen</string>
     <string name="lock_summary">Védje meg személyes adatait</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
+    <string name="low_flicker_mode">Gyenge fényviszonyok</string>
+    <string name="low_flicker_mode_summary">A villódzás megakadályozása gyenge fényviszonyok között a szem terhelésének csökkentése érdekében</string>
     <string name="low_fps_description">Alacsony képernyőfrissítési sebesség. Kisebb energiafogyasztás.</string>
     <string name="low_light_preview">Alacsony fény előnézet</string>
     <string name="lynx">Lynx</string>
@@ -374,6 +421,7 @@ aren't generated in Second space"</string>
     <string name="masked_palm_civet">Masked palm civet</string>
     <string name="medium_tree_finch">Medium tree finch</string>
     <string name="midnight">Éjjel</string>
+    <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
@@ -459,6 +507,8 @@ aren't generated in Second space"</string>
     <string name="nature_mix_summary">Create a custom mix</string>
     <string name="nazca_booby">Nazca booby</string>
     <string name="network_error">Hálózati hiba történt. Próbálja újra.</string>
+    <string name="new_customize_high_refresh_title">Nagy frissítési frekvencia</string>
+    <string name="next_day">"(Következő nap) "</string>
     <string name="night">Este</string>
     <string name="nine_banded_armadillo">Armadillo</string>
     <string name="no_matching">Nem található alkalmazás a hivatkozás megnyitásához</string>
@@ -466,6 +516,7 @@ aren't generated in Second space"</string>
     <string name="noon">Dél</string>
     <string name="normal_mode">Szokásos</string>
     <string name="normal_mode_summary">Ne csökkentse a villódzást alacsony fényviszonyok között</string>
+    <string name="normal_mode_summary_new">Villódzás engedélyezése gyenge fényviszonyok mellett</string>
     <string name="north_white_rhinoceros">White rhinoceros</string>
     <string name="norway_lemmings">Norway lemmings</string>
     <string name="norway_lemmings_info">The Norway lemming dwells in tundra and fells, and prefers to live near water.</string>
@@ -473,6 +524,7 @@ aren't generated in Second space"</string>
     <string name="notification_sound">Értesítési hangok</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Olive baboon</string>
+    <string name="opened_high_refresh_options">Nagy frissítési frekvenciát használó alkalmazások</string>
     <string name="orange_winged_amazon">Orange-winged amazon</string>
     <string name="orca">Killer whale</string>
     <string name="ostrich_info">Ostriches are large flightless birds of Africa who lay the largest eggs of any living land animal.</string>
@@ -481,7 +533,7 @@ aren't generated in Second space"</string>
     <string name="p3_color_region_summary">Az összes képernyőtartalom megjelenítése P3 színerősítéssel</string>
     <string name="pallas_s_cat">"Pallas's cat"</string>
     <string name="parasitic_jaeger">Parasitic jaeger</string>
-    <string name="personality_hint_ringtone">Personalized sounds</string>
+    <string name="personality_hint_ringtone">Személyre szabott hangok</string>
     <string name="petaurus_breviceps">Sugar glider</string>
     <string name="phoebastria_irrorata">Waved albatross</string>
     <string name="pied_butcherbird">Pied butcherbird</string>
@@ -497,7 +549,7 @@ aren't generated in Second space"</string>
     <string name="primary_color_region">Eredeti</string>
     <string name="primary_color_region_chinese_only">nature</string>
     <string name="primary_color_region_summary">Azonosítsa be a színerősítést a színkalibráción keresztül automatikusan</string>
-    <string name="privacy_policy">Adatvédelmi irányelv</string>
+    <string name="privacy_policy">Adatvédelmi irányelvek</string>
     <string name="puffin">Atlantic puffin</string>
     <string name="random_play_sound_alert">Értesítések érkezésekor hallani fogja a régió állatainak hangjait</string>
     <string name="red_billed_hornbill">Red-billed hornbill</string>
@@ -538,6 +590,7 @@ aren't generated in Second space"</string>
     <string name="sea_otter">Sea otter</string>
     <string name="seal_info">Seals are marine mammals that can move quickly in deep waters, feeding on fish and shrimps.</string>
     <string name="search_app_name">Alkalmazások keresése</string>
+    <string name="search_app_tips">Alkalmazások keresése</string>
     <string name="search_empty">Nem található alkalmazás</string>
     <string name="search_menu_title">Keresés</string>
     <string name="send">Küldés</string>
@@ -545,10 +598,17 @@ aren't generated in Second space"</string>
     <string name="several_days_use_time">Képernyőidő: %2$s</string>
     <string name="short_eared_owl">Short-eared owl</string>
     <string name="shortcut_created">Ez a parancsikon már létezik</string>
-    <string name="silent_ringtone_hint">Az audió némított. Emelje fel a hangerőt és próbálja meg újra.</string>
+    <string name="silent_ringtone_hint">Először kapcsolja ki a Néma módot</string>
     <string name="silver_pheasant">Silver pheasant</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">kB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skywalker_hoolock_gibbon">Skywalker hoolock gibbon</string>
     <string name="small_ground_finch">Small ground finch</string>
     <string name="sms_delivered_sound_title">Kézbesített üzenet</string>
@@ -557,6 +617,8 @@ aren't generated in Second space"</string>
     <string name="snowy_owl">Snowy owl</string>
     <string name="southern_elephant_seal">Southern elephant seal</string>
     <string name="southern_ground_hornbill">Ground hornbill</string>
+    <string name="split_page_authorization">Üdvözöli önt a Képernyőidő! Itt állíthatja be a képernyőidő-korlátokat és tekintheti meg a statisztikákat. A funkció bekapcsolásához koppintson az \"Indítás\" gombra.</string>
+    <string name="split_page_start">Indítás</string>
     <string name="spotted_hyaena">Spotted hyena</string>
     <string name="spotted_hyaena_info">Hyenas are nocturnal predators with the most complex social behaviours.</string>
     <string name="spur_winged_plover">Spur-winged lapwing</string>
@@ -567,6 +629,8 @@ aren't generated in Second space"</string>
     <string name="steady_on_screen_notification_title">Tegye le telefonját és tartson szünetet</string>
     <string name="steady_on_screen_notification_title_pad">Tegye le készülékét és tartson szünetet</string>
     <string name="steady_on_screen_notify">Értesítsen a zavartalan használatról</string>
+    <string name="steady_on_screen_notify_new">Tartson szünetet</string>
+    <string name="steady_on_screen_ntf_msg">Minden funkció újra elérhető lesz %1$s múlva</string>
     <string name="steady_on_screen_setting">A zavartalan munkamenetek időkorlátja</string>
     <string name="steady_on_screen_summary">A zavartalan munkamenetek időkorlátja</string>
     <string name="stop_app_timer">Képernyőidő kikapcsolása</string>
@@ -627,9 +691,16 @@ aren't generated in Second space"</string>
     <string name="thursday">Csütörtök</string>
     <string name="thursday_short">Csü</string>
     <string name="thursday_shortest">Csü</string>
+    <string name="time_over_back_home">Kezdőképernyő</string>
+    <string name="time_over_delayed_use">Mellőzés</string>
+    <string name="time_over_not_delayed_use">Rendben</string>
+    <string name="time_over_today">"Nem maradt több idő 
+mára"</string>
+    <string name="time_over_today_use">"Mai munkamenetek: "</string>
     <string name="time_picker_dialog_title">Időbeállítás</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="time_placeholder">--</string>
     <string name="title_activity_easy_mode">Egyszerű mód</string>
     <string name="title_mix_match_sound">Nature mix</string>
     <string name="title_mix_match_tips">Tap animals to listen to demos. You can add up to 5 animals to the mix.</string>
@@ -654,10 +725,11 @@ aren't generated in Second space"</string>
     <string name="tuesday_shortest">Ked</string>
     <string name="two_toed_sloths">Two-toed sloth</string>
     <string name="two_toed_sloths_info">Two-toed sloths can easily travel from tree to tree in the canopies of the rainforests.</string>
+    <string name="unavailable_per_day">Szünetek</string>
     <string name="unlock_times_per_day">"Napi átlag: "</string>
     <string name="unlock_times_per_hour">"Óránkénti feloldások: "</string>
     <string name="usage_agree">Elfogadom</string>
-    <string name="usage_app_desktop_widget_limit">%s remaining</string>
+    <string name="usage_app_desktop_widget_limit">%s maradt</string>
     <string name="usage_app_get_it">Rendben</string>
     <string name="usage_app_holiday_limit">Szabadnapok</string>
     <string name="usage_app_limit_alter_summary">Úgy tűnik, ez a határérték alacsonyabban van, mint az az idő, amennyit ma ezt az alkalmazást használta. Beállítja ezt a határértéket?</string>
@@ -673,12 +745,15 @@ aren't generated in Second space"</string>
     <string name="usage_app_over_content">Ön ma már %s időtartamig használta ezt az alkalmazást.</string>
     <string name="usage_app_over_summary">Elérte a határértéket! Lejárt az idő!</string>
     <string name="usage_app_set_limit_time">A határérték beállítása</string>
+    <string name="usage_app_stop_desc">A képernyőidő összes adata és engedélye, beleértve az egyéni beállításokat, valamint a kapcsolódó, lokálisan tárolt elemeket is, törlődik a funkció kikapcsolása után.</string>
     <string name="usage_app_system_app_summary">Rendszeralkalmazások esetében nem szabható meg képernyőidő-határérték</string>
     <string name="usage_app_weekday_limit">Hétköznapokon</string>
     <string name="usage_app_weekend_limit">Hétvégéken</string>
     <string name="usage_beat_fans">Jobb, mint %s Mi Rajongó</string>
     <string name="usage_continuous_days">Vonal</string>
     <string name="usage_creating_weekly_report">Heti jelentés létrehozása…</string>
+    <string name="usage_cta_desc">"Üdvözöljük a Beállítások oldalon! A képernyőidő és a fókuszmód statisztikáinak biztosításához az alkalmazásnak a következő adatokat kell gyűjtenie: a készülék feloldásának száma, az alkalmazások listája a megfelelő használati időtartammal együtt, a képernyő felkapcsolásának száma és a fókuszmód beállításai. Az összegyűjtött adatok csak lokálisan tárolódnak ezen a készüléken.
+"</string>
     <string name="usage_current_week_usage">%s átlagosan az elmúlt 7 napban</string>
     <string name="usage_device_limit_app_prolong">Idő hozzáadása</string>
     <string name="usage_device_limit_app_prolong_time1">20 perc hozzáadása</string>
@@ -686,8 +761,10 @@ aren't generated in Second space"</string>
     <string name="usage_device_limit_app_prolong_time3">60 perc hozzáadása</string>
     <string name="usage_device_limit_app_prolong_time4">Ma ne legyen limit</string>
     <string name="usage_device_limit_app_prolong_time5">Idő hozzáadása egyszer</string>
+    <string name="usage_device_limit_forbidden_period">A használat %1$s és %2$s között korlátozott</string>
     <string name="usage_device_limit_notifation_summary_start">%1$s belül el fogja érni a limitet</string>
     <string name="usage_device_limit_notifation_title">Hátralévő idő a mai napra</string>
+    <string name="usage_device_limit_start_forbidden_period">A használat %1$s és %2$s között korlátozva lesz (%3$s maradt)</string>
     <string name="usage_device_limit_time_over">Ön elérte a mai limitet (%1$s)</string>
     <string name="usage_exit">Kilépés</string>
     <string name="usage_focus_focus_premission_main_summary">Az alkalmazásnak hozzá kell férnie a fiókadatokhoz a Fókusz mód használati statisztikáinak rögzítéséhez.</string>
@@ -719,6 +796,8 @@ Az alkalmazásnak csatlakoznia kell az internethez és a következő engedélyek
     <string name="usage_home_premission_second_summary_double_link_prefix">Megvédjük az Ön személyes adatait a vonatkozó jogszabályokkal, szabályozásokkal és adatvédelmi irányelvekkel összhangban. Ha nem szeretné megadni ezeket az engedélyeket vagy megosztani, illetve feltölteni személyes adatait, nem fogja tudni használni az alkalmazást. A Képernyőidő > Beállítások > Képernyőidő kikapcsolása menüben visszavonhatja az engedélyt.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Az alkalmazás használata előtt olvassa el és fogadaj el a &lt;a href='%1s'>Felhasználói szerződést&lt;/a> és az &lt;a href='%2s'>Adatvédelmi irányelvet&lt;/a>.&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">Megvédjük az Ön személyes adatait a vonatkozó jogszabályokkal, szabályozásokkal és adatvédelmi irányelvekkel összhangban. Ha nem szeretné megadni ezeket az engedélyeket vagy megosztani, illetve feltölteni személyes adatait, nem fogja tudni használni az alkalmazást. A Képernyőidő > Beállítások > Képernyőidő kikapcsolása menüben visszavonhatja az engedélyt. Ha további kérdése van az adatvédelemmel kapcsolatban, írjon a privacy@xiaomi.com e-mail-címre.</string>
+    <string name="usage_new_category_limit_summary">Napi használati limit beállítása az összes alkalmazáshoz ebben a kategóriában</string>
+    <string name="usage_new_category_limit_title">Alkalmazáskategória használatának korlátozása</string>
     <string name="usage_new_home_app_limit_summary">Napi képernyőidő-korlát beállítása ezen alkalmazáshoz</string>
     <string name="usage_new_home_app_limit_title">A képernyőidő korlátozása</string>
     <string name="usage_new_home_average">"Átl. "</string>
@@ -779,7 +858,7 @@ Az alkalmazásnak a normális működés érdekében csatlakoznia kell az intern
     <string name="usage_runtime_summary">Ezekre az engedélyekre az alkalmazás alapfunkcióinak és szolgáltatásainak elérhetősége miatt van szükség.</string>
     <string name="usage_runtime_title">Kötelező engedélyek</string>
     <string name="usage_special_feature">Speciális funkciók</string>
-    <string name="usage_state_accurate_date">yyyy MMMM dd</string>
+    <string name="usage_state_accurate_date">yyyy. MMMM dd.</string>
     <string name="usage_state_add_up_count">Munkamenetek</string>
     <string name="usage_state_add_up_days">Napok</string>
     <string name="usage_state_add_up_time">Összes idő</string>
@@ -800,7 +879,7 @@ Az alkalmazásnak a normális működés érdekében csatlakoznia kell az intern
     <string name="usage_state_category">Kategóriák</string>
     <string name="usage_state_channel_mouth">Az elmúlt 30 napban</string>
     <string name="usage_state_channel_week">Az elmúlt 7 napban</string>
-    <string name="usage_state_date">MMM d</string>
+    <string name="usage_state_date">MMM. d.</string>
     <string name="usage_state_device_limit_summary">Napi képernyőidő-limitek beállítása a készülékre</string>
     <string name="usage_state_device_limit_title">Készülék képernyidő-limitjei</string>
     <string name="usage_state_device_noti_today_tip_title">Értesítések %1$d:00 és %2$d:00 között</string>
@@ -943,6 +1022,7 @@ Az alkalmazásnak a normális működés érdekében csatlakoznia kell az intern
     <string name="willow_grouse_info">The willow ptarmigan is herbivorous for most of its life and primarily occupies subalpine and subarctic habitats.</string>
     <string name="wolf">Wolf</string>
     <string name="wombat">Wombat</string>
+    <string name="workday_limit">Munkanapok</string>
     <string name="yellow_necked_spurfowl">Yellow-necked spurfowl</string>
     <string name="yellow_throated_marten">Yellow-throated marten</string>
     <string name="yesterday">Tegnap</string>
