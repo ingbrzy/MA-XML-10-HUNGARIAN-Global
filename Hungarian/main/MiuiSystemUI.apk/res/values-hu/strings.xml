@@ -1452,7 +1452,6 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a rendszergaz
     <string name="monitoring_description_personal_profile_named_vpn">Személyes alkalmazásai a következőn keresztül csatlakoznak az internethez: %1$s. Hálózati tevékenységei (pl. az e-mailek és a böngészési adatok) láthatók a VPN-szolgáltatója számára.</string>
     <string name="monitoring_description_two_named_vpns">Ez az eszköz a következőkön keresztül csatlakozik az internethez: %1$s és %2$s. Hálózati tevékenységei (pl. az e-mailek és a böngészési adatok) láthatók a rendszergazdája és VPN-szolgáltatója számára.</string>
     <string name="monitoring_description_vpn_settings">VPN-beállítások megnyitása</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"A(z) %1$s hozzáférhet az ehhez az eszközhöz tartozó adatokhoz, és módosíthatja az eszköz beállításait.
 
 Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
@@ -1531,7 +1530,6 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -1561,7 +1559,6 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="music_controls_no_title">Nincs cím</string>
     <string name="nav_bar">Navigációs sáv</string>
     <string name="nav_bar_layout">Elrendezés</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">%1$s képet küldött</string>
     <string name="new_notification_text_content_description">%1$s üzenetet küldött: %2$s</string>
     <string name="new_status_content_description">%1$s frissítette állapotát: %2$s</string>
@@ -1767,7 +1764,6 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="private_dns_mode_provider">Privát DNS-szolgáltató gazdagépneve</string>
     <string name="private_dns_mode_provider_failure">Nem sikerült kapcsolódni</string>
     <string name="private_dns_mode_provider_hostname_hint">Adja meg a DNS-szolgáltató gazdagépnevét</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Sikertelen csatlakozás. Kapcsolja ki az eszközt, majd kapcsolja be újra.</string>
     <string name="profile_info_settings_title">Profiladatok</string>
     <string name="qr_code_scanner_title">QR-kód beolvasása</string>
@@ -2107,8 +2103,6 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, MMM. d., E.</string>
     <string name="status_bar_clock_date_weekday_format">MMMM dd., EEEE</string>
     <string name="status_bar_clock_date_weekday_format_12">MMMM dd., EEEE</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"MMM. d.
 E"</string>
     <string name="status_bar_date_format_12">"MMM. d.

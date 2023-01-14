@@ -364,9 +364,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="download_method">Letöltés</string>
     <string name="download_no_application_title">Nem lehet megnyitni a fájlt</string>
     <string name="download_paused_in_power_save_mode">Bekapcsolt Akkumulátorkímélő esetén a letöltések szünetelnek</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Letöltés…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">Letöltés minősége</string>
     <string name="download_quality_summary">További beállítások a letölteni kívánt dalokhoz</string>
     <string name="download_queued">Várólistán</string>
@@ -475,9 +473,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="exo_media_action_repeat_all_description">Összes szám ismétlése</string>
     <string name="exo_media_action_repeat_off_description">Nincs ismétlés</string>
     <string name="exo_media_action_repeat_one_description">Egy szám ismétlése</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatív</string>
     <string name="exo_track_role_closed_captions">Felirat</string>
     <string name="exo_track_role_commentary">Kommentár</string>
@@ -877,7 +873,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -1173,7 +1168,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="privacy_authorize_revoking">Engedély visszavonása…</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
     <string name="privacy_policy">Adatvédelmi irányelvek</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=hu_HU</string>
     <string name="privacy_request_desc">"&lt;Data>A Mi Zene alkalmazásnak össze kell gyűjtenie a személyes adatokat, hogy online streamelési szolgáltatásokat nyújthasson Önnek. &lt;a href=\"%1$s\">Adatvédelmi irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. Bármikor visszavonhatja a Mi Zene Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban.
 Olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói feltételeinket&lt;/a> és &lt;a href=\"%1$s\">Adatvédelmi irányelvünket&lt;/a> a Mi Zene használata előtt.
 Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni az alkalmazás minden funkcióját használni; azonban az alapvető funkciókat továbbra is elérheti.&lt;/Data>"</string>
@@ -1354,7 +1348,6 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="start_to_download">Letöltés…</string>
     <string name="start_to_play">Készen a lejátszásra…</string>
     <string name="start_update">Új verzió telepítése…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Klónozott alkalmazások tárhelye</string>
     <string name="storage_internal">Belső tárhely</string>
     <string name="storage_sd_card">SD-kártya</string>
@@ -1528,7 +1521,6 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="user_agreement_hint_with_mobile">&lt;Data>Elolvastam és elfogadtam a Mi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelveit&lt;/a>, valamint &lt;a href=%3$s>a China Mobile hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>Elolvastam és elfogadtam a Mi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelveit&lt;/a>, valamint &lt;a href=%3$s>az eSurfing fiókhitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>Elolvastam és elfogadtam a Mi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelveit&lt;/a>, valamint &lt;a href=%3$s>a China Unicom hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=hu_HU</string>
     <string name="user_avatar_update_title">Profilkép módosítása</string>
     <string name="user_avatar_uploading">Egy pillanat…</string>
     <string name="user_experience_program_open">A szerzői jogi korlátozások miatt a letöltött dalok lejátszásához be kell jelentkeznie a Felhasználói élmény programba. Ezt a Beállítások > Jelszavak és biztonság > Adatvédelem > Jelentkezzen a felhasználói élmény programba.</string>

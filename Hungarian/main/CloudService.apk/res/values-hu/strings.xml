@@ -146,8 +146,6 @@
     <string name="feedback_custom_hint">Írja le a problémákat, amelyeket észlelt. Ha javaslatokat tesz, nagyra értékelnénk, ha részletekbe bocsájtkozna.</string>
     <string name="find_device">Készülékkeresés</string>
     <string name="find_device_dspt_provision">Elveszett készüléke helyének meghatározásához, zárolásához, illetve az adatok törléséhez látogasson el a(z) &lt;font color=#0097FF>%s&lt;/font> weboldalra. Ez a funkció bármikor ki- vagy bekapcsolható a Beállítások menüpontban.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">A Készülékkeresés bekapcsolásával ön elfogadja az <u><a href="app://com.miui.cloudservice.gdpr.license">Adatvédelmi irányelveinket</a></u>. Kapcsolja ki ezt a funkciót, ha szeretné visszavonni a hozzájárulását.</string>
     <string name="find_device_operation_failure_rpc">RPC hiba miatt nem sikerült végrehajtani a műveletet.</string>
     <string name="find_device_permissions_footer">Érintse meg az \"Engedélyezés\" gombot a kiválasztott engedélyek megadásához.</string>

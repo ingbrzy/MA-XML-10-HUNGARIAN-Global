@@ -352,17 +352,12 @@ készítéséhez érintse meg"</string>
     <string name="screen_editor_btn_save">Mentés</string>
     <string name="screen_editor_btn_shell_off">Eszközkeret eltávolítása</string>
     <string name="screen_editor_btn_shell_on">Eszközkeret hozzáadása</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Törli ezt a képernyőképet?</string>
     <string name="screen_editor_delete_dialog_picture_msg">Törli ezt a képet most?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Kész</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Nem lehet eszközkeretet hozzáadni a kivágott képernyőképekhez</string>
     <string name="screen_editor_shell_net_error">Csatlakozzon a hálózathoz az eszközkeret letöltéséhez</string>
     <string name="screen_editor_shell_res_downloading">Eszközkeret letöltése…</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Mégse</string>
     <string name="screen_save_dialog_btn_delete">Képernyőkép törlése</string>
     <string name="screen_save_dialog_btn_save">Mentés a Galériába</string>

@@ -182,7 +182,6 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Kínai hagyományos naptár</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Dátum- és időbeállítás</string>
     <string name="date_today">" (ma)"</string>
     <string name="date_view">Dátum</string>

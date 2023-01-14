@@ -4,11 +4,6 @@
         <item>Férfi</item>
         <item>Nő</item>
     </string-array>
-    <string-array name="customer_service">
-        <item>@string/customer_service_apply</item>
-        <item>@string/customer_service_complain</item>
-        <item>@string/customer_service_station</item>
-    </string-array>
     <string-array name="net_diag_err_link_quality">
         <item>Gyenge Wi-Fi-kapcsolat. Váltson vezeték nélküli sávot, vagy indítsa újra a routert.</item>
         <item>Nem lehet elérni a hálózatot. Csatlakozzon újra a Wi-Fi-hez, vagy indítsa újra a routert.</item>
@@ -62,11 +57,5 @@
     </string-array>
     <string-array name="net_diag_err_network_topology">
         <item>Ellenőrizze a router DHCP-beállításait és a vezetékes kapcsolatot</item>
-    </string-array>
-    <string-array name="reproductivity">
-        <item>@string/feedback_reproductivity_everytime</item>
-        <item>@string/feedback_reproductivity_often</item>
-        <item>@string/feedback_reproductivity_occasionally</item>
-        <item>@string/feedback_reproductivity_once</item>
     </string-array>
 </resources>
