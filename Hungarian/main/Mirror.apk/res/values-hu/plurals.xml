@@ -36,6 +36,18 @@
         <item quantity="other">%d perce</item>
         <item quantity="one">1 perce</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">%2$d fájl elutasítva, beleértve a következőt: %1$s</item>
+        <item quantity="one">%2$d fájl elutasítva, beleértve a következőt: %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">%2$d fájl fogadva, beleértve a következőt: %1$s</item>
+        <item quantity="one">%2$d fájl fogadva, beleértve a következőt: %1$s</item>
+    </plurals>
+    <plurals name="download_title_multi">
+        <item quantity="other">%2$d fájl, beleértve a következőt: %1$s</item>
+        <item quantity="one">%2$d fájl, beleértve a következőt: %1$s</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
