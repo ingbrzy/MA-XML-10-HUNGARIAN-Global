@@ -19,16 +19,6 @@
         <item>Xiaomi Fiók jelszavának módosítása</item>
         <item>Jelszómódosítás;Jelszó frissítése;Mi fiók;Fiók;Xiaomi Fiók</item>
     </string-array>
-    <string-array name="settings_search_cloud_space_share">
-        <item>Családi tárhely</item>
-        <item>Családi tárhely megtekintése/bekapcsolása</item>
-        <item>Családi tárhely;Tárhelymegosztás</item>
-    </string-array>
-    <string-array name="settings_search_family_service">
-        <item>Családi szolgáltatások</item>
-        <item>Családi szolgáltatások megtekintése/bekapcsolása</item>
-        <item>Család;családi szolgáltatások;Családi megosztás</item>
-    </string-array>
     <string-array name="settings_search_help_center">
         <item>Segítség</item>
         <item>Kérje a Xiaomi Fiók segítségét és támogatását</item>

@@ -32,7 +32,6 @@
     <string name="am">DE</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="close">Bezárás</string>
-    <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
     <string name="copy">Másolás</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +183,7 @@
     <string name="miui_feedback_edit_toast_module_required">Válasszon elemet</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Hosszabb részletezést írjon</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Válasszon kategóriát</string>
+    <string name="miui_feedback_edit_toast_screenshot_too_large">Nem tölthet fel 100 MB-nál nagyobb képet vagy videót</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Írja be az alkalmazás nevét</string>
     <string name="miui_feedback_main_answer_title">Erre a kérdésre már érkezett válasz</string>
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"Szerviz forródrót: 0120-300-521

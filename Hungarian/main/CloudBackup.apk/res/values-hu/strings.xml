@@ -152,8 +152,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_state_summary_china">A készüléknek kapcsolódnia kell a WLAN-hoz, töltés alatt és zárolva kell lennie</string>
     <string name="cloud_backup_detail_time">Utolsó mentés: %1$s</string>
     <string name="cloud_backup_detail_title">A mentés elemei</string>
-    <string name="cloud_backup_get_installed_apps_summary">For backing up and restoring Home screen apps</string>
-    <string name="cloud_backup_get_installed_apps_title">Access the list of apps installed on this device</string>
     <string name="cloud_backup_have_data">Mentés található a Xiaomi Cloudban</string>
     <string name="cloud_backup_in_cancel">Mégse</string>
     <string name="cloud_backup_in_process">Biztonsági mentés folyamatban</string>
@@ -172,9 +170,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_restore_summary">A kezdőképernyője visszaállításra kerül. Az elmentett alkalmazások automatikusan letöltődnek majd.</string>
     <string name="confirm_restore_title">Visszaállítás</string>
     <string name="copy">Másolás</string>
-    <string name="cta_dialog_all_purpose">Üdvözöljük, ez a Cloud-mentések! Ezzel az alkalmazással biztonsági másolatot készíthet a felhőbe a kezdőképernyő elrendezéséről, az alkalmazásokról, a rendszerbeállításokról és a WeChat adatairól. Ahhoz, hogy minden funkció előnyét ki tudja használni, győződjön meg róla, hogy a legújabb verziót használja.</string>
-    <string name="cta_dialog_permission_description_get_installed_apps">For backing up and restoring apps</string>
-    <string name="cta_dialog_permission_description_storage">Az elemek biztonsági mentéséhez és visszaállításához</string>
     <string name="customization"><u>Testreszabás</u></string>
     <string name="date_format">yyyy. MM. dd. HH:mm:ss</string>
     <string name="date_picker_label_day" />
@@ -402,6 +397,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Mentés kapcsolójának átváltása</string>
     <string name="other_device_main_space">Első asztal</string>
     <string name="other_device_second_space">Második asztal</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">Nem lehet visszaállítani az elemeket PC módban. Kapcsolja ki a PC módot, és próbálja újra.</string>
     <string name="permission_to_use">Engedélyek részletei</string>
     <string name="pm">DU</string>

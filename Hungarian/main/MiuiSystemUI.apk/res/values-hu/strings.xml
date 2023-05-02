@@ -629,6 +629,10 @@ Az eszközön lévő alkalmazással határozhatja meg, hogy mely eszközöket k�
     <string name="daltonizer_mode_protanomaly">Protanomália (piros– zöld)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomália (kék–sárga)</string>
     <string name="daltonizer_type_overridden">Felülírva erre: %1$s</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Rendben</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Ha kikapcsolja a MIUI optimalizálást és bekapcsolja az Akkumulátorkímélőt, a Sötét mód automatikusan bekapcsolódik.
+A Sötét mód kikapcsolásához kapcsolja ki az Akkumulátorkímélőt, vagy kapcsolja be a MIUI optimalizálást a Beállítások > Fejlesztői beállítások > MIUI optimalizálás bekapcsolása menüpontban."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Sötét mód</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
@@ -1452,6 +1456,7 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a rendszergaz
     <string name="monitoring_description_personal_profile_named_vpn">Személyes alkalmazásai a következőn keresztül csatlakoznak az internethez: %1$s. Hálózati tevékenységei (pl. az e-mailek és a böngészési adatok) láthatók a VPN-szolgáltatója számára.</string>
     <string name="monitoring_description_two_named_vpns">Ez az eszköz a következőkön keresztül csatlakozik az internethez: %1$s és %2$s. Hálózati tevékenységei (pl. az e-mailek és a böngészési adatok) láthatók a rendszergazdája és VPN-szolgáltatója számára.</string>
     <string name="monitoring_description_vpn_settings">VPN-beállítások megnyitása</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"A(z) %1$s hozzáférhet az ehhez az eszközhöz tartozó adatokhoz, és módosíthatja az eszköz beállításait.
 
 Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
@@ -1530,6 +1535,7 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -1559,6 +1565,7 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="music_controls_no_title">Nincs cím</string>
     <string name="nav_bar">Navigációs sáv</string>
     <string name="nav_bar_layout">Elrendezés</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">%1$s képet küldött</string>
     <string name="new_notification_text_content_description">%1$s üzenetet küldött: %2$s</string>
     <string name="new_status_content_description">%1$s frissítette állapotát: %2$s</string>
@@ -1764,6 +1771,7 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="private_dns_mode_provider">Privát DNS-szolgáltató gazdagépneve</string>
     <string name="private_dns_mode_provider_failure">Nem sikerült kapcsolódni</string>
     <string name="private_dns_mode_provider_hostname_hint">Adja meg a DNS-szolgáltató gazdagépnevét</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Sikertelen csatlakozás. Kapcsolja ki az eszközt, majd kapcsolja be újra.</string>
     <string name="profile_info_settings_title">Profiladatok</string>
     <string name="qr_code_scanner_title">QR-kód beolvasása</string>
@@ -1929,9 +1937,9 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="reboot_info_auto_boot_global">Következő ébresztés: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Ébresztés kikapcsolt állapotban: %s</string>
     <string name="recent_conversations">Legutóbbi beszélgetések</string>
-    <string name="recent_used_camera">Az alkalmazás használta a kamerát</string>
-    <string name="recent_used_camera_and_microphone">Az alkalmazás hangot rögzített és használta a kamerát</string>
-    <string name="recent_used_microphone">Az alkalmazás hangot rögzített</string>
+    <string name="recent_used_camera">Ez az alkalmazás hozzáfért a kamerához</string>
+    <string name="recent_used_camera_and_microphone">Ez az alkalmazás hozzáfért a kamerához és a mikrofonhoz</string>
+    <string name="recent_used_microphone">Ez az alkalmazás hozzáfért a mikrofonhoz</string>
     <string name="remaining_length_format">%1$s van hátra</string>
     <string name="remote_input_image_insertion_text">képet küldött</string>
     <string name="remove_from_settings">Eltávolítás a Beállítások közül</string>
@@ -2103,6 +2111,8 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, MMM. d., E.</string>
     <string name="status_bar_clock_date_weekday_format">MMMM dd., EEEE</string>
     <string name="status_bar_clock_date_weekday_format_12">MMMM dd., EEEE</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"MMM. d.
 E"</string>
     <string name="status_bar_date_format_12">"MMM. d.
@@ -2352,9 +2362,9 @@ Bármely felhasználó frissítheti az alkalmazásokat valamennyi felhasználó 
     <string name="user_setup_dialog_title">Beállít most egy felhasználót?</string>
     <string name="user_setup_profile_dialog_message">Létrehoz most egy profilt?</string>
     <string name="user_switch_to_user">Váltás erre: %s</string>
-    <string name="using_camera">Az alkalmazás használja a kamerát</string>
-    <string name="using_camera_and_microphone">Az alkalmazás hangot rögzít és használja a kamerát</string>
-    <string name="using_microphone">Az alkalmazás hangot rögzít</string>
+    <string name="using_camera">Ez az alkalmazás hozzáfér a kamerához</string>
+    <string name="using_camera_and_microphone">Ez az alkalmazás hozzáfér a kamerához és a mikrofonhoz</string>
+    <string name="using_microphone">Ez az alkalmazás hozzáfér a mikrofonhoz</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
     <string name="verify_apps_over_usb_summary">Az ADB/ADT útján telepített alkalmazások ellenőrzése kártékony viselkedésre.</string>

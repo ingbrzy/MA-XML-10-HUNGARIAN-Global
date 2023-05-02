@@ -2,9 +2,9 @@
 <resources>
     <string-array name="additional_cal_dialog_labels">
         <item>Egyik sem</item>
-        <item>Hijri Samvat</item>
-        <item>Shaka Samvat</item>
-        <item>Vikrami Samvat</item>
+        <item>Iszlám naptár</item>
+        <item>India nemzeti naptára</item>
+        <item>Vikram naptár</item>
     </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
@@ -29,6 +29,10 @@
     <string-array name="change_response_labels">
         <item>Csak ezt az eseményt</item>
         <item>Minden eseményt a sorozatban</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Kikapcsolás egyszer</item>
+        <item>Mindig kikapcsolva</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Utána</item>
@@ -78,6 +82,10 @@
         <item>libra</item>
         <item>Mérleg</item>
         <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Bekapcsolás egyszer</item>
+        <item>Mindig bekapcsolva</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>Vasárnap</item>
@@ -175,7 +183,7 @@
     </string-array>
     <string-array name="repeat_choose_weekday">
         <item>Hét</item>
-        <item>Kedd</item>
+        <item>Ke</item>
         <item>Sze</item>
         <item>Csü</item>
         <item>Pén</item>
@@ -389,7 +397,7 @@
     <string-array name="week_header_name">
         <item>VAS</item>
         <item>HÉT</item>
-        <item>KEDD</item>
+        <item>KE</item>
         <item>SZE</item>
         <item>CSÜ</item>
         <item>PÉN</item>

@@ -79,6 +79,8 @@
     <string name="cm_terms_title">Mobilhálózat Üzemeltetői Megállapodás</string>
     <string name="compass_introduction">Az alkalmazással navigálhat, valamint megtekinthet koordinátákat, a légnyomást és a magasságot.</string>
     <string name="congratulation_label">Készen áll a bevetésre!</string>
+    <string name="congratulation_pre_label">Egy pillanat…</string>
+    <string name="congratulation_pre_title">Rendszer előkészítése…</string>
     <string name="congratulation_swipe">Húzza felfelé a rendszerbe való belépéshez</string>
     <string name="congratulation_title">Beállítás kész</string>
     <string name="content_description_complete">Kész</string>
@@ -259,6 +261,7 @@ Features are subject to change. Some of the features above may not be available 
     <string name="midnight">Éjjel</string>
     <string name="mint_keyboard_oobe_checkbox">Elolvastam és elfogadom a Mint Keyboard adatvédelmi irányelveit</string>
     <string name="mint_keyboard_oobe_terms">Mint Keyboard adatvédelmi irányelvei</string>
+    <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">Nincs internetkapcsolat. Adatvédelmi Irányelvek megtekintése itt: %s.</string>
     <string name="miui_provision">Kezdeti beállítás</string>
     <string name="miui_terms_no_network">Önnek nincs internetkapcsolata. Tekintse meg a Felhasználói szerződést it: %s.</string>

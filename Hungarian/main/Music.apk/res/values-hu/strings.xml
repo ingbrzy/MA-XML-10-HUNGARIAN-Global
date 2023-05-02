@@ -40,35 +40,8 @@
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
-    <string name="access_denied_info">Túl sok próbálkozás. Várjon egy-két percet, majd próbálja újra.</string>
     <string name="account_and_cloud">Fiók</string>
-    <string name="account_crop_user_avatar">Kép vágása</string>
-    <string name="account_empty_user_name">Írja be a Mi Fiók felhasználónevét</string>
-    <string name="account_error_all_space_user_name">A felhasználónév nem tartalmazhat csak szóköz karaktert</string>
-    <string name="account_error_invalid_user_name">A név &lt;, >, vagy / jeleket nem tartalmazhat</string>
-    <string name="account_error_longer_user_name">A név nem lehet hosszabb 20 karakternél</string>
-    <string name="account_error_shorter_user_name">A névnek hosszabbnak kell lennie 2 karakternél</string>
-    <string name="account_error_user_birthday">A megadott születésnap hibás</string>
-    <string name="account_error_user_name">Ez a becenév érvénytelen. Próbálkozzon egy másikkal.</string>
-    <string name="account_invalid_user_avatar">Ez a fénykép érvénytelen formátumú. Próbálkozzon egy másikkal.</string>
-    <string name="account_limit_update_birthday">Most nem lehet frissíteni a születésnapot</string>
     <string name="account_logout">Kijelentkezés</string>
-    <string name="account_no_set">Egyik sem</string>
-    <string name="account_none_bind_info">Egyik sem</string>
-    <string name="account_none_user_name">Egyik sem</string>
-    <string name="account_secure_info_pref_title">Fiókadatok</string>
-    <string name="account_security_info_pref_title">Biztonsági információk</string>
-    <string name="account_user_avatar">Profilkép</string>
-    <string name="account_user_avatar_from_album">Galéria</string>
-    <string name="account_user_avatar_from_camera">Kamera</string>
-    <string name="account_user_base_info">Alapinformáció</string>
-    <string name="account_user_details">Személyes információ</string>
-    <string name="account_user_email">Helyreállítási e-mail-cím</string>
-    <string name="account_user_gender">Neme</string>
-    <string name="account_user_id">Mi Fiók azonosítója</string>
-    <string name="account_user_name">Becenév</string>
-    <string name="account_user_name_dialog_title">Adja meg a felhasználónevet</string>
-    <string name="account_user_phone">Helyreállítási telefonszám</string>
     <string name="action_item_add">Hozzáadás ehhez:</string>
     <string name="action_item_add_song">Hozzáadás a lejátszási listához</string>
     <string name="action_item_add_to_current_playlist">Várólista</string>
@@ -82,13 +55,13 @@
     <string name="action_item_play_all">Összes keverése</string>
     <string name="action_item_play_next">Lejátszás később</string>
     <string name="action_item_play_video">Videoklip lejátszása</string>
+    <string name="action_item_podcast">Podcast adatai</string>
+    <string name="action_item_podcast_speed">Visszajátszási sebesség</string>
     <string name="action_item_remove">Eltávolítás</string>
     <string name="action_item_remove_from_favorite">Eltávolítás a Kedvencek közül</string>
     <string name="action_item_share">Megosztás</string>
     <string name="action_settings">Beállítások</string>
     <string name="actionbar_button_up_description">Vissza</string>
-    <string name="activate_email_notice">Aktiválja fiókját 24 órán belül</string>
-    <string name="activity_not_found_notice">Nem található az alkalmazás</string>
     <string name="ad_close">Bezárás</string>
     <string name="ad_data_exception">Hirdetés adathiba</string>
     <string name="ad_recommend">Hirdetések megjelenítése</string>
@@ -98,7 +71,6 @@
     <string name="add_to_last_of_playlist">Hozzáadás a lejátszási lista végéhez</string>
     <string name="add_to_playlist">Hozzáadás a várólistához</string>
     <string name="add_to_playlist_successful">Sikeresen hozzáadva</string>
-    <string name="add_to_trust_device">Ez egy megbízható készülék</string>
     <string name="added_next_play">Hozzáadva a következő lejátszáshoz</string>
     <string name="afternoon">Délután</string>
     <string name="agreement_desc">Felhasználói szerződés (kötelező)</string>
@@ -156,7 +128,6 @@
     <string name="audio_ad_countdown">Hirdetés átugrása %s másodperc múlva</string>
     <string name="audio_ad_pass">Hirdetés átugrása</string>
     <string name="audio_picker_title">Dal választása</string>
-    <string name="auth_fail_warning">Időtúllépés történt. Jelentkezzen be újra.</string>
     <string name="auto_play_switch">Videók automatikus lejátszása</string>
     <string name="auto_play_toast">Az automatikus lejátszás be van kapcsolva. Ezt kikapcsolhatja a Beállításokban.</string>
     <string name="auto_recommend">Automatikus (javasolt)</string>
@@ -166,6 +137,7 @@
     <string name="autoplay_is_off">Automatikus lejátszás kikapcsolva</string>
     <string name="autoplay_is_on">Automatikus lejátszás bekapcsolva</string>
     <string name="available_playlist_name_format">Új lejátszási lista %d</string>
+    <string name="avatar">Profilkép</string>
     <string name="avoid_to_use_traffic_summary">Ne használjon mobil-adatkapcsolatot a zenehallgatáshoz</string>
     <string name="avoid_to_use_traffic_title">Figyelmeztessen, mikor mobiladat-kapcsolatot használ zenelejátszáshoz</string>
     <string name="back">Vissza</string>
@@ -187,9 +159,7 @@
     <string name="cancel">Mégse</string>
     <string name="cancel_running_download">Mégse</string>
     <string name="cannot_download_to_sdcard_hint">Szerzői jogi korlátozások miatt nem tölthetők le az elemek az SD-kártyára. Az elemek a belső tárhelyre kerülnek letöltésre.</string>
-    <string name="change_activate_email">E-mail cím megváltoztatása</string>
     <string name="change_download_quality">Letöltés minőségének módosítása</string>
-    <string name="change_password">Jelszó módosítása</string>
     <string name="character_counter_content_description">Begépelt karakterszám: %2$d/%1$d</string>
     <string name="character_counter_overflowed_content_description">Maximális karakterszám túllépve: %2$d/%1$d</string>
     <string name="checking_new_version">Frissítések keresése…</string>
@@ -206,7 +176,6 @@
     <string name="click_to_shuffle">Lejátszás keverve</string>
     <string name="close">Bezárás</string>
     <string name="close_music_time">"Hátralévő idő: "</string>
-    <string name="collect_diagnosis_log">Naplók gyűjtése</string>
     <string name="columbus_ad_flag_text">REKLÁM</string>
     <string name="columbus_skip_ad">Kihagyás</string>
     <string name="comment_format" formatted="false">%s: %s</string>
@@ -229,7 +198,6 @@
     <string name="common_signin_button_text">Bejelentkezés</string>
     <string name="common_signin_button_text_long">Bejelentkezés Google-fiókkal</string>
     <string name="confirm">OK</string>
-    <string name="confirm_activate_email">Ellenőrizve</string>
     <string name="confirm_exit">Menti a módosításokat?</string>
     <string name="connect_now">Csatlakozás</string>
     <string name="connecting_apk">Csatlakozás…</string>
@@ -272,10 +240,6 @@
     <string name="desktop_lyric_textsize">Szöveg</string>
     <string name="device_connected">Csatlakoztatva</string>
     <string name="device_not_connected">Nincs csatlakoztatva</string>
-    <string name="diagnosis_log_send_failed">Naplók küldése sikertelen. Próbálja újra.</string>
-    <string name="diagnosis_log_sent_format">"A naplók sikeresen elküldésre kerültek.
-Azonosító:%s
-Küldje el ezt a kódot a vezetőjének."</string>
     <string name="dialog_cannot_resume">Letöltés megszakítva, nem folytatható.</string>
     <string name="dialog_clear_history">Törli a legutóbb lejátszott dalok listáját?</string>
     <string name="dialog_confirm_delete_checkbox_message">A helyi fájlokat is törölje</string>
@@ -327,7 +291,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="discover_more_music">További dalok felfedezése</string>
     <string name="do_not_remind_this_version">Ne emlékeztessen erről a verzióról</string>
     <string name="do_not_support_google_voice_search">A Google Voice Search nem támogatott ezen az eszközön.</string>
-    <string name="doing_query_account">Fiókadatok ellenőrzése…</string>
     <string name="download">Letöltés</string>
     <string name="download_added_to_list">Letöltési listához adva</string>
     <string name="download_apk_desktop_installing">Telepítés</string>
@@ -364,7 +327,9 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="download_method">Letöltés</string>
     <string name="download_no_application_title">Nem lehet megnyitni a fájlt</string>
     <string name="download_paused_in_power_save_mode">Bekapcsolt Akkumulátorkímélő esetén a letöltések szünetelnek</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Letöltés…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Letöltés minősége</string>
     <string name="download_quality_summary">További beállítások a letölteni kívánt dalokhoz</string>
     <string name="download_queued">Várólistán</string>
@@ -432,12 +397,9 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="equalizer">Hangszínszabályzó</string>
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
-    <string name="error_dup_binded_email">Ez az e-mail cím már hozzá van rendelve egy másik Mi Fiókhoz.</string>
     <string name="error_icon_content_description">Hiba</string>
-    <string name="error_invalid_bind_address">A megadott e-mail cím érvénytelen.</string>
     <string name="error_not_support">Nem támogatott</string>
     <string name="evening">Délután</string>
-    <string name="exceed_binded_phone_times_notice">Ez a szám már hozzá van rendelve másik Mi Fiókhoz.</string>
     <string name="exo_controls_cc_disabled_description">Feliratok bekapcsolása</string>
     <string name="exo_controls_cc_enabled_description">Feliratok kikapcsolása</string>
     <string name="exo_controls_fastforward_description">Előretekerés</string>
@@ -450,17 +412,16 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="exo_controls_pause_description">Szüneteltetés</string>
     <string name="exo_controls_play_description">Lejátszás</string>
     <string name="exo_controls_playback_speed">Sebesség</string>
-    <string name="exo_controls_playback_speed_normal">Normál</string>
     <string name="exo_controls_previous_description">Előző</string>
-    <string name="exo_controls_repeat_all_description">Összes szám ismétlése</string>
-    <string name="exo_controls_repeat_off_description">Nincs ismétlés</string>
-    <string name="exo_controls_repeat_one_description">Egy szám ismétlése</string>
+    <string name="exo_controls_repeat_all_description">Jelenlegi: Összes ismétlése. Ismétlés mód be/ki.</string>
+    <string name="exo_controls_repeat_off_description">Jelenlegi: Nincs ismétlés. Ismétlés mód be/ki.</string>
+    <string name="exo_controls_repeat_one_description">Jelenlegi: Egy ismétlése. Ismétlés mód be/ki.</string>
     <string name="exo_controls_rewind_description">Visszatekerés</string>
     <string name="exo_controls_seek_bar_description">Lejátszási folyamat</string>
     <string name="exo_controls_settings_description">Beállítások</string>
     <string name="exo_controls_show">Lejátszásvezérlők mutatása</string>
-    <string name="exo_controls_shuffle_off_description">Keverés kikapcsolva</string>
-    <string name="exo_controls_shuffle_on_description">Keverés bekapcsolva</string>
+    <string name="exo_controls_shuffle_off_description">Keverés mód bekapcsolása</string>
+    <string name="exo_controls_shuffle_on_description">Keverés mód kikapcsolása</string>
     <string name="exo_controls_stop_description">Leállítás</string>
     <string name="exo_controls_vr_description">VR-mód</string>
     <string name="exo_download_completed">A letöltés befejeződött</string>
@@ -468,12 +429,17 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="exo_download_downloading">Letöltés folyamatban</string>
     <string name="exo_download_failed">Nem sikerült a letöltés</string>
     <string name="exo_download_notification_channel_name">Letöltések</string>
+    <string name="exo_download_paused">Letöltések szüneteltetve</string>
+    <string name="exo_download_paused_for_network">A letöltések hálózatra várakoznak</string>
+    <string name="exo_download_paused_for_wifi">A letöltések Wi-Fi-re várakoznak</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Összes szám ismétlése</string>
     <string name="exo_media_action_repeat_off_description">Nincs ismétlés</string>
     <string name="exo_media_action_repeat_one_description">Egy szám ismétlése</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatív</string>
     <string name="exo_track_role_closed_captions">Felirat</string>
     <string name="exo_track_role_commentary">Kommentár</string>
@@ -491,7 +457,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="expand_button_title">Speciális</string>
     <string name="expired">Lejárt</string>
     <string name="exposed_dropdown_menu_content_description">Legördülő menü megjelenítése</string>
-    <string name="facebook_login_btn_content_description">Bejelentkezés Facebook-kal</string>
     <string name="facebook_not_installed">Először telepítse a Facebook alkalmazást.</string>
     <string name="fail_to_fetch_payment_page_url">Nem sikerült lekérdezni a fizetési információt</string>
     <string name="fail_to_play">A dal nem játszható le</string>
@@ -587,7 +552,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="follow">Követés</string>
     <string name="followed">Követve</string>
-    <string name="for_diagnosis_usage_only">A hibanaplót csak diagnosztikai célra használják fel.</string>
     <string name="format_not_support">Ez a formátum nem támogatott.</string>
     <string name="format_unsupported_or_corrupted">A formátum nem támogatott vagy a fájl sérült.</string>
     <string name="fragment_title_artist_album">Albumok</string>
@@ -599,19 +563,19 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="get_more_favorite_content_after_login">Jelentkezzen be és fedezzen fel még több dalt és videót.</string>
     <string name="get_one_day_vip">You got %d-nap VIP!</string>
     <string name="get_one_hour_vip">Megkapta a(z) %d órás VIP-t!</string>
-    <string name="get_phone_verifycode_exceed_limit">Túl sok ellenőrző kód lett elküldve erre a telefonszámra. Várjon 24 órát és próbálja újra.</string>
     <string name="get_vip">Legyen VIP</string>
     <string name="go_agree">OK</string>
     <string name="google_account_login">Jelentkezzen be a Google-lal</string>
-    <string name="google_login_btn_content_description">Bejelentkezés Google-lal</string>
     <string name="goto_local_search">Keresés a készüléken</string>
     <string name="goto_online_search">Online keresés</string>
     <string name="handle_later">Most nem</string>
     <string name="hd_quality_audio">HD-minőségű zene</string>
-    <string name="header_help">Súgó</string>
     <string name="headset_and_audio_effect_category">Fülhallgatók és hanghatások</string>
     <string name="headset_and_audio_effect_summary">Fülhallgatók és hangszínszabályozó</string>
     <string name="headset_and_audio_effect_title">Fülhallgatók és hanghatások</string>
+    <string name="hgm_vip_btn_desc">Próba kezdése</string>
+    <string name="hgm_vip_high_quality">Jó minőségű letöltések</string>
+    <string name="hgm_vip_no_ads">Reklámok és korlátok nélkül</string>
     <string name="hide_album">Borítóelrejtés</string>
     <string name="hide_lyric">Szövegelrejtés</string>
     <string name="hifi_quality">Hi-Fi minőség</string>
@@ -623,6 +587,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="home_tab_local">Zenéim</string>
     <string name="home_tab_more_music">Még több zene</string>
     <string name="home_tab_online">Online zene</string>
+    <string name="home_tab_podcast">Podcastok</string>
     <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Keresés</string>
     <string name="hot_icon_in_fast_indexer">Hot</string>
@@ -656,7 +621,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="individuation_recommend_title">Ajánlások</string>
     <string name="individuation_setting_summary">Tartalomra vonatkozó javaslatok fogadása az érdeklődése alapján</string>
     <string name="individuation_setting_title">Személyre szabott ajánlatok</string>
-    <string name="input_email_address_notice">A fiókja ellenőrzéséhez ezt az e-mailt használjuk</string>
     <string name="input_hint_prefix">Mi legyen a %1$s?</string>
     <string name="installing_apk">Telepítés…</string>
     <string name="insufficient_space">Nincs elég szabad hely a készüléke belső tárhelyén</string>
@@ -718,7 +682,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="listen_anywhere">Hallgasson bárhol</string>
     <string name="load_shuffle">Betöltés…</string>
     <string name="loadercontainer_loading">Egy pillanat…</string>
-    <string name="loading">Egy pillanat…</string>
     <string name="loading_hint">Egy pillanat…</string>
     <string name="loading_reached_the_bottom">Egyelőre ennyi.</string>
     <string name="loading_text">Egy pillanat…</string>
@@ -729,15 +692,9 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="local_page_artist_more">%s további dalai</string>
     <string name="local_page_playlist">Lejátszási listák</string>
     <string name="local_page_song_download_history">Letöltések</string>
-    <string name="login_by_local_phone_long_text">Bejelentkezés most</string>
-    <string name="login_by_local_phone_short_text">Bejelentkezés</string>
     <string name="login_instantly">Bejelentkezés</string>
     <string name="login_mi_account_and_gain_more_rights">A további funkciókhoz való hozzáféréshez jelentkezzen be a Xiaomi Fiókba.</string>
-    <string name="login_other">Egy másik Mi Fiók</string>
     <string name="login_out_tip">Egyelőre nem tud kijelentkezni. Helyette törölheti az összes alkalmazásadatot.</string>
-    <string name="login_register_by_local_phone_long_text">Fiók létrehozása</string>
-    <string name="login_with_sns">Más bejelentkezési módok</string>
-    <string name="logout_account">Kijelentkezés</string>
     <string name="long_press_to_select_lyric">Nyomja hosszan a dal adatainak módosításához</string>
     <string name="lots_of_songs_for_free">Több millió dal ingyenes meghallgatása</string>
     <string name="low_sound_quality">Alacsony</string>
@@ -873,6 +830,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -917,17 +875,16 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="my_playlist_set_to_public">Közzététel</string>
     <string name="nav_app_bar_navigate_up_description">Navigálás felfelé</string>
     <string name="nav_app_bar_open_drawer_description">Navigációs fiók kinyitása</string>
+    <string name="need_to_close">Kevesebb megjelenítése</string>
+    <string name="need_to_show">Továbbiak megjelenítése</string>
     <string name="network_disable">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="network_error_and_retry">Csatlakozás sikertelen, érintse meg az újrapróbálkozáshoz</string>
-    <string name="network_error_info">Hálózati hiba történt. Ellenőrizze hálózati beállításait és próbálja újra.</string>
     <string name="network_request_error">Nem lehet csatlakozni a hálózathoz</string>
     <string name="network_settings_error">Nem lehet csatlakozni a hálózathoz</string>
-    <string name="network_timeout_info">Nem sikerült kapcsolódni a hálózathoz. Próbálja újra.</string>
     <string name="network_traffic">Adatforgalom</string>
     <string name="next_time">Most nem</string>
     <string name="next_to_play">Következőig</string>
     <string name="night">Este</string>
-    <string name="no_account">Nincs bejelentkezve</string>
     <string name="no_album_info">Nincs adat az albumról</string>
     <string name="no_artist_info">Nincs adat az előadóról</string>
     <string name="no_downloads">Nincsenek letöltések</string>
@@ -1013,15 +970,45 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="only_pro_can_choose_hd_sound_quality">A HD audió kizárólag Gold-tagok számára érhető el</string>
     <string name="open_online_service">A funkció használatához be kell kapcsolnia az online szolgáltatásokat. Bekapcsolja most?</string>
     <string name="open_service">Bekapcsolás</string>
-    <string name="open_settings">Beállítások</string>
     <string name="operation_done_close">Bezár</string>
     <string name="other_song_in_album">Más dalok erről az albumról</string>
     <string name="party">Buli</string>
     <string name="passport_access_denied">Hozzáférés megtagadva</string>
+    <string name="passport_account_crop_user_avatar">Kép vágása</string>
+    <string name="passport_account_empty_user_name">Adja meg a nevét</string>
+    <string name="passport_account_error_all_space_user_name">A név kizárólag különleges karaktereket tartalmazhat</string>
+    <string name="passport_account_error_invalid_user_name">A név nem tartalmazhat &lt;, >, vagy / karaktereket</string>
+    <string name="passport_account_error_longer_user_name">"Name can't be longer than %d characters"</string>
+    <string name="passport_account_error_shorter_user_name">Name must be longer than %d characters</string>
+    <string name="passport_account_error_user_name">Ez a becenév érvénytelen. Próbálkozzon egy másikkal.</string>
+    <string name="passport_account_invalid_user_avatar">Ez a fénykép érvénytelen. Próbálkozzon egy másikkal.</string>
     <string name="passport_account_name">"Fiók: %1$s "</string>
+    <string name="passport_account_no_set">Egyik sem</string>
+    <string name="passport_account_none_bind_info">Egyik sem</string>
+    <string name="passport_account_none_user_name">Egyik sem</string>
+    <string name="passport_account_secure_info_pref_title">Fiókadatok</string>
+    <string name="passport_account_security_info_pref_title">Biztonsági információk</string>
+    <string name="passport_account_user_avatar">Profilkép</string>
+    <string name="passport_account_user_avatar_from_album">Galéria</string>
+    <string name="passport_account_user_avatar_from_camera">Kamera</string>
+    <string name="passport_account_user_base_info">Alapvető információk</string>
+    <string name="passport_account_user_details">Személyes adatok</string>
+    <string name="passport_account_user_email">Helyreállítási e-mail-cím</string>
+    <string name="passport_account_user_gender">Nem</string>
+    <string name="passport_account_user_id">Xiaomi Fiók azonosító</string>
+    <string name="passport_account_user_name">Becenév</string>
+    <string name="passport_account_user_name_dialog_title">Adjon meg egy nevet</string>
+    <string name="passport_account_user_phone">Helyreállítási telefonszám</string>
+    <string name="passport_activity_not_found_notice">Nem található az alkalmazás</string>
+    <string name="passport_agree">Elfogadás</string>
     <string name="passport_area_code_title">Körzetszám</string>
+    <string name="passport_attention">Figyelem</string>
+    <string name="passport_auth_fail_warning">A munkamenet lejárt. Jelentkezzen be újra.</string>
+    <string name="passport_back">Vissza</string>
     <string name="passport_bad_authentication">Helytelen felhasználónév vagy jelszó</string>
     <string name="passport_can_not_recevie_verify_code">Nem kapta meg a kódot?</string>
+    <string name="passport_change_password">Jelszó módosítása</string>
+    <string name="passport_check_security">Biztonsági problémák keresése…</string>
     <string name="passport_checking_account">Jelszó ellenőrzése…</string>
     <string name="passport_clear_input">Beírt tartalom törlése</string>
     <string name="passport_copy_link">URL másolása</string>
@@ -1035,16 +1022,14 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="passport_dialog_nick_name_prefix">Becenév: %s</string>
     <string name="passport_dialog_phone_number_prefix">Telefonszám: %s</string>
     <string name="passport_dialog_register_other">Nem, csinálok egyet</string>
-    <string name="passport_email">E-mail-cím</string>
-    <string name="passport_empty_password">A jelszómező nem lehet üres</string>
+    <string name="passport_doing_query_account">Fiókadatok ellenőrzése…</string>
     <string name="passport_error_auth_fail">Időtúllépés történt. Jelentkezzen be újra.</string>
     <string name="passport_error_device_id">Nem kérhető le a készülékazonosító</string>
-    <string name="passport_error_dynamic_token_error">Az ellenőrző kód érvénytelen</string>
-    <string name="passport_error_email">A megadott e-mail cím érvénytelen</string>
-    <string name="passport_error_empty_email">Adja meg az e-mail címét</string>
+    <string name="passport_error_dup_binded_email">Ez az e-mail-cím már hozzá van rendelve egy másik Xiaomi Fiókhoz.</string>
     <string name="passport_error_empty_password">Írja be a jelszavát</string>
     <string name="passport_error_empty_pwd">A jelszómező nem lehet üres</string>
     <string name="passport_error_empty_user_id">Adja meg a felhasználónevét</string>
+    <string name="passport_error_invalid_bind_address">A megadott e-mail cím érvénytelen.</string>
     <string name="passport_error_length_limit">A megadott szöveg túl hosszú</string>
     <string name="passport_error_network">Nem sikerült csatlakozni a hálózathoz</string>
     <string name="passport_error_no_password_user">Önnek nincs beállított jelszava. Jelentkezzen be SMS segítségével.</string>
@@ -1058,40 +1043,73 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="passport_error_unknow_host_network_error">Nem tud csatlakozni a hálózathoz</string>
     <string name="passport_error_unknow_network_error">Hálózati hiba történt</string>
     <string name="passport_error_unknown">Ismeretlen hiba</string>
-    <string name="passport_error_user_agreement">Először fogadja el a Felhasználói szerződésünket</string>
     <string name="passport_error_user_name">A megadott felhasználónév helytelen</string>
     <string name="passport_error_user_password">A jelszavak nem egyeznek</string>
+    <string name="passport_exceed_binded_phone_times_notice">Ez a telefonszám már hozzá van rendelve egy másik Xiaomi Fiókhoz.</string>
+    <string name="passport_facebook_login_btn_content_description">Bejelentkezés Facebookkal</string>
+    <string name="passport_frequency_try_later">Túl sok próbálkozás. Várjon 1–2 percet, majd próbálja újra.</string>
     <string name="passport_get_login_type_next">Tovább</string>
-    <string name="passport_header_back">Vissza</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">Túl sok hitelesítő kód került elküldésre erre a számra. Várjon 24 órát és próbálja újra.</string>
+    <string name="passport_google_login_btn_content_description">Bejelentkezés Google-lal</string>
+    <string name="passport_help">Súgó</string>
+    <string name="passport_i_know">Értem</string>
     <string name="passport_identification_expired">Az ellenőrzőkód érvényessége lejárt. Kezdje újra.</string>
     <string name="passport_input_captcha_hint">Írja be a kódot</string>
+    <string name="passport_input_email_address_notice">Fiókja hitelesítéséhez ezt az e-mailt használjuk</string>
     <string name="passport_input_password_hint">Írja be a jelszót</string>
     <string name="passport_input_phone_number_hint">Adja meg a telefonszámot</string>
     <string name="passport_input_verify_code">Írja be az ellenőrzőkódot</string>
     <string name="passport_input_voice_captcha_hint">Adja meg az ellenőrző hangkódot</string>
     <string name="passport_input_voice_hint">Adja meg a hangkódot</string>
+    <string name="passport_login_by_local_phone_long_text">Bejelentkezés most</string>
+    <string name="passport_login_by_local_phone_short_text">Bejelentkezés</string>
+    <string name="passport_login_other">Másik Xiaomi Fiók</string>
+    <string name="passport_login_register_by_local_phone_long_text">Fiók létrehozása</string>
+    <string name="passport_login_with_sns">Más bejelentkezési módok</string>
+    <string name="passport_logout_account">Kijelentkezés</string>
     <string name="passport_mi_account_first_title">Automatikusan létrehozunk egy fiókot, ha először használja a telefonszámát.</string>
     <string name="passport_mi_account_title">Bejelentkezés Xiaomi Fiókkal</string>
-    <string name="passport_network_error">Hálózati hiba történt.</string>
+    <string name="passport_network_error">Hálózati hiba történt. Ellenőrizze a hálózati beállításait és próbálja újra.</string>
     <string name="passport_network_error_hint">Ellenőrizze az URL-t, és próbálja meg újra, vagy másolja ki az URL-t, és nyissa meg a böngészőben.</string>
+    <string name="passport_network_timeout">Nem sikerült kapcsolódni a hálózathoz. Próbálja újra.</string>
     <string name="passport_next">Következő</string>
+    <string name="passport_no_account">Nincs bejelentkezve</string>
+    <string name="passport_open_settings">Beállítások</string>
     <string name="passport_page_load_failed">Az oldal nem nyitható meg</string>
     <string name="passport_password_login_btn">Bejelentkezés</string>
     <string name="passport_password_not_show">Ne mutassa a jelszót</string>
-    <string name="passport_password_req_notice">A jelszónak 8-16 karakter hosszúnak kell lennie, és a következők közül legalább kettőt kell tartalmaznia: számjegyek, betűk és különleges karakterek (pl. 123abc@#, vagy 123abc, vagy abc@#).</string>
     <string name="passport_password_show">Jelszó megjelenítése</string>
+    <string name="passport_phone_auto_login_register_with_local_number">Fiók létrehozása</string>
+    <string name="passport_photo_picker_not_found">Nincs elérhető fénykép.</string>
+    <string name="passport_qq_login_btn_content_description">Bejelentkezés QQ-val</string>
     <string name="passport_querying_phone_info">Fiókadatok lekérése…</string>
     <string name="passport_quick_login_title">Írja be a jelszavát</string>
     <string name="passport_reging">Fiók létrehozása…</string>
+    <string name="passport_register_by_local_phone_long_text">Fiók létrehozása</string>
+    <string name="passport_register_by_local_phone_short_text">Fiók létrehozása</string>
     <string name="passport_register_restricted">Túl sok fiók van hozzárendelve ehhez a számhoz. Próbáljon egy másikat.</string>
     <string name="passport_relogin_notice">Újra be kell jelentkeznie</string>
+    <string name="passport_request_agree">Engedélyezés</string>
+    <string name="passport_request_camera_permission_message">Személyes adatait a vonatkozó törvényeknek és rendelkezéseknek megfelelően védjük. Ennek az alkalmazásnak a következő engedélyekre van szüksége a normál működéshez:&lt;br>&lt;br>&lt;b>Kamera használata (a profilkép beállításához)&lt;/b>&lt;br>&lt;br>Ha nem járul hozzá az engedélyek megadásához, nem fogja tudni használni az alkalmazás egyes funkcióit; alapfunkciói azonban továbbra is elérhetők lesznek az Ön számára. Az engedélyeket bármikor korlátozhatja vagy visszavonhatja a Beállításokban.</string>
+    <string name="passport_request_cancel">Mégse</string>
+    <string name="passport_request_error_invalid_token">Nem lehet hitelesíteni</string>
+    <string name="passport_request_error_network">Hálózati hiba történt. Ellenőrizze a hálózati beállításait és próbálja újra.</string>
+    <string name="passport_request_error_unknown">Rendszerhiba történt. Lépjen vissza és próbálja újra.</string>
+    <string name="passport_request_gallery_permission_message">Hozzáférés biztosítása a Galériához:&lt;br />Profilkép beállításához</string>
+    <string name="passport_resend_email_reach_limit_message">Túl sok hitelesítő e-mail-kérelem érkezett. Ellenőrizze, hogy a hitelesítő e-mail nem a Spam mappába került-e.</string>
+    <string name="passport_resend_email_reach_limit_title">Túl sok kísérlet</string>
     <string name="passport_resend_ticket">Kód újraküldése</string>
     <string name="passport_retry">Próbálja újra</string>
+    <string name="passport_same_new_and_old_pwd">Nem egyezhet meg a jelenlegi jelszóval</string>
     <string name="passport_send_sms_to">Kód elküldve %1$s címre</string>
     <string name="passport_send_too_many_code">Túl sok ellenőrző kód lett elküldve erre a számra. Várjon 24 órát és próbálja újra.</string>
     <string name="passport_sending_vcode">Kód küldése…</string>
-    <string name="passport_set_password">Állítson be jelszót</string>
+    <string name="passport_service_error">Kiszolgálóhiba</string>
     <string name="passport_set_password_no_phone_msg">Adja hozzá telefonszámát Mi Fiókjának erősebb védelméhez.</string>
+    <string name="passport_skip_query_account">Kihagyás</string>
+    <string name="passport_sns_access_token_expired_warning">A munkamenet lejárt. Jelentkezzen be újra a fiók újbóli csatlakoztatásához.</string>
+    <string name="passport_sns_bind_limit">Túl sok próbálkozás. Próbálkozzon másféle bejelentkezési módokkal.</string>
+    <string name="passport_system_error">A rendszer túlterhelt. Várjon 1–2 percet, majd próbálja újra.</string>
     <string name="passport_talkback_image_captcha">Ellenőrző képkód</string>
     <string name="passport_talkback_switch_image_captcha">Váltás képkódos ellenőrzésre</string>
     <string name="passport_talkback_switch_voice_captcha">Váltás hangkódos ellenőrzésre</string>
@@ -1100,11 +1118,26 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="passport_to_forget_password">Elfelejtette a jelszavát?</string>
     <string name="passport_to_password_login">Bejelentkezés jelszó használatával</string>
     <string name="passport_to_verify_code_login">Bejelentkezés SMS segítségével</string>
-    <string name="passport_unknow_host_network_error">Ellenőrizze a hálózati beállításokat, majd próbálja újra</string>
+    <string name="passport_unknown_error">Ismeretlen hiba</string>
+    <string name="passport_unknown_host_network_error">Ellenőrizze a hálózati beállításokat és próbálja újra</string>
+    <string name="passport_user_agreement_hint_3rd_app">&lt;Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, valamint a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile">&lt;Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%5$s>China Mobile hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom">&lt;Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>, valamint az &lt;a href=%5$s>eSurfing fiókhitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom">&lt;Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%5$s>China Unicom hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_default">&lt;Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_first_login">Amikor először használja a telefonszámát, automatikusan létrehozunk egy fiókot.</string>
+    <string name="passport_user_agreement_hint_with_mobile">&lt;Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%3$s>China Mobile hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_with_telecom">&lt;Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>, valamint az &lt;a href=%3$s>eSurfing fiókhitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_with_unicom">&lt;Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%3$s>China Unicom hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_avatar_update_title">Profilkép módosítása</string>
+    <string name="passport_user_avatar_uploading">Egy pillanat…</string>
     <string name="passport_user_id_hint">E-mail/Telefonszám/Xiaomi Fiók azonosító</string>
-    <string name="passport_user_id_intro">Adja meg a jelszót a következőhöz: %1$s</string>
+    <string name="passport_user_name_phone_number">Telefonszám</string>
     <string name="passport_user_password_hint">Jelszó</string>
+    <string name="passport_vcode_what_app_send_prompt">A WhatsApp ellenőrző kódját a helyreállítási telefonszámára küldjük (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Először telepítse a WeChat alkalmazást</string>
+    <string name="passport_weibo_login_btn_content_description">Bejelentkezés Weibóval</string>
+    <string name="passport_weixin_login_btn_content_description">Bejelentkezés WeChattel</string>
     <string name="passport_wrong_captcha">Az Ön által megadott kód helytelen</string>
     <string name="passport_wrong_phone_number_format">A beírt telefonszám formátuma nem megfelelő</string>
     <string name="passport_wrong_vcode">A beírt kód helytelen</string>
@@ -1127,8 +1160,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="permission_declaration_title">Hozzáférés engedélyezése</string>
     <string name="permission_open">Engedélyez</string>
     <string name="permission_required">Engedélyek szükségesek</string>
-    <string name="phone_auto_login_register_with_local_number">Fiók létrehozása</string>
-    <string name="photoPickerNotFoundText">Nincs elérhető fénykép.</string>
     <string name="pick_favorite_song">Kedvencek</string>
     <string name="pick_local_song">Helyi dalok</string>
     <string name="pick_recent_song">Legutóbb játszott</string>
@@ -1168,6 +1199,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="privacy_authorize_revoking">Engedély visszavonása…</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
     <string name="privacy_policy">Adatvédelmi irányelvek</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=hu_HU</string>
     <string name="privacy_request_desc">"&lt;Data>A Mi Zene alkalmazásnak össze kell gyűjtenie a személyes adatokat, hogy online streamelési szolgáltatásokat nyújthasson Önnek. &lt;a href=\"%1$s\">Adatvédelmi irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. Bármikor visszavonhatja a Mi Zene Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban.
 Olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói feltételeinket&lt;/a> és &lt;a href=\"%1$s\">Adatvédelmi irányelvünket&lt;/a> a Mi Zene használata előtt.
 Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni az alkalmazás minden funkcióját használni; azonban az alapvető funkciókat továbbra is elérheti.&lt;/Data>"</string>
@@ -1177,15 +1209,11 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="privacy_request_subtitle_offline">Üdvözli önt a Mi Music! Ez az alkalmazás helyi lejátszót kínál a hangfájlokhoz.</string>
     <string name="privacy_request_title">Felhasználási feltételek</string>
     <string name="pro_member">Gold-tagság</string>
-    <string name="progressbar_title">Biztonsági problémák keresése…</string>
     <string name="project_device">Mi Telefon</string>
     <string name="prompt_grant_write_settings_permission">Rendszerbeállítások módosításának engedélyezése</string>
-    <string name="protocal_dialog_confirm">Elfogad</string>
-    <string name="protocal_dialog_title">Figyelem</string>
     <string name="pulluprefreshrecyclerview_loading_error">Betöltés sikertelen</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Sikeresen betöltve</string>
     <string name="pulluprefreshrecyclerview_loading_running">Betöltés…</string>
-    <string name="qq_login_btn_content_description">Bejelentkezés QQ-val</string>
     <string name="queue_is_empty">A lejátszási várólista üres.</string>
     <string name="read_and_agree_hungama_protocol">&lt;Data>Elolvastam és elfogadtam a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Adatvédelmi irányelvét&lt;/a>&lt;/font>&lt;/Data></string>
     <string name="read_and_agree_joox_protocol">&lt;Data>Elolvastam és elfogadtam a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Adatvédelmi irányelveit&lt;/a>&lt;/font>&lt;/Data></string>
@@ -1198,8 +1226,6 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="recommended_file_size_download_in_mobile">Letölti ezt a %s méretű fájlt mobiladat-kapcsolat használatával?</string>
     <string name="recommended_no_file_size_download_in_mobile">Letölti ezt a fájlt mobiladat-kapcsolat használatával?</string>
     <string name="refresh">Frissítés</string>
-    <string name="register_by_local_phone_long_text">Fiók létrehozása</string>
-    <string name="register_by_local_phone_short_text">Fiók létrehozása</string>
     <string name="remove">Eltávolítás</string>
     <string name="remove_download">Eltávolítás</string>
     <string name="remove_user_privacy_dialog_message">A kapcsoló kikapcsolásával visszavonja hozzájárulását a Mi Music adatvédelmi irányelveihez. Megszüntetjük személyes adatainak gyűjtését. A már összegyűjtött és megőrzött személyes adatokat az alkalmazandó jogszabályi előírások alapján meghatározott időtartamon belül töröljük. A Mi Music az alapvető szolgáltatások biztosításához személyes adatokat kell, hogy összegyűjtsön. Az adatvédelmi irányelvekhez való hozzájárulásának visszavonása az összegyűjtött személyes adatok alapján a szolgáltatások elutasítását jelenti.</string>
@@ -1207,21 +1233,10 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="remove_user_privacy_dialog_title">Beleegyezés visszavonása</string>
     <string name="repeat_all_notif">Összes dal ismétlése.</string>
     <string name="repeat_current_notif">Jelenlegi dal ismétlése.</string>
-    <string name="request_agree">Engedélyezés</string>
-    <string name="request_camera_permission_message">Az Ön személyes adatait a vonatkozó jogszabályi rendelkezésekkel összhangban védjük. Ennek az alkalmazásnak a következő engedélyekre van szüksége a normál működéshez:&lt;br>&lt;br>&lt;b> A kamera használata (a profilfotója beállításához)&lt;/b>&lt;br>&lt;br>Amennyiben nem járul hozzá ezen engedélyek megadásához, akkor nem fogja tudni használni az alkalmazás egyes funkcióit; alapvető funkcionalitása azonban továbbra is elérhető lesz az Ön számára. A Beállítások alatt bármikor korlátozhatja vagy visszavonhatja engedélyeket.</string>
-    <string name="request_cancel">Mégse</string>
-    <string name="request_error_invalid_token">Nem lehet ellenőrizni</string>
-    <string name="request_error_network">Hálózati hiba történt. Ellenőrizze a hálózati beállításait és próbálja újra.</string>
-    <string name="request_error_unknown">Rendszerhiba történt. Lépjen vissza és próbálja újra.</string>
-    <string name="request_gallery_permission_message">Hozzáférés biztosítása a Galériához:&lt;br />Profilkép beállításához</string>
     <string name="request_overlay_permission_desc">Engedélyezze, hogy a Mi Zene lebegő ablakokat mutasson ezen funkció használatáért.</string>
     <string name="request_privacy_permission_title">Olvassa el és fogadja el az alábbi felhasználási feltételeket, hogy minden szolgáltatást elérjen.</string>
     <string name="request_share_info">Egy pillanat…</string>
     <string name="request_subscription_status">Egy pillanat…</string>
-    <string name="resend_active_email">Újraküldés</string>
-    <string name="resend_email_reach_limit_message">Túl sok ellenőrző e-mail kérelem érkezett. Ellenőrizze, hogy az ellenőrző e-mail nem a Spam mappába került.</string>
-    <string name="resend_email_reach_limit_title">Túl sok kísérlet</string>
-    <string name="resend_email_success">Sikeresen elküldve</string>
     <string name="restart_immediate">Újraindítás</string>
     <string name="retry">Próbálja újra</string>
     <string name="retry_after_network_available">Nem lehet csatlakozni a hálózathoz. Ellenőrizze a kapcsolatot és próbálja újra.</string>
@@ -1241,7 +1256,6 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="s5">Naptáresemény létrehozása</string>
     <string name="s6">Engedélyezi a hirdetés számára naptáresemény létrehozását?</string>
     <string name="s7">Teszthirdetés</string>
-    <string name="same_new_and_old_pwd">Nem egyezhet meg a jelenlegi jelszóval</string>
     <string name="saturday">Szombat</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
@@ -1267,6 +1281,7 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Dalok keresése</string>
     <string name="search_songs_count">Dal: %d</string>
+    <string name="see_more_videos">További videók</string>
     <string name="select">Kiválasztás</string>
     <string name="select_all">Az összes kiválasztása</string>
     <string name="select_clip_desc">Válasszon egy klipet a dalból</string>
@@ -1282,11 +1297,8 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="select_three_languages">Legfeljebb %d nyelvet választhat ki</string>
     <string name="selected_count">%1$d kijelölve, ennyiből: %2$d</string>
     <string name="send">Küldés</string>
-    <string name="send_diagnosis_log">Hibanapló elküldése</string>
-    <string name="send_email_activate_message">Ellenőrző e-mail sikeresen elküldve</string>
     <string name="send_to_title">Küldés neki (%1$s)</string>
     <string name="service_and_settings">Szolgáltatás és beállítások</string>
-    <string name="service_error">Szerverhiba</string>
     <string name="set_as_alarm_clock_ringtone">Riasztás</string>
     <string name="set_as_ring">Beállítás csengőhangnak</string>
     <string name="set_online_home_subtitle">Online ajánlások megnyitása az alkalmazás indításakor</string>
@@ -1309,6 +1321,8 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="share_song">Megosztás</string>
     <string name="share_text_list">"Lejátszási lista a Mi Zenéből: "</string>
     <string name="share_text_song">"Dal a Mi Zenében: "</string>
+    <string name="shortcut_get">Megtekintés</string>
+    <string name="shortcut_success">Sikeresen létrehozva. Tekintse meg a Kezdőképernyőn.</string>
     <string name="show_float_first_hint">Lejátszó lekicsinyítése</string>
     <string name="show_more">További %s megjelenítése</string>
     <string name="shuffle_music">Kevert lejátszás</string>
@@ -1317,18 +1331,15 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="shuffle_play_toast_text">Számok keverése…</string>
     <string name="similar_albums">Hasonló albumok</string>
     <string name="similar_playlists">Hasonló lejátszási listák</string>
+    <string name="similar_podcasts">Hasonló podcastok</string>
     <string name="similar_songs">Hasonló dalok</string>
     <string name="similar_videos">Hasonló videók</string>
     <string name="skip">Kihagyás</string>
-    <string name="skip_query_account">Kihagyás</string>
     <string name="sleep_mode">Elalvásidőzítő</string>
     <string name="sleep_mode_canceled">Alvó mód kikapcsolva</string>
     <string name="sleep_mode_summary">Leállítás előre megadott idő után</string>
     <string name="sleep_mode_title">Elalvásidőzítő</string>
     <string name="sliding_pro_center">hungama Gold</string>
-    <string name="sns_access_token_expired_warning">Időtúllépés történt. Jelentkezzen be újra a fiók visszakapcsolásához.</string>
-    <string name="sns_bind_limit">Túl sok próbálkozás. Próbálkozzon másféle bejelentkezési módokkal.</string>
-    <string name="sns_sign_in">Más bejelentkezési módok</string>
     <string name="song_already_in_playlist">Ez a dal már a lejátszási listában van</string>
     <string name="song_exist_in_playlist">Ez a dal már szerepel a várólistán</string>
     <string name="song_info">Dal részletei</string>
@@ -1348,6 +1359,7 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="start_to_download">Letöltés…</string>
     <string name="start_to_play">Készen a lejátszásra…</string>
     <string name="start_update">Új verzió telepítése…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Klónozott alkalmazások tárhelye</string>
     <string name="storage_internal">Belső tárhely</string>
     <string name="storage_sd_card">SD-kártya</string>
@@ -1359,8 +1371,8 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="sunday_short">Vas</string>
     <string name="sunday_shortest">Vas</string>
     <string name="supplementary_songs">További dalok</string>
+    <string name="swipe_for_more">Húzza fel további zenei videókért</string>
     <string name="switch_success">Sikeresen átváltva</string>
-    <string name="system_error_info">A rendszer túlterhelt. Várjon 1-2 percet, majd próbálja újra.</string>
     <string name="tab_album">Albumok</string>
     <string name="tab_album_list">Albumok</string>
     <string name="tab_artist">Előadók</string>
@@ -1398,7 +1410,6 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="task_card_message_received_successfully">Elvégezte a mai napra szánt feladatokat. Igényelje érméit!</string>
     <string name="task_card_title_received_successfully">Sikeresen igényelve</string>
     <string name="telephone_permissions_for_push">Hívásengedélyek: a Google push-értesítési szolgáltatások nyújtásához</string>
-    <string name="temporary_not_available">Ez a funkció még nem érhető el</string>
     <string name="terms_of_service">Szolgáltatási feltételek</string>
     <string name="the_anniversary_of_lifting_martial_law">A harci törvény feloldásának évfordulója</string>
     <string name="the_anti_aggression_day">Agresszióellenes Nap</string>
@@ -1494,12 +1505,9 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="ultra_high_quality">Kiváló</string>
     <string name="unknown_album_name">Ismeretlen album</string>
     <string name="unknown_artist_name">Ismeretlen előadó</string>
-    <string name="unknown_error_info">Ismeretlen hiba</string>
     <string name="unlimited_downloads">Korlátlan letöltések</string>
     <string name="unlimited_offline_songs">Korlátlan offline dal</string>
     <string name="unlimited_skips">Korlátlan ugrás</string>
-    <string name="update_email_address_dialog_message">A helyreállítási e-mail-cím frissítése előtt a személyazonosságának ellenőrzése szükséges.</string>
-    <string name="update_email_address_dialog_title">Helyreállítási e-mail frissítése</string>
     <string name="update_now">FRISSÍTÉS MOST</string>
     <string name="upgrade_music">Zene frissítése</string>
     <string name="upgrade_music_message">Frissítések készen állnak. Indítsa újra a frissítéshez.</string>
@@ -1512,19 +1520,8 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="upload_playlist_to_hungama_title">Online számok szinkronizálása a hungamával, hogy olyan más készülékeken is elérhetők legyenek, amelyeken az Xiaomi Accountot használod.</string>
     <string name="upload_playlist_to_hungama_toast">Az online számok szinkronizálásra kerülnek a hungamával</string>
     <string name="user_agreement">Felhasználói szerződés</string>
-    <string name="user_agreement_hint_3rd_app">&lt;Data>Elolvastam és elfogadtam a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelveket&lt;/a> és a Mi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelveit&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>Elolvastam és elfogadtam a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelveket&lt;/a>, a Mi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelveit&lt;/a>, valamint &lt;a href=%5$s>a China Mobile hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>Elolvastam és elfogadtam a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelveket&lt;/a>, a Mi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelveit&lt;/a>, valamint &lt;a href=%5$s>az eSurfing fiókhitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>Elolvastam és elfogadtam a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelveket&lt;/a>, a Mi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelveit&lt;/a>, valamint &lt;a href=%5$s>a China Unicom hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_default">&lt;Data>Elovastam és elfogadom a Mi Fiók &lt;a href=%1$s>Felhasználói szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelveit&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_first_login">Automatikusan létrehozunk egy fiókot, ha először használja a telefonszámát.</string>
-    <string name="user_agreement_hint_with_mobile">&lt;Data>Elolvastam és elfogadtam a Mi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelveit&lt;/a>, valamint &lt;a href=%3$s>a China Mobile hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_telecom">&lt;Data>Elolvastam és elfogadtam a Mi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelveit&lt;/a>, valamint &lt;a href=%3$s>az eSurfing fiókhitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_unicom">&lt;Data>Elolvastam és elfogadtam a Mi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelveit&lt;/a>, valamint &lt;a href=%3$s>a China Unicom hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="user_avatar_update_title">Profilkép módosítása</string>
-    <string name="user_avatar_uploading">Egy pillanat…</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=hu_HU</string>
     <string name="user_experience_program_open">A szerzői jogi korlátozások miatt a letöltött dalok lejátszásához be kell jelentkeznie a Felhasználói élmény programba. Ezt a Beállítások > Jelszavak és biztonság > Adatvédelem > Jelentkezzen a felhasználói élmény programba.</string>
-    <string name="user_name_phone_number">Telefonszám</string>
     <string name="user_playlist_plaza">Lejátszási listák</string>
     <string name="user_privacy_dialog_negative_text">Mégse</string>
     <string name="user_privacy_dialog_positive_count_down_text">Visszavonás (%s)</string>
@@ -1548,8 +1545,6 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
     <string name="wednesday_shortest">Sze</string>
-    <string name="weibo_login_btn_content_description">Bejelentkezés Weiboval</string>
-    <string name="weixin_login_btn_content_description">Bejelentkezés WeChat-tel</string>
     <string name="welcome_to_entertainment">Nézze meg az új Szórakozás funkciót, többek között a zenei játékok miatt</string>
     <string name="wifi_required_body" formatted="false">"Csatlakozzon Wi-Fi-hez a %s letöltéséhez.
 
@@ -1558,6 +1553,7 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="yesterday">Tegnap</string>
     <string name="you_can_switch_mode_in_settings">A Beállításokban válthat a módok között</string>
     <string name="you_may_like">Még szintén kedvelheti</string>
+    <string name="you_might_like_it">Talán ez is tetszeni fog Önnek</string>
     <string name="youtube_download_canl">Mégse</string>
     <string name="youtube_download_fail_net">Nem lehet kapcsolódni a hálózathoz. Ellenőrizze a hálózati beállításokat és próbálkozzon újra.</string>
     <string name="youtube_download_fail_source">Hiba történt. Várjon egy-két percet, majd próbálja újra.</string>
@@ -1570,4 +1566,5 @@ Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni 
     <string name="youtube_play_history">Lejátszási előzmények</string>
     <string name="youtube_share_guide_tip">Mostantól megoszthat videókat az ismerőseivel</string>
     <string name="youtube_tab_explore">Felfedezés</string>
+    <string name="youtube_tab_playlist">Lejátszási listák</string>
 </resources>

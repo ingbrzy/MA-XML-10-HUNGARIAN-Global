@@ -396,6 +396,7 @@ A Mi Share használata előtt meg kell adnia a következő engedélyeket, valami
     <string name="somepc_send_muchfile_files">%1$s több mint %2$d fájlt küld önnek…</string>
     <string name="start_receive_much_files_from_pc">Több mint %2$d fájl érkezik innen: %1$s…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sub_title_mishare_switch">Ez a funkció %d perc után automatikusan kikapcsol</string>
     <string name="success_receive_much_file_from_pc">Több mint %2$d fájl érkezett innen: %1$s. Koppintson a megtekintéshez.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
@@ -457,15 +458,19 @@ A Mi Share használata előtt meg kell adnia a következő engedélyeket, valami
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
     <string name="tips_prompt_enable_midrop">Mi Megosztás</string>
     <string name="to_feedback">Jelentés</string>
+    <string name="toast_auto_close_in_minutes">A Mi Megosztás %d perc után kikapcsol</string>
+    <string name="toast_transfering">Elemek átvitele folyamatban. Próbálkozzon ismét később.</string>
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
     <string name="transfer_intercept_to_remote">Sikertelen küldés: %1$s</string>
     <string name="transfer_to_pc_summary">Az Mi Jegyzetekbe telepített AloT szoftver legújabb verziója kompatibilis a Mi Megosztással. A MIUI weboldalán megtekintheti a támogatott laptop modelleket. Ha laptopja rajta van a listán, de az AloT nincs rá telepítve, frissítse laptopjának BIOS-át és hálózatikártya-meghajtóját, majd töltse le az AloT-ot.</string>
     <string name="transfer_to_pc_summary_new">&lt;Data>Az Mi Jegyzetekbe telepített MUIU+ szoftver legújabb verziója kompatibilis a Mi Megosztással. A MIUI+ weboldalán megtekintheti a támogatott laptop modelleket (&lt;a href=%1$s>%2$s&lt;/a>). Ha laptopja rajta van a listán, de a MIUI+ nincs rá telepítve, frissítse laptopjának BIOS-át és hálózatikártya-meghajtóját, majd töltse le a MIUI+-t.&lt;/Data></string>
     <string name="transfer_to_pc_title">Fájlok küldése számítógépre</string>
-    <string name="transfer_to_phone_summary">Kapcsolja be a Mi Megosztás funkciót az Értesítés sávban megtalálható kapcsolóval. Ezután látni fogja a közelben lévő eszközöket, ha elkezd megosztani egy képet vagy fájlt. A megosztani kívént elem elküldéséhez koppintson a fogadó fél eszközére.</string>
+    <string name="transfer_to_phone_summary">Kapcsolja be a Mi Megosztás funkciót az Értesítési felületen megtalálható kapcsolóval. Ezután látni fogja a közelben lévő eszközöket, ha elkezd megosztani egy képet vagy fájlt. A megosztani kívént elem elküldéséhez koppintson a fogadó fél eszközére.</string>
+    <string name="transfer_to_phone_summary_new">Kapcsolja be a Mi Megosztást az Irányítóközontban az elemek könnyed küldéséhez és fogadásához. Bekapcsolás után elemeket oszthat meg közeli készülékekkel %d percig, majd a funkció automatikusan kikapcsol.</string>
     <string name="transfer_to_phone_title">Fájlok küldése telefonokra</string>
-    <string name="transfer_to_summary">Kapcsolja be a Mi Megosztás funkciót az Értesítés sávban megtalálható kapcsolóval. Ezután látni fogja a közelben lévő eszközöket, ha elkezd megosztani egy képet vagy fájlt. A megosztani kívént elem elküldéséhez koppintson a fogadó fél eszközére.</string>
+    <string name="transfer_to_summary">Kapcsolja be a Mi Megosztás funkciót az Értesítési felületen megtalálható kapcsolóval. Ezután látni fogja a közelben lévő eszközöket, ha elkezd megosztani egy képet vagy fájlt. A megosztani kívént elem elküldéséhez koppintson a fogadó fél eszközére.</string>
+    <string name="transfer_to_summary_new">Kapcsolja be a Mi Megosztást az Irányítóközontban az elemek könnyed küldéséhez és fogadásához. Bekapcsolás után elemeket oszthat meg közeli készülékekkel %d percig, majd a funkció automatikusan kikapcsol.</string>
     <string name="transfer_to_title">Fájlok küldése mobileszközökre</string>
     <string name="tuesday">Kedd</string>
     <string name="tuesday_short">Ked</string>

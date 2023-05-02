@@ -48,10 +48,11 @@
     <string name="add_holiday_desc">Adjon hozzá ünnepeket itt</string>
     <string name="add_holiday_title">Ünnepnap hozzáadása</string>
     <string name="additional_cal_dialog_title">Naptár kiválasztása</string>
-    <string name="additional_cal_pref_title">További naptár</string>
+    <string name="additional_cal_pref_title">További naptárak</string>
     <string name="additional_calendar_note">Lehetséges, hogy néhány további naptár nem lesz elérhető vagy más lesz a változékony tényezők miatt</string>
     <string name="afternoon">Délután</string>
     <string name="agenda_month_empty_hint">Nincs esemény mára</string>
+    <string name="agenda_not_today_empty_hint">Itt még nincs esemény. Létrehozáshoz koppintson.</string>
     <string name="agenda_tomorrow">HOLNAP, %1$s</string>
     <string name="agenda_view">Események</string>
     <string name="alarm_label">Elvetés</string>
@@ -182,6 +183,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Kínai hagyományos naptár</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Dátum- és időbeállítás</string>
     <string name="date_today">" (ma)"</string>
     <string name="date_view">Dátum</string>
@@ -194,6 +196,8 @@
     <string name="delete_this_event_title">Törli ezt az eseményt?</string>
     <string name="description_calendar">Rendszeralkalmazások/Naptár</string>
     <string name="description_calendar_edit_event">Rendszeralkalmazások/Naptár/Napirend</string>
+    <string name="description_calendar_huangli" />
+    <string name="description_calendar_subscribe_group" />
     <string name="directory_searching_fmt">%s keresése…</string>
     <string name="discard_label">Mégse</string>
     <string name="display_to_calendar">Megjelenítés a Naptárban</string>
@@ -270,6 +274,7 @@
     <string name="event_info_when">Mikor</string>
     <string name="event_info_where">Hol</string>
     <string name="event_reminder_allday_day_zero">Azon a napon ekkor: %2$s</string>
+    <string name="event_reminder_custom">Egyéni</string>
     <string name="event_reminder_value_zero">Az esemény előtt</string>
     <string name="event_title">Elnevezés</string>
     <string name="event_view">Esemény megtekintése</string>
@@ -389,6 +394,7 @@
     <string name="holidays_title">Ünnepek</string>
     <string name="horoscope">Horoszkóp</string>
     <string name="horoscope_card_title">Mai horoszkóp</string>
+    <string name="horoscope_partner" />
     <string name="horoscope_select_activity_label">Állatövi jegy kiválasztása</string>
     <string name="hour_1">%d óra</string>
     <string name="image_processing">A kép még nem áll készen</string>
@@ -422,6 +428,8 @@
     <string name="long_holiday_week_off">Heti szabadnapok</string>
     <string name="long_month_date_format">yyyy. MMMM dd.</string>
     <string name="lunar_date">Holdnaptár</string>
+    <string name="lunar_day" />
+    <string name="lunar_to_solar" />
     <string name="manage_holidays">Ünnepek kezelése</string>
     <string name="manage_title">Kezelés</string>
     <string name="mark_end">Menstruáció vége</string>
@@ -579,7 +587,7 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="no_visiable_calendar_title">Fiók hozzáadása</string>
     <string name="none">Egyik sem</string>
     <string name="noon">Dél</string>
-    <string name="not_more_than_three_weekday">Legfeljebb 3 napot választhat ki</string>
+    <string name="not_more_than_three_weekday">Maximálisan %d nap választható ki</string>
     <string name="not_set">Nincs beállítva</string>
     <string name="notes_hint">Koppintson feladat hozzáadásához</string>
     <string name="notes_reminders_channel">Jegyzet emlékeztetők</string>
@@ -594,6 +602,10 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="notes_weekly">Hetente</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">Naptáremlékeztetők</string>
+    <string name="notification_open_setting_button_exit">Nem, köszönöm</string>
+    <string name="notification_open_setting_button_ok">Engedélyezés</string>
+    <string name="notification_open_setting_message">Nem kap értesítéseket az eseményekről, hacsak nem engedélyezi a Naptár számára, hogy értesítéseket küldjön Önnek.</string>
+    <string name="notification_open_setting_title">Naptár értesítések engedélyezése?</string>
     <string name="numbers">%d</string>
     <string name="pack_up">收起</string>
     <string name="panchang_amanta">Amanta</string>
@@ -621,6 +633,7 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">Partner-kompatibilitás</string>
     <string name="path_calendar_settings">Rendszeralkalmazások/Naptár/Beállítások</string>
+    <string name="permission_denial">A funkció használatához adjon engedélyt</string>
     <string name="permission_description">Engedélyek részletei</string>
     <string name="picker_day">Kiválasztott nap: %1$d. Csúsztasson függőlegesen a kiválasztáshoz.</string>
     <string name="picker_month">Kiválasztott hónap: %1$d. Csúsztasson függőlegesen a kiválasztáshoz.</string>
@@ -634,7 +647,6 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="pref_title_no_remind">Nincs emlékeztető</string>
     <string name="pref_title_notification_remind">Értesítési emlékeztető</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
-    <string name="preferences_additional_cal_default">0</string>
     <string name="preferences_alarms_category_title">Riasztási emlékeztetők</string>
     <string name="preferences_alarms_sound">Hang</string>
     <string name="preferences_alarms_vibrateWhen">Rezgés</string>
@@ -653,9 +665,9 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="preferences_title">Naptár</string>
     <string name="preferences_use_home_tz_descrip">Ha utazik, akkor is a lakhelyének időzónáját használja a Naptár az eseményekhez</string>
     <string name="preferences_use_home_tz_title">Lakhely időzónájának használata</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">A hét kezdőnapja</string>
     <string name="preferences_week_start_day_title">A hét kezdőnapja</string>
+    <string name="premission_description_notice">Eseményekről és ünnepekről szóló értesítések küldésére</string>
     <string name="privacy_and_permissions">Adatvédelem és engedélyek</string>
     <string name="privacy_card_description">Fogadja el az adatvédelmi irányelveinket az összes funkció eléréséhez.</string>
     <string name="privacy_policy_dialog_agree">Elfogadás</string>
@@ -681,6 +693,8 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="remind_title_menstruation_start">Emlékeztessen a menstruáció kezdetekor</string>
     <string name="remind_title_record">Emlékeztessen a rögzítésre</string>
     <string name="repeat_activity_label">Ismétlődés</string>
+    <string name="repeat_alarm_close_title">Ez egy ismétlődő esemény. Kikapcsolja a riasztási emlékeztetőt?</string>
+    <string name="repeat_alarm_open_title">Ez egy ismétlődő esemény. Beállít egy riasztási emlékeztetőt?</string>
     <string name="repeat_custom_activity_label">Egyéni</string>
     <string name="repeat_custom_prompt_daily">minden %1$s</string>
     <string name="repeat_custom_prompt_sentence">Az esemény %1$s ismétlődni fog.</string>
@@ -702,6 +716,7 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="repeat_label_frequency">Gyakoriság</string>
     <string name="repeat_label_interval">Minden</string>
     <string name="repeat_label_week">Hét</string>
+    <string name="repeat_lunar_yearly" />
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">Ismétlődés</string>
@@ -722,7 +737,9 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="saving_event">Esemény mentve</string>
     <string name="saving_event_with_guest">Frissítések küldése…</string>
     <string name="search_calendar_edit_event">Találkozó;Emlékeztető;Napirend</string>
+    <string name="search_calendar_huangli" />
     <string name="search_calendar_settings">Naptár;Napirend;Emlékeztető</string>
+    <string name="search_calendar_subscribe_group" />
     <string name="search_events">Események keresése</string>
     <string name="search_history">Keresési előzmények</string>
     <string name="search_menu_title">Keresés</string>
@@ -740,7 +757,7 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="setting_about_summary">Verzió:</string>
     <string name="setting_accounts">Naptárfiókok</string>
     <string name="setting_change_language">Naptár nyelvének beállítása</string>
-    <string name="setting_desc_import_todo">Ütemezett feladatok importálása a jegyzetekből</string>
+    <string name="setting_desc_import_todo">Időérzékeny feladatok importálása a Jegyzetek alkalmazásból</string>
     <string name="setting_features_title">Funkciók beállításai</string>
     <string name="setting_holiday_display_desc">Ünnepnapi kártyák a Naptár kezdőképernyőjén, a naplója alatt találhatók</string>
     <string name="setting_holiday_reminder">Ünnepnap emlékeztető</string>
@@ -777,6 +794,10 @@ Ellenőrizze a beállításokat és próbálja újra."</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip">Kihagyás</string>
     <string name="small_week_date_format">yyyy. MM. dd., EEE</string>
+    <string name="solar_lunar_convert_date" />
+    <string name="solar_lunar_convert_description" />
+    <string name="solar_lunar_convert_tab" />
+    <string name="solar_to_lunar" />
     <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
     <string name="spec_agenda_view">Különleges események</string>
     <string name="start_date_calculate">Kiszámítás</string>

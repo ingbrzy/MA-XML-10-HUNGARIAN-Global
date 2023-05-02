@@ -36,14 +36,6 @@
         <item quantity="other">%d perce</item>
         <item quantity="one">1 perce</item>
     </plurals>
-    <plurals name="circulate_audio_group_subtitle_format">
-        <item quantity="other">%1$d készülék</item>
-        <item quantity="one">%1$d készülék</item>
-    </plurals>
-    <plurals name="circulate_audio_group_title_format">
-        <item quantity="other">%1$d készülék</item>
-        <item quantity="one">%1$d készülék</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>

@@ -138,11 +138,6 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
     <string name="cloud_member_vipname_premium">Prémium</string>
     <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Xiaomi Cloud</string>
-    <string name="cloud_service_cloud_open">Bekapcsolás</string>
-    <string name="cloud_service_space_full">A tárhely megtelt</string>
-    <string name="cloud_service_space_not_enough">Nincs elegendő tárhely</string>
-    <string name="cloud_service_space_used">Foglalt</string>
-    <string name="cloud_service_state_error">Nem sikerült betölteni</string>
     <string name="cloud_service_status_backup_not_open">Biztonsági mentés kikapcsolva</string>
     <string name="cloud_service_status_cloud_not_open">Ki</string>
     <string name="cloud_service_status_storage_full">A tárhely megtelt</string>
@@ -222,8 +217,6 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
     <string name="diagnosis_log_sent_format">"A napló sikeresen elküldésre került.
 Azonosító:%s
 Küldje el ezt a kódot a vezetőjének."</string>
-    <string name="dind_device_service_not_open">Ki</string>
-    <string name="dind_device_service_opened">Be</string>
     <string name="download_file">%s letöltése…</string>
     <string name="early_morning">Reggel</string>
     <string name="empty" />
@@ -242,7 +235,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="facebook_login">Bejelentkezés Facebook használatával</string>
     <string name="failed_dup_secure_phone_number">Ez a telefonszám már hozzá van rendelve egy másik Xiaomi Fiókhoz.</string>
     <string name="family_service">Családi szolgáltatások</string>
-    <string name="family_service_not_open">Tagok meghívása</string>
     <string name="family_share">Családi megosztás</string>
     <string name="find_device">Készülékkeresés</string>
     <string name="find_device_access_denied">Állapot nem elérhető, hozzáférés megtagadva</string>
@@ -374,7 +366,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="login_with_other">További lehetőségek</string>
     <string name="logout_account">Kijelentkezés</string>
     <string name="logout_failed">Sikertelen kijelentkezés</string>
-    <string name="mi_account">Fiókom</string>
     <string name="mi_account_identity_title">Személyazonosság igazolása</string>
     <string name="mi_finance">Pénzügyeim</string>
     <string name="mi_finance_info">Bónuszok új felhasználók számára</string>
@@ -772,11 +763,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="push_notify_dialog_title">Fiók ellenőrzése</string>
     <string name="pwd_width_phone_number_or_mail_num">Az új jelszó nem tartalmazhatja a telefonszámát, az e-mail-címét vagy a Xiaomi Fiók azonosítóját</string>
     <string name="qq">QQ</string>
-    <string name="qrcode_login_entry_text">&lt;Data>Másik készüléken van bejelentkezve? Használja a &lt;a href=>gyors bejelentkezést&lt;/a>&lt;/Data></string>
-    <string name="qrcode_login_load_refresh">&lt;Data>A QR-kód lejárt. Koppintson a &lt;a href=>frissítéshez&lt;/a>.&lt;/Data></string>
-    <string name="qrcode_login_load_retry">&lt;Data>Betöltés sikertelen &lt;a href=>Próbálja újra&lt;/a>.&lt;/Data></string>
-    <string name="qrcode_login_message">A bejelentkezéshez olvassa be a Xiaomi-telefon vagy -táblagép szkennerével, a Mi Home- vagy egy másik Xiaomi-alkalmazással.</string>
-    <string name="qrcode_login_title">Beolvasás a bejelentkezéshez</string>
     <string name="recycle_phone_notification_msg">Úgy tűnik, megváltozott a telefonszáma. Érintse meg a frissítéshez.</string>
     <string name="recycle_phone_notification_title">Xiaomi Fiók biztonsági kockázat</string>
     <string name="removing_account">Kijelentkezés…</string>
@@ -911,8 +897,6 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="two_factor_auth_need_code_summary">Egy kódot fog látni a többi Mi-készüléken. A bejelentkezéshez írja be ezt a kódot az új készüléken.</string>
     <string name="two_factor_auth_summary">Amikor egy új készülékről vagy helyről próbál bejelentkezni, értesítést kap róla a többi csatlakoztatott készüléken. Meg kell erősítenie, hogy Ön engedélyezte az ilyen bejelentkezési próbálkozásokat.</string>
     <string name="unbind_sns_description">Az eltávolítás után a %s nem jelentkezik be a Xiaomi Fiók használatával.</string>
-    <string name="unit_gb">" GB"</string>
-    <string name="unit_mb">" MB"</string>
     <string name="unknown_error_info">Ismeretlen hiba</string>
     <string name="unlock_help_notice">"Segítség:
 1. Ha elfelejtette a jelszavát, keresse fel az id.mi.com-ot a visszaállításhoz.
@@ -966,6 +950,5 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Bejelentkezés WeChat-tel</string>
     <string name="xiao_mi_vip">Mi VIP</string>
-    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="yesterday">Tegnap</string>
 </resources>
