@@ -44,14 +44,6 @@
         <item quantity="other">%2$s elolvasatlan ennyiből: %1$s</item>
         <item quantity="one">%2$s elolvasatlan ennyiből: %1$s</item>
     </plurals>
-    <plurals name="delete_wallpapers_message">
-        <item quantity="other">Töröl %1$d háttérképet?</item>
-        <item quantity="one">Töröl %1$d háttérképet?</item>
-    </plurals>
-    <plurals name="editing_mode_title">
-        <item quantity="other">%1$d elem kiválasztva</item>
-        <item quantity="one">%1$d elem kiválasztva</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
@@ -89,8 +81,8 @@
         <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">%1$d alkalmazások eltávolítása a Kezdőképernyőről?</item>
-        <item quantity="one">%1$d alkalmazás eltávolítása a Kezdőképernyőről?</item>
+        <item quantity="other">Eltávolít %1$d elemet a Kezdőképernyőről?</item>
+        <item quantity="one">Eltávolít %1$d elemet a Kezdőképernyőről?</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">%1$d oldal, %2$d alkalmazás.</item>

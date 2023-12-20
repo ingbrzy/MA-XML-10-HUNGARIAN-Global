@@ -44,6 +44,7 @@
     <string name="agree">Elfogadás</string>
     <string name="am">DE</string>
     <string name="app_all_purpose">Üdvözli önt a Fájlkezelő! Ezzel az alkalmazással kezelheti a készülékén tárolt fájlokat.</string>
+    <string name="app_all_purpose_global">Üdvözli önt a Fájlkezelő! Ezzel az alkalmazással tekitnhet bele, illetve kezelheti a készülékén tárolt fájlokat.</string>
     <string name="app_all_purpose_pad">Üdvözli önt a Fájlkezelő! Ezzel az alkalmazással kezelheti a készülékén tárolt fájlokat.</string>
     <string name="app_function">Kezelje a fájlokat a készülékén</string>
     <string name="app_name">Fájlkezelő</string>
@@ -52,7 +53,7 @@
     <string name="app_name_downloadedrom">Csomagok</string>
     <string name="app_name_downloads">Letöltések</string>
     <string name="app_name_market">Alkalmazás-áruház</string>
-    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miui">Rendszer erőforrások</string>
     <string name="app_name_miuimusic">Zene</string>
     <string name="app_name_miuiringtone">Csengőhang</string>
     <string name="app_name_miuiwallpaper">Háttérképek</string>
@@ -65,6 +66,13 @@
     <string name="by_name">Név</string>
     <string name="by_size">Méret</string>
     <string name="by_type">Típus</string>
+    <string name="call_notification_answer_action">Fogadás</string>
+    <string name="call_notification_answer_video_action">Videó</string>
+    <string name="call_notification_decline_action">Elutasítás</string>
+    <string name="call_notification_hang_up_action">Befejezés</string>
+    <string name="call_notification_incoming_text">Bejövő hívás</string>
+    <string name="call_notification_ongoing_text">Hívás folyamatban</string>
+    <string name="call_notification_screening_text">Bejövő hívás szűrése</string>
     <string name="can_not_send_with_too_many">Nem küldhető el ilyen sok elem egyszerre</string>
     <string name="cancel">Mégse</string>
     <string name="cancel_error">Nem sikerült eltávolítani. Próbálja újra.</string>
@@ -145,6 +153,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="cloud_transfer_wait_download">Várakozás a letöltésre</string>
     <string name="cloud_transfer_wait_network">Várakozás az internetre</string>
     <string name="cloud_transfer_wait_upload">Várakozás a feltöltésre</string>
+    <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
     <string name="compress_fail">Nem sikerült tömöríteni. Egy azonos nevű fájl már létezik.</string>
     <string name="compress_fail_unknown">Nem sikerült tömöríteni. A tárhely megtelt, vagy ismeretlen hiba történt.</string>
     <string name="compress_message">Tömörítés ide…</string>
@@ -160,6 +169,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="create_folder">Létrehozás</string>
     <string name="create_shortcut_success">Parancsikon hozzáadása sikeres</string>
     <string name="cta_function_account_operation">A Xiaomi Fiókba való gyors bejelentkezéshez</string>
+    <string name="cta_use_sync_midrive_file">Fájlok szinkronizálása a Mi Drive-ra</string>
     <string name="data_consume_dialog_message">Jelenleg mobiladatot használ. Ha folytatja, %s adatot fog felhasználni.</string>
     <string name="data_consume_dialog_title">Mobiladat-kapcsolat használata?</string>
     <string name="data_consume_dialog_upload_title">Feltöltés mobiladat-kapcsolat használatával</string>
@@ -179,6 +189,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="decompress_destination_error">Nem lehet kicsomagolni a fájlokat a megadott helyre.</string>
     <string name="decompress_encrypted_rar_not_supported">A titkosított RAR fájlok nem támogatottak.</string>
     <string name="decompress_fail">Kicsomagolás sikertelen.</string>
+    <string name="decompress_fail_contains_special_characters">Nem lehet tömöríteni. A tömörített fájlok neve nem tartalmazhat speciális karaktereket.</string>
     <string name="decompress_input_password">Adja meg a jelszót</string>
     <string name="decompress_password_error">A megadott jelszó érvénytelen.</string>
     <string name="decompress_success">Kicsomagolás befejezve</string>
@@ -211,6 +222,9 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="dialog_type_video">Videók</string>
     <string name="disk_available">Elérhető: </string>
     <string name="disk_total">Összesen: </string>
+    <string name="display_all_dirs">Minden mappa</string>
+    <string name="display_hide_sys_dirs">Rejtett rendszermappák</string>
+    <string name="display_mode">Kijelző</string>
     <string name="display_setting">Megjelenített elemek</string>
     <string name="doc_all">Összes</string>
     <string name="downloading">Letöltés</string>
@@ -261,6 +275,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="favorite_photo">Fényképek</string>
     <string name="favorite_ringtone">Csengőhangok</string>
     <string name="favorite_screen_cap">Képernyőképek</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Olvasható: </string>
     <string name="file_info_canwrite">Írható: </string>
     <string name="file_info_ishidden">Rejtett: </string>
@@ -330,10 +345,11 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
-    <string name="ftp_account_req_notice">A felhasználónév és a jelszó esetén a nagy- és kisbetűket megkülönböztetjük, és azoknak %1$d–%2$d karaktert kell tartalmazniuk. Lehetőség van angol betűk, speciális szimbólumok és számok kombinációjára is.</string>
+    <string name="ftp_account_req_notice">A felhasználónévnek és a jelszónak %1$d-%2$d karaktert kell tartalmaznia, kisbetű/nagybetű érzékenyek, és nem tartalmazhatnak speciális karaktereket.</string>
     <string name="ftp_anonymous_login">Bejelentkezés névtelenül</string>
     <string name="ftp_anonymous_warning_msg">Az anonimizálási funkciók biztonsági kockázatot jelenthetnek. Biztosan használja a funkciót?</string>
     <string name="ftp_anonymous_warning_title">Figyelem</string>
+    <string name="ftp_invalid_username">A felhasználónév nem tartalmazhat speciális karaktereket. Adjon meg egy másik nevet.</string>
     <string name="ftp_invalid_username_or_password">A megadott felhasználónév vagy jelszó érvénytelen.</string>
     <string name="ftp_open_port_error">Nem sikerült megnyitni a portot. Ellenőrizze hálózati kapcsolatát, vagy állítsa vissza a port számát.</string>
     <string name="ftp_password_hint">Jelszó</string>
@@ -341,6 +357,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="ftp_transfer_secure">Biztonság</string>
     <string name="ftp_username_and_passworld">Bejelentkezés</string>
     <string name="ftp_username_hint">Felhasználónév</string>
+    <string name="func_settings">Funkciók beállításai</string>
     <string name="function_file_operation">A fájlok megjelenítéséhez és szerkesztéséhez</string>
     <string name="function_set_private">A fájlok megtekintéséhez és titkosításához</string>
     <string name="function_use_imei">Az IMEI eléréséhez és fájlok titkosításához</string>
@@ -378,6 +395,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="instruction_pre_pad">Kezelje a készüléken lévő fájlokat számítógép segítségével</string>
     <string name="instruction_pre_phone">Kezelje a készüléken lévő fájlokat számítógép segítségével</string>
     <string name="internal_storage">Belső tárhely</string>
+    <string name="internal_storage_device">Készülék</string>
     <string name="just_now">Épp most</string>
     <string name="lack_perm_msg">A Fájlkezelőnek a következő engedélyekre van szüksége a normál működéshez: &lt;b>%s&lt;/b></string>
     <string name="lack_perm_title">Engedélyek szükségesek</string>
@@ -401,6 +419,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="manage_cloud_space">Felhőtárhely kezelése</string>
     <string name="menu_item_cleanup">Tisztítás</string>
     <string name="menu_item_ftp">Csatlakozás számítógéphez</string>
+    <string name="menu_item_midrop">Fájlátvitel</string>
     <string name="menu_item_router">Router</string>
     <string name="menu_item_search">Keresés</string>
     <string name="menu_item_sort">Rendezés</string>
@@ -448,20 +467,23 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="mirror_tip_refresh">Frissítés</string>
     <string name="mirror_tip_show_type">Rendezés</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
     <string name="miuix_appcompat_select_all_description">Összes kijelölése</string>
     <string name="miuix_appcompat_select_item">Elemek kiválasztása</string>
+    <string name="miuix_navigator_content_switch_description">Oldalsáv megjelenítése</string>
+    <string name="miuix_navigator_multiple_choice">Kiválaszt</string>
+    <string name="miuix_navigator_navigator_switch_description">Oldalsáv elrejtése</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Húzza le a frissítéshez</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Sikeresen frissítve</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Frissítés…</string>
@@ -521,6 +543,8 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="mtp_device">Médiaeszköz (MTP)</string>
     <string name="mtp_label">MTP</string>
     <string name="name_empty">Meg kell adnia egy nevet.</string>
+    <string name="navigator_label_all_files">Összes fájl</string>
+    <string name="navigator_label_external_devices">Külső készülékek</string>
     <string name="need_open_content">Engedélyezze a Fájlkezelő számára a fényképek és fájlok elérését a funkció használatához.</string>
     <string name="need_open_permission">Engedélyek szükségesek</string>
     <string name="need_read_storage_permission">A Fájlkezelőnek engedélyre van szüksége a készülék tárhelyéhez való hozzáféréshez a normál működéshez.</string>
@@ -563,6 +587,8 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="operation_compress">Tömörítés</string>
     <string name="operation_compressing">Tömörítés…</string>
     <string name="operation_copy">Másolás</string>
+    <string name="operation_copy_clipboard">Másolás vágólapra</string>
+    <string name="operation_copy_local">Másolás mappába</string>
     <string name="operation_create_folder">Mappa létrehozása</string>
     <string name="operation_create_folder_message">Adja meg a mappa nevét</string>
     <string name="operation_create_folder_name_conflict">Mappa létrehozása sikertelen. Már létezik ilyen nevű mappa.</string>
@@ -573,6 +599,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="operation_decompressing">Kicsomagolás…</string>
     <string name="operation_del_fav">Eltávolítás a kedvencek közül…</string>
     <string name="operation_delete">Törlés</string>
+    <string name="operation_delete_confirm_dcim_message_folder">A DCIM egy Galéria mappa. Ha törli ezt a mappát, a benne lévő összes elem véglegesen törlődik a Galériából is. Mindenképpen törli ezt a mappát?</string>
     <string name="operation_delete_confirm_message">Törlés?</string>
     <string name="operation_delete_confirm_message_folder">"Minden mappa tartalma törlésre kerül.
 "</string>
@@ -648,6 +675,10 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="permission_account_title_pad">Készülékfiókokhoz való hozzáférés</string>
     <string name="permission_denial">Fájlhozzáférés megtagadva. Engedélyezze a Beállításokban a Fájlkezelő hozzáférési jogosultságát.</string>
     <string name="permission_description">Engedélyek részletei</string>
+    <string name="permission_group_description_phone">Ha egy fájlt privátként állít be, ez az alkalmazás felismeri, tárolja és feloldja az eszköz IMEI-kódját</string>
+    <string name="permission_group_description_storage_space">Elemek elérése és hozzáadása a tárhelyhez</string>
+    <string name="permission_group_name_phone">Telefon</string>
+    <string name="permission_group_name_storage_space">Tárhely</string>
     <string name="permission_required">Fájlhozzáférés megtagadva. Engedélyezze a Beállításokban a Fájlkezelő hozzáférési jogosultságát</string>
     <string name="permission_storage_desc_pad">Képek és videók készülékre való mentéséhez</string>
     <string name="permission_storage_title">Készüléktárhelyhez való hozzáférés</string>
@@ -670,6 +701,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="pick_folder">Mappa kiválasztása</string>
     <string name="pm">DU</string>
     <string name="port_range">Port számának 1024 – 65535 közé kell esnie</string>
+    <string name="positive_order">Előre</string>
     <string name="pre_privacy_recall">Hozzájárulás visszavonása</string>
     <string name="pref_permission_allowed">Engedély megadva</string>
     <string name="pref_permission_manage_key_storage">Hozzáférés a készülék fényképeihez és fájljaihoz</string>
@@ -677,7 +709,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="privacy_policy">Adatvédelmi irányelvek</string>
     <string name="privacy_policy_renew">Frissített Adatvédelmi irányelvek</string>
-    <string name="privacy_policy_renew_content">&lt;Data>A Fájlkezelő &lt;a href=\"%1$s\">Adatvédelmi irányelveit&lt;/a> frissítettük. A felhasználói jogok, valamint az adatai felhasználásának módjainak teljes körű megértéséhez a folytatás előtt olvassa el és fogadja el az Adatvédelmi irányelvek új változatát.&lt;/Data></string>
+    <string name="privacy_policy_renew_content"><Data>A Fájlkezelő &lt;a href=\"%1$s\">Adatvédelmi irányelveit&lt;/a> frissítettük. A felhasználói jogok, valamint az adatai felhasználásának módjainak teljes körű megértéséhez a folytatás előtt olvassa el és fogadja el az Adatvédelmi irányelvek új változatát.</Data></string>
     <string name="privacy_recall_alert_description" formatted="false">A hozzájárulás visszavonásához törölje az összes elemet a Mi Drive-ból. Az elemek törléséhez kövesse az alábbi lépéseket:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. A Mi Drive kezdőlapján tartsa lenyomva az egyik elemet, hogy megjelenjen az \"Összes kiválasztása\" gomb. Ezzel a gombbal egyszerre legfeljebb 200 fájlt választhat ki és törölhet.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Ezt követően törölje a nemrég törölt elemeket.</string>
     <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Azt javasoljuk, hogy a törlés előtt készítsen biztonsági másolatot az elemekről. Ehhez keresse fel a www.i.mi.com weboldalt, kattintson a Mi Drive-ra, és töltse le az elemeket egy számítógépre.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g> . Tájékoztatjuk, hogy a közelmúltban törölt elemek nem állíthatók vissza a törlésük után.</string>
     <string name="privacy_recall_confirm_button">Visszavonás</string>
@@ -699,6 +731,9 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="qq_title">Nem sikerült hozzáférni a WeChat dokumentumokhoz</string>
     <string name="query_quota_exception">Kiszolgálóhiba. Várjon egy-két percet, majd próbálja újra.</string>
     <string name="query_quota_searching">Egy pillanat…</string>
+    <string name="recent_file_by_source">Fájlforrás</string>
+    <string name="recent_file_sort_by_date">Dátum</string>
+    <string name="recent_file_sort_type">Rendezés</string>
     <string name="recent_hide_camera_and_screenshots">Ne mutassa a Galéria elemeit és a képernyőképeket a legutóbbi fájlok között</string>
     <string name="recent_hide_cloud_drive_files">Ne jelenítse meg a Mi Drive-fájlokat az Előzmények mappában</string>
     <string name="refresh_success">Frissítés kész</string>
@@ -720,6 +755,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="request_timeout">Hálózati kérés lejárt</string>
     <string name="reset_password">Jelszó módosítása</string>
     <string name="restoring">Visszaállítás…</string>
+    <string name="reverse_order">Visszafele</string>
     <string name="rlv_last_refreshing_time">Frissítve %1$s</string>
     <string name="rlv_loading_more">Egy pillanat…</string>
     <string name="rlv_pull_to_refresh">Húzza le a frissítéshez</string>
@@ -733,6 +769,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="search_app_more">Továbbiak</string>
     <string name="search_category">Kategóriák</string>
     <string name="search_category_folder">Mappák</string>
+    <string name="search_category_type">Keresés kategória szerint</string>
     <string name="search_description">Keresés a készülék összes fájlja között</string>
     <string name="search_empty_view_hint">Nincs találat</string>
     <string name="search_error_hint">Keresés</string>
@@ -748,11 +785,13 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="search_more_category">Továbbiak</string>
     <string name="search_result">Találatok</string>
     <string name="search_result_more">Továbbiak</string>
+    <string name="search_text_hint">Fájlok keresése</string>
     <string name="search_title">Keresés</string>
     <string name="search_title_hint">Keresés</string>
     <string name="select_dest_folder">Mappa kiválasztása</string>
     <string name="select_image">Képek</string>
     <string name="select_music">Hangfájlok</string>
+    <string name="select_pdf">PDF kiválasztása</string>
     <string name="select_video">Videófájlok</string>
     <string name="select_volume">Tárolási hely kiválasztása</string>
     <string name="send">Küldés</string>
@@ -762,6 +801,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="set_pattern">Jelszó frissítése</string>
     <string name="set_pattern_btn">Beállítás</string>
     <string name="set_pattern_msg">Állítsa be újra a jelszavát. Adatvédelmi jelszó a képek, üzenetek és feljegyzések esetén is működik.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">Kisebb, mint %d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -774,8 +814,10 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="sort_hint_name">Név szerint rendezve</string>
     <string name="sort_hint_time">Idő szerint rendezve</string>
     <string name="sort_hint_type">Típus szerint rendezve</string>
+    <string name="sort_mode">Rendezési sorrend</string>
     <string name="sort_size_asc">Növekvő</string>
     <string name="sort_size_desc">Csökkenő</string>
+    <string name="sort_type">Szűrő</string>
     <string name="start_all">Összes megtekintése</string>
     <string name="start_doc">Dokumentumok</string>
     <string name="start_phone">Fájlok</string>
@@ -863,6 +905,7 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="title_select_volume">Mappa kiválasztása</string>
     <string name="to_open">Beállítások</string>
     <string name="to_setting">Beállítások</string>
+    <string name="toast_copy_clipboard">Hozzáadva vágólaphoz</string>
     <string name="toast_file_not_can_read">Nem található alkalmazás a művelet végrehajtásához.</string>
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
@@ -898,7 +941,10 @@ Próbálja meg áthelyezni a fájlokat készülékéről a Mi Drive-ba."</string
     <string name="v7_preference_on">BE</string>
     <string name="video_data_consume_dialog_confirm">Tovább</string>
     <string name="video_data_consume_dialog_title">Mobiladat-kapcsolat használata?</string>
+    <string name="view_mode_grid">Rács</string>
+    <string name="view_mode_list">Lista</string>
     <string name="view_type">Megtekintés</string>
+    <string name="view_type_mode">Elrendezés</string>
     <string name="web_sso_login_fail">Újra bejelentkezés szükséges</string>
     <string name="web_sso_login_message">Bejelentkezés…</string>
     <string name="webview_reload">Próbálja újra</string>

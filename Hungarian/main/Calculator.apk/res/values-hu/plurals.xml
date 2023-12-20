@@ -5,16 +5,16 @@
         <item quantity="one">Egy órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Egy órával ezelőtt</item>
-        <item quantity="one">Egy órával ezelőtt</item>
+        <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Egy óra múlva</item>
-        <item quantity="one">Egy óra múlva</item>
+        <item quantity="other">%d órán belül</item>
+        <item quantity="one">%d órán belül</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Fél óra múlva</item>
@@ -25,28 +25,20 @@
         <item quantity="one">Azonnal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d perc múlva</item>
-        <item quantity="one">1 perc múlva</item>
+        <item quantity="other">%d percen belül</item>
+        <item quantity="one">%d percen belül</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d perce</item>
-        <item quantity="one">1 perce</item>
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
     </plurals>
-    <plurals name="age_label_days">
-        <item quantity="other">%d nap</item>
-        <item quantity="one">%d nap</item>
-    </plurals>
-    <plurals name="age_label_months">
-        <item quantity="other">%d hónap</item>
-        <item quantity="one">%d hónap</item>
-    </plurals>
-    <plurals name="age_label_yrs">
-        <item quantity="other">év</item>
-        <item quantity="one">év</item>
+    <plurals name="delete_msg">
+        <item quantity="other">%d tétel törlése most?</item>
+        <item quantity="one">%d tétel törlése most?</item>
     </plurals>
     <plurals name="entries">
         <item quantity="other">%d elem</item>
@@ -76,10 +68,6 @@
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
     </plurals>
-    <plurals name="loan_repayment_detail">
-        <item quantity="other">Részletes visszafizetés (%d év)</item>
-        <item quantity="one">Részletes visszafizetés (%d év)</item>
-    </plurals>
     <plurals name="loan_repayment_detail_unit">
         <item quantity="other">Részletes visszafizetés (%d év), CNY</item>
         <item quantity="one">Részletes visszafizetés (%d év), CNY</item>
@@ -96,6 +84,10 @@
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
     </plurals>
+    <plurals name="select_items">
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">%d elem kiválasztva</item>
+    </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d hónap</item>
         <item quantity="one">%d hónap</item>
@@ -103,5 +95,29 @@
     <plurals name="tenure_years">
         <item quantity="other">%d év</item>
         <item quantity="one">%d év</item>
+    </plurals>
+    <plurals name="unit_data_display_data_b">
+        <item quantity="other">Bájt</item>
+        <item quantity="one">Bájt</item>
+    </plurals>
+    <plurals name="unit_data_display_data_gb">
+        <item quantity="other">Gigabájt</item>
+        <item quantity="one">Gigabájt</item>
+    </plurals>
+    <plurals name="unit_data_display_data_kb">
+        <item quantity="other">Kilobájt</item>
+        <item quantity="one">Kilobájt</item>
+    </plurals>
+    <plurals name="unit_data_display_data_mb">
+        <item quantity="other">Megabájt</item>
+        <item quantity="one">Megabájt</item>
+    </plurals>
+    <plurals name="unit_data_display_data_pb">
+        <item quantity="other">Petabájt</item>
+        <item quantity="one">Petabájt</item>
+    </plurals>
+    <plurals name="unit_data_display_data_tb">
+        <item quantity="other">Terabájt</item>
+        <item quantity="one">Terabájt</item>
     </plurals>
 </resources>

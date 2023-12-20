@@ -33,6 +33,8 @@
     <string name="activate_esim_tips">Nem sikerült aktiválni. Próbálja újra.</string>
     <string name="activating_esim_tips">Aktiválás…</string>
     <string name="address_dialing_introduction">Az alkalmazással hívást kezdeményezhet, megtekintheti a híváselőzményeket és kezelheti névjegyeit.</string>
+    <string name="after_sales_support">After-sales support</string>
+    <string name="after_sales_support_introduction">This service allows you to get support and assistance regarding your purchased devices.</string>
     <string name="afternoon">Délután</string>
     <string name="agree">OK</string>
     <string name="agree_and_next">Elfogadás</string>
@@ -54,6 +56,7 @@
     <string name="app_name">Felkészülés</string>
     <string name="application_package_introduction">A csomagtelepítő harmadik féltől származó alkalmazások telepítésére szolgál, beleértve a telepítés előtti ellenőrzést és a telepítés utáni alkalmazás-ajánlási szolgáltatásokat.</string>
     <string name="application_permissions">Alkalmazásengedélyek</string>
+    <string name="authority_introduction">权限管理服务是您对应用进行权限管理的基础服务。</string>
     <string name="back">Vissza</string>
     <string name="backup_introduction">A készüléken megtalálható elemek biztonsági mentéséhez és helyreállításához használhatja ezt az alkalmazást.</string>
     <string name="bluetooth_introduction">A Bluetooth kapcsolatot a rendszer vezeték nélküli kommunikációra használja. Ahhoz, hogy a Bluetooth megfelelően működjön, a következő engedélyekre van szükség:</string>
@@ -69,8 +72,8 @@
     <string name="carousel_privacy"><Data>A Váltakozó háttérképek használata előtt olvassa el és fogadja el a megbízható harmadik fél szolgáltatónk &lt;a href=\"%1$s\">Adatvédelmi irányelveit&lt;/a> és &lt;a href=\"%2$s\">Felhasználói szerződését&lt;/a>.</Data></string>
     <string name="carousel_setting">Állítsa be a képernyőzárát</string>
     <string name="carousel_setting_sub">A Váltakozó háttérképek a készülék minden feloldásakor friss történeteket mutat Önnek</string>
-    <string name="carrier_introduction_china">"In order to provide you with better services, processes running on your device (including SystemHelper, RegService, and Carrier Services) may periodically send the information related to your device and SIM card (including IMEI, IMSI, MSISDN, MEID, ICCID, MAC address, MIUI version, Android version, device model, and basic hardware specifications), as well as approximate location information (including region, coordinates, area identifier, and base station ID) to the carrier via WLAN, mobile data network, or free SMS. The carrier promises to analyze relevant information only to improve the quality of services or to provide customized services or technologies, and won't disclose relevant information to third parties in any form that identifies you personally. The specific carrier statement shall prevail. Consult your carrier regarding the cost of using this service."</string>
-    <string name="check_box_label"><Data>"By turning on this feature, you're agreeing to &lt;a href=%1$s>Xiaomi Interconnectivity Services Privacy Policy&lt;/a >."</Data></string>
+    <string name="carrier_introduction_china">Annak érdekében, hogy még jobb szolgáltatást biztosíthassunk Önnek, a készülékén futó folyamatok (ideértve a SystemHelper, RegService és Carrier Services szolgáltatásokat) időről időre elküldik szolgáltatója számára az Ön készülékével és SIM-kártyájával kapcsolatos adatait (beleértve az IMEI-,az IMSI-,az MSISDN-,MEID-, ICCID-, a MAC-címet, rendszerverziót, Android-verziót, készülékmodellt, és alap hardver specifikációkat), valamint az Ön körülbelüli tartózkodási helyét (beleértve az alap állomásazonosítót is) WLAN-n, mobiladatforgalmon vagy ingyenes SMS-en keresztül. A szolgáltató ígérete szerint kizárólag a vonatkozó adatokat használja fel a szolgáltatások minőségének javítására, illetve testre szabott szolgáltatások vagy technológiák biztosítására és nem teszi közzé a vonatkozó adatokat harmadik felek számára olyan formában, hogy azok beazonosíthatóak legyenek. A szolgáltató konkrét nyilatkozata érvényes. A szolgáltatás használatának költségeiről érdeklődjön szolgáltatójánál.</string>
+    <string name="check_box_label">"&lt;Data>By turning on this feature, you're agreeing to the &lt;a href=%1$s>Mi Smart Hub Privacy Policy&lt;/a >.&lt;/Data>"</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="clock_introduction">Az alkalmazással megnézheti az időt, valamint használhatja az időzítőt, a stoppert, beállíthat ébresztőt és még sok mást.</string>
     <string name="close">Bezárás</string>
@@ -97,10 +100,12 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Kínai hagyományos naptár</string>
     <string name="date_time_picker_dialog_title">Dátum- és időbeállítás</string>
+    <string name="default_font">Alapértelemezett</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">Használja ujjlenyomatát a készülék feloldásához, alkalmazásokba és szolgáltatásokba való bejelentkezéshez.</string>
     <string name="desc_international_fingerprint">Használja ujjlenyomatát a készülék feloldásához, alkalmazásokba és szolgáltatásokba való bejelentkezéshez.</string>
+    <string name="device_information_usage_desc">This service allows you to view device info, connect your device to networks, and set up its features.</string>
     <string name="diagnose_report">Küldje el a diagnosztikai adatokat a rendszerproblémák megtalálása és elemzése, valamint a felhasználói élmény javítása érdekében. Ezek az adatok tartalmazhatnak személyes adatokat (pl. IP-címet, tartózkodási helyet stb.)</string>
     <string name="disageement_abnormal_download">Ha nem szeretné megadni a szükséges engedélyeket, illetve nem szeretné megosztani vagy feltölteni személyes adatait, nem fogja tudni használni a szolgáltatást.</string>
     <string name="disagree">Mégse</string>
@@ -117,7 +122,9 @@
     <string name="disagreement_location_service_abnormal">Ha nem szeretné megadni ezeket az engedélyeket, nem fogja tudni használni a helymeghatározó szolgáltatásokat. A Beállítások > Adatvédelem menüpontban bármikor be- és kikapcsolhatja a helymeghatározó szolgáltatásokat.</string>
     <string name="disagreement_mi_account_abnormal">Ha nem adja meg ezeket az engedélyeket, nem fogja tudni használni a Mi Fiók szolgáltatásokat. A Beállítások > Mi Fiók menüpontban bármikor be- és kikapcsolhatja a Mi Fiók szolgáltatásokat.</string>
     <string name="disagreement_service_not_working_properly">Ha nem szeretné megadni ezeket az engedélyeket, nem fogja tudni használni ezt az alkalmazást.</string>
-    <string name="disagreement_terminate_bluetooth">Ha nem adja meg ezeket az engedélyeket, nem fogja tudni használni a Bluetooth funkciót. A Bluetooth funkciót a Beállítások menüben tudja ki- vagy bekapcsolni, illetve itt tud hozzáadni Bluetooth-eszközöket is.</string>
+    <string name="disagreement_service_not_working_properly_settings">"If you don't agree to grant these permissions, this service won't be able to work normally."</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">Ha nem adja meg ezeket az engedélyeket, a szolgáltatás nem fog tudni megfelelően működni.</string>
+    <string name="disagreement_terminate_bluetooth">Ha nem adja meg ezeket az engedélyeket, nem fogja tudni használni a Bluetooth funkciót. A Bluetooth funkciót a Beállítások > Bluetooth menüben tudja ki- vagy bekapcsolni, illetve itt tud hozzáadni Bluetooth-eszközöket is.</string>
     <string name="disagreement_terminate_miuidaemon">Csak akkor fogjuk használni az engedélyeket, amikor elkezdi az adatok átvitelét készülékéről, ha a képernyője sérült. Ha nem adja meg ezeket az engedélyeket, nem fogja tudni használni az alkalmazást.</string>
     <string name="disagreement_terminate_service">Ha nem szeretné megadni a szükséges engedélyeket, illetve nem szeretné megosztani vagy feltölteni személyes adatait, nem fogja tudni használni az alkalmazást. Ilyen esetben dönthet úgy, hogy törli az alkalmazást, kijelentkezik vagy korlátozza az engedélyeket a Beállításokban.</string>
     <string name="download_introduction">A Letöltések egy, a Xunlei által biztosított alkalmazás, amelyet a Xiaomi-készülékek felhasználói számára letöltött tartalmak (beleértve az App Store-tartalmakat, videókat, rendszerfrissítéseket, témákat és böngészőtartalmakat) letöltésére és kezelésére használnak.</string>
@@ -133,7 +140,7 @@
     <string name="evening">Délután</string>
     <string name="expand_button_title">Speciális</string>
     <string name="fast_application_introduction">A Gyors alkalmazások szolgáltatási keretrendszere egy olyan alapvető szolgáltatási keretrendszer, amely támogatja a gyors alkalmazások disztribúcióját és működését.</string>
-    <string name="fast_pairing_introduction">A Mi Link a MIUI Bluetooth-szal segít abban, hogy gyorsan csatlakozhasson a közeli Bluetooth-eszközökhöz.</string>
+    <string name="fast_pairing_introduction">Mi Link lets you quickly connect to Bluetooth devices.</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -188,12 +195,21 @@
     <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">Alapértelmezett szövegméret</string>
     <string name="font_hint_normal">Szövegméret-növelés</string>
-    <string name="framework_introduction">A Mi Szolgáltatási Keretrendszerrel használhatja a Mi Fiókot, a Mi Push-t, az Analytics és a MIUI BI-t.</string>
-    <string name="framwork_base_service">Annak érdekében, hogy biztosíthassuk Önnek ezeket a szolgáltatásokat, a Mi Szolgáltatási Keretrendszernek (Mi Fiók, Mi Push, Analytics, MIUI BI) csatlakoznia kell az internethez, hozzá kell férnie az Ön tartózkodási helyéhez, a telefonszámához, az IMEI-hez és az IMSI-hez, valamint engedélyeznie kell eszközén a push értesítések fogadását</string>
+    <string name="font_settings_sub_title">Rendszerbetűtípus kijelölése</string>
+    <string name="font_settings_title">Betűméret beállítása</string>
+    <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
+    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
+    <string name="font_use_case_text_example">Szövegtörzs</string>
+    <string name="font_use_case_title_example">Cím</string>
+    <string name="framework_introduction">Xiaomi service framework (Mi Push, Analytics, and MIUIBI) is a basic system service that provides push notifications, risk prevention, statistics, and analytics capabilities. In order to provide these services, we need to collect and process relevant and necessary personal information. When collecting and processing such information, we will comply with applicable laws, regulations, and other normative documents.</string>
+    <string name="framwork_base_service">"In order to provide push notification functionality, we need to collect device identifiers (OAID and encrypted Android ID), information about the apps that use the push service (e.g. app package name, version, and runtime status), device manufacturer, device model, device memory, operating system version, region, name of the SIM card carrier name, current network type, and the Wi-Fi status. You can change the way you receive push notifications in Settings, and we'll provide you with push notifications based on your preferences, for which we'll also collect the information about your preferences including whether you choose to block notifications or not, and whether you allow them to appear on Lock screen.
+For the purposes of risk prevention, statistics, and analytical processing, we need permission to connect to the network and access your location, device IMEI, device IMSI, device identifiers (OAID, MAC address, and encrypted Android ID), device manufacturer, device model, device memory, operating system version, region, and current network type. The above information will be collected once a day for as long as you use this device."</string>
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
     <string name="game_introduction">A Játékok beépülő modullal bejelentkezhet, létrehozhat megrendeléseket, végrehajthat fizetéseket, felhasználhat kuponokat és részt vehet promóciós eseményeken.</string>
+    <string name="get_imei_information">Access IMEI</string>
+    <string name="get_imei_information_settings">Access device unique identifier (IMEI)</string>
     <string name="google_service_introduction">To be able to work normally, Google Play needs to connect to the internet, access your location, be able to send SMS and MMS, record audio, make calls, access calendar events, call history, sensors, storage, camera, device info, and accounts.</string>
     <string name="home_settings_miui_home">Klasszikus</string>
     <string name="home_settings_poco_launcher">Alkalmazáslista</string>
@@ -205,37 +221,79 @@
     <string name="input_method_setting">Billentyűzet kiválasztása</string>
     <string name="install_preinstall_app">Alkalmazások betöltése…</string>
     <string name="interconnection_communication_introduction">A Xiaomi Internet Communication Services használatával megtalálhatja, rácsatlakozhat és kommunikálhat más Xiaomi-készülékekkel.</string>
-    <string name="interconnection_service_summary">"Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. These services include Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share, and casting.
-To be able to work normally, these service need to connect to the internet and require the following permissions:
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For transferring items over Wi-Fi
-\u0009\u0009Record audio
-\u0009\u0009For transferring audio playback to connected devices during casting or screen mirroring
-\u0009\u0009Access storage
-\u0009\u0009For transferring and receiving files wirelessly
-\u0009\u0009Mi Share:
-\u0009\u0009Access and save files and photos on your device
-\u0009\u0009For transferring and receiving files wirelessly
-\u0009\u0009Access location
-\u0009\u0009For transferring items to nearby devices over Wi-Fi and Bluetooth
-\u0009\u0009Turn Bluetooth on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For finding devices nearby and transferring files wirelessly
-\u0009\u0009Connect to nearby devices
-\u0009\u0009For finding devices nearby and connecting to them
-\u0009\u0009Casting:
-\u0009\u0009Turn Bluetooth on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Access location
-\u0009\u0009For getting the info about nearby devices
-\u0009\u0009Record audio
-\u0009\u0009For transferring audio playback to connected during casting
-If you don't agree to grant such permissions, you won't be able to use Xiaomi Interconnectivity Services.
-Features are subject to change. Some of the features above may not be available on all device models or for all system versions. Refer to the MIUI website (www.miui.com) to check compatibility."</string>
+    <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
+\u0009\u0009互传：
+\u0009\u0009读写设备上的照片及文件
+\u0009\u0009用于发送和接收传输的文件
+\u0009\u0009获取位置信息
+\u0009\u0009用于实现蓝牙/WLAN状态下的文件传输功能
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描附近可互传文件的设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描周围设备并传输文件
+\u0009\u0009连接附近的设备
+\u0009\u0009发现并连接到附近的设备
+\u0009\u0009影音互联（小米妙播、投屏）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009向其他设备传输数据
+\u0009\u0009用于在两台设备间建立蓝牙连接并交换数据
+\u0009\u0009获取设备的位置信息
+\u0009\u0009用于获取附近可投屏的设备信息
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009读取设备MAC地址
+\u0009\u0009用于互联设备的识别
+\u0009\u0009获取屏幕上的信息
+\u0009\u0009在录制或投屏时，提供此功能的服务会获取在您的屏幕上显示或从您的设备播放的任何敏感信息，包括音频、密码、付款信息、照片和消息等
+\u0009\u0009应用生态融合（应用接力、妙享桌面）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读取设备MAC地址
+\u0009\u0009用于互联设备的识别
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009向其他设备传输数据
+\u0009\u0009用于在两台设备间建立蓝牙连接并交换数据
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009获取屏幕上的信息
+\u0009\u0009在录制或投屏时，提供此功能的服务会获取在您的屏幕上显示或从您的设备播放的任何敏感信息，包括音频、密码、付款信息、照片和消息等
+\u0009\u0009文件系统（跨设备剪贴板、笔记跨设备拍照）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009读取剪切板
+\u0009\u0009允许应用读取复制的内容
+\u0009\u0009硬件协同（网络协同、键鼠协同、相机协同）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009相机
+\u0009\u0009调用相机拍摄照片和录制视频
+\u0009\u0009设备中心：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
+因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">Ha elveszíti a készülékét, csak úgy tudja megakadályozni, hogy mások ne vegyék azt használatba és ne férjenek az adataihoz, ha beállítja a képernyőzárat. Tényleg átugorja?</string>
     <string name="item_facerecognition">Arcalapú feloldás</string>
@@ -256,6 +314,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="location_introduction_qcom">Location services use positioning for providing location-specific services. When location services are used by your device, QCC module will connect to the network to speed up the positioning process.</string>
     <string name="location_location">A sürgősségi mentőhatóságok kérést követően lekréhetik az Ön tartózkodási hely adatait</string>
     <string name="lockscreen_introduction">A Váltakozó háttérképek funkcióval minden nap új képeket láthat a képernyőzáron.</string>
+    <string name="media_storage_devices">Médiatároló eszközök</string>
+    <string name="media_storage_introduction">Ez a szolgáltatás lehetővé teszi az alkalmazások számára a fényképek, videók, hanganyagok és fájlok elérését és mentését.</string>
     <string name="message_introduction">Az alkalmazással SMS-t küldhet és fogadhat.</string>
     <string name="mi_account_introduction">A Mi Fióknak hála regisztrálhatja, bejelentkezhet és kezelheti a rendszerfiókokat.</string>
     <string name="midnight">Éjjel</string>
@@ -264,16 +324,17 @@ Features are subject to change. Some of the features above may not be available 
     <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">Nincs internetkapcsolat. Adatvédelmi Irányelvek megtekintése itt: %s.</string>
     <string name="miui_provision">Kezdeti beállítás</string>
+    <string name="miui_settings">Settings</string>
     <string name="miui_terms_no_network">Önnek nincs internetkapcsolata. Tekintse meg a Felhasználói szerződést it: %s.</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
@@ -349,17 +410,22 @@ Features are subject to change. Some of the features above may not be available 
     <string name="noon">Dél</string>
     <string name="not_set">Nincs beállítva</string>
     <string name="note_introduction">Az alkalmazással létrehozhat, megtekinthet és szerkeszthet jegyzeteket.</string>
+    <string name="official_website_real">hyperos.mi.com</string>
     <string name="other_settings">Alapbeállítások</string>
     <string name="other_settings_ad_dialog_agree">Bekapcsolás</string>
     <string name="other_settings_ad_dialog_content">Ha a személyre szabott hirdetési ajánlások ki vannak kapcsolva, akkor is ugyanannyi hirdetést fog látni, mint amikor a funkció be van kapcsolva. A hirdetések azonban már nem lesznek relevánsak, mivel nem az Ön személyes preferenciáin alapulnak.</string>
-    <string name="other_settings_ad_dialog_content_for_global">Ha a személyre szabott reklámajánlatok ki vannak kapcsolva, a MIUI rendszeralkalmazásokban továbbra is ugyanannyi hirdetést láthat, mint amikor a funkció be van kapcsolva. A Xiaomi és a harmadik féltől származó platformok hirdetései azonban már nem lesznek relevánsak, mivel nem az Ön személyes preferenciáin alapulnak.</string>
+    <string name="other_settings_ad_dialog_content_for_global">Ha a személyre szabott reklámajánlatok ki vannak kapcsolva, a rendszeralkalmazásokban továbbra is ugyanannyi hirdetést láthat, mint amikor a funkció be van kapcsolva. A Xiaomi és a külső féltől származó platformok hirdetései azonban már nem lesznek relevánsak, mivel nem az Ön személyes preferenciáin alapulnak.</string>
     <string name="other_settings_ad_dialog_disagree">Kikapcsolás</string>
     <string name="other_settings_ad_disable_summary">Kapcsolja be a hirdetések személyre szabásához</string>
-    <string name="other_settings_ad_enable">Személyre szabott hirdetések</string>
+    <string name="other_settings_ad_enable">Hirdetések testreszabása</string>
     <string name="other_settings_ad_enable_summary">Hirdetések személyre szabása az érdeklődési területei alapján</string>
+    <string name="other_settings_alarm_assistance">Emergency location</string>
+    <string name="other_settings_alarm_assistance_privacy">Privacy Policy</string>
+    <string name="other_settings_alarm_assistance_summary">"You can send your location info to the police using SMS or mobile data automatically while you're calling 110, 120, 119, or 122. Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this feature."</string>
+    <string name="other_settings_alarm_assistance_user">User Agreement</string>
     <string name="other_settings_auto_update">Automatikus rendszerfrissítések</string>
-    <string name="other_settings_auto_update_summary">A MIUI kiválasztja a legalkalmasabb időpontot a frissítések letöltésére és telepítésére. A készüléke automatikusan újraindul a változtatások alkalmazásához.</string>
-    <string name="other_settings_auto_update_summary_v1">Engedélyezze a MIUI-nak, hogy kiválassza a legalkalmasabb időpontot a frissítések letöltésére és telepítésére. A készüléke automatikusan újraindul a változtatások alkalmazásához.</string>
+    <string name="other_settings_auto_update_summary">A rendszer kiválasztja a legalkalmasabb időpontot a frissítések letöltésére és telepítésére. Készüléke automatikusan újraindul a változtatások alkalmazásához.</string>
+    <string name="other_settings_auto_update_summary_v1">Engedélyezze a rendszernek, hogy kiválassza a legalkalmasabb időpontot a frissítések letöltésére és telepítésére. Készüléke automatikusan újraindul a változtatások alkalmazásához.</string>
     <string name="other_settings_enhanced_lockscreen">Váltakozó háttérképek</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Glance a Mi számára</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Adatvédelmi irányelvek</string>
@@ -370,23 +436,25 @@ Features are subject to change. Some of the features above may not be available 
 Az automatikus frissítéseket a GetApps > Beállítások > Automatikus frissítések menüben kapcsolhatja ki."</string>
     <string name="other_settings_location">Helyszolgáltatások</string>
     <string name="other_settings_location_summary">Engedélyezze az alkalmazások és weboldalak számára a helyadatok elérését a helyalapú szolgáltatások biztosításához</string>
-    <string name="other_settings_quality_service">MIUI Daemon engedélyek</string>
-    <string name="other_settings_quality_service_summary">A MIUI Daemon a rendszer stabilitásának és teljesítményének javítására szolgál. A normális működéshez a szolgáltatásnak engedélyekre van szüksége az elemek eléréséhez és mentéséhez a készülék tárhelyére.</string>
-    <string name="other_settings_upload_debug_log_detail">"Segítsen javítani a MIUI készülék élményét azáltal, hogy automatikusan elküldi a diagnosztikai, készülék- és alkalmazáshasználati adatokat a Xiaominak. Ez segít javítani az akkumulátor élettartamát, a MIUI rendszer és az alkalmazások stabilitását és még sok mást.
-Az elküldött adatok általános információkat tartalmaznak a készülékről és arról, hogyan használja azt (pl. az akkumulátor szintje, a rendszer és az alkalmazások aktivitása, valamint a hibák). Az adatokat a MIUI készülék fejlesztésére használjuk.
+    <string name="other_settings_quality_service">Rendszerdémon engedélyek</string>
+    <string name="other_settings_quality_service_summary">A Rendszerdémon a rendszer stabilitásának és teljesítményének javítására szolgál. A normális működéshez a szolgáltatásnak engedélyekre van szüksége az elemek eléréséhez és mentéséhez a készülék tárhelyére.</string>
+    <string name="other_settings_upload_debug_log_detail">"Segítsen javítani az élményt a diagnosztikai, készülék- és alkalmazáshasználati adatok automatikus elküldésével a Xiaomi számára. Ez segít javítani az akkumulátor élettartamát, a rendszer és az alkalmazások stabilitását és még sok mást.
+Az elküldött adatok általános információkat tartalmaznak a készülékről és arról, hogyan használja azt (pl. az akkumulátor szintje, a rendszer és az alkalmazások aktivitása, valamint a hibák). Az adatokat a Xiaomi-készülékek fejlesztésére használjuk.
 A funkció kikapcsolása nem befolyásolja a készülék azon képességét, hogy elküldje az olyan alapvető szolgáltatásokhoz szükséges információkat, mint a rendszerfrissítések és a biztonság.
-A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehetőséget a Beállításokban."</string>
-    <string name="other_settings_upload_debug_log_summary">Segítsen javítani a MIUI készülék élményét a diagnosztikai, készülék- és alkalmazáshasználati adatok automatikus elküldésével a Xiaomi számára. Ennek segítségével javulhat az akkumulátor élettartama, a MIUI rendszer és az alkalmazások stabilitása és még sok más.</string>
+Ezt a funkciót a Beállítások > Jelszavak és biztonság > Adatvédelem > Használat és diagnosztika menüpontban állíthatja be."</string>
+    <string name="other_settings_upload_debug_log_summary">Segítsen javítani a használati élményt automatikus diagnosztikai, készülék- és alkalmazáshasználati adatok küldésével a Xiaomi számára. Ez segít javítani többek között az akkumulátor élettartamát, a rendszer és az alkalmazások stabilitását.</string>
     <string name="other_settings_upload_debug_log_title">Használati és diagnosztikai adatok küldése</string>
     <string name="other_settings_user_experience">Felhasználói Élményprogram</string>
     <string name="other_settings_user_experience_summary">Segítse termékeink és szolgáltatásaink fejlesztését használati adatainak és analitikáinak a megosztásával.</string>
     <string name="other_settings_user_experience_summary_index">Részletek megtekintése</string>
-    <string name="permission_MIUIDaemon_introduction">A MIUI Daemon lehetővé teszi az adatok átvitelét a készülékről, ha annak képernyője megsérült.</string>
+    <string name="permission_MIUIDaemon_introduction">System Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_access_calendar">Hozzáférés a naptárhoz</string>
     <string name="permission_access_calendar_fast_application_summary">Naptárhoz való hozzáférés engedélyezéséhez a Gyors alkalmazások számára</string>
     <string name="permission_account">Hozzáférés a készülékén lévő fiókokhoz</string>
     <string name="permission_account_introduction">Mi Fiókkal való bejelentkezéshez</string>
     <string name="permission_application_package_introduction">A tárhelyhez való hozzáféréshez a telepítő csomagok elemzése és ellenőrzése érdekében</string>
+    <string name="permission_authority_describe">读取应用列表</string>
+    <string name="permission_authority_describe_applist_summary">用于管理应用权限。</string>
     <string name="permission_backup">Hozzáférés a tárhelyhez</string>
     <string name="permission_backup_introduction">A készüléken megtalálható biztonsági mentésekhez való hozzáféréshez és azok mentéséhez</string>
     <string name="permission_call_records">Hozzáférés a hívásnaplóhoz</string>
@@ -413,6 +481,8 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="permission_download_introduction">A letöltendő elemek gyorsítótárazásához és azok eszközre való mentéséhez</string>
     <string name="permission_enable_disable_bluetooth_summary">A közelben lévő eszközök megtalálásához csatlakozáshoz és adatátvitelhez</string>
     <string name="permission_fast_pairing">Közeli készülékek kereséséhez a Mi Linknek csatlakoznia kell az internethez, és a következő engedélyekre van szüksége:</string>
+    <string name="permission_get_imei_information_summary">For identifying device activation time</string>
+    <string name="permission_get_imei_information_summary_settings">For displaying device info and specs</string>
     <string name="permission_imei_service">Az IMEI-hez való hozzáféréshez az eszközhöz tartozó szolgáltatások biztosítása érdekében</string>
     <string name="permission_interaction_introduction">Képek és videók eszközre való mentésére</string>
     <string name="permission_location">Hozzáférés a helyinformációhoz:</string>
@@ -427,7 +497,10 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="permission_login_introduction">Bejelentkezéshez és rendszerfiókok kezeléséhez</string>
     <string name="permission_make_a_call">Híváskezdeményezés</string>
     <string name="permission_make_a_call_fast_application_summary">Hívásindítás engedélyezése a Gyors alkalmazások számára</string>
+    <string name="permission_media_storage_summary">Annak ellenőrzése, hogy az alkalmazások hogyan használják az adatvédelemmel kapcsolatos engedélyeket a fájlok elérése során</string>
     <string name="permission_message_introduction">SMS küldéséhez tiltott névjegyek számára</string>
+    <string name="permission_number">读取本机号码</string>
+    <string name="permission_number_introduction">用于支持连接系统蓝牙并实现车载或蓝牙耳机通话；</string>
     <string name="permission_phone_imei_device">Az IMEI-hez való hozzáféréshez az eszközök beazonosítása érdekében</string>
     <string name="permission_phone_network">A hálózattípushoz való hozzáféréshez a letöltendő elemek optimalizálása és hozzáigazítása érdekében</string>
     <string name="permission_phone_service">Hozzáférés a telefonszámhoz, az IMEI-hez és az IMSI-hez</string>
@@ -435,6 +508,8 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="permission_photo_video">Képkészítés és videórögzítés:</string>
     <string name="permission_photo_video_introduction">Képek készítéséhez, videók rögzítéséhez és a vaku használatához</string>
     <string name="permission_picture_introduction">Képek és videók mentéséhez, szerkesztéséhez és szinkronizálásához</string>
+    <string name="permission_qualcomm_describe_summary">用于针对不同类型应用动态调整系统参数，完成系统组件及应用的进程调度。</string>
+    <string name="permission_quality_describe_summary">用于收集应用崩溃信息。</string>
     <string name="permission_read_app_list">Hozzáférést az eszközre telepített alkalmazások listájához</string>
     <string name="permission_read_application_list_summary">A letöltött alkalmazások frissítéséhez és a csomagtelepítő által használt alkalmazásadatok megerősítéséhez;</string>
     <string name="permission_read_call_records">Hívásnapló szerkesztése</string>
@@ -486,6 +561,7 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="permission_write_device_store">Elemek mentése a készülék tárhelyére</string>
     <string name="permission_write_device_store_summary">A letöltött forráskonfigurációs fájlok gyorsítótárba való elmentéséhez.</string>
     <string name="permission_xunlei_introduction">Bejelentkezéshez és a rendszerfiókok kezeléséhez a Xunlei-szolgáltatások biztosítása érdekében</string>
+    <string name="phone_service_introduction">电话服务是一项基础通讯服务，为通话、短信、上网等功能提供底层通讯能力支撑。</string>
     <string name="pm">DU</string>
     <string name="poco_agree_terms_other">(Beleértve a POCO Launcher Adatvédelmi Irányelveit és Felhasználói Szerződését)</string>
     <string name="poco_launcher_privacy_policy">POCO launcher Adatvédelmi szabályzat</string>
@@ -509,10 +585,17 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="provision_inputmethod_policy_description1">Adatvédelmi Irányelvek</string>
     <string name="provision_next">Tovább</string>
     <string name="provision_skip_underline">Kihagyás</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
+    <string name="recommend_font">MiSans</string>
+    <string name="recommended_font_mark">Ajánlott</string>
     <string name="recorder_introduction">Az alkalmazással rögzíthet hangot és biztonsági másolatot készíthet a felvételekről, amelyek a felhőben kerülnek tárolásra.</string>
     <string name="refuse_cookie">Sütik elutasítása</string>
     <string name="require_authority_list_statement">A normál működés érdekében a szolgáltatásnak a következő engedélyekre van szüksége:</string>
     <string name="require_authority_statement">Annak érdekében, hogy biztosíthassuk Önnek az alapvető szolgáltatásokat, az Ön személyes adatainak begyűjtéséhez meg kell adnia a következő engedélyeket:</string>
+    <string name="require_base_authority_statement">"为实现基本服务，需要调用您的如下权限：
+\u0009\u0009\u0009读取本机号码、IMEI及IMSI"</string>
+    <string name="require_basic_applist_and_authority_statement">为实现基本功能，需要调用您的如下权限：</string>
+    <string name="require_device_information_statement">To be able to provide basic services, the following permissions are required:</string>
     <string name="require_miuidaemon_authority_statement">Annak érdekében, hogy biztosíthassuk Önnek ezt a szolgáltatást, az Ön személyes adatainak begyűjtéséhez meg kell adnia a következő engedélyeket:</string>
     <string name="require_network_and_authority_statement">A normál működés érdekében a szolgáltatásnak csatlakoznia kell az internethez, és a következő engedélyekre van szüksége:</string>
     <string name="require_network_authority_statement">A normál működés érdekében a szolgáltatásnak csatlakoznia kell az internethez, és a következő engedélyekre van szüksége:</string>
@@ -524,6 +607,7 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="search_menu_title">Keresés</string>
     <string name="security_introduction">Ezzel az alkalmazással törölheti készülékéről a felesleges tartalmakat, megtalálhatja és eltávolíthatja a vírusokat, optimalizálhatja eszköze teljesítményét a játékokhoz, spórolhat az akkumulátorhasználattal, kezelheti az alkalmazásokat, az engedélyeket és egyéb beállításokkal javíthatja készülékét.</string>
     <string name="security_mobile_account_introduction">A bejelentkezéshez és a rendszerfiókok kezeléséhez</string>
+    <string name="select_font_modele_tips">A Témákban bármikor választhat új betűtípust</string>
     <string name="send">Küldés</string>
     <string name="service_agreement">Elovastam és elfogadom a Felhasználási feltételeket.</string>
     <string name="service_company_adjust_content">A Xunlei Hálózati Szolgáltatási Felhasználói Szerződése</string>
@@ -531,10 +615,11 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
     <string name="service_location_share_policy">&lt;Data>Folytatás előtt olvassa el és fogadja el a &lt;a href=%1$s>Helymeghatározó szolgáltatásokra vonatkozó adatvédelmi irányelvet&lt;/a >.&lt;/Data></string>
     <string name="service_mi_account">Mi Fiók</string>
-    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
+    <string name="service_name_MIUIDaemon">System Daemon</string>
     <string name="service_name_address_dialing">Névjegyek és telefon</string>
     <string name="service_name_album">Galéria</string>
     <string name="service_name_application_package">Csomagtelepítő</string>
+    <string name="service_name_authority">权限管理服务</string>
     <string name="service_name_backup">Biztonsági mentések</string>
     <string name="service_name_bluetooth">Bluetooth</string>
     <string name="service_name_calculator">Számológép</string>
@@ -553,6 +638,8 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="service_name_lockscreen">Váltakozó háttérképek</string>
     <string name="service_name_message">Üzenetek</string>
     <string name="service_name_note">Jegyzetek</string>
+    <string name="service_name_phone_service">电话服务</string>
+    <string name="service_name_qualcomm">com.qualcomm.qti.workloadclassifier</string>
     <string name="service_name_recorder">Rögzítő</string>
     <string name="service_name_screen_recording">Képernyővideó-felvevő</string>
     <string name="service_name_security">Biztonság</string>
@@ -567,7 +654,7 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="servicestate_title">Nyilatkozat az alapvető szolgáltatásokról</string>
     <string name="setting_locale">Régió beállítása…</string>
     <string name="shut_down">Kikapcsolás</string>
-    <string name="sim_activation_introduction">A SIM-kártyaaktiváló szolgáltatás ellenőrzi az éppen behelyezett SIM-kártya adatait, hogy megbizonyosodjon róla, hogy a MIUI-szolgáltatások megfelelően működnek. Ezen szolgáltatások közé tartozik a Készülékkeresés, a Mi Üzenet, a Mi Fiókok létrehozása telefonszámok használatával, valamint az üzenetek és a híváslista szinkronizálása.</string>
+    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that system services can work normally. These services include Find device, Mi Message, creating Xiaomi Accounts using phone numbers, and syncing messages and call history.</string>
     <string name="sim_card_detecting">SIM-kártya ellenőrzése…</string>
     <string name="sim_card_detecting_check">Nem található SIM-kártya. Győződjön meg róla, hogy a SIM megfelelően lett behelyezve és hogy van-e elég egység az egyenlegén.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Engedélyezi a mobiladat-kapcsolat használatát? Ha igen, a beillesztett SIM-kártya mobiladat-hálózathoz való csatlakozásra lesz használható.</string>
@@ -596,6 +683,8 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="sunday_short">Vas</string>
     <string name="sunday_shortest">Vas</string>
     <string name="system_navigation_mode">Rendszerirányítási módok</string>
+    <string name="system_update_statement">In order to perform a system update, we need to collect the device IMEI, device IMSI, device identifiers (OAID and encrypted Android ID), Xiaomi Account, device manufacturer, device model, network operator, device memory, operating system version, region, language, connectivity, network type, and IP address.</string>
+    <string name="system_update_title">System updates</string>
     <string name="systemdesktop_introduction">A Kezdőképernyő szolgáltatás beépülő modulja olyan alapvető funkciókat kínál, mint a Kezdőképernyő, a felhasználói rendszerfelület és a képernyőképek.</string>
     <string name="term_condition_detail">Minden nap lenyűgöző képek és izgalmas történetek várják önt a Képernyőzáron. Ez a funkció az Ön hozzájárulása nélkül nem használja fel adatait a személyre szabáshoz. A funkció használata előtt olvassa el és fogadja el a harmadik fél tartalomszolgáltató &lt;a href =%1$s>Adatvédelmi irányelveit&lt;/a> és a &lt;a href =%2$s>Felhasználói szerződését&lt;/a> .</string>
     <string name="terms_of_label_period">". "</string>
@@ -611,9 +700,9 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
     <string name="terms_of_use_label_communication_service">Xiaomi Internet Communication Services</string>
     <string name="terms_of_use_label_config_updater">ConfigUpdater</string>
-    <string name="terms_of_use_label_finddevice">Find device</string>
+    <string name="terms_of_use_label_finddevice">Készülékkeresés</string>
     <string name="terms_of_use_label_game">Játékok</string>
-    <string name="terms_of_use_label_home">Home screen</string>
+    <string name="terms_of_use_label_home">Kezdőképernyő</string>
     <string name="terms_of_use_label_htmlViewer">HTML megtekintő</string>
     <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
@@ -621,25 +710,27 @@ A funkció vezérléséhez keresse meg a \"Használat és diagnosztika\" lehető
     <string name="terms_of_use_label_landscape">Vízszintes nézet</string>
     <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">Mi Fiók</string>
-    <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
-    <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
+    <string name="terms_of_use_label_miuiDaemon">System Daemon</string>
+    <string name="terms_of_use_label_miuisdk">System SDK</string>
     <string name="terms_of_use_label_os">OS AI Beállítások</string>
     <string name="terms_of_use_label_package">Csomagtelepítő</string>
     <string name="terms_of_use_label_parallel_windows">Párhuzamos ablakok</string>
     <string name="terms_of_use_label_phrase">Gyakori kifejezések</string>
     <string name="terms_of_use_label_power_detection">Teljesítményérzékelő</string>
-    <string name="terms_of_use_label_power_performance">Battery and performance</string>
+    <string name="terms_of_use_label_power_performance">Akkumulátor és teljesítmény</string>
     <string name="terms_of_use_label_quickapp">Gyors alkalmazások</string>
+    <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
     <string name="terms_of_use_label_secure">Biztonsági elem alkalmazás</string>
     <string name="terms_of_use_label_simcard">SIM-aktiválási szolgáltatások</string>
     <string name="terms_of_use_label_smart_service">Intelligens szolgáltatások</string>
     <string name="terms_of_use_label_statistics">Statisztika</string>
+    <string name="terms_of_use_label_system_quality_monitoring">系统质量监测</string>
     <string name="terms_of_use_label_systemhelper">Önregisztrációs szolgáltatás</string>
     <string name="terms_of_use_label_translation">Fordítási szolgáltatás</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Rendszerfrissítési szolgáltatás (online frissítéseket keres, és értesítést küld az új verziókról)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">A MIUI használata előtt el kell olvasnia és el kell fogadnia a Felhasználói Szerződésünket és az Adatvédelmi irányelvünket. Személyes adatait a vonatkozó törvényekkel, rendeletekkel és adatvédelmi irányelvekkel összhangban védjük. Ha készüléke aktív, a következő szolgáltatások csatlakoznak a hálózatra és férnek hozzá az Ön tartózkodási helyéhez:</string>
-    <string name="terms_of_use_label_use_network_china">A MIUI használata előtt el kell olvasnia és el kell fogadnia a Felhasználói Szerződésünket és az Adatvédelmi irányelvünket. Személyes adatait a vonatkozó törvényekkel, rendeletekkel és adatvédelmi irányelvekkel összhangban védjük. Ha készüléke aktív, a következő szolgáltatások csatlakoznak a hálózatra:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">A rendszer használata előtt el kell olvasnia és el kell fogadnia a Felhasználói Szerződésünket és az Adatvédelmi irányelvünket. Személyes adatait a vonatkozó törvényekkel, rendeletekkel és adatvédelmi irányelvekkel összhangban védjük. Ha készüléke aktív, a következő szolgáltatások csatlakoznak a hálózatra és férnek hozzá az Ön tartózkodási helyéhez:</string>
+    <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Háttérkép</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
@@ -707,15 +798,11 @@ A funkció használata előtt el kell fogadnia a Mint Keyboard adatvédelmi Irá
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
     <string name="tuesday">Kedd</string>
-    <string name="tuesday_short">Ked</string>
-    <string name="tuesday_shortest">Ked</string>
+    <string name="tuesday_short">Ke</string>
+    <string name="tuesday_shortest">Ke</string>
     <string name="user_agreement">Felhasználói szerződés</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
-    <string name="voice_assist_advice">A Mi AI hangvezérlést biztosít Önnek, de több energiát fogyaszt (+1% óránként).</string>
-    <string name="voice_assist_condition">"Ezekben az esetekben lesz képes használni a Mi AI-t:r
-1. Ha a képernyő be van kapcsolva.r
-2. Ha a képernyő ki van kapcsolva, de Ön zenét hallgat."</string>
     <string name="voice_assist_desp">Mondja a telefonjának azt, hogy: \"Mi AI\". A Mi AI érzékelni fogja a hangját és vezérelni tudja a készülékét.</string>
     <string name="voice_assist_title">Felébresztés hanggal</string>
     <string name="wc_dialog_agree">Elfogadom</string>

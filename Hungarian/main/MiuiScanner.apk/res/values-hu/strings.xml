@@ -48,6 +48,9 @@
     <string name="back">Vissza</string>
     <string name="barcode_into_rectangle">Helyezze a kódot a keretbe</string>
     <string name="birthday">Születésnap:</string>
+    <string name="btn_add_schedule">Esemény hozzáadása</string>
+    <string name="btn_send_email">E-mail küldése</string>
+    <string name="btn_send_message">SMS küldése</string>
     <string name="camera_error_title">Kamera hiba</string>
     <string name="cancel">Mégse</string>
     <string name="choose_open_code_app">Válasszon egy alkalmazást</string>
@@ -60,15 +63,17 @@
     <string name="common_save">Mentés</string>
     <string name="company">Cég:</string>
     <string name="confirm">Rendben</string>
-    <string name="connect_wifi">Csatlakozás a hálózathoz</string>
+    <string name="connect_wifi">Csatlakozás</string>
     <string name="contact_details">QR-kód névjegy:</string>
     <string name="continue_access_web_url">Honlap meglátogatása</string>
     <string name="continue_to_website">Honlap meglátogatása</string>
     <string name="copy">Másolás</string>
     <string name="copy_text">Szöveg másolása</string>
     <string name="copy_text_success">A szöveg kimásolva</string>
+    <string name="copy_web_url">URL másolása</string>
     <string name="crop_cancel_description">Mégse</string>
     <string name="crop_done_description">Kész</string>
+    <string name="cta_purpose">A Szkennernek használnia kell a kamerát, és fel kell dolgoznia az alkalmazás használata közben készített képeket. Ne használja a Szkennert a személyes adatait tartalmazó tárgyak lefényképezésére. Az \"Elfogadom\"gombra koppintva Ön elfogadja az Adatvédelmi irányelveinket, és engedélyezi, hogy a Szkenner csatlakozzon az internethez.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -95,6 +100,8 @@
     <string name="drag_barcode_into_frame">Igazítsa a kódot a keretbe</string>
     <string name="early_morning">Reggel</string>
     <string name="email">E-mail:</string>
+    <string name="email_message">Szövegtörzs</string>
+    <string name="email_sub">Tárgy</string>
     <string name="empty" />
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
@@ -103,10 +110,11 @@
     <string name="error_get_image">Nem sikerült a képet elérni</string>
     <string name="error_media_storage_failure">Nem sikerült elmenteni a fényképet</string>
     <string name="error_permissions">A Szkenner nem kapta meg a szükséges engedélyeket. Menjen a Beállításokba és ellenőrizze az engedélyeket a folytatáshoz.</string>
+    <string name="error_permissions_location">A normál működéshez engedélyezze az alkalmazás számára a pontos helymeghatározást</string>
     <string name="error_permissions_storage">A funkció használatához engedélyezze a fényképekhez való hozzáférést</string>
     <string name="evening">Délután</string>
     <string name="expand_button_title">Speciális</string>
-    <string name="feed_search_fail">Nincs találat, próbálja újra</string>
+    <string name="feed_search_fail">Nincs találat</string>
     <string name="feedback_description_camera_access">Nem lehet csatlakozni a kamerához</string>
     <string name="feedback_description_save_photo">Nem sikerült a fénykép vagy a videó mentése</string>
     <string name="feedback_phone">phone</string>
@@ -171,12 +179,12 @@
     <string name="friday_shortest">Pén</string>
     <string name="got_it">Rendben</string>
     <string name="import_contact">Névjegy importálása</string>
-    <string name="impunity_declaration_content">Az alkalmazás használata közben készített fényképek feldolgozásához adjon hozzáférést a beolvasónak a kamerájához. Ne használja a beolvasót olyan tárgyak fényképezésére, amelyeken látszódnak az Ön személyes adatai. Az alábbi „Elfogadom” gombra való koppintással Ön kijelenti, hogy elolvasta és elfogadja &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Adatvédelmi szabályzatunkat&lt;/a>&lt;/font> és engedélyezi a beolvasónak az internethez való csatlakozást.</string>
+    <string name="impunity_declaration_content">A Szkennernek használnia kell a kamerát, és fel kell dolgoznia az alkalmazás használata közben készített képeket. Ne használja a Szkennert a személyes adatait tartalmazó tárgyak lefényképezésére. Az \"Elfogadom\"gombra koppintva Ön elfogadja az &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Adatvédelmi irányelveinket&lt;/a>&lt;/font>, és engedélyezi, hogy a Szkenner csatlakozzon az internethez.</string>
     <string name="impunity_declaration_negative_text">Kilépés</string>
     <string name="jingdong">JD</string>
     <string name="kuaidi100_data">A Kuaidi 100 biztosítja</string>
     <string name="label_choose_picture">Válasszon egy fényképet</string>
-    <string name="label_flash_light">Zseblámpa</string>
+    <string name="label_flash_light">Vaku</string>
     <string name="language_entry_chinese_cn">Egyszerűsített kínai</string>
     <string name="language_entry_english">Angol</string>
     <string name="language_entry_french">Francia</string>
@@ -185,7 +193,7 @@
     <string name="language_entry_korean">Koreai</string>
     <string name="language_entry_spanish">Spanyol</string>
     <string name="logistics">Expressz szállítás</string>
-    <string name="low_version_tip">Frissítse a MIUI rendszert a legújabb verzióra, hogy használni tudja a Szkennert.</string>
+    <string name="low_version_tip">A Szkenner használatához frissítsen a legújabb rendszerverzióra.</string>
     <string name="midnight">Éjjel</string>
     <string name="mihome_goto_install">Telepítés</string>
     <string name="mihome_goto_update">Frissítés</string>
@@ -198,7 +206,7 @@
     <string name="mipayin_dialog_more">Több</string>
     <string name="mipayin_dialog_title">Megnyitás ezzel:</string>
     <string name="miracast_connect">Kivetítés</string>
-    <string name="miracast_connect_fail">Nem sikerült kivetíteni, próbálja újra</string>
+    <string name="miracast_connect_fail">Nem sikerült kivetíteni. Próbálja újra!</string>
     <string name="miracast_connecting">Kivetítés…</string>
     <string name="miracast_details">A kivetítéshez olvassa be a QR-kódot</string>
     <string name="miracast_message">Kivetíti ide: %s?</string>
@@ -282,6 +290,7 @@
     <string name="note">Megjegyzés:</string>
     <string name="now_state">"Jelenlegi állapot: "</string>
     <string name="once">Csak egyszer</string>
+    <string name="open_web_url">Megnyitás böngészőben</string>
     <string name="pay_save_this_choose">Választásom megjegyzése</string>
     <string name="payment_text">Megnyitás ezzel: %s</string>
     <string name="phone">Telefonszám:</string>
@@ -290,7 +299,7 @@
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="preparing_sd">Belső tárhely előkészítése…</string>
     <string name="privacy_policy">Adatvédelmi irányelvek</string>
-    <string name="qr_code_details">QR-kód részletei:</string>
+    <string name="qr_code_details">Szöveg</string>
     <string name="queryNum">Rendelés ellenőrzése</string>
     <string name="query_faile">A rendelés állapotát és a részleteket még nem szinkronizálták. Ellenőrizze a rendelést manuálisan.</string>
     <string name="query_more">További információ</string>
@@ -301,6 +310,10 @@
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
     <string name="scan_result">Eredmény</string>
+    <string name="schedule_date">Dátum</string>
+    <string name="schedule_description">Leírás</string>
+    <string name="schedule_location">Hely</string>
+    <string name="schedule_title">Cím</string>
     <string name="sdk_not_ready">SDK előkészítése. Próbálja újra később.</string>
     <string name="search_menu_title">Keresés</string>
     <string name="secure_access_web_url">Honlap meglátogatása</string>
@@ -323,6 +336,7 @@
     <string name="sunday_shortest">Vas</string>
     <string name="switch_open">Bekapcsolás</string>
     <string name="taobao">Taobao</string>
+    <string name="text_search">Keresés</string>
     <string name="the_anniversary_of_lifting_martial_law">A harci törvény feloldásának évfordulója</string>
     <string name="the_anti_aggression_day">Agresszióellenes Nap</string>
     <string name="the_arbor_day">A Fák Napja</string>
@@ -371,7 +385,9 @@
     <string name="time_picker_label_minute">M</string>
     <string name="title">Cím:</string>
     <string name="to_install_title">Ez a QR-kód átirányítja Önt egy még nem telepített alkalmazáshoz. Letölti az alkalmazás most?</string>
+    <string name="to_message">SMS-tartalom</string>
     <string name="to_pay">Fizetés véglegesítése</string>
+    <string name="to_person">Címzett</string>
     <string name="today">Ma</string>
     <string name="toinstall">Letöltés</string>
     <string name="tomorrow">Holnap</string>
@@ -392,16 +408,17 @@
     <string name="vender_info_translation_kingsoft">Kingsoft alapokon</string>
     <string name="waybill_num">"Sorrend: "</string>
     <string name="web">Honlap:</string>
-    <string name="website_details">Honlap:</string>
+    <string name="website_details">URL</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
     <string name="wednesday_shortest">Sze</string>
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Már létezik \"%1$s\" hotspot. Törölje, majd szkennelje be újra a kódot a csatlakozáshoz.</string>
     <string name="wifi_open_fail">A Wi-Fi bekapcsolása sikertelen</string>
+    <string name="wifi_password">Jelszó</string>
     <string name="wifi_psd_toolong">A jelszó túl hosszú. Adja meg manuálisan a jelszót.</string>
     <string name="wifi_pwd">Jelszó:</string>
-    <string name="wifi_security">Biztonság:</string>
-    <string name="wifi_ssid">SSID:</string>
+    <string name="wifi_security">Titkosítás</string>
+    <string name="wifi_ssid">Hálózat neve</string>
     <string name="yesterday">Tegnap</string>
 </resources>

@@ -5,16 +5,16 @@
         <item quantity="one">Egy órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Egy órával ezelőtt</item>
-        <item quantity="one">Egy órával ezelőtt</item>
+        <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Egy óra múlva</item>
-        <item quantity="one">Egy óra múlva</item>
+        <item quantity="other">%d órán belül</item>
+        <item quantity="one">%d órán belül</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Fél óra múlva</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Azonnal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d perc múlva</item>
-        <item quantity="one">1 perc múlva</item>
+        <item quantity="other">%d percen belül</item>
+        <item quantity="one">%d percen belül</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d perce</item>
-        <item quantity="one">1 perce</item>
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">%1$d videó a WeChat beszélgetésekben hamarosan lejár. Készítsen biztonsági másolatot a készülék belső tárhelyére?</item>
@@ -165,16 +165,16 @@
         <item quantity="one">%1$s hozzászólás</item>
     </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> nap</item>
-        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> nap</item>
+        <item quantity="other">" • &lt;font color=#fc7050>%1$d&lt;/font> nap"</item>
+        <item quantity="one">" • &lt;font color=#fc7050>%1$d&lt;/font> nap"</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• Önnek &lt;font color=#fc7050>%1$s&lt;/font> követője van!</item>
-        <item quantity="one">• Önnek &lt;font color=#fc7050>%1$s&lt;/font> követője van!</item>
+        <item quantity="other">" • Önnek &lt;font color=#fc7050>%1$s&lt;/font> követője van!"</item>
+        <item quantity="one">" • Önnek &lt;font color=#fc7050>%1$s&lt;/font> követője van!"</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• Ön &lt;font color=#fc7050>%1$s&lt;/font> videót töltött fel.</item>
-        <item quantity="one">• Ön &lt;font color=#fc7050>%1$s&lt;/font> videót töltött fel.</item>
+        <item quantity="other">" • Ön &lt;font color=#fc7050>%1$s&lt;/font> videót töltött fel. "</item>
+        <item quantity="one">" • Ön &lt;font color=#fc7050>%1$s&lt;/font> videót töltött fel. "</item>
     </plurals>
     <plurals name="original_user_play_2">
         <item quantity="other">&lt;font color=#fc7050>%1$s&lt;/font> embert tett boldoggá!</item>

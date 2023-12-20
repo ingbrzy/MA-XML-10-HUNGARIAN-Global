@@ -183,6 +183,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Kínai hagyományos naptár</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Dátum- és időbeállítás</string>
     <string name="date_today">" (ma)"</string>
     <string name="date_view">Dátum</string>
@@ -344,6 +345,8 @@
     <string name="full_scorecard">Teljes eredménytábla</string>
     <string name="gadget_no_events">Nincsenek naptáresemények</string>
     <string name="gadget_title">Naptár</string>
+    <string name="glance_card_sub_title">Izgalmas történetek megjelenítése a Képernyőzáron</string>
+    <string name="glance_card_title">Glance a Mi számára</string>
     <string name="global_action_text_card_manager">Szabja személyre a naptárát</string>
     <string name="global_cricket_no_match">Nincs mára ütemezett krikettmérkőzés. Nézzen meg másik napokat.</string>
     <string name="global_football_final">DÖNTŐ</string>

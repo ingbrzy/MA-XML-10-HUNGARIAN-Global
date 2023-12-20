@@ -71,11 +71,13 @@
     <string name="dialog_connect_verify_perssion_fail">Nem sikerült a kivetítés engedélyezése a tévéjén. Várjon néhány percet és próbálja újra.</string>
     <string name="dialog_connected">Kapcsolódva</string>
     <string name="dialog_connecting">Kapcsolódás…</string>
-    <string name="dialog_location_permission_message">Az alkalmazásnak hozzá kell férnie az Ön tartózkodási helyéhez ahhoz, hogy külső monitorokat találjon a közelben. Az engedély megadásakor válassza az \"Engedélyezés mindig\" lehetőséget, hogy elkerülje az esetleges hibákat.</string>
+    <string name="dialog_location_permission_message">Az alkalmazásnak hozzá kell férnie az Ön tartózkodási helyéhez ahhoz, hogy külső monitorokat találjon a közelben. Az engedély megadásakor válassza az \"Engedélyezés örökre\" lehetőséget, hogy elkerülje az esetleges hibákat.</string>
     <string name="dialog_location_permission_title">Engedélyek szükségesek</string>
     <string name="dialog_miplay_permission_message">A funkció megfelelő használata érdekében engedélyezze, hogy a Casting hangot rögzítsen, fájlokat érjen el a belső tárolóban, és hozzáférjen a helyadataihoz. A folytatáshoz érintse meg a \"Beállítások\" elemet, és válassza az \"Alkalmazási engedélyek\" lehetőséget.</string>
     <string name="dialog_miplay_permission_positive">Beállítások</string>
     <string name="dialog_miplay_permission_title">Engedélyek szükségesek</string>
+    <string name="dialog_nearbydevice_permission_message">Engedélyezze az eszköznek, hogy hozzáférjen a közeli készülékekhez az átküldési funkciók használatához.</string>
+    <string name="dialog_nearbydevice_permission_title">Engedély szükséges</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
     <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Csatlakoztassa a mobilkészülékét és a tévét is ugyanahhoz a Wi-Fi hálózathoz.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Néhány TV-modellnél ez a funkció csak akkor elérhető, ha a képernyő tükrözése be van kapcsolva. További információkért tekintse meg a &lt;a href=milink://com.milink.service/specification>\"Súgó\"&lt;/a> menüpontot.&lt;/Data></string>
     <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
@@ -348,6 +350,7 @@ Ha be kell kapcsolnia a Miracastot, nyomja meg a [MENU] gombot és válassza az 
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -562,6 +565,7 @@ A funkció használata előtt olvassa el és fogadja el &lt;a href=%1$s>Felhaszn
     <string name="toast_msg_for_multi_window">Ez a funkció nem használható Megosztott képernyővel</string>
     <string name="toast_msg_for_small_window">Annak érdekében, hogy telefonja más funkcióit is használhassa, minimalizálhatja a kivetített ablak méretét anélkül, hogy zavarná a kivetítést.</string>
     <string name="toast_nfc_dont_move">Ne tegye el a telefonját</string>
+    <string name="toast_nfc_same_wifi">Csatlakoztassa a TV-t és ezt a készüléket ugyanahhoz a hálózathoz</string>
     <string name="toast_title_for_small_window">Válassza az „Ablakminimalizálás” opciót az alkalmazásban</string>
     <string name="toast_turn_off_hotspot_before_cast">Kívetítés előtt kapcsolja ki a hordozható hotspotot</string>
     <string name="today">Ma</string>

@@ -53,7 +53,7 @@
         <item>Készülékkeresés</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
-        <item>Készüléke megkereséséhez és elveszett módba való váltáshoz</item>
+        <item>Készüléke megkereséséhez és Elveszett módba való kapcsolásához</item>
         <item>A készülék helyének meghatározásához, ha nincs csatlakoztatva az internethez</item>
         <item>A telefonszám eléréséhez, amellyel a készüléket meg lehet találni, ha az nincs csatlakoztatva az internethez</item>
     </string-array>

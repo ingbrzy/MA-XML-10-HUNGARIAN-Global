@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
     <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
     <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="acc_return">Vissza</string>
     <string name="actionbar_button_up_description">Vissza</string>
     <string name="afternoon">Délután</string>
     <string name="am">DE</string>
@@ -151,14 +152,14 @@
     <string name="grant_permission_text">A Galériaszerkesztőnek a következő engedélyre van szüksége a normál működéshez: %s. Koppintson a \"Beállítások\" gombra az engedély megadásához.</string>
     <string name="midnight">Éjjel</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
@@ -230,6 +231,9 @@
     <string name="noon">Dél</string>
     <string name="ok">OK</string>
     <string name="open">Be</string>
+    <string name="operation_original">Összehansonlít</string>
+    <string name="operation_redo">Újra</string>
+    <string name="operation_undo">Visszavonás</string>
     <string name="pm">DU</string>
     <string name="refocus_discard_confirm_message">Elmenti a változásokat?</string>
     <string name="refocus_discard_negative_btn">Elvetés</string>

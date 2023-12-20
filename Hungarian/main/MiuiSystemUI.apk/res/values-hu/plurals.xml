@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">Egy órával ezelőtt</item>
-        <item quantity="one">Egy órával ezelőtt</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Egy órával ezelőtt</item>
-        <item quantity="one">Egy órával ezelőtt</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Fél órával ezelőtt</item>
-        <item quantity="one">Fél órával ezelőtt</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Egy óra múlva</item>
-        <item quantity="one">Egy óra múlva</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Fél óra múlva</item>
-        <item quantity="one">Fél óra múlva</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Azonnal</item>
-        <item quantity="one">Azonnal</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d perc múlva</item>
-        <item quantity="one">1 perc múlva</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Épp most</item>
-        <item quantity="one">Épp most</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d perce</item>
-        <item quantity="one">1 perce</item>
-    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d napja</item>
         <item quantity="one">%d napja</item>
@@ -48,125 +12,65 @@
         <item quantity="other">%d éve</item>
         <item quantity="one">%d éve</item>
     </plurals>
-    <plurals name="controls_number_of_favorites">
-        <item quantity="other">%s vezérlő hozzáadva.</item>
-        <item quantity="one">%s vezérlő hozzáadva.</item>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Légköri nyomás: %s hectopascals</item>
+        <item quantity="one">Légköri nyomás: %s hectopascal</item>
     </plurals>
-    <plurals name="fgs_manager_footer_label">
-        <item quantity="other">%s alkalmazás aktív</item>
-        <item quantity="one">%s alkalmazás aktív</item>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Elégetett %1$s kalória</item>
+        <item quantity="one">Elégetett %1$s kalória</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Fél órával ezelőtt</item>
-        <item quantity="one">Fél órával ezelőtt</item>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Kalóriacél: %1$s kalória</item>
+        <item quantity="one">Kalóriacél: %1$s kalória</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Egy óra múlva</item>
-        <item quantity="one">Egy óra múlva</item>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">Fél óra múlva</item>
-        <item quantity="one">Fél óra múlva</item>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Aktivitással töltött idő: %1$s perc</item>
+        <item quantity="one">Aktivitással töltött idő: %1$s perc</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Azonnal</item>
-        <item quantity="one">Azonnal</item>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Aktivitáscél: %1$s perc</item>
+        <item quantity="one">Aktivitáscél: %1$s perc</item>
     </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">%d perc múlva</item>
-        <item quantity="one">1 perc múlva</item>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s p</item>
+        <item quantity="one">%1$s/%2$s p</item>
     </plurals>
-    <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">Helytelen PIN-kód, %d próbálkozása maradt</item>
-        <item quantity="one">Helytelen PIN-kód, %d próbálkozása maradt</item>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Felállt %1$s órán belül</item>
+        <item quantity="one">Felállt %1$s órán belül</item>
     </plurals>
-    <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">Helytelen PUK-kód, %d próbálkozása maradt</item>
-        <item quantity="one">Helytelen PUK-kód, %d próbálkozása maradt</item>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Állással töltött időcél: %1$s óra</item>
+        <item quantity="one">Állással töltött időcél: %1$s óra</item>
     </plurals>
-    <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Adja meg jelszavát legalább %d óránként, hogy el ne felejtse</item>
-        <item quantity="one">Adja meg jelszavát legalább %d óránként, hogy el ne felejtse</item>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s óra</item>
+        <item quantity="one">%1$s/%2$s óra</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Aktuális lépésszám: %1$s lépés</item>
+        <item quantity="one">Aktuális lépésszám: %1$s lépés</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Lépéscél: %1$s lépés</item>
+        <item quantity="one">Lépéscél: %1$s lépés</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s lépés</item>
+        <item quantity="one">%1$s/%2$s lépés</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">Adja meg jelszavát legalább %d óránként, hogy el ne felejtse</item>
         <item quantity="one">Adja meg jelszavát legalább %d óránként, hogy el ne felejtse</item>
     </plurals>
-    <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">Megközelítőleg %d óra van hátra</item>
-        <item quantity="one">Megközelítőleg %d óra van hátra</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">Megközelítőleg %d perc van hátra</item>
-        <item quantity="one">Megközelítőleg %d perc van hátra</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">Megközelítőleg %1$d óra %2$d perc van hátra</item>
-        <item quantity="one">Megközelítőleg %1$d óra %2$d perc van hátra</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d óra</item>
-        <item quantity="one">%d óra</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d perc</item>
-        <item quantity="one">%d perc</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d óra %2$d perc</item>
-        <item quantity="one">%1$d óra %2$d perc</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
-        <item quantity="other">%d óra van hátra</item>
-        <item quantity="one">%d óra van hátra</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">%d perc van hátra</item>
-        <item quantity="one">%d perc van hátra</item>
-    </plurals>
-    <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">%1$d ó %2$d p van hátra</item>
-        <item quantity="one">%1$d ó %2$d p van hátra</item>
-    </plurals>
-    <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Adja meg a SIM-kártya PIN-kódját. %d próbálkozása maradt.</item>
-        <item quantity="one">Adja meg a SIM-kártya PIN-kódját. %d próbálkozása maradt. Ha elfogynak a próbálkozási lehetőségek, az eszköz feloldásához fel kell vennie a kapcsolatot szolgáltatójával.</item>
-    </plurals>
-    <plurals name="kg_password_default_puk_message">
-        <item quantity="other">A SIM-kártya le van tiltva. A folytatáshoz adja meg a PUK-kódot. Még %d próbálkozása van, mielőtt végleg használhatatlanná válik a SIM-kártya. További információért forduljon a szolgáltatóhoz.</item>
-        <item quantity="one">A SIM-kártya le van tiltva. A folytatáshoz adja meg a PUK-kódot. Még %d próbálkozása van, mielőtt végleg használhatatlanná válik a SIM-kártya. További információért forduljon a szolgáltatóhoz.</item>
-    </plurals>
-    <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Helytelen PIN-kód a SIM-kártyához. Még %d próbálkozása maradt.</item>
-        <item quantity="one">Helytelen PIN-kód a SIM-kártyához. Még %d próbálkozása maradt, az eszköz feloldásához azt követően fel kell vennie a kapcsolatot szolgáltatójával.</item>
-    </plurals>
-    <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">Helytelen PUK-kód a SIM-kártyához. Még %d próbálkozása maradt, mielőtt a SIM-kártya végleg használhatatlanná válik.</item>
-        <item quantity="one">Helytelen PUK-kód a SIM-kártyához. Még %d próbálkozása maradt, mielőtt a SIM-kártya végleg használhatatlanná válik.</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Épp most</item>
-        <item quantity="one">Épp most</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d elem kiválasztva</item>
-        <item quantity="one">%d elem kiválasztva</item>
-    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d új értesítés</item>
         <item quantity="one">%d új értesítés</item>
-    </plurals>
-    <plurals name="new_notifications_msg">
-        <item quantity="other">%d új értesítés</item>
-        <item quantity="one">%d új értesítés</item>
-    </plurals>
-    <plurals name="notification_group_overflow_description">
-        <item quantity="other">%s további értesítés.</item>
-        <item quantity="one">%s további értesítés.</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d perccel ezelőtt</item>
-        <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">Próbálja újra %d perc múlva</item>
@@ -176,20 +80,8 @@
         <item quantity="other">Próbálja újra %d másodperc múlva</item>
         <item quantity="one">Próbálja újra %d másodperc múlva</item>
     </plurals>
-    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
-        <item quantity="other">%d eszköz</item>
-        <item quantity="one">%d eszköz</item>
-    </plurals>
-    <plurals name="snoozeHourOptions">
-        <item quantity="other">%d óra</item>
-        <item quantity="one">%d óra</item>
-    </plurals>
-    <plurals name="snoozeMinuteOptions">
-        <item quantity="other">%d perc</item>
-        <item quantity="one">%d perc</item>
-    </plurals>
-    <plurals name="user_limit_reached_message">
-        <item quantity="other">Legfeljebb %d felhasználót adhat hozzá.</item>
-        <item quantity="one">Csak egy felhasználót lehet létrehozni.</item>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Hőmérséklet: %1$s fok, %2$s</item>
+        <item quantity="one">Hőmérséklet: %1$s fok, %2$s</item>
     </plurals>
 </resources>

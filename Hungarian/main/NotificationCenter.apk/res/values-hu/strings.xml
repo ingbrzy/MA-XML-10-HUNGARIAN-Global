@@ -31,7 +31,6 @@
     <string name="afternoon">Délután</string>
     <string name="am">DE</string>
     <string name="app_name">Értesítések</string>
-    <string name="back">Vissza</string>
     <string name="channel_keyguard_hide_content">Az összes értesítés jelenjen meg, de a tartalom legyen rejtett</string>
     <string name="channel_keyguard_show_content">Az összes értesítés jelenjen meg tartalommal együtt</string>
     <string name="channel_keyguard_show_nothing">Semmilyen értesítés ne jelenjen meg</string>
@@ -61,6 +60,9 @@
     <string name="feedback">Visszajelzés</string>
     <string name="float_notification_snooze_strategy">Ideiglenes elrejtés</string>
     <string name="float_notification_snooze_summary">Húzza ujját felfelé a lebegő értesítéseken a további értesítések ideiglenes elrejtéséhez</string>
+    <string name="float_notification_snooze_summary_1_min">Swipe up on a floating notification to hide upcoming ones for %d minute</string>
+    <string name="float_notification_snooze_summary_always_float">Mindig mutassa a lebegő értesítéseket</string>
+    <string name="float_notification_snooze_summary_until_unlock">Húzza felfelé az ujját egy lebegő értesítésen a következők elrejtéséhez amíg a készülék zárolva van</string>
     <string name="float_notifications">Lebegő értesítések</string>
     <string name="float_notifications_short">Lebegő</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -135,18 +137,17 @@
     <string name="lockscreen_notifications_short">Képernyőzár</string>
     <string name="midnight">Éjjel</string>
     <string name="miui_snooze_always_float">Ne rejtse el</string>
-    <string name="miui_snooze_cancel">Mégse</string>
     <string name="miui_snooze_default_time">%d percig</string>
     <string name="miui_snooze_until_unlock_screen">Zárolásig</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
@@ -209,7 +210,7 @@
     <string name="notch_and_status_bar_setting">Vezérlőközpont és állapotsor</string>
     <string name="notification_display_setting">Értesítési felület</string>
     <string name="notification_display_style">Az értesítés stílusa</string>
-    <string name="notification_fold_description1">Az Értesítési mappa a MIUI 9-ben mutatkozott be. Ez a funkció megszűri a kevésbé fontos értesítéseket és egy külön mappában tárolja azokat.</string>
+    <string name="notification_fold_description1">Az Értesítések mappával a nem fontos értesítéseket lehet szűrni és külön mappába helyezni.</string>
     <string name="notification_fold_description2">A MIUI meg fogja jegyezni, hogy Ön milyen értesítéseket néz meg, majd több kritériumot használva megállapítja, hogy fontosak-e.</string>
     <string name="notification_fold_description3">Ha a fontosnak tartott értesítések mégis az Értesítések mappába kerülnek, győződjön meg róla, hogy jelentette-e már nekünk ezt a hibát. Nagyra értékeljük a visszajelzését.</string>
     <string name="notification_fold_footer_icon_summary">Megjeleníti az alkalmazásikonokat, ha a kevésbé fontos értesítések csoportosítva vannak</string>
@@ -219,9 +220,8 @@
     <string name="notification_keyguard_hide_content">Értesítés megjelenítése, de tartalom elrejtése</string>
     <string name="notification_keyguard_show_content">Értesítés és tartalom megjelenítése</string>
     <string name="notification_keyguard_show_nothing">Ne mutassa a Képernyőzár értesítéseit</string>
-    <string name="notification_manager">Alkalmazásértesítések</string>
     <string name="notification_style_android">Android</string>
-    <string name="notification_style_miui">MIUI</string>
+    <string name="notification_style_miui">Klasszikus</string>
     <string name="off">Ki</string>
     <string name="on">Be</string>
     <string name="pm">DU</string>
@@ -235,6 +235,7 @@
     <string name="settings_guide_title">Szükségesek egyéb beállítások?</string>
     <string name="show_badge_notifications">Értesítések száma</string>
     <string name="show_badge_notifications_short">Jelvények</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Állapotsor</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">A lebegő értesítések nincsenek engedélyezve</string>

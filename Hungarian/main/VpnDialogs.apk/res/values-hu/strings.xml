@@ -112,14 +112,14 @@
     <string name="legacy_title">A VPN csatlakoztatva van</string>
     <string name="midnight">Éjjel</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
@@ -180,6 +180,8 @@
     <string name="open_app">Alkalmazás indítása</string>
     <string name="pm">DU</string>
     <string name="prompt">Kapcsolódási kérés</string>
+    <string name="sanitized_vpn_label">%1$s ( %2$s)</string>
+    <string name="sanitized_vpn_label_with_ellipsis">%1$s… ( %2$s)</string>
     <string name="saturday">Szombat</string>
     <string name="saturday_short">Szo</string>
     <string name="saturday_shortest">Szo</string>
@@ -239,8 +241,8 @@
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
     <string name="tuesday">Kedd</string>
-    <string name="tuesday_short">Ked</string>
-    <string name="tuesday_shortest">Ked</string>
+    <string name="tuesday_short">Ke</string>
+    <string name="tuesday_shortest">Ke</string>
     <string name="warning">A(z) %s VPN kapcsolatot akar beállítani, amelynek segítségével figyelheti a hálózati forgalmat. Csak akkor fogadja el, ha megbízik a forrásban. &lt;br /> &lt;br /> Amikor a VPN aktív, &lt;img src=vpn_icon /> ikon jelenik meg a képernyő tetején.</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>

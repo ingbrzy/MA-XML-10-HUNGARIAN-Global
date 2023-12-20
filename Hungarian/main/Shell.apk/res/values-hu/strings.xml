@@ -23,6 +23,13 @@
     <string name="bugreport_unreadable_text">A hibajelentési fájlt nem sikerült beolvasni</string>
     <string name="bugreport_updating_title">Információk hozzáadása a hibajelentéshez</string>
     <string name="bugreport_updating_wait">Kérjük, várjon...</string>
+    <string name="call_notification_answer_action">Fogadás</string>
+    <string name="call_notification_answer_video_action">Videó</string>
+    <string name="call_notification_decline_action">Elutasítás</string>
+    <string name="call_notification_hang_up_action">Befejezés</string>
+    <string name="call_notification_incoming_text">Bejövő hívás</string>
+    <string name="call_notification_ongoing_text">Hívás folyamatban</string>
+    <string name="call_notification_screening_text">Bejövő hívás szűrése</string>
     <string name="save">Mentés</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

@@ -5,16 +5,16 @@
         <item quantity="one">Egy órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Egy órával ezelőtt</item>
-        <item quantity="one">Egy órával ezelőtt</item>
+        <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Egy óra múlva</item>
-        <item quantity="one">Egy óra múlva</item>
+        <item quantity="other">%d órán belül</item>
+        <item quantity="one">%d órán belül</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Fél óra múlva</item>
@@ -25,16 +25,20 @@
         <item quantity="one">Azonnal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d perc múlva</item>
-        <item quantity="one">1 perc múlva</item>
+        <item quantity="other">%d percen belül</item>
+        <item quantity="one">%d percen belül</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d perce</item>
-        <item quantity="one">1 perce</item>
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
+    </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">Nincs elegendő tárhely. Nem szinkronizálható %d kép.</item>
+        <item quantity="one">Nincs elegendő tárhely. Nem szinkronizálható %d kép.</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d tiltólista bejegyzés</item>
@@ -108,6 +112,10 @@
         <item quantity="other">Próbálja újra %d másodperc múlva</item>
         <item quantity="one">Próbálja újra %d másodperc múlva</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">Nem szinkronizálható &lt;font color=#F22424>%s elem&lt;/font></item>
+        <item quantity="one">Nem szinkronizálható &lt;font color=#F22424>%s elem&lt;/font></item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">Nem sikerült szinkronizálni %s elemet</item>
         <item quantity="one">Nem sikerült szinkronizálni %s elemet</item>
@@ -155,6 +163,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">A tárhely megtelt. Nem szinkronizálható &lt;font color=#F22424>%d alkalmazás&lt;/font>.</item>
+        <item quantity="one">A tárhely megtelt. Nem szinkronizálható &lt;font color=#F22424>%d alkalmazás&lt;/font>.</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>

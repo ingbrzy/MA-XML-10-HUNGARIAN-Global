@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Egy órával ezelőtt</item>
+        <item quantity="one">Egy órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d órán belül</item>
+        <item quantity="one">%d órán belül</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Azonnal</item>
+        <item quantity="one">Azonnal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d percen belül</item>
+        <item quantity="one">%d percen belül</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
+    </plurals>
+    <plurals name="age_restriction">
+        <item quantity="other">%1$d+ értékelés</item>
+        <item quantity="one">%1$d+ értékelés</item>
+    </plurals>
+    <plurals name="app_detail_download_count">
+        <item quantity="other">%1$s letöltés</item>
+        <item quantity="one">%1$s letöltés</item>
+    </plurals>
+    <plurals name="app_detail_sub_count">
+        <item quantity="other">%1$s előrendelés</item>
+        <item quantity="one">%1$s előrendelés</item>
+    </plurals>
+    <plurals name="app_selected_recall_dialog">
+        <item quantity="other">%1$d alkalmazás kiválasztva</item>
+        <item quantity="one">%1$d alkalmazás kiválasztva</item>
+    </plurals>
+    <plurals name="click_to_use_debug_mode">
+        <item quantity="other">Váltson hibakeresési módba %1$d lépésben</item>
+        <item quantity="one">Váltson hibakeresési módba %1$d lépésben</item>
+    </plurals>
+    <plurals name="cloud_game_little_time_desc">
+        <item quantity="other">%d perc játékideje van hátra. Vásároljon felhőbérletet, hogy megszakítás nélkül játsszon.</item>
+        <item quantity="one">%d perc játékideje van hátra. Vásároljon felhőbérletet, hogy megszakítás nélkül játsszon.</item>
+    </plurals>
+    <plurals name="cloud_game_prioritize_queue">
+        <item quantity="other">%d napos bérlet használata az elsőbbségi sorhoz való hozzáféréshez</item>
+        <item quantity="one">%d napos bérlet használata az elsőbbségi sorhoz való hozzáféréshez</item>
+    </plurals>
+    <plurals name="cloud_game_queue_info_first">
+        <item quantity="other">%d személy van Ön előtt</item>
+        <item quantity="one">%d személy van Ön előtt</item>
+    </plurals>
+    <plurals name="cloud_game_queue_info_second">
+        <item quantity="other">≈%d perc maradt</item>
+        <item quantity="one">≈%d perc maradt</item>
+    </plurals>
+    <plurals name="cloud_game_toast_time_left">
+        <item quantity="other">%d perc játékidő maradt</item>
+        <item quantity="one">%d perc játékidő maradt</item>
+    </plurals>
+    <plurals name="collapse_update_apps_hint_v1">
+        <item quantity="other">Az összes %1$d alkalmazás megjelenítéséhez koppintson</item>
+        <item quantity="one">Az összes %1$d alkalmazás megjelenítéséhez koppintson</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_desc_multiple">
+        <item quantity="other">%1$d személytől, beleértve @%2$s és @%3$s személyét is</item>
+        <item quantity="one">%1$d személytől, beleértve @%2$s és @%3$s személyét is</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_title">
+        <item quantity="other">Önnek %1$d olvasatlan üzenet van</item>
+        <item quantity="one">Önnek %1$d olvasatlan üzenet van</item>
+    </plurals>
+    <plurals name="comment_score_count">
+        <item quantity="other">%1$s értékelés</item>
+        <item quantity="one">%1$s értékelés</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%1$s nap</item>
+        <item quantity="one">%1$s nap</item>
+    </plurals>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">%1$s kiválasztott elem törlése?</item>
+        <item quantity="one">%1$s kiválasztott elem törlése?</item>
+    </plurals>
+    <plurals name="detail_comment_comment_limit_5">
+        <item quantity="other">A megjegyzéseknek legalább %1$d karaktert kell tartalmazniuk</item>
+        <item quantity="one">A megjegyzéseknek legalább %1$d karaktert kell tartalmazniuk</item>
+    </plurals>
+    <plurals name="detail_comment_tip_max_num">
+        <item quantity="other">Az értékelések legfeljebb %1$d karaktert tartalmazhatnak</item>
+        <item quantity="one">Az értékelések legfeljebb %1$d karaktert tartalmazhatnak</item>
+    </plurals>
+    <plurals name="dialog_title_uninstall_multiple_app_new">
+        <item quantity="other">%1$d alkalmazás törlése, beleértve %2$s-t?</item>
+        <item quantity="one">%1$d alkalmazás törlése, beleértve %2$s-t?</item>
+    </plurals>
+    <plurals name="download_list_delete_all_confirm_message">
+        <item quantity="other">%1$d letöltés törlése a listából, beleértve ezt is: %2$s?</item>
+        <item quantity="one">%1$d letöltés törlése a listából, beleértve ezt is: %2$s?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Előretekerés %d másodperccel</item>
+        <item quantity="one">Előretekerés %d másodperccel</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Visszatekerés %d másodperccel</item>
+        <item quantity="one">Visszatekerés %d másodperccel</item>
+    </plurals>
+    <plurals name="game_sub_list_online_sub_count">
+        <item quantity="other">%s előrendelés</item>
+        <item quantity="one">%s előrendelés</item>
+    </plurals>
+    <plurals name="guide_recommend_serval_apps_selected">
+        <item quantity="other">%1$d alkalmazás kiválasztva</item>
+        <item quantity="one">%1$d alkalmazás kiválasztva</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Fél órával ezelőtt</item>
+        <item quantity="one">Fél órával ezelőtt</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Egy óra múlva</item>
+        <item quantity="one">Egy óra múlva</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Fél óra múlva</item>
+        <item quantity="one">Fél óra múlva</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Azonnal</item>
+        <item quantity="one">Azonnal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d perc múlva</item>
+        <item quantity="one">1 perc múlva</item>
+    </plurals>
+    <plurals name="install_all_description">
+        <item quantity="other">%1$s telepítése, beleértve %2$s telepítése mindenképp?</item>
+        <item quantity="one">%1$s telepítése, beleértve %2$s telepítése mindenképp?</item>
+    </plurals>
+    <plurals name="install_on_data_description">
+        <item quantity="other">Az alkalmazások mobiladat-használattal való letöltése további díjakat vonhat maga után. Mindenképp letölti a(z) %1$s alkalmazást, beleértve a(z) %2$s alkalmazást?</item>
+        <item quantity="one">Az alkalmazások mobiladat-használattal való letöltése további díjakat vonhat maga után. Mindenképp letölti a(z) %1$s alkalmazást, beleértve a(z) %2$s alkalmazást?</item>
+    </plurals>
+    <plurals name="install_on_metered_wifi_description">
+        <item quantity="other">Ön épp egy Wi-Fi-hotspothoz csatlakozik. Az alkalmazások letöltése további adatforgalmi díjakat generálhat a csatlakoztatott eszközön. Mindenképpen letölti a(z) %1$s alkalmazást, beleértve a(z) %2$s alkalmazást is?</item>
+        <item quantity="one">Ön épp egy Wi-Fi-hotspothoz csatlakozik. Az alkalmazások letöltése további adatforgalmi díjakat generálhat a csatlakoztatott eszközön. Mindenképpen letölti a(z) %1$s alkalmazást, beleértve a(z) %2$s alkalmazást is?</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%1$s elem kiválasztva</item>
+        <item quantity="one">%1$s elem kiválasztva</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Épp most</item>
+        <item quantity="one">Épp most</item>
+    </plurals>
+    <plurals name="mi_protect_dialog_manual_inspect_desc">
+        <item quantity="other">%d manuális megfelelőségi tesztet hajtunk végre a legnépszerűbb alkalmazásokon</item>
+        <item quantity="one">%d manuális megfelelőségi tesztet hajtunk végre a legnépszerűbb alkalmazásokon</item>
+    </plurals>
+    <plurals name="mine_uninstall_desc">
+        <item quantity="other">A(z) %1$d alkalmazást nem használták %2$d napja</item>
+        <item quantity="one">A(z) %1$d alkalmazást nem használták %2$d napja</item>
+    </plurals>
+    <plurals name="mini_card_gp_num_reviews">
+        <item quantity="other">%s értékelés</item>
+        <item quantity="one">%s értékelés</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">%d elem kiválasztva</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+    <plurals name="native_install_count">
+        <item quantity="other">%s letöltés</item>
+        <item quantity="one">%s letöltés</item>
+    </plurals>
+    <plurals name="notif_apps_has_new_update">
+        <item quantity="other">&lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> alkalmazás frissíthető</item>
+        <item quantity="one">&lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> alkalmazás frissíthető</item>
+    </plurals>
+    <plurals name="notif_auto_update_title">
+        <item quantity="other">%1$d alkalmazás frissítve Wi-Fi-n keresztül</item>
+        <item quantity="one">%1$d alkalmazás frissítve Wi-Fi-n keresztül</item>
+    </plurals>
+    <plurals name="notif_has_new_update_test1">
+        <item quantity="other">A felhasználók &lt;font color=#ff5f32>&lt;xliff:g id=user_percent>%1$s&lt;/xliff:g>&lt;/font>-a már frissítette ezt a(z) &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%2$d&lt;/xliff:g>&lt;/font> alkalmazást.</item>
+        <item quantity="one">A felhasználók &lt;font color=#ff5f32>&lt;xliff:g id=user_percent>%1$s&lt;/xliff:g>&lt;/font>-a már frissítette ezt a(z) &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%2$d&lt;/xliff:g>&lt;/font> alkalmazást.</item>
+    </plurals>
+    <plurals name="notification_installing">
+        <item quantity="other">%1$s alkalmazás telepítése</item>
+        <item quantity="one">%1$s alkalmazás telepítése</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">1 perce</item>
+    </plurals>
+    <plurals name="text_points">
+        <item quantity="other">%1$3d érme</item>
+        <item quantity="one">%1$3d érme</item>
+    </plurals>
+    <plurals name="today_voted_text_bottom">
+        <item quantity="other">Szavazás lezárva. %1$d személy szavazott.</item>
+        <item quantity="one">Szavazás lezárva. %1$d személy szavazott.</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_1">
+        <item quantity="other">"%1$d személy szavazott. "</item>
+        <item quantity="one">"%1$d személy szavazott. "</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_2">
+        <item quantity="other">Az eredmény %1$d órán belül kerülnek bejelentésre.</item>
+        <item quantity="one">Az eredmény %1$d órán belül kerülnek bejelentésre.</item>
+    </plurals>
+    <plurals name="uninstall_all_v1">
+        <item quantity="other">%1$s alkalmazás törlése</item>
+        <item quantity="one">%1$s alkalmazás törlése</item>
+    </plurals>
+    <plurals name="update_notification_bubble_text">
+        <item quantity="other">%1$d frissítés</item>
+        <item quantity="one">%1$d frissítés</item>
+    </plurals>
+    <plurals name="update_on_data_description">
+        <item quantity="other">Az alkalmazások mobiladat-használattal való frissítése további díjakat vonhat maga után. Mindenképp frissíti a(z) %1$s alkalmazást, beleértve a(z) %2$s alkalmazást?</item>
+        <item quantity="one">Az alkalmazások mobiladat-használattal való frissítése további díjakat vonhat maga után. Mindenképp frissíti a(z) %1$s alkalmazást, beleértve a(z) %2$s alkalmazást?</item>
+    </plurals>
+    <plurals name="update_on_metered_wifi_description">
+        <item quantity="other">Ön épp egy Wi-Fi-hotspothoz csatlakozik. Az alkalmazások frissítése további adatforgalmi díjakat generálhat a csatlakoztatott eszközön. Mindenképp frissíti a(z) %1$s alkalmazást, beleértve a(z) %2$s alkalmazást is?</item>
+        <item quantity="one">Ön épp egy Wi-Fi-hotspothoz csatlakozik. Az alkalmazások frissítése további adatforgalmi díjakat generálhat a csatlakoztatott eszközön. Mindenképp frissíti a(z) %1$s alkalmazást, beleértve a(z) %2$s alkalmazást is?</item>
+    </plurals>
+    <plurals name="update_time_relative_to_today">
+        <item quantity="other">%1$d nappal ezelőtt</item>
+        <item quantity="one">%1$d nappal ezelőtt</item>
+    </plurals>
+    <plurals name="upgrade_all_description">
+        <item quantity="other">%1$s frissítése, beleértve a(z) %2$s frissítését is?</item>
+        <item quantity="one">%1$s frissítése, beleértve a(z) %2$s frissítését is?</item>
+    </plurals>
+</resources>

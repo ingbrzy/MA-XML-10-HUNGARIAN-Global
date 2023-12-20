@@ -52,6 +52,7 @@
     <string name="activity_title_uninstall_apps">Alkalmazás</string>
     <string name="activity_title_video">Videók törlése</string>
     <string name="activity_title_white_list">Kivételek</string>
+    <string name="ad_flag_text">REKLÁM</string>
     <string name="ad_install_success_dialog_lunch">Megnyitás</string>
     <string name="ad_install_success_dialog_title">%1$s sikeresen telepítve. Megnyitja?</string>
     <string name="afternoon">Délután</string>
@@ -239,6 +240,7 @@
     <string name="dc_item_title_wechat_chat">WeChat-előzmények törlése</string>
     <string name="dc_storage_cleaned">%s felszabadítva</string>
     <string name="dc_storage_info">Elérhető: %1$s | Összesen: %2$s</string>
+    <string name="dc_storage_info_new">%1$s elérhető</string>
     <string name="deep_clean_completed_tips">Sikeres tisztítás</string>
     <string name="deep_clean_data_path_clean_title">Gyorsítótártörlés</string>
     <string name="deep_clean_uninstall_completed_tips">Sikeresen eltávolítva</string>
@@ -302,6 +304,7 @@
     <string name="download">Letöltés</string>
     <string name="downloading">Letöltés</string>
     <string name="early_morning">Reggel</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">Nincs</string>
     <string name="empty_content_no_privacy">Üres</string>
     <string name="empty_content_no_similar_image">Nincs fénykép</string>
@@ -462,7 +465,6 @@
     <string name="guide_dc_dialog_negative">Mégse</string>
     <string name="guide_dc_dialog_positive">OK</string>
     <string name="guide_dc_dialog_title">A tárhely hamarosan megtelik</string>
-    <string name="guide_secure_dialog_message">A készüléke optimalizáltsági pontja 80 alatt van. Optimalizálja most?</string>
     <string name="guide_secure_dialog_message_new">A készülékének optimalizáltsága alacsonyabb, mint %d pont. Optimalizálja most?</string>
     <string name="guide_secure_dialog_negative">Mégse</string>
     <string name="guide_secure_dialog_positive">Optimalizálás</string>
@@ -490,6 +492,7 @@
     <string name="hints_garbage_cleanup_result_safe">Minden rendben</string>
     <string name="hints_garbage_handle_item_content">%1$d elem, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Elem: 0</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Ritkán használt</string>
     <string name="hints_installed_app_near">Gyakran használt</string>
     <string name="hints_installed_app_never">Sosem volt használva</string>
@@ -539,6 +542,7 @@
     <string name="last_check_canceled">Előző keresés megszakítva</string>
     <string name="load_only_under_wlan">Betöltés csak Wi-Fi használatával</string>
     <string name="location_not_found">Nem találtam fájlt</string>
+    <string name="lock_device_toast">Ez az eszköz le van zárva. A Tisztító használatához oldja fel a lezárást.</string>
     <string name="login_immediately">Bejelentkezés</string>
     <string name="long_click_dialog_summary">Hosszan nyomva hozzáadás a kivételekhez</string>
     <string name="long_click_dialog_title">Megjegyzés</string>
@@ -566,14 +570,14 @@
     <string name="menu_view">Megtekintés a mappájában</string>
     <string name="midnight">Éjjel</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
@@ -638,6 +642,9 @@
     <string name="msg_update_error_code_success">Kész</string>
     <string name="msg_update_error_code_unknown_error">A szerverek túlterheltek. Várjon 1-2 percet, majd próbálja újra.</string>
     <string name="name_debuglog_dir">BSP hibakeresési napló</string>
+    <string name="native_body">Törzs</string>
+    <string name="native_headline">Címsor</string>
+    <string name="native_media_view">Médianézet</string>
     <string name="nb_clear_set">A gyorsítótár tisztítása, az akkumulátor és a tiltólista adatainak megjelenítése az értesítési felületen</string>
     <string name="network_not_available">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="news_change">Módosítás</string>
@@ -744,12 +751,7 @@
     <string name="pref_title_open_optimizer_cloud_scan">Fájlnév feltöltése</string>
     <string name="pref_title_open_optimizer_memory_scan">Alkalmazásmemória-vizsgálat</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
-    <string name="privacy_app_desc">Fiókok és jelszavak</string>
-    <string name="privacy_app_desc_message">Fiókok, jelszavak és üzenetek</string>
-    <string name="privacy_app_desc_search">Fiókok, jelszavak, és keresési előzmények</string>
-    <string name="privacy_app_desc_setting">Fiókok, jelszavak és beállítások</string>
     <string name="privacy_browser_desc">Keresett elemek</string>
-    <string name="privacy_cache_desc">Fiók, jelszó, előzmény, beállítások és egyebek</string>
     <string name="privacy_cache_empty">Nincsenek személyes adatok</string>
     <string name="privacy_cache_scaning">Ellenőrzés…</string>
     <string name="privacy_cache_title">Személyes adatok</string>
@@ -807,6 +809,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_ad">Kihagyás</string>
     <string name="sponsored">Szponzorált</string>
     <string name="start_downloading_app">Letöltés indítása: %1$s</string>
     <string name="start_install">Telepítés most</string>
@@ -868,9 +871,7 @@
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="tips_low_storage_dialog_cancel">Mégse</string>
-    <string name="tips_low_storage_dialog_msg_qq">A QQ gyorsítótárának mérete elérte a 3GB-ot. Ez lelassíthatja a készülékét. Törli a QQ gyorsítótárát most?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">A QQ gyorsítótárának mérete elérte a %d GB-ot. Ez lelassíthatja a készülékét. Törli a QQ gyorsítótárát most?</string>
-    <string name="tips_low_storage_dialog_msg_storage">A tárhely 90%-át felhasználta. Távolítsa el a nem használt alkalmazásokat.</string>
     <string name="tips_low_storage_dialog_msg_storage_new">Ön a tárhelyének %s részét használja. Távolítsa el a nem használt alkalmazásokat.</string>
     <string name="tips_low_storage_dialog_msg_wechat_new">A WeChat gyorsítótárának mérete elérte a %d GB-ot. Ez lelassíthatja a készülékét. Törli a WeChat gyorsítótárát most?</string>
     <string name="tips_low_storage_dialog_ok">Törlés</string>
@@ -938,6 +939,7 @@
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
     <string name="virus_scan">Víruskeresés</string>
+    <string name="watermark_label_prefix">AdMob –</string>
     <string name="wechat_chat_data_type_cache">WeChat gyorsítótár</string>
     <string name="wechat_chat_data_type_cache_desc">Azután fogja tudni visszaállítani ezeket a fájlokat, ha csatlakozott az internetre.</string>
     <string name="wechat_chat_data_type_chat">Csevegés előzmények</string>

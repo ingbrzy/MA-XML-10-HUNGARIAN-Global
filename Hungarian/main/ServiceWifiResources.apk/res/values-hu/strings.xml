@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Elfogadás</string>
+    <string name="apm_enabled_first_time_message">Az eszköz bekapcsolva tartja a Wi‑Fi-t Repülős üzemmódban. Kapcsolja ki a Wi-Fi-t, ha nem szeretné, hogy bekapcsolva maradjon.</string>
+    <string name="apm_enabled_first_time_title">A Wi‑Fi bekapcsolva marad</string>
     <string name="decline">Elutasítás</string>
     <string name="dlg_ok">OK</string>
+    <string name="notification_channel_apm_alerts">APM-riasztások</string>
     <string name="notification_channel_network_alerts">Hálózati értesítések</string>
     <string name="notification_channel_network_available">Van elérhető hálózat</string>
     <string name="notification_channel_network_status">Hálózati állapot</string>
@@ -21,6 +24,10 @@
 %1$s
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"Tanúsítvány lejárati ideje:
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"Csak akkor engedélyezze a hálózathoz való csatlakozást, ha az alábbi információk helyesnek tűnnek.
 
 "</string>
@@ -36,12 +43,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Aláírás:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"SHA-256-ujjlenyomat:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">Ne csatlakozzon</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Csatlakozás mindenképp</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Leválasztás most</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Kapcsolat fenntartása</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">A hálózati %1$s egyik tanúsítványa hiányzik.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">További információ a tanúsítványok hozzáadásáról</string>
     <string name="wifi_ca_cert_dialog_preT_title">Ez a hálózat nem igazolható</string>
@@ -82,14 +89,29 @@ Ez a módosítás lehetővé teheti, hogy más közeli eszközök megfigyelhess�
     <string name="wifi_enable_request_dialog_negative_button">Tiltás</string>
     <string name="wifi_enable_request_dialog_positive_button">Engedélyezés</string>
     <string name="wifi_enable_request_dialog_title">Engedélyezi a(z) %1$s számára a Wi‑Fi bekapcsolását?</string>
+    <string name="wifi_enabled_apm_first_time_message">Ha bekapcsolva tartja a Wi-Fi-t, az eszköz emlékezni fog arra, hogy a következő alkalommal, amikor Repülős üzemmódban van, bekapcsolva tartsa a funkciót</string>
+    <string name="wifi_enabled_apm_first_time_title">A Wi‑Fi bekapcsolva marad Repülős üzemmódban</string>
     <string name="wifi_interface_priority_approve">Engedélyezés</string>
+    <string name="wifi_interface_priority_interface_name_ap">Wi‑Fi Hotspot</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">Wi‑Fi Hotspot</string>
+    <string name="wifi_interface_priority_interface_name_nan">Wi‑Fi Aware</string>
+    <string name="wifi_interface_priority_interface_name_p2p">Wi-Fi Direct</string>
+    <string name="wifi_interface_priority_interface_name_sta">STA</string>
     <string name="wifi_interface_priority_message">Ez problémákat okozhat a következő alkalmazásoknál: %3$s.</string>
     <string name="wifi_interface_priority_message_plural">Ez problémákat okozhat a következő alkalmazásoknál: %3$s.</string>
     <string name="wifi_interface_priority_reject">Tiltás</string>
     <string name="wifi_interface_priority_title">A következő alkalmazás hálózatkezelési forrást kíván használni: %1$s</string>
+    <string name="wifi_network_disabled_by_admin_button">Bezárás</string>
+    <string name="wifi_network_disabled_by_admin_message">%1$s letiltva a rendszergazda által.</string>
+    <string name="wifi_network_disabled_by_admin_title">Hozzáférhetetlen hálózat</string>
+    <string name="wifi_network_switch_dialog_negative_button">Nincs váltás</string>
+    <string name="wifi_network_switch_dialog_positive_button">Váltás</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">A(z) %1$s gyenge minőségű. Szeretne a következőre váltani: %2$s?</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">Úgy tűnik, a(z) %1$s nem csatlakozik az internethez. Szeretne a következőre váltani: %2$s?</string>
     <string name="wifi_p2p_enter_pin_message">Adja meg a szükséges PIN kódot:</string>
     <string name="wifi_p2p_frequency_conflict_message">A telefon ideiglenesen kilép a Wi-Fi hálózatról, míg a(z) %1$s eszközhöz csatlakozik.</string>
     <string name="wifi_p2p_from_message">Feladó:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0,plural, =1{# másodperc maradt az elfogadásra.}other{# másodperc maradt az elfogadásra.}}</string>
     <string name="wifi_p2p_invitation_sent_title">Meghívó elküldve</string>
     <string name="wifi_p2p_invitation_to_connect_title">Meghívó csatlakozásra</string>
     <string name="wifi_p2p_show_pin_message">PIN-kód:</string>

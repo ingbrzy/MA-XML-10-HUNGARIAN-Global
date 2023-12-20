@@ -52,7 +52,7 @@
     <string name="columbus_ad_flag_text">REKLÁM</string>
     <string name="columbus_skip_ad">Kihagyás</string>
     <string name="common_google_play_services_enable_button">Engedélyezés</string>
-    <string name="common_google_play_services_enable_text">"A(z) %1$s alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string name="common_google_play_services_enable_text">A(z) %1$s alkalmazás csak akkor működik, ha engedélyezi a Google Play-szolgáltatásokat.</string>
     <string name="common_google_play_services_enable_title">Google Play-szolgáltatások engedélyezése</string>
     <string name="common_google_play_services_install_button">Telepítés</string>
     <string name="common_google_play_services_install_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről.</string>
@@ -74,6 +74,7 @@
     <string name="continue_download">Folytatás</string>
     <string name="copy">Másolás</string>
     <string name="copy_info">Vágólapra másolva. Most már megoszthatja a barátaival!</string>
+    <string name="copy_toast_msg">Link vágólapra másolva</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -131,8 +132,20 @@
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="evening">Délután</string>
+    <string name="exo_download_completed">A letöltés befejeződött</string>
+    <string name="exo_download_description">Letöltés</string>
+    <string name="exo_download_downloading">Letöltés folyamatban</string>
+    <string name="exo_download_failed">Nem sikerült a letöltés</string>
+    <string name="exo_download_notification_channel_name">Letöltések</string>
+    <string name="exo_download_paused">Letöltések szüneteltetve</string>
+    <string name="exo_download_paused_for_network">A letöltések hálózatra várakoznak</string>
+    <string name="exo_download_paused_for_wifi">A letöltések Wi-Fi-re várakoznak</string>
+    <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="expand_button_title">Speciális</string>
     <string name="extend">Több</string>
+    <string name="fallback_menu_item_copy_link">Link másolása</string>
+    <string name="fallback_menu_item_open_in_browser">Megnyitás böngészőben</string>
+    <string name="fallback_menu_item_share_link">Link megosztása</string>
     <string name="file_size">Méret:</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -190,6 +203,9 @@
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
     <string name="gigabyteShort_per_seconds">GB/mp</string>
+    <string name="icon_create_failure">Parancsikon hozzáadása sikertelen</string>
+    <string name="icon_create_success">Parancsikon hozzáadása sikeres</string>
+    <string name="icon_restore">Koppintson a Letöltések kezdőképernyő parancsikonjának hozzáadásához</string>
     <string name="info_download_progress">A letöltési folyamat kijelzése</string>
     <string name="info_flow_show">Az ajánlott tartalom megjelenítése</string>
     <string name="insufficient_space">Nincs elég tárhely</string>
@@ -212,14 +228,14 @@
     <string name="midnight">Éjjel</string>
     <string name="missing_title">&lt;Ismeretlen></string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
@@ -306,6 +322,7 @@
     <string name="preferences_title">Beállítások</string>
     <string name="privacy_agree_dialog_msg">&lt;Data>Üdvözli a Downloads! Ezzel az alkalmazással fájlokat tölthet le.&lt;BR>A Downloads alkalmazásnak össze kell gyűjtenie a személyes adatokat, hogy olyan szolgáltatást tudjon nyújtani, amelyekből letöltési statisztikák hozhatók létre. &lt;a href=\"%1$s\">Adatvédelmi Irányelvünkben&lt;/a> olvashat arról, hogy hogyan kezeljük a begyűjtött információkat.&lt;BR>Olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói Feltételeinket&lt;/a> és &lt;a href=\"%1$s\">Adatvédelmi Irányelvünket&lt;/a> a Downloads használata előtt.&lt;BR>Bármikor visszavonhatja a Downloads Adatvédelmi Irányelvéhez adott hozzájárulását a Beállításokban. Ha nem fogadja el Adatvédelmi Irányelvünket, nem fogja tudni az alkalmazás minden funkcióját használni; azonban alapvető funkcióit továbbra is elérheti.&lt;/Data></string>
     <string name="privacy_agree_dialog_title">Felhasználási feltételek</string>
+    <string name="privacy_policy">Adatvédelmi irányelvek</string>
     <string name="privacy_revoke_dialog_later">Mégse</string>
     <string name="privacy_revoke_dialog_msg">A kapcsoló kikapcsolásával visszavonja hozzájárulását a Downloads Adatvédelmi Irányelveihez. Megszüntetjük személyes adatainak gyűjtését. A már összegyűjtött és megőrzött személyes adatokat az alkalmazandó jogszabályi előírások alapján meghatározott időtartamon belül töröljük. A Downloads az alapvető szolgáltatások biztosításához személyes adatokat kell, hogy összegyűjtsön. Az adatvédelmi irányelvekhez való hozzájárulásának visszavonása az összegyűjtött személyes adatok alapján a szolgáltatások elutasítását jelenti.</string>
     <string name="privacy_revoke_dialog_ok">Visszavonás</string>

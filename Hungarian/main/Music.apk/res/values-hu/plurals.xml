@@ -49,16 +49,16 @@ Szeretnéd, hogy segítsünk a megújításában?"</item>
         <item quantity="one">Egy órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Egy órával ezelőtt</item>
-        <item quantity="one">Egy órával ezelőtt</item>
+        <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Egy óra múlva</item>
-        <item quantity="one">Egy óra múlva</item>
+        <item quantity="other">%d órán belül</item>
+        <item quantity="one">%d órán belül</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Fél óra múlva</item>
@@ -69,16 +69,16 @@ Szeretnéd, hogy segítsünk a megújításában?"</item>
         <item quantity="one">Azonnal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d perc múlva</item>
-        <item quantity="one">1 perc múlva</item>
+        <item quantity="other">%d percen belül</item>
+        <item quantity="one">%d percen belül</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d perce</item>
-        <item quantity="one">1 perce</item>
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d hozzászólás</item>
@@ -142,6 +142,10 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
+    <plurals name="hide_reason_duration">
+        <item quantity="other">Kevesebb, mint %1$d</item>
+        <item quantity="one">Kevesebb, mint %1$d</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Egy óra múlva</item>
         <item quantity="one">Egy óra múlva</item>
@@ -170,6 +174,10 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
         <item quantity="other">%d személyt követ</item>
         <item quantity="one">%d személyt követ</item>
     </plurals>
+    <plurals name="media_store_new_songs_add">
+        <item quantity="other">%d új dal</item>
+        <item quantity="one">%d új dal</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>
@@ -197,6 +205,10 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
     <plurals name="reader_count">
         <item quantity="other">%d követő</item>
         <item quantity="one">%d követő</item>
+    </plurals>
+    <plurals name="reward_seconds_remaining">
+        <item quantity="other">VIP tagság %d másodperc múlva</item>
+        <item quantity="one">VIP tagság %d másodperc múlva</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d dal lesz elküldve</item>
@@ -233,5 +245,17 @@ Megjegyzés: A fájl a készülékről is törlésre kerül."</item>
     <plurals name="vip_remain_days_hint">
         <item quantity="other">%d nap maradt</item>
         <item quantity="one">%d nap maradt</item>
+    </plurals>
+    <plurals name="web_reward_dialog_title">
+        <item quantity="other">Ha %d másodpercig nézi, VIP tagsággal jutalmazzuk. Biztosan kilép?</item>
+        <item quantity="one">Ha %d másodpercig nézi, VIP tagsággal jutalmazzuk. Biztosan kilép?</item>
+    </plurals>
+    <plurals name="whitelist_multi_added">
+        <item quantity="other">%d fájl hozzáadva</item>
+        <item quantity="one">%d fájl hozzáadva</item>
+    </plurals>
+    <plurals name="whitelist_multi_added_before">
+        <item quantity="other">%d fájl korábban hozzáadva</item>
+        <item quantity="one">%d fájl korábban hozzáadva</item>
     </plurals>
 </resources>
