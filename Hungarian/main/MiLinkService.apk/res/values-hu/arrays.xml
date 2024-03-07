@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Alkalmazások kombinálása</item>
+        <item>Összekapcsolhatóság/Alkalmazások kombinálása</item>
+        <item>Autófunkciók</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Összekapcsolhatóság</item>
+        <item>Összekapcsolhatóság/Összekapcsolhatóság</item>
+        <item>Eszközök összekapcsolása, Eszköz-összekapcsolási szolgáltatások, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, intelligens kapcsolat, Mi Smart Hub, összekapcsolhatóság, Duo, Xiaomi telefon, Xiaomi laptop, többképernyős, duett, casting, alkalmazások kombinálása, átadás, alkalmazás átadás, tükör, Xiaomi Ecosystem, eszközcsatlakozás</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Adatvédelem</item>
+        <item>Összekapcsolhatóság/Adatvédelem</item>
+        <item>Adatvédelem és összekapcsolhatóság, adatvédelem</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Xiaomi Interconnectivity</item>
+        <item>Összekapcsolhatóság/Xiaomi Interconnectivity</item>
+        <item>Xiaomi Interconnectivity Services, Xiaomi Interconnectivity</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Alkalmazás átadás</item>
+        <item>Összekapcsolhatóság/Alkalmazás átadás</item>
+        <item>Alkalmazások átvitele, átadás, átvitel</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Hívások</item>
+        <item>Összekapcsolhatóság/Hívások</item>
+        <item>Hívások</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Hálózati segítség</item>
+        <item>Összekapcsolhatóság/Hálózati segítség</item>
+        <item>Hálózati segítség, internetmegosztás, hotspot megosztás</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Kezdőképernyő+</item>
+        <item>Összekapcsolhatóság/Kezdőképernyő+</item>
+        <item>Kezdőképernyő+, Mi Smart Hub, képernyőmegosztás</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Vágólap</item>
+        <item>Összekapcsolhatóság/Vágólap</item>
+        <item>Vágólap</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Eszközök közötti értesítések</item>
+        <item>Összekapcsolhatóság/Értesítések</item>
+        <item>Eszközök közötti értesítések</item>
+    </string-array>
+</resources>

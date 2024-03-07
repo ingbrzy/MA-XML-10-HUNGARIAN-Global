@@ -60,7 +60,7 @@
     <string name="feedback">Visszajelzés</string>
     <string name="float_notification_snooze_strategy">Ideiglenes elrejtés</string>
     <string name="float_notification_snooze_summary">Húzza ujját felfelé a lebegő értesítéseken a további értesítések ideiglenes elrejtéséhez</string>
-    <string name="float_notification_snooze_summary_1_min">Swipe up on a floating notification to hide upcoming ones for %d minute</string>
+    <string name="float_notification_snooze_summary_1_min">Húzza felfelé az ujját egy lebegő értesítésen a következő értesítések elrejtéséig %d percig</string>
     <string name="float_notification_snooze_summary_always_float">Mindig mutassa a lebegő értesítéseket</string>
     <string name="float_notification_snooze_summary_until_unlock">Húzza felfelé az ujját egy lebegő értesítésen a következők elrejtéséhez amíg a készülék zárolva van</string>
     <string name="float_notifications">Lebegő értesítések</string>
@@ -235,6 +235,7 @@
     <string name="settings_guide_title">Szükségesek egyéb beállítások?</string>
     <string name="show_badge_notifications">Értesítések száma</string>
     <string name="show_badge_notifications_short">Jelvények</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Állapotsor</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">A lebegő értesítések nincsenek engedélyezve</string>

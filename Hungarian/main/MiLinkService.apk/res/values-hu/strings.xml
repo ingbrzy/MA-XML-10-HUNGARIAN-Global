@@ -36,6 +36,8 @@
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
     <string name="bottomsheet_action_expand_halfway">Kibontás félig</string>
+    <string name="cast_auth_count_down">Adja meg a \"%1$s\" kódját a kivetítés megkezdéséhez (%2$ds)</string>
+    <string name="cast_auth_title">Írja be a kódot</string>
     <string name="cast_image_des">Kivetítés oktatóanyag</string>
     <string name="casting_tips">Kivetítés…</string>
     <string name="character_counter_content_description">Begépelt karakterszám: %2$d/%1$d</string>
@@ -43,10 +45,11 @@
     <string name="clear_text_end_icon_content_description">Szöveg törlése</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="close">Bezárás</string>
+    <string name="close_auxiliary_wifi_hint">A kivetítéshez kapcsolja ki a „Kétsávos Wi-Fi sebességgyorsítás” funkciót.</string>
+    <string name="close_auxiliary_wifi_hint_china">Turn off \"Dual band WLAN speed boost\" to be able to cast</string>
+    <string name="close_dp_casting_hint">Válassza le a kábelt, és próbálja újra</string>
     <string name="close_hotspot_hint">Kívetítés előtt kapcsolja ki a hordozható hotspotot</string>
     <string name="close_hotspot_hint_DFS">Elemek tévére történő átviteléhez először kapcsolja ki a hotspotot.</string>
-    <string name="close_slave_wifi_hint">Kivetítés előtt csatlakozzon le a segéd Wi-Fi-hálózatokról</string>
-    <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
     <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
@@ -65,6 +68,7 @@
     <string name="device_desc_trust">Megbízható eszközök</string>
     <string name="dialog_can_not_find_device">A közelben nem található készülék</string>
     <string name="dialog_cancle">Mégse</string>
+    <string name="dialog_close">Kikapcsolás</string>
     <string name="dialog_connect_fail">Kapcsolódás sikertelen</string>
     <string name="dialog_connect_retry">Az újrapróbálkozáshoz érintse meg</string>
     <string name="dialog_connect_verify_perssion">Először engedélyezze a kivetítést a tv-jén</string>
@@ -79,8 +83,8 @@
     <string name="dialog_nearbydevice_permission_message">Engedélyezze az eszköznek, hogy hozzáférjen a közeli készülékekhez az átküldési funkciók használatához.</string>
     <string name="dialog_nearbydevice_permission_title">Engedély szükséges</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
-    <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Csatlakoztassa a mobilkészülékét és a tévét is ugyanahhoz a Wi-Fi hálózathoz.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Néhány TV-modellnél ez a funkció csak akkor elérhető, ha a képernyő tükrözése be van kapcsolva. További információkért tekintse meg a &lt;a href=milink://com.milink.service/specification>\"Súgó\"&lt;/a> menüpontot.&lt;/Data></string>
-    <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
+    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Csatlakoztassa a mobilkészülékét és a tévét is ugyanahhoz a Wi-Fi hálózathoz.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Néhány TV-modellnél ez a funkció csak akkor elérhető, ha a képernyő tükrözése be van kapcsolva. További információkért tekintse meg a &lt;a href=milink://com.milink.service/specification>\"Súgó\"&lt;/a> menüpontot.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.</Data></string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_only_suport_content">Képek, videók vagy zene streamelése</string>
     <string name="dialog_open_wifi_bt">Bekapcsolás</string>
@@ -94,6 +98,9 @@ Ha problémája akad a csatlakozással, tekintse meg a Súgót."</string>
     <string name="dialog_scan_message_china">"%1$d. Connect both your mobile device and TV to the same WLAN network.
 
 %2$d. View \"Help\" to learn more."</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Turn off \"Dual band WLAN speed boost\" to be able to cast. Turn this feature off now?</string>
+    <string name="dialog_scanning_close_dual_wifi_global">A kivetítéshez kapcsolja ki a „Kétsávos Wi-Fi sebességgyorsítás” funkciót. Kikapcsolja most ezt a funkciót?</string>
+    <string name="dialog_scanning_close_tethering">A kivetítéshez kapcsolja ki a hotspotot. Kikapcsolja most a hotspotot?</string>
     <string name="dialog_scanning_device">Készülékek keresése a közelben…</string>
     <string name="dialog_scanning_precondition">A Vezeték nélküli megjelenítés használatához kapcsolja be a WIFI-t és a Bluetooth-t.</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
@@ -101,11 +108,13 @@ Ha problémája akad a csatlakozással, tekintse meg a Súgót."</string>
     <string name="dialog_select_tv">Eszköz kiválasztása (%1$d)</string>
     <string name="dialog_show_help">Segítség</string>
     <string name="disconnect">Kivetítése leállítása</string>
+    <string name="dp_casting_start_hint">Csatlakoztatva kábellel. A kivetítéséget ért.</string>
     <string name="dual_wifi_warning_china">Turn off dual WLAN and try again</string>
     <string name="dual_wifi_warning_global">Kapcsolja ki a dupla Wi-Fi-t, és próbálkozzon újra</string>
     <string name="early_morning">Reggel</string>
     <string name="empty" />
     <string name="enable_screen_projection_summary">Képernyőtartalom kivetítése külső monitorra</string>
+    <string name="enable_screen_projection_summary_new">Vetítse ki a mobileszköz képernyőjét a közeli tévékre és más külső monitorokra</string>
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="error_icon_content_description">Hiba</string>
@@ -168,24 +177,32 @@ Ha problémája akad a csatlakozással, tekintse meg a Súgót."</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
     <string name="global_privacy">Felhasználási feltételek</string>
-    <string name="global_privacy_detail">&lt;Data>Olvassa el és fogadja el a &lt;a href=%1$s>Felhasználói szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelveket&lt;/a>, mielőtt az alkalmazást használja.&lt;br> Ha nem járul hozzá a fent említett szolgáltatások használatához, akkor nem fogja tudni használni az alkalmazás egyes funkcióit; alapvető funkciói azonban továbbra is elérhetőek lesznek az Ön számára.&lt;/Data></string>
+    <string name="global_privacy_detail"><Data>Olvassa el és fogadja el a &lt;a href=%1$s>Felhasználói szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelveket&lt;/a>, mielőtt az alkalmazást használja.&lt;br> Ha nem járul hozzá a fent említett szolgáltatások használatához, akkor nem fogja tudni használni az alkalmazás egyes funkcióit; alapvető funkciói azonban továbbra is elérhetőek lesznek az Ön számára.</Data></string>
     <string name="global_privacy_explain">Üdvözli a Casting! Ez az alkalmazás az alábbi szolgáltatásokat kínálja:</string>
     <string name="global_privacy_feature">Kicsinyített ablakok használata, kivetítés kikapcsolt képernyővel és privát tárgyak elrejtése.</string>
     <string name="global_privacy_main">Az elemek kivetítése a telefon képernyőjéről egy nagyobb külső monitorra.</string>
     <string name="global_privacy_negative">Elutasítom</string>
     <string name="global_privacy_positive">Elfogadom</string>
     <string name="global_privacy_screencast">Felvétel vagy kivetítés közben az ezt a funkciót biztosító szolgáltatás bármilyen érzékeny információt rögzíthet, amely a képernyőn jelenik meg vagy lejátszható a készülékről, beleértve az olyan érzékeny információkat, mint a hang, a jelszavak, a fizetési adatok, a fényképek és az üzenetek.</string>
-    <string name="global_privacy_tip">&lt;Data>Az alapvető szolgáltatások biztosításához és a kivetítési folyamat optimalizálásához be kell gyűjtenünk a szükséges személyes adatokat. Az &lt;a href=%1$s>Adatvédelmi irányelvekben&lt;/a> olvashat arról, hogy hogyan kezeljük a begyűjtött adatokat. Bármikor visszavonhatja az Adatvédelmi irányelvekhez adott hozzájárulását a Beállításokban.&lt;/Data></string>
+    <string name="global_privacy_tip"><Data>Az alapvető szolgáltatások biztosításához és a kivetítési folyamat optimalizálásához be kell gyűjtenünk a szükséges személyes adatokat. Az &lt;a href=%1$s>Adatvédelmi irányelvekben&lt;/a> olvashat arról, hogy hogyan kezeljük a begyűjtött adatokat. Bármikor visszavonhatja az Adatvédelmi irányelvekhez adott hozzájárulását a Beállításokban.</Data></string>
     <string name="hang_up">Kikapcsolt képernyős kivetítés</string>
     <string name="hang_up_alert_dialog_content">Folytassa a kivetítést akkor is, ha eszközének képernyője ki van kapcsolva. Ez a funkció csökkenti az energiafogyasztást. A képernyő újbóli bekapcsolásához nyomja meg a Bekapcsolás gombot.</string>
     <string name="hang_up_alert_dialog_neg">Mégse</string>
     <string name="hang_up_alert_dialog_pos">OK</string>
     <string name="hang_up_alert_dialog_title">Épp kikapcsolt képernyős kivetítésre készül…</string>
+    <string name="head_toast_connecting">Csatlakozás…</string>
+    <string name="head_toast_fail">Kapcsolódás sikertelen</string>
+    <string name="head_toast_success">Sikeresen csatlakozva</string>
+    <string name="help_page_question_1st_01_international">"%1$d. Ha az eszköz, amelyre kivetít, egy Xiaomi TV-t, kapcsolja be rajta a Miracastot.
+%2$d. Ha az eszköz, amelyre kivetít, nem Xiaomi TV, ellenőrizze, hogy a tévé támogatja-e a Miracastot, és hogy ez a funkció be van-e kapcsolva. Ennek a funkciónak egyes tévétípusokon más neve lehet, például Vezeték nélküli megjelenítés, Képernyőtükrözés vagy Több képernyő."</string>
+    <string name="help_page_setp_1st_02_international">%1$d. Előfordulhat, hogy egyes tévémárkák automatikusan bekapcsolják a Miracastot.</string>
+    <string name="help_page_step_1st_01_international">%1$d. Kapcsolja be a Miracastot Xiaomi TV-jén.</string>
     <string name="help_page_text_01">Súgó</string>
     <string name="help_page_text_02">Mi az a kivetítés?</string>
     <string name="help_page_text_03">A kivetítés során a telefonjának képernyőjéről kivetíthet egy nagyobb külső monitorra. Ezzel megoszthat képeket és videókat ismerőseivel és családjával anélkül, hogy mobiladatforgalmat kellene használnia.</string>
     <string name="help_page_text_04">Hogyan vetíthetek ki dolgokat egy nagyobb képernyőre?</string>
     <string name="help_page_text_05">%1$d lépés: Ellenőrizze az eszközeit és a hálózati környezetet</string>
+    <string name="help_page_text_05_new">%1$d lépés: Ellenőrizze az eszközeit és a hálózati környezetet</string>
     <string name="help_page_text_06">"%1$d. Xiaomi TVs, set-top boxes, projectors:
 Connect both your mobile device and external monitor to the same WLAN network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
 Note: Older TV models might not support casting across different networks.
@@ -196,13 +213,33 @@ A legjobb hatás érdekében csatlakoztassa a mobilkészüléket és a külső m
 Megjegyzés: A régebbi TV-k nem feltétlenül támogatják a különböző hálózatok közötti kivetítést.
 %2$d. Ha más márkájú tévéket, set-top-boxokat vagy kivetítőket használ, csatlakoztassa a mobilkészüléket és a külső monitort ugyanahhoz a Wi-Fi hálózathoz.
 Ha a két készülék nem csatlakoztatható ugyanarra a hálózatra, kapcsolja be a Miracastot a külső monitoron. A Miracast-funkció elnevezése változó lehet."</string>
+    <string name="help_page_text_06_new_1">Xiaomi tévék, set-top boxok és projektorok:</string>
+    <string name="help_page_text_06_new_2">"%1$d. Győződjön meg róla, hogy mobileszköze és külső monitora ugyanahhoz a Wi-Fi-hálózathoz csatlakozik.
+%2$d. Egyes Xiaomi tévéken beállíthatja a kivetítést a tévéről, valamint személyre szabhatja az eszközkeresési és ellenőrzési módszereket."</string>
+    <string name="help_page_text_06_new_3">*A kivetítési beállításokban megadhatja a tévékészülék kivetítési beállításait.</string>
+    <string name="help_page_text_06_new_4">Nem Xiaomi tévék, set-top boxok és projektorok:</string>
+    <string name="help_page_text_06_new_5">"%1$d. Győződjön meg róla, hogy mobileszköze és külső monitora ugyanahhoz a Wi-Fi-hálózathoz csatlakozik.
+%2$d. Egyes tévémárkákon be kell kapcsolnia a Miracastot a kivetítéshez."</string>
+    <string name="help_page_text_06_new_6">Bővebben</string>
     <string name="help_page_text_08">%1$d lépés: Kapcsolja be a kivetítést</string>
+    <string name="help_page_text_08_new">%1$d lépés: Kapcsolja be a kivetítést</string>
     <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
     <string name="help_page_text_09_global">Koppintson készülékének értesítési felületén a „Kivetítés” lehetőségre. A stabilabb kapcsolat érdekében kapcsolja be a Wi-Fi-t és a Bluetooth-t is.</string>
+    <string name="help_page_text_09_new_1">Kapcsolja be a kivetítést eszköze Irányítóközpontjában, majd keressen egy külső monitort.</string>
     <string name="help_page_text_10">Ha fotókat, videókat, játékokat vagy prezentációkat szeretne kivetíteni, használhatja az adott alkalamazásba beépített kivetítési funkciókat.</string>
     <string name="help_page_text_11">%1$d. lépés: Válasszon eszközt</string>
+    <string name="help_page_text_11_new">%1$d. lépés: Válasszon eszközt</string>
     <string name="help_page_text_12">A kivetítés elindításához válasszon egy külső eszközt az elérhető eszközök listájából.</string>
+    <string name="help_page_text_12_new_1">A kivetítés elindításához válasszon egy külső eszközt az elérhető eszközök listájából.</string>
     <string name="help_page_text_13">Nem tud csatlakozni egy külső eszközhöz?</string>
+    <string name="help_page_text_13_act_label_1">GYIK</string>
+    <string name="help_page_text_13_desc_1">"%1$d. Győződjön meg róla, hogy mobileszköze és külső monitora ugyanahhoz a Wi-Fi-hálózathoz vagy hotspothoz csatlakozik.
+%2$d. Győződjön meg róla, hogy a hálózati környezet stabil. Ha nem, próbálja meg újraindítani a routert, vagy váltson %3$d GHz-es hálózati sávra.
+%4$d. Ha Xiaomi TV-re vetít ki tartalmat, kapcsolja be a vezeték nélküli kivetítés funkciót a tévén. Csatlakozás közben maradjon a kivetítés oldalon.
+%5$d. Egyes nagy nyilvános LAN-ok, például a vállalatok és iskolák hálózatai nem támogatják az ugyanazon a LAN-on lévő eszközök felfedezésének lehetőségét."</string>
+    <string name="help_page_text_13_desc_2">Egyes tévék nem LAN-kapcsolatot használnak a kivetítés során. Normális, ha ezek az eszközök le vannak választva a hálózatról. Általában %1$d–%2$d másodpercen belül újracsatlakoznak a kivetítés befejezése után.</string>
+    <string name="help_page_text_13_summary_1">Nem tud csatlakozni egy külső eszközhöz</string>
+    <string name="help_page_text_13_summary_2">Hálózati megszakítások kivetítés közben</string>
     <string name="help_page_text_14">"%1$d. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
 Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If there aren't any networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your mobile device and the external monitor, and turn on Miracast on your TV.
 %2$d. If you're casting on a Xiaomi device for the first time, you need to complete verification.
@@ -218,6 +255,7 @@ Csatlakoztassa a mobilkészülékét és a külső monitort (pl. tévéjét) is 
     <string name="help_page_text_17">"A legtöbb Bluetooth-funkcióval rendelkező Mi TV modellre kivetíthet Mi telefonjáról anélkül, hogy manuálisan bekapcsolná a Miracastot.
 Ha be kell kapcsolnia a Miracastot, nyomja meg a [MENU] gombot és válassza az Alkalmazásaim > Kivetítés > Miracast opciót."</string>
     <string name="help_page_text_17_1">Xiaomi ügyfélszolgálat: 400-100-5678</string>
+    <string name="help_page_text_17_content">You can project items from your Xiaomi phone on most Xiaomi TV models with Bluetooth capabilities without turning on Miracast manually. If you need to turn on Miracast, press the [MENU] button and start casting by using the option for other Android phones.</string>
     <string name="help_page_text_18">Samsung TV</string>
     <string name="help_page_text_19">Először ellenőrizze, hogy eszköze támogatja-e a Miracast-funkciót. Némelyik modell esetén megnyomhatja a [SOURCE] gombot a távirányítón, és kiválaszthatja a „Képernyőtükrözés” opciót. Ez a funkció bizonyos modelleken alapértelmezésként be van kapcsolva.</string>
     <string name="help_page_text_20">Samsung ügyfélszolgálat: 400-810-5858</string>
@@ -280,14 +318,14 @@ Ha be kell kapcsolnia a Miracastot, nyomja meg a [MENU] gombot és válassza az 
     <string name="material_timepicker_text_input_mode_description">Időbevitelhez váltson szövegbeviteli módba.</string>
     <string name="midnight">Éjjel</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
@@ -350,6 +388,7 @@ Ha be kell kapcsolnia a Miracastot, nyomja meg a [MENU] gombot és válassza az 
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -398,13 +437,13 @@ Ha be kell kapcsolnia a Miracastot, nyomja meg a [MENU] gombot és válassza az 
     <string name="paipai_error_dialog_msg">Ellenőrizze a hálózati beállításokat és próbálja újra.</string>
     <string name="paipai_error_dialog_negative">Értem</string>
     <string name="password_toggle_content_description">Jelszó megjelenítése</string>
-    <string name="path_setting_cast">Kapcsolat és megosztás/kivetítés</string>
-    <string name="path_setting_cast_demo">Kapcsolat és megosztás/demók</string>
-    <string name="path_setting_cast_demo_document">Kapcsolat és megosztás/kivetítés/demók/dokumentumok</string>
-    <string name="path_setting_cast_demo_gallery">Kapcsolat és megosztás/kivetítés/demók/fényképek és videók</string>
-    <string name="path_setting_cast_demo_game">Kapcsolat és megosztás/kivetítés/demók/játékok</string>
-    <string name="path_setting_cast_feature">Kapcsolat és megosztás/kivetítés/Különleges funkciók</string>
-    <string name="path_setting_cast_help">Kapcsolat és megosztás/kivetítés/Segítség</string>
+    <string name="path_setting_cast">További csatlakozási lehetőségek/Kivetítés</string>
+    <string name="path_setting_cast_demo">További csatlakozási lehetőségek/Kivetítés/Demók</string>
+    <string name="path_setting_cast_demo_document">További csatlakozási lehetőségek/Kivetítés/Demók/Dokumentumok</string>
+    <string name="path_setting_cast_demo_gallery">További csatlakozási lehetőségek/Kivetítés/Demók/Képek és videók</string>
+    <string name="path_setting_cast_demo_game">További csatlakozási lehetőségek/Kivetítés/Demók/Játékok</string>
+    <string name="path_setting_cast_feature">További csatlakozási lehetőségek/Kivetítés/Különleges funkciók</string>
+    <string name="path_setting_cast_help">További csatlakozási lehetőségek/Kivetítés/Súgó</string>
     <string name="permission_allowed">Engedély megadva</string>
     <string name="permission_uballowed">Az engedély nincs megadva</string>
     <string name="pm">DU</string>
@@ -412,7 +451,7 @@ Ha be kell kapcsolnia a Miracastot, nyomja meg a [MENU] gombot és válassza az 
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="privacy_agree">Elfogadás</string>
     <string name="privacy_detail">A folytatás előtt engedélyezze az alkalmazásnak az internethez való kapcsolódást, és adja meg a szükséges engedélyeket.</string>
-    <string name="privacy_detail_extra">&lt;Data>Néhány funkciót a HappyCast harmadik fél szolgáltató biztosítja. A funkció használata előtt olvassa el és fogadja el a &lt;a href=%1$s>HappyCast adatvédelmi szabályzatát &lt;/a> és a &lt;a href=%2$s>HappyCast jogi nyilatkozatát&lt;/a>.&lt;/Data></string>
+    <string name="privacy_detail_extra"><Data>Néhány funkciót a HappyCast harmadik fél szolgáltató biztosítja. A funkció használata előtt olvassa el és fogadja el a &lt;a href=%1$s>HappyCast adatvédelmi szabályzatát &lt;/a> és a &lt;a href=%2$s>HappyCast jogi nyilatkozatát&lt;/a>.</Data></string>
     <string name="privacy_explain">Üdvözli önt a Casting! A Casting lehetővé teszi az elemek kivetítését a telefon képernyőjéről egy nagyobb külső monitorra. Az alkalmazásnak csatlakoznia kell az internethez, és a következő engedélyekkel kell rendelkeznie a normál működéshez:</string>
     <string name="privacy_negative">Kilépés</string>
     <string name="privacy_permission_ble">Bluetooth ki- és bekapcsolása</string>
@@ -454,11 +493,11 @@ Ha be kell kapcsolnia a Miracastot, nyomja meg a [MENU] gombot és válassza az 
     <string name="privacy_setting_show_lelink_policy">A HappyCast Adatvédelmi irányelveinek megtekintése</string>
     <string name="privacy_setting_show_policy">Adatvédelmi irányelvek megtekintése</string>
     <string name="privacy_setting_show_user_agreement">Felhasználói szerződés megtekintése</string>
-    <string name="privacy_text_1">"&lt;Data>Üdvözli Önt a Kivetítés! A Kivetítés funkcióval kivetíthet telefonjának képernyőjéről egy nagyobb külső monitorra.
+    <string name="privacy_text_1"><Data>"Üdvözli Önt a Kivetítés! A Kivetítés funkcióval kivetíthet telefonjának képernyőjéről egy nagyobb külső monitorra.
 Mi megvédjük az Ön személyes adatait a vonatkozó törvényi rendelkezésekkel, szabályozásokkal és adatvédelmi irányelvekkel összhangban. Némelyik funkciót egy harmadik fél szolgáltató, a HappyCast biztosítja. A funkció használata előtt olvassa el és fogadja el a &lt;a href=%2$s>HappyCast jogi nyilatkozatát&lt;/a> és a &lt;a href=%1$s>HappyCast adatvédelmi irányelvét&lt;/a>.
-A normál működés érdekében az alkalmazásnak csatlakoznia kell az internethez és az Ön személyes adatainak begyűjtéséhez szükségse van a következő engedélyekre.&lt;/Data>"</string>
-    <string name="privacy_text_2">"&lt;Data>Ha nem egyezik bele ezen engedélyek megadásába vagy személyes adatainak megosztásába és feltöltésébe, nem fogja tudni használni az alkalmazást. Ilyen esetben dönthet úgy, hogy letörli az alkalmazást, kijelentkezik vagy letiltja az engedélyeket a Beállításokban.
-A funkció használata előtt olvassa el és fogadja el &lt;a href=%1$s>Felhasználói szerződésünket&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvünket&lt;/a>.&lt;/Data>"</string>
+A normál működés érdekében az alkalmazásnak csatlakoznia kell az internethez és az Ön személyes adatainak begyűjtéséhez szükségse van a következő engedélyekre."</Data></string>
+    <string name="privacy_text_2"><Data>"Ha nem egyezik bele ezen engedélyek megadásába vagy személyes adatainak megosztásába és feltöltésébe, nem fogja tudni használni az alkalmazást. Ilyen esetben dönthet úgy, hogy letörli az alkalmazást, kijelentkezik vagy letiltja az engedélyeket a Beállításokban.
+A funkció használata előtt olvassa el és fogadja el &lt;a href=%1$s>Felhasználói szerződésünket&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvünket&lt;/a>."</Data></string>
     <string name="privacy_text_pemission">"　　•Férjen hozzá és mentsen le képeket eszközére elemek külső monitorra való kivetítéséhez
 　　•Vegyen fel hívásokat és hanganyagot hang külső eszközökre való kivetítéséhez
 　　•Férjen hozzá telefonszámokhoz, az IMEI-hez és az IMSI-hez eszközének beazonosítása érdekében
@@ -480,22 +519,38 @@ A funkció használata előtt olvassa el és fogadja el &lt;a href=%1$s>Felhaszn
     <string name="scan_wifi_label_global">Csatlakozás Wi-Fi-hez</string>
     <string name="screen_projection">Kivetítés</string>
     <string name="screen_projection_characteristics">Speciális funkciók</string>
+    <string name="screen_projection_characteristics_cast_summary">Képernyőtartalom kivetítése egy közelben található TV-re</string>
+    <string name="screen_projection_characteristics_hang_up_summary_new">Az akkumulátor kímélése és a túlmelegedés elkerülése érdekében kivetítés közben kapcsolja ki a mobileszköz képernyőjét</string>
     <string name="screen_projection_characteristics_off_screen_summary">Folytathatja a kivetítést, ha a készülék képernyője ki van kapcsolva. Ez a funkció csökkenti az energiafogyasztást.</string>
     <string name="screen_projection_characteristics_off_screen_title">Kikapcsolt képernyős kivetítés</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">Ne jelenítsen meg lebegő értesítéseket, bejövő hívásokat és egyéb személyes elemeket a külső monitorokon.</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Személyes elemek elrejtése</string>
+    <string name="screen_projection_characteristics_private_summary_new">Védje magánéletét: kivetítés közben az eszköz nem jelenít meg lebegő értesítéseket, bejövő hívásokat és egyéb privát elemeket</string>
     <string name="screen_projection_characteristics_small_window_summary">Minimalizálja a kivetített ablakot, hogy a telefonján egyéb funkciók is használhatók legyenek.</string>
+    <string name="screen_projection_characteristics_small_window_summary_new">Vetítse ki a képernyőt, és jelenítse meg annak tartalmát egy lebegő ablakban, miközben más alkalmazásokat használ</string>
     <string name="screen_projection_characteristics_small_window_title">Ablakminimalizálás</string>
+    <string name="screen_projection_entrance_list">Elérhető készülékek megtekintése</string>
+    <string name="screen_projection_entrance_list_new">Tekintse meg a kivetítésre elérhető eszközök listáját</string>
+    <string name="screen_projection_example_document_hint_miui15">*Elem fog megjelenni egy közeli TV-n</string>
+    <string name="screen_projection_example_document_hint_new"><Data>*A funkció használatához menjen a Fájlok > Dokumentumok menübe és koppintson az &lt;img src=../drawable/ic_cast_icon_photo.png/> ikonra.</Data></string>
     <string name="screen_projection_example_document_summary">Jelenítse meg a prezentációkat egy külső monitoron, miközben a telefont a diavetítéshez és jegyzetek megtekintéséhez használja. Menjen a Fájlkezelő > Dokumentumok menübe a funkció kipróbálásához.</string>
+    <string name="screen_projection_example_document_summary_miui15">Prezentációs diák bemutatása egy TV-n, miközben a készüléket távirányítóként használja</string>
     <string name="screen_projection_example_document_title">Dokumentumok</string>
+    <string name="screen_projection_example_gallery_hint_miui15">*Ha fotót vagy videót szeretne kivetíteni, válasszon egy elemet a Galériában, koppintson \"Megosztás\" elemre, majd koppintson a \"Kivetítés\" ikonra.</string>
+    <string name="screen_projection_example_gallery_hint_new"><Data>*A funkció használatához lépjen a Galériába, válasszon ki egy fényképet, koppintson a \"Küldés\" elemre az alsó sávon, majd koppintson az &lt;img src=../drawable/ic_cast_icon_photo.png/> ikonra.</Data></string>
     <string name="screen_projection_example_gallery_summary">Érintse meg a Megosztás gombot egy elem alatt a Galéria alkalmazásban egy külső monitoron való megjelenítéséhez.</string>
+    <string name="screen_projection_example_gallery_summary_miui15">Fotók és videók megtekintése TV képernyőn</string>
     <string name="screen_projection_example_gallery_title">Fényképek és videók</string>
+    <string name="screen_projection_example_game_hint_miui15">"*Játék közben koppintson a \"Kivetítés\" elemre a Játékgyorsítóban a játék kivetítéséhez.
+A játékok kivetítése előtt ellenőrizze, hogy bekapcsolta-e a Játékgyorsítót."</string>
     <string name="screen_projection_example_game_summary">A Játékgyorsító lehetővé teszi a játékok kivetítését egy külső monitorra. A funkció bekapcsolásához használja a parancsikont a Játékgyorsító eszköztárában.</string>
+    <string name="screen_projection_example_game_summary_miui15">Játékmenet megtekintése TV-n</string>
     <string name="screen_projection_example_game_title">Játékok</string>
     <string name="screen_projection_help">Segítség</string>
     <string name="screen_projection_sample_summary">Dokumentumok, játékok, fotók és videók kivetítése</string>
     <string name="screen_projection_sample_title">Demók</string>
     <string name="screen_projection_title">Kivetítés</string>
+    <string name="screen_projection_title_miui15">Kivetítés</string>
     <string name="search_menu_title">Keresés</string>
     <string name="send">Küldés</string>
     <string name="show_result_on_tv">Eredmények megtekintése a TV-n</string>
@@ -553,6 +608,7 @@ A funkció használata előtt olvassa el és fogadja el &lt;a href=%1$s>Felhaszn
     <string name="thursday_short">Csü</string>
     <string name="thursday_shortest">Csü</string>
     <string name="tile_label">Kivetítés</string>
+    <string name="tile_label_v2">Összekapcsolódási szolgáltatások</string>
     <string name="time_picker_dialog_title">Időbeállítás</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
@@ -570,7 +626,7 @@ A funkció használata előtt olvassa el és fogadja el &lt;a href=%1$s>Felhaszn
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
     <string name="trust_device_desc">Ezek a készülékek akkor jelennek meg itt először, ha a közelben vannak</string>
-    <string name="trust_device_dialog_desc">&lt;Data>%s akkor jelenik meg először az elérhető eszközök között, ha a közelben van és ha megbízhatóként jelöli meg.&lt;br>&lt;br>Bármikor &lt;a href=milink://com.milink.service/trust>kezelheti a megbízható eszközöket a&lt;/a> Beállításokban.&lt;/Data></string>
+    <string name="trust_device_dialog_desc"><Data>%s akkor jelenik meg először az elérhető eszközök között, ha a közelben van és ha megbízhatóként jelöli meg.&lt;br>&lt;br>Bármikor &lt;a href=milink://com.milink.service/trust>kezelheti a megbízható eszközöket a&lt;/a> Beállításokban.</Data></string>
     <string name="trust_device_dialog_pos">Megbízható</string>
     <string name="trust_device_dialog_title">Ez a készülék megbízható?</string>
     <string name="trust_device_manager">Megbízható eszközök kezelése</string>

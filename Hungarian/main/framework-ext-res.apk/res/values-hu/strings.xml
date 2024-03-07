@@ -520,6 +520,8 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="vigor">Életerő</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="wallpaper_floral_arrangement_title">Virágkötészet</string>
+    <string name="wallpaper_gradient_title">Grádiens</string>
     <string name="wallpaper_group_black_white_title">Fekete és fehér</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Dinamikus köd</string>
@@ -531,6 +533,8 @@ Engedélyezés a Beállítások > További beállítások > Gombok menüpontban"
     <string name="wallpaper_group_natural_texture_title">Természeti minták</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, University of Arizona</string>
     <string name="wallpaper_group_red_mars_title">Mars</string>
+    <string name="wallpaper_neon_title">Neon</string>
+    <string name="wallpaper_overlapping_space_title">Forma és árnyék</string>
     <string name="waterdrop_preview">Cseppek</string>
     <string name="wifi_assistant_wifi_no_internet">Ez a Wi-Fi-hálózat nem ad internet-hozzáférést</string>
     <string name="wifi_assistant_wifi_no_internet_detail">A részletek megtekintéséhez érintse meg</string>

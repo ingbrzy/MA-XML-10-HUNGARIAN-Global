@@ -47,8 +47,10 @@
     <string name="anti_flicker_mode">Villódzásmentes mód</string>
     <string name="anti_flicker_mode_categroy">Módok</string>
     <string name="anti_flicker_mode_summary">Megakadályozza az erős villogást és csökkenti a szem terhelését gyenge fényviszonyok esetén</string>
+    <string name="anti_flicker_mode_summary_new">Használjon egyenáramú fényerő-szabályozást gyenge fényviszonyok mellett a szem megerőltetésének csökkentése érdekében</string>
     <string name="anti_flicker_title">Csíkozódáscsökkentő mód</string>
     <string name="app_name">Beállítások</string>
+    <string name="app_use">Az alkalmazások képernyőideje</string>
     <string name="application_sound">Alkalmazásértesítések</string>
     <string name="apply_ringtone">Apply</string>
     <string name="arctic_fox">Arctic fox</string>
@@ -111,7 +113,6 @@
     <string name="branch_whipbird">Turdidae</string>
     <string name="brown_pelican">Brown pelican</string>
     <string name="calendar_sound">Esemény emlékeztetők</string>
-    <string name="calendar_tip">Az eseményértesítő hangok naptári események, jegyzetek és feladatok időpontjaiban jeleznek</string>
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Capybaras are semiaquatic herbivore rodents who can hold their breath underwater for up to five minutes at a time.</string>
@@ -307,6 +308,10 @@ nem generálódik a Második asztalon"</string>
     <string name="focus_time_exception_tip">Úgy tűnik, hogy a rendszeridő megváltozott. Kikapcsolta a Fókusz módot.</string>
     <string name="follow_apps_settings">Az alkalmazás beállításai alapján</string>
     <string name="follow_sim1">SIM 1 beállításainak alkalmazása</string>
+    <string name="footer_global_fps">"
+%1$d. Amikor bekapcsolja a Teljesítmény módot, a frissítési gyakoriság a rendszer maximumára, %2$d Hz-re vált. A nagy frissítési gyakoriságú alkalmazásbeállítások átmenetileg nem lesznek elérhetők."</string>
+    <string name="footer_max_fps" formatted="false">"
+%d. A frissítési gyakoriság legfeljebb %s Hz-ig állítható a támogatott alkalmazások és játékok esetén."</string>
     <string name="force_rest">Munkamenetek közti szünetek beépítése</string>
     <string name="force_rest_summary">Kötelező szünetek tartása, ha a munkamenetek elérik a megadott limitet</string>
     <string name="force_rest_time">Szünet időtartama</string>
@@ -419,17 +424,20 @@ nem generálódik a Második asztalon"</string>
     <string name="marabou_stork">Marabou stork</string>
     <string name="marabou_stork_info">The marabou stork is a massive bird, a frequent scavenger.</string>
     <string name="masked_palm_civet">Masked palm civet</string>
+    <string name="max_fps_string">Maximálisan %s Hz</string>
     <string name="medium_tree_finch">Medium tree finch</string>
+    <string name="mi_transfer_banner_summary">Több készülékmárka is támogatott</string>
+    <string name="mi_transfer_banner_title">Elemek átvitele a régi készülékről</string>
     <string name="midnight">Éjjel</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
@@ -582,6 +590,7 @@ nem generálódik a Második asztalon"</string>
     <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%d Hz (kevesebb energiát fogyaszt)</string>
     <string name="screen_fps_unit_smooth">%d Hz (jobb minőség)</string>
+    <string name="screen_fps_unit_string">%s Hz</string>
     <string name="screen_original_gamut">Megnövelt</string>
     <string name="screen_original_gamut_summary">Az összes képernyőtartalom megjelenítése a lehető legszélesebb színtérrel</string>
     <string name="screen_paper_mode_apps_loading">Egy pillanat…</string>
@@ -640,6 +649,7 @@ nem generálódik a Második asztalon"</string>
     <string name="stop_summary">Minden Képernyőidő statisztika és adat törlésre kerül, ha kikapcsolja ezt a funkciót</string>
     <string name="suggestion">Visszajelzés</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_max_fps_for_intelligent">Állítsa dinamikusan a frissítési gyakoriságot legfeljebb %s Hz-re a forgatókönyvek alapján, hogy egyensúlyba kerüljön a teljesítmény és az energiafogyasztás</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
     <string name="sunday_shortest">Vas</string>
@@ -794,7 +804,7 @@ A normál működéshez az alkalmazásnak be kell gyűjtenie a képernyőidő ad
 Az alkalmazásnak csatlakoznia kell az internethez és a következő engedélyekre van szüksége a személyes adatok begyűjtéséhez:"</string>
     <string name="usage_home_premission_second_summary">A normális működéshez az alkalmazásnak be kell gyűjtenie az Ön személyes adatait. Megvédjük az Ön személyes adatait a vonatkozó jogszabályokkal, szabályozásokkal és adatvédelmi irányelvekkel összhangban.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">Megvédjük az Ön személyes adatait a vonatkozó jogszabályokkal, szabályozásokkal és adatvédelmi irányelvekkel összhangban. Ha nem szeretné megadni ezeket az engedélyeket vagy megosztani, illetve feltölteni személyes adatait, nem fogja tudni használni az alkalmazást. A Képernyőidő > Beállítások > Képernyőidő kikapcsolása menüben visszavonhatja az engedélyt.</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Az alkalmazás használata előtt olvassa el és fogadaj el a &lt;a href='%1s'>Felhasználói szerződést&lt;/a> és az &lt;a href='%2s'>Adatvédelmi irányelvet&lt;/a>.&lt;/Data>"</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Az alkalmazás használata előtt olvassa el és fogadaj el a &lt;a href='%1s'>Felhasználói szerződést&lt;/a> és az &lt;a href='%2s'>Adatvédelmi irányelvet&lt;/a>."</Data></string>
     <string name="usage_home_premission_second_summary_new">Megvédjük az Ön személyes adatait a vonatkozó jogszabályokkal, szabályozásokkal és adatvédelmi irányelvekkel összhangban. Ha nem szeretné megadni ezeket az engedélyeket vagy megosztani, illetve feltölteni személyes adatait, nem fogja tudni használni az alkalmazást. A Képernyőidő > Beállítások > Képernyőidő kikapcsolása menüben visszavonhatja az engedélyt. Ha további kérdése van az adatvédelemmel kapcsolatban, írjon a privacy@xiaomi.com e-mail-címre.</string>
     <string name="usage_new_category_limit_summary">Napi használati limit beállítása az összes alkalmazáshoz ebben a kategóriában</string>
     <string name="usage_new_category_limit_title">Alkalmazáskategória használatának korlátozása</string>
@@ -842,7 +852,7 @@ Az alkalmazásnak csatlakoznia kell az internethez és a következő engedélyek
     <string name="usage_optional_title">Opcionális engedélyek</string>
     <string name="usage_permisison_agree_desc_o">A Képernyőidő statisztikáinak megjelenítéséhez az alkalmazásnak a következő adatokat kell begyűjtenie: a készülék feloldásának számát, az alkalmazások listáját azok használati idejével együtt.</string>
     <string name="usage_permisison_agree_desc_p">A Képernyőidő és a Fókusz mód statisztikáinak megjelenítéséhez az alkalmazásnak a következő adatokat kell begyűjtenie: a készülék feloldásának számát, az alkalmazások listáját azok használati idejével együtt, a képernyő felvillanásának számát és a Fókusz mód beállításokat.</string>
-    <string name="usage_permission_double_link" formatted="false">"&lt;Data>Az alkalmazásnak a normál múködés érdekében csatlakoznia kell az internethez és be kell gyűjtenie a szükséges személyes adatokat. Felhasználóként az Ön jogainak, valamint annak a teljes megértéséhez, hogy miként használjuk az adatait, olvassa és fogadja el &lt;a href='%1s'>Felhasználási feltételeinket&lt;/a> és &lt;a href='%2s'>Adatvédelmi szabályzatunkat&lt;/a>.&lt;/Data>"</string>
+    <string name="usage_permission_double_link" formatted="false"><Data>"Az alkalmazásnak a normál múködés érdekében csatlakoznia kell az internethez és be kell gyűjtenie a szükséges személyes adatokat. Felhasználóként az Ön jogainak, valamint annak a teljes megértéséhez, hogy miként használjuk az adatait, olvassa és fogadja el &lt;a href='%1s'>Felhasználási feltételeinket&lt;/a> és &lt;a href='%2s'>Adatvédelmi szabályzatunkat&lt;/a>."</Data></string>
     <string name="usage_permission_main_desc">"Üdvözöljük, ez a Képernyőidő!
 Az alkalmazásnak a normális működés érdekében csatlakoznia kell az internethet és a következő engedélyekre van szüksége:"</string>
     <string name="usage_permission_title">Figyelem</string>

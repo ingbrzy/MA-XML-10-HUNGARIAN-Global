@@ -68,7 +68,7 @@
     <string name="cta_agree_desc">Engedélyezze az alkalmazásnak az internethez való kapcsolódást, és adja meg a fent felsorolt kötelező engedélyeket.</string>
     <string name="cta_btn_agree">Elfogadás</string>
     <string name="cta_btn_disagree">Elutasítás</string>
-    <string name="cta_main_purpose">Üdvözli a Képernyőkép szerkesztő (Screenshot Editor)! Ezzel az alkalmazással vághatja körül és szerkesztheti a képernyőképeit.</string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">Welcome to Screenshot Editor! You can use this app to crop and edit your screenshots. This app needs to connect to the internet and access audio and video files on your device to be able to provide necessary services.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Képernyőképek mentéséhez</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -170,6 +170,10 @@
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
     <string name="loading_text_format" formatted="false">Személyes adatok eltávolítása a képekről (%d/%d)…</string>
+    <string name="long_screenshot_content_auto">Képernyőkép készítése…</string>
+    <string name="long_screenshot_content_loading">Egy pillanat…</string>
+    <string name="long_screenshot_content_manual">Kézzel állítsa be a képernyőkép végpontját, majd koppintson a \"Kész\" gombra.</string>
+    <string name="long_screenshot_done">Kész</string>
     <string name="long_screenshot_error">Hiba történt. Próbálja újra!</string>
     <string name="long_screenshot_guide_text">"Görgethető képernyőkép
 készítéséhez érintse meg"</string>
@@ -178,6 +182,7 @@ készítéséhez érintse meg"</string>
     <string name="long_screenshot_processing">Folyamatban…</string>
     <string name="long_screenshot_processing_description_accessibility">Folyamatban</string>
     <string name="long_screenshot_stop">Kész</string>
+    <string name="long_screenshot_title">Görgethető képernyőkép</string>
     <string name="long_screenshot_top_msg">Képernyőkép készítése…</string>
     <string name="long_screenshot_top_msg_description_accessibility">Képernyőkép létrehozása</string>
     <string name="long_screenshot_top_msg_manual">Vágja ki a képernyőképet és érintse meg a gombot a befejezéshez</string>
@@ -209,6 +214,7 @@ készítéséhez érintse meg"</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
     <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
+    <string name="miuix_appcompat_edit">Szerkeszt</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
@@ -364,12 +370,17 @@ készítéséhez érintse meg"</string>
     <string name="screen_editor_btn_save">Mentés</string>
     <string name="screen_editor_btn_shell_off">Eszközkeret eltávolítása</string>
     <string name="screen_editor_btn_shell_on">Eszközkeret hozzáadása</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Törli ezt a képernyőképet?</string>
     <string name="screen_editor_delete_dialog_picture_msg">Törli ezt a képet most?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Kész</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Nem lehet eszközkeretet hozzáadni a kivágott képernyőképekhez</string>
     <string name="screen_editor_shell_net_error">Csatlakozzon a hálózathoz az eszközkeret letöltéséhez</string>
     <string name="screen_editor_shell_res_downloading">Eszközkeret letöltése…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Mégse</string>
     <string name="screen_save_dialog_btn_delete">Képernyőkép törlése</string>
     <string name="screen_save_dialog_btn_save">Mentés a Galériába</string>
@@ -397,6 +408,7 @@ készítéséhez érintse meg"</string>
     <string name="screenshot_long_screenshot">Görgetés</string>
     <string name="screenshot_save">Mentés</string>
     <string name="screenshot_send">Küldés</string>
+    <string name="screenshot_succeed">Sikeresen készített egy képernyőképet</string>
     <string name="screenshot_thumbnail">Képernyőkép miniatűr</string>
     <string name="scroll_annotation">Görgetés és megjegyzés írása</string>
     <string name="scroll_annotation_btn_quit">Kilépés a megjegyzésekből</string>

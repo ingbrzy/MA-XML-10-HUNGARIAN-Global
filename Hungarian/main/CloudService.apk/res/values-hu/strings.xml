@@ -79,6 +79,24 @@
     <string name="cloud_storage_upgrade_text">Bővítés</string>
     <string name="cloud_storage_upgrade_text_now">Bővítés</string>
     <string name="cloud_storage_zero_upgrade_button_text_now">Bővítés ingyen</string>
+    <string name="common_google_play_services_enable_button">Engedélyezés</string>
+    <string name="common_google_play_services_enable_text">A(z) %1$s alkalmazás csak akkor működik, ha engedélyezi a Google Play-szolgáltatásokat.</string>
+    <string name="common_google_play_services_enable_title">Google Play-szolgáltatások engedélyezése</string>
+    <string name="common_google_play_services_install_button">Telepítés</string>
+    <string name="common_google_play_services_install_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről.</string>
+    <string name="common_google_play_services_install_title">A Google Play-szolgáltatások beszerzése</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-szolgáltatások elérhetősége</string>
+    <string name="common_google_play_services_notification_ticker">Google Play-szolgáltatások – hiba</string>
+    <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
+    <string name="common_google_play_services_unsupported_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat.</string>
+    <string name="common_google_play_services_update_button">Frissítés</string>
+    <string name="common_google_play_services_update_text">A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
+    <string name="common_google_play_services_update_title">A Google Play-szolgáltatások frissítése</string>
+    <string name="common_google_play_services_updating_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van.</string>
+    <string name="common_google_play_services_wear_update_text">A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát.</string>
+    <string name="common_open_on_phone">Megnyitás a telefonon</string>
+    <string name="common_signin_button_text">Bejelentkezés</string>
+    <string name="common_signin_button_text_long">Bejelentkezés Google-fiókkal</string>
     <string name="confirm_save">Megtartás</string>
     <string name="connect_network">Csatlakozzon Wi-Fi-hez vagy helyezzen be egy SIM kártyát</string>
     <string name="connect_network_china">Connect to WLAN or insert a SIM card</string>
@@ -164,6 +182,8 @@
     <string name="feedback_custom_hint">Írja le a problémákat, amelyeket észlelt. Ha javaslatokat tesz, nagyra értékelnénk, ha részletekbe bocsájtkozna.</string>
     <string name="find_device">Készülékkeresés</string>
     <string name="find_device_dspt_provision">Elveszett készüléke helyének meghatározásához, zárolásához, illetve az adatok törléséhez látogasson el a(z) &lt;font color=#0097FF>%s&lt;/font> weboldalra. Ez a funkció bármikor ki- vagy bekapcsolható a Beállítások menüpontban.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">A Készülékkeresés bekapcsolásával ön elfogadja az <u><a href="app://com.miui.cloudservice.gdpr.license">Adatvédelmi irányelveinket</a></u>. Kapcsolja ki ezt a funkciót, ha szeretné visszavonni a hozzájárulását.</string>
     <string name="find_device_operation_failure_rpc">RPC hiba miatt nem sikerült végrehajtani a műveletet.</string>
     <string name="find_device_permissions_footer">Érintse meg az \"Engedélyezés\" gombot a kiválasztott engedélyek megadásához.</string>

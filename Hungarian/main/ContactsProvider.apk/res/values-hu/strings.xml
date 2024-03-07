@@ -19,7 +19,6 @@ Ne felejtse el törölni a másolatot miután átmásolta vagy elküldte."</stri
     <string name="provider_label">Névjegyek</string>
     <string name="sharedUserLabel">Android rendszeralkalmazások</string>
     <string name="sim_state_changed">A SIM-kártya megváltozott</string>
-    <string name="third_party_delete_contact_info">\"%s\" törölni próbálja a névjegyeit. Ez a művelet nem hajtható végre harmadik féltől származó alkalmazással. Névjegy törléséhez használja a MIUI saját névjegyzék alkalmazását.</string>
     <string name="update_accounts_changed">A fiókok megváltoztak</string>
     <string name="upgrade_out_of_memory_notification_text">Frissítés befejezéséhez kattintson ide.</string>
     <string name="upgrade_out_of_memory_notification_ticker">A frissítés több tárhelyet igényel.</string>

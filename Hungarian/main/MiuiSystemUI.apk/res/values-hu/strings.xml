@@ -940,6 +940,8 @@ Koppintson, ha további információra van szüksége."</string>
     <string name="keyguard_indication_charging_time_wireless">%2$s • Vezeték nélküli töltés • A teljes töltöttségig: %1$s</string>
     <string name="keyguard_indication_trust_unlocked">Feloldva tartva TrustAgent által</string>
     <string name="keyguard_left_mi_wallet">Mi Pénztárca</string>
+    <string name="keyguard_left_remotecentral">Mi Távirányító</string>
+    <string name="keyguard_left_smarthome">Xiaomi Home</string>
     <string name="keyguard_left_torch">Zseblámpa</string>
     <string name="keyguard_left_view_lock_wallpaper">Váltakozó háttérképek</string>
     <string name="keyguard_loading_to_editor_tips">Képernyőzár-szerkesztő megnyitása…</string>
@@ -1221,6 +1223,7 @@ Ha további információra van szüksége, vegye fel a kapcsolatot a rendszergaz
     <string name="monitoring_description_personal_profile_named_vpn">Személyes alkalmazásai a következőn keresztül csatlakoznak az internethez: %1$s. Hálózati tevékenységei (pl. az e-mailek és a böngészési adatok) láthatók a VPN-szolgáltatója számára.</string>
     <string name="monitoring_description_two_named_vpns">Ez az eszköz a következőkön keresztül csatlakozik az internethez: %1$s és %2$s. Hálózati tevékenységei (pl. az e-mailek és a böngészési adatok) láthatók a rendszergazdája és VPN-szolgáltatója számára.</string>
     <string name="monitoring_description_vpn_settings">VPN-beállítások megnyitása</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"A(z) %1$s hozzáférhet az ehhez az eszközhöz tartozó adatokhoz, és módosíthatja az eszköz beállításait.
 
 Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
@@ -1420,8 +1423,6 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Válassza a &lt;font color=#a5220e>\"Wipe &amp;amp; Reset\"&lt;/font> lehetőséget és várja meg, míg a készülék újraindul.;&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Hogyan törölheti az adatokat?</string>
     <string name="phone_locked_string">A készülék bootloadere zárt</string>
-    <string name="phone_locked_string_owner_user">Túl sok sikertelen próbálkozás az Első asztal jelszavának megadására. Ez a készülék mostantól zárolva van.</string>
-    <string name="phone_locked_string_second_user">Túl sok sikertelen próbálkozás a Második asztal jelszavának megadására. Ez a készülék mostantól zárolva van.</string>
     <string name="pip_close">Bezárás</string>
     <string name="pip_collapse">Összecsukás</string>
     <string name="pip_edu_text">Vezérlők: A <annotation icon="home_icon">KEZDŐKÉPERNYŐ</annotation> gomb kétszeri megnyomása</string>
@@ -1823,6 +1824,8 @@ Ha kérdései vannak, forduljon a következőhöz: %2$s."</string>
     <string name="status_bar_clock_date_format_12">MMM. d., E</string>
     <string name="status_bar_clock_date_time_format">H:mm MMM. d., E.</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, MMM. d., E.</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_settings_auto_rotation">Képernyő automatikus forgatása</string>
     <string name="status_bar_work">Munkahelyi profil</string>

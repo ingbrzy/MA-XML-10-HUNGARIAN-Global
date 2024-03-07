@@ -5,16 +5,16 @@
         <item quantity="one">Egy órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Egy órával ezelőtt</item>
-        <item quantity="one">Egy órával ezelőtt</item>
+        <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Egy óra múlva</item>
-        <item quantity="one">Egy óra múlva</item>
+        <item quantity="other">%d órán belül</item>
+        <item quantity="one">%d órán belül</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Fél óra múlva</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Azonnal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d perc múlva</item>
-        <item quantity="one">1 perc múlva</item>
+        <item quantity="other">%d percen belül</item>
+        <item quantity="one">%d percen belül</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d perce</item>
-        <item quantity="one">1 perce</item>
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">Töröl %1$d névjegyet?</item>
@@ -47,14 +47,6 @@
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">%1$d alkalommal csengett</item>
         <item quantity="one">%1$d alkalommal csengett</item>
-    </plurals>
-    <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d telefonszám</item>
-        <item quantity="one">%d telefonszám</item>
-    </plurals>
-    <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">%d telefonszám törlése?</item>
-        <item quantity="one">%d telefonszám törlése?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d névjegy vagy fotó nem szinkronizálódott</item>
@@ -112,13 +104,13 @@
         <item quantity="other">%1$d szám</item>
         <item quantity="one">%1$d szám</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">Egy SMS-nek nem lehet több mint %d címzettje.</item>
+        <item quantity="one">Egy SMS-nek nem lehet több mint %d címzettje.</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
-    </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d elem</item>
-        <item quantity="one">%1$d elem</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d névjegy</item>
@@ -207,10 +199,6 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d találat</item>
         <item quantity="one">%d találat</item>
-    </plurals>
-    <plurals name="search_group_contacts_result">
-        <item quantity="other">%s eredmény</item>
-        <item quantity="one">%s eredmény</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">Ne jelöljön ki többet, mint %1$d, nem jelölheti ki az összeset</item>

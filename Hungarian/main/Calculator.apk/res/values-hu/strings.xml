@@ -76,7 +76,7 @@
     <string name="currency_update_time_format">Az árfolyamokat a Webull (%s) szolgáltatja</string>
     <string name="currency_update_updating">Árfolyamok frissítése…</string>
     <string name="data_analysis">Elemzés</string>
-    <string name="date_format">yyyy. MM. dd.</string>
+    <string name="date_format">yyyy. MMM. dd.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -185,7 +185,7 @@
     <string name="friday_shortest">Pén</string>
     <string name="fund_loan">Alapkölcsön</string>
     <string name="further_education">Továbbképzés</string>
-    <string name="get_loaction_permission_title">Helymeghatározás</string>
+    <string name="get_loaction_permission_title">Hozzáférés a helyadatokhoz</string>
     <string name="get_location_fail_prompt">Helymeghatározás sikertelen</string>
     <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
@@ -232,11 +232,12 @@
     <string name="label_days">Napok</string>
     <string name="label_emi">Egyenlő havi részlet</string>
     <string name="label_from_date">Feladó:</string>
-    <string name="label_interest">Kamat (%)</string>
+    <string name="label_interest">Kamat (százalék)</string>
     <string name="label_investment_duration">Időtartam</string>
     <string name="label_months">Hónapok</string>
     <string name="label_powered_by">A Mi Számológép készítette</string>
     <string name="label_principal">Hitel</string>
+    <string name="label_share">Megosztás</string>
     <string name="label_statistics">Statisztikák</string>
     <string name="label_to_date">Címzett:</string>
     <string name="label_total_interest">Teljes kamat</string>
@@ -356,13 +357,13 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="mt_max">A megadott összeg túl nagy</string>
     <string name="mulDesc">szorzás</string>
     <string name="n_a">Nincs adat</string>
-    <string name="name_cgst" formatted="false">CGST/SGST: %s%</string>
+    <string name="name_cgst">CGST/SGST: 2,5</string>
     <string name="name_discount">Kedvezmény (-%)</string>
     <string name="name_original">Eredeti ár</string>
     <string name="name_price">Végleges ár</string>
     <string name="name_save">"Az Ön megtakarítása: "</string>
     <string name="negDesc">Váltás a nulla alatti és fölötti hőmérsékletek között</string>
-    <string name="new_privacy_string">&lt;Data>Üdvözli a Számológép!&lt;br/>Az alkalmazás a következő funkciókat tartalmazza:&lt;br/>• Alapszintű számológép&lt;br/>• Tudományos számológép&lt;br/>• Univerzális konvertáló (pl. pénznem, mértékegység stb.)&lt;br/>•Számítási sablonok, többek között hitelekhez, befektetéshez, EMI-hez&lt;br/>. Az &lt;a href=\"%1$s\">Adatvédelmi Irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. A Számológép használata előtt olvassa el és fogadja el a &lt;a href=\"%2$s\">Felhasználói szerződésünket&lt;/a> és &lt;a href=\"%3$s\">Adatvédelmi Irányelvünket&lt;/a>. Bármikor visszavonhatja a Számológép Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban. Ha nem fogadja el Adatvédelmi irányelvünket, nem fogja tudni az alkalmazás minden funkcióját használni; azonban az alapvető funkcióit továbbra is elérheti.&lt;/Data></string>
+    <string name="new_privacy_string"><Data>Üdvözli a Számológép!&lt;br/>Az alkalmazás a következő funkciókat tartalmazza:&lt;br/>• Alapszintű számológép&lt;br/>• Tudományos számológép&lt;br/>• Univerzális konvertáló (pl. pénznem, mértékegység stb.)&lt;br/>•Számítási sablonok, többek között hitelekhez, befektetéshez, EMI-hez&lt;br/>. Az &lt;a href=\"%1$s\">Adatvédelmi Irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. A Számológép használata előtt olvassa el és fogadja el a &lt;a href=\"%2$s\">Felhasználói szerződésünket&lt;/a> és &lt;a href=\"%3$s\">Adatvédelmi Irányelvünket&lt;/a>. Bármikor visszavonhatja a Számológép Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban. Ha nem fogadja el Adatvédelmi irányelvünket, nem fogja tudni az alkalmazás minden funkcióját használni; azonban az alapvető funkcióit továbbra is elérheti.</Data></string>
     <string name="night">Este</string>
     <string name="none">Nincs</string>
     <string name="noon">Dél</string>
@@ -376,7 +377,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="permission_location_miui12">Hozzáférés a helyadatokhoz</string>
     <string name="permission_option_desc_miui12">Ezeket az engedélyeket akkor megadni, ha ön egyéb funkciókat használ.</string>
     <string name="permission_option_miui12">Opcionális engedélyek</string>
-    <string name="permission_privacy_link">&lt;Data>Az alkalmazás használata előtt olvassa el és fogadaj el a &lt;a href=%1$s>Felhasználói szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>.&lt;/Data></string>
+    <string name="permission_privacy_link"><Data>Az alkalmazás használata előtt olvassa el és fogadaj el a &lt;a href=%1$s>Felhasználói szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>.</Data></string>
     <string name="permission_purpose_miui12_system">Üdvözöljük, ez a Számológép! Az alkalmazás kombinálja a hagyományos számológépet és a többféle mértékegységváltót, valamint a különféle életmód funkciókat.</string>
     <string name="permission_remove_desc_miui12">Az alkalmazás összes funkciójának használatához engelyezze az internethez való csatlakozást és adja meg az opcionális engedélyeket.</string>
     <string name="permission_title_miui12">Figyelem</string>
@@ -408,7 +409,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="preference_use_voice_title">Beszéd kimenet</string>
     <string name="preference_user_feedback_title">Visszajelzés</string>
     <string name="preference_view_privacy_title">Adatvédelmi irányelvek megtekintése</string>
-    <string name="privacy_dialog_title">Figyelmeztetés</string>
+    <string name="privacy_dialog_title">Adatvédelem</string>
     <string name="privacy_revoke_error">Visszavonás sikertelen. Próbálja újra!</string>
     <string name="privacy_revoke_progress">Visszavonás…</string>
     <string name="privacy_switch">Beleegyezés visszavonása</string>
@@ -428,7 +429,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="search_menu_title">Keresés</string>
     <string name="secondFunctionDesc">Váltás a következő funkcióra</string>
     <string name="send">Küldés</string>
-    <string name="settingsDesc">beállítások</string>
+    <string name="settingsDesc">Beállítások</string>
     <string name="sinDesc">szinusz</string>
     <string name="sqrtDesc">négyzetgyök</string>
     <string name="statistic_label_balance">Egyenleg</string>
@@ -573,6 +574,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="unit_data_display_currency_btn">Bhutáni ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswanai pula</string>
     <string name="unit_data_display_currency_byn">Belarusz rubel</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Kanadai dollár</string>
     <string name="unit_data_display_currency_cdf">Kongói frank</string>
     <string name="unit_data_display_currency_chf">Svájci frank</string>
@@ -767,7 +769,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="unit_data_short_area_sq.in">in²</string>
     <string name="unit_data_short_area_sq.km">km²</string>
     <string name="unit_data_short_area_sq.m">m²</string>
-    <string name="unit_data_short_area_sq.mi">mile²</string>
+    <string name="unit_data_short_area_sq.mi">mérföld²</string>
     <string name="unit_data_short_area_sq.mm">mm²</string>
     <string name="unit_data_short_area_sq.rd">rd²</string>
     <string name="unit_data_short_area_sq.um">μm²</string>
@@ -858,7 +860,7 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="unit_data_short_weight_qian">qian</string>
     <string name="unit_data_short_weight_st">sh.t</string>
     <string name="unit_data_short_weight_t">t</string>
-    <string name="unit_data_short_weight_taijin">jin(tw)</string>
+    <string name="unit_data_short_weight_taijin">jin (Tajvan)</string>
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
     <string name="unit_data_short_weight_uk.st">st</string>

@@ -4,6 +4,10 @@
         <item>Férfi</item>
         <item>Nő</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Férfi</item>
+        <item>Nő</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Fiókok</item>
         <item>Harmadik féltől származó fiókok hozzáadása és kezelése</item>
@@ -11,23 +15,28 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Fiókok</item>
-        <item>Harmadik féltől származó fiókok hozzáadása és kezelése</item>
-        <item>Fiókok;SNS;WeChat;QQ;Mi fiók;Fiók;Xiaomi Fiók</item>
+        <item>A csatlakoztatott WeChat és egyéb SNS-fiókok megtekintése</item>
+        <item>engedélyek;SNS;WeChat;Xiaomi Fiók;fiók</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Jelszó módosítása</item>
         <item>Xiaomi Fiók jelszavának módosítása</item>
         <item>Jelszómódosítás;Jelszó frissítése;Mi fiók;Fiók;Xiaomi Fiók</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Családi tárhely</item>
+        <item>Családi tárhely megtekintése/bekapcsolása</item>
+        <item>Családi tárhely;Tárhelymegosztás</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Családi szolgáltatások</item>
+        <item>Családi szolgáltatások megtekintése/bekapcsolása</item>
+        <item>Család;családi szolgáltatások;Családi megosztás</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>Segítség</item>
         <item>Kérje a Xiaomi Fiók segítségét és támogatását</item>
         <item>Mi fiók;Fiók;Xiaomi Fiók;Fiók-súgó;Súgóközpont</item>
-    </string-array>
-    <string-array name="settings_search_login_2_step_verify">
-        <item>kétlépcsős azonosítás</item>
-        <item>A Xiaomi Fiókja kétlépcsős azonosításának beállítása</item>
-        <item>Bejelentkezés;Belépés;2-lépcsős;hitelesítés;Xiaomi;Fiók;Mi fiók;Fiók;Xiaomi Fiók</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Fiókbiztonság</item>

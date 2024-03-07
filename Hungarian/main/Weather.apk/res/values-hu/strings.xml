@@ -33,7 +33,7 @@
     <string name="abrupt_weather_settings_summary_type">Riasztások fogadása várható esőről, a levegőminőség változásáról és egyéb jelentős változásokról</string>
     <string name="act_find_city_hint">Keresés</string>
     <string name="act_find_city_hot_city_title">Népszerű városok</string>
-    <string name="act_location_error_to_find_city">Nem sikerült a tartózkodási helyre vonatkozó információkat betölteni. Manuálisan is hozzáadhat várost.</string>
+    <string name="act_location_error_to_find_city">Nem sikerült a tartózkodási helyadatot betölteni. Manuálisan is hozzáadhat egy tartózkodási helyet.</string>
     <string name="act_set_city_find_side">Helymeghatározás</string>
     <string name="act_set_city_find_side_error">Helymeghatározás sikertelen</string>
     <string name="act_weather_find_city_added">A város hozzáadva</string>
@@ -78,17 +78,11 @@
     <string name="aqi_fifteen_dates_time_format">MM. dd.</string>
     <string name="aqi_publish_time">Frissítve %1$s</string>
     <string name="aqi_quality_co_desc">Szén-monoxid</string>
-    <string name="aqi_quality_co_pad">CO: %1$s</string>
     <string name="aqi_quality_no2_desc">Nitrogén-dioxid</string>
-    <string name="aqi_quality_no2_pad">NO₂: %1$s</string>
     <string name="aqi_quality_o3_desc">Ózon</string>
-    <string name="aqi_quality_o3_pad">O₃: %1$s</string>
     <string name="aqi_quality_pm10_desc">Belélegezhető nagyobb részecskék</string>
-    <string name="aqi_quality_pm10_pad">PM10: %1$s</string>
     <string name="aqi_quality_pm25_desc">Finom részecskék</string>
-    <string name="aqi_quality_pm25_pad">PM2,5: %1$s</string>
     <string name="aqi_quality_so2_desc">Szulfur-dioxid</string>
-    <string name="aqi_quality_so2_pad">SO₂: %1$s</string>
     <string name="aqi_station_best_quality_station">Közelben a legjobb</string>
     <string name="aqi_station_min_distance_station">Legközelebbi állomás</string>
     <string name="aqi_title_pad">AQI: %1$s</string>
@@ -163,6 +157,7 @@
     <string name="dynamic_weather">Időjárás</string>
     <string name="early_morning">Reggel</string>
     <string name="edit_city">Városok kezelése</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Frissítés…</string>
     <string name="empty_view_net_unavailable">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="empty_view_refresh">Újra</string>
@@ -205,7 +200,7 @@
     <string name="feedback">Helytelen időjárási információ jelentése</string>
     <string name="feedback_cloudy">Felhős</string>
     <string name="feedback_foggy">Ködös</string>
-    <string name="feedback_haze">Köd</string>
+    <string name="feedback_haze">Pára</string>
     <string name="feedback_moderate_rain">Eső</string>
     <string name="feedback_moderate_snow">Hó</string>
     <string name="feedback_overcast">Borult</string>
@@ -213,8 +208,8 @@
     <string name="feedback_result_fail_no_choice">Válassza ki a jelenlegi időjárási helyzetet</string>
     <string name="feedback_result_fail_no_reason">Köszönjük visszajelzését!</string>
     <string name="feedback_result_fail_same_type">Úgy tűnik, hogy a jelentése nem tér el az aktuális időjárástól. Próbálja újra!</string>
-    <string name="feedback_result_success">Sikeresen elküldve, köszönjük a visszajelzését.</string>
-    <string name="feedback_sandy">Homokos</string>
+    <string name="feedback_result_success">Sikeresen beküldve. Köszönjük a visszajelzését.</string>
+    <string name="feedback_sandy">Homokvihar</string>
     <string name="feedback_sunny">Tiszta</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -272,18 +267,21 @@
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
     <string name="hourly_forcast_now">Most</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">MM. dd.</string>
     <string name="index_item_experience_now">Telepítés most</string>
     <string name="indices_title_chance_of_rain">Eső valószínűsége</string>
     <string name="indices_title_feel">Hőérzet</string>
     <string name="indices_title_pressure">Légnyomás</string>
     <string name="indices_title_uv">UV</string>
-    <string name="indices_title_wind_speed">Szélsebesség</string>
     <string name="indices_wind_direction_east">K</string>
     <string name="indices_wind_direction_north">É</string>
     <string name="indices_wind_direction_south">D</string>
     <string name="indices_wind_direction_west">NY</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">UV-sugárzás</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Kapcsolja be a helymeghatározási szolgáltatást</string>
     <string name="location_tag">Helymeghatározás</string>
     <string name="manager_city_option_add_home">Hozzáadás a kezdőlaphoz</string>
@@ -294,16 +292,15 @@
     <string name="minute_rain_feedback_title">Az időjárásinformáció helytelennek tűnik.</string>
     <string name="minute_rain_now">Most</string>
     <string name="minute_rain_progress_indicator_original_time">- -</string>
-    <string name="missing_required_permission">Ön letiltott egy szükséges engedélyt.</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
@@ -392,8 +389,8 @@
     <string name="privacy_grant_or_revoke_settings">Beleegyezés visszavonása</string>
     <string name="privacy_grant_success">Az engedély sikeresen megadva</string>
     <string name="privacy_policy">Adatvédelmi irányelvek</string>
-    <string name="privacy_policy_msg">&lt;Data>Az alkalmazás a következő funkciókat tartalmazza:&lt;br/>•Tartózkodási hely alapú időjárásjelentés&lt;br/>•Időjárás-előrejelzés&lt;br/>•Időjárással kapcsolatos figyelmeztetések&lt;br/>&lt;br/>Az alapvető szolgáltatások biztosításához az Időjárás alkalmazásnak be kell gyűjtenie a szükséges személyes adatokat. &lt;a href=\"%1$s\">Adatvédelmi irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. Az Időjárás alkalmazás használata előtt olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói megállapodásunkat&lt;/a> és &lt;a href=\"%3$s\">Adatvédelmi irányelvünket&lt;/a>. Bármikor visszavonhatja az Időjárás alkalmazás Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban.&lt;/Data></string>
-    <string name="privacy_policy_msg_for_gp">&lt;Data>Az alkalmazás a következő funkciókat tartalmazza:&lt;br/>•Tartózkodási hely alapú időjárásjelentés&lt;br/>•Időjárás-előrejelzés&lt;br/>•Időjárással kapcsolatos figyelmeztetések&lt;br/>&lt;br/>A funkciók biztosítása érdekében az Időjárás alkalmazásnak be kell gyűjtenie a szükséges személyes adatokat, beleértve a helyadatokart is, még akkor is, amikor az alkalmazás be van zárva vagy nincs használatban. &lt;a href=\"%1$s\">Adatvédelmi irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. Az Időjárás alkalmazás használata előtt olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói megállapodásunkat&lt;/a> és &lt;a href=\"%3$s\">Adatvédelmi irányelvünket&lt;/a>. Bármikor visszavonhatja az Időjárás alkalmazás Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban.&lt;/Data></string>
+    <string name="privacy_policy_msg"><Data>Az alkalmazás a következő funkciókat tartalmazza:&lt;br/>•Tartózkodási hely alapú időjárásjelentés&lt;br/>•Időjárás-előrejelzés&lt;br/>•Időjárással kapcsolatos figyelmeztetések&lt;br/>&lt;br/>Az alapvető szolgáltatások biztosításához az Időjárás alkalmazásnak be kell gyűjtenie a szükséges személyes adatokat. &lt;a href=\"%1$s\">Adatvédelmi irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. Az Időjárás alkalmazás használata előtt olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói megállapodásunkat&lt;/a> és &lt;a href=\"%3$s\">Adatvédelmi irányelvünket&lt;/a>. Bármikor visszavonhatja az Időjárás alkalmazás Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban.</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>Az alkalmazás a következő funkciókat tartalmazza:&lt;br/>•Tartózkodási hely alapú időjárásjelentés&lt;br/>•Időjárás-előrejelzés&lt;br/>•Időjárással kapcsolatos figyelmeztetések&lt;br/>&lt;br/>A funkciók biztosítása érdekében az Időjárás alkalmazásnak be kell gyűjtenie a szükséges személyes adatokat, beleértve a helyadatokart is, még akkor is, amikor az alkalmazás be van zárva vagy nincs használatban. &lt;a href=\"%1$s\">Adatvédelmi irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. Az Időjárás alkalmazás használata előtt olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói megállapodásunkat&lt;/a> és &lt;a href=\"%3$s\">Adatvédelmi irányelvünket&lt;/a>. Bármikor visszavonhatja az Időjárás alkalmazás Adatvédelmi irányelvéhez adott hozzájárulását a Beállításokban.</Data></string>
     <string name="privacy_revoke_success">Az engedély sikeresen visszavonva</string>
     <string name="privacy_settings">Adatvédelmi irányelvek</string>
     <string name="pull_fresh_updated">Sikeresen frissítve</string>
@@ -412,10 +409,6 @@
     <string name="realtime_wind_default_title">Szél</string>
     <string name="refresh_fail">Nem sikerült csatlakozni a hálózathoz</string>
     <string name="reminder_from_xiaomi_weather_app">Mi Időjárás riasztások</string>
-    <string name="request_cta_connect_net">Az internethez való csatlakozás engedélyezés az alkalmazás számára és a fent felsorolt kötelező engedélyek megadása.</string>
-    <string name="request_permission_location_dialog_content">Az aktuális tartózkodási helyére vonatkozó időjárás-adatok megjelenítéséhez</string>
-    <string name="request_permission_main_purpose">Időjárás-adatok megjelenítése</string>
-    <string name="request_permission_storage_dialog_content">Időjárás-adatok megosztásához a képformátumban</string>
     <string name="revoke_fail">Nem sikerült csatlakozni a hálózathoz</string>
     <string name="revoke_privacy_policy_title">Beleegyezés visszavonása</string>
     <string name="saturday">Szombat</string>
@@ -441,7 +434,7 @@
     <string name="share_button">Megosztás</string>
     <string name="share_menu_title">Megosztás</string>
     <string name="share_subject">Megosztás</string>
-    <string name="share_weather_desc">\#MIUI időjárás #Ma %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Nem sikerült képernyőképet készíteni</string>
     <string name="shortcut_short_label_24_hour_forecast">%d órás előrejelzés</string>
@@ -568,9 +561,6 @@
     <string name="user_agreement">Felhasználói szerződés</string>
     <string name="v7_preference_off">KI</string>
     <string name="v7_preference_on">BE</string>
-    <string name="video_banner_regional_weather_update">Regionális időjárási frissítések</string>
-    <string name="video_banner_weather_forecast">Időjárás előrejelzés</string>
-    <string name="video_banner_weather_update">Legutóbbi időjárási frissítések</string>
     <string name="view_forecast_item_yesterday">Tegnap</string>
     <string name="view_indexes_item_today">Ma</string>
     <string name="view_indexes_item_tommorrow">Holnap</string>
@@ -591,9 +581,7 @@
     <string name="wind_power">%d</string>
     <string name="wind_unit">%1$s km/h</string>
     <string name="xiaomi_weather_description_content">Az Időjárás egy rendszeralkalmazás. Az alkalmazás eltávolítása után nem tud majd időjárás információkat megtekinteni, vagy használni a kapcsolódó widgeteket.</string>
-    <string name="xiaomi_weather_description_content_remove">Az Időjárás egy rendszeralkalmazás. A Kezdőképernyőn található parancsikon eltávolítása után nem tud majd időjárás információkat megtekinteni, vagy használni a kapcsolódó widgeteket.</string>
     <string name="xiaomi_weather_description_title">Eltávolítja az \"Időjárást\"?</string>
-    <string name="xiaomi_weather_description_title_remove">Eltávolítja az \"Időjárás\" alkalmazást a Kezdőképernyőről?</string>
     <string name="yes_vote_ratio">Vele: %1$s%%</string>
     <string name="yesterday">Tegnap</string>
 </resources>

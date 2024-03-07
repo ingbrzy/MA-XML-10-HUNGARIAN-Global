@@ -9,7 +9,7 @@
         <item>Nem lehet elérni a hálózatot. Csatlakozzon újra a Wi-Fi-hez, vagy indítsa újra a routert.</item>
     </string-array>
     <string-array name="net_diag_err_link_quality_china">
-        <item>Poor WLAN connection. Switch wireless bands or reboot the router.</item>
+        <item>Gyenge Wi-Fi-kapcsolat. Váltson vezeték nélküli sávot, vagy indítsa újra a routert.</item>
         <item>"Can't access network. Reconnect to WLAN or reboot the router."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity">
@@ -17,7 +17,7 @@
         <item>A hálózati hozzáférés korlátozott. Állítsa be az időt a készüléken, és ellenőrizze a router hálózati beállításait.</item>
         <item>Hálózati hiba. Ellenőrizze a HTTP-proxy beállításait.</item>
         <item>Hálózati hiba. Ellenőrizze, hogy a router hozzáfér-e az internethez.</item>
-        <item>Nem lehet csatlakozni a hálózathoz. Csatlakozzon újra a Wi-Fi-hez, vagy indítsa újra a routert.</item>
+        <item>Nem lehet elérni a hálózatot. Csatlakozzon újra a Wi-Fi-hez, vagy indítsa újra a routert.</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>A hálózati hozzáféréshez hitelesítés szükséges</item>
@@ -29,7 +29,7 @@
     <string-array name="net_diag_err_network_dns">
         <item>DNS-kiszolgáló hiba. Ellenőrizze a router DNS-konfigurációját.</item>
         <item>Jelentős késések a DNS-kiszolgáló miatt. Ellenőrizze a router DNS-konfigurációját.</item>
-        <item>Nem lehet elérni az átjárót. Csatlakozzon újra a Wi-Fi-hez, vagy indítsa újra a routert.</item>
+        <item>Nem lehet elérni a hálózatot. Csatlakozzon újra a Wi-Fi-hez, vagy indítsa újra a routert.</item>
     </string-array>
     <string-array name="net_diag_err_network_dns_china">
         <item>DNS-kiszolgáló hiba. Ellenőrizze a router DNS-konfigurációját.</item>

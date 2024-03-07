@@ -5,16 +5,16 @@
         <item quantity="one">Egy órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Egy órával ezelőtt</item>
-        <item quantity="one">Egy órával ezelőtt</item>
+        <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Egy óra múlva</item>
-        <item quantity="one">Egy óra múlva</item>
+        <item quantity="other">%d órán belül</item>
+        <item quantity="one">%d órán belül</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Fél óra múlva</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Azonnal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d perc múlva</item>
-        <item quantity="one">1 perc múlva</item>
+        <item quantity="other">%d percen belül</item>
+        <item quantity="one">%d percen belül</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d perce</item>
-        <item quantity="one">1 perce</item>
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
     </plurals>
     <plurals name="adblock_notification">
         <item quantity="other">%d reklám blokkolva</item>
@@ -48,6 +48,10 @@
         <item quantity="other">Eddig összesen %d hirdetés blokkolva</item>
         <item quantity="one">Eddig összesen %d hirdetés blokkolva</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">%d napja nem volt vizsgálat</item>
+        <item quantity="one">%d napja nem volt vizsgálat</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">Tekintsd meg a(z) %1$d új cikket</item>
         <item quantity="one">Tekintsd meg a(z) %1$d új cikket</item>
@@ -55,6 +59,22 @@
     <plurals name="auto_play_next_tips">
         <item quantity="other">Következő videó lejátszása %d másodpercen belül</item>
         <item quantity="one">Következő videó lejátszása %d másodpercen belül</item>
+    </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">%d napja nem vizsgálta meg a készülékét. Megvizsgálja most?</item>
+        <item quantity="one">%d napja nem vizsgálta meg a készülékét. Megvizsgálja most?</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">nap</item>
+        <item quantity="one">nap</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">%d napja nem optimalizálta a készülékét. Optimalizálja most?</item>
+        <item quantity="one">%d napja nem optimalizálta a készülékét. Optimalizálja most?</item>
+    </plurals>
+    <plurals name="count_likes">
+        <item quantity="other">%s kedvelés</item>
+        <item quantity="one">%s kedvelés</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d nappal ezelőtt</item>
@@ -148,6 +168,10 @@
         <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Utolsó %d nap</item>
         <item quantity="one">Utolsó %d nap</item>
@@ -192,9 +216,9 @@
         <item quantity="other">%d reklám blokkolva</item>
         <item quantity="one">%d reklám blokkolva</item>
     </plurals>
-    <plurals name="reading__search_resultful">
-        <item quantity="other">%1$d találat</item>
-        <item quantity="one">%1$d találat</item>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d új ajánlott videók</item>
+        <item quantity="one">%d új ajánlott videó</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s keresőkérdés</item>
@@ -291,5 +315,9 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s alkalommal</item>
         <item quantity="one">%s alkalommal</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">Múlt héten a Mi Böngésző weboldal betöltési sebessége %d értékkel lett gyorsabb!</item>
+        <item quantity="one">Múlt héten a Mi Böngésző weboldal betöltési sebessége %d értékkel lett gyorsabb!</item>
     </plurals>
 </resources>

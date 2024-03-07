@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">OK</string>
-    <string name="app_name">Xiaomi aktiválás</string>
+    <string name="app_name">Xiaomi szolgáltatási keretrendszer</string>
     <string name="error_device_id_message">"Érvénytelen készülékazonosító: %s
 A készülékazonosítónak érvényes IMEI- vagy MAC-címnek kell lennie. Készülékazonosító nélkül egyes Xiaomi Fiók és Xiaomi Cloud funkciók nem lesznek elérhetők."</string>
     <string name="error_device_id_title">Készülékazonosító lekérése nem sikerült</string>
     <string name="explain_send_sms_permission_button">Hitelesítés</string>
-    <string name="explain_send_sms_permission_msg">%s bekapcsolásakor a Xiaomi Keretrendszer küld egy SMS-t a telefonszáma hitelesítéséhez. A szolgáltató egy általános SMS díját számolhatja fel.</string>
+    <string name="explain_send_sms_permission_msg">A(z) %s bekapcsolásáhoza Xiaomi szolgáltatási keretrendszer küld egy SMS-t a telefonszáma hitelesítéséhez. A szolgáltató egy általános SMS díját számolhatja fel.</string>
     <string name="explain_send_sms_permission_title">Hitelesítse telefonszámát</string>
     <string name="pop_up_allow_notify_dialog">Engedélyezés</string>
     <string name="pop_up_deny_notify_dialog">Elutasítás</string>

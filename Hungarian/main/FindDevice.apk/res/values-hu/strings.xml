@@ -33,11 +33,17 @@
     <string name="afternoon">Délután</string>
     <string name="am">DE</string>
     <string name="app_name">Készülékkeresés</string>
+    <string name="call_notification_answer_action">Fogadás</string>
+    <string name="call_notification_answer_video_action">Videó</string>
+    <string name="call_notification_decline_action">Elutasítás</string>
+    <string name="call_notification_hang_up_action">Befejezés</string>
+    <string name="call_notification_incoming_text">Bejövő hívás</string>
+    <string name="call_notification_ongoing_text">Hívás folyamatban</string>
+    <string name="call_notification_screening_text">Bejövő hívás szűrése</string>
     <string name="captcha">Robotszűrő kód</string>
     <string name="change_find_device_status_failed">Nem sikerült kinyit. %s.</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="close">Bezárás</string>
-    <string name="copy">Másolás</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">A telefonszám eléréséhez, amellyel a készüléket meg lehet találni, ha az nincs csatlakoztatva az internethez</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">A készülék helyének meghatározásához, ha nincs csatlakoztatva az internethez</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Készüléke megkereséséhez és elveszett módba való váltáshoz</string>
@@ -48,7 +54,7 @@
     <string name="date_time_picker_dialog_title">Dátum- és időbeállítás</string>
     <string name="default_debt_msg_words">"Ez a készülék késedelmes részletfizetés miatt zárolva lett.
 Részletekért lépjen kapcsolatba az értékesítővel."</string>
-    <string name="default_lock_msg_words">A készülék egy Mi Fiókhoz van kapcsolva. Biztonsági okokból meg kell adnia a jelszavát a készülék hitelesítéséhez.</string>
+    <string name="default_lock_msg_words">A készülék egy Xiaomi Fiókhoz van kapcsolva. Biztonsági okokból meg kell adnia a jelszavát a készülék hitelesítéséhez.</string>
     <string name="default_lock_msg_words_with_phone">Üdv! Elveszítettem a készülékem. Megadná az elérhetőségét? Köszönöm!</string>
     <string name="device_locked">Ez a készülék le van zárva</string>
     <string name="device_lost">Ez a telefon elveszett</string>
@@ -63,16 +69,14 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="evening">Délután</string>
-    <string name="expand_button_title">Speciális</string>
-    <string name="find_device">Készülékkeresés</string>
     <string name="find_device_capture_done_notification_content">A fénykép megtekintése az i.mi.com oldalon</string>
     <string name="find_device_capture_done_notification_title">A Készülékkeresés távolról készített egy fényképet</string>
     <string name="find_device_capture_notification_content">Az Ön fiókja kérést küldött a készülékkel történő távoli fényképkészítésre</string>
     <string name="find_device_capture_notification_title">A Készülékkeresés fényképkészítésre készül</string>
     <string name="find_device_crash">A Készülékkeresés váratlanul leállt.</string>
     <string name="find_device_error_access_denied">Hozzáférés megtagadva.</string>
-    <string name="find_device_error_account_sys_timeout">Nem sikerült csatlakozni a Mi Fiókhoz</string>
-    <string name="find_device_error_account_unknown_error">Mi Fiók hiba (%s).</string>
+    <string name="find_device_error_account_sys_timeout">Nem sikerült csatlakozni a Xiaomi Fiókhoz.</string>
+    <string name="find_device_error_account_unknown_error">Xiaomi Fiók hiba (%s).</string>
     <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Ellenőrizze az adatkapcsolatot és próbálja újra.</string>
     <string name="find_device_error_password_changed">Fiók jelszava legutóbb megváltozott.</string>
@@ -89,44 +93,44 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="find_device_telephony_fault">Készülékkeresés: telefonálás hiba (%s).</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
+    <string name="fmt_date_long_month_day">MMMM d.</string>
     <string name="fmt_date_long_year_month">yyyy. MMMM</string>
-    <string name="fmt_date_long_year_month_day">yyyy MMMM dd</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">MM.dd.</string>
+    <string name="fmt_date_long_year_month_day">yyyy. MMMM d.</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">M.d.</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">yyyy.MM.</string>
-    <string name="fmt_date_numeric_year_month_day">yyyy.MM.dd.</string>
-    <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">MM.dd.</string>
+    <string name="fmt_date_numeric_year_month">yyyy-M</string>
+    <string name="fmt_date_numeric_year_month_day">yyyy-M-d</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">MMM d.</string>
     <string name="fmt_date_short_year_month">yyyy. MMM</string>
-    <string name="fmt_date_short_year_month_day">yyyy.MM.dd.</string>
+    <string name="fmt_date_short_year_month_day">yyyy. MMM. d.</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'perc'"</string>
+    <string name="fmt_time_minute_second">"m'perc' s'mp'"</string>
+    <string name="fmt_time_minute_second_millis">"m'perc' s.S'mp'"</string>
+    <string name="fmt_time_second">"s'mp'"</string>
+    <string name="fmt_time_second_millis">"s.S'mp'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -147,14 +151,15 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="login_extra_steps">Bejelentkezés ellenőrzés</string>
     <string name="login_failed">Nem sikerült bejelentkezni %s.</string>
     <string name="midnight">Éjjel</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_access_state_desc">Kiválasztott</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
@@ -172,48 +177,48 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="monday">Hétfő</string>
     <string name="monday_short">Hét</string>
     <string name="monday_shortest">Hét</string>
-    <string name="month_april">Április</string>
+    <string name="month_april">április</string>
     <string name="month_april_short">Ápr</string>
     <string name="month_april_shortest">Ápr</string>
-    <string name="month_august">Augusztus</string>
+    <string name="month_august">augusztus</string>
     <string name="month_august_short">Aug</string>
     <string name="month_august_shortest">Aug</string>
-    <string name="month_december">December</string>
+    <string name="month_december">december</string>
     <string name="month_december_short">Dec</string>
     <string name="month_december_shortest">Dec</string>
-    <string name="month_february">Február</string>
+    <string name="month_february">február</string>
     <string name="month_february_short">Febr</string>
     <string name="month_february_shortest">Febr</string>
-    <string name="month_january">Január</string>
+    <string name="month_january">január</string>
     <string name="month_january_short">Jan</string>
     <string name="month_january_shortest">Jan</string>
-    <string name="month_july">Július</string>
+    <string name="month_july">július</string>
     <string name="month_july_short">Júl</string>
     <string name="month_july_shortest">Júl</string>
-    <string name="month_june">Június</string>
+    <string name="month_june">június</string>
     <string name="month_june_short">Jún</string>
     <string name="month_june_shortest">Jún</string>
-    <string name="month_march">Március</string>
+    <string name="month_march">március</string>
     <string name="month_march_short">Márc</string>
     <string name="month_march_shortest">Márc</string>
-    <string name="month_may">Máj</string>
+    <string name="month_may">máj</string>
     <string name="month_may_short">Máj</string>
     <string name="month_may_shortest">Máj</string>
-    <string name="month_november">November</string>
+    <string name="month_november">november</string>
     <string name="month_november_short">Nov</string>
     <string name="month_november_shortest">Nov</string>
-    <string name="month_october">Október</string>
+    <string name="month_october">október</string>
     <string name="month_october_short">Okt</string>
     <string name="month_october_shortest">Okt</string>
-    <string name="month_september">Szeptember</string>
+    <string name="month_september">szeptember</string>
     <string name="month_september_short">Szept</string>
     <string name="month_september_shortest">Szept</string>
     <string name="more">Továbbiak</string>
     <string name="morning">Reggel</string>
     <string name="night">Este</string>
     <string name="noon">Dél</string>
-    <string name="not_set">Nincs beállítva</string>
-    <string name="open_wifi_settings">A Wi-Fi-beállítások megnyitása</string>
+    <string name="open_wifi_settings">Open WLAN settings</string>
+    <string name="open_wifi_settings_china">Open WLAN settings</string>
     <string name="passport_checking_vcode">Jelszó ellenőrzése…</string>
     <string name="passport_error_empty_vcode">Adja meg az ellenőrző kódot</string>
     <string name="passport_notification_need_unlock_again">Próbálja meg kinyit újra</string>
@@ -222,11 +227,10 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="passport_vcode_prompt_long">Adja meg az ellenőrző kódot</string>
     <string name="passport_verify">Ellenőrzés</string>
     <string name="password">Jelszó megadása</string>
-    <string name="phone_locked">A készülék hozzá van rendelve egy Mi Fiókhoz (%s). A készülék aktiválásához adja meg a jelszót.</string>
+    <string name="phone_locked">A készülék hozzá van rendelve egy Xiaomi Fiókhoz (%s). A készülék aktiválásához adja meg a jelszót.</string>
     <string name="phone_locked_account_email">, társított e-mail: %s</string>
     <string name="phone_locked_account_phone">, társított telefonszám: %s</string>
     <string name="pm">DU</string>
-    <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="return_to_call">Visszatérés a híváshoz</string>
     <string name="saturday">Szombat</string>
     <string name="saturday_short">Szo</string>
@@ -236,7 +240,6 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">A Robotszűrő kód nem lehet üres</string>
     <string name="stop_on_empty_password">A jelszó nem lehet üres</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
     <string name="sunday_shortest">Vas</string>
@@ -298,8 +301,8 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
     <string name="tuesday">Kedd</string>
-    <string name="tuesday_short">Ked</string>
-    <string name="tuesday_shortest">Ked</string>
+    <string name="tuesday_short">Ke</string>
+    <string name="tuesday_shortest">Ke</string>
     <string name="unlock">Aktiválás</string>
     <string name="unlock_access_denied">Hozzáférés megtagadva</string>
     <string name="unlock_bad_authentication">Hibás felhasználónév vagy jelszó</string>
@@ -307,29 +310,33 @@ Részletekért lépjen kapcsolatba az értékesítővel."</string>
     <string name="unlock_error_device_id">Nem kérhető le a készülékazonosító</string>
     <string name="unlock_error_interrupted">Megszakítva</string>
     <string name="unlock_error_network">Nem sikerült kapcsolódni a hálózathoz</string>
-    <string name="unlock_error_passport_sdk_timeout">Mi Fiók SDK nem válaszol</string>
     <string name="unlock_error_rpc">RPC hiba</string>
     <string name="unlock_error_server">Szerverhiba</string>
-    <string name="unlock_error_ssl_hand_shake">Nem sikerült kapcsolódni a szerverhez. Próbálja meg manuálisan beállítani a dátumot és az időt.</string>
     <string name="unlock_error_unknown">A bejelentkezés sikertelen</string>
     <string name="unlock_error_user_name">Hibás felhasználónév</string>
     <string name="unlock_error_wrong_vcode">A megadott kód hibás</string>
-    <string name="unlock_help">"Csatlakozzon a hálózathoz.
-Helyezzen be egy működő SIM-kártyát és ne csatlakozzon érvénytelen Wi-Fi-hálózatokhoz.
+    <string name="unlock_help">"Connect to the network.
+Insert a working SIM card and don't connect to invalid WLAN networks.
 
-Elfelejtette jelszavát?
-Menjen az id.mi.com-ra, válassza az „Elfelejtette jelszavát?” opciót és kövesse az utasításokat.
+Forgot password?
+Go to id.mi.com, select \"Forgot password?\", and follow the instructions.
 
-Nem tudja aktiválni készülékét?
-Menjen az i.mi.com/ss oldalra és küldje be jelentkezését a készülék feloldásához."</string>
+Can't activate device?
+Go to i.mi.com/ss and submit your application to unlock the device."</string>
+    <string name="unlock_help_china">"Connect to the network.
+Insert a working SIM card and don't connect to invalid WLAN networks.
+
+Forgot password?
+Go to id.mi.com, select \"Forgot password?\", and follow the instructions.
+
+Can't activate device?
+Go to i.mi.com/ss and submit your application to unlock the device."</string>
     <string name="unlock_help_title">Feloldási segítség:</string>
     <string name="unlock_number">Kód feloldása: %s</string>
     <string name="unlock_wrong_captcha">A megadott kód hibás</string>
     <string name="unlocking">Aktiválás…</string>
-    <string name="v7_preference_off">KI</string>
-    <string name="v7_preference_on">BE</string>
     <string name="verifing_account">Jelszó ellenőrzése…</string>
-    <string name="verify_password_failed">Nem sikerült a Mi Fiók ID. ellenőrzése %s.</string>
+    <string name="verify_password_failed">Nem sikerült a Xiaomi Fiókazonosító ellenőrzése. %s.</string>
     <string name="wednesday">Szerda</string>
     <string name="wednesday_short">Sze</string>
     <string name="wednesday_shortest">Sze</string>

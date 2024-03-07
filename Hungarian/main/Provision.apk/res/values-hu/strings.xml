@@ -221,6 +221,8 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="input_method_setting">Billentyűzet kiválasztása</string>
     <string name="install_preinstall_app">Alkalmazások betöltése…</string>
     <string name="interconnection_communication_introduction">A Xiaomi Internet Communication Services használatával megtalálhatja, rácsatlakozhat és kommunikálhat más Xiaomi-készülékekkel.</string>
+    <string name="interconnection_service_global_item_title">Xiaomi Interconnectivity</string>
+    <string name="interconnection_service_global_label">&lt;Data>A Xiaomi Interconntectivity lehetővé teszi, hogy készülékei vezeték nélkül lépjenek kapcsolatba egymással. A kapcsoló bekapcsolásával Ön elfogadja a Xiaomi Interconnectivity&lt;a href=%1$s>Adatvédelmi irányelveit&lt;/a >.&lt;/Data></string>
     <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
 \u0009\u0009互传：
 \u0009\u0009读写设备上的照片及文件
@@ -294,6 +296,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009用于发送及接收传输的文件
 如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
 因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
+    <string name="interconnection_service_summary_global">A Xiaomi Interconnectivity funkciók a készülékmodell és a rendszerverzió függvényében változhatnak. További információkért látogasson el a rendszer hivatalos weboldalára.</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">Ha elveszíti a készülékét, csak úgy tudja megakadályozni, hogy mások ne vegyék azt használatba és ne férjenek az adataihoz, ha beállítja a képernyőzárat. Tényleg átugorja?</string>
     <string name="item_facerecognition">Arcalapú feloldás</string>

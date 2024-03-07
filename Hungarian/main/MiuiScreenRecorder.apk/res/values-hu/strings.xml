@@ -32,9 +32,8 @@
     <string name="am">DE</string>
     <string name="app_name">Képernyővideó-felvevő</string>
     <string name="app_notification_channel_record_complete">Értesítések a befejezett felvételekről</string>
-    <string name="app_notification_info">A Képernyővideó-felvevő a háttérben működik</string>
-    <string name="app_notification_record_saved">"Felvétel mentése sikeres
-Koppintson a megjelenítéshez"</string>
+    <string name="app_notification_info">A képernyőről jelenleg felvétel készül…</string>
+    <string name="app_notification_record_saved">Képernyőfelvétel mentve. Koppintson a megtekintéshez.</string>
     <string name="app_notification_title">Képernyővideó-felvevő</string>
     <string name="auto_stop_title">A videó sikeresen mentve</string>
     <string name="battery_not_allowed_warning">Nem készíthet felvételt, ha a töltöttség kevesebb, mint %1$s. Győződjön meg arról, hogy a töltöttség legalább %2$s legyen.</string>
@@ -72,7 +71,7 @@ Koppintson a megjelenítéshez"</string>
     <string name="evening">Délután</string>
     <string name="expand_button_title">Speciális</string>
     <string name="first_using_mic_dialog_message">A Képernyőfelvevőnek csatlakoznia kell a mikrofonhoz, hogy hangfelvételt rögzíthessen. Engedélyezi?</string>
-    <string name="first_using_mic_dialog_title">Engedélyek szükségesek</string>
+    <string name="first_using_mic_dialog_title">Engedély szükséges</string>
     <string name="fixed_frame_rate">Rögzített képkockasebesség</string>
     <string name="fixed_frame_rate_summary">A rögzített képkockasebességgel felvett videók javítják a közösségi médiaplatformokon való lejátszhatóságot és növelik az akkumulátor élettartamát.</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -158,14 +157,14 @@ Koppintson a megjelenítéshez"</string>
     <string name="mic_sound">Mikrofon</string>
     <string name="midnight">Éjjel</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
-    <string name="miuix_appcompat_deselect_all">Egyik sem</string>
+    <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
@@ -236,6 +235,7 @@ Koppintson a megjelenítéshez"</string>
     <string name="pm">DU</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="privacy_settings">Adatvédelem</string>
+    <string name="protect_oneself_when_recording">A hívás rögzítve lesz. A funkció használata közben védje saját és mások magánéletét.</string>
     <string name="quit_recording">Kilépés a Képernyővideó-felvevőből</string>
     <string name="record_time_too_short">A rögzített videó túl rövid</string>
     <string name="recording_failure">Nem sikerült a felvétel, kezdje elölről</string>
@@ -251,7 +251,7 @@ Koppintson a megjelenítéshez"</string>
     <string name="screen_record_option">A felvételek beállításai</string>
     <string name="screen_record_params">A felvételek jellemzői</string>
     <string name="search_menu_title">Keresés</string>
-    <string name="select_all">Összes kijelölése</string>
+    <string name="select_all">Az összes kiválasztása</string>
     <string name="send">Küldés</string>
     <string name="settings">Beállítások</string>
     <string name="settings_other">Egyéb</string>
@@ -269,7 +269,7 @@ Koppintson a megjelenítéshez"</string>
     <string name="sound_source">A rögzítés hangforrása</string>
     <string name="sound_source_summary">Rendszerhangok vagy mikrofon</string>
     <string name="sound_source_summary_without_system_sounds">Mikrofon használata vagy némítás</string>
-    <string name="start">Indítás</string>
+    <string name="start">Indít</string>
     <string name="start_recording">Rögzítés indítása</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_by_second_space">Az asztalváltás le fogja állítani a felvételt</string>

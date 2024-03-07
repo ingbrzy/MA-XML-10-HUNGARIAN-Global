@@ -5,16 +5,16 @@
         <item quantity="one">Egy órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Egy órával ezelőtt</item>
-        <item quantity="one">Egy órával ezelőtt</item>
+        <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Egy óra múlva</item>
-        <item quantity="one">Egy óra múlva</item>
+        <item quantity="other">%d órán belül</item>
+        <item quantity="one">%d órán belül</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Fél óra múlva</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Azonnal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d perc múlva</item>
-        <item quantity="one">1 perc múlva</item>
+        <item quantity="other">%d percen belül</item>
+        <item quantity="one">%d percen belül</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d perce</item>
-        <item quantity="one">1 perce</item>
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
     </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">%d válasz megtekintve</item>
@@ -51,10 +51,6 @@
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Visszatekerés %d másodperccel</item>
         <item quantity="one">Visszatekerés %d másodperccel</item>
-    </plurals>
-    <plurals name="fcmpts_dialog_one">
-        <item quantity="other">Nézzen további %s másodpercet a videóból pontok szerzéséhez, és váltsa be a jutalmakat</item>
-        <item quantity="one">Nézzen további %s másodpercet a videóból pontok szerzéséhez, és váltsa be a jutalmakat</item>
     </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Visszalépés a főoldalra %1$d másodperc múlva…</item>
@@ -84,36 +80,6 @@
         <item quantity="other">%d perc múlva</item>
         <item quantity="one">1 perc múlva</item>
     </plurals>
-    <plurals name="incentive_dialog_congratulation_get_credits_title">
-        <item quantity="other">Ön szerzett %d pontot!</item>
-        <item quantity="one">Ön szerzett %d pontot!</item>
-    </plurals>
-    <plurals name="incentive_dialog_credits">
-        <item quantity="other">%d pont</item>
-        <item quantity="one">%d pont</item>
-    </plurals>
-    <plurals name="incentive_dialog_login_and_get_credits_message">
-        <item quantity="other">Jelentkezzen be az igényléshez és szerezzen %d extra pontot</item>
-        <item quantity="one">Jelentkezzen be az igényléshez és szerezzen %d extra pontot</item>
-    </plurals>
-    <plurals name="incentive_dialog_seconds">
-        <item quantity="other">%d másodperc</item>
-        <item quantity="one">%d másodperc</item>
-    </plurals>
-    <plurals name="incentive_guide_all_time_tip">
-        <item quantity="other">Nézzen összesen %d percet, hogy pontokat szerezzen! Befejezi a feladatot most?</item>
-        <item quantity="one">Nézzen összesen %d percet, hogy pontokat szerezzen! Befejezi a feladatot most?</item>
-    </plurals>
-    <plurals name="incentive_guide_coins_tip">
-        <item quantity="other">"Önnek %d visszaigényelhető pontja van
-Csak ma érhető el"</item>
-        <item quantity="one">"Önnek %d visszaigényelhető pontja van
-Csak ma érhető el"</item>
-    </plurals>
-    <plurals name="incentive_guide_current_time_tip">
-        <item quantity="other">Ma %d percet nézett meg</item>
-        <item quantity="one">Ma %d percet nézett meg</item>
-    </plurals>
     <plurals name="incentive_popup_window_share_success">
         <item quantity="other">Sikeresen megosztva. %d pontot szerzett.</item>
         <item quantity="one">Sikeresen megosztva. %d pontot szerzett.</item>
@@ -122,34 +88,6 @@ Csak ma érhető el"</item>
         <item quantity="other">Sikeresen feliratkozott. %d pontot szerzett.</item>
         <item quantity="one">Sikeresen feliratkozott. %d pontot szerzett.</item>
     </plurals>
-    <plurals name="incentive_task_watchvideo_begin">
-        <item quantity="other">Tegyen szert %d pontra!</item>
-        <item quantity="one">Tegyen szert %d pontra!</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_finish">
-        <item quantity="other">Elvégezte a feladatokat mára! %d pontra tett szert!</item>
-        <item quantity="one">Elvégezte a feladatokat mára! %d pontra tett szert!</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_of_one">
-        <item quantity="other">Megnézett %1$1d másodpercet és ezzel %2$2d pontot gyűjtött!</item>
-        <item quantity="one">Megnézett %1$1d másodpercet és ezzel %2$2d pontot gyűjtött!</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip1">
-        <item quantity="other">Nézzen meg egy véletlenszerű videót és tegyen szert %d pontra</item>
-        <item quantity="one">Nézzen meg egy véletlenszerű videót és tegyen szert %d pontra</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip2">
-        <item quantity="other">Nézzen megy egy %1$1d másodpeerces videót és gyűjtsön vele %2$2d pontot</item>
-        <item quantity="one">Nézzen megy egy %1$1d másodpeerces videót és gyűjtsön vele %2$2d pontot</item>
-    </plurals>
-    <plurals name="incentive_toast_share_success">
-        <item quantity="other">%d pontot szerzett. Folytassa a megosztást, hogy még többet szerezzen.</item>
-        <item quantity="one">%d pontot szerzett. Folytassa a megosztást, hogy még többet szerezzen.</item>
-    </plurals>
-    <plurals name="incentive_toast_subscribe_success">
-        <item quantity="other">%d pontot szerzett. További pontokért továbbra is feliratkozhat.</item>
-        <item quantity="one">%d pontot szerzett. További pontokért továbbra is feliratkozhat.</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
@@ -157,6 +95,10 @@ Csak ma érhető el"</item>
     <plurals name="local_diversion_video_number">
         <item quantity="other">%d videó</item>
         <item quantity="one">%d videó</item>
+    </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">Lejátszás %sX sebességgel. Engedje el a normál sebességű lejátszáshoz.</item>
+        <item quantity="one">Lejátszás %sX sebességgel. Engedje el a normál sebességű lejátszáshoz.</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d mappa</item>
@@ -181,10 +123,6 @@ Csak ma érhető el"</item>
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
         <item quantity="other">Méret: %.2fKB</item>
         <item quantity="one">Méret: %.2fKB</item>
-    </plurals>
-    <plurals name="lv_video_count">
-        <item quantity="other">%d videó</item>
-        <item quantity="one">%d videó</item>
     </plurals>
     <plurals name="mangotv_feature_list_title1">
         <item quantity="other">%1$1d / %2$2d epizód érhető el</item>
@@ -214,14 +152,6 @@ Csak ma érhető el"</item>
         <item quantity="other">%d dal</item>
         <item quantity="one">%d dal</item>
     </plurals>
-    <plurals name="new_incentive_toast_share_success">
-        <item quantity="other">Sikeresen megosztva. Ön %d pontot szerzett. Igényelje a Pontközpontban.</item>
-        <item quantity="one">Sikeresen megosztva. Ön %d pontot szerzett. Igényelje a Pontközpontban.</item>
-    </plurals>
-    <plurals name="new_incentive_toast_subscribe_success">
-        <item quantity="other">Sikeresen feliratkozott. Ön %d pontot szerzett. Igényelje a Pontközpontban.</item>
-        <item quantity="one">Sikeresen feliratkozott. Ön %d pontot szerzett. Igényelje a Pontközpontban.</item>
-    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">A tartalmad olyan elemeket (%1$s) tartalmaz, amelyek sértik a közösségi alapelveinket. Fiókod %2$d napig, vagyis eddig: %3$s felfüggesztésre kerül.</item>
         <item quantity="one">A tartalmad olyan elemeket (%1$s) tartalmaz, amelyek sértik a közösségi alapelveinket. Fiókod %2$d napig, vagyis eddig: %3$s felfüggesztésre kerül.</item>
@@ -233,14 +163,6 @@ Csak ma érhető el"</item>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
-    </plurals>
-    <plurals name="ovp_detail_v_video_count">
-        <item quantity="other">%d videó</item>
-        <item quantity="one">%d videó</item>
-    </plurals>
-    <plurals name="ovp_home_item_unit">
-        <item quantity="other">%d videó</item>
-        <item quantity="one">%d videó</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">%s tétel törlése most?</item>
@@ -297,10 +219,6 @@ Csak ma érhető el"</item>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Legfeljebb %d könyvjelzőt adhat hozzá</item>
         <item quantity="one">Legfeljebb %d könyvjelzőt adhat hozzá</item>
-    </plurals>
-    <plurals name="v_confirm_hide_videos_new">
-        <item quantity="other">%d kiválasztott fáj elrejtése?</item>
-        <item quantity="one">%d kiválasztott fáj elrejtése?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s kedvelés</item>

@@ -5,16 +5,16 @@
         <item quantity="one">Egy órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Egy órával ezelőtt</item>
-        <item quantity="one">Egy órával ezelőtt</item>
+        <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Egy óra múlva</item>
-        <item quantity="one">Egy óra múlva</item>
+        <item quantity="other">%d órán belül</item>
+        <item quantity="one">%d órán belül</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Fél óra múlva</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Azonnal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d perc múlva</item>
-        <item quantity="one">1 perc múlva</item>
+        <item quantity="other">%d percen belül</item>
+        <item quantity="one">%d percen belül</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d perce</item>
-        <item quantity="one">1 perce</item>
+        <item quantity="other">%d perccel ezelőtt</item>
+        <item quantity="one">%d perccel ezelőtt</item>
     </plurals>
     <plurals name="alert_message_delete">
         <item quantity="other">Töröl %1$s elemet?</item>
@@ -80,10 +80,6 @@
         <item quantity="other">%d perc múlva</item>
         <item quantity="one">1 perc múlva</item>
     </plurals>
-    <plurals name="item_terms">
-        <item quantity="other">%1$s elem</item>
-        <item quantity="one">%1$s elem</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
         <item quantity="one">Épp most</item>
@@ -111,10 +107,6 @@
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d másodperc maradt</item>
         <item quantity="one">%d másodperc maradt</item>
-    </plurals>
-    <plurals name="toast_notes_hidden_count">
-        <item quantity="other">%1$s jegyzet sikeresen elrejtve</item>
-        <item quantity="one">%1$s jegyzet sikeresen elrejtve</item>
     </plurals>
     <plurals name="toast_notes_unhidden_count">
         <item quantity="other">%1$s jegyzet sikeresen megjelenítve</item>

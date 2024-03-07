@@ -2,10 +2,10 @@
 <resources>
     <string-array name="aqi_detail_title">
         <item>Jó</item>
+        <item>Kedvező</item>
         <item>Közepes</item>
-        <item>Érzékenyek számára egészségtelen csoport</item>
         <item>Egészségtelen</item>
-        <item>Nagyon egészségtelen</item>
+        <item>Súlyos</item>
         <item>Kockázatos</item>
     </string-array>
     <string-array name="aqi_title">
@@ -34,12 +34,12 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Jó</item>
-        <item>Kielégítő</item>
-        <item>Mérsékelten szennyezett</item>
-        <item>Rossz</item>
-        <item>Nagyon rossz</item>
+        <item>Kedvező</item>
+        <item>Közepes</item>
+        <item>Egészségtelen</item>
         <item>Súlyos</item>
-        <item>Határérték-túllépési mutató</item>
+        <item>Kockázatos</item>
+        <item>Határérték fölött</item>
     </string-array>
     <string-array name="hot_city">
         <item>Budapest</item>
@@ -70,31 +70,62 @@
         <item>Közepes</item>
         <item>Enyhe</item>
     </string-array>
+    <string-array name="realtime_humidity_status">
+        <item>Száraz</item>
+        <item>Kényelmes</item>
+        <item>Párás</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>Magas</item>
+        <item>Közepes</item>
+        <item>Alacsony</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Hideg</item>
+        <item>Hűvös</item>
+        <item>Kényelmes</item>
+        <item>Meleg</item>
+        <item>Forró</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Gyenge</item>
+        <item>Közepes</item>
+        <item>Erős</item>
+        <item>Nagyon erős</item>
+        <item>Súlyos</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Tiszta</item>
         <item>Felhős</item>
         <item>Borult</item>
-        <item>Ködös</item>
+        <item>Gyenge köd</item>
         <item>Felhőszakadás</item>
-        <item>Zápor</item>
+        <item>Felhőszakadás</item>
         <item>Vihar</item>
         <item>Zivatar</item>
-        <item>Eső</item>
+        <item>Záporok</item>
         <item>Heves esőzés</item>
         <item>Gyenge eső</item>
         <item>Szemerkélő eső</item>
-        <item>Havas eső</item>
+        <item>Hódara</item>
         <item>Hóvihar</item>
-        <item>Havazás</item>
-        <item>Hózápor</item>
+        <item>Hózáporok</item>
+        <item>Sűrű havazás</item>
         <item>Mérsékelt havazás</item>
         <item>Hószállingózás</item>
         <item>Erős homokvihar</item>
         <item>Homokvihar</item>
-        <item>poros</item>
-        <item>Szeles</item>
+        <item>Enyhe homokvihar</item>
+        <item>Homokvihar</item>
         <item>Jégeső</item>
-        <item>Poros</item>
+        <item>Por</item>
         <item>Pára</item>
         <item>Ónos eső</item>
         <item></item>

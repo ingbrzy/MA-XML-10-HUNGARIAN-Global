@@ -2,7 +2,7 @@
 <resources>
     <string-array name="hmode_app_classify1">
         <item>Egyéni</item>
-        <item>MIUI akkumulátorkímélő</item>
+        <item>Akkumulátorkímélő</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Aktív alkalmazások</item>

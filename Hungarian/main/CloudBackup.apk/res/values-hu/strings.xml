@@ -438,6 +438,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="other_device_main_space">Első asztal</string>
     <string name="other_device_second_space">Második asztal</string>
     <string name="page_title_more_backup_options">További biztonsági mentés szolgáltatások</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">Nem lehet visszaállítani az elemeket PC módban. Kapcsolja ki a PC módot, és próbálja újra.</string>
     <string name="permission_to_use">Engedélyek részletei</string>
     <string name="pm">DU</string>
@@ -449,6 +451,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="provision_error_connect_title">Nem tud kapcsolódni</string>
     <string name="provision_next">Tovább</string>
     <string name="provision_restore_data">Elemek visszaállítása</string>
+    <string name="provision_restore_item_backup_name_with_size">%1$s | ≈%2$s</string>
     <string name="provision_skip_underline">Kihagyás</string>
     <string name="query_restore_description">Ha visszaállítja a Kezdőképernyő elrendezését és beállításait, a már telepített alkalmazások visszaállnak a Kezdőképernyőn az eredeti helyükre. Azok az alkalmazások, amelyek nem részei ennek a biztonsági mentésnek, a Kezdőképernyő utolsó oldalára kerülnek.</string>
     <string name="query_restore_summary">Egy Xiaomi Cloud mentés található a készüléken. Visszaállítja a kezdőképernyő alkalmazásait és beállításokat, vagy új készülékként használja és törli a korábbi Xiaomi Cloud mentéseket?</string>

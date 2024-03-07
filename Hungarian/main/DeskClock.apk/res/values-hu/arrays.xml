@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>Ébresztés 1 percen belül</item>
-        <item>Ébresztés %1$s</item>
-        <item>Ébresztés %2$s</item>
-        <item>Ébresztés %1$s %2$s</item>
-        <item>Ébresztés %3$s</item>
-        <item>Ébresztés %1$s %3$s</item>
-        <item>Ébresztés %2$s %3$s</item>
-        <item>Ébresztés %1$s %2$s %3$s</item>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Ébresztés kevesebb mint %d perc múlva</item>
+        <item>Ébresztés %1$s múlva</item>
+        <item>Ébresztés %2$s múlva</item>
+        <item>Ébresztés %1$s %2$s múlva</item>
+        <item>Ébresztés %3$s múlva</item>
+        <item>Ébresztés %1$s %3$s múlva</item>
+        <item>Ébresztés %2$s %3$s múlva</item>
+        <item>Ébresztés %1$s %2$s %3$s múlva</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Egyszer</item>
@@ -24,8 +24,8 @@
         <item>Hétfőtől péntekig</item>
         <item>Egyéni</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>Ébresztés kevesebb, mint 1 perc múlva.</item>
+    <string-array name="alarm_set_new_array">
+        <item>Ébresztés kevesebb mint %d perc múlva.</item>
         <item>Ébresztés %1$s múlva.</item>
         <item>Ébresztés %2$s múlva.</item>
         <item>Ébresztés %1$s és %2$s múlva.</item>
@@ -42,20 +42,19 @@
         <item>Nagyon rossz</item>
         <item>Súlyos</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>Soha</item>
-        <item>1 perc</item>
-        <item>5 perc</item>
-        <item>10 perc</item>
-        <item>15 perc</item>
-        <item>20 perc</item>
-        <item>25 perc</item>
-        <item>30 perc</item>
-    </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>Hétfő-péntek</item>
         <item>Minden nap</item>
         <item>Munkanapokon</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Hétfőtől péntekig</item>
+        <item>Minden nap</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Minden nap</item>
+        <item>Hétfőtől péntekig</item>
+        <item>Egyéni</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Minden nap</item>
@@ -164,7 +163,7 @@
         <item>Baku</item>
         <item>Bangkok</item>
         <item>Bejrút</item>
-        <item>Calcutta</item>
+        <item>Kalkutta</item>
         <item>Damaszkusz</item>
         <item>Dakka</item>
         <item>Dubaj</item>
@@ -250,7 +249,7 @@
         <item>Szófia</item>
         <item>Stockholm</item>
         <item>Tallinn</item>
-        <item>Vatikán</item>
+        <item>Vatikánváros</item>
         <item>Bécs</item>
         <item>Vilnius</item>
         <item>Varsó</item>
@@ -350,11 +349,6 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
-    </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>Fehér</item>
-        <item>Fekete</item>
-        <item>Automatikus</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>Elefántcsontpart</item>
@@ -644,40 +638,6 @@
         <item>Suriname</item>
         <item>Ecuador</item>
     </string-array>
-    <string-array name="days_of_week">
-        <item>Vas</item>
-        <item>Hé</item>
-        <item>Ke</item>
-        <item>Sze</item>
-        <item>Csü</item>
-        <item>Pé</item>
-        <item>Szo</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>Meghatározott időben</item>
-        <item>15 perccel előtte</item>
-        <item>30 perccel előtte</item>
-        <item>1 órával előtte</item>
-        <item>Semmikor</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 perc</item>
-        <item>5 perc</item>
-        <item>10 perc</item>
-        <item>15 perc</item>
-        <item>20 perc</item>
-        <item>25 perc</item>
-        <item>30 perc</item>
-    </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="time">
         <item>%1$s</item>
         <item>%2$s</item>
@@ -700,10 +660,5 @@
         <item>Semmit se csináljanak</item>
         <item>Szundi</item>
         <item>Elvetés</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>
