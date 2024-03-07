@@ -574,7 +574,6 @@ Az egy- és ötéves LPR-ek a People's Bank of China weboldalán minden hónap 2
     <string name="unit_data_display_currency_btn">Bhutáni ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswanai pula</string>
     <string name="unit_data_display_currency_byn">Belarusz rubel</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Kanadai dollár</string>
     <string name="unit_data_display_currency_cdf">Kongói frank</string>
     <string name="unit_data_display_currency_chf">Svájci frank</string>

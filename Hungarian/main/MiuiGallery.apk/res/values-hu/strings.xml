@@ -847,7 +847,6 @@ Készítsen több fotót a barátairól!"</string>
     <string name="face_name_edit">Szerkesztés</string>
     <string name="face_name_input">Írja be a nevet</string>
     <string name="face_recommend">Ajánlások</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="facebook_login_btn_content_description">Bejelentkezés Facebook-kal</string>
     <string name="fail_hint">Nem sikerült befejezni a műveletet</string>
     <string name="fail_reason_migrate">Elemek feldolgozás alatt… Várjon néhány percet, majd próbálja újra!</string>
@@ -863,7 +862,6 @@ Készítsen több fotót a barátairól!"</string>
     <string name="feedback_my_reports">Visszajelzés</string>
     <string name="feedback_problem">Hibajelentés</string>
     <string name="feedback_suggest">Javaslat beküldése</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">Ez az elem nem nyomtatható.</string>
     <string name="file_cannot_screen_throw">Ez az elem nem vetíthető ki.</string>
     <string name="file_sending">Fájlátvitel…</string>
@@ -960,7 +958,6 @@ Készítsen több fotót a barátairól!"</string>
     <string name="grant_permission_go_and_set">Beállítáa</string>
     <string name="grant_permission_go_and_set_2">Beállítások</string>
     <string name="grant_permission_go_and_set_3">Beállítások</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">Engedélyek szükségesek</string>
     <string name="grant_permission_manage_storage_unlock">Oldja fel a készüléket, és engedélyezze ennek az alkalmazásnak, hogy hozzáférjen az összes fájlhoz, hogy megtekinthesse az elemeket.</string>
     <string name="grant_permission_shortcut">Engedélyezze, hogy az alkalmazás először a Kezdőképernyő parancsikon parancsikonjait hozza létre.</string>
@@ -1618,7 +1615,6 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="people_page_label">Személyek</string>
     <string name="people_page_photo">Egy személy indexképe</string>
     <string name="people_page_unname">Névtelen</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">A bejelentkezéshez és a rendszerfiók kezeléséhez</string>
     <string name="permission_account_name">Hozzáférés a fiókokhoz</string>
     <string name="permission_clipboard_desc">Az elemek eléréséhez és a vágólapra mentéséhez</string>
@@ -2085,7 +2081,6 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="share_album_cancel_share">Megosztás leállítása</string>
     <string name="share_album_change_background">Háttérfénykép megváltoztatása</string>
     <string name="share_album_create_failed">Nem sikerült megosztott albumot létrehozni</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">Megosztás leállítása</string>
     <string name="share_album_exit_confirm">Folytatás esetén nem fog tudni többé hozzáférni az album összes eleméhez. Mentse el az összes fontos elemet, mielőtt távozik.</string>
     <string name="share_album_exit_confirm_title">Kilép a csoportból?</string>
@@ -2172,7 +2167,6 @@ válassza ki a fényképeket, amelyeken Ön látható"</string>
     <string name="share_with_family">Megosztás a családdal</string>
     <string name="sharer_quota_fulfiled">Már megosztotta ezt az albumot a maximális számú emberrel.</string>
     <string name="show_cloud_albumlist_summary">A szinkronizálás kikapcsolása után a kiválasztott albumok új elemei nem kerülnek a felhőbe.</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">Rejtett albumok megtekintése és kezelése</string>
     <string name="show_hidden_album_title">Rejtett albumok megjelenítése</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Sikeresen eltávolítva. Ezt az elemet mostantól az \"Albumokban\" tekintheti meg.</string>

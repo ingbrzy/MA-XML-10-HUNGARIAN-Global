@@ -368,7 +368,6 @@
     <string name="download_method">Letöltés</string>
     <string name="download_paused_in_power_save_mode">Bekapcsolt Akkumulátorkímélő esetén a letöltések szünetelnek</string>
     <string name="download_processing">Letöltés…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">Letöltés minősége</string>
     <string name="download_quality_summary">További beállítások a letölteni kívánt dalokhoz</string>
     <string name="download_song_quality_title">A letöltött dalok minősége</string>
@@ -464,9 +463,7 @@
     <string name="exo_media_action_repeat_all_description">Összes szám ismétlése</string>
     <string name="exo_media_action_repeat_off_description">Nincs ismétlés</string>
     <string name="exo_media_action_repeat_one_description">Egy szám ismétlése</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatív</string>
     <string name="exo_track_role_closed_captions">Felirat</string>
     <string name="exo_track_role_commentary">Kommentár</string>
@@ -884,7 +881,6 @@
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -1245,7 +1241,6 @@
     <string name="privacy_authorize_revoking">Engedély visszavonása…</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
     <string name="privacy_policy">Adatvédelmi irányelvek</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=hu_HU</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
 Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
 If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
@@ -1422,7 +1417,6 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="start_to_download">Letöltés…</string>
     <string name="start_to_play">Készen a lejátszásra…</string>
     <string name="start_update">Új verzió telepítése…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Klónozott alkalmazások tárhelye</string>
     <string name="storage_space_permissions_for_display">Hozzáférés tárhelyhez: beolvasáshoz, megjelenítéshez és helyi fájlok lejátszásához</string>
     <string name="streamloadingtext">Connecting to %s</string>
@@ -1582,7 +1576,6 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="upload_playlist_to_hungama_title">Online számok szinkronizálása a hungamával, hogy olyan más készülékeken is elérhetők legyenek, amelyeken az Xiaomi Accountot használod.</string>
     <string name="upload_playlist_to_hungama_toast">Az online számok szinkronizálásra kerülnek a hungamával</string>
     <string name="user_agreement">Felhasználói szerződés</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=hu_HU</string>
     <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
     <string name="user_playlist_plaza">Lejátszási listák</string>
     <string name="user_privacy_dialog_negative_text">Mégse</string>

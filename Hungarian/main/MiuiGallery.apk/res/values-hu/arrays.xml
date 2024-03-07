@@ -119,11 +119,6 @@
         <item>New friends and old pals</item>
         <item>"Last year's get-togethers"</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Áthelyez</item>
-        <item>Másolás</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>Január</item>
         <item>Február</item>
