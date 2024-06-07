@@ -61,10 +61,6 @@
         <item>Irány a természet</item>
         <item>Vad és szabad</item>
     </string-array>
-    <string-array name="global_backup_display_title">
-        <item>@string/backup_google_name</item>
-        <item>@string/backup_onedrive_single_name</item>
-    </string-array>
     <string-array name="global_backup_display_value">
         <item>1</item>
         <item>2</item>
@@ -122,11 +118,6 @@
     <string-array name="last_year_group_people">
         <item>New friends and old pals</item>
         <item>"Last year's get-togethers"</item>
-    </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Áthelyez</item>
-        <item>Másolás</item>
-        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Január</item>

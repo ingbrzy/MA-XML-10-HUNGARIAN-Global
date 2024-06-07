@@ -474,7 +474,6 @@ Oka: \"%s\""</string>
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Név</string>
     <string name="gallery">Galéria</string>
     <string name="ghostData_company">Munkahely</string>
@@ -608,7 +607,6 @@ Oka: \"%s\""</string>
     <string name="menu_sync_remove">Szinkronizálási csoport eltávolítása</string>
     <string name="midnight">Éjjel</string>
     <string name="miprofile_account_type">Névjegykártyák</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profil szerkesztése</string>
     <string name="miprofile_name">Profilom</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -774,7 +772,6 @@ Koppintson a \"%1$s\" elemre, majd válassza ezt: \"%2$s\"."</string>
     <string name="permission_retry_dialog_msg_pad">Ahhoz, hogy használni tudja a SIM-kártyáját ezzel az alkalmazással és kezelni tudja névjegyeit, engedélyezze az alkalmazásnak, hogy hozzáférjen és szerkeszthesse névjegyeit, valamint hozzáférhessen készülékinformációihoz.</string>
     <string name="permission_retry_setting">Beállítások</string>
     <string name="phoneLabelsGroup">Telefon</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Túl hosszú a telefonszám</string>
     <string name="phone_primary">Elsődleges</string>
     <string name="photoPickerNotFoundText">Nincsenek elérhető képek a készüléken.</string>
@@ -1006,7 +1003,6 @@ A kezdéshez koppintson az \"Összevonás\" gombra a képernyő alján."</string
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nincs tag a csoportban</string>
     <string name="six_letter">MNO</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Cégek</string>
     <string name="smart_group_company_unavailable">Nincs céginformáció</string>
     <string name="smart_group_frequency_1">Az elmúlt hónapban</string>
@@ -1048,7 +1044,6 @@ A kezdéshez koppintson az \"Összevonás\" gombra a képernyő alján."</string
     <string name="starred_contacts">Kedvencek</string>
     <string name="status_available">Elérhető</string>
     <string name="status_away">Nincs a gépnél</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Elfoglalt</string>
     <string name="strequentList">Kedvencek</string>
     <string name="success_message_import_from_account">Névjegy importálva</string>

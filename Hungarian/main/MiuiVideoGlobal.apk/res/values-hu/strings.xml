@@ -135,7 +135,6 @@
     <string name="cast_forward">Előretekerés</string>
     <string name="cast_forward_10">Előretekerés tíz másodperccel</string>
     <string name="cast_forward_30">Előretekerés harminc másodperccel</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">ÉLŐ</string>
     <string name="cast_mute">Némítás</string>
     <string name="cast_notification_connected_message">Csatlakozva a következőhöz: %1$s</string>
@@ -1018,7 +1017,6 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -1108,7 +1106,6 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="online_play_start_ready_loading_tip_kb">Betöltés %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">Betöltés %.2f MB/s</string>
     <string name="online_play_title">URL megadása</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Legutóbbi feliratkozások</string>
     <string name="order_recently_updated">Nemrég frissítve</string>
     <string name="out_of_memory_background_playback_is_suspended">A háttérben történő lejátszás szünetel a nem megfelelő memória miatt</string>
@@ -1515,7 +1512,6 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="sns_sign_in">Más bejelentkezési módok</string>
     <string name="source">"Forrás: "</string>
     <string name="start_download_tip">Hozzáadva a sorhoz. Ellenőrizze az előrehaladást a Profil > Letöltések menüpontban.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD kártya</string>
     <string name="storage_internal_sdcard">Belső tárhely</string>
     <string name="subscribe">ELŐFIZETÉS</string>

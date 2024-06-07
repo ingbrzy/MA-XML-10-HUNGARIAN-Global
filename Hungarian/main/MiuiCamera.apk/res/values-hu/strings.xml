@@ -756,7 +756,6 @@ A kéttelefonos felvétel lehetővé teszi, hogy csatlakozzon egy másik közeli
     <string name="edit_temple">Halántékok</string>
     <string name="edit_touch_up">Smink</string>
     <string name="emoticon">Matricacsomag</string>
-    <string name="empty" />
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="error_fail_to_start_audio_capture">Nem indítható el a hangvezérelt fényképkészítés</string>
@@ -1403,7 +1402,6 @@ A kép témája éles marad, míg a háttér elhomályosodik."</string>
     <string name="pref_camera_auxiliary_close">Ki</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Expozícióellenőrzés</string>
     <string name="pref_camera_auxiliary_focus_peak">Fókuszjelölés</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Magas</string>
     <string name="pref_camera_beautify_entry_low">Alacsony</string>
     <string name="pref_camera_beautify_entry_normal">Közepes</string>
