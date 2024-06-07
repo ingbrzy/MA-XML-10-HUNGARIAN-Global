@@ -33,7 +33,6 @@
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="close">Bezárás</string>
     <string name="copy">Másolás</string>
-    <string name="copy_toast_msg">Link vágólapra másolva</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -45,9 +44,6 @@
     <string name="eras_bc">I.E.</string>
     <string name="evening">Délután</string>
     <string name="expand_button_title">Speciális</string>
-    <string name="fallback_menu_item_copy_link">Link másolása</string>
-    <string name="fallback_menu_item_open_in_browser">Megnyitás böngészőben</string>
-    <string name="fallback_menu_item_share_link">Link megosztása</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -193,6 +189,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>

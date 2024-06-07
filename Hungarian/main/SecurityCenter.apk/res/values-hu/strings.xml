@@ -343,6 +343,9 @@
     <string name="app_manager_copy_pkg_to_clip">Kimásolva a vágólapra</string>
     <string name="app_manager_data_size">Felhasználói adat</string>
     <string name="app_manager_default_cleared">Törölve</string>
+    <string name="app_manager_default_close_summary">Nincs alapértelmezett beállítva.</string>
+    <string name="app_manager_default_open_summary">Ön kijelölte ezt az alkalmazást alapértelemzettként néhány művelethez.</string>
+    <string name="app_manager_default_open_title">Alapértelmezések törlése</string>
     <string name="app_manager_defaults_setting">Alapértelmezett alkalmazások</string>
     <string name="app_manager_details_electric_title">Akkumulátor</string>
     <string name="app_manager_details_storage_title">Tárhely</string>
@@ -968,6 +971,7 @@ Néhány tranzakciója azonban még nem fejeződött be. A hozzájárulás vissz
     <string name="card_main_private_space_summary">A Második asztal használata olyan, mintha két készüléke lenne</string>
     <string name="card_main_private_space_title">Második asztal</string>
     <string name="card_main_sectool_title">Eszközök</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">Videók kezelése</string>
     <string name="card_main_whatsappclean_title">WhatsApp-tisztító</string>
     <string name="card_main_xspace_action">Létrehozás</string>
@@ -1337,6 +1341,7 @@ A szám a kivételek közé kerül, de a korábban letiltott számok nem látsza
     <string name="dynamic_performance_optimization_title">Dinamikus teljesítmény</string>
     <string name="early_morning">Reggel</string>
     <string name="edit_phone_num">SIM telefonszám szerkesztése</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty" />
     <string name="empty_app">Nincs alkalmazás</string>
@@ -1414,7 +1419,9 @@ A szám a kivételek közé kerül, de a korábban letiltott számok nem látsza
     <string name="exo_download_paused_for_wifi">A letöltések Wi-Fi-re várakoznak</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatív</string>
     <string name="exo_track_role_closed_captions">Felirat</string>
     <string name="exo_track_role_commentary">Kommentár</string>
@@ -1601,6 +1608,7 @@ A szám a kivételek közé kerül, de a korábban letiltott számok nem látsza
     <string name="fod_finger_notice_title">Helyezze az ujját a képernyőre</string>
     <string name="fod_finger_windows_tips">Ellenőrizze ujjlenyomatát</string>
     <string name="fod_tips_split_screen_more_than_half">Írja be a jelszót</string>
+    <string name="fold_application_mode_name">Alkalmazás-elrendezések</string>
     <string name="forbid_autobright_summary">Az Automatikus fényerő kikapcsolásra kerül, amikor Ön játszik, és visszakapcsolódik, amikor befejezte</string>
     <string name="forbid_autobright_title">Állandó képernyő fényerősség</string>
     <string name="foreground_traffic">Előtérben %s</string>
@@ -2122,7 +2130,7 @@ fontos pillanatait"</string>
     <string name="group_clipboard">Vágólap</string>
     <string name="group_connect_device">Összekapcsolhatóság</string>
     <string name="group_file">Fájlok és dokumentumok</string>
-    <string name="group_file_less_t">Access files and media</string>
+    <string name="group_file_less_t">Hozzáférés fájlokhoz és médiatartalomhoz</string>
     <string name="group_head_data_ai_clipboard">Vágólap védelme</string>
     <string name="group_head_data_camera_desc">Kapcsolja ki a kamerához való hozzáférés korlátozásához minden alkalmazás számára</string>
     <string name="group_head_data_clipboard_desc">Kapcsolja ki, hogy korlátozza a vágólaphoz való hozzáférést minden alkalmazás számára</string>
@@ -2599,6 +2607,7 @@ Készüléke ennyivel gyorsabb: %s."</string>
     <string name="menu_text_license_manager">Engedélyek</string>
     <string name="menu_text_networkassistants">Adatforgalom</string>
     <string name="menu_text_networkassistants_danger">%s túlforgalm.</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s elérhető</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2607,6 +2616,7 @@ Készüléke ennyivel gyorsabb: %s."</string>
     <string name="menu_text_optimize_manage">Sebességgyorsítás</string>
     <string name="menu_text_optimize_manage_1">Sebességgyorsítás</string>
     <string name="menu_text_power_manager">Akkumulátor</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Eltávolítás a kivételek listájáról</string>
     <string name="menu_white">Hozzáadás a kivételekhez</string>
     <string name="mi_ime_not_used">Használja a Xiaomi által engedélyezett billentyűzetet</string>
@@ -2715,6 +2725,7 @@ Készüléke ennyivel gyorsabb: %s."</string>
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -3246,7 +3257,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pc_wireless_charging_special_stand_summary2">A legjobb töltési élmény érdekében helyezze a készüléket a vezeték nélküli töltőhöz kapott állomásra</string>
     <string name="pc_wireless_charging_special_stand_title">Használja a tartozék töltőállomást</string>
     <string name="pc_wireless_handle_connected">Készülék csatlakoztatva</string>
-    <string name="pc_wireless_handle_title">Vezeték nélküli kameratartó</string>
+    <string name="pc_wireless_handle_title">Kamerafogás</string>
     <string name="pc_work_in_save_mode">Akkumulátorkímélő</string>
     <string name="pc_work_in_super_save_mode">Ultraerős akkumulátorkímélő</string>
     <string name="pc_xiaoai_create_auto_task">Új feladat a Mi AI-tól</string>
@@ -3307,7 +3318,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="permission_group_camera">Az engedély lehetővé teszi az alkalmazások számára, hogy a kamerát fényképek vagy videók készítésére használják.</string>
     <string name="permission_group_contact">Az engedély lehetővé teszi az alkalmazások számára a névjegyek elérését vagy szerkesztését, valamint az ezen az eszközön létrehozott alkalmazások névjegyeinek megtekintését.</string>
     <string name="permission_group_file">Az engedély lehetővé teszi az alkalmazások számára, hogy hozzáférjenek az eszközön tárolt összes fájlhoz.</string>
-    <string name="permission_group_file_less_t">This permission allows apps to access photos, videos, audio, and other files stored on this device.</string>
+    <string name="permission_group_file_less_t">Az engedély lehetővé teszi az alkalmazások számára, hogy hozzáférjenek a készüléken tárolt fényképekhez, videókhoz, hang- és egyéb fájlokhoz.</string>
     <string name="permission_group_image_video">Az engedély lehetővé teszi az alkalmazások számára, hogy hozzáférjenek az eszközön tárolt fényképekhez és videókhoz.</string>
     <string name="permission_group_location">Az engedély lehetővé teszi az alkalmazások számára, hogy hálózaton vagy műholdon keresztül hozzáférjenek a helyadatokhoz.</string>
     <string name="permission_group_microphone">Az engedély lehetővé teszi az alkalmazások számára, hogy a mikrofont hangfelvétel készítésére használják.</string>
@@ -3426,7 +3437,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pm_remember_choice">Emlékezzen</string>
     <string name="pm_root_success_notification_infomation">Legyen tisztában a root hozzáférés veszélyeivel</string>
     <string name="pm_root_success_notification_title">Root jogosultság engedélyezve</string>
-    <string name="popular_action_anti_spam_title_global">Hívások és üzenetek tiltása</string>
+    <string name="popular_action_anti_spam_title_global">Spam-hívások blokkolása</string>
     <string name="popular_action_app_lock_title_global">Alkalmazások védelme az Alkalmazászárral</string>
     <string name="popular_action_card_title">Népszerű funkciók</string>
     <string name="popular_action_first_aid_title_global">Új felhasználóknak</string>
@@ -3482,6 +3493,11 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="power_center_dialog_msg_top">Ha az Akkumulátorkímélő mód be van kapcsolva, a következő optimalizálásra kerül sor:</string>
     <string name="power_center_hints_scan_danger_result">Most megoldhatja az akkumulátorral kapcsolatos problémákat</string>
     <string name="power_center_list_item_auto_brightness">Automatikus képernyő-fényerősségszabályzás</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ó</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth kikapcsolása</string>
     <string name="power_center_list_item_deep_save_title">Haladó beállítások</string>
@@ -3794,6 +3810,7 @@ Próbálja meg másik Ethernet-kábellel csatlakoztatni a routert. Ha úgy gondo
     <string name="pref_normal_traffic_limit">Amikor a tervezett adat-előfizetés elfogyott</string>
     <string name="pref_open_adjust_traffic">Adatforgalmi adatok szinkronizálása a szolgáltató szerverével</string>
     <string name="pref_operator_not_set">Szolgáltató nincs beállítva</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Ha túllépi az adatforgalmi keretet</string>
     <string name="pref_package_traffic_settings">Adat-előfizetés</string>
     <string name="pref_pkg_begin_date">Számlázási időszak kezdete</string>
@@ -4094,6 +4111,7 @@ Visszavonja most a hozzájárulását?"</string>
     <string name="privacy_using_record">Hangrögzítés</string>
     <string name="privacyapp_number_masked_text">Az értesítés tartalma el van rejtve</string>
     <string name="privacyapp_number_unmasked_text">Az értesítés tartalma elrejthető</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Médiaszerver</string>
     <string name="process_vpnsdkmanager_label">Játékgyorsító</string>
     <string name="promotion">Reklám</string>
@@ -5329,7 +5347,7 @@ Az egyik bekapcsolása kikapcsolja a másikat."</string>
     <string name="vb_video_effects_spatial_summary_new">Fülhallgató használatakor élje át a fokozott tér- és irányérzetet a támogatott hangzáshoz</string>
     <string name="vb_video_effects_srs_premium_sound">Hang</string>
     <string name="vb_video_super_division">Növelés</string>
-    <string name="vb_video_super_division_desc">"A felbontás automatikus növelése, ha ≤720p.
+    <string name="vb_video_super_division_desc">"A felbontás automatikus növelése, ha ≤720P.
 
  A funkció használata növeli az energiafogyasztást.
 
@@ -5379,6 +5397,7 @@ Próbálja növelni a felbontást!"</string>
     <string name="virus_update_tips_title">Figyelmeztetés</string>
     <string name="virus_wait_network_dialog_message">Jelenleg nincs csatlakozva Wi-Fi-re. Használ mobiladat-kapcsolatot?</string>
     <string name="vtb_ai_subtitle">Feliratok</string>
+    <string name="vtb_ai_subtitle_intl">AI feliratok</string>
     <string name="vtb_func_desc">A funkció bemutatása</string>
     <string name="vtb_func_display_style_desc0">Az AI képes felismerni a videókban szereplő embereket, állatokat, növényeket, égboltot, épületeket és más tárgyakat, és dinamikusan javíthatja őket.</string>
     <string name="vtb_func_display_style_desc1">A kiválasztott effektek nem alkalmazhatók a kiválasztott eszközökön található HDR videókra.</string>

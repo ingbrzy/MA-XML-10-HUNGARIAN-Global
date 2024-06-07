@@ -102,7 +102,7 @@
     <string name="error_p2p_create_group_failure_china">"Couldn't connect. Reconnect to WLAN on both devices and try again."</string>
     <string name="error_p2p_recv_connect_timeout">Nem lehet csatlakozni. Csatlakozzon újra a Wi-Fi-hálózathoz mindkét készüléken, majd próbálja újra.</string>
     <string name="error_p2p_recv_connect_timeout_china">"Couldn't connect. Reconnect to WLAN on both devices and try again."</string>
-    <string name="error_permission_denied">A funkció használatához adja meg a szükséges jogosultásgokat a Mi Megosztás számára a Beállításokban.</string>
+    <string name="error_permission_denied">A funkció használatához adja meg a szükséges jogosultásgokat a Xiaomi Megosztás számára a Beállításokban.</string>
     <string name="error_receive_file_cannot_read">Fájl fogadása sikertelen</string>
     <string name="error_receive_file_changed">Nem fogadható. Az elem megváltozott.</string>
     <string name="error_receive_file_file_opened">Nem fogadható ez az elem. Úgy tűnik, hogy épp használatban van.</string>
@@ -121,8 +121,8 @@
     <string name="error_send_file_service_disabled">Kimenő átvitel törölve</string>
     <string name="error_send_transfer_error">Az elemek küldése sikertelen. Várjon néhány percet, majd próbálja újra.</string>
     <string name="error_send_transfer_pc_error">Transfer timed out. Update Xiaomi PC Manager to the latest version and try again.</string>
-    <string name="error_slave_wifi_in_use">Ha a kettős Wi-Fi be van kapcsolva, a Mi Megosztás nem fog működni. Kapcsolja ki a kettős Wi-Fi-t a Beállításokban és próbálja újra.</string>
-    <string name="error_slave_wifi_in_use_china">"Mi Share won't work when dual WLAN is on. Turn off dual WLAN in the Settings and try again."</string>
+    <string name="error_slave_wifi_in_use">Ha a kettős Wi-Fi be van kapcsolva, a Xiaomi Megosztás nem fog működni. Kapcsolja ki a kettős Wi-Fi-t a Beállításokban és próbálja újra.</string>
+    <string name="error_slave_wifi_in_use_china">Ha a WLAN be van kapcsolva, a Xiaomi Megosztás nem fog működni. Kapcsolja ki a kettős WLAN-t a Beállításokban és próbálja újra.</string>
     <string name="error_timeout">A munkamenet lejárt. Várjon egy-két percet, és próbálkozzon újra.</string>
     <string name="error_user_refuse">Nem küldhető. Az átvitelt elutasították.</string>
     <string name="error_wifi_display_in_use">Kivetítés közben nem küldhetők fájlok más készülékekre</string>
@@ -201,17 +201,17 @@
     <string name="go_to_settings">Beállítások</string>
     <string name="guide_summary_1">A másik személy az Értesítési felületen koppinthat a kapcsolóra</string>
     <string name="guide_summary_2">Válassza ki azt a készüléket, amelyre elemeket szeretne küldeni, majd koppintson az ikonjára</string>
-    <string name="guide_title_1">Mi Megosztás bekapcsolása mindkét készüléken</string>
+    <string name="guide_title_1">Xiaomi Megosztás bekapcsolása mindkét készüléken</string>
     <string name="guide_title_2">Válassza ki a fogadó készüléket</string>
     <string name="help">Nem találhatók eszközök?</string>
-    <string name="help_content">Ha nem találja a szükséges készüléket, kérje meg a másik személyt, hogy kapcsolja meg a Mi Megosztás funkciót.</string>
+    <string name="help_content">Ha nem találja a szükséges készüléket, kérje meg a másik személyt, hogy kapcsolja meg a Xiaomi Megosztást.</string>
     <string name="hide">Elrejtés</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Értem</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
-    <string name="location_enabled">Az Mi Megosztás bekapcsolta a helymeghatározó szolgáltatásokat a közeli eszközök keresése érdekében</string>
+    <string name="location_enabled">A Xiaomi Megosztás bekapcsolta a helymeghatározó szolgáltatásokat a közeli eszközök keresése érdekében</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
     <string name="menu_item_permission_manager_and_use_guide_title">Engedélyek részletei</string>
@@ -231,7 +231,7 @@
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Mi Megosztás</string>
+    <string name="mi_drop">Xiaomi Megosztás</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
     <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
@@ -239,14 +239,14 @@
     <string name="mi_share_turbo_mode">Turbóátvitel</string>
     <string name="midnight">Éjjel</string>
     <string name="mini_pc_xiaomi_device_model_name">Xiaomi Mini PC</string>
-    <string name="mishare_folder_in_file_explorer">Fájlkezelő és MiShare</string>
-    <string name="mishare_service_channel_desc">Értesítések a Mi Megosztás-folyamatokról</string>
-    <string name="mishare_settings_summary_international">"A Mi Megosztás alkalmazással vezeték nélkül küdhet elemeket közelben lévő készülékekre.
+    <string name="mishare_folder_in_file_explorer">Fájlkezelő és Xiaomi Megosztás</string>
+    <string name="mishare_service_channel_desc">Értesítések a Xiaomi Megosztás folyamatairól</string>
+    <string name="mishare_settings_summary_international">"A Xiaomi Megosztással vezeték nélkül küdhet elemeket közelben lévő készülékekre.
 Ezt a funkciót az OPPO, a vivo, a realme és más okostelefongyártók is támogatják. A támogatott készülékek listája a kiválasztott márka hivatalos weboldalán érhető el."</string>
-    <string name="mishare_state_protection">Mi Megosztás automatikus bekapcsolása</string>
-    <string name="mishare_state_protection_summary">ha a Bluetooth-t vagy a Wi-Fi-t visszakapcsolják</string>
-    <string name="mishare_state_protection_summary_china">Turn Mi Share back on automatically when Bluetooth or WLAN are turned back on</string>
-    <string name="mishare_transefer_channel_desc">Értesítések a Mi Megosztás-en keresztül küldött és fogadott fájlokról</string>
+    <string name="mishare_state_protection">Xiaomi Megosztás automatikus bekapcsolása</string>
+    <string name="mishare_state_protection_summary">Xiaomi Megosztás automatikus bekapcsolása, amikor a Bluetooth vagy a Wi-Fi újra be van kapcsolva</string>
+    <string name="mishare_state_protection_summary_china">Xiaomi Megosztás automatikus bekapcsolása, amikor a Bluetooth vagy a WLAN újra be van kapcsolva</string>
+    <string name="mishare_transefer_channel_desc">Értesítések a Xiaomi Megosztáson keresztül küldött és fogadott fájlokról</string>
     <string name="miuix_access_state_desc">Kiválasztott</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_action_mode_select_all">Összes kijelölése</string>
@@ -317,8 +317,8 @@ Ezt a funkciót az OPPO, a vivo, a realme és más okostelefongyártók is támo
     <string name="nfc_check_the_touch_device">Az eszközök összekapcsolásához a másik készüléken is be kell kapcsolni a Wi-Fi-t és a Bluetooth-t. Ellenőrizze, hogy a másik eszközhöz való csatlakozás engedélyezett-e a Beállítások > Csatlakozás és megosztás > Csatlakoztatott eszközök menüpontban, és próbálja meg újra.</string>
     <string name="nfc_check_the_touch_device_china">Az eszközök összekapcsolásához a másik készüléken is be kell kapcsolni a WLAN-t és a Bluetooth-t. Ellenőrizze, hogy a másik eszközhöz való csatlakozás engedélyezett-e a Beállítások > Csatlakozás és megosztás > Csatlakoztatott eszközök menüpontban, és próbálja meg újra.</string>
     <string name="nfc_connect_fail">Nem sikerült csatlakozni. Várjon egy-két percet, és próbálja újra.</string>
-    <string name="nfc_connect_fail_lyra_secure">A Mi Megosztás funkciót az eszköz Vezérlőközpontjában kapcsolhatja be.</string>
-    <string name="nfc_connect_fail_lyra_secure_title">A Mi Megosztás ki van kapcsolva</string>
+    <string name="nfc_connect_fail_lyra_secure">A Xiaomi Megosztás funkciót az eszköz Irányítóközpontjában kapcsolhatja be.</string>
+    <string name="nfc_connect_fail_lyra_secure_title">A Xiaomi Megosztás ki van kapcsolva</string>
     <string name="nfc_connect_fail_pad">Kapcsolódás sikertelen</string>
     <string name="nfc_connecting">Csatlakozás…</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Az eszközök csatlakoztatásához először kapcsolja be a készüléken a Wi-Fi-t és a Bluetooth-t. Bekapcsolja most?</string>
@@ -344,16 +344,16 @@ Ezt a funkciót az OPPO, a vivo, a realme és más okostelefongyártók is támo
     <string name="pc_device_model_name">Számítógép</string>
     <string name="pc_redmi_device_model_name">Redmi laptop</string>
     <string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
-    <string name="permission_apply_purpose">Engedélyezze a Mi Megosztás számára, hogy felfedezze a közeli eszközöket, és csatlakozzon hozzájuk, hogy képes legyen fájlok átvitelére.</string>
-    <string name="permission_denied_hint">A Mi Megosztás használatához adja meg a szükséges engedélyeket</string>
+    <string name="permission_apply_purpose">Engedélyezze a Xiaomi Megosztás számára, hogy felfedezze a közeli eszközöket, és csatlakozzon hozzájuk, hogy képes legyen fájlok átvitelére.</string>
+    <string name="permission_denied_hint">A Xiaomi Megosztás használatához adja meg a szükséges engedélyeket</string>
     <string name="permission_related">Engedélyek</string>
     <string name="pm">DU</string>
     <string name="preference_copied">„%1$s” a vágólapra lett másolva.</string>
     <string name="privacy_authorize">Engedélyezés</string>
     <string name="progress_ratio">%1$d%%</string>
-    <string name="purpose">"Üdvözli Önt a Mi Megosztás! Az alkalmazás segítségével áthelyezhet fájlokat eszközök között. A vonatkozó törvényekkel, szabályozásokkal és irányelvekkel összhangban védjük az Ön személyes adatait.
+    <string name="purpose">"Üdvözli Önt a Xiaomi Megosztás! Az alkalmazás segítségével áthelyezhet fájlokat eszközök között. A vonatkozó törvényekkel, szabályozásokkal és irányelvekkel összhangban védjük az Ön személyes adatait.
 A Mi Share használata előtt meg kell adnia a következő engedélyeket, valamint engedélyeznie kell, hogy begyűjtsük a következő személyes adatokat:"</string>
-    <string name="purpose_v12">Üdvözli Önt a Mi Megosztás! Az alkalmazással átviheti fájljait eszközei között.</string>
+    <string name="purpose_v12">Üdvözli Önt a Xiaomi Megosztás! Az alkalmazással átviheti fájljait eszközei között.</string>
     <string name="queue_full">Új műveletek hozzáadása előtt fejezze be a folyamatban lévőket.</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
@@ -435,7 +435,7 @@ A Mi Share használata előtt meg kell adnia a következő engedélyeket, valami
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sub_title_mishare_switch">Ez a funkció %d perc után automatikusan kikapcsol</string>
     <string name="sub_title_turbo_mode">Szupergyors átvitel a Xiaomi telefonok és táblagépek között. Az átvitel során a hálózat szétkapcsolódik.</string>
-    <string name="sub_title_withdraw_privacy_policy_consent">Az Adatvédelmi irányelvhez való hozzájárulás visszavonása a Mi Megosztás szolgáltatást is kikapcsolja</string>
+    <string name="sub_title_withdraw_privacy_policy_consent">Az Adatvédelmi irányelvhez való hozzájárulás visszavonása a Xiaomi Megosztást is kikapcsolja</string>
     <string name="success_receive_much_file_from_pc">Több mint %2$d fájl érkezett innen: %1$s. Koppintson a megtekintéshez.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
@@ -495,22 +495,20 @@ A Mi Share használata előtt meg kell adnia a következő engedélyeket, valami
     <string name="time_picker_label_minute">M</string>
     <string name="tips_p2p_support_use5g">A legjobb eredmény érdekében használjon 5 GHz Wi-Fi-hálózatot.</string>
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
-    <string name="tips_prompt_enable_midrop">Mi Megosztás</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi Megosztás</string>
     <string name="to_feedback">Jelentés</string>
-    <string name="toast_auto_close_in_minutes">A Mi Megosztás %d perc után automatikusan kikapcsol</string>
+    <string name="toast_auto_close_in_minutes">A Xiaomi Megosztás automatikusan kikapcsol %d perc múlva</string>
     <string name="toast_transfering">Elemek átvitele folyamatban. Próbálkozzon ismét később.</string>
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
     <string name="transfer_intercept_to_remote">Sikertelen küldés: %1$s</string>
-    <string name="transfer_to_pc_summary">Az Mi Jegyzetekbe telepített AloT szoftver legújabb verziója kompatibilis a Mi Megosztással. A MIUI weboldalán megtekintheti a támogatott laptop modelleket. Ha laptopja rajta van a listán, de az AloT nincs rá telepítve, frissítse laptopjának BIOS-át és hálózatikártya-meghajtóját, majd töltse le az AloT-ot.</string>
-    <string name="transfer_to_pc_summary_new">&lt;Data>Az Mi Jegyzetekbe telepített MUIU+ szoftver legújabb verziója kompatibilis a Mi Megosztással. A MIUI+ weboldalán megtekintheti a támogatott laptop modelleket (&lt;a href=%1$s>%2$s&lt;/a>). Ha laptopja rajta van a listán, de a MIUI+ nincs rá telepítve, frissítse laptopjának BIOS-át és hálózatikártya-meghajtóját, majd töltse le a MIUI+-t.&lt;/Data></string>
-    <string name="transfer_to_pc_summary_new_plus">&lt;Data>Xiaomi PC Manager now supports Mi Share! You can find a list of supported computer models &lt;a href=%1$s>here&lt;/a>.&lt;/Data></string>
+    <string name="transfer_to_pc_summary_new_plus"><Data>A Xiaomi PC Manager mostantól támogatja a Xiaomi Megosztást! A támogatott számítógépmodellek listáját &lt;a href=%1$s>itt&lt;/a> találja.</Data></string>
     <string name="transfer_to_pc_title">Fájlok küldése számítógépre</string>
-    <string name="transfer_to_phone_summary">Kapcsolja be a Mi Megosztás funkciót az Értesítési felületen megtalálható kapcsolóval. Ezután látni fogja a közelben lévő eszközöket, ha elkezd megosztani egy képet vagy fájlt. A megosztani kívént elem elküldéséhez koppintson a fogadó fél eszközére.</string>
-    <string name="transfer_to_phone_summary_new">Kapcsolja be a Mi Megosztást az Irányítóközontban az elemek könnyed küldéséhez és fogadásához. Bekapcsolás után elemeket oszthat meg közeli készülékekkel %d percig, majd a funkció automatikusan kikapcsol.</string>
+    <string name="transfer_to_phone_summary">Kapcsolja be a Xiaomi Megosztás funkciót az Értesítési felületen megtalálható kapcsolóval. Ezután látni fogja a közelben lévő eszközöket, ha elkezd megosztani egy képet vagy fájlt. A megosztani kívént elem elküldéséhez koppintson a fogadó fél eszközére.</string>
+    <string name="transfer_to_phone_summary_new">Kapcsolja be a Xiaomi Megosztást az Irányítóközontban az elemek könnyed küldéséhez és fogadásához. Bekapcsolás után elemeket oszthat meg közeli készülékekkel %d percig, majd a funkció automatikusan kikapcsol.</string>
     <string name="transfer_to_phone_title">Fájlok küldése telefonokra</string>
-    <string name="transfer_to_summary">Kapcsolja be a Mi Megosztás funkciót az Értesítési felületen megtalálható kapcsolóval. Ezután látni fogja a közelben lévő eszközöket, ha elkezd megosztani egy képet vagy fájlt. A megosztani kívént elem elküldéséhez koppintson a fogadó fél eszközére.</string>
-    <string name="transfer_to_summary_new">Kapcsolja be a Mi Megosztást az Irányítóközontban az elemek könnyed küldéséhez és fogadásához. Bekapcsolás után elemeket oszthat meg közeli készülékekkel %d percig, majd a funkció automatikusan kikapcsol.</string>
+    <string name="transfer_to_summary">Kapcsolja be a Xiaomi Megosztás funkciót az Értesítési felületen megtalálható kapcsolóval. Ezután látni fogja a közelben lévő eszközöket, ha elkezd megosztani egy képet vagy fájlt. A megosztani kívént elem elküldéséhez koppintson a fogadó fél eszközére.</string>
+    <string name="transfer_to_summary_new">Kapcsolja be a Xiaomi Megosztást az Irányítóközontban az elemek könnyed küldéséhez és fogadásához. Bekapcsolás után elemeket oszthat meg közeli készülékekkel %d percig, majd a funkció automatikusan kikapcsol.</string>
     <string name="transfer_to_title">Fájlok küldése mobileszközökre</string>
     <string name="tuesday">Kedd</string>
     <string name="tuesday_short">Ked</string>
@@ -519,8 +517,8 @@ A Mi Share használata előtt meg kell adnia a következő engedélyeket, valami
     <string name="unrecognized_manufacture">Ismeretlen</string>
     <string name="unrecognized_model">Ismeretlen készülék</string>
     <string name="user_instructions">Figyelem</string>
-    <string name="uwb_guide_summary_1">Ha nem találja a céleszközt, kérje meg a másik személyt, hogy koppintson a Mi Share kapcsológombra az Irányítóközpontban.</string>
-    <string name="uwb_guide_title_1">Kérje meg a másik személyt, hogy kapcsolja be a Mi Share-t</string>
+    <string name="uwb_guide_summary_1">Ha nem találja a céleszközt, kérje meg a másik személyt, hogy koppintson a Xiaomi Megosztás kapcsológombra az Irányítóközpontban.</string>
+    <string name="uwb_guide_title_1">Kérje meg a másik személyt, hogy kapcsolja be a Xiaomi Megosztást</string>
     <string name="uwb_guide_title_2">Céleszköz gyorsabb megkeresése a Beam-mel</string>
     <string name="uwb_setting_guide">Bővebben</string>
     <string name="uwb_setting_guide_summary">A Beam UWB technológiát használ a céleszközök vezeték nélküli felismeréséhez. Amint a céleszköz fel lett ismerve, az ikonja megjelenik az előtérben.</string>
@@ -542,7 +540,7 @@ A Mi Share használata előtt meg kell adnia a következő engedélyeket, valami
     <string name="wifi_is_not_enabled">Először kapcsolja be a wifit</string>
     <string name="wifi_is_not_enabled_china">Turn on WLAN first</string>
     <string name="withdraw">Visszavonás</string>
-    <string name="withdraw_consent_message">Ha folytatja, visszavonja hozzájárulását a Mi Megosztás Adatvédelmi irányelvéhez. A már összegyűjtött és megőrzött személyes adatokat eltérő rendelkezés hiányában a vonatkozó jogszabályi előírásoknak megfelelően a megadott határidőn belül töröljük. Mivel a Mi Megosztás a szükséges személyes adatok gyűjtése alapján biztosítja a szolgáltatásait, a hozzájárulás visszavonása a Mi Megosztás szolgáltatásainak elutasításának minősül.</string>
+    <string name="withdraw_consent_message">Ha folytatja, visszavonja hozzájárulását a Xiaomi Megosztás Adatvédelmi irányelvéhez. A már összegyűjtött és megőrzött személyes adatokat eltérő rendelkezés hiányában a vonatkozó jogszabályi előírásoknak megfelelően a megadott határidőn belül töröljük. Mivel a Xiaomi Megosztás a szükséges személyes adatok gyűjtése alapján biztosítja a szolgáltatásait, a hozzájárulás visszavonása a Xiaomi Megosztás szolgáltatásainak elutasításának minősül.</string>
     <string name="withdraw_consent_title">Hozzájárulás visszavonása</string>
     <string name="withdraw_with_time">Visszavonás (%1$d)</string>
     <string name="xiaomi">Mi</string>

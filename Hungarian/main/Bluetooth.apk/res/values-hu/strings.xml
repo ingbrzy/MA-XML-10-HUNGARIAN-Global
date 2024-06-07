@@ -56,6 +56,9 @@
     <string name="bluetooth_sap_notif_message">Ügyfél felkérése szétválasztásra?</string>
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIM-elérés</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIM-elérés</string>
+    <string name="bt_Auracast_audio_share_notification_content">A részletek megtekintéséhez koppintson</string>
+    <string name="bt_Auracast_audio_share_notification_title">Hang sugárzása erről a készülékről…</string>
+    <string name="bt_audio_share_assistant_notification_title">Adás fogadása egy közeli készüléktől…</string>
     <string name="bt_audio_share_notification_content">Koppintson a beállítások megtekintéséhez</string>
     <string name="bt_audio_share_notification_title">Hang megosztása</string>
     <string name="bt_enable_cancel">Mégse</string>
@@ -84,6 +87,7 @@
     <string name="call_notification_screening_text">Bejövő hívás szűrése</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="close">Bezárás</string>
+    <string name="close_broadcast_audio">Leállítás</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -259,6 +263,7 @@
     <string name="not_exist_file">Nincs fájl</string>
     <string name="not_exist_file_desc">"A fájl nem létezik. 
 "</string>
+    <string name="notice_audio_share_classic_disconnected">Hangmegosztás leállítva</string>
     <string name="notice_audio_share_disconnected">A kapcsolat megszakadása miatt már nem osztja meg a hangot</string>
     <string name="notification_received">Bluetooth megosztás: %1$s fogadva</string>
     <string name="notification_received_fail">Bluetooth megosztás: %1$s fájl fogadása nem sikerült</string>
@@ -272,7 +277,9 @@
     <string name="opp_notification_group">Bluetooth-megosztás</string>
     <string name="outbound_history_title">Kimenő átvitelek</string>
     <string name="outbound_noti_title">Bluetooth-megosztás: elküldött fájlok</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">Időtúllépés történt a(z) %1$s eszközhöz történő kapcsolódás során</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">Időtúllépés történt a(z) %1$s munkamenetkulcsának bevitele során</string>
     <string name="pbap_notification_group">Bluetooth-névjegymegosztás</string>
     <string name="pbap_session_key_dialog_header">Meg kell adni egy Bluetooth-munkamenetkulcsot</string>

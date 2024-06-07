@@ -64,6 +64,50 @@
         <item quantity="other">%d éves</item>
         <item quantity="one">%d éves</item>
     </plurals>
+    <plurals name="ai_create_image_queue">
+        <item quantity="other">%1d személy Ön előtt</item>
+        <item quantity="one">%1d személy Ön előtt</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_hour">
+        <item quantity="other">Várakozási idő: %s óra</item>
+        <item quantity="one">Várakozási idő: %s óra</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_minute">
+        <item quantity="other">Várakozási idő: %s perc</item>
+        <item quantity="one">Várakozási idő: %s perc</item>
+    </plurals>
+    <plurals name="ai_creation_wait_message_time">
+        <item quantity="other">Létrehozás… | Várakozási idő: %d másodperc</item>
+        <item quantity="one">Létrehozás… | Várakozási idő: %d másodperc</item>
+    </plurals>
+    <plurals name="ai_creation_wait_queue">
+        <item quantity="other">Létrehozás… | %d személy van Ön előtt</item>
+        <item quantity="one">Létrehozás… | %d személy van Ön előtt</item>
+    </plurals>
+    <plurals name="ai_creation_wait_time_minute">
+        <item quantity="other">Várakozási idő: %d perc</item>
+        <item quantity="one">Várakozási idő: %d perc</item>
+    </plurals>
+    <plurals name="ai_enhance_bar_waiting">
+        <item quantity="other">Létrehozás… | %d másodperc maradt</item>
+        <item quantity="one">Létrehozás… | %d másodperc maradt</item>
+    </plurals>
+    <plurals name="ai_hour">
+        <item quantity="other">%s óra</item>
+        <item quantity="one">%s óra</item>
+    </plurals>
+    <plurals name="ai_image_over_limit_msg">
+        <item quantity="other">Egy személy legfeljebb %d AI képet hozhat létre.</item>
+        <item quantity="one">Egy személy legfeljebb %d AI képet hozhat létre.</item>
+    </plurals>
+    <plurals name="ai_minute">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="ai_select_photo_time_count">
+        <item quantity="other">Fotók kiválasztása (%d másodperc maradt)…</item>
+        <item quantity="one">Fotók kiválasztása (%d másodperc maradt)…</item>
+    </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">Megosztva %d személlyel</item>
         <item quantity="one">Megosztva %d személlyel</item>
@@ -224,9 +268,21 @@
         <item quantity="other">%1$d kép kihagyva, amelyeket nem lehetett megjeleníteni.</item>
         <item quantity="one">%1$d kép kihagyva, amelyeket nem lehetett megjeleníteni.</item>
     </plurals>
-    <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d fájl</item>
-        <item quantity="one">%1$d fájl</item>
+    <plurals name="global_cloud_storage_warn_title_link">
+        <item quantity="other">Nem sikerült biztonsági mentést készíteni %d elemről, mert nincs elegendő felhőtárhely</item>
+        <item quantity="one">Nem sikerült biztonsági mentést készíteni %d elemről, mert nincs elegendő felhőtárhely</item>
+    </plurals>
+    <plurals name="global_sync_error_title">
+        <item quantity="other">%d elemről nem készült biztonsági másolat</item>
+        <item quantity="one">%d elemről nem készült biztonsági másolat</item>
+    </plurals>
+    <plurals name="global_syncing_gprs_title_link">
+        <item quantity="other">Biztonsági mentés %d elemről mobiladat-kapcsolattal…</item>
+        <item quantity="one">Biztonsági mentés %d elemről mobiladat-kapcsolattal…</item>
+    </plurals>
+    <plurals name="global_syncing_title_link">
+        <item quantity="other">Biztonsági másolat készítése %d elemről…</item>
+        <item quantity="one">Biztonsági másolat készítése %d elemről…</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
@@ -345,8 +401,8 @@
         <item quantity="one">%d hátralévő fájl letöltése</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">%1$d kép letöltése sikertelen, csatlakozzon a hálózathoz, majd próbálja újra</item>
-        <item quantity="one">%1$d kép letöltése sikertelen, csatlakozzon a hálózathoz, majd próbálja újra</item>
+        <item quantity="other">Nem sikerült letölteni %d fájlt. Csatlakozzon a hálózathoz, és próbálja meg újra.</item>
+        <item quantity="one">Nem sikerült letölteni %d fájlt. Csatlakozzon a hálózathoz, és próbálja meg újra.</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">Nem lehet letölteni a %1$d fájlokat (%2$d MB). Ellenőrizze a hálózatot és próbálkozzon újra.</item>
@@ -357,12 +413,12 @@
         <item quantity="one">A %1$d fájl (%2$d MB) még nincs letöltve. Letöltés mobil adatforgalom használatával?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">%1$d kép letöltése sikertelen, megpróbálja újra?</item>
-        <item quantity="one">%1$d kép letöltése sikertelen, megpróbálja újra?</item>
+        <item quantity="other">Nem sikerült letölteni %d fájlt. Újra megpróbálja?</item>
+        <item quantity="one">Nem sikerült letölteni %d fájlt. Újra megpróbálja?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">Nem lehet letölteni %1$d képet (%2$d MB), megpróbálja újra?</item>
-        <item quantity="one">Nem lehet letölteni %1$d képet (%2$d MB), megpróbálja újra?</item>
+        <item quantity="other">Nem sikerült letölteni %1$d fájlt (%2$d MB). Újra megpróbálja?</item>
+        <item quantity="one">Nem sikerült letölteni %1$d fájlt (%2$d MB). Újra megpróbálja?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Kihagyott %d olyan fényképet, amely nincs a készüléken.</item>
@@ -396,77 +452,9 @@
         <item quantity="other">%1$d fénykép eltávolítva innen: \"%2$s\".</item>
         <item quantity="one">%1$d fénykép eltávolítva innen: \"%2$s\".</item>
     </plurals>
-    <plurals name="send_apk_dialog_desc">
-        <item quantity="other">%2$d telepítőcsomag (%3$s) ebből: %1$s</item>
-        <item quantity="one">%2$d telepítőcsomag (%3$s) ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_apk_dialog_desc_received">
-        <item quantity="other">%2$d fogadott telepítőcsomag (%3$s) ebből: %1$s</item>
-        <item quantity="one">%2$d fogadott telepítőcsomag (%3$s) ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_apk_dialog_desc_receiving">
-        <item quantity="other">%2$d telepítőcsomag fogadása (%3$s) ebből: %1$s…</item>
-        <item quantity="one">%2$d telepítőcsomag fogadása (%3$s) ebből: %1$s…</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc">
-        <item quantity="other">%2$d hangfájl (%3$s) ebből: %1$s</item>
-        <item quantity="one">%2$d hangfájl (%3$s) ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc_received">
-        <item quantity="other">%2$d fogadott hangfájl (%3$s) ebből %1$s</item>
-        <item quantity="one">%2$d fogadott hangfájl (%3$s) ebből %1$s</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc_receiving">
-        <item quantity="other">%2$d hangfájl fogadása (%3$s) ebből: %1$s…</item>
-        <item quantity="one">%2$d hangfájl fogadása (%3$s) ebből: %1$s…</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc">
-        <item quantity="other">%2$d %3$s fájl (%4$s) ebből: %1$s</item>
-        <item quantity="one">%2$d %3$s fájl (%4$s) ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc_received">
-        <item quantity="other">%2$d %3$s fogadott fájl (%4$s) ebből: %1$s</item>
-        <item quantity="one">%2$d %3$s fogadott fájl (%4$s) ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">%2$d %3$s fájl fogadása (%4$s) ebből: %1$s…</item>
-        <item quantity="one">%2$d %3$s fájl fogadása (%4$s) ebből: %1$s…</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc">
-        <item quantity="other">%2$d kép ebből: %1$s</item>
-        <item quantity="one">%2$d kép ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc_received">
-        <item quantity="other">%2$d fogadott kép ebből: %1$s</item>
-        <item quantity="one">%2$d fogadott kép ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc_receiving">
-        <item quantity="other">%2$d kép fogadása ebből: %1$s…</item>
-        <item quantity="one">%2$d kép fogadása ebből: %1$s…</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc">
-        <item quantity="other">%2$d kép és videó ebből: %1$s</item>
-        <item quantity="one">%2$d kép és videó ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">%2$d fogadott kép és videó ebből: %1$s</item>
-        <item quantity="one">%2$d fogadott kép és videó ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc_receiving">
-        <item quantity="other">%2$d kép és videó fogadása ebből: %1$s…</item>
-        <item quantity="one">%2$d kép és videó fogadása ebből: %1$s…</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc">
-        <item quantity="other">%2$d fájl ebből: %1$s</item>
-        <item quantity="one">%2$d fájl ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc_received">
-        <item quantity="other">%2$d fogadott fájl ebből: %1$s</item>
-        <item quantity="one">%2$d fogadott fájl ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">%2$d fájl fogadása ebből: %1$s…</item>
-        <item quantity="one">%2$d fájl fogadása ebből: %1$s…</item>
+    <plurals name="search_title_ai">
+        <item quantity="other">%d elemet találtunk</item>
+        <item quantity="one">%d elemet találtunk</item>
     </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">Megosztás sikertelen. %d fénykép még feldolgozás alatt…</item>
@@ -475,30 +463,6 @@
     <plurals name="send_too_many_files_error">
         <item quantity="other">Válasszon ki legfeljebb %d küldeni kívánt elemet</item>
         <item quantity="one">Válasszon ki legfeljebb %d küldeni kívánt elemet</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc">
-        <item quantity="other">%2$d videó ebből: %1$s</item>
-        <item quantity="one">%2$d videó ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">%2$d fogadott videó ebből: %1$s</item>
-        <item quantity="one">%2$d fogadott videó ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">%2$d videó fogadása ebből: %1$s…</item>
-        <item quantity="one">%2$d videó fogadása ebből: %1$s…</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc">
-        <item quantity="other">%2$d archívum (%3$s) ebből: %1$s</item>
-        <item quantity="one">%2$d archívum (%3$s) ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc_received">
-        <item quantity="other">%2$d fogadott archívum (%3$s) ebből: %1$s</item>
-        <item quantity="one">%2$d fogadott archívum (%3$s) ebből: %1$s</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc_receiving">
-        <item quantity="other">%2$d archívum fogadása (%3$s) ebből: %1$s…</item>
-        <item quantity="one">%2$d archívum fogadása (%3$s) ebből: %1$s…</item>
     </plurals>
     <plurals name="share_album_detail_photo_count">
         <item quantity="other">%d fénykép feltöltve</item>
@@ -671,6 +635,18 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d fájl</item>
         <item quantity="one">%1$d fájl</item>
+    </plurals>
+    <plurals name="video_editor_component_hint_text">
+        <item quantity="other">%d videó szegmens kiválasztása</item>
+        <item quantity="one">%d videó szegmens kiválasztása</item>
+    </plurals>
+    <plurals name="video_editor_component_imageview_content_description">
+        <item quantity="other">Videorészlet %1$d, várakozás legalább %2$s másodperc videó hozzáadására</item>
+        <item quantity="one">Videorészlet %1$d, várakozás legalább %2$s másodperc videó hozzáadására</item>
+    </plurals>
+    <plurals name="video_editor_component_next_step_disabled_content_description">
+        <item quantity="other">A folytatáshoz adjon hozzá még %d videót</item>
+        <item quantity="one">A folytatáshoz adjon hozzá még %d videót</item>
     </plurals>
     <plurals name="videos_count">
         <item quantity="other">%d videó</item>

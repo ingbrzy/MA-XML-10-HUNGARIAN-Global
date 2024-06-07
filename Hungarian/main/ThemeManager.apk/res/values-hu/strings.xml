@@ -253,7 +253,9 @@
     <string name="exo_download_paused_for_wifi">A letöltések Wi-Fi-re várakoznak</string>
     <string name="exo_download_removing">Letöltések törlése folyamatban</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatív</string>
     <string name="exo_track_role_closed_captions">Felirat</string>
     <string name="exo_track_role_commentary">Kommentár</string>
@@ -388,12 +390,14 @@
     <string name="humidity_format_with_unit">%s</string>
     <string name="icon_content_description">Párbeszédpanel ikonja</string>
     <string name="icon_size">Ikonméret</string>
+    <string name="icon_style">Ikonok</string>
     <string name="in_the_end">Nincs több megtekinthető elem</string>
     <string name="incompatible_dialog_cancel">Ne alkalmazza</string>
     <string name="incompatible_dialog_message">Ez a téma nem kompatibilis a készüléke rendszerverziójával. Előfordulhat, hogy egyes rendszerfunkciók nem működnek megfelelően, ha ezt a témát alkalmazza.</string>
     <string name="incompatible_dialog_ok">Rendben</string>
     <string name="incompatible_dialog_title">Kompatibilitási problémák</string>
     <string name="is_setting_wallpaper_message">Háttérkép beállítása…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Ébresztés/Riasztás</string>
     <string name="item_resource_audio_optional_color_ring">Hívásvárakoztatás hangja</string>
     <string name="item_resource_audio_optional_notification_ring">Értesítések</string>
@@ -486,6 +490,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
     <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
+    <string name="miuix_appcompat_edit">Szerkeszt</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
@@ -563,6 +568,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -627,6 +633,9 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Ne emlékeztessen újra</string>
     <string name="not_set">Nincs beállítva</string>
+    <string name="notifications_permission_confirm">Engedélyezés</string>
+    <string name="notifications_permission_decline">Tiltás</string>
+    <string name="notifications_permission_title">Engedélyezi, hogy az alkalmazás értesítéseket küldjön Önnek?</string>
     <string name="notify_style">Értesítési effektek</string>
     <string name="offline_notification_text">Koppintson a hirdetés megnyitásához</string>
     <string name="offline_notification_title">Az offline mentett hirdetés megtekintése</string>
@@ -831,6 +840,7 @@ mm"</string>
     <string name="resource_pack_price_info">%1$s eredeti</string>
     <string name="resource_pack_warning">Figyelmeztetés! Már megvásárolt %1$d témát, az aktuális ár már nem érvényes, kérjük vásárolja meg őket külön-külön.</string>
     <string name="resource_present">Ajándék</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Ingyenes</string>
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_purchase_common_error">Hiba történt, próbálja újra</string>
@@ -968,6 +978,7 @@ mm"</string>
     <string name="somatosensory_temperature_format">Olyan, mintha %s°</string>
     <string name="special_topic">Kategóriák</string>
     <string name="start_all">Összes folytatása</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Alkalmaz</string>
     <string name="storage_file">A letöltött elemek mentéséhez</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -1100,6 +1111,7 @@ mm"</string>
     <string name="theme_is_external_priority_storage">Mentés az SD-kártyára</string>
     <string name="theme_is_external_priority_storage_summary">A beállítás alkalmazásához a Téma alkalmazás újra fog indulni</string>
     <string name="theme_multiple_button_title_customize">Testreszabás</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Nem</string>
     <string name="theme_on_the_phone_alert">Hívás alatt nem lehet lejátszani</string>
     <string name="theme_recommend">Hasonló témák</string>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Férfi</item>
-        <item>Nő</item>
-    </string-array>
     <string-array name="activities_title">
         <item>Különleges nap</item>
         <item>Emlékezetes nap</item>
@@ -65,6 +61,14 @@
         <item>Irány a természet</item>
         <item>Vad és szabad</item>
     </string-array>
+    <string-array name="global_backup_display_title">
+        <item>@string/backup_google_name</item>
+        <item>@string/backup_onedrive_single_name</item>
+    </string-array>
+    <string-array name="global_backup_display_value">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="group_people_title">
         <item>Találkozásaink</item>
         <item>Barátok közt</item>
@@ -119,6 +123,11 @@
         <item>New friends and old pals</item>
         <item>"Last year's get-togethers"</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Áthelyez</item>
+        <item>Másolás</item>
+        <item>@string/cancel</item>
+    </string-array>
     <string-array name="month">
         <item>Január</item>
         <item>Február</item>
@@ -158,6 +167,10 @@
         <item>Együtt</item>
         <item>Szép idők</item>
         <item>Kórusban</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Férfi</item>
+        <item>Nő</item>
     </string-array>
     <string-array name="people_travel_title">
         <item>Ahová az utunk visz</item>

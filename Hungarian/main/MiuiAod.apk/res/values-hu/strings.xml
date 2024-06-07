@@ -396,6 +396,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
     <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
+    <string name="miuix_appcompat_edit">Szerkeszt</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
@@ -553,6 +554,7 @@ csodálatos dolog fog történni"</string>
     <string name="somatosensory_temperature_format">Olyan, mintha %s°</string>
     <string name="standard_clock_panel">Alapértelmezett</string>
     <string name="standard_style">Standard</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">A lépésszámot a Xiaomi Health biztosítja. Fogadja el a Xiaomi Health felhasználási feltételeit a folytatáshoz.</string>
     <string name="step_component_info_desc">A lépésszámból egy trófea lesz, amikor eléri a célját. A lépésszámot a Xiaomi Health biztosítja.</string>
     <string name="step_component_info_tip">A lépésszámot a Xiaomi Health biztosítja. Telepítse vagy frissítse a Xiaomi Health szolgáltatást, és fogadja el a felhasználási feltételeket a folytatáshoz.</string>

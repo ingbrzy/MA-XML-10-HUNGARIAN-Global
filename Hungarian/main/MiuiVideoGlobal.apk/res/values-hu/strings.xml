@@ -75,6 +75,7 @@
     <string name="ad_bar_notification_setting_title">Események</string>
     <string name="ad_click_to_play">Koppintson a játékhoz</string>
     <string name="ad_flag_text">REKLÁM</string>
+    <string name="ad_topview_repeat_play">Koppintson az újralejátszáshoz</string>
     <string name="add_local_shortcut_add">Hozzáadás</string>
     <string name="add_local_shortcut_des">A \"Saját videók\" hozzáadása a kezdőképernyőhöz a lokális videófájlok eléréséhez egyetlen érintéssel.</string>
     <string name="add_search_channel_link">URL</string>
@@ -134,6 +135,7 @@
     <string name="cast_forward">Előretekerés</string>
     <string name="cast_forward_10">Előretekerés tíz másodperccel</string>
     <string name="cast_forward_30">Előretekerés harminc másodperccel</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">ÉLŐ</string>
     <string name="cast_mute">Némítás</string>
     <string name="cast_notification_connected_message">Csatlakozva a következőhöz: %1$s</string>
@@ -261,7 +263,7 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="dialog_cancel">Mégse</string>
     <string name="dialog_clearn_content">Törli a böngészési előzményeket most?</string>
     <string name="dialog_clearn_title">Előzmények törlése</string>
-    <string name="dialog_confirm">OK</string>
+    <string name="dialog_confirm">Hozzáadás</string>
     <string name="dialog_delete_bookmarks_content">Könyvjelző törlése most?</string>
     <string name="dialog_disagree_continue">Tovább</string>
     <string name="dialog_disagree_info">Ha nem fogadja el a Mi Video Adatvédelmi irányelvét, nem fogja tudni használni online szolgáltatásainkat, és csak a készülékén tárolt videókat tekintheti meg. Mindenképp folytatja?</string>
@@ -330,6 +332,8 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="download_unable_tip">Ezt az elemet nem tudja letölteni</string>
     <string name="download_video">Videó letöltése</string>
     <string name="downloading">Letöltés…</string>
+    <string name="draw_ad_button_click_text">Rázza vagy érintse a megnyitáshoz</string>
+    <string name="draw_ad_button_slide_text">Csúsztassa a részletekért</string>
     <string name="early_morning">Reggel</string>
     <string name="empty" />
     <string name="empty_channels">Csatornák kezelése</string>
@@ -414,14 +418,10 @@ Küldje el ezt a kódot a vezetőjének."</string>
     <string name="feedback_activity_title">Visszajelzés</string>
     <string name="feedback_contact_empty">Írja be elérhetőségeit</string>
     <string name="feedback_contact_title">Névjegyadatok</string>
-    <string name="feedback_detail_input_hint">Írjon be üzenetet</string>
-    <string name="feedback_hint">Írja le, milyen problémával találkozott.</string>
     <string name="feedback_hint_contact">Telefon/QQ/E-mail</string>
     <string name="feedback_hint_text">Írja le, milyen problémával találkozott.</string>
-    <string name="feedback_input_tip">Itt leírhatja a felmerülő problémákat és javaslatokat tehet.</string>
     <string name="feedback_net_error">Az elküldés nem sikerült. Ellenőrizze a hálózati beállításokat, majd próbálja újra.</string>
     <string name="feedback_sent">Elfogad</string>
-    <string name="feedback_success">Sikeresen beküldve</string>
     <string name="feedback_success_toast">Sikeresen beküldve. Köszönjük a visszajelzését!</string>
     <string name="feedback_tag_title">Kategória</string>
     <string name="feedback_text_empty_toast">Először adja meg a visszajelzését.</string>
@@ -642,6 +642,7 @@ Ez a művelet nincs hatással a galériában lévő képekre."</string>
     <string name="hidden_channels">A következő csatornák nem jelennek meg a kezdőlapon.</string>
     <string name="hide">Elrejtés</string>
     <string name="hide_video_toast">Ez az elem rejtve van. A rejtett elemeket a Helyi > Mappák > Rejtett elemek menüpontban keresheti ki és kezelheti.</string>
+    <string name="hiding_dialog_ok">Beállítás</string>
     <string name="hint_icon_ad_title">Ajánlott</string>
     <string name="hint_in_mivideo">A további funkciókat most az oldalsó panelen tekintheti meg</string>
     <string name="history">Előzmény</string>
@@ -695,7 +696,6 @@ Ez a művelet nincs hatással a galériában lévő képekre."</string>
     <string name="inline_mute_click_tip">Érintse meg a felhangosításhoz</string>
     <string name="input_email_address_notice">A fiókja ellenőrzéséhez ezt az e-mailt használjuk</string>
     <string name="input_new_pwd">Adjon meg egy új jelszót</string>
-    <string name="input_size_tips_new">Maximálisan %d karaktert adhat meg</string>
     <string name="isornot_your_mi_account">Ez az Ön Mi Fiókja?</string>
     <string name="item_card_all_replies">Összes válasz</string>
     <string name="item_card_continue_play">Automatikus lejátszás</string>
@@ -799,7 +799,6 @@ a videókhoz"</string>
     <string name="local_zoom_adjust_button">Megjelenítési mód váltása</string>
     <string name="lock_screen">Zárképernyő</string>
     <string name="login">Bejelentkezés</string>
-    <string name="login_tip">Jelentkezzen be a visszajelzéseire érkező válaszok fogadásához.</string>
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">Kijelentkezés</string>
     <string name="logout_account">Kijelentkezés</string>
@@ -887,6 +886,7 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="manager_request_continue">Engedélyezés</string>
     <string name="manager_request_tip">Ne jelenjen meg újra</string>
     <string name="manager_request_title">Nem lehet hozzáférni ehhez a fájlhoz</string>
+    <string name="mangotv_episode">%d. rész</string>
     <string name="mangotv_feature_list_title3">%s. epizód hozzáadva</string>
     <string name="mangotv_feature_more">Továbbiak</string>
     <string name="mangotv_feature_title1">Epizódok</string>
@@ -916,11 +916,13 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="miuix_appcompat_delete_description">Törlés</string>
     <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
+    <string name="miuix_appcompat_edit">Szerkeszt</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
     <string name="miuix_appcompat_select_all_description">Összes kijelölése</string>
     <string name="miuix_appcompat_select_item">Elemek kiválasztása</string>
+    <string name="miuix_dialog_ok">OK</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Húzza le a frissítéshez</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Sikeresen frissítve</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Frissítés…</string>
@@ -1016,6 +1018,7 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -1045,7 +1048,6 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="music_new_user_dialog_got_it">Rendben</string>
     <string name="music_new_user_dialog_tip">Üdvözli önt a Mi Video! Ez az alkalmazás helyi videólejátszót, valamint online zene- és videóstreaming szolgáltatásokat kínál.</string>
     <string name="my_favorite_channels">Kedvenc csatornáim</string>
-    <string name="my_feedback_title">Visszajelzéseim</string>
     <string name="native_body">Törzs</string>
     <string name="native_headline">Címsor</string>
     <string name="native_media_view">Médianézet</string>
@@ -1056,6 +1058,7 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="network_failed">Nem sikerült csatlakozni a hálózatra</string>
     <string name="newyearfestival_go_to_draw_prizes">Ugrás a sorsolásra</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Nézzen videókat, hogy részt vehessen a sorsoláson</string>
+    <string name="next_button">Következő</string>
     <string name="nick_name">Becenév</string>
     <string name="night">Este</string>
     <string name="no_account">Nincs bejelentkezve</string>
@@ -1105,6 +1108,7 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="online_play_start_ready_loading_tip_kb">Betöltés %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">Betöltés %.2f MB/s</string>
     <string name="online_play_title">URL megadása</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Legutóbbi feliratkozások</string>
     <string name="order_recently_updated">Nemrég frissítve</string>
     <string name="out_of_memory_background_playback_is_suspended">A háttérben történő lejátszás szünetel a nem megfelelő memória miatt</string>
@@ -1241,6 +1245,8 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="photoPickerNotFoundText">Nincs elérhető fénykép.</string>
     <string name="pip">Kép a képben</string>
     <string name="pip_not_supported_toast">A Picture in Picture (PiP) funkció használatához frissítsen a legújabb rendszerverzióra.</string>
+    <string name="play_at_normal_speed">Lejátszás 1X sebességen</string>
+    <string name="play_at_speed">%.1fx-ös lejátszási sebesség</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Lejátszási lista készítése</string>
     <string name="play_list_save_dialog_title">Hozzáadás a lejátszási listához</string>
@@ -1412,6 +1418,7 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="remaining_space_not_enough">Nincs elegendő tárhely a letöltéshez</string>
     <string name="reminder">Figyelem</string>
     <string name="rename">Átnevezés</string>
+    <string name="rename_dialog_ok">OK</string>
     <string name="rename_word_out">Ez a fájlnév túl hosszú</string>
     <string name="report">Jelentés</string>
     <string name="report_content_dislike">Erőszak vagy helytelen viselkedés</string>
@@ -1465,7 +1472,7 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="sending">Küldés…</string>
     <string name="service_error">Szerverhiba</string>
     <string name="set_success">Sikeresen módosítva</string>
-    <string name="setting_privacy_title">Terms and conditions</string>
+    <string name="setting_privacy_title">Felhasználási feltételek</string>
     <string name="settings_inline_auto_play">Mindig automatikus lejátszás</string>
     <string name="settings_inline_auto_play_close">Automatikus lejátszás kikapcsolva</string>
     <string name="settings_inline_auto_play_tip_close_forever">Mindig kikapcsolva</string>
@@ -1480,6 +1487,7 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="shake_to_open_ad">További információért rázza meg</string>
     <string name="share">Megosztás</string>
     <string name="share_text_before_link">Nagyszerű videók ingyenes megtekintése és letöltése a Mi Videó oldalán</string>
+    <string name="share_title">Megosztás</string>
     <string name="share_ugc_waitting">Hivatkozás létrehozása…</string>
     <string name="shorts_assemble_ad_recommend">Javasolt</string>
     <string name="show_the_location">Értesítési típusok</string>
@@ -1494,6 +1502,7 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="slide_or_click_to_open_ad">További információért csúsztassa ujját vagy koppintson</string>
     <string name="slide_save_message">Videó létrehozása…</string>
     <string name="slide_to_open_ad">További információért csúsztassa ujját</string>
+    <string name="small_mango_play_next_episode">Következő rész</string>
     <string name="small_video_load_more_hint">További videók lejátszásához húzza felfelé</string>
     <string name="small_video_report">Jelentés</string>
     <string name="small_video_report_dialog_title">Válasszon indoklást</string>
@@ -1506,9 +1515,9 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="sns_sign_in">Más bejelentkezési módok</string>
     <string name="source">"Forrás: "</string>
     <string name="start_download_tip">Hozzáadva a sorhoz. Ellenőrizze az előrehaladást a Profil > Letöltések menüpontban.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD kártya</string>
     <string name="storage_internal_sdcard">Belső tárhely</string>
-    <string name="submit">Küldés</string>
     <string name="subscribe">ELŐFIZETÉS</string>
     <string name="subscribe_author_recommend_btn">Előfizetés</string>
     <string name="subscribe_author_recommend_title">Fizessen elő és nézze meg a legújabb videókat ezektől az alkotóktól</string>
@@ -1528,6 +1537,7 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="sunday_short">Vas</string>
     <string name="sunday_shortest">Vas</string>
     <string name="sure_to_logout">Kijelentkezés most?</string>
+    <string name="swipe_to_exit">Húzza el újra a kilépéshez</string>
     <string name="switch_ratio_pause">A visszajátszási sebesség instabil. Váltson vissza az alapértelmezett sebességre.</string>
     <string name="sync_favorites_limit_new">Több mint %d videó szerepel a kedvencei között. A szinkronizálás folytatásához törölnünk kell néhányat a korábbi videók közül.</string>
     <string name="sync_favorites_message">Szinkronizálja a kedvenceket erről a készülékről a fiókjára? A már nem elérhető tételek eltávolításra kerülnek.</string>
@@ -1654,7 +1664,6 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">A jutalom jelenleg nem érhető el. Próbálja meg később.</string>
     <string name="toast_m3u8_download_path_tip">Nem módosítható az m3u8 formátumú tartalom letöltési útvonala</string>
     <string name="toast_play_error_tip">Nem játszható le a fájl</string>
-    <string name="toast_request_too_frequently">Ne olyan gyorsan!</string>
     <string name="toast_share_failed">Nem sikerült megosztani. Várjon egy-két percet, majd próbálja meg újra.</string>
     <string name="today">Ma</string>
     <string name="tomorrow">Holnap</string>
@@ -1663,9 +1672,6 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="tuesday">Kedd</string>
     <string name="tuesday_short">Ked</string>
     <string name="tuesday_shortest">Ked</string>
-    <string name="type_content">Tartalom</string>
-    <string name="type_issue">Probléma</string>
-    <string name="type_suggestion">Javaslat</string>
     <string name="ugc_no_net">Nem sikerült csatlakozni a hálózathoz. Ellenőrizze hálózati beállításait, majd próbálja újra.</string>
     <string name="ui_common_title_back">Vissza</string>
     <string name="unknow">Ismeretlen</string>
@@ -1690,7 +1696,7 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="v_menu_hide">Elrejtés</string>
     <string name="v_more">Több</string>
     <string name="v_next">Következő</string>
-    <string name="v_ok">OK</string>
+    <string name="v_ok">Következő</string>
     <string name="v_online_play">Online streaming</string>
     <string name="v_pw_need_update_app">Frissítse a Mi Videót az összes funkció használatához</string>
     <string name="v_save">Mentés</string>
@@ -1701,6 +1707,7 @@ Ezt az engedélyt csak az Ön által keresett videókhoz használjuk, más fájl
     <string name="video_download_fail">A videó letöltése sikertelen</string>
     <string name="video_download_fail_hint">Sikertelen letöltés</string>
     <string name="video_download_floating_guide">Videók ingyenes letöltése</string>
+    <string name="video_download_folder">Letöltött videók</string>
     <string name="video_download_folder_title">Mi Videó letöltések</string>
     <string name="video_download_forbidden">Nem lehet letölteni erről a weboldalról</string>
     <string name="video_download_login_guide">Jelentkezzen be a %s oldalra, hogy letölthesse a videókat</string>

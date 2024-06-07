@@ -52,10 +52,6 @@
         <item quantity="other">Visszatekerés %d másodperccel</item>
         <item quantity="one">Visszatekerés %d másodperccel</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">Visszalépés a főoldalra %1$d másodperc múlva…</item>
-        <item quantity="one">Visszalépés a főoldalra %1$d másodperc múlva…</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>

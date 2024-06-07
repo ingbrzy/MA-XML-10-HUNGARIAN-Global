@@ -353,6 +353,7 @@
     <string name="gadget_search_label">Keresés</string>
     <string name="gadget_weather_title">Időjárás</string>
     <string name="global_search">Keresés</string>
+    <string name="global_shelf">Alkalmazáskereső</string>
     <string name="got_it_botton">Rendben</string>
     <string name="guide_install_app_msg">Ez az alkalmazás nincs telepítve a készülékén. Megkeresi most és telepíti az alkalmazást?</string>
     <string name="guide_install_app_title">Megkeresi és telepíti az alkalmazást?</string>
@@ -360,6 +361,7 @@
     <string name="guide_privacy_dialog_title">Szolgáltatási feltételek</string>
     <string name="home_gesture_content_center">Tartalomközpont</string>
     <string name="home_gesture_global_search">Keresés</string>
+    <string name="home_gesture_global_shelf">Alkalmazáskereső</string>
     <string name="home_gesture_no_action">Egyik sem</string>
     <string name="home_gesture_notification_and_control_center">Értesítési felület és Irányítóközpont</string>
     <string name="home_gesture_notification_bar">Értesítések</string>
@@ -378,7 +380,7 @@
     <string name="international_home_pull_down_sub_content">Ezt a mozdulatot átállíthatja az Irányítóközpont megnyitására a Beállítások > Kezdőképernyő > Csúsztasson lefelé a Kezdőképernyőn menüpontban.</string>
     <string name="international_home_pull_down_up_btn_get">Rendben</string>
     <string name="international_home_pull_up_content">A Tartalomközpont megnyitásához csúsztasson felfelé a Kezdőképernyőn.</string>
-    <string name="international_home_pull_up_sub_content">A keresés megnyitásához csúsztasson lefelé a Kezdőképernyő közepéről.</string>
+    <string name="international_home_pull_up_sub_content">Alkalmazások és alkalmazás-javaslatok kereséséhez csúsztasson lefelé a Kezdőképernyő közepéről.</string>
     <string name="item_view_role_description">Lap</string>
     <string name="jeejen_description">"Nagyobb UI-elemek.
 Könnyebben hozzáférhető hívás.
@@ -443,7 +445,7 @@ Fokozottabb biztonság."</string>
     <string name="mi_wallpaper">MIUI Témák</string>
     <string name="midnight">Éjjel</string>
     <string name="minus_one_screen">Gyorselérési kártyák</string>
-    <string name="miui_screen_config_title">A kezdőképernyő beállításai</string>
+    <string name="miui_screen_config_title">Kezdőképernyő-elrendezés</string>
     <string name="miui_setting_config_title">A kezdőképernyő beállításai</string>
     <string name="miui_widget_menu_replace_text">Lecserélés</string>
     <string name="miui_widget_toast_for_not_support_by_pa">A gyorselérési kártyák nem támogatják az ekkora méretű widgeteket</string>
@@ -519,6 +521,7 @@ Fokozottabb biztonság."</string>
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -648,8 +651,9 @@ Fokozottabb biztonság."</string>
     <string name="recent_menu_item_info">Információ</string>
     <string name="recent_menu_item_lock">Lezárás</string>
     <string name="recent_menu_item_unlock">Feloldás</string>
-    <string name="recent_menu_item_worldcirculate">应用流转</string>
-    <string name="recent_menu_item_worldcirculate_disable">应用无法流转</string>
+    <string name="recent_menu_item_worldcirculate">Alkalmazás-feladatok átvitele</string>
+    <string name="recent_menu_item_worldcirculate_disable">Az alkalmazásfeladatok nem helyezhetők át a csatlakoztatott eszközök között</string>
+    <string name="recent_pin_text">Rögzítés</string>
     <string name="recents_app_info_button_label">Alkalmazásadatok</string>
     <string name="recents_config_title">Előzmények</string>
     <string name="recents_dimiss_task">Törlés</string>
@@ -687,7 +691,7 @@ Fokozottabb biztonság."</string>
     <string name="remove_sys_app_title">Eltávolítja a parancsikont a Kezdőképernyőről?</string>
     <string name="request_permission_msg">A POCO Launchernek engedélyekre van szüksége, hogy Ön a teljes funkcióhoz hozzáférjen.</string>
     <string name="request_permission_title">Engedélyek szükségesek</string>
-    <string name="reset_cate_tip_content">Ha folytatja, az alapértelmezett alkalmazáscsoportok visszaállításra kerülnek. Mégsi folytatja?</string>
+    <string name="reset_cate_tip_content">Ha folytatja, az alapértelmezett alkalmazáscsoportok visszaállításra kerülnek. Mégis folytatja?</string>
     <string name="reset_cate_tip_title">Alapértelmezett csoportok visszaállítása</string>
     <string name="reset_description_first_time">Az elrendezést visszaállíthatja a(z) %2$s helyről %1$d órán belül</string>
     <string name="reset_description_others">Vissza tudja állítani az elrendezést innen: %1$s</string>
@@ -731,6 +735,7 @@ Fokozottabb biztonság."</string>
     <string name="small_window">Lebegő ablak</string>
     <string name="start_activity_failed">Nem sikerült az elindítás, próbálja meg később</string>
     <string name="start_new_window">Új ablak</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s / %2$s érhető el</string>
     <string name="status_bar_recent_memory_info2" />
@@ -748,8 +753,10 @@ Fokozottabb biztonság."</string>
     <string name="switch_personal_assistant_app_vault">Gyorselérési kártyák</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Egyik sem</string>
+    <string name="switch_personal_assistant_summary">A Google Discover megnyitásához csúsztasson jobbra a Kezdőképernyőn</string>
     <string name="switch_screen_button_order">Gombok tükrözése</string>
     <string name="switch_screen_button_order_desc">Vissza és Előzmények gomb felcserélése</string>
+    <string name="system_sdk_disabled_toast">A rendszer SDK ki lett kapcsolva. Először engedélyezze.</string>
     <string name="system_shortcuts_edit">Szerkesztés</string>
     <string name="system_shortcuts_icon_remove">Eltávolítás</string>
     <string name="system_shortcuts_more_operation">Alkalmazásadatok</string>

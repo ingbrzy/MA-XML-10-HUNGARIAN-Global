@@ -93,18 +93,14 @@
     <string name="binded">Hozzáadva</string>
     <string name="binded_description" formatted="false">"A következö: %s hozzá lett kapcsolva az Ön Xiaomi Fiókjához.
 Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</string>
-    <string name="bottomsheet_action_expand_halfway">Kibontás félig</string>
     <string name="button_agree">Elfogadom</string>
     <string name="button_close">Bezár</string>
     <string name="button_refuse">Elutasítom</string>
     <string name="button_unbind">Lecsatlakozás</string>
     <string name="cancel">Mégse</string>
     <string name="change_password">Jelszó módosítása</string>
-    <string name="character_counter_content_description">Begépelt karakterszám: %2$d/%1$d</string>
-    <string name="character_counter_overflowed_content_description">Maximális karakterszám túllépve: %2$d/%1$d</string>
     <string name="check_apk_update">Frissítések keresése</string>
     <string name="child_account_system_ad_disable_hint">Ez a funkció nem érhető el a gyermekfiókok számára</string>
-    <string name="clear_text_end_icon_content_description">Szöveg törlése</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
     <string name="close">Bezárás</string>
     <string name="close_drawer">Navigációs menü bezárása</string>
@@ -208,13 +204,11 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
     <string name="eras_ad">I.SZ.</string>
     <string name="eras_bc">I.E.</string>
     <string name="error_dup_binded_email">Ez az e-mail cím már hozzá van rendelve egy másik Xiaomi Fiókhoz.</string>
-    <string name="error_icon_content_description">Hiba</string>
     <string name="error_invalid_bind_address">A megadott e-mail cím hibás.</string>
     <string name="evening">Délután</string>
     <string name="exceed_binded_phone_times_notice">Ez a telefonszám már hozzá van rendelve egy másik Xiaomi Fiókhoz.</string>
     <string name="exit">Kilépés</string>
     <string name="expand_button_title">Speciális</string>
-    <string name="exposed_dropdown_menu_content_description">Legördülő menü megjelenítése</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_login">Bejelentkezés Facebook használatával</string>
     <string name="failed_dup_secure_phone_number">Ez a telefonszám már hozzá van rendelve egy másik Xiaomi Fiókhoz.</string>
@@ -341,7 +335,6 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
     <string name="help_center">Segítség</string>
     <string name="i_agree">OK</string>
     <string name="i_agree_continue">Elfogadás</string>
-    <string name="icon_content_description">Párbeszédpanel ikonja</string>
     <string name="identity">Azonosítás</string>
     <string name="in_progress">Folyamatban</string>
     <string name="inconsistent_pwd">A jelszavak nem egyeznek</string>
@@ -350,7 +343,6 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
     <string name="input_new_pwd">Adjon meg egy új jelszót</string>
     <string name="input_ps">Jelszó megadása</string>
     <string name="io_error_title">Hálózat megerősítése</string>
-    <string name="item_view_role_description">Lap</string>
     <string name="just_a_second">Egy pillanat…</string>
     <string name="keep_phone_ticket_login">Bejelentkezés hitelesítő kóddal</string>
     <string name="kr_license_desc">A Xiaomi Fiók és a Xiaomi Cloud szolgáltatások használata előtt Önnek el kell olvasnia és el kell fogadnia a Felhasználói Szerződésünket és az Adatvédelmi Irányelveinket.</string>
@@ -370,18 +362,6 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
     <string name="login_with_other">További lehetőségek</string>
     <string name="logout_account">Kijelentkezés</string>
     <string name="logout_failed">Sikertelen kijelentkezés</string>
-    <string name="material_clock_toggle_content_description">Válassza ki, hogy délelőtt vagy délután</string>
-    <string name="material_hour_selection">Óra kiválasztása</string>
-    <string name="material_hour_suffix">%1$s óra</string>
-    <string name="material_minute_selection">Perc kiválasztása</string>
-    <string name="material_minute_suffix">%1$s perc</string>
-    <string name="material_timepicker_am">de.</string>
-    <string name="material_timepicker_clock_mode_description">Időbevitelhez váltson óramódba.</string>
-    <string name="material_timepicker_hour">Óra</string>
-    <string name="material_timepicker_minute">Perc</string>
-    <string name="material_timepicker_pm">du.</string>
-    <string name="material_timepicker_select_time">Időpont kiválasztása</string>
-    <string name="material_timepicker_text_input_mode_description">Időbevitelhez váltson szövegbeviteli módba.</string>
     <string name="mi_account">Fiókom</string>
     <string name="mi_health">Xiaomi Health</string>
     <string name="midnight">Éjjel</string>
@@ -398,6 +378,7 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
     <string name="miuix_appcompat_delete_description">Törlés</string>
     <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
+    <string name="miuix_appcompat_edit">Szerkeszt</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
@@ -452,38 +433,6 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
     <string name="month_september_shortest">Szept</string>
     <string name="more">Továbbiak</string>
     <string name="morning">Reggel</string>
-    <string name="mtrl_badge_numberless_content_description">Új értesítés</string>
-    <string name="mtrl_chip_close_icon_content_description">Eltávolítás (%1$s)</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Több mint %1$d új értesítés</string>
-    <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
-    <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
-    <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
-    <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
-    <string name="mtrl_picker_day_of_week_column_header">Napok oszlopa: %1$s</string>
-    <string name="mtrl_picker_invalid_format">Érvénytelen formátum.</string>
-    <string name="mtrl_picker_invalid_format_example">Példa: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Használja ezt: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Érvénytelen tartomány.</string>
-    <string name="mtrl_picker_navigate_to_year_description">Ugrás ehhez az évhez: %1$s</string>
-    <string name="mtrl_picker_out_of_range">Tartományon kívül: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Kezdés dátuma – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Befejezés dátuma</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-    <string name="mtrl_picker_range_header_title">Válasszon dátumtartományt</string>
-    <string name="mtrl_picker_range_header_unselected">Kezdés dátuma – Befejezés dátuma</string>
-    <string name="mtrl_picker_save">Mentés</string>
-    <string name="mtrl_picker_text_input_date_hint">Dátum</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">Befejezés dátuma</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Kezdés dátuma</string>
-    <string name="mtrl_picker_text_input_day_abbr">N</string>
-    <string name="mtrl_picker_text_input_month_abbr">H</string>
-    <string name="mtrl_picker_text_input_year_abbr">É</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Váltás naptárbeviteli módra</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Koppintson a nap kiválasztásához</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Váltás szövegbeviteli módra</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Koppintson az év kiválasztásához</string>
     <string name="multi_user_not_show_sync_activity_message_1">Úgy tűnik, az Első asztalhoz kötött Xiaomi Fiókját használja.</string>
     <string name="multi_user_not_show_sync_activity_message_2">Ebben az esetben az összes adat szinkronizálva lesz a Második asztalra. Ennek elkerülése érdekében ne kapcsolja be a Xiaomi Clouddal való szinkronizálást.</string>
     <string name="multi_user_not_show_sync_activity_title">Ne kapcsolja be a szinkronizálást a Xiaomi Clouddal</string>
@@ -820,7 +769,6 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
     <string name="passport_wrong_phone_number_format">A beírt telefonszám formátuma nem megfelelő</string>
     <string name="passport_wrong_vcode">Hibás ellenőrző kód</string>
     <string name="passport_wrong_voice">Az Ön által megadott kód helytelen</string>
-    <string name="password_toggle_content_description">Jelszó megjelenítése</string>
     <string name="password_view_hide_password">Jelszó elrejtése</string>
     <string name="password_view_show_password">Jelszó megjelenítése</string>
     <string name="permission_group_contacts">Névjegyek</string>
@@ -982,7 +930,7 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
 %2$d. Ha nem tudja visszaállítani jelszavát, vagy valaki zárolta készülékét, keresse fel az i.mi.com weboldalt a zárolás feloldásához.
 %3$d. Az Ön feloldó száma: %4$s"</string>
     <string name="update_apk_version_later">Nem most</string>
-    <string name="update_apk_version_now">Frissítés</string>
+    <string name="update_apk_version_now">Telepítés</string>
     <string name="update_email_address_dialog_message">Az e-mail cím módosítása előtt a személyazonosságának ellenőrzése szükséges.</string>
     <string name="update_email_address_dialog_title">E-mail frissítése</string>
     <string name="update_phone_notice">Biztonsági beállítások módosítása</string>
@@ -994,7 +942,6 @@ Mostantól a csatlakoztatott %s-fiókkal is be tud lépni Xiaomi Fiókjába."</s
     <string name="user_agreement_read_phone_permission_desc">Telefonszámmal történő bejelentkezéshez</string>
     <string name="user_agreement_read_phone_permission_title">Telefonszám-beolvasás</string>
     <string name="user_agreement_use_account_msg">A Xiaomi Fiók lehetővé teszi a Xiaomi által nyújtott összes szolgáltatás elérését.</string>
-    <string name="user_agreement_wifi_permission_title">Wi-Fi be- és kikapcsolása</string>
     <string name="user_agreement_wlan_permission_desc">A bejelentkezési környezet biztonsági problémáinak ellenőrzéséhez</string>
     <string name="user_agreement_wlan_permission_title_china">WLAN be- és kikapcsolása</string>
     <string name="user_avatar_update_title">Profilkép módosítása</string>

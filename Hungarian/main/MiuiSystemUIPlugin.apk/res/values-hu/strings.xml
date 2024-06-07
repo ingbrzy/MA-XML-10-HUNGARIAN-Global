@@ -188,7 +188,7 @@
     <string name="kddi_miui_toast_zen_standard_to_off">A Néma mód ki van kapcsolva. A hívások és az értesítések nem halkulnak el.</string>
     <string name="kddi_miui_toast_zen_to_standard">Átváltott Néma üzemmódra. A hívások és az értesítések elhalkulnak.</string>
     <string name="loading">Státusz ismeretlen</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="midnight">Éjjel</string>
     <string name="miplay_accessibility_cast">Készülék kiválasztása</string>
     <string name="miplay_accessibility_cover">Borító</string>
@@ -201,6 +201,8 @@
     <string name="miplay_bluetooth_share_des_text">"Xiaomi fülhallgatót használók: nyissa ki a töltő tokot, vagy nyomja meg és tartsa lenyomva a tok gombját %ds ideig
 Nem Xiaomi fülhallgatót használók: állítsa vissza a fülhallgatót a Bluetooth beállításokban, majd csatlakoztassa azt"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Fülhallgató hozzáadás hang megosztásához</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Hang megosztása befejződött</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Fülhallgatók hozzáadása a hang megosztásához</string>
     <string name="miplay_bluetooth_share_subTitle_text">A készülék hangjának megosztása mással</string>
     <string name="miplay_bluetooth_share_title_text">Hang megosztása</string>
     <string name="miplay_detail_divider_title">Hangszóró</string>

@@ -122,10 +122,14 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_title_empty">Kiválasztás</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Továbbiak</string>
     <string name="miuix_appcompat_cancel_description">Mégse</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Felhőszinkronizálás kikapcsolva</string>
+    <string name="miuix_appcompat_cloud_state_finished">Felhővel sikeresen szinkronizálva</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Szinkronizálás felhővel…</string>
     <string name="miuix_appcompat_confirm_description">Megerősítés</string>
     <string name="miuix_appcompat_delete_description">Törlés</string>
     <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
+    <string name="miuix_appcompat_edit">Szerkeszt</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
@@ -139,6 +143,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Egyelőre ennyi</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Egy pillanat...…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemek betöltése sikertelen</string>
+    <string name="miuix_search_action_mode_cancel">Mégse</string>
+    <string name="miuix_search_history_clear">Keresési előzmények törlése</string>
+    <string name="miuix_search_history_default_title">Keresési előzmények</string>
+    <string name="miuix_search_recommendation_default_title">Ezek is érdekesek lehetnek</string>
+    <string name="miuix_search_recommendation_item_del_des">Törlés</string>
     <string name="monday">Hétfő</string>
     <string name="monday_short">Hét</string>
     <string name="monday_shortest">Hét</string>
@@ -361,6 +370,7 @@ mm"</string>
     <string name="saturday_shortest">Szo</string>
     <string name="search_menu_title">Keresés</string>
     <string name="send">Küldés</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>

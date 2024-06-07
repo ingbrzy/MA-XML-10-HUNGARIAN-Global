@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbum_total_songs">
-        <item quantity="other">Total %d songs</item>
+        <item quantity="other">Összesen %d dal</item>
         <item quantity="one">Összesen %d dal</item>
     </plurals>
     <plurals name="Nassociate_songs">
@@ -9,39 +9,39 @@
         <item quantity="one">Albumborítók és dalszövegek keresése (%1$d/%2$d)</item>
     </plurals>
     <plurals name="Ndialog_renew_content">
-        <item quantity="other">"Your subscription is expiring in %d days.
-Do you want us to help renew it?"</item>
-        <item quantity="one">"Az előfizetésed %d napon belül lejár.
-Szeretnéd, hogy segítsünk a megújításában?"</item>
+        <item quantity="other">"Az előfizetése %d nap múlva lejár.
+Szeretné, hogy segítsünk megújítani?"</item>
+        <item quantity="one">"Az előfizetése %d nap múlva lejár.
+Szeretné, hogy segítsünk megújítani?"</item>
     </plurals>
     <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">You can download %1$d free songs. Download %2$s now?</item>
-        <item quantity="one">%1$d ingyenes dalt tölthetsz le. %2$s letöltése most?</item>
+        <item quantity="other">%1$d ingyenes dalt tölthet le. %2$s letöltése most?</item>
+        <item quantity="one">%1$d ingyenes dalt tölthet le. %2$s letöltése most?</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">Player will stop in %d minutes</item>
+        <item quantity="other">A lejátszó %d perc múlva leáll</item>
         <item quantity="one">A lejátszó %d perc múlva leáll</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"Created on %1$s 
-total %2$d songs"</item>
-        <item quantity="one">"%1$s elkészül
+        <item quantity="other">"Készült: %1$s 
+összesen %2$d dal"</item>
+        <item quantity="one">"Készült: %1$s 
 összesen %2$d dal"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d song added to playlist</item>
-        <item quantity="one">%d song added to playlist</item>
+        <item quantity="other">%d dal hozzáadva a lejátszási listához</item>
+        <item quantity="one">%d dal hozzáadva a lejátszási listához</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d songs</item>
+        <item quantity="other">%d dal</item>
         <item quantity="one">%d dal</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d songs removed from playlist</item>
+        <item quantity="other">%d dal eltávolítva a lejátszási listáról</item>
         <item quantity="one">%d dal eltávolítva a lejátszási listáról</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d similar songs</item>
+        <item quantity="other">%d hasonló dal</item>
         <item quantity="one">%d hasonló dal</item>
     </plurals>
     <plurals name="a_hour_ago">
@@ -93,19 +93,19 @@ total %2$d songs"</item>
         <item quantity="one">%1$d dal</item>
     </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%d comments</item>
+        <item quantity="other">%d hozzászólás</item>
         <item quantity="one">%d hozzászólás</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%d days ago</item>
+        <item quantity="other">%d nappal ezelőtt</item>
         <item quantity="one">%d nappal ezelőtt</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Delete %d songs?</item>
+        <item quantity="other">Töröl %d dalt?</item>
         <item quantity="one">Töröl %d dalt?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Remove %d songs?</item>
+        <item quantity="other">Eltávolít %d dalt?</item>
         <item quantity="one">Eltávolít %d dalt?</item>
     </plurals>
     <plurals name="dialog_request_delete_permission_descript">
@@ -125,7 +125,7 @@ total %2$d songs"</item>
         <item quantity="one">%s megtekintés</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">%d free downloads left</item>
+        <item quantity="other">%d ingyenes letöltés maradt</item>
         <item quantity="one">%d ingyenes letöltés maradt</item>
     </plurals>
     <plurals name="half_hour_ago">
@@ -133,8 +133,8 @@ total %2$d songs"</item>
         <item quantity="one">Fél órával ezelőtt</item>
     </plurals>
     <plurals name="hide_reason_duration">
-        <item quantity="other">Less than %1$ds</item>
-        <item quantity="one">Less than %1$ds</item>
+        <item quantity="other">Kevesebb, mint %1$d</item>
+        <item quantity="one">Kevesebb, mint %1$d</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Egy óra múlva</item>
@@ -157,11 +157,11 @@ total %2$d songs"</item>
         <item quantity="one">Épp most</item>
     </plurals>
     <plurals name="list_header_fans_count">
-        <item quantity="other">%d followers</item>
+        <item quantity="other">%d követő</item>
         <item quantity="one">%d követő</item>
     </plurals>
     <plurals name="list_header_follow_count">
-        <item quantity="other">Following %d people</item>
+        <item quantity="other">%d személyt követ</item>
         <item quantity="one">%d személyt követ</item>
     </plurals>
     <plurals name="media_store_new_songs_add">
@@ -177,7 +177,7 @@ total %2$d songs"</item>
         <item quantity="one">%d új értesítés</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%d items selected</item>
+        <item quantity="other">%d elem kiválasztva</item>
         <item quantity="one">%d elem kiválasztva</item>
     </plurals>
     <plurals name="num_minutes_ago">
@@ -185,7 +185,7 @@ total %2$d songs"</item>
         <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d followers</item>
+        <item quantity="other">%d követő</item>
         <item quantity="one">%d követő</item>
     </plurals>
     <plurals name="reward_seconds_remaining">
@@ -193,40 +193,40 @@ total %2$d songs"</item>
         <item quantity="one">VIP tagság %d másodperc múlva</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d songs will be sent</item>
+        <item quantity="other">%d dal lesz elküldve</item>
         <item quantity="one">%d dal lesz elküldve</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
-        <item quantity="one">%d dalt átugrott. Meghallgatásukhoz kapcsolja be az online szolgáltatásokat a beállításokban.</item>
+        <item quantity="other">%d dalt átugrott. Meghallgatásukhoz kapcsolja be az online szolgáltatásokat a beállításokban.</item>
+        <item quantity="one">%d dalt átugrott. Meghallgatásához kapcsolja be az online szolgáltatásokat a beállításokban.</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Songs have been favorited.</item>
-        <item quantity="one">Dalok hozzáadva a kedvencekhez.</item>
+        <item quantity="other">Dalok hozzáadva a kedvencekhez.</item>
+        <item quantity="one">Dal hozzáadva a kedvencekhez.</item>
     </plurals>
     <plurals name="songs_count">
-        <item quantity="other">%d songs</item>
+        <item quantity="other">%d dal</item>
         <item quantity="one">%d dal</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">Crossfade between songs: %d seconds</item>
+        <item quantity="other">Áttűnés a dalok között: %d másodperc</item>
         <item quantity="one">Áttűnés a dalok között: %d másodperc</item>
     </plurals>
     <plurals name="task_guide">
-        <item quantity="other">Earn %1$d coins today</item>
-        <item quantity="one">Earn %1$d coin today</item>
+        <item quantity="other">Tegyen szert %1$d érmére még ma</item>
+        <item quantity="one">Tegyen szert %1$d érmére még ma</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">Videos</item>
-        <item quantity="one">Videók</item>
+        <item quantity="other">Videó</item>
+        <item quantity="one">Videó</item>
     </plurals>
     <plurals name="video_play_count">
-        <item quantity="other">%1$s views</item>
-        <item quantity="one">%1$s megtekintése</item>
+        <item quantity="other">%1$s megtekintés</item>
+        <item quantity="one">%1$s megtekintés</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d days remaining</item>
-        <item quantity="one">%d nap maradt</item>
+        <item quantity="other">%d hátralévő nap</item>
+        <item quantity="one">%d hátralévő nap</item>
     </plurals>
     <plurals name="web_reward_dialog_title">
         <item quantity="other">Ha %d másodpercig nézi, VIP tagsággal jutalmazzuk. Biztosan kilép?</item>

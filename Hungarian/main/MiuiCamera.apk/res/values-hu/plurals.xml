@@ -37,8 +37,8 @@
         <item quantity="one">1 perce</item>
     </plurals>
     <plurals name="accessibility_auto_night_tip">
-        <item quantity="other">%d-second timer for Night mode</item>
-        <item quantity="one">%d-second timer for Night mode</item>
+        <item quantity="other">%d másodperces időzítő éjszakai módhoz</item>
+        <item quantity="one">%d másodperces időzítő éjszakai módhoz</item>
     </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">Összpontosítva. %d arc felismerve</item>
@@ -55,14 +55,6 @@
     <plurals name="accessibility_vv_duartion">
         <item quantity="other">Időtartam: %d másodperc</item>
         <item quantity="one">Időtartam: %d másodperc</item>
-    </plurals>
-    <plurals name="cinemaster_toast_camera_overflow">
-        <item quantity="other">Maximálisan %d kamerát csatlakoztathat ugyanahhoz a hálózathoz</item>
-        <item quantity="one">Maximálisan %d kamerát csatlakoztathat ugyanahhoz a hálózathoz</item>
-    </plurals>
-    <plurals name="cinemaster_toast_monitor_overflow">
-        <item quantity="other">Maximálisan %d monitort csatlakoztathat ugyanahhoz a hálózathoz</item>
-        <item quantity="one">Maximálisan %d monitort csatlakoztathat ugyanahhoz a hálózathoz</item>
     </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">Maximálisan %d klónt hozhat létre egyszerre.</item>
@@ -87,10 +79,6 @@
     <plurals name="fastmotion_pro_sec_unit">
         <item quantity="other">%1$d mp</item>
         <item quantity="one">%1$d mp</item>
-    </plurals>
-    <plurals name="friend_mode_display_first_dialog">
-        <item quantity="other">Időzítő bekapcsolva (%1$d mp). A fényképek átkerülnek erre a készülékre.</item>
-        <item quantity="one">Időzítő bekapcsolva (%1$d mp). A fényképek átkerülnek erre a készülékre.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
@@ -127,10 +115,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">1 perce</item>
-    </plurals>
-    <plurals name="number_unit_seconds_split">
-        <item quantity="other">%d mp</item>
-        <item quantity="one">%d mp</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">A készülék túlmelegedett. A kamera %d másodperc múlva bezáródik. A fényképek vagy videók automatikusan mentésre kerülnek.</item>

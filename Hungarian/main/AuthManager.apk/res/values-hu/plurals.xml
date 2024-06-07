@@ -36,10 +36,6 @@
         <item quantity="other">%d perccel ezelőtt</item>
         <item quantity="one">%d perccel ezelőtt</item>
     </plurals>
-    <plurals name="clipboard_read_ai_deny_more">
-        <item quantity="other">%2$d kísérlet blokkolva a vágólaphoz való hozzáféréshez a következő alkalmazás számára: %1$s</item>
-        <item quantity="one">%2$d kísérlet blokkolva a vágólaphoz való hozzáféréshez a következő alkalmazás számára: %1$s</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Fél órával ezelőtt</item>
         <item quantity="one">Fél órával ezelőtt</item>

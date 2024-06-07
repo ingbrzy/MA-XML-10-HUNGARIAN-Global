@@ -88,6 +88,7 @@ További részletek a Beállításokban."</string>
     <string name="fast_connect_device_battery">Akkumulátor</string>
     <string name="fast_connect_device_box">Tok</string>
     <string name="fast_connect_device_box_name">%1$s Doboz</string>
+    <string name="fast_connect_device_button_audio_share_fail">Rendben</string>
     <string name="fast_connect_device_connect_cancel">Mégse</string>
     <string name="fast_connect_device_connect_ok">Csatlakoztatás</string>
     <string name="fast_connect_device_connect_retry">Próbálja újra</string>
@@ -96,6 +97,12 @@ További részletek a Beállításokban."</string>
     <string name="fast_connect_device_headset_l">Bal</string>
     <string name="fast_connect_device_headset_r">Jobb</string>
     <string name="fast_connect_device_headset_reset">Tartsa nyomva a gombot a tokon</string>
+    <string name="fast_connect_device_message_audio_share">Ossza meg az eszköz hangját ezzel a fülhallgatóval</string>
+    <string name="fast_connect_device_replace_current_device">Eszközváltás</string>
+    <string name="fast_connect_device_start_audio_share">Megosztás</string>
+    <string name="fast_connect_device_title_audio_share">Hallgasson zenét ezzel együtt: %1$s</string>
+    <string name="fast_connect_device_title_audio_share_fail">Nem sikerült csatlakozni a követezőhöz: %1$s. Próbálja újra!</string>
+    <string name="fast_connect_device_title_audio_share_success">Zenehallgatás ezzel együtt: %1$s</string>
     <string name="fast_connect_device_title_connect_fail">%1$s csatlakoztatása sikertelen</string>
     <string name="fast_connect_device_title_connecting">Csatlakoztatás…</string>
     <string name="fast_connect_device_title_find_headset">%1$s megkeresése</string>

@@ -48,10 +48,6 @@
         <item quantity="other">Eddig összesen %d hirdetés blokkolva</item>
         <item quantity="one">Eddig összesen %d hirdetés blokkolva</item>
     </plurals>
-    <plurals name="antivirus_desc_not_scanned_virus_in_days">
-        <item quantity="other">%d napja nem volt vizsgálat</item>
-        <item quantity="one">%d napja nem volt vizsgálat</item>
-    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">Tekintsd meg a(z) %1$d új cikket</item>
         <item quantity="one">Tekintsd meg a(z) %1$d új cikket</item>
@@ -59,18 +55,6 @@
     <plurals name="auto_play_next_tips">
         <item quantity="other">Következő videó lejátszása %d másodpercen belül</item>
         <item quantity="one">Következő videó lejátszása %d másodpercen belül</item>
-    </plurals>
-    <plurals name="back_dialog_antivirus_content_des">
-        <item quantity="other">%d napja nem vizsgálta meg a készülékét. Megvizsgálja most?</item>
-        <item quantity="one">%d napja nem vizsgálta meg a készülékét. Megvizsgálja most?</item>
-    </plurals>
-    <plurals name="back_dialog_day">
-        <item quantity="other">nap</item>
-        <item quantity="one">nap</item>
-    </plurals>
-    <plurals name="back_dialog_health_check_content_des">
-        <item quantity="other">%d napja nem optimalizálta a készülékét. Optimalizálja most?</item>
-        <item quantity="one">%d napja nem optimalizálta a készülékét. Optimalizálja most?</item>
     </plurals>
     <plurals name="count_likes">
         <item quantity="other">%s kedvelés</item>
@@ -116,10 +100,6 @@
         <item quantity="other">%d követő</item>
         <item quantity="one">%d követő</item>
     </plurals>
-    <plurals name="hour">
-        <item quantity="other">%d óra</item>
-        <item quantity="one">%d óra</item>
-    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d órával ezelőtt</item>
         <item quantity="one">%1$d órával ezelőtt</item>
@@ -148,6 +128,10 @@
         <item quantity="other">Védve %d alkalommal</item>
         <item quantity="one">Védve %d alkalommal</item>
     </plurals>
+    <plurals name="kindred_coupons_hint">
+        <item quantity="other">Önnek %d kuponja van</item>
+        <item quantity="one">Önnek %d kuponja van</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">%1$s elem sikeresen letöltve</item>
         <item quantity="one">%1$s elem sikeresen letöltve</item>
@@ -159,10 +143,6 @@
     <plurals name="mins_ago">
         <item quantity="other">%1$d perccel ezelőtt</item>
         <item quantity="one">%1$d perccel ezelőtt</item>
-    </plurals>
-    <plurals name="minute">
-        <item quantity="other">%d perc</item>
-        <item quantity="one">%d perc</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elem kiválasztva</item>

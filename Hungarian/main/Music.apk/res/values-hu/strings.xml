@@ -79,6 +79,8 @@
     <string name="afternoon">Délután</string>
     <string name="agreement_desc">Felhasználói szerződés (kötelező)</string>
     <string name="alaka_required">Ezért a dalért fizetnie kell, hogy meghallgathassa</string>
+    <string name="alarm_clock_recommend_desc">Ébredjen minden nap egy új dalra</string>
+    <string name="alarm_clock_recommend_switch">Ajánlott ébresztő dal</string>
     <string name="alarm_clock_ringtones_successful">Riasztás sikeresen beállítva</string>
     <string name="album_cover">Albumborító</string>
     <string name="album_is_empty">Az album neve nem lehet üres.</string>
@@ -103,9 +105,9 @@
     <string name="app_disable_description_title">Letiltja a rendszeralkalmazást?</string>
     <string name="app_notify_dialog_btn_desc">Beállítások</string>
     <string name="app_notify_dialog_check_desc">Kapcsolja be az Értesítési felület modult, de ne engedélyezze az állandó értesítéseket</string>
-    <string name="app_notify_dialog_path">Settings > Notifications &amp; status bar > App notifications > Music</string>
-    <string name="app_notify_dialog_path_10">Settings > Notifications &amp; status bar > App notifications > Music</string>
-    <string name="app_notify_dialog_path_8">Settings > Notifications &amp; status bar > App notifications > Music</string>
+    <string name="app_notify_dialog_path">Beállítások > Értesítések és állapotsáv > Alkalmazásértesítések > Zene</string>
+    <string name="app_notify_dialog_path_10">Beállítások > Értesítések és állapotsáv > Alkalmazásértesítések > Zene</string>
+    <string name="app_notify_dialog_path_8">Beállítások > Értesítések és állapotsáv > Alkalmazásértesítések > Zene</string>
     <string name="app_notify_dialog_subtitle">Kapcsolja be a Mi Zene értesítéseit, hogy a zenelejátszást az Értesítési felületen vezérelhesse.</string>
     <string name="app_notify_dialog_title">Engedélyek szükségesek</string>
     <string name="app_permission_confirm">Értem</string>
@@ -123,7 +125,7 @@
     <string name="apply_for_the_following_permissions">Az alkalmazásnak a következő engedélyekre van szüksége:</string>
     <string name="apply_permissions_greater_than_pie">Ezt az engedélyt a Beállítások > Alkalmazások > Engedélyek > Engedélyek > Fájlok és média > Zene menüpontban adhatja meg.</string>
     <string name="apply_permissions_greater_than_tiramisu">Az engedélyt a Beállítások > Alkalmazások > Engedélyek > Zene és hang/Fényképek és videók > Zene menüpontban adhatja meg.</string>
-    <string name="apply_permissions_less_than_pie">You can grant this permission in Settings > Apps > Permissions > Permissions > Access and change files on internal storage > Music.</string>
+    <string name="apply_permissions_less_than_pie">Ezt az engedélyt a Beállítások > Alkalmazások > Engedélyek > Engedélyek > Fájlok elérése és módosítása a belső tárhelyen > Zene menüpontban adhatja meg.</string>
     <string name="apply_permissions_tips_content">Engedélyezze az alkalmazásnak a fájlok elérését a készüléken lévő zenék felfedezéséhez.</string>
     <string name="artist">Előadók</string>
     <string name="artist_area_all">Összes</string>
@@ -138,15 +140,28 @@
     <string name="artist_home_search_hint">Előadók keresése</string>
     <string name="artist_is_empty">Az előadó neve nem lehet üres.</string>
     <string name="artist_name">Előadó</string>
+    <string name="asm_account_exception">Fiókhiba lépett fel</string>
     <string name="asm_batch_download_failed">Letöltés sikertelen</string>
     <string name="asm_buy_member_success">Sikeresen vásárolt VIP-tagságot</string>
+    <string name="asm_check_video_playing">Videó lejátszása folyamatban. Nem lehet elemet hozzáadni a lejátszási listához.</string>
+    <string name="asm_delete_all">Törlés</string>
+    <string name="asm_delete_all_data">Összes adat törlése</string>
+    <string name="asm_delete_all_data_failed">Az adatok törlése sikertelen. Próbálkozzon újra.</string>
+    <string name="asm_delete_all_data_loading">Egy pillanat…</string>
+    <string name="asm_delete_all_data_no_net">Személyazonossága ellenőrzéséhez és az adatok törléséhez hálózati kapcsolatra van szükség. Csatlakozzon a hálózathoz, és próbálja újra.</string>
+    <string name="asm_delete_all_data_success">Adatok törlése sikeresen lezajlott</string>
+    <string name="asm_delete_all_data_tips">"Ha folytatja, törli az alkalmazás összes adatát, beleértve a dalokat, lejátszási listákat és a böngészési előzményeket.
+Minden tagsági előny és fizetett dal törlődik. A már meglévő tagsági díjakat nem kapja vissza, de nem is kell újból fizetnie.
+Amint úgy dönt, hogy véglegesen törli az összes adatot, ki lesz jelentkezve az alkalmazásból. Minden adatot töröl most?"</string>
+    <string name="asm_delete_data">Adattörlés</string>
+    <string name="asm_delete_data_local_and_online">Offline és streaming szolgáltatási adatok törlése</string>
     <string name="asm_dialog_title_tips">VIP-tagság</string>
     <string name="asm_dialog_vip_confirm_text">Csatlakozás</string>
     <string name="asm_dialog_vip_message">Regisztráljon VIP-tagságra, hogy kiváló minőségű dalokat hallgathasson és még több tartalmat tölthessen le.</string>
     <string name="asm_disable_song_click_tip">Ez a dal szerzői jogi problémák miatt nem elérhető</string>
     <string name="asm_download_failed">Nem sikerült letölteni: \"%1$s\"</string>
     <string name="asm_download_is_downloaded">Dal sikeresen letöltve</string>
-    <string name="asm_download_is_downloaded_hq">Downloaded in HQ</string>
+    <string name="asm_download_is_downloaded_hq">Letöltve a központba</string>
     <string name="asm_download_is_downloading">Letöltés…</string>
     <string name="asm_download_list_not_supported">Nem lehet letölteni néhány dalt ezen a listán</string>
     <string name="asm_download_pending_status_msg">Letöltés előkészítése…</string>
@@ -155,7 +170,7 @@
     <string name="asm_fail_play_song">Nem sikerült letölteni a dalt</string>
     <string name="asm_google_connect_failed">Nem sikerült befejezni a fizetést. Győződjön meg róla, hogy bejelentkezett a Play Áruházba.</string>
     <string name="asm_google_no_goods">Nem sikerült lekérdezni a termékinformációt</string>
-    <string name="asm_google_not_login">Sign in to Google Play and try again</string>
+    <string name="asm_google_not_login">Jelentkezzen be a Play Áruházba és próbálja újra</string>
     <string name="asm_google_pay_success">Google Pay rendelés létrehozva</string>
     <string name="asm_google_query_failed">Nem sikerült lekérdezni a termékinformációt</string>
     <string name="asm_google_service_failed">Nem sikerült elindítani a Google-szolgáltatásokat. Próbálja újra.</string>
@@ -165,9 +180,10 @@
     <string name="asm_network_error">Ellenőrizze a hálózati kapcsolatot</string>
     <string name="asm_new_song_title">Új dalok</string>
     <string name="asm_no_need_download_songs">A dal a letöltési sorban van</string>
-    <string name="asm_no_network">"Couldn't connect to the network"</string>
+    <string name="asm_no_network">Nem sikerült kapcsolódni a hálózathoz</string>
     <string name="asm_not_action_is_local_music">Ezt a műveletet nem lehet elvégezni helyi fájlokon</string>
     <string name="asm_notify_use_mobile_download">Letöltés mobiladattal</string>
+    <string name="asm_online_service_switch">Kapcsolja be az online szolgáltatásokat az alkalmazás beállításaiban</string>
     <string name="asm_page_empty_search">Nincs találat</string>
     <string name="asm_page_error_airplane">Kapcsolja ki a Repülőgépmódot, hogy csatlakozni tudjon</string>
     <string name="asm_page_error_data">Hiba történt</string>
@@ -178,11 +194,11 @@
     <string name="asm_pay_order_generate">Rendelés létrehozása…</string>
     <string name="asm_pay_order_generate_failed">Nem sikerült létrehozni a rendelést</string>
     <string name="asm_pay_query_overtime">A fizetési státusz lekérdezése lejárt</string>
-    <string name="asm_privacy_desc">Wansheng Adatvédelmi irányelvek</string>
-    <string name="asm_privacy_tips_content">Elfogadom a <a href="/link/click">Wansheng Adatvédelmi irányelveit</a>, hogy használni tudjam az online zenei szolgáltatásokat.</string>
-    <string name="asm_privacy_tips_title">Wansheng Adatvédelmi irányelvek</string>
+    <string name="asm_privacy_desc">ASM Adatvédelmi irányelvek</string>
+    <string name="asm_privacy_tips_content">Elfogadom a <a href="/link/click">ASM Adatvédelmi irányelveit</a>, hogy használni tudjam az online zenei szolgáltatásokat.</string>
+    <string name="asm_privacy_tips_title">ASM Adatvédelmi irányelvek</string>
     <string name="asm_pro_center">Tagság</string>
-    <string name="asm_search_result_contain_music">Contains: \"%1$s\"</string>
+    <string name="asm_search_result_contain_music">Tartalmazza: \"%1$s\"</string>
     <string name="asm_song_err_connect">Nem sikerült csatlakozni a szerverhez</string>
     <string name="asm_song_err_not_exist">A kért hangforrás nem létezik</string>
     <string name="asm_song_err_not_exist_clear">A dal nem létezik. Töröltük a sorból.</string>
@@ -196,7 +212,7 @@
     <string name="asm_toast_pay_failed">Nem sikerült a fizetés</string>
     <string name="asm_unknow_album">Ismeretlen album</string>
     <string name="asm_unknow_artist">Ismeretlen előadó</string>
-    <string name="audio_ad_countdown">Skip ad in %ss</string>
+    <string name="audio_ad_countdown">Hirdetés átugrása %s másodperc múlva</string>
     <string name="audio_ad_pass">Hirdetés átugrása</string>
     <string name="audio_picker_title">Dal választása</string>
     <string name="auto_play_switch">Videók automatikus lejátszása</string>
@@ -207,12 +223,12 @@
     <string name="auto_update_tip">A mobiladatokat használva frissítheted a rendszer-alkalmazásokat. Ez addicionális adatdíjakat generálhat.</string>
     <string name="autoplay_is_off">Automatikus lejátszás kikapcsolva</string>
     <string name="autoplay_is_on">Automatikus lejátszás bekapcsolva</string>
-    <string name="available_playlist_name_format">New playlist %d</string>
-    <string name="avatar">Profile photo</string>
+    <string name="available_playlist_name_format">Új lejátszási lista %d</string>
+    <string name="avatar">Profilkép</string>
     <string name="avoid_to_use_traffic_summary">Ne használjon mobil-adatkapcsolatot a zenehallgatáshoz</string>
     <string name="avoid_to_use_traffic_title">Figyelmeztessen, mikor mobiladat-kapcsolatot használ zenelejátszáshoz</string>
     <string name="back">Vissza</string>
-    <string name="back_confirm">Tap again to exit</string>
+    <string name="back_confirm">Érintse meg újra a kilépéshez</string>
     <string name="best_experience">A legjobb élmény</string>
     <string name="billion_char">%s B</string>
     <string name="bluetooth_device">Bluetooth audio készülék</string>
@@ -235,7 +251,7 @@
     <string name="clause_content_third">Hozzájárulását bármikor visszavonhatja a Beállításokban.</string>
     <string name="clear_text_end_icon_content_description">Szöveg törlése</string>
     <string name="clearable_edittext_clear_description">Törlés</string>
-    <string name="click_and_watch_video_tip">Zene lejátszásához koppintson</string>
+    <string name="click_and_watch_video_tip">Zenei videó lejátszásához koppintson</string>
     <string name="click_to_add_album_cover_and_lyric">Albumborító és dalszöveg hozzáadásához koppintson</string>
     <string name="click_to_shuffle">Lejátszás keverve</string>
     <string name="close">Bezárás</string>
@@ -368,6 +384,7 @@
     <string name="download_method">Letöltés</string>
     <string name="download_paused_in_power_save_mode">Bekapcsolt Akkumulátorkímélő esetén a letöltések szünetelnek</string>
     <string name="download_processing">Letöltés…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Letöltés minősége</string>
     <string name="download_quality_summary">További beállítások a letölteni kívánt dalokhoz</string>
     <string name="download_song_quality_title">A letöltött dalok minősége</string>
@@ -384,13 +401,13 @@
     <string name="download_traffic_dialog_negative_button">Várakozás Wi-Fi-re</string>
     <string name="download_traffic_dialog_position_button">Letöltés</string>
     <string name="download_traffic_dialog_position_button_serious">Letöltés mégis</string>
-    <string name="download_traffic_dialog_title">Data usage warning</string>
+    <string name="download_traffic_dialog_title">Adathasználati figyelmeztetés</string>
     <string name="download_traffic_dialog_title_beyond">Adatforgalmi korlát túllépve</string>
     <string name="download_traffic_dialog_title_serious">Túl kevés felhasználható adatforgalma maradt</string>
     <string name="download_while_playing_no_vip_summary">Az online hallgatott dalok automatikus letöltése (kivétel a fizetős tartalom)</string>
     <string name="download_while_playing_summary">Az online hallgatott zenék automatikus letöltése</string>
     <string name="download_while_playing_title">Meghallgatás letöltés alatt</string>
-    <string name="downloaded">Downloaded</string>
+    <string name="downloaded">Letöltve</string>
     <string name="downloading_apk">Letöltés… A folyamatot nyomon követheti az Értesítési felületen.</string>
     <string name="downloading_pause_apk">Szüneteltetve. Az Értesítési felületről újraindítva folytathatja a letöltést.</string>
     <string name="due_date">Lejárati dátum: %s</string>
@@ -463,7 +480,9 @@
     <string name="exo_media_action_repeat_all_description">Összes szám ismétlése</string>
     <string name="exo_media_action_repeat_off_description">Nincs ismétlés</string>
     <string name="exo_media_action_repeat_one_description">Egy szám ismétlése</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Monó</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatív</string>
     <string name="exo_track_role_closed_captions">Felirat</string>
     <string name="exo_track_role_commentary">Kommentár</string>
@@ -501,6 +520,19 @@
     <string name="favorite_tracks">Kedvencek</string>
     <string name="favorites">Kedvencek</string>
     <string name="feed_back">Visszajelzés</string>
+    <string name="feed_back_ad_desc">A Mi Zene egy ingyenes szolgáltatás, amelynek fő bevételi forrása a hirdetésekre épül. A hirdetésekből származó bevételeket arra használjuk, hogy folyamatosan fejlesszük funkcióinkat és szolgáltatásainkat, valamint frissítéseket adjunk ki. Amikor csak lehetséges, csökkentjük a hirdetések számát, hogy még zökkenőmentesebb élményt nyújtsunk Önnek.</string>
+    <string name="feed_back_ad_problem">Túl sok a hirdetés</string>
+    <string name="feed_back_button_text">Visszajelzés küldése</string>
+    <string name="feed_back_button_toast">Visszajelzés sikeresen elküldve</string>
+    <string name="feed_back_icon_problem">Nem találom a Mi Zene ikont</string>
+    <string name="feed_back_iconp_desc">Győződjön meg róla, hogy engedélyezte a Mi Zene kezdőképernyő parancsikon megjelenítését a Beállítások > Alkalmazások > Kezdőképernyő parancsikonok kezelése menüpontban.</string>
+    <string name="feed_back_iconp_generate">A Mi Zene kezdőképernyőjének parancsikonját is létrehozhatja az alábbi koppintással.</string>
+    <string name="feed_back_iconp_text">Parancsikon létrehozása</string>
+    <string name="feed_back_iconp_toast">Kezdőképernyő-parancsikon létrehozása sikeres</string>
+    <string name="feed_back_other">Visszajelzés küldése</string>
+    <string name="feed_back_tab_disappear">A „Megtekintés” fül eltűnt</string>
+    <string name="feed_back_tabd_desc">Ha a Megtekintés fül korábban látható volt, de eltűnt, csatlakozzon a hálózathoz, és indítsa újra az alkalmazást.</string>
+    <string name="feed_back_title">GYIK &amp; visszajelzés</string>
     <string name="file_and_media_permissions_for_display">Hozzáférés a fájlokhoz: beolvasáshoz, megjelenítéshez és helyi fájlok lejátszásához</string>
     <string name="file_not_found">A fájl nem létezik</string>
     <string name="filter_by_MP4">MP4-fájlokat tartalmazó mappák megjelenítése</string>
@@ -579,7 +611,7 @@
     <string name="format_not_support">Ez a formátum nem támogatott.</string>
     <string name="format_unsupported_or_corrupted">A formátum nem támogatott vagy a fájl sérült.</string>
     <string name="fragment_title_artist_album">Albumok</string>
-    <string name="free">Free</string>
+    <string name="free">Ingyenes</string>
     <string name="friday">Péntek</string>
     <string name="friday_short">Pén</string>
     <string name="friday_shortest">Pén</string>
@@ -602,9 +634,9 @@
     <string name="hgm_failed_to_connect_hint">Ellenőrizze a hálózati beállításokat, és próbálja újra. Ha a probléma hungama-kiszolgálóhiba, a lehető leghamarabb kijavítjuk.</string>
     <string name="hgm_has_offline">Nem játszható le a hungama által biztosított zene</string>
     <string name="hgm_network_request_error_toast">Nem sikerült kapcsolódni a hungama-kiszolgálókhoz. Próbálja újra!</string>
-    <string name="hgm_vip_btn_desc">Start free trial</string>
-    <string name="hgm_vip_high_quality">High quality downloads</string>
-    <string name="hgm_vip_no_ads">No ads or limits</string>
+    <string name="hgm_vip_btn_desc">Ingyenes próba kezdése</string>
+    <string name="hgm_vip_high_quality">Jó minőségű letöltések</string>
+    <string name="hgm_vip_no_ads">Reklámok és korlátok nélkül</string>
     <string name="hide_album">Borítóelrejtés</string>
     <string name="hide_lyric">Szövegelrejtés</string>
     <string name="hide_or_add_songs_manually">Rejtett dalok megjelenítése</string>
@@ -617,7 +649,7 @@
     <string name="higher_quality_music">Kiváló minőségű hang</string>
     <string name="higher_quality_music_summary">Online zenehallgatás és letöltés magasabb bitrátán</string>
     <string name="hint_search_songs_playlists_artists">Dalok, lejátszási listák és előadók keresése</string>
-    <string name="home_tab_home">Home</string>
+    <string name="home_tab_home">Kezdőképernyő</string>
     <string name="home_tab_local">Zenéim</string>
     <string name="home_tab_more_music">Még több zene</string>
     <string name="home_tab_online">Online zene</string>
@@ -630,7 +662,7 @@
     <string name="hungama_batch_download_alert_summary_toast">Az egész lejátszási lista letöltéséhez vásároljon előfizetést.</string>
     <string name="hungama_download_subscription_toast">A dal letöltéséhez fizessen elő a hungama Music-ra</string>
     <string name="hungama_free_download_out_summary">Nem tölthet le több dalt ingyen. Szeretne Gold-előfizetést korlátlan dal letöltéséhez?</string>
-    <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
+    <string name="hungama_free_download_out_summary_toast">Ön már letöltött %d dalt. Továbbiak letöltéséhez vásároljon előfizetést.</string>
     <string name="hungama_privacy_desc">A Hungama adatvédelmi irányelve (opcionális)</string>
     <string name="hungama_privacy_tips_content">Az online tartalomhoz való hozzáféréshez el kell fogadnia a <a href="/link/click">Hungama Adatvédelmi irányelvét</a>.</string>
     <string name="hungama_privacy_tips_title">A Hungama Adatvédelmi irányelve</string>
@@ -640,7 +672,7 @@
     <string name="i_know">OK</string>
     <string name="icon_content_description">Párbeszédpanel ikonja</string>
     <string name="imported">Importálva</string>
-    <string name="impunity_declaration_content">You must read and agree with our &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">User Agreement&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Privacy Policy&lt;/a> before using the product.</string>
+    <string name="impunity_declaration_content">A termék használata előtt el kell olvasnia és el kell fogadnia &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Felhasználói szerződésünket&lt;/a> és &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Adatvédelmi irányelveinket&lt;/a>.</string>
     <string name="impunity_declaration_ignore">Ne jelenjen meg újra</string>
     <string name="impunity_declaration_negative_text">Kilépés</string>
     <string name="impunity_declaration_positive_text">Engedélyezés</string>
@@ -707,7 +739,7 @@
     <string name="jump_to_ytb_dialog_desc">Ön épp kilépni készül a Mi Zenéból, és meg fogja nyitni a YouTube-ot. Megnyitja a YouTube-ot?</string>
     <string name="jump_to_ytb_dialog_ok">Megerősítés</string>
     <string name="jump_to_ytb_dialog_title">Kilépés a Mi Zenéből</string>
-    <string name="just_hit_next">Just hit next</string>
+    <string name="just_hit_next">Csak kattintson a következőre</string>
     <string name="ktv_playlist">KTV lejátszási lista</string>
     <string name="language_page_confirm">Megerősítés</string>
     <string name="language_preference">Nyelvpreferenciák</string>
@@ -740,15 +772,44 @@
     <string name="local_page_artist_more">%s további dalai</string>
     <string name="local_page_playlist">Lejátszási listák</string>
     <string name="local_page_song_download_history">Letöltések</string>
+    <string name="lock_screen_music_settings">Zene a Képernyőzár beállításain</string>
+    <string name="lock_screen_settings">Képernyőzár-beállítások</string>
+    <string name="lock_screen_slide_up">Húzza fel a feloldáshoz</string>
+    <string name="lock_screen_switch">Zene a Képernyőzáron</string>
     <string name="login_instantly">Bejelentkezés</string>
     <string name="login_mi_account_and_gain_more_rights">A további funkciókhoz való hozzáféréshez jelentkezzen be a Xiaomi Fiókba.</string>
-    <string name="login_out_tip">"Can't sign out for now. You can clear all app data instead."</string>
+    <string name="login_out_tip">Egyelőre nem tud kijelentkezni. Helyette törölheti az összes alkalmazásadatot.</string>
     <string name="long_press_to_select_lyric">Nyomja hosszan a dal adatainak módosításához</string>
     <string name="lots_of_songs_for_free">Több millió dal ingyenes meghallgatása</string>
     <string name="low_sound_quality">Alacsony</string>
     <string name="lrc_search_failed">Nem található dalszöveg</string>
     <string name="lrc_searching">Keresés…</string>
-    <string name="ludo_tab_guide">Check out our new Music rooms</string>
+    <string name="ludo_tab_guide">Nézze meg új Zene szobáinkat</string>
+    <string name="lyric_ai_apply_fail">Nem lehet használni. Próbálja újra.</string>
+    <string name="lyric_ai_button_text">AI dalszöveg</string>
+    <string name="lyric_ai_dialog_one">•Koppintson a dalszöveg felismeréséhez, és mi beírjuk a dalszöveget az AI hangfelismerési technológiánk segítségével.</string>
+    <string name="lyric_ai_dialog_three">•A folyamat állapotát a dalszöveg eszközsávon ellenőrizheti.</string>
+    <string name="lyric_ai_dialog_two">•A felismerés néhány percig tarthat. Amint kész, a dalszöveget automatikusan beírjuk.</string>
+    <string name="lyric_ai_fail_toast">A fájl túl nagy a felismeréshez</string>
+    <string name="lyric_ai_identify_success">Sikerült felismerni a dalszöveget</string>
+    <string name="lyric_ai_song">Aktuális dal</string>
+    <string name="lyric_ai_song_list">Dalok</string>
+    <string name="lyric_ai_state_apply">Dalszöveg használata</string>
+    <string name="lyric_ai_state_default">A dalt nem sikerült felismerni</string>
+    <string name="lyric_ai_state_fail">Nem sikerült felismerni a dalszöveget</string>
+    <string name="lyric_ai_state_identify">Felismerés</string>
+    <string name="lyric_ai_state_identifying">Egy pillanat…</string>
+    <string name="lyric_ai_state_use">Használat</string>
+    <string name="lyric_ai_title">AI dalszöveg felismerés</string>
+    <string name="lyric_feedback_inaccurate_timing">A dalszövegek nem szinkronizáltak</string>
+    <string name="lyric_feedback_lyrics_error">A teljes dalszöveg rossz</string>
+    <string name="lyric_feedback_misspelling">Helyesírási hibák és elgépelések</string>
+    <string name="lyric_feedback_other">Egyéb</string>
+    <string name="lyric_feedback_pure_music">Instrumentális dal</string>
+    <string name="lyric_feedback_report_optimization">Küldjön be jelentést, hogy segítsen nekünk szolgáltatásaink optimalizálásában</string>
+    <string name="lyric_feedback_submit">Beküldés</string>
+    <string name="lyric_feedback_submit_success">Sikeresen beküldve</string>
+    <string name="lyric_feedback_title">Mondja el a problémát</string>
     <string name="lyric_is_empty">A dalszöveg nem elérhető</string>
     <string name="lyric_label">Dalszöveg</string>
     <string name="lyric_open_other_connect">Dalszöveg letöltése mobiladat-kapcsolattal</string>
@@ -773,7 +834,7 @@
     <string name="material_timepicker_select_time">Időpont kiválasztása</string>
     <string name="material_timepicker_text_input_mode_description">Időbevitelhez váltson szövegbeviteli módba.</string>
     <string name="message_delete_playlist">Törli a(z) %s lejátszási listát?</string>
-    <string name="metered_alert">Data usage warning</string>
+    <string name="metered_alert">Adathasználati figyelmeztetés</string>
     <string name="metered_alert_msg">Mobiladat-kapcsolatot használ a zene lejátszásához. Mindenképp lejátssza?</string>
     <string name="metered_alert_msg_with_data">%s felhasználható adatforgalma maradt. Továbbra is mobiladat-kapcsolatot használ zenelejátszáshoz?</string>
     <string name="metered_allow">Lejátszás</string>
@@ -809,6 +870,7 @@
     <string name="miuix_appcompat_delete_description">Törlés</string>
     <string name="miuix_appcompat_deselect_all">Kijelölések törlése</string>
     <string name="miuix_appcompat_deselect_all_description">Összes kijelölés törlése</string>
+    <string name="miuix_appcompat_edit">Szerkeszt</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Mégse</string>
     <string name="miuix_appcompat_search_input_description">Keresés</string>
     <string name="miuix_appcompat_select_all">Az összes kiválasztása</string>
@@ -881,6 +943,7 @@
     <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
     <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
     <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
     <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
@@ -1009,7 +1072,6 @@
     <string name="online_apk_install_network_error">Nem sikerült csatlakozni a hálózathoz. Ellenőrizze hálózati beállításait, majd próbálja újra.</string>
     <string name="online_apk_install_tips">Egyszer le kell töltenie a tartalomszolgáltató beépülő modulját. Következő alkalommal közvetlenül hozzáférhet a dalokhoz.</string>
     <string name="online_list_delete_message">Az lejátszási lista összes letöltött dala törölve lesz a belső tárhelyről.</string>
-    <string name="online_playlist_category">Lejátszási listák</string>
     <string name="online_recommend">Lejátszási lista</string>
     <string name="online_service_open_tip">Online zeneszolgáltatások már be vannak kapcsolva</string>
     <string name="online_service_title">Online szolgáltatások</string>
@@ -1018,18 +1080,19 @@
     <string name="online_switch_message">Az online szolgáltatások kikapcsolása hatással lesz a VIP szolgáltatásokra és az ajánlásokra. Mégis kikapcsolja?</string>
     <string name="online_switch_setting">Online tartalom beállításai</string>
     <string name="only_pro_can_choose_hd_sound_quality">A HD audió kizárólag Gold-tagok számára érhető el</string>
+    <string name="open_alarm_clock_recommend_switch">Ajánlott ébresztő dal</string>
     <string name="open_online_service">A funkció használatához be kell kapcsolnia az online szolgáltatásokat. Bekapcsolja most?</string>
     <string name="open_service">Bekapcsolás</string>
     <string name="operation_done_close">Bezár</string>
     <string name="other_song_in_album">Más dalok erről az albumról</string>
-    <string name="party">Party</string>
+    <string name="party">Buli</string>
     <string name="passport_access_denied">Hozzáférés megtagadva</string>
     <string name="passport_account_crop_user_avatar">Kép vágása</string>
     <string name="passport_account_empty_user_name">Adja meg a nevét</string>
     <string name="passport_account_error_all_space_user_name">A név kizárólag különleges karaktereket tartalmazhat</string>
     <string name="passport_account_error_invalid_user_name">A név nem tartalmazhat &lt;, >, vagy / karaktereket</string>
-    <string name="passport_account_error_longer_user_name">"Name can't be longer than %d characters"</string>
-    <string name="passport_account_error_shorter_user_name">Name must be longer than %d characters</string>
+    <string name="passport_account_error_longer_user_name">A név nem lehet hosszabb %d karakternél</string>
+    <string name="passport_account_error_shorter_user_name">A névnek %d karakternél hosszabbnak kell lennie</string>
     <string name="passport_account_error_user_name">Ez a becenév érvénytelen. Próbálkozzon egy másikkal.</string>
     <string name="passport_account_invalid_user_avatar">Ez a fénykép érvénytelen. Próbálkozzon egy másikkal.</string>
     <string name="passport_account_name">"Fiók: %1$s "</string>
@@ -1053,7 +1116,6 @@
     <string name="passport_agree">Elfogadás</string>
     <string name="passport_area_code_title">Körzetszám</string>
     <string name="passport_attention">Figyelem</string>
-    <string name="passport_auth_fail_warning">A munkamenet lejárt. Jelentkezzen be újra.</string>
     <string name="passport_back">Vissza</string>
     <string name="passport_bad_authentication">Helytelen felhasználónév vagy jelszó</string>
     <string name="passport_can_not_recevie_verify_code">Nem kapta meg a kódot?</string>
@@ -1075,11 +1137,9 @@
     <string name="passport_doing_query_account">Fiókadatok ellenőrzése…</string>
     <string name="passport_error_auth_fail">Időtúllépés történt. Jelentkezzen be újra.</string>
     <string name="passport_error_device_id">Nem kérhető le a készülékazonosító</string>
-    <string name="passport_error_dup_binded_email">Ez az e-mail-cím már hozzá van rendelve egy másik Xiaomi Fiókhoz.</string>
     <string name="passport_error_empty_password">Írja be a jelszavát</string>
     <string name="passport_error_empty_pwd">A jelszómező nem lehet üres</string>
     <string name="passport_error_empty_user_id">Adja meg a felhasználónevét</string>
-    <string name="passport_error_invalid_bind_address">A megadott e-mail cím érvénytelen.</string>
     <string name="passport_error_length_limit">A megadott szöveg túl hosszú</string>
     <string name="passport_error_network">Nem sikerült csatlakozni a hálózathoz</string>
     <string name="passport_error_no_password_user">Önnek nincs beállított jelszava. Jelentkezzen be SMS segítségével.</string>
@@ -1095,17 +1155,14 @@
     <string name="passport_error_unknown">Ismeretlen hiba</string>
     <string name="passport_error_user_name">A megadott felhasználónév helytelen</string>
     <string name="passport_error_user_password">A jelszavak nem egyeznek</string>
-    <string name="passport_exceed_binded_phone_times_notice">Ez a telefonszám már hozzá van rendelve egy másik Xiaomi Fiókhoz.</string>
     <string name="passport_facebook_login_btn_content_description">Bejelentkezés Facebookkal</string>
     <string name="passport_frequency_try_later">Túl sok próbálkozás. Várjon 1–2 percet, majd próbálja újra.</string>
     <string name="passport_get_login_type_next">Tovább</string>
-    <string name="passport_get_phone_verifycode_exceed_limit">Túl sok hitelesítő kód került elküldésre erre a számra. Várjon 24 órát és próbálja újra.</string>
     <string name="passport_google_login_btn_content_description">Bejelentkezés Google-lal</string>
     <string name="passport_help">Súgó</string>
     <string name="passport_i_know">Értem</string>
     <string name="passport_identification_expired">Az ellenőrzőkód érvényessége lejárt. Kezdje újra.</string>
     <string name="passport_input_captcha_hint">Írja be a kódot</string>
-    <string name="passport_input_email_address_notice">Fiókja hitelesítéséhez ezt az e-mailt használjuk</string>
     <string name="passport_input_password_hint">Írja be a jelszót</string>
     <string name="passport_input_phone_number_hint">Adja meg a telefonszámot</string>
     <string name="passport_input_verify_code">Írja be az ellenőrzőkódot</string>
@@ -1146,39 +1203,35 @@
     <string name="passport_request_error_network">Hálózati hiba történt. Ellenőrizze a hálózati beállításait és próbálja újra.</string>
     <string name="passport_request_error_unknown">Rendszerhiba történt. Lépjen vissza és próbálja újra.</string>
     <string name="passport_request_gallery_permission_message">Hozzáférés biztosítása a Galériához:&lt;br />Profilkép beállításához</string>
-    <string name="passport_resend_email_reach_limit_message">Túl sok hitelesítő e-mail-kérelem érkezett. Ellenőrizze, hogy a hitelesítő e-mail nem a Spam mappába került-e.</string>
-    <string name="passport_resend_email_reach_limit_title">Túl sok kísérlet</string>
     <string name="passport_resend_ticket">Kód újraküldése</string>
     <string name="passport_retry">Próbálja újra</string>
-    <string name="passport_same_new_and_old_pwd">Nem egyezhet meg a jelenlegi jelszóval</string>
     <string name="passport_send_sms_to">Kód elküldve %1$s címre</string>
     <string name="passport_send_too_many_code">Túl sok ellenőrző kód lett elküldve erre a számra. Várjon 24 órát és próbálja újra.</string>
     <string name="passport_sending_vcode">Kód küldése…</string>
-    <string name="passport_service_error">Kiszolgálóhiba</string>
     <string name="passport_set_password_no_phone_msg">Adja hozzá telefonszámát Mi Fiókjának erősebb védelméhez.</string>
     <string name="passport_skip_query_account">Kihagyás</string>
-    <string name="passport_sns_access_token_expired_warning">A munkamenet lejárt. Jelentkezzen be újra a fiók újbóli csatlakoztatásához.</string>
     <string name="passport_sns_bind_limit">Túl sok próbálkozás. Próbálkozzon másféle bejelentkezési módokkal.</string>
     <string name="passport_system_error">A rendszer túlterhelt. Várjon 1–2 percet, majd próbálja újra.</string>
     <string name="passport_talkback_image_captcha">Ellenőrző képkód</string>
     <string name="passport_talkback_switch_image_captcha">Váltás képkódos ellenőrzésre</string>
     <string name="passport_talkback_switch_voice_captcha">Váltás hangkódos ellenőrzésre</string>
     <string name="passport_talkback_voice_captcha">Az ellenőrző hangkód lejátszása</string>
+    <string name="passport_third_sns_service_unavailable">A szolgáltatás nem elérhető. Ellenőrizze, hogy az alkalmazás telepítve van, és nincs letiltva.</string>
     <string name="passport_ticket_send_by_second">Küldés %d múlva</string>
     <string name="passport_to_forget_password">Elfelejtette a jelszavát?</string>
     <string name="passport_to_password_login">Bejelentkezés jelszó használatával</string>
     <string name="passport_to_verify_code_login">Bejelentkezés SMS segítségével</string>
     <string name="passport_unknown_error">Ismeretlen hiba</string>
     <string name="passport_unknown_host_network_error">Ellenőrizze a hálózati beállításokat és próbálja újra</string>
-    <string name="passport_user_agreement_hint_3rd_app">&lt;Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, valamint a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile">&lt;Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%5$s>China Mobile hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom">&lt;Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>, valamint az &lt;a href=%5$s>eSurfing fiókhitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom">&lt;Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%5$s>China Unicom hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_default">&lt;Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, valamint a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%5$s>China Mobile hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>, valamint az &lt;a href=%5$s>eSurfing fiókhitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>Elolvastam és elfogadom a &lt;a href=%1$s>Felhasználói Szerződést&lt;/a> és az &lt;a href=%2$s>Adatvédelmi irányelvet&lt;/a>, a Xiaomi Fiók &lt;a href=%3$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%4$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%5$s>China Unicom hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>.</Data></string>
     <string name="passport_user_agreement_hint_first_login">Amikor először használja a telefonszámát, automatikusan létrehozunk egy fiókot.</string>
-    <string name="passport_user_agreement_hint_with_mobile">&lt;Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%3$s>China Mobile hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_with_telecom">&lt;Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>, valamint az &lt;a href=%3$s>eSurfing fiókhitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_with_unicom">&lt;Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%3$s>China Unicom hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%3$s>China Mobile hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>, valamint az &lt;a href=%3$s>eSurfing fiókhitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>Elolvastam és elfogadom a Xiaomi Fiók &lt;a href=%1$s>Felhasználói Szerződését&lt;/a> és &lt;a href=%2$s>Adatvédelmi irányelvét&lt;/a>, valamint a &lt;a href=%3$s>China Unicom hitelesítési szolgáltatásainak Felhasználási feltételeit&lt;/a>.</Data></string>
     <string name="passport_user_avatar_update_title">Profilkép módosítása</string>
     <string name="passport_user_avatar_uploading">Egy pillanat…</string>
     <string name="passport_user_id_hint">E-mail/Telefonszám/Xiaomi Fiók azonosító</string>
@@ -1217,6 +1270,21 @@
     <string name="play_setting">Visszajátszás</string>
     <string name="play_video_with_traffic">FOLYTATÁS</string>
     <string name="play_video_with_traffic_toast">Ön épp mobiladat-kapcsolatot használ.</string>
+    <string name="playerui_lyric_dialog_cancel">Nem</string>
+    <string name="playerui_lyric_dialog_hint">Engedélyezem a Mi Zene számára, hogy optimalizálás céljából hozzáférjen a hangfájlokhoz</string>
+    <string name="playerui_lyric_dialog_ok">Igen</string>
+    <string name="playerui_lyric_dialog_title">Pontos ez a dalszöveg?</string>
+    <string name="playerui_lyric_edit_hint">Koppintson ide a dalszöveg szerkesztéséhez</string>
+    <string name="playerui_lyric_fun_edit">Dalszöveg szerkesztése</string>
+    <string name="playerui_lyric_fun_font">Szöveg mérete</string>
+    <string name="playerui_lyric_fun_history">Dalszöveg-előzmények</string>
+    <string name="playerui_lyric_fun_research">Keresés újra</string>
+    <string name="playerui_lyric_searching">Keresés…</string>
+    <string name="playerui_lyric_selected">Használja ezt a dalszöveget</string>
+    <string name="playerui_song_dialog_cancel">Elutasítás</string>
+    <string name="playerui_song_dialog_hint">Pontosabb dalszövegek jelenleg nem állnak rendelkezésre. Segíthet nekünk azzal, hogy engedélyezi a Mi Zene számára, hogy optimalizálási célokból hozzáférjen ehhez a hangfájlhoz. Engedélyezi a hozzáférést most?</string>
+    <string name="playerui_song_dialog_ok">Engedélyezés</string>
+    <string name="playerui_song_dialog_title">Hozzáférés engedélyezése a hangfájlokhoz</string>
     <string name="playlist_empty">Nem található lejátszási lista.</string>
     <string name="playlist_title">Lejátszási lista neve</string>
     <string name="playlist_title_is_empty">Lejátszási lista neve nem lehet üres</string>
@@ -1241,9 +1309,11 @@
     <string name="privacy_authorize_revoking">Engedély visszavonása…</string>
     <string name="privacy_desc">Adatvédelmi szabályzat (kötelező)</string>
     <string name="privacy_policy">Adatvédelmi irányelvek</string>
-    <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
-Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
-If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
+    <string name="privacy_policy_title_asm">A zene világa a keze ügyében</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=hu_HU</string>
+    <string name="privacy_request_desc"><Data>"A Mi Zene alkalmazásnak össze kell gyűjtenie a szükséges személyes adatokat, hogy online streamelési szolgáltatásokat nyújthasson Önnek. &lt;a href=\"%1$s\">Adatvédelmi irányelvünkben&lt;/a> elolvashatja, hogyan kezeljük a begyűjtött információkat. Bármikor visszavonhatja a Mi Zene Adatvédelmi irányelvekhez adott hozzájárulását a Beállításokban.
+Olvassa el és fogadja el &lt;a href=\"%2$s\">Felhasználói szerződésünket&lt;/a> és &lt;a href=\"%1$s\">Adatvédelmi irányelveinket&lt;/a> a Mi Zene használata előtt.
+Ha nem fogadja el az előzőekben említett szolgáltatásokat, nem fogja tudni az alkalmazás minden funkcióját használni; azonban az alapvető funkciókat továbbra is elérheti."</Data></string>
     <string name="privacy_request_subtitle">"Üdvözöljük, ez a Zene! Az alkalmazás a következő szolgáltatásokat biztosítja Önnek:
 - Helyi hanglejátszó
 - Online streamelési szolgáltatások"</string>
@@ -1256,10 +1326,10 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="pulluprefreshrecyclerview_loading_finished">Sikeresen betöltve</string>
     <string name="pulluprefreshrecyclerview_loading_running">Betöltés…</string>
     <string name="queue_is_empty">A lejátszási várólista üres.</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data>Read and agree to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Privacy Policy&lt;/a>&lt;/font> to be able to use online music services.&lt;/Data></string>
-    <string name="read_and_agree_hungama_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
-    <string name="read_and_agree_joox_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
-    <string name="read_and_agree_mi_protocol">"&lt;Data>I've read and agreed to the Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_asm_protocol"><Data>Az online zenei szolgáltatások használatához olvassa el és fogadja el az &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ASM Adatvédelmi irányelveit&lt;/a>&lt;/font>.</Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>Elolvastam és elfogadtam a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Adatvédelmi irányelveit&lt;/a>&lt;/font></Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>Elolvastam és elfogadtam a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Adatvédelmi irányelveit&lt;/a>&lt;/font></Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>Elolvastam és elfogadtam a Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Felhasználói szerződését&lt;/a>&lt;/font> és az &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Adatvédelmi irányelveket&lt;/a>&lt;/font></Data></string>
     <string name="read_and_agree_protocol">A folytatás előtt olvassa el és fogadja el a Felhasználói szerződésünket és az Adatvédelmi irányelveinket.</string>
     <string name="ready_to_play">Következőig</string>
     <string name="recently_played">Legutóbb játszott</string>
@@ -1320,7 +1390,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="see_more_videos">További videók</string>
     <string name="select">Kiválasztás</string>
     <string name="select_all">Az összes kiválasztása</string>
-    <string name="select_clip_desc">Select a clip from the song</string>
+    <string name="select_clip_desc">Válasszon egy klipet a dalból</string>
     <string name="select_desc_sub">Legfeljebb %d nyelvet választhat ki</string>
     <string name="select_device">Válasszon készüléket</string>
     <string name="select_displayed_folders">Válassza ki a megjelenítendő mappákat</string>
@@ -1417,9 +1487,10 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="start_to_download">Letöltés…</string>
     <string name="start_to_play">Készen a lejátszásra…</string>
     <string name="start_update">Új verzió telepítése…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Klónozott alkalmazások tárhelye</string>
     <string name="storage_space_permissions_for_display">Hozzáférés tárhelyhez: beolvasáshoz, megjelenítéshez és helyi fájlok lejátszásához</string>
-    <string name="streamloadingtext">Connecting to %s</string>
+    <string name="streamloadingtext">Csatlakozás ehhez: %s</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Vasárnap</string>
     <string name="sunday_short">Vas</string>
@@ -1432,7 +1503,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="tab_artist">Előadók</string>
     <string name="tab_artist_list">Előadók</string>
     <string name="tab_chart">Táblázatok</string>
-    <string name="tab_flow">Watch</string>
+    <string name="tab_flow">Óra</string>
     <string name="tab_folder">Mappák</string>
     <string name="tab_playlist">Lejátszási listák</string>
     <string name="tab_top_results">Legjobb találatok</string>
@@ -1460,9 +1531,9 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="talkback_pre">Előző dal</string>
     <string name="talkback_search">Keresés</string>
     <string name="talkback_show_navigation_draw">Fiók megjelenítése</string>
-    <string name="task_card_button_exchange">Redeem</string>
-    <string name="task_card_message_received_successfully">"You've completed today's tasks. Redeem your coins now!"</string>
-    <string name="task_card_title_received_successfully">Claimed successfully</string>
+    <string name="task_card_button_exchange">Beváltás</string>
+    <string name="task_card_message_received_successfully">Elvégezte a mai napra szánt feladatokat. Igényelje érméit!</string>
+    <string name="task_card_title_received_successfully">Sikeresen igényelve</string>
     <string name="telephone_permissions_for_push">Hívásengedélyek: a Google push-értesítési szolgáltatások nyújtásához</string>
     <string name="terms_of_service">Szolgáltatási feltételek</string>
     <string name="the_anniversary_of_lifting_martial_law">A harci törvény feloldásának évfordulója</string>
@@ -1553,6 +1624,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="today">Ma</string>
     <string name="today_hot_playlist">A mai top lejátszási lista</string>
     <string name="tomorrow">Holnap</string>
+    <string name="tools_settings">Eszközbeállítások</string>
     <string name="top_chart_title">Listák</string>
     <string name="track_play_history_after_login">A lejátszási előzmények megtekintéséhez jelentkezzen be</string>
     <string name="tuesday">Kedd</string>
@@ -1563,7 +1635,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="unknown_artist_name">Ismeretlen előadó</string>
     <string name="unlimited_downloads">Korlátlan letöltések</string>
     <string name="unlimited_offline_songs">Korlátlan offline dal</string>
-    <string name="unlimited_skips">Unlimited skips</string>
+    <string name="unlimited_skips">Korlátlan ugrás</string>
     <string name="update_now">FRISSÍTÉS MOST</string>
     <string name="upgrade_music">Zene frissítése</string>
     <string name="upgrade_music_message">Frissítések készen állnak. Indítsa újra a frissítéshez.</string>
@@ -1576,10 +1648,11 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="upload_playlist_to_hungama_title">Online számok szinkronizálása a hungamával, hogy olyan más készülékeken is elérhetők legyenek, amelyeken az Xiaomi Accountot használod.</string>
     <string name="upload_playlist_to_hungama_toast">Az online számok szinkronizálásra kerülnek a hungamával</string>
     <string name="user_agreement">Felhasználói szerződés</string>
-    <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=hu_HU</string>
+    <string name="user_experience_program_open">A szerzői jogi korlátozások miatt a letöltött dalok lejátszásához be kell jelentkeznie a Felhasználói élmény programba. Ezt a Beállítások > Jelszavak és biztonság > Adatvédelem > Jelentkezzen a felhasználói élmény programba.</string>
     <string name="user_playlist_plaza">Lejátszási listák</string>
     <string name="user_privacy_dialog_negative_text">Mégse</string>
-    <string name="user_privacy_dialog_positive_count_down_text">Withdraw (%ss)</string>
+    <string name="user_privacy_dialog_positive_count_down_text">Visszavonás (%s)</string>
     <string name="user_privacy_dialog_positive_text">Visszavonás</string>
     <string name="user_privacy_setting_group_title">Beleegyezés visszavonása</string>
     <string name="user_privacy_setting_title">A kapcsoló kikapcsolásával visszavonja beleegyezését a Mi Music adatvédelmi irányelveihez.</string>
@@ -1604,7 +1677,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="vip_required">Igényeljen Prémium Dal Csomagot a dal lejátszásához. Ez a dal most kihagyásra került.</string>
     <string name="vip_required_with_song">A(z) %s kizárólag Gold-tagok számára elérhető. Ezt a dalt a rendszer egyelőre kihagyta.</string>
     <string name="voice_search_first_hint">Próbálja ki a hangalapú keresést!</string>
-    <string name="watch_video">Videó nézése</string>
+    <string name="watch_video">Videó megtekintése</string>
     <string name="watermark_label_prefix">AdMob –</string>
     <string name="web_reward_dialog_cancle">Mégse</string>
     <string name="web_reward_dialog_ok">Kilépek</string>
@@ -1644,10 +1717,11 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="youtube_store_dialog_desc">A kedvencekhez hozzáadott online videókat itt találja. Ha egy videó már korábban betöltődött, legközelebb nem kell mobiladatot használnia ahhoz, hogy újra megnézze.</string>
     <string name="youtube_store_dialog_ok">Értem</string>
     <string name="youtube_tab_explore">Felfedezés</string>
-    <string name="youtube_tab_playlist">Playlists</string>
+    <string name="youtube_tab_playlist">Lejátszási listák</string>
     <string name="youtube_tab_popular">Népszerű</string>
     <string name="youtube_tab_radar">Radar</string>
     <string name="youtube_tab_shorts">Rövidek</string>
     <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">Felkapott</string>
+    <string name="ytb_turn_on_sound">Érintse meg a hang bekapcsolásához</string>
 </resources>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Férfi</item>
-        <item>Nő</item>
-    </string-array>
     <string-array name="exo_controls_playback_speeds">
         <item>0,25×</item>
         <item>0,5×</item>
@@ -35,6 +31,10 @@
         <item>Szélsőséges nézetek</item>
         <item>Tudatosan nem észlelhető reklám</item>
         <item>Nem tetszik</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Férfi</item>
+        <item>Nő</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Vissza/Tovább</item>
@@ -83,10 +83,6 @@
     <string-array name="pref_web_permissions_sub_two">
         <item>Korlátozás</item>
         <item>Engedélyezés</item>
-    </string-array>
-    <string-array name="setting_swipe_up_target">
-        <item>Keresés</item>
-        <item>Hírek</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Törlés</item>

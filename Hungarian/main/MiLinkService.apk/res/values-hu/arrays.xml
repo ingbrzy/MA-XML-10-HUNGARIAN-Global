@@ -22,13 +22,13 @@
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Alkalmazás átadás</item>
-        <item>Összekapcsolhatóság/Alkalmazás átadás</item>
+        <item>Összekapcsolhatóság/Alkalmazások</item>
         <item>Alkalmazások átvitele, átadás, átvitel</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Hívások</item>
-        <item>Összekapcsolhatóság/Hívások</item>
-        <item>Hívások</item>
+        <item>Call sync</item>
+        <item>Interconnectivity/Call sync</item>
+        <item>Call sync, cross-device calls, call handoff, calls</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Hálózati segítség</item>
